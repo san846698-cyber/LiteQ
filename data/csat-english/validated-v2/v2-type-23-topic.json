@@ -1,0 +1,1022 @@
+{
+  "type": "주제",
+  "typeNumber": 23,
+  "generatedAt": "2026-03-23",
+  "generator": "claude-sonnet-4-6",
+  "idPrefix": "v2-23",
+  "totalCount": 25,
+  "difficultyDistribution": {
+    "easy": 8,
+    "standard": 12,
+    "challenging": 5
+  },
+  "answerDistribution": {
+    "1": [1, 2, 3, 4, 5],
+    "2": [6, 7, 8, 9, 10],
+    "3": [11, 12, 13, 14, 15],
+    "4": [16, 17, 18, 19, 20],
+    "5": [21, 22, 23, 24, 25]
+  },
+  "questions": [
+    {
+      "id": "v2-23-01",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "easy",
+      "passage": "Sleep deprivation has long been studied in relation to cognitive performance, but recent research highlights its equally serious consequences for emotional regulation. When people go without adequate sleep, the amygdala — the brain region associated with emotional processing — becomes significantly more reactive to negative stimuli. At the same time, the prefrontal cortex, which normally moderates emotional responses, shows reduced connectivity with the amygdala. The result is that sleep-deprived individuals tend to experience stronger negative emotions and have less capacity to regulate them. This imbalance manifests not only in irritability and mood swings but also in heightened anxiety and a reduced ability to empathize with others. Crucially, these emotional effects occur even at levels of sleep restriction that individuals themselves do not perceive as impairing — people often feel they have adapted to getting six hours of sleep when, neurologically, they have not. This makes sleep-related emotional dysregulation a particularly difficult problem to identify and address.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "impact of sleep loss on emotional regulation and reactivity",
+        "cognitive benefits of establishing a consistent sleep schedule",
+        "relationship between anxiety disorders and chronic insomnia",
+        "role of the prefrontal cortex in long-term memory formation",
+        "methods for improving emotional empathy through sleep therapy"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "① 수면 부족이 정서 조절과 반응성에 미치는 영향을 직접 포착합니다. 지문은 \"the amygdala becomes significantly more reactive to negative stimuli\"(편도체가 부정적 자극에 훨씬 더 반응적으로 변한다)와 \"the prefrontal cortex shows reduced connectivity\"(전전두피질의 연결성이 감소한다)를 제시하며, 결과적으로 \"sleep-deprived individuals tend to experience stronger negative emotions and have less capacity to regulate them\"(수면 부족 상태에서는 더 강한 부정적 감정을 경험하면서 이를 조절하는 능력은 떨어진다)고 명시합니다.",
+        "wrong": {
+          "2": "② 수면 스케줄의 인지적 이점을 다루나, 지문은 스케줄이 아닌 수면 부족의 신경학적 결과에 초점을 맞추므로 범위를 벗어납니다.",
+          "3": "③ 불안이 증상 중 하나로 언급되지만, 지문의 주제는 수면 부족으로 인한 더 넓은 정서적 조절 장애이지 불안 장애 자체가 아닙니다.",
+          "4": "④ 기억 형성은 지문에서 전혀 언급되지 않으며, 전전두피질은 오직 감정 조절 역할로만 논의됩니다.",
+          "5": "⑤ 수면 치료법은 전혀 언급되지 않습니다. 지문은 설명적이지, 처방적이지 않습니다."
+        },
+        "key_point": "수면 부족 → 편도체 과활성 + 전전두피질 연결성 감소 → 부정적 감정 증폭 & 조절 능력 저하."
+      },
+      "self_check": {
+        "passage_word_count": 170,
+        "passage_topic": "sleep deprivation impairing emotional regulation via amygdala-prefrontal imbalance",
+        "main_argument": "Sleep deprivation disrupts the amygdala-prefrontal balance, intensifying negative emotions and reducing regulatory capacity — often unnoticed by the individual.",
+        "correct_choice_justification": "Choice 1 directly captures the central claim: sleep loss affects both emotional reactivity and the ability to regulate it.",
+        "distractor_analysis": {
+          "choice_2": "Sleep scheduling is not discussed; the passage focuses on the neurological consequences of deprivation, not schedule benefits.",
+          "choice_3": "Anxiety is one symptom mentioned, but the passage's subject is broader emotional dysregulation caused by sleep loss, not anxiety disorders per se.",
+          "choice_4": "Memory formation is never mentioned; the prefrontal cortex is discussed only in its emotional moderating role.",
+          "choice_5": "Sleep therapy is not discussed; the passage is explanatory, not prescriptive."
+        },
+        "difficulty": "easy — the passage clearly and directly states its thesis; correct answer paraphrases the main point straightforwardly."
+      }
+    },
+    {
+      "id": "v2-23-02",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "easy",
+      "passage": "Across many animal species, color plays a fundamental role in communication between individuals. In some cases, vivid coloration serves as a warning signal — a phenomenon known as aposematism — advertising to potential predators that the animal is toxic or unpalatable. The poison dart frog's brilliant red-and-blue patterning, for example, communicates danger so effectively that predators with prior exposure learn to avoid similarly colored prey. In other species, color functions as camouflage, allowing animals to blend into their environment and evade detection. The Arctic fox shifts from brown in summer to white in winter, tracking seasonal changes in background color. Perhaps most fascinatingly, some animals use color dynamically and within milliseconds — the cuttlefish can ripple complex patterns of color across its skin to confuse predators, attract mates, or communicate with rivals. Whether static or dynamic, animal coloration consistently serves as a channel through which critical survival and reproductive information is transmitted.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "diverse communicative functions of color in the animal kingdom",
+        "evolutionary history of warning coloration in poisonous species",
+        "limitations of camouflage strategies in modern environments",
+        "mechanisms by which predators learn to identify toxic prey",
+        "comparison of static and dynamic color-change abilities in animals"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "① 동물계에서 색의 다양한 의사소통 기능을 정확히 포착합니다. 지문은 경고색(독화살 개구리), 위장(북극여우), 동적 신호(갑오징어) 등 여러 기능을 나열한 뒤 \"animal coloration consistently serves as a channel through which critical survival and reproductive information is transmitted\"(동물의 체색은 생존·번식 정보를 전달하는 채널로 일관되게 기능한다)고 결론짓습니다.",
+        "wrong": {
+          "2": "② 진화적 역사는 전혀 언급되지 않으며, 경고색은 여러 기능 중 하나일 뿐입니다.",
+          "3": "③ 위장 전략의 한계는 언급되지 않습니다. 지문은 위장을 효과적인 것으로 제시합니다.",
+          "4": "④ 포식자 학습은 한 메커니즘으로 간략히 언급될 뿐, 중심 주제가 아닙니다.",
+          "5": "⑤ 정적/동적 색 변화 비교는 마지막 문장에서 잠깐 언급되지만 지문의 주된 구성 원리가 아닙니다."
+        },
+        "key_point": "동물의 체색은 경고·위장·동적 신호 등 다양한 기능을 통해 생존·번식 정보를 전달하는 의사소통 채널이다."
+      },
+      "self_check": {
+        "passage_word_count": 168,
+        "passage_topic": "animal coloration as multi-functional communication channel",
+        "main_argument": "Color in animals serves diverse communicative purposes — warning, camouflage, and dynamic signaling — all ultimately transmitting survival or reproductive information.",
+        "correct_choice_justification": "Choice 1 captures the breadth of the passage's argument: multiple functions of color across different species.",
+        "distractor_analysis": {
+          "choice_2": "Too narrow; evolutionary history is not discussed, and warning coloration is only one of several functions examined.",
+          "choice_3": "Limitations of camouflage are never mentioned; the passage presents camouflage as effective.",
+          "choice_4": "Predator learning is mentioned briefly as one mechanism, not the central focus.",
+          "choice_5": "The static/dynamic comparison is touched on in the last sentence but is not the main organizing principle of the passage."
+        },
+        "difficulty": "easy — the passage is clearly organized around multiple functions; the correct answer uses the word 'diverse' which matches the passage's structure."
+      }
+    },
+    {
+      "id": "v2-23-03",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "In competitive markets, first-mover advantage is often cited as a powerful source of sustained competitive advantage. The logic is intuitive: the first firm to enter a market can establish brand loyalty, lock in key distribution channels, and set industry standards before rivals appear. However, the empirical record reveals a more complicated picture. Many of history's most successful companies were not pioneers but fast followers — firms that entered after the initial innovator had demonstrated demand, revealed product flaws, and educated consumers. Microsoft, for instance, rarely invented the technologies it came to dominate; it refined and marketed them more effectively than their originators. The advantage of the fast follower lies in being able to improve upon an existing concept without bearing the heavy costs of market creation, technical failure, and consumer education that burden pioneers. Being second, it turns out, can be strategically superior to being first — provided the follower is fast and capable enough to capitalize on the pioneer's groundwork.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "strategic advantages of entering a market after the initial innovator",
+        "reasons why brand loyalty is difficult to sustain in competitive markets",
+        "importance of timing product launches to align with consumer demand",
+        "ways that technology companies protect their first-mover advantages",
+        "relationship between innovation investment and long-term market dominance"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "① 시장 진입 후발 주자의 전략적 이점을 정확히 포착합니다. 지문은 \"Being second, it turns out, can be strategically superior to being first\"(두 번째가 첫 번째보다 전략적으로 우월할 수 있다)고 명시하며, 선발 주자가 소비자 교육·기술 실패·시장 개척 비용을 부담하는 반면 후발 주자는 이를 활용할 수 있다고 논증합니다.",
+        "wrong": {
+          "2": "② 브랜드 충성도 유지의 어려움은 논의되지 않습니다. 브랜드 충성도는 선발 주자의 이점으로 잠깐 언급될 뿐입니다.",
+          "3": "③ 제품 출시 타이밍과 소비자 수요 조율은 지문의 핵심이 아닙니다.",
+          "4": "④ 선발 주자 이점 보호 방법은 전혀 언급되지 않으며, 오히려 선발 주자가 지는 경우가 많다고 논증합니다.",
+          "5": "⑤ 혁신 투자와 시장 지배의 관계는 다루지 않습니다. 지문은 R&D 지출이 아닌 진입 순서에 초점을 맞춥니다."
+        },
+        "key_point": "선발 주자 우위 통념과 달리, 빠른 후발 주자는 선발 주자의 비용·실패를 피하면서 이점을 활용할 수 있어 전략적으로 우월하다."
+      },
+      "self_check": {
+        "passage_word_count": 175,
+        "passage_topic": "fast-follower advantage over first-mover in competitive markets",
+        "main_argument": "Despite the common assumption that market pioneers win, fast followers often outperform them by capitalizing on groundwork laid without bearing pioneer costs.",
+        "correct_choice_justification": "Choice 1 precisely captures the passage's counter-intuitive thesis: entering after the pioneer carries strategic advantages.",
+        "distractor_analysis": {
+          "choice_2": "Brand loyalty is mentioned as a pioneer advantage, not as a challenge for sustaining it.",
+          "choice_3": "Timing is relevant but the passage focuses on the pioneer vs. follower distinction, not timing relative to consumer demand specifically.",
+          "choice_4": "Protecting first-mover advantages is never discussed; the passage argues the opposite — pioneers often lose.",
+          "choice_5": "Innovation investment is not the focus; the passage is about the strategic position of follower vs. pioneer, not R&D spending."
+        },
+        "difficulty": "standard — requires recognizing the counter-intuitive argument against conventional first-mover wisdom."
+      }
+    },
+    {
+      "id": "v2-23-04",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "Modern cities generate enormous quantities of data — from traffic sensors and energy meters to mobile devices and surveillance cameras. Urban planners and policymakers have increasingly embraced the concept of the \"smart city,\" in which these data streams are aggregated and analyzed in real time to optimize infrastructure, reduce energy consumption, and improve public services. Proponents argue that data-driven urban management can dramatically improve quality of life, reducing commute times, predicting infrastructure failures, and allocating emergency services more efficiently. Critics, however, raise concerns about the concentration of surveillance power and the risks of algorithmic governance. When decisions about policing, social services, or housing are delegated to automated systems trained on historical data, those systems can embed and amplify existing social inequalities. The smart city, its critics warn, risks becoming a platform for discriminatory management rather than equitable governance, as the people most affected by these systems often have the least ability to challenge or contest algorithmic decisions.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "potential and social risks of data-driven governance in smart cities",
+        "technical challenges of integrating diverse data systems in urban areas",
+        "economic benefits of reducing infrastructure costs through smart technology",
+        "role of citizen participation in designing urban data collection policies",
+        "comparison of smart city models adopted in different countries"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "① 스마트 시티의 잠재력과 사회적 위험을 모두 포착합니다. 지문은 데이터 기반 도시 관리가 \"dramatically improve quality of life\"(삶의 질을 극적으로 개선)할 수 있다는 긍정적 측면을 먼저 제시한 뒤, \"algorithmic governance... can embed and amplify existing social inequalities\"(알고리즘 거버넌스가 기존 사회 불평등을 내재화·증폭할 수 있다)는 비판을 통해 두 측면을 균형 있게 논의합니다.",
+        "wrong": {
+          "2": "② 다양한 데이터 시스템 통합의 기술적 도전은 전혀 언급되지 않습니다. 지문은 공학이 아닌 거버넌스 결과에 초점을 맞춥니다.",
+          "3": "③ 인프라 비용 절감은 여러 혜택 중 하나로만 언급되며, 지문은 반론도 함께 제시합니다.",
+          "4": "④ 시민 참여는 논의되지 않습니다. 오히려 시민이 알고리즘 결정에 이의를 제기하기 어렵다고 언급합니다.",
+          "5": "⑤ 국가별 비교는 이루어지지 않습니다."
+        },
+        "key_point": "스마트 시티는 효율성 혜택과 함께 알고리즘적 사회 불평등 강화라는 위험을 동시에 안고 있다."
+      },
+      "self_check": {
+        "passage_word_count": 178,
+        "passage_topic": "smart city benefits and risks of algorithmic discrimination",
+        "main_argument": "Smart city technologies offer real efficiency benefits but also pose risks of surveillance concentration and algorithmic reinforcement of social inequalities.",
+        "correct_choice_justification": "Choice 1 captures both dimensions the passage explores: the potential (benefits) and social risks (discriminatory governance) of data-driven cities.",
+        "distractor_analysis": {
+          "choice_2": "Technical integration challenges are never mentioned; the discussion is about governance consequences, not engineering.",
+          "choice_3": "Infrastructure cost reduction is mentioned only as one benefit, not the central focus, and the passage also presents counter-arguments.",
+          "choice_4": "Citizen participation is not discussed; the passage actually notes citizens have little ability to challenge algorithmic decisions.",
+          "choice_5": "No cross-country comparison is made; the passage presents a general theoretical argument."
+        },
+        "difficulty": "standard — requires synthesizing the balanced argument (benefits + risks) rather than selecting based on just one side of the discussion."
+      }
+    },
+    {
+      "id": "v2-23-05",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "challenging",
+      "passage": "The concept of narrative identity holds that individuals construct a coherent sense of self by integrating their experiences into an ongoing story — one with a protagonist, a past, and an imagined future. This story is not merely a neutral record of events but a selective and interpretive enterprise: people emphasize experiences that confirm their self-concept and revise or minimize those that contradict it. Psychologist Dan McAdams argues that this life story is the primary means by which adults give their lives meaning and purpose. Crucially, the stories people tell about themselves are not purely personal; they draw heavily on culturally available narrative templates — the hero's journey, the redemption arc, the rags-to-riches story — which provide ready-made structures for organizing experience. In this sense, individual identity is never entirely individual: it is co-authored by the cultural repertoire of stories a person has absorbed. The implication is that as cultural narratives shift — as redemption stories give way to stories of structural victimhood, for example — the ways individuals understand and narrate their own lives shift correspondingly.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "construction of personal identity through culturally shaped self-narratives",
+        "psychological benefits of reinterpreting past failures as learning experiences",
+        "influence of storytelling traditions on cross-cultural moral reasoning",
+        "limitations of using narrative frameworks in clinical psychology",
+        "ways that cultural change alters the social functions of traditional myths"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "① 문화적으로 형성된 자아 서사를 통한 개인 정체성 구성을 정확히 포착합니다. 지문은 \"individual identity is never entirely individual: it is co-authored by the cultural repertoire of stories a person has absorbed\"(개인 정체성은 결코 완전히 개인적이지 않으며, 흡수된 문화적 서사 레퍼토리에 의해 공동 저술된다)고 명시합니다.",
+        "wrong": {
+          "2": "② 과거 실패 재해석의 심리적 이점은 지문의 초점이 아닙니다. 지문은 처방이 아닌 이론적 설명입니다.",
+          "3": "③ 이야기 전통과 문화 간 도덕적 추론의 관계는 다루지 않습니다. 지문은 개인 정체성 형성에 관한 것입니다.",
+          "4": "④ 임상 심리학의 한계는 전혀 언급되지 않습니다.",
+          "5": "⑤ 전통 신화 자체가 분석 대상이 아닙니다. 문화적 서사 템플릿은 개인이 사용하는 도구로 언급됩니다."
+        },
+        "key_point": "인간은 경험을 문화적 서사 템플릿(영웅 여정, 구원 서사 등)에 맞춰 자아 이야기로 구성하므로, 개인 정체성은 문화와 공동 저술된다."
+      },
+      "self_check": {
+        "passage_word_count": 183,
+        "passage_topic": "narrative identity: self-construction via culturally shaped life stories",
+        "main_argument": "Personal identity is built through a selective life narrative that draws on cultural story templates, meaning individual identity is always partly culturally co-authored.",
+        "correct_choice_justification": "Choice 1 captures both the personal construction dimension and the cultural shaping dimension that the passage argues are inseparable.",
+        "distractor_analysis": {
+          "choice_2": "Reinterpreting past failures is never the focus; the passage is theoretical, not prescriptive about coping strategies.",
+          "choice_3": "Cross-cultural moral reasoning is unrelated; the passage discusses individual identity formation, not ethics across cultures.",
+          "choice_4": "Clinical psychology limitations are never mentioned; the passage is theoretical about identity, not applied to therapy.",
+          "choice_5": "Traditional myths are not the subject; cultural narrative templates are mentioned as tools individuals use, not as objects of analysis themselves."
+        },
+        "difficulty": "challenging — requires grasping the abstract intersection of psychology (narrative identity) and cultural theory (co-authorship by cultural repertoire), and choice 3 uses 'storytelling' to tempt misidentification."
+      }
+    },
+    {
+      "id": "v2-23-06",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "easy",
+      "passage": "Microplastics — particles less than five millimeters in diameter — have been detected in virtually every environment scientists have examined, from the depths of ocean trenches to Arctic ice cores. Their widespread presence results from the accumulation and fragmentation of larger plastic debris over decades. While the long-term ecological consequences of microplastic pollution are still being studied, early evidence is concerning. Marine organisms from zooplankton to fish have been found to ingest microplastics, which can block digestive tracts, reduce feeding, and transfer associated chemical contaminants up the food chain. On land, studies have detected microplastics in agricultural soils, where they alter soil structure and may inhibit microbial activity essential to nutrient cycling. Even human blood and lung tissue now show detectable levels of microplastic particles, raising urgent questions about human health risks. The scale and ubiquity of this contamination have led many researchers to describe microplastic pollution as one of the defining environmental challenges of the twenty-first century.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "reduction of plastic production as a solution to marine pollution",
+        "pervasive presence and ecological consequences of microplastic pollution",
+        "technological methods for filtering microplastics from drinking water",
+        "history of international agreements on plastic waste reduction",
+        "chemical composition of different types of plastic debris in oceans"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "② 미세플라스틱 오염의 만연한 존재와 생태적 결과를 정확히 포착합니다. 지문은 \"detected in virtually every environment\"(거의 모든 환경에서 검출)로 편재성을 확인하고, 해양 생물·농경 토양·인체 혈액까지 영향이 미침을 서술하며 \"one of the defining environmental challenges of the twenty-first century\"(21세기의 결정적 환경 과제 중 하나)라고 결론짓습니다.",
+        "wrong": {
+          "1": "① 플라스틱 생산 감축은 해결책으로 전혀 언급되지 않습니다. 지문은 설명적입니다.",
+          "3": "③ 식수 필터링 기술은 논의되지 않습니다.",
+          "4": "④ 국제 협약의 역사는 전혀 언급되지 않습니다.",
+          "5": "⑤ 플라스틱 잔해의 화학적 조성은 주제가 아닙니다. 지문은 환경 내 존재와 영향을 다룹니다."
+        },
+        "key_point": "미세플라스틱은 해양·토양·인체 등 거의 모든 환경에 편재하며 생태계와 건강에 심각한 위협을 가하는 21세기의 환경 과제이다."
+      },
+      "self_check": {
+        "passage_word_count": 172,
+        "passage_topic": "microplastic pollution: ubiquity and ecological/health impacts",
+        "main_argument": "Microplastics are found everywhere and pose documented risks to marine life, soil ecosystems, and potentially human health, making them a defining environmental challenge.",
+        "correct_choice_justification": "Choice 2 captures both the main descriptive claim (pervasive presence) and the argumentative claim (ecological consequences) of the passage.",
+        "distractor_analysis": {
+          "choice_1": "Plastic production reduction is never mentioned as a solution; the passage is explanatory, not prescriptive.",
+          "choice_3": "Water filtration technology is not discussed.",
+          "choice_4": "International agreements are never mentioned.",
+          "choice_5": "Chemical composition is not the focus; the passage discusses the environmental presence and effects, not the chemistry of plastic types."
+        },
+        "difficulty": "easy — the passage has a clear two-part structure (ubiquity + consequences) that the correct answer directly reflects."
+      }
+    },
+    {
+      "id": "v2-23-07",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "easy",
+      "passage": "In the history of Western music, silence has often been treated as merely the absence of sound — a neutral backdrop against which melodies and harmonies occur. John Cage's famous composition 4'33\", in which a performer sits at a piano without playing a single note for four minutes and thirty-three seconds, fundamentally challenged this assumption. Cage argued that silence is not emptiness but an invitation to listen: during a performance, audiences discover that the concert hall is never truly quiet. Coughs, rustling programs, traffic noise, and the sounds of breathing all become the composition. What 4'33\" demonstrated is that music is not defined by sound alone but by the act of attentive listening itself. By directing audience attention toward ambient sound, Cage dissolved the conventional boundary between musical and non-musical sound, arguing that everything we listen to with intention can be music. His work remains a touchstone for debates about the definition of music and the role of the listener as co-creator.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "historical overview of experimental music movements in the twentieth century",
+        "Cage's redefinition of music and silence through attentive listening",
+        "psychological effects of silence on concentration and creative thinking",
+        "influence of ambient noise on the emotional experience of concert audiences",
+        "role of performance venues in shaping how music is perceived"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "② 케이지의 음악과 침묵에 대한 재정의를 정확히 포착합니다. 지문은 4'33\"이 \"music is not defined by sound alone but by the act of attentive listening itself\"(음악은 소리만으로 정의되지 않고 주의 깊은 듣기 행위 자체로 정의된다)를 보여주었다고 명시하며, 케이지가 \"dissolved the conventional boundary between musical and non-musical sound\"(음악적·비음악적 소리의 경계를 허물었다)고 설명합니다.",
+        "wrong": {
+          "1": "① 20세기 실험 음악 운동의 역사적 개요를 다루지 않습니다. 지문은 케이지 한 명에만 초점을 맞춥니다.",
+          "3": "③ 집중력이나 창의적 사고에 대한 침묵의 심리적 효과는 전혀 언급되지 않습니다.",
+          "4": "④ 앰비언트 소음이 청중의 감정적 경험에 미치는 영향은 지문의 주제가 아닙니다.",
+          "5": "⑤ 공연 장소가 음악 인식을 형성하는 역할은 논의되지 않습니다."
+        },
+        "key_point": "케이지의 4'33\"은 침묵을 '텅 빔'이 아닌 '주의 깊게 듣는 초대'로 재정의하며, 음악적·비음악적 소리의 경계를 해체했다."
+      },
+      "self_check": {
+        "passage_word_count": 175,
+        "passage_topic": "John Cage's 4'33\" and the redefinition of music through listening",
+        "main_argument": "Cage's 4'33\" challenges the notion of silence as emptiness and redefines music as attentive listening, dissolving the boundary between musical and non-musical sound.",
+        "correct_choice_justification": "Choice 2 captures the two key moves of the passage: Cage's redefinition of music AND his reframing of silence through the concept of attentive listening.",
+        "distractor_analysis": {
+          "choice_1": "The passage focuses solely on Cage, not on a historical overview of experimental movements.",
+          "choice_3": "Concentration and creative thinking are never discussed; the passage is about musical aesthetics.",
+          "choice_4": "Ambient noise is mentioned as content of 4'33\", but audience emotional experience is not the focus.",
+          "choice_5": "Performance venues are mentioned only incidentally; the argument is about the nature of music and listening."
+        },
+        "difficulty": "easy — the passage is organized around a single argument about one composer's work; the correct answer clearly summarizes both key elements."
+      }
+    },
+    {
+      "id": "v2-23-08",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "For centuries, maps were understood as objective representations of geographic reality — faithful documents that reduced the physical world to a manageable image. Critical cartographers have dismantled this assumption. Every map involves choices: what to include and what to omit, what scale to use, which projection to adopt, what names to assign to places. These choices are never neutral. The Mercator projection, designed for maritime navigation in 1569, distorts the size of landmasses so significantly that Greenland appears larger than Africa, even though Africa is fourteen times bigger. This distortion persisted on classroom walls for centuries, subtly shaping students' spatial perceptions of the world and its regions. Place names, too, encode power: the same body of water has historically been called the Sea of Japan by some and the East Sea by others, and the choice of name reflects political claims and historical grievances. Maps, in short, are rhetorical documents that construct as much as they describe, embedding the perspectives and interests of their makers into what appears to be objective geographic fact.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "technical evolution of cartographic tools from antiquity to the present",
+        "politically constructed and subjective nature of maps as documents",
+        "difficulties of accurately representing spherical surfaces on flat maps",
+        "role of maps in facilitating colonial expansion in the modern era",
+        "impact of digital technology on changing how geographic data is collected"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "② 지도의 정치적으로 구성된 주관적 성격을 정확히 포착합니다. 지문은 \"Maps... are rhetorical documents that construct as much as they describe, embedding the perspectives and interests of their makers into what appears to be objective geographic fact\"(지도는 묘사만큼이나 구성하는 수사적 문서이며, 제작자의 관점과 이해관계를 객관적 지리적 사실처럼 보이는 것 안에 내장한다)고 결론짓습니다.",
+        "wrong": {
+          "1": "① 지도 제작 도구의 기술적 진화는 논의되지 않습니다. 지문은 분석적이지, 그런 의미의 역사적이지 않습니다.",
+          "3": "③ 구면을 평면으로 표현하는 왜곡 문제(메르카토르)는 더 넓은 정치적 논거를 뒷받침하는 증거로만 사용됩니다.",
+          "4": "④ 식민지 확장은 언급되지 않습니다. 지명이 정치적 인코딩의 예로 사용됩니다.",
+          "5": "⑤ 디지털 기술은 전혀 언급되지 않습니다."
+        },
+        "key_point": "지도는 객관적 지리 정보가 아니라, 제작자의 관점·이해관계·권력 관계를 내장한 수사적 구성물이다."
+      },
+      "self_check": {
+        "passage_word_count": 188,
+        "passage_topic": "maps as politically constructed, non-objective rhetorical documents",
+        "main_argument": "Maps are not objective representations but rhetorically constructed documents that embed the choices, perspectives, and political interests of their makers.",
+        "correct_choice_justification": "Choice 2 captures both the non-objective and politically constructed nature that the passage argues for throughout.",
+        "distractor_analysis": {
+          "choice_1": "Technical evolution is not discussed; the passage is analytical, not historical in that sense.",
+          "choice_3": "The spherical-to-flat distortion problem is mentioned (Mercator projection) but only as evidence for the broader political argument, not as the central subject.",
+          "choice_4": "Colonial expansion is not mentioned; the passage uses place names as an example of political encoding, not colonialism specifically.",
+          "choice_5": "Digital technology is never mentioned."
+        },
+        "difficulty": "standard — choice 3 is a plausible distractor since the Mercator example is prominent, but a careful reader recognizes it is used to support the broader rhetorical/political thesis."
+      }
+    },
+    {
+      "id": "v2-23-09",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "Urban heat islands form when natural land cover is replaced by surfaces such as asphalt, concrete, and rooftops that absorb and retain solar heat more efficiently than vegetation. Cities can be several degrees warmer than surrounding rural areas, and this temperature differential widens at night when urban surfaces slowly release accumulated heat. The ecological and public health consequences are significant. Higher temperatures increase energy demand for cooling, which in turn increases greenhouse gas emissions, creating a feedback loop that further warms both the city and the global climate. Heat-related illness and mortality rise disproportionately among urban poor communities with limited access to air conditioning. Researchers have found that strategic interventions — increasing tree canopy coverage, installing green roofs, and replacing dark pavements with reflective materials — can substantially reduce urban temperatures. Importantly, these solutions are not purely technical: their equitable distribution across neighborhoods requires deliberate policy decisions that prioritize communities with the greatest heat exposure and fewest adaptive resources.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "reasons why urban populations are more vulnerable to natural disasters",
+        "causes and health consequences of urban heat islands with mitigation strategies",
+        "importance of international cooperation in addressing global warming trends",
+        "impact of green architecture on property values in urban neighborhoods",
+        "technological challenges of installing cooling systems in dense urban areas"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "② 도시 열섬의 원인, 건강 결과, 완화 전략을 모두 포착합니다. 지문은 아스팔트·콘크리트가 열을 흡수·보유하는 원인을 설명하고, 냉방 수요 증가와 온열 질환 및 사망률 상승이라는 결과를 제시하며, 수목 확대·녹색 지붕·반사 포장재 등의 완화 방안까지 다룹니다.",
+        "wrong": {
+          "1": "① 자연재해는 논의되지 않습니다. 지문은 만성적 온도 상승에 초점을 맞춥니다.",
+          "3": "③ 국제 협력은 언급되지 않습니다. 지문은 도시 수준의 개입에 집중합니다.",
+          "4": "④ 부동산 가치는 전혀 언급되지 않습니다.",
+          "5": "⑤ 냉각 시스템 설치의 기술적 도전은 주제가 아닙니다. 지문은 전략이 실현 가능함을 전제로 형평성 있는 배분으로 논점을 옮깁니다."
+        },
+        "key_point": "도시 열섬은 불투수 포장 표면에서 비롯되며, 에너지 소비·사망률 상승을 초래하지만 수목·녹색 지붕 등으로 완화 가능하다."
+      },
+      "self_check": {
+        "passage_word_count": 182,
+        "passage_topic": "urban heat islands: causes, consequences, and mitigation",
+        "main_argument": "Urban heat islands result from surface material changes, cause health and emissions harms, and can be mitigated through targeted interventions requiring equitable policy design.",
+        "correct_choice_justification": "Choice 2 captures all three components the passage covers: causes, health consequences, and mitigation strategies.",
+        "distractor_analysis": {
+          "choice_1": "Natural disasters are not discussed; the passage focuses on chronic temperature elevation, not acute disaster events.",
+          "choice_3": "International cooperation is not mentioned; the passage focuses on city-level interventions.",
+          "choice_4": "Property values are never discussed.",
+          "choice_5": "Installation challenges are not the subject; the passage presents strategies as feasible and shifts to equity of distribution."
+        },
+        "difficulty": "standard — requires synthesizing the three-part structure of the passage rather than selecting based on the most memorable detail."
+      }
+    },
+    {
+      "id": "v2-23-10",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "In neoclassical economics, prices are treated as signals that aggregate and transmit information dispersed across millions of economic actors. When demand for a commodity rises, its price increases, signaling producers to expand supply and consumers to economize — all without any central coordinator. Friedrich Hayek argued that this price mechanism accomplishes something no central planning authority ever could: it processes knowledge that is inherently local, tacit, and personal — knowledge about particular circumstances of time and place that no single mind or institution could gather and process. However, digital platforms have introduced a new and complicating dynamic. Firms like ride-sharing companies and e-commerce platforms possess asymmetric information advantages: through their apps, they observe demand patterns, user behaviors, and supply conditions in real time and at scale, while individual participants remain largely in the dark. These platforms do not merely respond to prices — they set and adjust them algorithmically, in ways that users cannot observe or contest. The question this raises is whether platform pricing represents a sophisticated extension of the price mechanism Hayek celebrated or, rather, a form of private central planning that undermines the epistemic virtues he attributed to decentralized markets.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "advantages of decentralized markets over government-controlled economic systems",
+        "tension between Hayek's price mechanism theory and algorithmic pricing by digital platforms",
+        "negative effects of digital monopolies on fair competition in global trade",
+        "ways that artificial intelligence improves the efficiency of supply chain management",
+        "historical development of pricing strategies from traditional to digital markets"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "② 하이에크의 가격 메커니즘 이론과 디지털 플랫폼 알고리즘 가격 책정 간의 긴장을 정확히 포착합니다. 지문은 하이에크의 분산 가격 메커니즘 논리를 먼저 설명한 후, 플랫폼이 \"set and adjust them algorithmically, in ways that users cannot observe or contest\"(사용자가 관찰·이의 제기할 수 없는 방식으로 가격을 알고리즘으로 책정·조정한다)고 지적하며, 이것이 하이에크가 찬양한 분산 시장의 인식론적 덕목을 훼손하는 사적 중앙 계획인지 묻습니다.",
+        "wrong": {
+          "1": "① 지문은 단순히 분산 시장 대 정부 통제를 옹호하지 않습니다. 플랫폼이 하이에크의 비전을 훼손하는지를 질문합니다.",
+          "3": "③ 독점과 공정 경쟁은 논의되지 않습니다. 지문은 가격의 인식론적 속성에 관한 것입니다.",
+          "4": "④ 공급망 효율성은 언급되지 않습니다.",
+          "5": "⑤ 가격 전략의 역사적 발전이 주제가 아닙니다."
+        },
+        "key_point": "하이에크의 분산 가격 메커니즘 이론은, 비대칭 정보를 가진 디지털 플랫폼의 알고리즘 가격 책정에 의해 도전받는다."
+      },
+      "self_check": {
+        "passage_word_count": 196,
+        "passage_topic": "Hayek's price mechanism vs. algorithmic pricing by digital platforms",
+        "main_argument": "Hayek's argument that decentralized prices aggregate local knowledge is complicated by digital platforms that exercise asymmetric information and algorithmic price-setting, raising questions about whether this constitutes a form of private central planning.",
+        "correct_choice_justification": "Choice 2 captures the intellectual tension that structures the entire passage: Hayek's theory vs. the new reality of platform pricing.",
+        "distractor_analysis": {
+          "choice_1": "The passage doesn't simply argue for decentralized markets over government control; it questions whether platforms undermine Hayek's vision.",
+          "choice_3": "Monopoly and global trade are not discussed; the passage is about the epistemic nature of pricing, not competition law.",
+          "choice_4": "Supply chain efficiency is not mentioned; the passage is about theoretical questions of information and pricing.",
+          "choice_5": "Historical development of pricing is not the subject; the passage uses historical theory (Hayek) as a lens for analyzing a contemporary phenomenon."
+        },
+        "difficulty": "standard — the passage explains Hayek's theory before applying it; comprehension requires tracking the contrast between decentralized markets and algorithmic platform pricing, but the argumentative structure is clearly telegraphed."
+      }
+    },
+    {
+      "id": "v2-23-11",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "easy",
+      "passage": "Volunteering and community service have long been promoted primarily for their social benefits — the ways they help recipients and strengthen communities. A growing body of psychological research, however, reveals equally significant benefits for the volunteers themselves. Studies consistently find that people who regularly volunteer report higher levels of life satisfaction, lower rates of depression, and greater sense of purpose compared to non-volunteers. The mechanism appears to involve both social connection and what psychologists call \"helper's high\" — a mood-enhancing neurological response associated with acts of giving. Older adults who volunteer show slower cognitive decline and lower rates of early mortality than matched non-volunteers, suggesting that prosocial behavior may have direct physiological benefits. Importantly, these benefits are maximized when volunteering is motivated by genuine concern for others rather than external rewards or social obligations. When people volunteer primarily to fulfill requirements or gain recognition, the psychological benefits are substantially reduced, suggesting that intrinsic motivation is a key moderating variable.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "organizational challenges of managing large-scale volunteer programs",
+        "comparison of volunteering rates across different age groups and cultures",
+        "psychological and health benefits of volunteering for volunteers themselves",
+        "role of schools in promoting community service among adolescents",
+        "impact of economic conditions on levels of charitable giving"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "③ 자원봉사자 자신의 심리적·건강 혜택을 직접적으로 포착합니다. 지문은 \"people who regularly volunteer report higher levels of life satisfaction, lower rates of depression, and greater sense of purpose\"(정기적 자원봉사자들은 더 높은 삶의 만족도, 낮은 우울 비율, 더 큰 목적의식을 보고한다)고 명시하며, 노인의 인지 저하 둔화와 사망률 감소까지 제시합니다.",
+        "wrong": {
+          "1": "① 대규모 자원봉사 프로그램 운영의 조직적 도전은 전혀 다루지 않습니다.",
+          "2": "② 연령대·문화 간 자원봉사율 비교는 이루어지지 않습니다.",
+          "4": "④ 청소년 대상 학교의 역할은 언급되지 않습니다.",
+          "5": "⑤ 경제 조건과 자선 기부는 지문의 논거와 무관합니다."
+        },
+        "key_point": "자원봉사는 수혜자뿐 아니라 봉사자 자신에게도 삶의 만족도 향상·우울 감소·인지 저하 방지 등 심리적·생리적 혜택을 가져다준다."
+      },
+      "self_check": {
+        "passage_word_count": 178,
+        "passage_topic": "psychological and health benefits of volunteering for the volunteers",
+        "main_argument": "Volunteering produces significant psychological and physiological benefits for the volunteers themselves — benefits that depend on intrinsic motivation.",
+        "correct_choice_justification": "Choice 3 directly and completely captures the passage's central topic: the well-being benefits experienced by volunteers.",
+        "distractor_analysis": {
+          "choice_1": "Program management is never discussed.",
+          "choice_2": "No cross-group or cross-cultural comparison is made.",
+          "choice_4": "Schools and adolescents are never mentioned.",
+          "choice_5": "Economic conditions and charitable giving are unrelated to the passage's argument."
+        },
+        "difficulty": "easy — the passage's topic is clearly stated and the correct answer is a straightforward paraphrase."
+      }
+    },
+    {
+      "id": "v2-23-12",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "easy",
+      "passage": "Coral reefs cover less than one percent of the ocean floor yet support an estimated twenty-five percent of all marine species. This disproportionate ecological productivity has puzzled scientists, given that coral reefs typically grow in nutrient-poor tropical waters — a paradox sometimes called the \"Darwin Paradox\" after the naturalist who first noted it. The answer lies in the extraordinarily efficient recycling of nutrients within reef ecosystems. Symbiotic algae called zooxanthellae live within coral tissues and provide corals with up to ninety percent of their energy through photosynthesis, while corals in turn supply the algae with nutrients from their waste products. This tight mutualism creates a nearly closed nutrient cycle that minimizes loss to the surrounding water. Additionally, the complex physical structure of reefs creates thousands of microhabitats, enabling co-existence of species with highly specialized ecological roles. Together, these mechanisms explain how reefs sustain remarkable biodiversity in waters that would otherwise support very little life.\n* mutualism: 상리공생",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "global decline of coral reefs due to rising ocean temperatures",
+        "economic value of coral reefs to coastal fishing communities",
+        "mechanisms that explain coral reefs' extraordinary biodiversity in nutrient-poor waters",
+        "role of zooxanthellae in causing disease outbreaks among coral species",
+        "comparison of biodiversity levels in tropical and temperate marine ecosystems"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "③ 산호초가 영양이 부족한 바다에서 놀라운 생물 다양성을 유지하는 메커니즘을 정확히 포착합니다. 지문은 산호-조류 공생(\"zooxanthellae live within coral tissues and provide corals with up to ninety percent of their energy through photosynthesis\", 주산텔라가 광합성으로 산호에 에너지의 90%를 공급)과 복잡한 미소 서식지 구조라는 두 가지 메커니즘으로 '다윈의 역설'을 설명합니다.",
+        "wrong": {
+          "1": "① 수온 상승으로 인한 산호초 감소는 언급되지 않습니다. 지문은 메커니즘 설명적입니다.",
+          "2": "② 경제적 가치는 전혀 언급되지 않습니다.",
+          "4": "④ 주산텔라는 유익한 공생 생물로 묘사되며, 질병은 언급되지 않습니다.",
+          "5": "⑤ 열대-온대 생태계 비교는 이루어지지 않습니다."
+        },
+        "key_point": "산호초는 산호-주산텔라 공생에 의한 영양 순환과 복잡한 미소 서식지 구조 덕분에 영양 빈약한 바다에서도 극도의 생물 다양성을 유지한다."
+      },
+      "self_check": {
+        "passage_word_count": 184,
+        "passage_topic": "mechanisms explaining coral reef biodiversity despite nutrient-poor waters (Darwin Paradox)",
+        "main_argument": "Coral reefs sustain extreme biodiversity in nutrient-poor waters through efficient nutrient recycling via coral-algae symbiosis and complex microhabitat structure.",
+        "correct_choice_justification": "Choice 3 captures the explanatory goal of the passage: how the biological mechanisms resolve the paradox of high biodiversity in poor waters.",
+        "distractor_analysis": {
+          "choice_1": "Reef decline and temperature rise are not discussed; the passage is mechanistic, not about threats.",
+          "choice_2": "Economic value is never mentioned.",
+          "choice_4": "Zooxanthellae are described as beneficial symbionts; disease is never mentioned.",
+          "choice_5": "No comparison with temperate ecosystems is made."
+        },
+        "difficulty": "easy — the passage is organized around explaining a specific phenomenon, and the correct answer accurately identifies this explanatory goal."
+      }
+    },
+    {
+      "id": "v2-23-13",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "The dominant model in management theory for much of the twentieth century treated workers as rational economic agents whose primary motivation was financial compensation. If you paid people enough, they would work hard; if they underperformed, you adjusted their incentives. This view, derived partly from Frederick Taylor's scientific management principles, reduced motivation to a simple input-output equation. Subsequent research in organizational psychology has progressively undermined this model. Edward Deci and Richard Ryan's self-determination theory proposes that human motivation is fundamentally driven by three innate psychological needs: autonomy (the desire to direct one's own actions), competence (the desire to develop mastery), and relatedness (the desire for meaningful social connection). When work environments satisfy these needs, employees exhibit intrinsic motivation — they pursue tasks because the work itself is meaningful, not merely because of external rewards. Critically, research shows that under certain conditions, introducing external rewards for intrinsically motivated activities can actually reduce motivation — a phenomenon termed the \"overjustification effect.\"",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "importance of competitive wages in reducing employee turnover rates",
+        "effects of automation on workers' sense of competence and autonomy",
+        "shift from financial incentive models to psychological need-based theories of motivation",
+        "role of workplace relationships in preventing professional burnout",
+        "advantages of flexible work arrangements for enhancing job satisfaction"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "③ 금전적 인센티브 모델에서 심리적 욕구 기반 동기 이론으로의 전환을 정확히 포착합니다. 지문은 테일러식 금전적 보상 모델이 데시·라이언의 자기결정이론(자율성·유능감·관계성)으로 대체되었음을 서술하며, \"external rewards for intrinsically motivated activities can actually reduce motivation\"(외적 보상이 내재적 동기를 실제로 감소시킬 수 있다는 '과잉정당화 효과')까지 논의합니다.",
+        "wrong": {
+          "1": "① 경쟁력 있는 임금과 이직률은 다루지 않습니다. 지문은 임금-동기 모델을 비판합니다.",
+          "2": "② 자동화는 언급되지 않습니다.",
+          "4": "④ 번아웃 예방은 주제가 아닙니다.",
+          "5": "⑤ 유연 근무 제도는 언급되지 않습니다."
+        },
+        "key_point": "20세기 금전적 인센티브 모델은 자율성·유능감·관계성이라는 세 가지 심리적 욕구를 중심으로 한 자기결정이론으로 대체되었다."
+      },
+      "self_check": {
+        "passage_word_count": 183,
+        "passage_topic": "shift from financial incentive models to self-determination theory of motivation",
+        "main_argument": "The financial incentive model of worker motivation has been replaced by psychological need-based models (self-determination theory) showing that autonomy, competence, and relatedness drive intrinsic motivation.",
+        "correct_choice_justification": "Choice 3 captures the intellectual shift the passage describes — from external financial models to internal psychological need theories.",
+        "distractor_analysis": {
+          "choice_1": "Competitive wages and turnover are not discussed; the passage critiques rather than supports the wage-motivation model.",
+          "choice_2": "Automation is not mentioned.",
+          "choice_4": "Burnout prevention is not the subject; relatedness is one of three needs discussed, not the main focus.",
+          "choice_5": "Flexible work arrangements are never mentioned."
+        },
+        "difficulty": "standard — requires tracking the contrast between the old financial model and the new psychological model across the passage."
+      }
+    },
+    {
+      "id": "v2-23-14",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "The rise of streaming platforms has fundamentally altered the economics of music consumption. Prior to digital streaming, record labels derived revenue primarily from the sale of physical copies — albums and singles — meaning that consumer ownership of music was the economic backbone of the industry. Streaming replaced ownership with access: for a monthly subscription fee, or for free with advertising, listeners can access virtually the entire history of recorded music on demand. While this arrangement has dramatically increased the volume of music consumption and expanded audiences globally, it has also compressed per-stream royalty rates to fractions of a cent. Independent artists and mid-tier musicians — those without the scale to accumulate hundreds of millions of streams — find it increasingly difficult to generate sustainable income from recorded music alone. As a result, the industry has seen a strategic reorientation: live performance, merchandise, synchronization licensing, and direct fan support platforms have become more economically central, particularly for artists outside the commercial mainstream. Recording, once the industry's core product, has become in many cases a promotional vehicle for these other revenue sources.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "decline in the quality of music production due to digital compression",
+        "strategies that music labels use to promote emerging artists online",
+        "economic restructuring of the music industry driven by streaming",
+        "role of social media influencers in determining popular music trends",
+        "comparison of physical and digital media sales in the entertainment industry"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "③ 스트리밍이 주도한 음악 산업의 경제적 재편을 정확히 포착합니다. 지문은 소유권 기반 수익 → 접근권 기반 수익으로의 전환, 1회 스트리밍당 극히 낮은 로열티, 그리고 \"live performance, merchandise, synchronization licensing, and direct fan support platforms have become more economically central\"(라이브 공연·상품·음악 동기화 라이선스·직접 팬 지원 플랫폼이 경제적으로 더 중요해졌다)는 전략적 재편을 모두 서술합니다.",
+        "wrong": {
+          "1": "① 디지털 압축으로 인한 음질 저하는 전혀 다루지 않습니다.",
+          "2": "② 신예 아티스트를 위한 레이블 전략은 지문의 초점이 아닙니다.",
+          "4": "④ 소셜 미디어 인플루언서는 언급되지 않습니다.",
+          "5": "⑤ 실물 vs. 디지털 미디어 비교는 역사적 배경으로만 언급될 뿐, 스트리밍 지배의 결과 분석으로 나아갑니다."
+        },
+        "key_point": "스트리밍이 소유 기반 수익을 대체하며 로열티를 극도로 압축시켰고, 이로 인해 음악 산업은 라이브 공연·상품·팬 지원 중심으로 경제 구조를 재편했다."
+      },
+      "self_check": {
+        "passage_word_count": 196,
+        "passage_topic": "how streaming has restructured music industry economics",
+        "main_argument": "Streaming replaced ownership-based revenue with access, compressing per-stream payments and forcing a strategic reorientation toward live performance and other revenue sources.",
+        "correct_choice_justification": "Choice 3 captures the passage's central argument: streaming has caused a fundamental economic restructuring of the music industry.",
+        "distractor_analysis": {
+          "choice_1": "Audio quality and digital compression are not discussed; the passage is about economic structure.",
+          "choice_2": "Label strategies for emerging artists are not the focus; the passage discusses industry-wide economic changes.",
+          "choice_4": "Social media influencers are not mentioned.",
+          "choice_5": "While physical vs. digital is touched on historically, the passage moves well beyond simple comparison to analyze the consequences of streaming's dominance."
+        },
+        "difficulty": "standard — the passage covers multiple dimensions of industry change; correct answer requires identifying the unifying theme of economic restructuring."
+      }
+    },
+    {
+      "id": "v2-23-15",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "challenging",
+      "passage": "In philosophy of mind, the \"extended mind\" thesis, proposed by Andy Clark and David Chalmers, challenges the assumption that cognition is confined to the brain and skull. Clark and Chalmers argue that when an external tool or environment plays a functional role equivalent to an internal cognitive process, that tool or environment should be considered part of the cognitive system itself. A person with Alzheimer's disease who relies on a notebook to store information that their biological memory can no longer retain is, on this view, engaging in a genuinely cognitive process — not merely using a cognitive prosthetic. The notebook functions as memory. Critics argue that this extension of mind is too permissive: it would seem to imply that any calculator, smartphone, or search engine constitutes part of our mind whenever we use it. Clark and Chalmers respond that the relevant criterion is not physical location but functional integration — the degree to which an external resource is seamlessly incorporated into the agent's cognitive economy. The debate has significant implications for how we conceptualize intelligence, responsibility, and cognitive enhancement.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "ethical challenges of enhancing human cognition through external technologies",
+        "comparison of biological and artificial memory storage in modern devices",
+        "the extended mind thesis and debate over whether cognition can include external tools",
+        "impact of smartphone dependency on reducing natural memory capacity",
+        "relationship between language and thought in contemporary philosophy of mind"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "③ 확장된 마음 논제와 그것이 불러일으키는 논쟁을 정확히 포착합니다. 지문은 클라크·찰머스의 논제(\"when an external tool plays a functional role equivalent to an internal cognitive process, that tool should be considered part of the cognitive system\", 외부 도구가 내부 인지 과정과 동등한 기능을 수행하면 인지 체계의 일부로 보아야 한다)를 소개하고, 비판과 반론(물리적 위치 vs. 기능적 통합 기준)까지 다룹니다.",
+        "wrong": {
+          "1": "① 인지 향상의 윤리적 도전은 마지막 문장의 함의로만 잠깐 언급됩니다.",
+          "2": "② 생물학적 vs. 인공적 기억 저장의 기술적 비교는 이루어지지 않습니다.",
+          "4": "④ 스마트폰 의존으로 인한 기억 능력 감소는 논의되지 않습니다.",
+          "5": "⑤ 언어와 사고의 관계는 다루지 않습니다."
+        },
+        "key_point": "확장된 마음 논제는 두뇌 밖의 도구도 인지 체계의 일부가 될 수 있다고 주장하며, 물리적 위치가 아닌 기능적 통합을 기준으로 삼아야 한다는 논쟁을 낳는다."
+      },
+      "self_check": {
+        "passage_word_count": 195,
+        "passage_topic": "extended mind thesis: cognition beyond the brain and the debate it raises",
+        "main_argument": "Clark and Chalmers' extended mind thesis proposes that external tools can constitute genuine parts of the cognitive system, and the debate centers on what criterion (physical location vs. functional integration) determines cognitive inclusion.",
+        "correct_choice_justification": "Choice 3 captures both the thesis (extended mind) and the passage's central activity (a philosophical debate about whether cognition can include external tools).",
+        "distractor_analysis": {
+          "choice_1": "Ethical challenges of cognitive enhancement are mentioned only in the final sentence as an implication; they are not the central focus.",
+          "choice_2": "Biological vs. artificial memory storage is not a comparison made in the passage; the focus is philosophical, not technical.",
+          "choice_4": "Smartphone dependency reducing memory is not discussed; smartphones are mentioned only as an example in the debate.",
+          "choice_5": "Language and thought are not discussed; the passage is about the physical boundaries of cognition."
+        },
+        "difficulty": "challenging — the passage uses technical philosophical terminology (extended mind, cognitive economy, functional integration) and the correct answer must identify both the thesis and the debate around it."
+      }
+    },
+    {
+      "id": "v2-23-16",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "easy",
+      "passage": "Physical exercise has long been associated with improvements in mood and mental health, but researchers have increasingly sought to understand the specific mechanisms behind these effects. One well-established pathway involves the release of endorphins, naturally occurring chemicals that reduce pain perception and produce feelings of euphoria. The so-called \"runner's high\" is a commonly reported example. However, more recent research suggests that endorphins may not be the whole story. Studies using drugs that block endorphin receptors find that exercise still improves mood, pointing to other mechanisms. One leading candidate is brain-derived neurotrophic factor (BDNF), a protein that promotes the growth and maintenance of neurons and is released during aerobic activity. Elevated BDNF levels have been associated with improved mood, reduced anxiety, and enhanced cognitive function. Exercise also promotes neurogenesis — the growth of new neurons — in the hippocampus, a brain region critical to memory and emotional regulation. Together, these findings suggest that exercise benefits mental health through multiple biological pathways, not merely the endorphin system.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "types of physical exercise most effective for treating clinical depression",
+        "social benefits of participating in team sports for young adults",
+        "historical development of research on exercise and mental health",
+        "multiple biological mechanisms linking exercise to mental health benefits",
+        "relationship between physical fitness levels and academic performance"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ 운동을 정신 건강 혜택과 연결하는 다중 생물학적 메커니즘을 정확히 포착합니다. 지문은 엔도르핀 경로만이 아닌 BDNF(\"promotes the growth and maintenance of neurons\", 뉴런의 성장·유지를 촉진)와 해마 신경 발생까지 제시하며, \"exercise benefits mental health through multiple biological pathways, not merely the endorphin system\"(운동은 엔도르핀 시스템만이 아닌 다중 생물학적 경로로 정신 건강에 도움이 된다)고 결론짓습니다.",
+        "wrong": {
+          "1": "① 임상 우울증 치료에 가장 효과적인 운동 유형은 논의되지 않습니다. 지문은 메커니즘적이지, 임상적이지 않습니다.",
+          "2": "② 팀 스포츠의 사회적 혜택은 전혀 언급되지 않습니다.",
+          "3": "③ 연구의 역사적 발전은 주제가 아닙니다. 지문은 현재의 발견들을 제시합니다.",
+          "5": "⑤ 학업 성취는 전혀 언급되지 않습니다."
+        },
+        "key_point": "운동은 엔도르핀뿐 아니라 BDNF 분비와 해마 신경 발생이라는 다중 생물학적 경로를 통해 정신 건강을 향상시킨다."
+      },
+      "self_check": {
+        "passage_word_count": 183,
+        "passage_topic": "multiple biological mechanisms by which exercise improves mental health",
+        "main_argument": "Exercise improves mental health through several biological pathways beyond endorphins, including BDNF release and hippocampal neurogenesis.",
+        "correct_choice_justification": "Choice 4 directly captures the passage's thesis: it is not one mechanism but multiple biological mechanisms that link exercise to mental health.",
+        "distractor_analysis": {
+          "choice_1": "Types of exercise for depression treatment are not discussed; the passage is mechanistic, not clinical.",
+          "choice_2": "Team sports and social benefits are not mentioned.",
+          "choice_3": "Historical development of research is not the subject; the passage presents current findings.",
+          "choice_5": "Academic performance is not mentioned."
+        },
+        "difficulty": "easy — the final sentence explicitly states the thesis ('multiple biological pathways'), making the correct answer readily identifiable."
+      }
+    },
+    {
+      "id": "v2-23-17",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "Traditionally, the relationship between science and technology was understood as unidirectional: science produced knowledge, and technology applied that knowledge to practical problems. This sequencing — basic research first, application second — was institutionalized in postwar science policy, most influentially through Vannevar Bush's 1945 report Science, the Endless Frontier, which argued that government investment in basic research would eventually yield technological and economic dividends. However, historians and philosophers of science have increasingly argued that this linear model distorts the actual relationship. Many important scientific breakthroughs emerged not from the pure pursuit of abstract knowledge but from the process of trying to make technologies work. The development of thermodynamics as a scientific discipline, for example, arose largely from practical efforts to improve the efficiency of steam engines, not the other way around. Similarly, the invention of the transistor depended on materials science and quantum mechanical insights that were developed partly in response to engineering needs. Technology, on this view, is not merely the application of science — it is also one of science's most productive laboratories.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "economic arguments for increasing government funding of basic science research",
+        "differences between applied and theoretical science in academic institutions",
+        "role of wartime necessity in accelerating technological innovation",
+        "challenge to the linear model of science preceding and enabling technology",
+        "importance of interdisciplinary collaboration for scientific breakthroughs"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ 과학이 기술에 선행한다는 선형 모델에 대한 도전을 정확히 포착합니다. 지문은 열역학이 \"arose largely from practical efforts to improve the efficiency of steam engines\"(증기 기관 효율 개선을 위한 실용적 노력에서 비롯되었다)고 예시하며, \"Technology is not merely the application of science — it is also one of science's most productive laboratories\"(기술은 과학의 응용만이 아니라 과학의 가장 생산적인 실험실 중 하나다)라고 결론짓습니다.",
+        "wrong": {
+          "1": "① 지문은 부시의 논거를 반박하기 위해 인용할 뿐, 기초 연구 지원 증가를 옹호하지 않습니다.",
+          "2": "② 학문적 응용과학·이론과학의 차이는 주제가 아닙니다.",
+          "3": "③ 전시(戰時) 필요성은 언급되지 않습니다.",
+          "5": "⑤ 학제 간 협력은 논의되지 않습니다."
+        },
+        "key_point": "과학 → 기술의 단방향 선형 모델은 역사적으로 부정확하며, 기술이 오히려 과학적 통찰을 자극하는 사례(열역학, 트랜지스터)가 더 많다."
+      },
+      "self_check": {
+        "passage_word_count": 193,
+        "passage_topic": "critique of the linear model of science preceding technology",
+        "main_argument": "The conventional view that science generates knowledge which technology then applies is historically inaccurate; technology frequently stimulates scientific insight rather than merely applying it.",
+        "correct_choice_justification": "Choice 4 identifies the passage's central intellectual move: challenging the linear model and inverting or complicating the assumed direction of the science-technology relationship.",
+        "distractor_analysis": {
+          "choice_1": "The passage references Bush's argument only to challenge it; it does not advocate for increased basic research funding.",
+          "choice_2": "The applied/theoretical distinction in academia is not the focus; the passage is about the historical relationship between science and technology.",
+          "choice_3": "Wartime necessity is not mentioned; steam engines and transistors are examples of technology driving science.",
+          "choice_5": "Interdisciplinary collaboration is not discussed."
+        },
+        "difficulty": "standard — requires understanding the argumentative structure: the passage presents the conventional view and then dismantles it."
+      }
+    },
+    {
+      "id": "v2-23-18",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "The practice of solitary confinement — isolating prisoners in individual cells for twenty-two to twenty-four hours a day — has been defended on grounds of institutional safety, as a means of managing the most dangerous or disruptive inmates. However, a large body of research in psychiatry and neuroscience has concluded that prolonged isolation causes severe and often irreversible psychological harm. Studies document that after as few as a few days of isolation, individuals begin to experience perceptual distortions, anxiety, hallucinations, and cognitive decline. The human nervous system, shaped by evolutionary pressures toward social existence, appears fundamentally ill-equipped to tolerate the absence of meaningful social interaction. Critics argue that solitary confinement therefore constitutes a form of torture, regardless of its institutional justification, and that its use violates international human rights standards. Several countries and some states in the United States have moved to restrict or eliminate solitary confinement, replacing it with therapeutic and rehabilitative approaches to managing difficult inmates.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "benefits of solitary confinement in maintaining prison safety and order",
+        "economic costs of maintaining solitary confinement units in prisons",
+        "debate on long-term memory loss as a consequence of social isolation",
+        "psychological harms of solitary confinement and the case against its use",
+        "comparison of rehabilitation success rates across different prison management systems"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ 독방 감금의 심리적 해악과 그 폐지 논거를 모두 포착합니다. 지문은 \"perceptual distortions, anxiety, hallucinations, and cognitive decline\"(지각 왜곡·불안·환각·인지 저하)이라는 증거를 제시하고, 비평가들이 이를 \"a form of torture\"(고문의 일종)로 규정하며 국제 인권 기준 위반이라고 주장한다고 서술합니다.",
+        "wrong": {
+          "1": "① 지문의 입장과 정반대입니다. 지문은 이 정당성을 제시한 뒤 반박합니다.",
+          "2": "② 경제적 비용은 전혀 언급되지 않습니다.",
+          "3": "③ 장기 기억 손실이 구체적 초점이 아닙니다. 지문은 인지 저하를 여러 영향 중 하나로 언급합니다.",
+          "5": "⑤ 재활 성공률 비교는 이루어지지 않습니다."
+        },
+        "key_point": "독방 감금은 며칠 내에 환각·인지 저하 등 심각한 심리적 해악을 유발하며, 비평가들은 이를 국제 인권 기준을 위반하는 고문으로 규정한다."
+      },
+      "self_check": {
+        "passage_word_count": 182,
+        "passage_topic": "psychological harm of solitary confinement and human rights critique",
+        "main_argument": "Solitary confinement causes severe psychological harm and constitutes a human rights violation, leading to calls for its restriction or elimination.",
+        "correct_choice_justification": "Choice 4 captures both the evidential claim (psychological harms) and the normative claim (the case against its use) that structure the passage.",
+        "distractor_analysis": {
+          "choice_1": "Directly contradicts the passage's position; the passage acknowledges this justification only to challenge it.",
+          "choice_2": "Economic costs are never mentioned.",
+          "choice_3": "Long-term memory loss as the specific harm is not the passage's focus; it mentions cognitive decline as one of many psychological effects.",
+          "choice_5": "Rehabilitation success rates are not compared; the passage mentions therapeutic alternatives only briefly."
+        },
+        "difficulty": "standard — choice 1 is a plausible trap for students who read only the first sentence; careful readers will recognize the passage's critical stance."
+      }
+    },
+    {
+      "id": "v2-23-19",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "When consumers encounter a product associated with a celebrity, their evaluation of that product is often influenced not by any logical connection between the celebrity and the product but by a process psychologists call evaluative conditioning. Simply by being repeatedly paired with a liked or admired person, a product can acquire some of that person's positive associations. The phenomenon helps explain why brands pay millions to have athletes endorse running shoes, actors appear in perfume advertisements, or musicians partner with beverage companies — even when those celebrities have no particular expertise relevant to the product. Research has also shown that the effectiveness of celebrity endorsement is moderated by the concept of \"match-up\" — the perceived fit between the celebrity's image and the product category. A rugged outdoor adventurer endorsing energy drinks creates a stronger positive transfer of associations than endorsing luxury watches, because the fit is more intuitively coherent. Conversely, a mismatch can actually harm brand perception if consumers notice and react to the incongruence between endorser identity and product values.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "financial strategies that companies use to negotiate celebrity endorsement contracts",
+        "reasons why celebrity scandals disproportionately harm brand partnerships",
+        "influence of social media followers on the effectiveness of celebrity advertising",
+        "how celebrity endorsement affects consumer evaluation through psychological conditioning",
+        "ways to select the most cost-effective celebrity spokesperson for a product"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ 심리적 조건화를 통한 유명인 광고의 소비자 평가 영향을 정확히 포착합니다. 지문은 \"simply by being repeatedly paired with a liked or admired person, a product can acquire some of that person's positive associations\"(좋아하거나 존경하는 사람과 반복적으로 짝지어지는 것만으로도 제품이 그 사람의 긍정적 연상을 획득할 수 있다)는 평가적 조건화 메커니즘과, '매치업' 효과(유명인 이미지와 제품 카테고리의 부합도)까지 설명합니다.",
+        "wrong": {
+          "1": "① 계약 협상 전략은 논의되지 않습니다.",
+          "2": "② 유명인 스캔들이 브랜드에 미치는 영향은 언급되지 않습니다.",
+          "3": "③ 소셜 미디어 팔로워 수는 논의되지 않습니다.",
+          "5": "⑤ 비용 효율적인 대변인 선택은 지문의 주제가 아닙니다. 심리적 메커니즘 설명이 핵심입니다."
+        },
+        "key_point": "유명인 광고는 평가적 조건화(긍정적 연상 전이)와 유명인-제품 매치업(부합도)이라는 심리 메커니즘으로 소비자의 제품 평가에 영향을 미친다."
+      },
+      "self_check": {
+        "passage_word_count": 189,
+        "passage_topic": "psychology of celebrity endorsement: evaluative conditioning and match-up",
+        "main_argument": "Celebrity endorsements work through evaluative conditioning (association transfer) and are most effective when there is a strong match-up between celebrity image and product category.",
+        "correct_choice_justification": "Choice 4 identifies the passage's central explanatory argument: endorsements influence consumer evaluation through psychological conditioning mechanisms.",
+        "distractor_analysis": {
+          "choice_1": "Contract negotiations are not discussed.",
+          "choice_2": "Celebrity scandals are not mentioned.",
+          "choice_3": "Social media followers are not discussed.",
+          "choice_5": "Cost-effectiveness and spokesperson selection strategy are not the subject; the passage explains the psychological mechanism, not how to optimize it."
+        },
+        "difficulty": "standard — requires distinguishing between the psychological explanation (the passage's subject) and the practical implications of celebrity marketing."
+      }
+    },
+    {
+      "id": "v2-23-20",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "challenging",
+      "passage": "Soil is commonly understood as an inert substrate — a passive medium in which plants grow and upon which buildings stand. This view, while intuitive, fundamentally misrepresents what soil actually is: a living ecosystem of extraordinary complexity. A single teaspoon of healthy agricultural soil can contain more microorganisms than there are people on Earth. These organisms — bacteria, fungi, archaea, nematodes, protozoa, and countless others — are not mere bystanders but active engineers of soil chemistry, structure, and fertility. Mycorrhizal fungi, for instance, extend their networks through soil to connect the root systems of multiple plants, transferring carbon, water, and nutrients between hosts in exchanges that can benefit or disadvantage individual plants depending on ecological context. The health of this subterranean microbiome directly determines the fertility and carbon-sequestration capacity of soil. Industrial agriculture's reliance on synthetic fertilizers and pesticides has been shown to dramatically reduce soil microbial diversity — a degradation that may not be immediately visible in crop yields but undermines the long-term resilience of agricultural systems in ways that current productivity metrics fail to capture.\n* archaea: 고세균",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "economic costs of soil erosion for agricultural productivity",
+        "comparison of organic and synthetic fertilizers in nutrient content",
+        "use of microorganisms in developing new pharmaceutical treatments",
+        "living complexity of soil ecosystems and threats from industrial agriculture",
+        "role of plant root systems in preventing land degradation"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ 토양 생태계의 살아있는 복잡성과 산업형 농업의 위협을 모두 포착합니다. 지문은 \"A single teaspoon of healthy agricultural soil can contain more microorganisms than there are people on Earth\"(건강한 농업 토양 한 티스푼에 지구 인구보다 많은 미생물이 있다)며 살아있는 복잡성을 강조하고, 산업형 농업이 토양 미생물 다양성을 \"dramatically reduce\"(급격히 감소)시켜 \"long-term resilience of agricultural systems\"(농업 시스템의 장기적 회복력)을 훼손한다고 주장합니다.",
+        "wrong": {
+          "1": "① 토양 침식의 경제적 비용은 논의되지 않습니다.",
+          "2": "② 유기·합성 비료의 영양 성분 비교는 이루어지지 않습니다.",
+          "3": "③ 제약 치료제 개발에서의 미생물 활용은 언급되지 않습니다.",
+          "5": "⑤ 식물 뿌리 시스템은 균사 연결 맥락에서만 언급되며, 토지 황폐화 방지가 초점이 아닙니다."
+        },
+        "key_point": "토양은 수십억 미생물이 살아있는 생태계이며, 산업형 농업의 합성 비료·살충제 사용이 미생물 다양성을 감소시켜 장기 농업 회복력을 위협한다."
+      },
+      "self_check": {
+        "passage_word_count": 190,
+        "passage_topic": "soil as a complex living ecosystem under threat from industrial agriculture",
+        "main_argument": "Soil is a living ecosystem of vast microbial complexity that determines agricultural fertility and resilience; industrial agriculture undermines this complexity with long-term consequences.",
+        "correct_choice_justification": "Choice 4 captures both components of the passage: the positive argument (soil's living complexity) and the normative concern (industrial agriculture as a threat to it).",
+        "distractor_analysis": {
+          "choice_1": "Soil erosion is not discussed; the passage focuses on microbial degradation.",
+          "choice_2": "No comparison of fertilizer types in nutrient content is made; synthetic fertilizers are discussed only in terms of their harm to microbial diversity.",
+          "choice_3": "Pharmaceutical applications of microorganisms are not mentioned.",
+          "choice_5": "Plant root systems are discussed only in relation to mycorrhizal connections; preventing land degradation is not the focus."
+        },
+        "difficulty": "challenging — the passage is information-dense and requires synthesizing the conceptual shift (inert → living) with the normative concern about industrial agriculture. Choices 1, 2, and 5 are designed to trap readers who pick up on individual details."
+      }
+    },
+    {
+      "id": "v2-23-21",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "easy",
+      "passage": "When people make decisions under uncertainty, they consistently display a preference for losses avoided over equivalent gains obtained — a pattern psychologists call loss aversion. In a classic demonstration, people who are offered a gamble where they could either gain fifty dollars or lose fifty dollars with equal probability will typically refuse the gamble, even though its expected monetary value is zero. To accept the gamble, most people require the potential gain to be roughly twice the potential loss. This asymmetry between the weight given to losses and gains pervades human decision making across contexts from investment behavior and health choices to negotiations and consumer decisions. Loss aversion is particularly pronounced when people feel they already own or are entitled to something: the pain of losing what one has is felt more acutely than the pleasure of gaining something of equivalent value. Marketers routinely exploit this bias by framing promotions as avoiding a loss rather than obtaining a gain — \"Don't miss out\" is psychologically more compelling than \"Get more.\"",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "strategies for making rational financial decisions in uncertain market conditions",
+        "cognitive biases that lead to overconfidence in high-stakes decision making",
+        "cultural differences in attitudes toward financial risk and investment behavior",
+        "influence of expected value calculations on consumer purchasing decisions",
+        "loss aversion as a pervasive bias affecting human decision making"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ 인간 의사 결정에 만연한 손실 회피 편향을 정확히 포착합니다. 지문은 \"people consistently display a preference for losses avoided over equivalent gains obtained\"(사람들은 일관되게 동등한 이득보다 손실 회피를 선호한다)는 심리를 소개하고, \"This asymmetry between the weight given to losses and gains pervades human decision making across contexts\"(손실과 이득에 부여되는 가중치의 비대칭이 모든 맥락의 인간 의사 결정에 만연해 있다)고 명시합니다.",
+        "wrong": {
+          "1": "① 합리적 금융 결정 전략은 논의되지 않습니다. 지문은 설명적·분석적입니다.",
+          "2": "② 과신 편향은 전혀 언급되지 않습니다. 지문은 손실 회피에 특화되어 있습니다.",
+          "3": "③ 문화적 차이는 언급되지 않습니다. 손실 회피는 보편적 경향으로 제시됩니다.",
+          "4": "④ 기대값 계산은 손실 회피 시연을 위한 설정 장치로만 사용됩니다."
+        },
+        "key_point": "손실 회피는 손실이 동등한 이득보다 약 두 배 크게 느껴지는 보편적 심리 편향으로, 투자·소비자 결정부터 마케팅 프레이밍까지 광범위하게 작용한다."
+      },
+      "self_check": {
+        "passage_word_count": 188,
+        "passage_topic": "loss aversion bias in human decision making",
+        "main_argument": "Loss aversion is a robust cognitive bias where losses are weighted more heavily than equivalent gains, influencing decisions across contexts from finance to consumer behavior.",
+        "correct_choice_justification": "Choice 5 directly and precisely names the bias (loss aversion) and its defining characteristic (pervasive influence on human decision making) as argued throughout the passage.",
+        "distractor_analysis": {
+          "choice_1": "Rational financial decision strategies are not discussed; the passage is descriptive and explanatory about the bias.",
+          "choice_2": "Overconfidence bias is not discussed; the passage is specifically about loss aversion.",
+          "choice_3": "Cultural differences are not mentioned; loss aversion is presented as a universal human tendency.",
+          "choice_4": "Expected value calculation is mentioned only to set up the demonstration of why people irrationally reject fair gambles."
+        },
+        "difficulty": "easy — the passage explicitly names the phenomenon in the first sentence and develops it consistently; the correct answer directly names and characterizes it."
+      }
+    },
+    {
+      "id": "v2-23-22",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "The emergence of citizen journalism — the practice of ordinary individuals reporting and sharing news through social media and independent blogs — has been celebrated as a democratization of information. Where once only credentialed reporters with institutional backing could distribute news to mass audiences, today any smartphone user can broadcast events in real time to millions. This has undeniable advantages: events that might have gone unreported are now documented and shared, and powerful institutions face greater accountability when their actions are immediately visible. However, the absence of editorial standards, fact-checking processes, and professional accountability norms that characterize institutional journalism creates significant vulnerabilities. Misinformation, once shared, spreads through social networks far faster than corrections, and emotionally charged content consistently outperforms accurate but less engaging information in algorithms that prioritize engagement. The democratization of news production has thus produced a paradox: while the sources of information have multiplied and diversified, the reliability of the information environment has deteriorated, and distinguishing credible reporting from misinformation has become more rather than less difficult.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "importance of media literacy education in the digital age",
+        "legal protections available to citizen journalists under press freedom laws",
+        "role of social media algorithms in determining political opinion formation",
+        "strategies used by professional journalists to verify online sources",
+        "paradox of citizen journalism: expanded sources but reduced information reliability"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ 시민 저널리즘의 역설—소스 확대와 정보 신뢰도 저하—을 정확히 포착합니다. 지문은 \"the sources of information have multiplied and diversified\"(정보 출처가 증가·다양화되었지만) \"the reliability of the information environment has deteriorated\"(정보 환경의 신뢰도는 저하되었으며), \"distinguishing credible reporting from misinformation has become more rather than less difficult\"(신뢰할 수 있는 보도와 허위 정보를 구별하기가 더 어려워졌다)는 역설적 결론을 제시합니다.",
+        "wrong": {
+          "1": "① 미디어 리터러시 교육은 해결책으로 제시되지 않습니다.",
+          "2": "② 시민 기자의 법적 보호는 전혀 언급되지 않습니다.",
+          "3": "③ 알고리즘이 정치적 여론 형성에 미치는 영향은 주제가 아닙니다. 알고리즘은 허위 정보 확산 이유로만 언급됩니다.",
+          "4": "④ 전문 기자의 검증 전략은 논의되지 않습니다."
+        },
+        "key_point": "시민 저널리즘은 뉴스 생산을 민주화했지만, 편집 기준·팩트체킹의 부재로 정보 환경의 신뢰도가 오히려 저하되는 역설을 낳았다."
+      },
+      "self_check": {
+        "passage_word_count": 194,
+        "passage_topic": "citizen journalism paradox: democratization of news alongside reduced reliability",
+        "main_argument": "Citizen journalism has democratized news production but created a paradox: more sources with lower reliability, making it harder to distinguish credible reporting from misinformation.",
+        "correct_choice_justification": "Choice 5 captures the passage's core paradox: the simultaneous expansion of sources and deterioration of reliability.",
+        "distractor_analysis": {
+          "choice_1": "Media literacy education is not discussed as a solution; the passage analyzes the problem.",
+          "choice_2": "Legal protections for citizen journalists are never mentioned.",
+          "choice_3": "Algorithm effects on political opinion formation are not the subject; algorithms are mentioned only to explain why misinformation spreads.",
+          "choice_4": "Professional verification strategies are not discussed."
+        },
+        "difficulty": "standard — the correct answer requires recognizing the paradox structure of the argument, not just identifying the topic as 'citizen journalism.'"
+      }
+    },
+    {
+      "id": "v2-23-23",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "standard",
+      "passage": "The concept of \"nudging,\" popularized by behavioral economists Richard Thaler and Cass Sunstein, proposes that individuals can be guided toward better decisions by restructuring the choice environment without restricting options or changing incentives. Classic nudges include making organ donation the default option rather than requiring active enrollment, placing healthy foods at eye level in cafeterias, or presenting energy consumption data alongside comparisons to neighbors' usage. Proponents argue that nudges are a superior policy tool because they preserve individual freedom while leveraging well-documented cognitive biases — such as default effect, social norms, and loss aversion — to steer people toward outcomes that are better for them and society. Critics, however, raise concerns about the paternalistic assumptions embedded in nudge design: who decides what outcomes are \"better,\" and is it ethical to exploit cognitive biases even in service of beneficial goals? Moreover, nudges may be less effective when people become aware of them, and their cumulative effects may be to habituate citizens to decision environments designed by others rather than to develop genuine autonomous decision-making capacity.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "economic principles behind designing effective public health campaigns",
+        "comparison of nudges and financial incentives as behavior change tools",
+        "role of behavioral economics in reforming national tax collection systems",
+        "ways that default settings in digital platforms manipulate consumer behavior",
+        "ethical and practical debate over the use of nudges as a policy tool"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ 넛지를 정책 도구로 활용하는 것에 대한 윤리적·실용적 논쟁을 정확히 포착합니다. 지문은 넛지가 개인의 자유를 보존하면서 인지 편향을 활용한다는 옹호론과, \"who decides what outcomes are 'better'\"(누가 더 나은 결과를 결정하는가)라는 온정주의적 전제에 대한 비판 및 누적 효과로 \"genuine autonomous decision-making capacity\"(진정한 자율적 의사 결정 능력)가 위축될 수 있다는 실용적 우려를 모두 다룹니다.",
+        "wrong": {
+          "1": "① 공중 보건 캠페인 설계의 경제적 원리는 주제가 아닙니다.",
+          "2": "② 넛지와 금전적 인센티브의 명시적 비교는 이루어지지 않습니다.",
+          "3": "③ 세금 징수 개혁은 언급되지 않습니다.",
+          "4": "④ 디지털 플랫폼은 논의되지 않습니다. 지문의 예시는 구내식당·장기 기증 양식 등 물리적 환경입니다."
+        },
+        "key_point": "넛지는 자유를 보존하면서 행동을 유도하는 정책 도구로 각광받지만, 온정주의적 가정과 자율적 의사 결정 능력 위축이라는 윤리적·실용적 논쟁에 직면해 있다."
+      },
+      "self_check": {
+        "passage_word_count": 190,
+        "passage_topic": "nudge theory: benefits and ethical/practical criticisms",
+        "main_argument": "Nudges are celebrated as freedom-preserving policy tools but face substantive ethical critiques about paternalism and practical concerns about their long-term effects on autonomous decision-making.",
+        "correct_choice_justification": "Choice 5 captures both dimensions the passage develops: the debate is both ethical (paternalism) and practical (effectiveness, habituation).",
+        "distractor_analysis": {
+          "choice_1": "Public health campaigns are not the focus; the passage discusses nudge theory broadly across policy contexts.",
+          "choice_2": "No explicit comparison of nudges vs. financial incentives is made; the passage defines nudges as distinct from incentive changes.",
+          "choice_3": "Tax reform is not mentioned; nudges are discussed in general policy contexts.",
+          "choice_4": "Digital platforms are not discussed; the passage's examples involve physical environments (cafeterias, organ donation forms)."
+        },
+        "difficulty": "standard — requires distinguishing the debate (the passage's subject) from the concept of nudges itself, and recognizing that both ethical and practical critiques are part of the central argument."
+      }
+    },
+    {
+      "id": "v2-23-24",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "challenging",
+      "passage": "The concept of \"epistemic injustice,\" introduced by philosopher Miranda Fricker, identifies a form of wrongdoing that occurs specifically in the domain of knowledge and inquiry. Fricker distinguishes two main varieties. Testimonial injustice occurs when a speaker's testimony is given less credibility than it deserves due to prejudice about their identity — as when a woman's account of workplace discrimination is disbelieved because of gender bias, or when a patient's self-report of symptoms is dismissed by a physician due to racial assumptions about pain tolerance. Hermeneutical injustice occurs when a gap in collective interpretive resources leaves someone unable to make sense of their own significant social experience — as occurred with sexual harassment before that concept was available to name and organize a previously nameless phenomenon. What makes epistemic injustice distinct from other forms of injustice is that its harm is primary, not merely instrumental: the wrong is done to someone specifically in their capacity as a knower — as someone who generates, shares, and makes sense of knowledge. This identification has proven generative for feminist philosophy, critical race theory, and medical ethics alike.\n* hermeneutical: 해석학적",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "philosophical critique of objectivity standards in scientific research",
+        "role of language barriers in creating misunderstandings between cultures",
+        "impact of social media on the spread of misinformation in public discourse",
+        "challenges of achieving legal equality for historically marginalized groups",
+        "types and nature of epistemic injustice as wrongdoing in the domain of knowledge"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ 인식론적 불의의 유형과 본질을 정확히 포착합니다. 지문은 프리커의 두 가지 유형인 증언적 불의(\"a speaker's testimony is given less credibility... due to prejudice about their identity\", 정체성에 대한 편견으로 발화자의 증언 신뢰도가 낮게 평가됨)와 해석학적 불의(\"a gap in collective interpretive resources leaves someone unable to make sense of their own significant social experience\", 집단적 해석 자원의 공백으로 개인이 자신의 중요한 사회적 경험을 이해하지 못함)를 구분하고, 이것이 앎의 주체로서 입는 일차적 해악임을 설명합니다.",
+        "wrong": {
+          "1": "① 과학 연구의 객관성 기준에 대한 철학적 비판은 논의되지 않습니다.",
+          "2": "② 언어 장벽과 문화 간 오해는 주제가 아닙니다.",
+          "3": "③ 소셜 미디어와 허위 정보는 전혀 언급되지 않습니다.",
+          "4": "④ 법적 평등 달성의 어려움은 주제가 아닙니다. 인식론적 불의는 법적 지위가 아닌 지식 생산 영역에 관한 것입니다."
+        },
+        "key_point": "인식론적 불의는 증언적 불의(신뢰도 부정)와 해석학적 불의(해석 자원 결여)라는 두 가지 형태로, 개인을 앎의 주체로서 부당하게 해친다."
+      },
+      "self_check": {
+        "passage_word_count": 193,
+        "passage_topic": "Miranda Fricker's epistemic injustice: testimonial and hermeneutical varieties",
+        "main_argument": "Epistemic injustice is a form of harm done to persons specifically in their capacity as knowers; it takes two main forms — testimonial (credibility denial) and hermeneutical (interpretive gap) — and is primary, not merely instrumental.",
+        "correct_choice_justification": "Choice 5 captures both the core concept ('epistemic injustice') and the passage's explanatory goal ('types and nature') of defining and distinguishing this philosophical concept.",
+        "distractor_analysis": {
+          "choice_1": "Scientific research objectivity is not discussed; the examples concern social testimony and lived experience.",
+          "choice_2": "Language barriers and cross-cultural misunderstanding are not the subject; the passage is about identity-based credibility deficits.",
+          "choice_3": "Social media and misinformation are not mentioned.",
+          "choice_4": "Legal equality is not the subject; epistemic injustice is a philosophical concept about knowledge-production, not legal status."
+        },
+        "difficulty": "challenging — requires understanding a technical philosophical concept (epistemic injustice, hermeneutical) and its two subtypes; choices 1 and 4 are designed to trap students who reduce the passage to a general social justice argument."
+      }
+    },
+    {
+      "id": "v2-23-25",
+      "number": 23,
+      "type": "주제",
+      "difficulty": "challenging",
+      "passage": "Ecological succession describes the predictable sequence of changes that occur in biological communities over time following a disturbance. In primary succession — which occurs on bare substrate where no soil or life previously existed, such as volcanic rock or glacial moraines — pioneer species such as lichens and mosses gradually break down rock, accumulate organic material, and alter microclimatic conditions in ways that make the environment progressively more hospitable to other organisms. As soil develops and conditions change, these pioneers are displaced by subsequent communities of grasses, shrubs, and eventually trees in a process that can span centuries. Secondary succession, which occurs on previously vegetated land after disturbances such as fires or agriculture, is faster because soil and seed banks remain. The endpoint of succession — a stable, self-perpetuating climax community — was long held to be the inevitable goal toward which all successional sequences converge. Contemporary ecology has largely abandoned this teleological view: disturbances are too frequent and unpredictable, and climax communities too variable, for a single stable endpoint to be a universal property of ecosystems. Succession is now understood as contingent, historically dependent, and in many systems, never truly complete.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "role of human disturbances in accelerating primary succession processes",
+        "differences in biodiversity between pioneer and climax stage communities",
+        "impact of volcanic eruptions on long-term soil formation and plant diversity",
+        "use of succession models to predict vegetation recovery after wildfires",
+        "ecological succession and the revision of the climax community concept"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ 생태 천이와 극상 군집 개념의 수정을 모두 포착합니다. 지문은 1차·2차 천이를 설명한 후, 극상 군집이라는 안정적 종착점 개념이 현대 생태학에서 \"largely abandoned\"(대부분 포기되었으며), \"Succession is now understood as contingent, historically dependent, and in many systems, never truly complete\"(천이는 이제 우연적·역사 의존적이며 결코 완전히 완성되지 않는 것으로 이해된다)고 비판적으로 재평가합니다.",
+        "wrong": {
+          "1": "① 인간 교란이 1차 천이를 가속화하는 것은 논의되지 않습니다.",
+          "2": "② 선구 집단과 극상 집단 간 생물 다양성 비교는 이루어지지 않습니다.",
+          "3": "③ 화산 폭발은 1차 천이의 맥락으로만 언급됩니다.",
+          "4": "④ 산불 후 식생 회복 예측은 2차 천이의 맥락에서 잠깐 언급될 뿐입니다."
+        },
+        "key_point": "생태 천이는 교란 후 예측 가능한 군집 변화를 서술하지만, 극상 군집이라는 목적론적 종착점 개념은 현대 생태학에서 폐기되었다."
+      },
+      "self_check": {
+        "passage_word_count": 198,
+        "passage_topic": "ecological succession and critique/revision of the climax community concept",
+        "main_argument": "Ecological succession describes predictable community change after disturbances; the traditional climax community endpoint has been abandoned in contemporary ecology as too teleological given the contingency and variability of real systems.",
+        "correct_choice_justification": "Choice 5 captures both the descriptive content (succession) and the analytical move that distinguishes this passage (the revision/critique of the climax community concept).",
+        "distractor_analysis": {
+          "choice_1": "Human disturbances accelerating primary succession are not discussed; primary succession is described in natural contexts.",
+          "choice_2": "Biodiversity comparison between pioneer and climax communities is not made; the passage is about the process and theory of succession.",
+          "choice_3": "Volcanic eruptions are mentioned only as a context for primary succession, not as the subject of analysis.",
+          "choice_4": "Wildfire recovery prediction is mentioned only briefly in the context of secondary succession, not as the central analytical focus."
+        },
+        "difficulty": "challenging — the passage develops a two-part argument (describing succession and then critiquing climax community theory) and the correct answer must capture the critical/revisionary element, not just the descriptive topic."
+      }
+    }
+  ]
+}

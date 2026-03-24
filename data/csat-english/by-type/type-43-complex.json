@@ -1,0 +1,547 @@
+{
+  "type": "장문 (복합)",
+  "typeNumbers": [43, 44, 45],
+  "totalCount": 54,
+  "questions": [
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nNow I will tell you a story. There lived a young boy named Nick. He would sing and whistle nearly all day. He was as merry as a lark. One day Nick went out taking a walk in the forest, at some distance from his home. When he reached a clear stream he felt very thirsty and bent down to drink water. But, just at that moment, he was suddenly seized and found himself in the hands of a fierce giant, a hundred times bigger than himself. For some time the giant held Nick in his big hands, and looked at (a) him with great delight.\n\n(B)\nNick was very miserable, for he had never before been deprived of his liberty. He dashed backward and forward in his prison-house, but he could not escape. (b) He thought of his own pleasant home, his companions, the sunlight, the trees, and the flowers. He screamed and tried to get out between the iron bars, but he only tore himself, and all in vain. In a moment, the giant came again to the prison.\n\n(C)\nHe then put him into a large bag, and carried (c) him away. Poor Nick, who was in great fear, did all he could do to escape from his cruel captor. He tried to tear the bag, but the giant only laughed at (d) him. At last, the giant came to his own house with a high wall all around it, and no trees, nor flowers. He put Nick into a prison. It was quite a dark room, with iron bars all around it.\n\n(D)\nHe told Nick to sing, the same as he did when he was in his own home. \"Sing! sing! sing!\" said he, \"Why don't you sing?\" But Nick was too sad to sing. Who could sing in a prison! At length the giant grew very angry, and took Nick out of the prison to make him sing. (e) He shook him, and then ordered him to sing. Nick felt terrified while missing whatever he enjoyed with freedom at his home. Now I will tell you who they were. Nick was a little bird and that giant was a cruel boy.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Nick은 개울에서 물을 마시려고 몸을 숙였다.", "Nick은 감옥에서 도망치려 했으나 성공하지 못했다.", "거인의 집에는 나무와 꽃이 없었다.", "Nick은 감옥에서 자신의 집에서처럼 노래를 불렀다.", "화가 난 거인은 Nick을 감옥에서 꺼냈다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nThere were two neighbors living next to each other. One was a professor and the other was a merchant who had an unmotivated son. Both of them had planted the same kind of plant in each of their gardens. The professor gave a small amount of water to his plants and didn't always give his full attention to them. Meanwhile, in the merchant's garden, the merchant gave a lot of water to (a) his plants and looked after them well.\n\n(B)\nThe merchant was surprised to see this because he thought he had given his plants better care than the professor. He went to his neighbor and said, \"Only (b) my plants came out from the roots. How is that possible?\" The professor smiled and said, \"You gave your plants so much attention and water that they didn't need to work for themselves.\"\n\n(C)\nThe professor continued, \"I gave my plants just an adequate amount of water and let their roots search for more. Their roots went deeper and grew stronger.\" At that moment, the merchant recalled the image of (d) his son, still lazy and dependent on his parents. \"Is that how you approach teaching?\" asked the merchant. The professor said, \"Yes. Students are like plants. Sometimes guiding is better than giving.\" Nodding silently, the merchant began to rethink what education is.\n\n(D)\nThe professor's plants were simple but looked good, while the merchant's plants were much fuller and greener. One night, there was a heavy storm. After the storm was over, both neighbors inspected the damage. The merchant saw that his plants had come out from the roots and were totally destroyed. But the plants of (e) his neighbor were not damaged at all and were standing firm.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["교수와 상인은 각자의 정원에 같은 종류의 식물을 심었다.", "상인은 자신이 교수보다 식물을 더 잘 보살폈다고 생각했다.", "교수는 학생들이 식물과 같다고 말했다.", "상인은 교육이 무엇인지 다시 생각해 보기 시작했다.", "상인의 식물은 폭풍으로 인한 손상을 입지 않았다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nWhen invited by her mother to go shopping after lunch, Ellen hesitantly replied, \"Sorry, Mom. I have an English essay assignment I need to finish.\" Her mother persisted, \"Come on! Your father's birthday is just around the corner.\" Ellen suddenly realized that her father's birthday was just two days away. So (a) she altered her original plan and decided to go to the shopping mall with her mother.\n\n(B)\nEllen wanted to get a strawberry smoothie in the cafe, but it was sold out. So she bought a yogurt smoothie instead. The cafe was not very busy for a Saturday afternoon, and Ellen settled at a large table to work on her assignment. However, after a while, a group of students came in. One of them came over to Ellen's table and politely asked, \"Could (b) you possibly move to that smaller table?\" Ellen replied, \"It's okay. I was just leaving anyway.\" She hurriedly gathered her assignment leaving the shoe bag behind under the table.\n\n(C)\nUpon arrival at the shopping center, her mother inquired, \"Ellen, have you decided what to buy?\" She quickly replied, \"(c) I would like to buy him a pair of soccer shoes.\" Ellen knew that her father had joined the morning soccer club recently and needed some new soccer shoes. After buying the present, she told her mother, \"Mom, now, I'm going to do my assignment in the cafe while you are shopping.\"\n\n(D)\n\"It must be in the cafe,\" Ellen suddenly exclaimed when (d) she realized the gift for her father was missing upon returning home. She felt so disheartened. \"Why don't you call the cafe?\" suggested her mother. When she phoned the cafe and asked about the shoe bag, the manager said that she would check and let her know. After a few minutes, she called back and told Ellen that (e) she had just discovered it. Ellen was so pleased that the birthday gift had been found.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Ellen은 끝내야 할 영어 과제가 있었다.", "카페에서는 요거트 스무디를 팔지 않았다.", "한 무리의 학생들이 카페에 들어왔다.", "Ellen의 아버지는 최근에 아침 축구 클럽에 가입했다.", "Ellen은 카페에 전화를 걸었다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 43,
+      "type": "장문",
+      "passage": "(A)\nIgnace Jan Paderewski, the famous composer-pianist, was scheduled to perform at a great concert hall in America. It was an evening to remember — black tuxedos and long evening dresses, a high-society event. Present in the audience that evening was a mother with her nine-year-old son. Tired of waiting, (a) he squirmed constantly in his seat. His mother was in hopes that her son would be encouraged to practice the piano if he could just hear the great Paderewski at the keyboard. So, against his wishes, he had come.\n* squirm: 꼼지락대다\n\n(B)\nThe roar of the crowd became quiet as hundreds of frowning faces pointed in (b) his direction. Irritated and embarrassed, they began to shout: \"Get that boy away from there!\" \"Who'd bring a kid that young in here?\" \"Where's his mother?\" \"Stop (c) him!\" Backstage, Paderewski overheard the sounds out front and quickly put together in his mind what was happening. Hurriedly, he grabbed his coat and rushed toward the stage.\n\n(C)\nAs she turned to talk with friends, her son could stay seated no longer. (d) He slipped away from her side, strangely drawn to the black concert grand piano and its leather stool on the huge stage flooded with blinding lights. Without much notice from the sophisticated audience, the boy sat down at the piano stool, staring wide-eyed at the black and white keys. He placed his small, shaky fingers in the right location and began to play \"Chopsticks.\"\n\n(D)\nWithout one word of announcement Paderewski bent over behind the boy, reached around both sides, began to improvise a counter-melody to harmonize with and enhance \"Chopsticks.\" As the two of them played together, (e) he kept whispering in the boy's ear: \"Keep going. Don't quit. Keep on playing... don't stop... don't quit.\" Together, the old master and the little boy transformed an embarrassing situation into a wonderfully creative experience. The audience was mesmerized.\n* improvise: 즉흥 연주하다 ** mesmerize: 매혹하다",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["소년은 연주회에 오고 싶지 않았으나 오게 되었다.", "짜증이 나고 당황한 관중은 크게 소리치기 시작했다.", "Paderewski는 서둘러 무대로 달려갔다.", "소년은 무대 위 피아노 의자에 앉아 건반을 응시했다.", "Paderewski는 짧은 공지 후 소년과 함께 연주했다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문",
+      "passage": "(A)\nIn July, people in the city often escaped to relax in the mountains. Sean didn't yet know it, but he was about to have the experience of a lifetime. \"When I look around, all I see is the work I haven't finished and the bills I haven't paid,\" he complained over the phone to his friend and doctor, Alex. Concerned about Sean, he said, \"(a) You've been stressed for weeks. Come see me for medical treatment if things don't improve.\"\n\n(B)\nHaving hiked for several hours, Sean was thrilled to reach the top of Vincent Mountain. As Toby started to bark, Sean turned around and found him running toward a large pond. \"What a nice, quiet place,\" Sean whispered to himself. Among the trees, he could ease the stress of recent weeks. As night approached, however, the wind blew fiercely. Sean became nervous. Unable to sleep, (b) he called to his companion, \"Come here, Boy!\" He held the dog close in an effort to ignore the fear rushing in.\n\n(C)\nAfter what felt like the longest night of Sean's life, the sky finally turned a beautiful shade of pink, and the warm sun shone around him. He packed up his equipment, enjoying his last moments in the mountain air. Finding Toby energetically running next to the campsite, Sean said, \"(c) You must be as excited as I am after surviving a night like that!\" Sean went down the mountain with a renewed sense of joy, and he exclaimed, \"My treatment worked like a charm!\"\n\n(D)\nUpon hearing this offer, Sean replied, \"Thanks, but (d) I know just the treatment I need.\" He told his friend about the Vincent Mountain hike he had read about. Alex anxiously warned, \"Even in the summer, hiking can be dangerous. Don't forget your safety checklist.\" Following his friend's words, (e) he added protective gear to his camping equipment. Sean put on his hiking clothes and tied up his boots. He almost forgot his new hiking sticks as he walked out the door with his dog, Toby.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 44,
+      "type": "장문",
+      "passage": "[43-45 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 45,
+      "type": "장문",
+      "passage": "[43-45 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Sean은 친구 Alex에게 어려움을 토로했다.", "Toby가 큰 연못으로 달려갔다.", "밤이 되자 바람이 잦아들었다.", "Sean은 산을 내려오며 기쁨을 느꼈다.", "Sean은 Vincent Mountain 하이킹에 대해 읽은 적이 있다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nIn a peaceful town surrounded by rolling hills, there lived a kind-hearted young woman named Emily. She had a strong desire to make a difference in the world, yet often felt that her efforts were insignificant. One day, Emily crossed paths with Martha, an elderly lady known for (a)her sour mood and tendency to keep to herself. Curiosity sparked within Emily, prompting her to initiate a conversation with Martha.\n\n(B)\nThe event showcased the great works of many local artists, with a special surprise awaiting Martha. Emily had carefully prepared a section dedicated to Martha's paintings, hoping to unveil it to her and the community. The day of the exhibition arrived, and the townspeople eagerly gathered, excited to witness the artistic wonders of their community. Emily anxiously awaited Martha's arrival, wondering how Martha would react to the surprise (b)she had planned. Martha finally entered the exhibition hall, and her eyes filled with tears as she stood in front of her own artworks.\n\n(C)\nMartha slowly made her way through the section dedicated to (c)her paintings, examining each piece with a mix of nostalgia and longing. The crowd watched in silence, their hearts touched by Martha's emotional response. As Martha reached the last painting, she turned to Emily with a bright smile, tears still shining in her eyes. \"Emily, you've given me back a part of myself that I thought was lost forever,\" Martha whispered, (d)her voice shaking with gratitude. \"I had forgotten the joy that art once brought me, but you've reminded me of its power.\"\n\n(D)\nDespite Martha's initial resistance, Emily persistently reached out to her, sharing stories and expressing genuine interest in (e)her life. Through their conversations, Emily discovered that Martha had once been a famous painter. However, she had lost her passion for art due to personal hardships. Deeply moved by her sorrow, Emily resolved to help revive Martha's creative spirit. So, she organized an art exhibition in the town's community center.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Emily는 호기심이 생겨 Martha와 대화를 시작하게 되었다.", "미술 전시회에서는 Martha의 작품만 전시했다.", "마을 사람들은 Martha의 반응을 보고 마음이 뭉클했다.", "Martha는 마지막 그림에 이르러 Emily를 향해 미소를 지었다.", "Martha는 개인적인 역경 때문에 미술에 대한 열정을 잃었다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 (순서 배열)",
+      "passage": "(A)\nOnce upon a time in the small town of Meadowville, there lived a curious boy named Tommy. Tommy's grandfather, affectionately known as Grandpa Joe, had always been a mysterious figure to (a) him. Grandpa Joe was a man of few words, but his eyes lit up from stories untold. One lazy summer afternoon, while searching the garage, Tommy found an old, forgotten box. As (b) he opened it, the treasure of memories spilled out, including an old baseball card featuring a young Grandpa Joe.\n\n(B)\nA spark of nostalgia lit up Grandpa Joe's eyes as he took the card. Memories flooded back, and he told stories of his youthful days on the baseball field. Grandpa Joe spoke of the thrill of the game and the joy of hitting a home run. Tommy, fascinated by these stories, felt more connected to his grandfather. Eager to learn more, (c) he asked Grandpa Joe to teach him about baseball.\n\n(C)\nThey spent afternoons in the backyard as (d) he shared the wisdom of the game with his grandson. Together, they practiced hitting, catching, and even laughed over the mistakes. As they bonded over baseball, the gap between generations closed. Grandpa Joe's eyes no longer held just the twinkle of untold stories; they now radiated warmth and shared memories.\n\n(D)\nTommy's eyes widened with excitement as he examined the card. In the card, Grandpa Joe stood proudly in a baseball uniform. He was not the quiet person Tommy knew. Intrigued by this discovery, Tommy rushed inside the house to find Grandpa Joe. \"Hey, Grandpa! I found this cool baseball card of you. Were you a baseball player?\" (e) he asked, eyes filled with curiosity.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 (지칭 추론)",
+      "passage": "[43~45 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 (내용 일치)",
+      "passage": "[43~45 공통 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Tommy는 차고에서 오래되고 잊혀진 상자를 발견했다.", "Grandpa Joe는 야구장에서 보낸 그의 젊은 시절 이야기를 했다.", "그들은 함께 공 치기, 잡기를 연습했다.", "야구 카드 속에서 Grandpa Joe는 야구 유니폼을 입고 있었다.", "Tommy는 Grandpa Joe를 찾기 위해 집 밖으로 서둘러 나왔다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 (순서 배열)",
+      "passage": "(A)\nPamela and Maggie were identical twins. Even their parents found it hard to tell them apart. But although they looked identical, they were different in every other way. They didn't have anything in common, so they fought all the time. Pamela thought that (a) her sister was weird and incomprehensible, and of course Maggie felt the same way.\n\n(B)\nTired of the endless arguments, their mother Rachel decided to put an end to them. She would make them understand that each of their points of view could be correct. One day, the twins were brought to the dining table where a big board stood in the middle. Pamela sat on one side of the board and (b) her twin on the other. Rachel asked Pamela what the color of the board was. \"Black,\" she said.\n\n(C)\nFor example, Pamela was always upset at her sister waking up early in the morning. (c) She didn't understand why her sister couldn't finish what she needed to do at night and sleep peacefully the next morning. To Maggie, staying up past the time (d) she began to feel sleepy was exhausting. Besides, she loved the fresh morning air. They had fights about simple things like this every day.\n\n(D)\nAfter hearing Pamela's answer, Rachel asked the same question to (e) the other daughter. She replied it was white. Predictably, they began arguing. Rachel then asked them to switch seats. Each sitting on a new chair, they were surprised to realize the board was black on one side and white on the other. Understanding what their mother wanted to say, they promised they would never insist the other was wrong again.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 (지칭 추론)",
+      "passage": "[43~45 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 (내용 일치/불일치)",
+      "passage": "[43~45 공통 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["자매는 외모를 제외한 모든 면에서 서로 달랐다.", "Rachel은 두 딸의 언쟁을 끝내기로 결심했다.", "Pamela는 판자가 흰색이라고 대답했다.", "Maggie는 상쾌한 아침 공기를 좋아했다.", "Rachel은 두 딸이 자리를 바꾸도록 요청했다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nGarcia stood outside Frontcountry Mall, waiting for his brother, Jeff. Garcia's band had been chosen to perform at the welcoming ceremony for a large group of students from their sister university in Singapore. Garcia was hoping to find the perfect clothing for the performance. That was why (a) he had asked Jeff to help him pick out new clothes. \"I'm sorry. I'm late because traffic was terrible,\" Jeff apologized as he arrived. \"Don't worry. I haven't waited long,\" Garcia replied as they entered the lively shopping center.\n\n(B)\nThe band performance was the first event of the ceremony. The host introduced the band, and each member took their place on stage. Garcia stood at the center of the stage. As he started playing, everyone fell silent, fascinated by the music. Garcia's trumpet playing was flawless. When the band was finished, the audience loudly cheered. After the show, Jeff approached Garcia. \"It was fantastic. I think that was the best performance I've ever seen,\" (b) he said. Garcia beamed with joy at his brother's praise.\n\n(C)\nGarcia felt good as he arrived at the concert hall for the rehearsal wearing his new clothes. His confidence was, however, quickly changed to nervousness when he thought of how many people would be there. As the rehearsal began, (c) he struggled with the rhythm, making several mistakes. Tom, Garcia's band mate, came over and put a hand on Garcia's back, saying, \"Don't worry, I'll be right behind (d) you.\" He looked at his friend, took a deep breath and started to feel much better.\n\n(D)\n\"Aren't these cool?\" Garcia asked, pointing at a patterned red shirt and yellow pants he had found in the store. \"Um, I think they're a bit too colorful,\" Jeff objected. Instead, Jeff picked out a white shirt and black jeans. He asked the store clerk, \"Don't you think these would look great on (e) my brother?\" The clerk stopped her work and looked at the clothes, quickly agreeing with Jeff's choice. Garcia bought the recommended clothes, saying, \"Maybe I'll wear these for tonight's rehearsal, too.\"",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(D)-(B)", "(C)-(B)-(D)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)～(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Jeff는 교통 체증 때문에 늦었다.", "Garcia는 환영식 공연 무대의 중앙에 섰다.", "밴드가 환영식 공연에서 연주를 마치자 관객은 환호했다.", "Garcia는 리허설을 앞두고 긴장감을 느꼈다.", "Garcia는 본인이 가리킨 색상의 옷을 구매했다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 (순서 배열)",
+      "passage": "(A)\nOn the northwestern coastline of Lake Superior is the city of Duluth, the westernmost port for transatlantic cargo ships. A lot of cargo comes into Duluth: coal, iron ore, grain, clothing and, in November 1962, a mongoose from India. The merchant seamen had enjoyed his company on the long journey and had sat drinking tea with him, but they decided he deserved a life on dry land so they presented (a) him as a gift to the city's Lake Superior Zoo. Lloyd Hackl, the director of the zoo, was delighted and named (b) his new mongoose Mr. Magoo. His fate took an unexpected turn when, labeled an invasive species, federal agents sentenced him to death.\n\n(B)\nLiving out his days in the zoo, Mr. Magoo became a beloved figure. His daily routine included enjoying an egg, sipping tea, and charming zoo workers with his friendly nature. Popular among visitors, especially children, he received numerous letters and Christmas cards. When Mr. Magoo died peacefully in January 1968, his obituary in the Duluth Herald read: \"OUR MR. MAGOO OF ZOO IS DEAD.\" The new zoo director, Basil Norton, vowed not to replace (c) him: \"Another mongoose could never take his place in the hearts and affections of Duluth people,\" he said.\n\n(C)\nThe citizens of Duluth were not taking the death sentence lying down. It was pointed out that, as the only mongoose in the country, Mr. Magoo was never going to be able to reproduce, so the country was unlikely to be overrun by the species. They demanded he be allowed to live out his days in peace. Petitions were signed and sent to powerful figures like the U.S. Secretary of the Interior Stewart Udall, U.S. Senator Hubert Humphrey, and Duluth Mayor George Johnson. A campaign, brilliantly nicknamed No Noose for the Mongoose, was backed by more than 10,000 citizens. There were even suggestions that the zoo director should take (d) him into hiding.\n\n(D)\nThanks to the efforts of the citizens of Duluth, Mr. Magoo was pardoned. A statement from Udall read, \"Acting on the authority that permits importation of prohibited mammals — including mongooses — for zoological, education, medical and scientific purposes, I recommend that Mr. Magoo be granted non-political asylum in the United States.\" He added that it was dependent upon Mr. Magoo maintaining (e) his \"bachelor existence.\" The News Tribune joyfully proclaimed, \"MAGOO TO STAY. U.S. Asylum Granted.\" President Kennedy declared: \"Let the story of the saving of Magoo stand as a classic example of government by the people.\"",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 (지칭 추론)",
+      "passage": "[43~45 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 (내용 일치/불일치)",
+      "passage": "[43~45 공통 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["몽구스 한 마리가 배를 타고 Duluth로 왔다.", "Mr. Magoo는 사형을 선고받았다.", "Mr. Magoo는 수많은 편지와 카드를 받았다.", "10,000명이 넘는 시민들이 No Noose for the Mongoose 캠페인을 지지했다.", "Mr. Magoo의 미국 망명이 허가되지 않았다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서 배열",
+      "passage": "(A)\nHelen was thrilled when she received a notification on a second-hand shopping app from a seller named Anna. For months, she had been looking for a Philodendron gloriosum, a Colombian plant with dark, velvety leaves shaped like hearts. She had almost given up on getting one. Anna, though, had put one up for sale. The posting read, \"(a) I'm selling my favorite plant, because I'm moving abroad. If you pick it up today from Edincester Heights, you can have it for the current price, which is half the market rate.\"\n\n(B)\nArriving at the building, Helen could identify Julia by the large paper bag she was holding. The bag had leaves sticking out of the top. (b) She said, \"You must be Julia!\" Laughing, the woman said, \"Yes! Please take good care of this plant. Anna had it for six years, so she considers it family.\" From the bag, she pulled out another plant, a tiny one with thick, glossy leaves. \"Are you familiar with this? It's called a Dragon's Tail. (c) My housemate said you could take it too, if you'd like.\"\n\n(C)\nHelen immediately messaged the seller. \"Hello! I'm interested in purchasing (d) your plant. If it works for your schedule, I can be there in 10 minutes!\" Anna replied, \"Hi, there! I am at work right now, but my housemate, Julia, can meet you in front of the building.\" Unable to believe her good luck, Helen typed back in excitement, \"Great! I can leave now. I'll wear a black baseball cap.\"\n\n(D)\nHelen exclaimed, \"Yes, I'd love to! Please thank Anna for me. Both are in such wonderful condition. Do you have any tips for keeping them in good shape?\" Handing over the bag, Julia replied, \"I'm not a plant expert, but I know that Anna kept them away from windows to avoid direct sunlight. Why don't you message (e) her? She would be happy to offer advice.\" \"I'll be sure to do that,\" Helen said, as she handed over the cash.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭 추론",
+      "passage": "[43-45 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치/불일치",
+      "passage": "[43-45 공통 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Helen은 중고 거래 앱에서 알림을 받았다.", "Julia는 큰 종이 가방을 들고 있었다.", "Helen은 판매자와 메시지를 주고받았다.", "Helen은 야구 모자를 쓰겠다고 답했다.", "Julia는 자신이 식물 전문가라고 말했다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nOne frosty morning, a rabbit was jumping about on a hill. There stood a snowman which had been made by some children. He had a broom in his hand and a carrot nose. The rabbit saw the carrot and swallowed hard. \"I will have a delicious breakfast,\" (a) he thought and jumped up, reaching out for the snowman's nose. But before the rabbit even touched him, something hit him hard.\n* broom: 빗자루\n\n(B)\nExcited by the offer, the rabbit told the snowman to wait and disappeared. (b) He returned shortly, dragging a sled and said to the snowman, \"Let's go!\" The sled ran smoothly over the snow. The snowman with joy waved his broom. After a while, they arrived in the middle of the village. \"Here we are,\" said the rabbit. \"Thank you. Here's the carrot,\" said the snowman, giving (c) him his carrot.\n* sled: 썰매\n\n(C)\nThe rabbit hesitated for a moment. \"Come on, take it. I have a feeling that I'll get a new one,\" urged the snowman. (d) He finally accepted the carrot and leapt back into the woods. Not long after, the children gathered around the snowman. Noticing that he had no nose, they gave him a fresh carrot. From that time on, the snowman stood in the middle of the village, with a broom in his hand and a marvelous new carrot nose.\n\n(D)\n\"Go Away!\" the snowman threatened him with his great broom. \"Sorry, Mr. Snowman, I just...\" murmured the rabbit. \"You wanted to eat my nose!,\" (e) he shouted. \"I was so hungry and it looked so tasty,\" apologized the rabbit. The snowman thought for a moment. \"Hmm... Here, I am bored by myself. I would like to go to the village where the children are. If you take me there, I'll give you my carrot,\" said the snowman.\n* murmur: 웅얼거리다",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["토끼는 당근을 보고 침을 삼켰다.", "토끼는 눈사람에게 기다리라고 말하고 사라졌다.", "눈사람은 기쁨에 빗자루를 흔들었다.", "아이들은 눈사람에게 싱싱한 당근을 주었다.", "토끼가 빗자루로 눈사람을 위협했다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nIn a small town known for its flourishing academic community, two brothers, James and Daniel Carter, stood out for their exceptional effort and talent. James and (a) his younger brother, Daniel, both applied for the Spark Fellowship. The Spark Fellowship was a highly respected program that selects and supports outstanding students every two years. Unsurprisingly, both brothers advanced to the final round.\n\n(B)\nWithout Daniel knowing, James went to the selection committee. (b) He told the committee, \"Daniel has always been the more dedicated and talented one. He will excel in this program like no one else.\" Meanwhile, Daniel had the same idea as his older brother. He believed that his brother was the more ideal and deserving candidate. (c) He also decided to visit and speak to the committee.\n\n(C)\nHowever, the program had a strict rule: only one family member could be selected in the same year. This posed a challenge to the selection committee, who thought it almost impossible to choose between the two equally impressive candidates. The committee gathered together, struggling all day long to decide. When James found out about this rule, (d) he tried to seek a way to demonstrate Daniel's exceptional talent to the selection committee.\n\n(D)\nNot long after James had left, Daniel showed up at the selection committee and advocated for his brother, saying \"James' leadership and vision make (e) him the perfect choice. He deserves this chance more than I do.\" Moved by their selflessness, the committee made an exception by selecting both brothers in the same year, for the first time in its history. Their story inspired others, showing that true success lies not only in individual achievements but also in supporting and encouraging others.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Spark Fellowship은 격년으로 학생들을 선발하는 프로그램이었다.", "Daniel도 그의 형과 같은 아이디어를 가지고 있었다.", "위원회는 함께 모여 하루 종일 고심했다.", "Daniel이 James보다 먼저 선정 위원회에 나타났다.", "예외적으로 두 형제가 같은 해에 선발되었다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 (순서 배열)",
+      "passage": "(A)\nA gardener saw his young son sitting quietly, his eyes filled with tears. Concerned, he gently asked, \"What's troubling you, son?\" The boy looked up and said, with (a) his voice trembling, \"My classmates mock me every time I lose a race. They laugh and say that I am slow and weak.\" The father paused, then spoke softly, \"Come with me, son. Let's spend some time in the garden together.\"\n(B)\nThe father smiled and replied, \"Remember, son. Sometimes, the 'dirt', or difficult things we face, actually makes us stronger, just like the plant that grew with dirty water. People may try to bring you down, but there is nothing wrong with you. Let their words make you stronger and wiser.\" The boy listened, realizing that (b) he should try to turn the harsh words of others into strength and wisdom, just as his father had taught him.\n(C)\nIn the days that followed, the father and son tended to their plants with care. The son observed how his plant seemed to thrive just as much as his father's, if not more. Weeks later, the father asked, \"Why don't (c) you come and see the two flowers?\" The boy found that his flower was even healthier than his father's and exclaimed, \"How is that possible?\"\n(D)\nThe father led his son to a small section of their garden, where he took out a handful of flower seeds. Smiling, he said, \"Let's try an experiment. I'll plant one seed, and (d) you'll plant another. I'll water mine with clean water from the lake, and you'll use dirty water from the pond for yours. Let's see how they grow.\" He carefully pressed one seed into the soil, making sure it was just deep enough to sprout. Watching his father, the boy copied (e) his movements, determined to do it perfectly.\n* sprout: 싹이 트다",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)―(D)―(C)", "(C)―(B)―(D)", "(C)―(D)―(B)", "(D)―(B)―(C)", "(D)―(C)―(B)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 (지칭 추론)",
+      "passage": "[43-45 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 (내용 일치/불일치)",
+      "passage": "[43-45 공통 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["아들은 학급 친구들이 자신을 놀린다고 말했다.", "아버지는 아들에게 문제가 있는 것이 아니라고 답했다.", "아들은 아버지의 꽃이 자신의 꽃보다 훨씬 더 튼튼하다는 것을 발견했다.", "아버지는 아들에게 연못의 더러운 물을 사용하라고 말했다.", "아버지는 씨앗 하나를 흙 속에 조심스럽게 밀어 넣었다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\n\"Hi! I'm over here!\" shouted Laura, waving brightly at Cathy at the entrance of Darlingdale Farmer's Market. Seeing her friend, Cathy rushed over in delight. Cathy had recently moved into Laura's town, and this was going to be (a) her first experience at a real farmer's market. Born and raised in a big city, where large supermarkets were more common, Cathy had never had a chance to buy freshly-picked fruits or vegetables.\n\n(B)\nCarrying the bags of peaches, Cathy came back and noticed Laura holding a box of blueberries and jars of jam. \"Cathy, those peaches look delicious! I bought some blueberries. Would you like to go to my place and make blueberry pancakes together?\" Laura asked. \"Yes, that's an excellent idea!\" replied Cathy happily. As they walked out of the market, Cathy thanked her friend for the special experience, saying \"(b) I really love this place! Thank you for the wonderful day.\"\n\n(C)\nEntering the market, Laura said, \"Let me show you around. Are you ready?\" Cathy answered excitedly, \"Absolutely! I'm going to buy some fresh peaches!\" The market was already crowded with people of all ages. \"Cathy, you can taste the best of the season here,\" said Laura. Cathy smiled and began to look around. Meanwhile, Laura found some strawberry jam for sale. She walked over to buy some. Curious to explore more, Cathy said, \"While (c) you're buying jam, I'll look around the market and get some peaches.\"\n\n(D)\nWandering away from Laura, Cathy began to search for peaches. Cathy walked past booths of fresh flowers and hand-made soaps, which smelled heavenly. From a fruit stand, (d) she picked out some beautiful, ripe peaches. The fruit seller told her, \"Those peaches are a great choice because they're only here until this week. If you miss them now, (e) you'll have to wait another year for the season.\" Hearing that, Cathy said, \"Oh, I'll get some more then! They're really cheap!\" She bought two bags of peaches.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Cathy는 대도시에서 태어나고 성장했다.", "Laura와 Cathy는 블루베리 팬케이크를 만들기로 했다.", "시장은 다양한 나이의 사람들로 붐볐다.", "Laura는 판매 중인 딸기 잼을 발견했다.", "Cathy는 복숭아 가격이 비싸다고 생각했다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서 배열",
+      "passage": "(A)\nOn a bright fall day, a young boy named Jay visited the pumpkin festival with his grandfather. There, he became fascinated by the giant, prize-winning pumpkins on display. Jay made up his mind to grow an enormous pumpkin himself. With stars sparkling in his eyes, (a) he eagerly shared his dream with his grandfather that he wanted to grow the next show-winning pumpkin.\n\n(B)\nWhen Jay found out what the squirrel had done, he searched through the soil but found nothing. His dream was crushed! Still, his grandfather encouraged him to plant some pie pumpkin seeds he had on hand. Jay agreed and planted them. After some time, small pumpkins filled the garden. The family baked delicious pies using the pumpkins Jay had harvested. Despite the setback, Jay found joy in the harvest and the time spent with his family. Jay promised himself that next year, (b) he would try again to grow the biggest pumpkin of all.\n\n(C)\nThough his grandfather reminded him that a little luck was also needed, Jay remained confident. He carefully kept the seeds he had bought and spent the winter thinking about how he would grow his pumpkins. When spring finally arrived, (c) he received help from his grandfather. He used his tractor to prepare the garden with Jay. Jay eagerly planted the seeds and waited with anticipation for them to grow. But then, disaster struck. A squirrel dug up and ate every single seed.\n\n(D)\nSeeing Jay's excitement, (d) he promised to help him grow a giant pumpkin. When they visited a pumpkin farm to buy seeds, he explained the basics to Jay: choose a large variety and plant seeds from the biggest pumpkins. He also advised planting them in late May, when the soil is warm, by forming small hills about eight inches high and placing six to eight seeds in each. Following his grandfather's advice, (e) he picked out a few promising pumpkin seeds.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭 추론",
+      "passage": "[43-45 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치/불일치",
+      "passage": "[43-45 공통 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Jay는 거대한 호박을 직접 기르기로 결심했다.", "가족은 Jay가 수확한 호박으로 파이를 구웠다.", "Jay는 호박을 어떻게 기울지 생각하며 겨울을 보냈다.", "다람쥐가 모든 씨앗을 파내어 먹었다.", "할아버지는 5월 초에 씨앗을 심으라고 조언했다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 43,
+      "type": "장문",
+      "passage": "(A)\nIt was in the bleak midwinter, and a pair of wanderers struggled through the cold night, seeking shelter. The father-to-be searched desperately for a safe place for his companion, who walked heavily, carrying new life inside her. They could not stay out in the bitter cold when her time came. Their names were Pepper and Cooper, a pair of beagles, wandering a rural highway near Bethel, Ohio. Gus Kiebel, a county wildlife officer, was driving home through the snowstorm when (a) his headlights revealed the dogs.\n* bleak: 황량한\n\n(B)\n\"I'm not signing the dogs over to you if you're going to separate them,\" Gus said. The shelter worker promised him she'd keep the pair together. Over the next few days, Gus called the shelter to ensure that Pepper and Cooper were safe. Just after Christmas, the beagles were adopted as a pair by a loving family. Gus practiced kindness by giving shelter to a wandering couple, demonstrating the best of (b) himself. When kindness and love triumph over cruelty and the elements, it can feel like the greatest miracle of all.\n* the elements: 자연력\n\n(C)\nGus couldn't bring himself to leave the dogs out in the storm. That night, he prepared a warm bed with food and water close by. As a boy, (c) he had dreamed of owning a beagle, but keeping this pair was not an option — Gus already had a dog. However, Gus knew someone at the League for Animal Welfare, an animal shelter in nearby Batavia. The next morning, he took the dogs to the shelter to drop them off — on one condition.\n\n(D)\nTheir collars and tags suggested they belonged to someone, but why were they outside in such harsh weather? Gus stopped his truck and approached the two dogs, who didn't try to flee. (d) He read their tags — Pepper and Cooper — but when he called the phone number, the man who answered said, \"I gave them to another family. They're not mine anymore.\" When Gus asked where they were sent, the man paused and said, \"I don't know.\" Then, (e) he hung up abruptly, leaving Gus feeling surprised and uneasy. The beagles had nowhere to go.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 44,
+      "type": "장문",
+      "passage": "[43-45 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 45,
+      "type": "장문",
+      "passage": "[43-45 공통 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Pepper와 Cooper는 Bethel 근처의 시골 고속 도로를 떠돌아다녔다.", "보호시설 직원은 비글 한 쌍을 함께 두겠다고 약속했다.", "비글 한 쌍은 크리스마스가 되기 전에 입양되었다.", "Gus는 비글 한 쌍에게 따뜻한 잠자리를 준비해 주었다.", "Gus는 트럭을 세우고 비글 두 마리에게 다가갔다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A) Mike had always dreamed about going to a baseball game. He watched his favorite team, the Arrows, on TV all the time, but he had never seen a game in person. One afternoon, Mike's dad came home earlier than usual. \"Hey, Mike,\" he said, \"I just got two tickets for tonight's Arrows game. Do (a) you want to go?\" Mike was so excited that he ran to grab his Arrows hat. In the car, his dad handed him a new baseball glove and added, \"Just in case a fly ball comes our way.\"\n\n(B) Several hours later, Mike's favorite team hit a home run and won the game. Fireworks filled the sky, and the team song played throughout the stadium. When they got home, Mike told his mom all about his favorite plays and showed her the ball he caught. (b) He knew this was a day he would never forget. It wasn't just the game ― it was the cheering, the excitement, and best of all, spending time with his dad. He couldn't wait for the next time they would get to go to a game.\n\n(C) The stadium was full of people wearing Arrows shirts. Mike couldn't believe how big the stadium looked in person. As the players ran onto the field, Mike and his dad cheered for their team's players. His dad pointed at the player running out to third base, saying \"Look, it's Chavez, (c) your favorite player!\" Mike saw him warming up on the field and waved hoping to get (d) his attention. After the players warmed up, Mike and his dad went to get some snacks. As soon as they sat back down, the pitcher threw the first pitch.\n\n(D) Before long, it was Chavez's turn to hit. He hit a high fly ball into the stands. The whole crowd stood up, but Mike reached up with his glove and grabbed the ball. Everyone clapped and smiled at Mike. (e) He tightly held the ball and felt a little surprised, but very proud. Both teams kept scoring and the game stayed close. Mike and his dad cheered for every hit and held their breath during every big play. They high-fived each other every time the Arrows scored.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["Mike의 아빠는 평소보다 일찍 집에 왔다.", "Mike가 가장 좋아하는 팀은 홈런을 치지 못했다.", "경기장이 Arrows 셔츠를 입은 사람들로 가득했다.", "Chavez가 친 공은 관중석으로 날아갔다.", "Arrows가 득점할 때마다 Mike와 아빠는 하이파이브를 했다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    }
+  ]
+}

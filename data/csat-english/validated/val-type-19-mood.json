@@ -1,0 +1,86 @@
+{
+  "type": "심경 변화",
+  "typeNumber": 19,
+  "summary": {
+    "pass": 5,
+    "warn": 0,
+    "fail": 0
+  },
+  "validations": [
+    {
+      "questionIndex": 0,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 4,
+        "난이도적절성": 5,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": "지문이 자연스럽지만 E string이 끊어지는 전개가 다소 작위적임. 선지 중 'indifferent'와 'jealous'가 명백한 오답이라 소거가 쉬운 편. 전반적으로 정답이 명확하고 오답 근거도 충분하여 양호."
+    },
+    {
+      "questionIndex": 1,
+      "myAnswer": 1,
+      "providedAnswer": 1,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": "지문의 서사가 매우 자연스럽고 감정 전환이 명확. 정답 'discouraged → overjoyed'가 유일한 답. 다만 난이도가 다소 쉬운 편으로, 'nervous → calm'만이 부분 매칭 가능한 매력적 오답이고 나머지 3개는 즉시 소거 가능."
+    },
+    {
+      "questionIndex": 2,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 5,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": "[수정됨] 지문을 2단계 구조(anxious→relieved)로 재작성. Laura가 무대 공포증으로 긴장한 후 성공적 공연으로 안도하는 깔끔한 전환. 정답 유일성 확인됨."
+    },
+    {
+      "questionIndex": 3,
+      "myAnswer": 5,
+      "providedAnswer": 5,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 5,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null
+    },
+    {
+      "questionIndex": 4,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 5,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": "지문 서사와 감정 전환이 자연스럽고 정답이 명확. 선지 중 'annoyed → indifferent'가 부분적 매력이 있지만 'annoyed'가 Mia의 감정(miserable)과 다소 거리가 있어 소거 가능. 전반적으로 우수한 문항."
+    }
+  ]
+}

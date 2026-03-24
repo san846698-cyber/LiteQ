@@ -1,0 +1,187 @@
+{
+  "type": "주장",
+  "typeNumber": 20,
+  "totalCount": 18,
+  "questions": [
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "There is no denying that engaging in argument carries certain significant risks. When we argue, we exchange and examine reasons with a view toward believing what our best reasons say we should believe; sometimes we discover that our current reasons fall short, and that our beliefs are not well supported after all. Or sometimes we discover that a belief that we had dismissed as silly or obviously false in fact enjoys the support of highly compelling reasons. On other occasions, we discover that the reasons offered by those with whom we disagree measure up toe-to-toe with our own reasons. In any of these situations, an adjustment in our belief is called for; we must change what we believe, or revise it, or replace it, or suspend belief altogether.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["논쟁 중에 알게 된 바에 따라 자신의 믿음을 조정해야 한다.", "논쟁을 하기 전에 상대방의 주장을 면밀히 검토해야 한다.", "논쟁에서 불리해지더라도 감정적으로 반응해서는 안 된다.", "의사 결정 시에는 충분한 시간을 갖고 신중하게 해야 한다.", "반대 의견을 제시할 때 상대의 논리적 허점을 공략해야 한다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Anthropology has become relevant for addressing global issues. This is not to deny the vital role of 'hard' sciences in addressing these problems. However, if we are to solve global problems we need a new way of thinking based in humanities and social sciences. It is impossible to resolve global issues merely by looking at numbers and statistics. Anthropology thus becomes crucial, as a discipline and a profession enabling the collection and interpretation of 'thick data' — in addition to 'big data' — and helps us to understand the world we live in more comprehensively. In answering such questions, we should stop relying only on quantitative data analytics; instead, the most important decisions should also be informed by anthropological qualitative approaches which provide a more complete and nuanced picture of people's lives.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["광범위한 규모의 문제를 다룰 때는 처리 단계를 세분화해야 한다.", "실증적 자료를 토대로 해결할 수 있는 문제를 먼저 처리해야 한다.", "글로벌 문제 해결을 위해 인류학의 질적 접근법을 활용해야 한다.", "전 인류적 문제에 대한 질적 연구는 정량화된 수치에 기반해야 한다.", "사회 문제의 포괄적 이해를 위해 자료를 반복적으로 검증해야 한다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Certain hindrances to multifaceted creative activity may lie in premature specialization. However, development of creative ability in one domain may enhance effectiveness in other domains that require similar skills, and flexible switching between generality and specificity is helpful to productivity in many domains. Excessive specificity may result in information from outside the domain being underestimated, which leads to fixedness of thinking, whereas excessive generality causes chaos, vagueness, and shallowness. What should therefore be optimal for the development of cross-domain creativity is support for young people in taking up creative challenges in a specific domain and coupling it with encouragement to apply knowledge and skills in, as well as from, other domains, disciplines, and tasks.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["창의성을 개발하기 위해서는 도전과 실패를 두려워하지 말아야 한다.", "전문 지식과 기술을 전수하려면 집중적인 투자가 선행되어야 한다.", "창의적인 인재를 육성하기 위해 다양한 교육과정을 준비해야 한다.", "특정 영역에서 개발된 창의성이 영역 간 활용되도록 장려해야 한다.", "조기 교육을 통해 특정 분야의 전문가를 지속적으로 양성해야 한다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Leaving behind technology during intentional time alone is essential for the cognitive benefits, neurological repair, and spiritual clarity that are the gifts of solitude. Multiple studies show that anxiety is markedly reduced, and we gain benefits similar to solitude, not by simply turning our phones off but by having them not physically with us. If a phone is essential for safety during time alone, then turn off alerts, cover the screen — just tape paper right over it — and keep it somewhere that is terribly inconvenient to access. I am always surprised by how long it takes me to give up the impulse to reach for my phone, often for no reason at all, other than to \"just check.\" Check what? Always it is something that can do without me for the moment. It is important that we allow ourselves time to free our minds from even the possibility of constant connectivity, to \"normalize deactivation,\" as herbalist Sophia Rose puts it, allowing our overstimulated neuronal connections to rest and reassemble.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["개인정보 유출을 막기 위해 휴대전화 보안을 강화해야 한다.", "물리적 고립 상황에 대응하기 위한 통신 기술을 개발해야 한다.", "업무에 집중하기 위해 근무 시간에 휴대전화 사용을 자제해야 한다.", "혼자 있는 시간의 이점을 얻으려면 휴대전화와 떨어져 있어야 한다.", "고독감을 느끼지 않기 위해 사람들과 정서적인 연결을 지속해야 한다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Confident is not the same as comfortable. One of the biggest misconceptions about becoming self-confident is that it means living fearlessly. The key to building confidence is quite the opposite. It means we are willing to let fear be present as we do the things that matter to us. When we establish some self-confidence in something, it feels good. We want to stay there and hold on to it. But if we only go where we feel confident, then confidence never expands beyond that. If we only do the things we know we can do well, fear of the new and unknown tends to grow. Building confidence inevitably demands that we make friends with vulnerability because it is the only way to be without confidence for a while. But the only way confidence can grow is when we are willing to be without it. When we can step into fear and sit with the unknown, it is the courage of doing so that builds confidence from the ground up.\n* vulnerability: 취약성",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["적성을 파악하기 위해서는 자신 있는 일을 다양하게 시도해야 한다.", "자신감을 키우기 위해 낯설고 두려운 일에 도전하는 용기를 가져야 한다.", "어려운 일을 자신 있게 수행하기 위해 사전에 계획을 철저히 세워야 한다.", "과도한 자신감을 갖기보다는 자신의 약점을 객관적으로 분석해야 한다.", "자신의 경험과 지식을 바탕으로 당면한 문제에 자신 있게 대처해야 한다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "The chemists Hans Ebel, Claus Bliefert, and William Russey note: \"It goes without saying that scientists need to be skillful readers. Extensive reading is the principal key to expanding one's knowledge and keeping up with developments in a discipline. However, what is often overlooked here is that scientists are also obliged to be skillful writers. Only the researcher who is competent in the art of written communication can play an active and effective role in contributing to science.\" From the perspective of readability, moreover, scientists should always write with a reader-centered mentality; even in the act of writing they must be mindful of the act of reading. It would be beneficial for them to understand how readers read in order to improve their writing.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["과학자는 독자와 만나는 기회를 자주 가져야 한다.", "과학자는 독자의 관점에서 글을 쓸 줄 알아야 한다.", "과학자는 다양한 의견에 개방적인 태도를 가져야 한다.", "과학자는 자기 연구 분야 이외의 책도 많이 읽어야 한다.", "과학자는 연구 결과가 사회에 미치는 영향을 인식해야 한다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "By definition, adult learners have a self concept of being in charge of their own lives and have a need to be seen and treated as being capable of taking responsibility for their own learning. As such, learners need to be given the freedom and autonomy to assume responsibility for their own choices and to be proactive in making decisions that contribute to their educational experiences. Rather than perform the role of the \"sage on the stage,\" in working with adult learners, the instructor's role should be the \"guide on the side\" — a facilitator of learning, and a coach or mentor who works alongside their learners to promote achievement and academic success. The facilitator role extends beyond course delivery, and includes the broader pedagogical tasks that will support learners on their growth such as helping them effectively manage their time; fostering engagement; assigning meaningful and relevant learning activities; and so on.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["학생들의 성취도를 측정할 수 있는 객관적인 평가 도구를 개발해야 한다.", "성인 학습자를 가르치는 교사는 촉진자의 역할을 수행해야 한다.", "교사는 지식 전달을 최우선으로 하여 수업을 진행해야 한다.", "교사는 학생들의 연령에 상관없이 시각 자료를 활용해야 한다.", "성인 학습자는 새로운 것을 배울 때 더 많은 시간을 투자해야 한다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "When you are middle‑aged, the risk of connective tissue injuries peaks as decreased load tolerance combines with continued high activity levels. The path of least resistance is to stop doing the things that hurt ― avoid uncomfortable movements and find easier forms of exercise. However, that's the exact opposite of what you should do. There is a path forward. But it doesn't involve following the typical pain management advice of rest, ice, and medicine, which multiple reviews have shown is not effective for treating age‑related joint pain and dysfunction. These methods do nothing more than treat superficial symptoms. The only practical solution is to strengthen your body with muscle training. Whether you've been training for a few years or a few decades, or haven't ever stepped foot in the weight room, it's not too late to restore your body, build real strength, and achieve your physical potential.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["관절의 노화를 늦추기 위해 적절한 체중을 유지해야 한다.", "근육을 강화하기 위해 다양한 강도의 운동을 병행해야 한다.", "중년층은 근 손실 예방을 위해 식단을 철저히 관리해야 한다.", "노화와 관련된 관절 질환에는 치료보다 예방이 우선되어야 한다.", "중년에는 통증이 따르더라도 근력 운동으로 신체를 강화해야 한다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "As the world seems to be increasingly affected by the ever-expanding influence of machines in general and artificial intelligence (AI) specifically, many begin to imagine, with either fear or anticipation, a future with a diminished role for human decision making. Whether it be due to the growing presence of AI assistants or the emergence of self-driving cars, the necessity of the role of humans as the decision makers would appear to be in decline. After all, our capacity for making mistakes is well documented. However, perhaps the saving grace of human determination is to be found here as well. Little evidence exists that suggests modern AI's infallibility or predicts it in the future. It is crucial that, in light of humanity's acceptance of our own fallibility, we utilize our capacity to overcome such failures to position ourselves as the overseers of AI's own growth and applications for the foreseeable future.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["인간은 AI의 발전 가능성과 불안정성을 동시에 고려해야 한다.", "인간은 창의력을 향상시키기 위해 AI에 의존하지 말아야 한다.", "실수를 보완하기 위해 인간은 AI의 활용 방안을 모색해야 한다.", "AI에 대한 학습을 통해 인간은 미래 사회 변화에 대비해야 한다.", "AI의 영향력 확산에 대비하여 인간은 오류 극복 능력을 활용해야 한다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Walk into a bookstore and you'll see some authors have a whole shelf. Authors with just one book are hard to find and it's the same for digital shelf space. Look at the most loved and top selling authors and they all have a lot of books. One book is not enough to build a career as a fiction author if that is a goal of yours. So, don't obsess over that one book, consider it just the beginning, and get writing on the next one. Of course, first time authors don't want to hear this! I certainly didn't when I put my first book out. I've tried every single marketing tool possible and I still continue to experiment with new forms. But after 27 books, writing more books is what I personally keep coming back to as the best marketing tool and the best way to increase my income as a writer. Because every time a new book comes out, more readers discover the backlist. You also have another chance to 'break out'.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["작가로 성공하려면 계속해서 출간해야 한다.", "좋은 글을 쓰려면 먼저 글을 많이 읽어야 한다.", "자신의 경험을 글쓰기 소재로 적극 활용해야 한다.", "책을 홍보하기 위해 다양한 마케팅 수단을 마련해야 한다.", "작가별 전시에서 벗어나 새로운 도서 전시 방식을 시도해야 한다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Truth is essential for progress and the development of knowledge, as it serves as the foundation upon which reliable and accurate understanding is built. However, one of the greatest threats to the accumulation of knowledge can now be found on social media platforms. As social media becomes a primary source of information for millions, its unregulated nature allows misinformation to spread rapidly. Social media users may unknowingly participate in creating and circulating misinformation, which can influence elections, cause violence, and create widespread panic, as seen in various global incidents. As creators and consumers, it is our responsibility to take on a greater role in the enhancement of fact-checking protocols in order to ensure accuracy. It is critical that participants safeguard the reliability of information, supporting a more informed and rational public community.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["소셜 미디어 플랫폼을 운영할 때 사용자의 의견을 반영해야 한다.", "디지털 창작물의 저작권 보호에 관한 사회적 합의를 도출해야 한다.", "소셜 미디어 사용자는 정보의 정확성과 신뢰성 확보를 위해 힘써야 한다.", "광범위한 지식을 축적하기 위해 다양한 정보의 유통을 촉진해야 한다.", "소셜 미디어 기업은 개인 정보 보호를 위한 대책을 세워야 한다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "There are few universals in this world, but among them are our love for our children and our love of music. When we hold a baby in our arms, comforting her with song, we are channelling the emotional power of music. We do so instinctively, just as our ancestors did. Music can be a powerful parental ally during the challenging childrearing years. To successfully prepare our children for life in the twenty-first century, we will need to nurture qualities such as curiosity, imagination, empathy, creative entrepreneurship, and most of all resilience. Musical practice in early childhood develops all of the above and more. Research has shown that musical practice in early childhood is beneficial not only for mental acuity but for social and emotional development as well. Music is not just a hobby, a pleasant pastime; it is an integral part of what makes us happy, healthy, and whole. Indeed, if we want to do one thing to help our children develop into emotionally, socially, intellectually, and creatively competent human beings, we should start the musical conversation — the earlier the better.\n* resilience: 회복력 ** acuity: 예리함",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["아이의 전인적 성장을 위해 어릴 때부터 음악을 접하게 해줘야 한다.", "음악이 단순한 취미 이상이 되려면 악기를 꾸준히 연습해야 한다.", "질 높은 음악 교육을 위해 이론과 실습을 병행해야 한다.", "음악을 아이 양육에 활용하려면 음악적 전문성이 있어야 한다.", "어린 연주자들에게도 재능을 발휘할 수 있는 기회가 주어져야 한다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "People have an anti-persuasion radar or defense system that goes off when someone is trying to persuade them. The more something or someone disagrees with them, the less likely they are to listen. Consequently, one reason change is so hard is that people are unwilling to even consider information that goes against their beliefs. As a result, when dealing with opposing viewpoints, being a bit more indirect can often be more effective. Rather than starting with information, start by encouraging people to be more open minded and receptive. This is why expressing doubt can help. Showing that we're conflicted or uncertain makes us seem less threatening. Expressing doubt about one's own view acknowledges that conflicting beliefs are valid, making the other side feel validated and more willing to listen. It recognizes that issues are complicated or nuanced, which increases receptiveness. Uncertainty signals an openness to other perspectives. So particularly when issues are controversial or people are dug in, expressing a little doubt can actually be more persuasive.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["불확실한 상황을 피하려면 계획을 철저히 세워야 한다.", "상대를 변화시키려면 정확한 정보를 먼저 제공해야 한다.", "누군가 자신을 일방적으로 설득하려 하면 이를 경계해야 한다.", "자신의 주장을 관철하고자 할 때는 본론으로 바로 들어가야 한다.", "나와 다른 의견에 설득력이 있으려면 간접적인 태도를 보여야 한다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "AI technology is powerful, and it is transformative, but the AI hype of recent years has contributed to a god complex that positions technology leaders as voices of authority on the societal problems their creations have often caused. Listening to scientists and innovators is important. But those who are profiting from AI hype are not experts on how that work should be judged. Neither do distinguished computer scientists, no matter how gifted in their field, automatically understand the complex systems of power, money, and politics that will govern the use of their products in the future. In fact, those already living at the frontline of AI-enabled worker surveillance, or trapped in a nightmare of AI decision-making, are far better qualified for that. So it is critically important for the future of AI that a much wider group of people become involved in shaping its future. Instead of continually turning to the architects of AI for predictions of the future and solutions to its ills, the introduction of AI into society requires a broader and more inclusive approach.\n* hype: 과도한 열풍 ** surveillance: 감시",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["AI 개발로 인한 고용 시장 변화에 대비해야 한다.", "AI 기술 개발에 있어 윤리적 문제를 고려해야 한다.", "높은 접근성이 AI 기술의 최우선 목표가 되어야 한다.", "미래 사회문제 해결에 AI 전문가가 중대한 역할을 해야 한다.", "AI의 미래를 만드는 데 더 다양한 분야의 사람들이 관여되어야 한다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Our ability to respond to danger has been important for survival, so feeling worried in uncertain situations is normal. Feelings of worry, which are activated in anticipation of future events, are often experienced in everyday situations. For example, we may feel nervous imagining unlikely events, such as a computer crashing during an important presentation. To some extent, thinking through potential scenarios can be helpful. When our worries exceed our control, however, they cause us unnecessary suffering. Consider how many times you have lost sleep thinking about a terrible situation, which, in the end, did not actually take place. If that situation actually occurred, it only goes to show that worrying about it did nothing to prevent it from happening. It is worth making a conscious effort, then, to stop worrying endlessly about events you may not experience.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["긴장감으로 인한 실수를 줄이기 위해 연습을 많이 해야 한다.", "일어날 것 같지 않은 일에 대해 지나치게 걱정하지 말아야 한다.", "목표를 수월하게 달성하려면 계획을 구체적으로 세워야 한다.", "일의 과정을 즐기려면 결과에 대한 과도한 집착을 버려야 한다.", "자신의 걱정이 무엇에서 비롯되었는지 면밀히 살펴봐야 한다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Showing up late for work and using abusive language are the kinds of problems that every business wants to eliminate. Business leaders looking to achieve this often focus on finding \"bad apples\" who break their rules and then punishing them. This assumes that the bad apples are acting badly on purpose. In fact, one common reason that employees give for breaking rules is that they were unaware their behavior was undesirable. There are some actors who knowingly act against policy, but many problems are unintentional failings. If businesses want better employees, those businesses must create clear standards and educate their employees directly about how to follow them. Without these standards there would be no way to distinguish bad apples from merely uninformed apples.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["생산성 향상을 위해 기업은 직원 윤리 교육을 주기적으로 시행해야 한다.", "기업은 행동 수칙에 대한 명확한 규정을 마련하여 직원을 교육해야 한다.", "직원의 비윤리적 행위 예방을 위해 기업은 상벌 규정을 정비해야 한다.", "근무 성과에 따른 보상을 통해 기업은 우수 직원의 이탈을 막아야 한다.", "기업은 직원에 대한 공정한 평가를 위해 동료 평가를 실시해야 한다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "You probably have quirks in your own memory and feedback loop: the past negative experiences that feel bigger than they should, or the positive affirmations that we can overinterpret. The important thing is to take some conscious control over a process that otherwise proceeds unconsciously, robbing us of complete ownership of how we think about life situations and make decisions. If you are struggling to commit to a relationship because your last one was difficult, you need to remember that your previous one does not define you; the weighting of that may be too heavy in your feedback loop, inhibiting your ability to judge the new relationship on its merits. We need to think about why we feel a certain way, whether that is uncertain or overconfident, and try to locate the root of that emotion in the previous experiences that have filled our memory banks and conditioned our feedback loops.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["때로는 무의식적 판단이 더 옳다는 것을 인정해야 한다.", "주관보다는 공신력 있는 자료를 바탕으로 결정해야 한다.", "우리가 과거 경험에서 받는 영향을 의식적으로 통제해야 한다.", "낯선 상황에서 빠르게 판단하려면 다양한 경험을 쌓아야 한다.", "중요한 결정을 할 때 그에 따른 장기적인 결과를 고려해야 한다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "The idea of cutting out a budget category probably makes you nervous. But being mindful about your spending doesn't have to be an all-or-nothing game. Instead of forcing yourself to go entirely without, reduce spending on that category by just 10 percent each month. You won't see sudden, drastic change in your budget, but the shift will be a lot easier to stomach. Say you spent $148 at coffee shops last month. The idea of never buying coffee is enough to make you want to hide from your budget forever, but what if you challenged yourself to spend just 10 percent less on coffee this month? That's $14.80 less, for a total of $133.20. Then, next month, see if you can bring that expense down by 10 percent again to $119.88. By introducing incremental shifts instead of huge, radical changes, you're more likely to stick with your new, moderately reduced habits.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["불필요한 소비를 막으려면 주기적으로 지출 내역을 확인하라.", "예산 절감을 지속하기 위해 지출을 점진적으로 줄여라.", "소비를 계획하기 전에 수입과 지출 현황을 분석하라.", "재정 위기가 닥쳤을 때 큰 폭으로 예산을 삭감하라.", "예산 항목에 따라 지출 계획을 다르게 수립하라."],
+      "answer": 2,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    }
+  ]
+}

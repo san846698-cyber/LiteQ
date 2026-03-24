@@ -1,0 +1,249 @@
+{
+  "type": "요약문",
+  "typeNumber": 40,
+  "analysis": {
+    "passageLength": "150-250 words, academic prose covering social science, psychology, philosophy, technology, biology, or education topics",
+    "summaryStructure": "One sentence summarizing the passage's core argument with two blanks (A) and (B) that require contextual understanding to fill",
+    "choicePattern": "5 choices each containing a (A)-(B) word pair; distractors share partial semantic overlap with the correct answer but fail on at least one blank",
+    "difficultyLevel": "Upper-intermediate to advanced vocabulary; requires grasping the passage's main thesis and selecting words that accurately capture both the nuance and logic of the argument",
+    "commonTopics": "Contrasts, cause-effect relationships, concession-counterargument structures, and paradoxes in academic subjects",
+    "answerDistribution": "Answers distributed across positions 1-5 with no strong bias"
+  },
+  "generated": [
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "In many traditional societies, the elderly were revered as repositories of knowledge, their accumulated experience serving as a living library for the community. With the rise of digital information systems, however, this role has been fundamentally altered. Younger generations can now access vast stores of knowledge instantaneously through the internet, reducing their reliance on older community members for guidance. This shift has had profound social consequences. The status once accorded to the elderly based on their wisdom has eroded, and intergenerational bonds have weakened as the young no longer seek out the old for counsel. Ironically, while the information available to modern societies has expanded enormously, the social fabric that once held communities together through the transfer of knowledge between generations has become increasingly frayed. The very technology that democratized access to information has simultaneously undermined one of the oldest forms of social cohesion.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nDigital technology has (A) the traditional role of the elderly as knowledge holders, thereby (B) the intergenerational ties that once strengthened communities.",
+      "choices": [
+        "(A) reinforced — (B) loosening",
+        "(A) diminished — (B) weakening",
+        "(A) preserved — (B) transforming",
+        "(A) elevated — (B) severing",
+        "(A) diminished — (B) tightening"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) diminished — (B) weakening. (A) 근거: 지문의 'this role has been fundamentally altered'와 'The status once accorded to the elderly based on their wisdom has eroded'가 노인의 지식 전달자 역할이 '축소(diminished)'되었음을 직접 뒷받침합니다. (B) 근거: 'intergenerational bonds have weakened as the young no longer seek out the old for counsel'이 세대 간 유대가 '약해지고 있음(weakening)'을 명시합니다.",
+        "wrong": {
+          "1": "① (A) reinforced가 오답 — 지문은 노인의 역할이 강화된 것이 아니라 'eroded(침식)'되었다고 서술합니다.",
+          "3": "③ (A) preserved가 오답 — 지문은 역할이 'fundamentally altered(근본적으로 변화)'되었다고 하므로 '보존'은 정반대 의미입니다.",
+          "4": "④ (A) elevated가 오답 — 역할이 높아진 것이 아니라 낮아졌습니다. (B) severing도 과도한 표현 — 지문은 유대가 'weakened(약해졌다)'고만 하며 완전히 끊겼다고는 하지 않습니다.",
+          "5": "⑤ (B) tightening이 오답 — 지문은 유대가 'weakened'되었다고 하므로 '긴밀해졌다'는 tightening은 반대 의미입니다."
+        },
+        "key_point": "(A)는 지문의 'eroded / fundamentally altered'에서, (B)는 'intergenerational bonds have weakened'에서 직접 근거를 찾을 수 있습니다. 요약문 빈칸은 반드시 지문의 핵심 표현과 의미적으로 일치하는 단어를 선택해야 합니다."
+      },
+      "self_check": {
+        "passage_topic": "Digital technology eroding the traditional knowledge-holding role of the elderly and weakening intergenerational bonds",
+        "correct_pair": "(A) diminished — (B) weakening",
+        "A_justification": "'diminished' correctly captures how digital access has reduced/lessened the elderly's role as knowledge repositories",
+        "B_justification": "'weakening' accurately reflects the erosion of intergenerational bonds described in the passage",
+        "distractor_analysis": {
+          "choice_1": "(A) 'reinforced' is opposite to the passage meaning",
+          "choice_3": "(A) 'preserved' contradicts the fundamental alteration described",
+          "choice_4": "(A) 'elevated' is opposite; (B) 'severing' is too extreme — bonds weakened, not completely cut",
+          "choice_5": "(A) fits but (B) 'tightening' is the opposite of what happened"
+        },
+        "summary_faithfulness": "The summary accurately captures both the cause (digital technology reducing elderly's role) and effect (weakening of community ties)",
+        "korean_explanation": {
+          "correct": "(A) diminished — 지문에서 \"this role has been fundamentally altered\"와 \"The status once accorded to the elderly based on their wisdom has eroded\"가 노인의 지식 전달자 역할이 '축소'되었음을 직접 뒷받침한다. (B) weakening — \"intergenerational bonds have weakened as the young no longer seek out the old for counsel\"이 세대 간 유대가 '약해지고' 있음을 명시한다.",
+          "wrong": {
+            "choice_1": "(A) reinforced가 오답 — 지문은 노인의 역할이 강화된 것이 아니라 'eroded(침식)'되었다고 서술한다.",
+            "choice_3": "(A) preserved가 오답 — 지문은 역할이 'fundamentally altered(근본적으로 변화)'되었다고 하므로 '보존'은 정반대 의미다.",
+            "choice_4": "(A) elevated가 오답 — 역할이 높아진 것이 아니라 낮아졌다. (B) severing도 오답 — 지문은 유대가 'weakened(약해졌다)'고만 하며 완전히 끊겼다고는 하지 않는다.",
+            "choice_5": "(B) tightening이 오답 — 지문은 유대가 'weakened'되었다고 하므로 '긴밀해졌다'는 의미의 tightening은 반대다."
+          }
+        }
+      }
+    },
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "Researchers have long observed that creativity often flourishes not in moments of comfort but during periods of constraint. When resources are abundant, people tend to follow established patterns and rely on conventional approaches. Scarcity, by contrast, forces individuals to reconsider their assumptions and explore unconventional solutions. A classic example comes from the Apollo 13 mission, where engineers on the ground had to devise a carbon dioxide filter using only the materials available aboard the damaged spacecraft. The limitation itself became the catalyst for innovation. Similarly, studies in organizational psychology have shown that teams given smaller budgets frequently produce more original work than those with unlimited funding. The explanation lies in the way constraints redirect cognitive effort: rather than scanning a wide field of obvious options, the mind is compelled to forge new connections between existing elements, a process that is at the heart of creative thinking.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nContrary to common belief, (A) of resources can actually stimulate creativity by compelling people to seek (B) solutions rather than relying on familiar ones.",
+      "choices": [
+        "(A) abundance — (B) innovative",
+        "(A) scarcity — (B) conventional",
+        "(A) distribution — (B) practical",
+        "(A) scarcity — (B) novel",
+        "(A) surplus — (B) alternative"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) scarcity — (B) novel. (A) 근거: 'Scarcity, by contrast, forces individuals to reconsider their assumptions'와 'The limitation itself became the catalyst for innovation'이 자원 '부족(scarcity)'이 창의성을 자극하는 조건임을 직접 제시합니다. (B) 근거: 'forge new connections between existing elements'와 'explore unconventional solutions'이 결과물이 '새로운(novel)' 해결책임을 지지합니다.",
+        "wrong": {
+          "1": "① (A) abundance가 오답 — 지문은 풍요로울 때 오히려 'conventional approaches(관습적 접근)'에 의존한다고 설명합니다.",
+          "2": "② (B) conventional이 오답 — 지문은 제약이 사람들을 'unconventional solutions(비관습적 해결책)'으로 이끈다고 명시하므로 정반대입니다.",
+          "3": "③ (A) distribution이 오답 — 지문은 자원의 '분배'가 아닌 '부족'을 핵심 조건으로 다룹니다.",
+          "5": "⑤ (A) surplus가 오답 — surplus(잉여)는 scarcity(부족)의 반대 의미입니다."
+        },
+        "key_point": "(A)는 지문의 'Scarcity'와 'The limitation itself'에서, (B)는 'unconventional solutions'와 'forge new connections'에서 직접 근거를 찾을 수 있습니다. 반의어 함정(abundance/surplus vs. scarcity)에 주의해야 합니다."
+      },
+      "self_check": {
+        "passage_topic": "Resource constraints fostering creativity by pushing people toward unconventional solutions",
+        "correct_pair": "(A) scarcity — (B) novel",
+        "A_justification": "'scarcity' accurately captures the condition of limited resources that drives creativity as described in the passage",
+        "B_justification": "'novel' correctly reflects 'unconventional solutions' and 'new connections' — the creative outcomes produced under constraint",
+        "distractor_analysis": {
+          "choice_1": "(A) 'abundance' is the opposite condition; in the passage, abundance leads to conventional thinking",
+          "choice_2": "(A) fits but (B) 'conventional' contradicts the passage — constraints push away from conventional solutions",
+          "choice_3": "(A) 'distribution' is unrelated to the passage's argument about scarcity vs abundance",
+          "choice_5": "(A) 'surplus' means the opposite of scarcity; (B) 'alternative' is close but weaker than 'novel'"
+        },
+        "summary_faithfulness": "The summary captures the counterintuitive relationship between resource limitation and creative output",
+        "korean_explanation": {
+          "correct": "(A) scarcity — 지문에서 \"Scarcity, by contrast, forces individuals to reconsider their assumptions\"와 \"The limitation itself became the catalyst for innovation\"이 자원 '부족'이 창의성을 자극한다는 근거다. (B) novel — \"forge new connections between existing elements\"와 \"explore unconventional solutions\"이 결과물이 '새로운(novel)' 해결책임을 지지한다.",
+          "wrong": {
+            "choice_1": "(A) abundance가 오답 — 지문은 풍요로울 때 오히려 'conventional approaches(관습적 접근)'에 의존한다고 설명한다.",
+            "choice_2": "(B) conventional이 오답 — 지문은 제약이 사람들을 'unconventional solutions(비관습적 해결책)'으로 이끈다고 명시하므로 정반대다.",
+            "choice_3": "(A) distribution이 오답 — 지문은 자원의 '분배'가 아닌 '부족'을 핵심 조건으로 다룬다.",
+            "choice_5": "(A) surplus가 오답 — surplus(잉여)는 scarcity(부족)의 반대 의미다."
+          }
+        }
+      }
+    },
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "When people recall past events, they often believe they are retrieving a faithful record stored somewhere in the brain. In reality, memory operates more like a reconstruction than a replay. Each time we remember something, the brain reassembles fragments of sensory data, emotional associations, and contextual details into a narrative that feels coherent but may differ from what actually occurred. This reconstructive process is highly susceptible to external influences. Studies have demonstrated that the phrasing of a question can alter a witness's recollection of an event: asking whether a car \"smashed\" into another, rather than \"contacted\" it, leads witnesses to report higher speeds and even to recall broken glass that was never there. Furthermore, memories can be contaminated by information encountered after the original event, a phenomenon known as the misinformation effect. Over successive recollections, the original experience may drift further from reality, each retrieval introducing subtle distortions that accumulate over time.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nHuman memory is not a precise recording but a (A) process, making it vulnerable to (B) that can alter what we believe we experienced.",
+      "choices": [
+        "(A) selective — (B) repetition",
+        "(A) reconstructive — (B) distortion",
+        "(A) mechanical — (B) interference",
+        "(A) creative — (B) reinforcement",
+        "(A) involuntary — (B) suppression"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) reconstructive — (B) distortion. (A) 근거: 지문의 핵심 주장인 'memory operates more like a reconstruction than a replay'가 직접 근거입니다. (B) 근거: 'each retrieval introducing subtle distortions that accumulate over time'과 질문 표현에 따른 기억 변조 실험('smashed' vs 'contacted')이 기억이 '왜곡(distortion)'에 취약함을 보여줍니다.",
+        "wrong": {
+          "1": "① (A) selective가 오답 — '선택적 기억'은 지문의 핵심인 '재구성'과 다른 개념입니다. (B) repetition도 오답 — 지문이 설명하는 취약점은 반복이 아닌 외부 영향에 의한 왜곡입니다.",
+          "3": "③ (A) mechanical이 오답 — 지문은 기억이 기계적 재생이 아닌 재구성이라고 명시합니다.",
+          "4": "④ (B) reinforcement가 오답 — 지문은 기억이 강화되는 것이 아니라 왜곡·변질된다고 서술합니다.",
+          "5": "⑤ (B) suppression이 오답 — 지문은 기억 억압이 아닌 외부 정보에 의한 오염과 왜곡을 다룹니다."
+        },
+        "key_point": "(A)는 지문의 'reconstruction'에서, (B)는 'distortions that accumulate'에서 직접 근거를 찾을 수 있습니다. 요약문의 두 빈칸이 서로 인과 관계(재구성 과정 → 왜곡에 취약)를 이루는지 확인해야 합니다."
+      },
+      "self_check": {
+        "passage_topic": "Memory as a reconstructive process susceptible to distortion from external influences",
+        "correct_pair": "(A) reconstructive — (B) distortion",
+        "A_justification": "'reconstructive' directly matches the passage's central claim that memory 'operates more like a reconstruction than a replay'",
+        "B_justification": "'distortion' captures the misinformation effect, question phrasing influence, and accumulated alterations described in the passage",
+        "distractor_analysis": {
+          "choice_1": "(A) 'selective' is partially related but misses the key idea of reconstruction; (B) 'repetition' is not the vulnerability described",
+          "choice_3": "(A) 'mechanical' contradicts the passage — memory is not mechanical; (B) 'interference' is close but less precise than 'distortion'",
+          "choice_4": "(A) 'creative' overstates the intentionality; (B) 'reinforcement' is opposite — memories are weakened/altered, not reinforced",
+          "choice_5": "(A) 'involuntary' addresses a different aspect; (B) 'suppression' is unrelated to the passage's argument"
+        },
+        "summary_faithfulness": "The summary accurately distills the two key points: memory as reconstruction and its vulnerability to distortion",
+        "korean_explanation": {
+          "correct": "(A) reconstructive — 지문의 핵심 주장인 \"memory operates more like a reconstruction than a replay\"가 직접 근거다. (B) distortion — \"each retrieval introducing subtle distortions that accumulate over time\"과 질문 표현에 따른 기억 변조 실험(\"smashed\" vs \"contacted\")이 기억이 '왜곡'에 취약함을 보여준다.",
+          "wrong": {
+            "choice_1": "(A) selective가 오답 — '선택적 기억'은 지문의 핵심인 '재구성'과 다른 개념이다. (B) repetition도 오답 — 지문이 설명하는 취약점은 반복이 아닌 외부 영향에 의한 왜곡이다.",
+            "choice_3": "(A) mechanical이 오답 — 지문은 기억이 기계적 재생이 아닌 재구성이라고 명시한다.",
+            "choice_4": "(B) reinforcement가 오답 — 지문은 기억이 강화되는 것이 아니라 왜곡·변질된다고 서술한다.",
+            "choice_5": "(B) suppression이 오답 — 지문은 기억 억압이 아닌 외부 정보에 의한 오염과 왜곡을 다룬다."
+          }
+        }
+      }
+    },
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "Urban green spaces such as parks and gardens are frequently praised for their environmental and aesthetic benefits, yet their contribution to public health is often underestimated. Research conducted across multiple European cities found that residents living within walking distance of a park reported significantly lower levels of stress and anxiety compared to those without nearby green spaces. The benefits extended beyond mental health: regular exposure to natural environments was associated with reduced blood pressure, improved immune function, and faster recovery from illness. Crucially, these health advantages were most pronounced among lower-income communities, where access to private gardens or countryside retreats is limited. For these populations, public green spaces serve as the primary — and sometimes only — point of contact with nature. When cities prioritize the development of commercial properties over the maintenance of parks, they inadvertently widen existing health disparities, as it is precisely the most economically disadvantaged residents who lose the most.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nUrban green spaces offer substantial health benefits, particularly for lower-income residents, so reducing such spaces can (A) health inequalities between different (B) groups.",
+      "choices": [
+        "(A) narrow — (B) age",
+        "(A) intensify — (B) socioeconomic",
+        "(A) expose — (B) cultural",
+        "(A) eliminate — (B) ethnic",
+        "(A) moderate — (B) demographic"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) intensify — (B) socioeconomic. (A) 근거: 지문의 'they inadvertently widen existing health disparities'가 건강 불평등이 '심화(intensify)'된다는 직접 근거입니다. (B) 근거: 'most pronounced among lower-income communities'와 'most economically disadvantaged residents who lose the most'에서 소득 수준, 즉 '사회경제적(socioeconomic)' 집단 간 격차가 핵심임을 알 수 있습니다.",
+        "wrong": {
+          "1": "① (A) narrow가 오답 — 지문은 공원 축소 시 불평등이 '좁아지는(narrow)' 것이 아니라 'widen(넓어진다)'고 명시합니다. (B) age도 오답 — 집단 구분 기준은 연령이 아닌 소득 수준입니다.",
+          "3": "③ (A) expose가 오답 — 'expose inequalities'는 불평등을 드러낸다는 뜻으로 불평등을 심화시킨다는 지문 내용과 다릅니다. (B) cultural도 오답 — 지문은 문화적 집단이 아닌 경제적 집단을 다룹니다.",
+          "4": "④ (A) eliminate가 오답 — 지문은 불평등을 없애는 것이 아니라 악화시킨다고 서술합니다. (B) ethnic도 오답 — 인종이 아닌 소득 수준이 핵심 집단 구분 기준입니다.",
+          "5": "⑤ (A) moderate가 오답 — moderate는 '완화하다'는 뜻으로 지문의 'widen(악화)'과 반대입니다."
+        },
+        "key_point": "(A)는 지문의 'widen existing health disparities'에서, (B)는 'lower-income communities'와 'economically disadvantaged residents'에서 직접 근거를 찾을 수 있습니다. 집단 구분 기준(연령/문화/인종 vs. 소득)을 정확히 파악하는 것이 핵심입니다."
+      },
+      "self_check": {
+        "passage_topic": "Urban green spaces providing critical health benefits especially for lower-income communities, and how their removal deepens health inequality",
+        "correct_pair": "(A) intensify — (B) socioeconomic",
+        "A_justification": "'intensify' correctly conveys 'widen existing health disparities' — reducing green spaces makes inequality worse",
+        "B_justification": "'socioeconomic' accurately reflects the passage's focus on lower-income vs. wealthier communities",
+        "distractor_analysis": {
+          "choice_1": "(A) 'narrow' is the opposite — disparities widen, not narrow; (B) 'age' is not the grouping discussed",
+          "choice_3": "(A) 'expose' does not collocate properly with 'inequalities'; (B) 'cultural' is not the dimension discussed",
+          "choice_4": "(A) 'eliminate' is the opposite of widening; (B) 'ethnic' is not the relevant category",
+          "choice_5": "(A) 'moderate' means to reduce/lessen, opposite to the passage; (B) 'demographic' is too vague"
+        },
+        "summary_faithfulness": "The summary captures both the health benefit of green spaces for lower-income groups and the consequence of their removal on inequality",
+        "korean_explanation": {
+          "correct": "(A) intensify — 지문의 \"they inadvertently widen existing health disparities\"가 건강 불평등이 '심화'된다는 근거다. (B) socioeconomic — \"most pronounced among lower-income communities\"와 \"most economically disadvantaged residents who lose the most\"에서 소득 수준, 즉 '사회경제적' 집단 간 격차가 핵심임을 알 수 있다.",
+          "wrong": {
+            "choice_1": "(A) narrow가 오답 — 지문은 공원 축소 시 불평등이 '좁아지는(narrow)'것이 아니라 'widen(넓어진다)'고 명시한다. (B) age도 오답 — 지문에서 집단 구분 기준은 연령이 아닌 소득 수준이다.",
+            "choice_3": "(A) expose가 오답 — 'expose inequalities'는 불평등을 드러낸다는 뜻으로, 불평등을 심화시킨다는 지문의 내용과 다르다. (B) cultural도 오답 — 지문은 문화적 집단이 아닌 경제적 집단을 다룬다.",
+            "choice_4": "(A) eliminate가 오답 — 지문은 불평등을 없애는 것이 아니라 악화시킨다고 서술한다. (B) ethnic도 오답 — 인종이 아닌 소득 수준이 핵심 집단 구분 기준이다.",
+            "choice_5": "(A) moderate가 오답 — moderate는 '완화하다'는 뜻으로 지문의 'widen(악화)'과 반대다."
+          }
+        }
+      }
+    },
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "In the early twentieth century, the scientific community largely viewed emotions as obstacles to rational decision-making. Researchers believed that the ideal thinker would be entirely free of emotional influence, processing information through logic alone. This perspective began to shift dramatically in the 1990s when neuroscientist Antonio Damasio studied patients with damage to the brain regions responsible for processing emotions. Despite retaining their intellectual abilities, these patients were unable to make even simple everyday decisions, such as choosing what to eat or when to schedule an appointment. Without the emotional signals that ordinarily help us weigh options and anticipate consequences, their reasoning became paralyzed by endless deliberation. Damasio's findings revealed that emotions are not the enemy of reason but an essential component of it. Subsequent research has confirmed that emotional responses function as a kind of rapid evaluation system, allowing us to navigate complex situations far more efficiently than pure logic would permit.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nContrary to the traditional view that emotions (A) rational thinking, research has shown that they actually (B) effective decision-making by providing rapid evaluative signals.",
+      "choices": [
+        "(A) impede — (B) facilitate",
+        "(A) enhance — (B) complicate",
+        "(A) reflect — (B) delay",
+        "(A) supplement — (B) undermine",
+        "(A) distort — (B) simplify"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) impede — (B) facilitate. (A) 근거: 지문의 'emotions as obstacles to rational decision-making'이 감정이 이성적 사고를 '방해한다(impede)'는 전통적 관점의 직접 근거입니다. (B) 근거: 'emotions are not the enemy of reason but an essential component of it'와 'allowing us to navigate complex situations far more efficiently'가 감정이 의사결정을 '촉진한다(facilitate)'는 새로운 발견을 뒷받침합니다.",
+        "wrong": {
+          "2": "② (A) enhance가 오답 — 전통적 관점은 감정이 이성을 '향상'시킨다는 것이 아니라 방해한다는 것이었습니다. (B) complicate도 오답 — 연구 결과는 감정이 의사결정을 복잡하게 만드는 것이 아니라 효율적으로 돕는다고 보여줍니다.",
+          "3": "③ (A) reflect가 오답 — 지문의 전통적 관점은 감정이 이성을 '반영'한다는 것이 아니라 방해한다는 것이었습니다. (B) delay도 오답 — 지문은 감정 신호가 'rapid evaluation(신속한 평가)'을 제공한다고 명시합니다.",
+          "4": "④ (B) undermine이 오답 — 지문의 새로운 연구 결과는 감정이 의사결정을 약화하는 것이 아니라 필수 요소라고 밝힙니다.",
+          "5": "⑤ (B) simplify가 오답 — 지문은 감정이 단순화보다 더 넓은 의미에서 의사결정을 'facilitate(촉진)'한다고 서술합니다."
+        },
+        "key_point": "(A)는 지문의 'obstacles to rational decision-making'에서, (B)는 'essential component of reason'과 'navigate complex situations far more efficiently'에서 직접 근거를 찾을 수 있습니다. 요약문은 전통적 관점(A)과 새로운 발견(B)의 대조 구조를 반영해야 합니다."
+      },
+      "self_check": {
+        "passage_topic": "The reversal of the traditional view that emotions hinder rationality, showing they are essential to effective decision-making",
+        "correct_pair": "(A) impede — (B) facilitate",
+        "A_justification": "'impede' accurately captures the traditional view that emotions are 'obstacles to rational decision-making'",
+        "B_justification": "'facilitate' correctly reflects the finding that emotions are 'an essential component' of reason and help us 'navigate complex situations far more efficiently'",
+        "distractor_analysis": {
+          "choice_2": "(A) 'enhance' is opposite to the traditional view; (B) 'complicate' contradicts the new finding",
+          "choice_3": "(A) 'reflect' does not capture the adversarial relationship in the old view; (B) 'delay' contradicts 'rapid evaluation'",
+          "choice_4": "(A) 'supplement' is too positive for the old view; (B) 'undermine' contradicts the research finding",
+          "choice_5": "(A) 'distort' is close but overstates; (B) 'simplify' is too narrow — the passage says 'facilitate' not merely 'simplify'"
+        },
+        "summary_faithfulness": "The summary accurately captures the contrast between the old view (emotions as obstacles) and the new finding (emotions as essential aids to decision-making)",
+        "korean_explanation": {
+          "correct": "(A) impede — 지문의 \"emotions as obstacles to rational decision-making\"이 감정이 이성적 사고를 '방해한다'는 전통적 관점의 직접 근거다. (B) facilitate — \"emotions are not the enemy of reason but an essential component of it\"와 \"allowing us to navigate complex situations far more efficiently\"가 감정이 의사결정을 '촉진한다'는 새로운 발견을 뒷받침한다.",
+          "wrong": {
+            "choice_2": "(A) enhance가 오답 — 전통적 관점은 감정이 이성을 '향상'시킨다는 것이 아니라 방해한다는 것이었다. (B) complicate도 오답 — 연구 결과는 감정이 의사결정을 복잡하게 만드는 것이 아니라 효율적으로 돕는다고 보여준다.",
+            "choice_3": "(A) reflect가 오답 — 지문의 전통적 관점은 감정이 이성을 '반영'한다는 것이 아니라 방해한다는 것이었다. (B) delay도 오답 — 지문은 감정 신호가 'rapid evaluation(신속한 평가)'을 제공한다고 명시한다.",
+            "choice_4": "(B) undermine이 오답 — 지문의 새로운 연구 결과는 감정이 의사결정을 약화하는 것이 아니라 필수 요소라고 밝힌다.",
+            "choice_5": "(B) simplify가 오답 — 지문은 감정이 단순화보다 더 넓은 의미에서 의사결정을 'facilitate(촉진)'한다고 서술한다."
+          }
+        }
+      }
+    }
+  ]
+}

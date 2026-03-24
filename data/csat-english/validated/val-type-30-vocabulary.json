@@ -1,0 +1,194 @@
+{
+  "type": "어휘",
+  "typeNumber": 30,
+  "validationDate": "2026-03-23",
+  "validator": "claude-opus-4-6",
+  "summary": {
+    "totalQuestions": 5,
+    "passed": 5,
+    "failed": 0,
+    "passRate": "100%"
+  },
+  "validated": [
+    {
+      "number": 30,
+      "questionIndex": 1,
+      "verdict": "PASS",
+      "answer": 4,
+      "answerConfirmed": true,
+      "wordAnalysis": {
+        "①_unaware": {
+          "word": "unaware",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "The passage states the brain filters out most sensory data, so we remain 'unaware' of most of it. This correctly describes our lack of conscious perception of filtered-out stimuli."
+        },
+        "②_focus": {
+          "word": "focus",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Selective attention 'allows us to focus on stimuli that are relevant' — this is the core definition of selective attention. Perfectly fits the context."
+        },
+        "③_decisively": {
+          "word": "decisively",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Without filtering, we would be 'unable to think clearly or act decisively.' Being overwhelmed by sensory input would prevent decisive action. Logically consistent."
+        },
+        "④_notice": {
+          "word": "notice",
+          "contextFit": "INAPPROPRIATE",
+          "reasoning": "The passage discusses inattentional blindness — the phenomenon of MISSING important signals due to selective attention. 'Notice' means to detect or become aware of, which is the exact opposite of the intended meaning. The correct word should be 'miss' or 'overlook.' The very next sentence about inattentional blindness confirms that people FAIL to perceive things, not that they notice them.",
+          "correctReplacement": "miss / overlook"
+        },
+        "⑤_underscore": {
+          "word": "underscore",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "The findings 'underscore' (emphasize, highlight) the limitations of human perception. The gorilla experiment dramatically emphasizes these limitations. Correct usage."
+        }
+      },
+      "qualityNotes": "Excellent question. The wrong word (notice) is a clean semantic opposite that grammatically fits perfectly. The inattentional blindness context makes the error discoverable through careful reading. The passage topic (selective attention) is engaging and academically appropriate."
+    },
+    {
+      "number": 30,
+      "questionIndex": 2,
+      "verdict": "PASS",
+      "answer": 5,
+      "answerConfirmed": true,
+      "wordAnalysis": {
+        "①_repositories": {
+          "word": "repositories",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Elders as 'living repositories of cultural wisdom' — they stored and preserved knowledge in their memories. A repository is a storage place, which fits the metaphor of elders carrying knowledge."
+        },
+        "②_interpretation": {
+          "word": "interpretation",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Each retelling was 'an act of interpretation' as storytellers adapted narratives. Retelling with adaptation is indeed interpretation. Contextually sound."
+        },
+        "③_relevant": {
+          "word": "relevant",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Flexibility allowed knowledge to remain 'relevant across changing times.' Adaptable oral traditions stayed applicable to new circumstances. Correct usage."
+        },
+        "④_permanence": {
+          "word": "permanence",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Written records provided 'permanence but at the expense of adaptability.' Writing fixes knowledge in lasting form, contrasted with the flexibility of oral traditions. Logically consistent."
+        },
+        "⑤_enriched": {
+          "word": "enriched",
+          "contextFit": "INAPPROPRIATE",
+          "reasoning": "The sentence says critics argue this shift has 'enriched' our relationship with knowledge, but the subsequent clause ('making us passive consumers... rather than active participants in its creation') describes a clearly NEGATIVE consequence. 'Enriched' (improved, made richer) contradicts this negative evaluation. The correct word should be 'impoverished' or 'diminished.'",
+          "correctReplacement": "impoverished / diminished"
+        }
+      },
+      "qualityNotes": "Well-constructed question. The contrast between 'enriched' (positive) and the negative elaboration ('passive consumers rather than active participants') creates a clear but not trivial inconsistency. The oral-vs-written knowledge topic is culturally rich and appropriate for CSAT level."
+    },
+    {
+      "number": 30,
+      "questionIndex": 3,
+      "verdict": "PASS",
+      "answer": 4,
+      "answerConfirmed": true,
+      "wordAnalysis": {
+        "①_reduce": {
+          "word": "reduce",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Green spaces 'reduce stress levels, lower blood pressure' — well-documented health benefits of urban greenery. Correct and consistent with the passage's pro-green-space argument."
+        },
+        "②_presence": {
+          "word": "presence",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "The 'mere presence of greenery visible from one's window' has psychological benefits. 'Presence' (being there, existing in view) correctly describes the passive availability of greenery."
+        },
+        "③_absorb": {
+          "word": "absorb",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Concrete and asphalt 'absorb and radiate heat' — this is the scientifically accurate description of the urban heat island effect. Correct usage."
+        },
+        "④_prioritize": {
+          "word": "prioritize",
+          "contextFit": "INAPPROPRIATE",
+          "reasoning": "The sentence begins with 'Despite these well-documented advantages,' signaling a contrast. Then it states cities 'paving over parks and gardens to make room for buildings.' This behavior clearly shows cities are NEGLECTING green spaces, not prioritizing them. 'Prioritize' (to treat as a priority/important matter) is the semantic opposite of the described action.",
+          "correctReplacement": "neglect / overlook / sideline"
+        },
+        "⑤_threatens": {
+          "word": "threatens",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "The 'short-sighted approach threatens the long-term livability.' Destroying green spaces endangers urban livability. Logically consistent with the passage's critical tone."
+        }
+      },
+      "qualityNotes": "Strong question with a clearly signaled but subtle error. The 'Despite' transition word is the key clue, combined with the concrete evidence of 'paving over parks.' The urban green space topic is timely and accessible. All four correct words are contextually natural."
+    },
+    {
+      "number": 30,
+      "questionIndex": 4,
+      "verdict": "PASS",
+      "answer": 5,
+      "answerConfirmed": true,
+      "wordAnalysis": {
+        "①_immersion": {
+          "word": "immersion",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Flow is 'a state of complete immersion in an activity.' This is essentially the textbook definition of flow. Perfectly appropriate."
+        },
+        "②_anxiety": {
+          "word": "anxiety",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "A task 'not so difficult that it causes anxiety' — Csikszentmihalyi's flow model explicitly places anxiety in the high-challenge/low-skill zone. Contextually and theoretically accurate."
+        },
+        "③_rewarding": {
+          "word": "rewarding",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "When challenge matches skill, flow is 'deeply rewarding.' Flow experiences are intrinsically satisfying. Correct usage."
+        },
+        "④_conducive": {
+          "word": "conducive",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Structured activities are 'more conducive to flow than passive leisure.' 'Conducive to' (promoting, favorable to) correctly describes how work characteristics support flow states."
+        },
+        "⑤_maximize": {
+          "word": "maximize",
+          "contextFit": "INAPPROPRIATE",
+          "reasoning": "People 'continue to maximize their working hours in pursuit of more free time.' If the goal is MORE free time, people would logically MINIMIZE (reduce) working hours, not maximize (increase) them. 'Maximize' is the semantic opposite of the intended action.",
+          "correctReplacement": "minimize / reduce"
+        }
+      },
+      "qualityNotes": "Clever question that requires logical reasoning. The contradiction between 'maximize working hours' and 'in pursuit of more free time' is clear upon careful reading. The flow concept is well-presented and academically interesting. Good difficulty level for CSAT."
+    },
+    {
+      "number": 30,
+      "questionIndex": 5,
+      "verdict": "PASS",
+      "answer": 4,
+      "answerConfirmed": true,
+      "wordAnalysis": {
+        "①_consolidation": {
+          "word": "consolidation",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Memory 'consolidation' during sleep — transferring information from short-term to long-term storage. This is a standard neuroscience term used correctly. The footnote glossary also confirms this term."
+        },
+        "②_connections": {
+          "word": "connections",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "Sleep allows the brain to form 'novel connections between seemingly unrelated ideas.' This describes the creative problem-solving function of sleep. Correct usage."
+        },
+        "③_deliberately": {
+          "word": "deliberately",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "The unconscious mind works even when we are 'not deliberately thinking about them.' 'Deliberately' (intentionally, on purpose) correctly contrasts conscious effort with unconscious processing."
+        },
+        "④_necessity": {
+          "word": "necessity",
+          "contextFit": "INAPPROPRIATE",
+          "reasoning": "The sentence reads: 'Despite the overwhelming evidence supporting the importance of sleep, modern society increasingly treats it as a necessity rather than a luxury.' The 'Despite' signals that society's treatment CONTRADICTS the evidence. Since the evidence says sleep IS important (a necessity), society's contradictory behavior would be treating it as a LUXURY (something dispensable), not as a necessity. The sentence should read 'treats it as a luxury rather than a necessity.'",
+          "correctReplacement": "luxury / indulgence"
+        },
+        "⑤_sacrifice": {
+          "word": "sacrifice",
+          "contextFit": "APPROPRIATE",
+          "reasoning": "People 'chronically sacrifice sleep' — giving up sleep for work and screen time. 'Sacrifice' (to give up something valuable) correctly captures the deliberate trade-off described."
+        }
+      },
+      "qualityNotes": "Well-designed question with a subtle swap. The 'necessity' vs 'luxury' reversal requires students to track the logical flow of the 'Despite' contrast carefully. The sleep science topic is relatable and the surrounding sentence ('rise of round-the-clock work culture... sacrifice sleep') provides strong contextual clues that society does NOT treat sleep as essential."
+    }
+  ]
+}

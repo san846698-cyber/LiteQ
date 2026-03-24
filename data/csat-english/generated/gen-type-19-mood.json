@@ -1,0 +1,162 @@
+{
+  "type": "심경 변화",
+  "typeNumber": 19,
+  "analysis": {
+    "passagePattern": "Narratives of 150-200 words featuring a named character in a specific situation. The passage divides into two clear halves: (1) establishing the initial emotional state through physical descriptions, internal thoughts, and situational context, then (2) a pivotal turning-point event that triggers a distinct emotional shift. Physical indicators (sweaty palms, trembling, sighing, heart racing) and direct emotional expressions (dialogue, internal monologue) are used throughout.",
+    "questionPattern": "Fixed format: '다음 글에 드러난 [name]의 심경 변화로 가장 적절한 것은?' The character name matches the protagonist of the passage. When first-person narration is used, 'I' replaces the name.",
+    "answerDesign": "The correct answer uses two precise English emotion adjectives connected by →, accurately capturing both the initial and final emotional states. Answer position varies across 1-5 to avoid predictability. Common correct pairs include: nervous→relieved, confident→frustrated, worried→delighted, disappointed→thrilled, frustrated→grateful.",
+    "distractorPattern": "Four distractors use plausible but incorrect emotion words. Common strategies: (1) reversing the correct emotional direction, (2) matching one half correctly but mismatching the other, (3) using emotions entirely unsupported by the text (e.g., 'indifferent', 'jealous', 'ashamed'). At least one distractor typically includes 'indifferent' as a clearly eliminable option."
+  },
+  "generated": [
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Elena clutched her violin case as she stepped into the empty concert hall for the final round of the national competition. She had practiced this piece for six months, and every note was etched into her memory. Her fingers were steady, her breathing calm. She knew she was ready. When the judges nodded, she raised her bow and began. But halfway through the second movement, her E string snapped with a sharp crack that echoed through the hall. The music stopped. Elena stood frozen on the stage, staring at the broken string dangling from her instrument. The judges exchanged glances and quietly informed her that, unfortunately, no replacement could be provided during the performance. Her hands began to shake, and the violin felt impossibly heavy in her arms. All those months of preparation had come to nothing because of a single broken string.",
+      "question": "다음 글에 드러난 Elena의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "bored → sympathetic",
+        "anxious → grateful",
+        "confident → devastated",
+        "indifferent → annoyed",
+        "jealous → relieved"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Elena begins with clear confidence — she has practiced for six months, every note is memorized, her fingers are steady, and she 'knew she was ready.' After the string snaps and she learns she cannot continue, she is devastated: her hands shake, the violin feels heavy, and she realizes all her preparation was for nothing. 'confident → devastated' accurately captures both states.",
+        "distractor_analysis": "Choice 1 ('bored → sympathetic') — no boredom or sympathy is shown. Choice 2 ('anxious → grateful') — she is not anxious at the start nor grateful at the end. Choice 4 ('indifferent → annoyed') — she is clearly invested, not indifferent, and 'annoyed' is far too mild for her final state. Choice 5 ('jealous → relieved') — no jealousy or relief is present.",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanations": {
+        "correct": "전반부에서 Elena는 '6개월간 연습했고, 모든 음표가 기억에 새겨져 있으며, 손가락은 안정되고 호흡은 고요했다(Her fingers were steady, her breathing calm)'고 묘사되며, '자신이 준비됐다는 것을 알고 있었다(She knew she was ready)'는 표현이 자신감을 직접 나타낸다. 전환점은 E현이 끊어지는 사고이며, 후반부에서 Elena는 '손이 떨리기 시작하고(Her hands began to shake)', '바이올린이 두 팔에 불가능할 만큼 무겁게 느껴졌다(the violin felt impossibly heavy in her arms)', '수개월의 준비가 하나의 끊어진 현 때문에 아무것도 아닌 것이 되었다(All those months of preparation had come to nothing)'며 완전한 절망감을 드러낸다. 따라서 'confident → devastated'가 정답이다.",
+        "wrong": {
+          "1": "'bored → sympathetic': 전반부에서 Elena는 무료함(bored)을 느끼지 않으며 6개월간 준비한 진지한 경쟁자로 등장한다. 후반부에서도 타인에 대한 동정(sympathetic)은 전혀 나타나지 않고 자신의 좌절이 중심이다.",
+          "2": "'anxious → grateful': 전반부에서 Elena는 불안(anxious)한 상태가 아니라 안정된 자신감을 보인다. 후반부에서 교체 바이올린을 제공받지 못하고 준비가 수포로 돌아갔는데 감사함(grateful)을 느낄 근거가 없다.",
+          "4": "'indifferent → annoyed': Elena는 6개월을 투자한 경쟁자로서 결코 무관심(indifferent)하지 않다. 후반부 감정도 단순한 짜증(annoyed)이 아닌 훨씬 깊은 절망이므로 둘 다 틀렸다.",
+          "5": "'jealous → relieved': 지문에 질투(jealous)나 안도(relieved)를 나타내는 표현이 전혀 존재하지 않는다. 다른 연주자와의 비교 상황도 없다."
+        },
+        "key_point": "전반부 자신감의 근거('knew she was ready', 'fingers were steady')와 후반부 절망의 근거('hands began to shake', 'come to nothing')를 대비하여 파악한다."
+      }
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Ryan stared at the rejection letter on his computer screen, reading the words over and over. \"We regret to inform you that your application has not been successful.\" It was the fifth rejection in a row. He closed his laptop and leaned back in his chair, rubbing his tired eyes. The months of writing cover letters and attending interviews had drained him completely. He felt like giving up on his job search altogether. Just then, his phone buzzed. It was an email from a company he had almost forgotten applying to — a small design firm downtown. \"Dear Ryan, we are pleased to offer you the position of Junior Designer.\" His eyes widened. He read the email three more times to make sure it was real. A wave of pure joy rushed through him, and he leaped out of his chair, pumping his fist in the air.",
+      "question": "다음 글에 드러난 Ryan의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "discouraged → overjoyed",
+        "nervous → calm",
+        "satisfied → regretful",
+        "indifferent → confused",
+        "embarrassed → proud"
+      ],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Ryan starts in a state of discouragement — he has received five rejections, feels drained, and considers giving up entirely. The turning point is the unexpected job offer email. He reads it multiple times in disbelief, feels 'pure joy,' and leaps from his chair. 'discouraged → overjoyed' precisely matches both emotional states.",
+        "distractor_analysis": "Choice 2 ('nervous → calm') — Ryan is not nervous but discouraged; his final state is active joy, not mere calm. Choice 3 ('satisfied → regretful') — completely reversed from the actual emotions. Choice 4 ('indifferent → confused') — he is deeply affected, not indifferent, and he is joyful, not confused. Choice 5 ('embarrassed → proud') — no embarrassment or pride is indicated.",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanations": {
+        "correct": "전반부에서 Ryan은 다섯 번째 연속 불합격 통보를 받아 '완전히 기진맥진했고(The months of writing cover letters and attending interviews had drained him completely)', '구직 활동을 완전히 포기하고 싶은 느낌(He felt like giving up on his job search altogether)'을 갖는 낙담한 상태다. 전환점은 예상치 못한 취업 제안 이메일이며, 후반부에서 Ryan은 '눈이 커지고(His eyes widened)', 이메일을 세 번 더 읽으며 실감을 확인하고, '순수한 기쁨의 파도가 밀려와(A wave of pure joy rushed through him)', '의자에서 벌떡 일어나 주먹을 흔들며(leaped out of his chair, pumping his fist)'는 환희에 찬 모습을 보인다. 따라서 'discouraged → overjoyed'가 정답이다.",
+        "wrong": {
+          "2": "'nervous → calm': 전반부에서 Ryan은 불안(nervous)한 것이 아니라 반복된 실패로 인한 낙담(discouraged) 상태다. 후반부에서도 평온함(calm)이 아닌 폭발적인 기쁨을 느끼므로 양쪽 모두 틀렸다.",
+          "3": "'satisfied → regretful': 전반부와 후반부의 감정 방향이 완전히 뒤바뀐 함정 선지다. 실제로는 부정(낙담)에서 긍정(기쁨)으로 변화한다.",
+          "4": "'indifferent → confused': Ryan은 구직 활동에 깊이 몰입해 있어 무관심(indifferent)과는 거리가 멀다. 후반부에서 이메일이 실재인지 확인하는 행동은 기쁨의 표현이지 혼란(confused)이 아니다.",
+          "5": "'embarrassed → proud': 지문 어디에도 당혹감(embarrassed)이나 자부심(proud)을 뒷받침하는 표현이 없다."
+        },
+        "key_point": "전반부 낙담의 핵심 표현('drained him completely', 'giving up')과 후반부 환희의 핵심 표현('pure joy', 'leaped out of his chair')의 극적인 대비를 확인한다."
+      }
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Laura paced backstage at the school talent show, her palms damp and her stomach churning. She had choreographed a dance routine entirely on her own, and tonight was the first time anyone outside her bedroom mirror would see it. Every few seconds she peeked through the curtain at the packed auditorium and felt her throat tighten. What if she forgot the steps? What if the audience laughed? When the stage manager called her name, her legs felt heavy as she walked into the blinding spotlight. The music started, and for one terrifying beat she froze. Then her body remembered. Step by step, the routine flowed out of her exactly as she had practiced. When the final note rang out and the audience erupted into applause, Laura exhaled a breath she hadn't realized she'd been holding. A warm wave of calm washed over her. She had done it.",
+      "question": "다음 글에 드러난 Laura의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "bored → ashamed",
+        "confident → frustrated",
+        "anxious → relieved",
+        "indifferent → annoyed",
+        "jealous → grateful"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Laura begins clearly anxious — damp palms, churning stomach, tight throat, heavy legs, freezing on stage. After performing successfully and hearing applause, she exhales and feels a 'warm wave of calm.' 'anxious → relieved' precisely captures the two-phase emotional arc.",
+        "distractor_analysis": "Choice 1 ('bored → ashamed') — she is nervous, not bored; and she succeeds, so no shame. Choice 2 ('confident → frustrated') — she is the opposite of confident at the start, and the ending is positive. Choice 4 ('indifferent → annoyed') — she is deeply invested, not indifferent. Choice 5 ('jealous → grateful') — no jealousy or explicit gratitude is shown.",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanations": {
+        "correct": "전반부에서 Laura는 '손바닥이 축축하고 속이 울렁거리며(her palms damp and her stomach churning)', '목이 조이는 느낌(felt her throat tighten)', '다리가 무거워지고(her legs felt heavy)', 무대에서 '얼어붙는(she froze)' 등 불안(anxious)의 신체적 증거가 넘쳐난다. 전환점은 몸이 연습대로 움직이며 공연이 성공하는 순간이며, 후반부에서 Laura는 '자신도 모르게 참고 있던 숨을 내쉬고(exhaled a breath she hadn't realized she'd been holding)', '따뜻한 평온의 물결이 밀려왔다(A warm wave of calm washed over her)'는 안도(relieved)의 표현이 나타난다. 따라서 'anxious → relieved'가 정답이다.",
+        "wrong": {
+          "1": "'bored → ashamed': 전반부에서 Laura는 무료함(bored)이 아닌 극도의 불안을 느낀다. 후반부에서 공연은 성공적으로 끝났으므로 수치심(ashamed)을 느낄 이유가 없다.",
+          "2": "'confident → frustrated': 전반부에서 손이 떨리고 다리가 무거운 Laura는 자신감(confident)과는 정반대 상태다. 후반부 결과도 실망이 아닌 안도이므로 둘 다 틀렸다.",
+          "4": "'indifferent → annoyed': Laura는 자신이 직접 안무를 짠 공연에 깊이 관여되어 있어 무관심(indifferent)할 수 없다. 후반부에서도 짜증(annoyed)이 아닌 안도를 느낀다.",
+          "5": "'jealous → grateful': 지문에 다른 참가자와의 비교나 질투(jealous)를 시사하는 내용이 없다. 후반부의 감사함(grateful)도 텍스트로 뒷받침되지 않는다."
+        },
+        "key_point": "신체 반응('palms damp', 'stomach churning', 'legs felt heavy')으로 전반부 불안을 확인하고, 'warm wave of calm'으로 후반부 안도를 확인하는 것이 핵심이다."
+      }
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Daniel stood at the edge of the ten-meter diving platform, looking down at the shimmering pool far below. His stomach twisted into knots, and his legs felt as though they were made of stone. The crowd in the stands seemed enormous, and every pair of eyes was fixed on him. He gripped the railing, his knuckles white, trying to steady his breathing. His coach's voice echoed in his head: \"Trust your training.\" Daniel closed his eyes, released the railing, and stepped forward. For a brief, terrifying moment, he was falling. Then his body took over, rotating exactly as he had practiced hundreds of times. He hit the water cleanly, barely making a splash. When he surfaced and saw the scoreboard flashing his personal best, a wide grin spread across his face. He punched the water and shouted with delight.",
+      "question": "다음 글에 드러난 Daniel의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "bored → confused",
+        "ashamed → grateful",
+        "jealous → impressed",
+        "curious → disappointed",
+        "scared → elated"
+      ],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Daniel begins terrified on the diving platform — his stomach twists, his legs feel like stone, his knuckles are white, and the moment of falling is described as 'terrifying.' After executing a perfect dive and seeing his personal best score, he grins widely and shouts with delight. 'scared → elated' accurately captures the shift from fear to joy.",
+        "distractor_analysis": "Choice 1 ('bored → confused') — he is clearly frightened, not bored, and joyful, not confused. Choice 2 ('ashamed → grateful') — no shame or gratitude is present. Choice 3 ('jealous → impressed') — no jealousy is shown and he is not impressed but personally joyful. Choice 4 ('curious → disappointed') — entirely opposite to the actual emotions.",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanations": {
+        "correct": "전반부에서 Daniel은 '속이 꽉 조이고(His stomach twisted into knots)', '다리는 돌로 만들어진 것 같고(his legs felt as though they were made of stone)', '난간을 잡은 손등이 새하얗게(his knuckles white)' 되어 있는 등 두려움(scared)의 신체 반응이 뚜렷하다. 뛰어드는 순간은 '짧고 공포스러운 순간(a brief, terrifying moment)'으로 직접 묘사된다. 전환점은 훈련대로 몸이 반응하여 완벽한 다이빙을 성공하는 것이며, 후반부에서 Daniel은 '개인 최고 기록을 보여주는 전광판을 보고(saw the scoreboard flashing his personal best)', '얼굴 가득 환한 미소(a wide grin spread across his face)', '물을 주먹으로 치며 기쁨의 함성(punched the water and shouted with delight)'을 지르는 환희(elated) 상태가 된다. 따라서 'scared → elated'가 정답이다.",
+        "wrong": {
+          "1": "'bored → confused': 전반부에서 Daniel은 명백히 두려움을 느끼고 있어 무료함(bored)이 아니다. 후반부에서도 환희에 차 있어 혼란(confused)과는 거리가 멀다.",
+          "2": "'ashamed → grateful': 지문 어디에도 수치심(ashamed)이나 감사함(grateful)을 나타내는 표현이 없다.",
+          "3": "'jealous → impressed': 질투(jealous)의 대상이 되는 타인이 등장하지 않으며, 후반부에서 Daniel은 타인에게 감명받은 것이 아니라 자신의 성과에 기뻐하는 것이다.",
+          "4": "'curious → disappointed': 전반부 감정은 호기심(curious)이 아닌 공포이며, 후반부 결과는 성공이므로 실망(disappointed)은 완전히 반대 방향이다."
+        },
+        "key_point": "전반부 공포를 나타내는 신체 표현('twisted into knots', 'knuckles white', 'terrifying moment')과 후반부 환희의 표현('wide grin', 'shouted with delight')을 대비시켜 파악한다."
+      }
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Mia had spent the entire afternoon baking a three-layer cake for her mother's birthday. She carefully carried it from the kitchen to the dining table, imagining how surprised and happy her mother would be. But just as she set it down, the top layer slid off and crashed onto the floor. Mia gasped and stared at the ruined cake in disbelief. Frosting was splattered across the tiles, and the carefully placed decorations were destroyed. Her eyes filled with tears. She sat on the kitchen floor, feeling utterly defeated. When her mother came home and saw the mess, she knelt beside Mia and said, \"Sweetheart, you made this for me?\" Her mother scooped some frosting off the remaining layers with her finger, tasted it, and said, \"This is the most delicious cake I've ever had. Let's eat the rest together.\" Mia looked up, and a warm smile slowly replaced her tears.",
+      "question": "다음 글에 드러난 Mia의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "annoyed → indifferent",
+        "proud → envious",
+        "miserable → comforted",
+        "excited → suspicious",
+        "calm → furious"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "After the cake falls apart, Mia is miserable — she gasps in disbelief, her eyes fill with tears, and she sits on the floor feeling 'utterly defeated.' When her mother arrives, tastes the cake, praises it, and suggests they eat together, Mia is comforted — her tears are replaced by a warm smile. 'miserable → comforted' precisely captures this emotional shift.",
+        "distractor_analysis": "Choice 1 ('annoyed → indifferent') — Mia is not merely annoyed but deeply upset, and she becomes comforted, not indifferent. Choice 2 ('proud → envious') — while she may have felt pride before the accident, the passage focuses on the post-accident emotions, and no envy is present. Choice 4 ('excited → suspicious') — no suspicion is shown at any point. Choice 5 ('calm → furious') — she is not calm before the incident (she is excited/careful), and she is sad, not furious, after it.",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanations": {
+        "correct": "케이크가 무너진 후 전반부(사고 이후)에서 Mia는 '믿을 수 없다는 듯 멍하니 바라보고(stared at the ruined cake in disbelief)', '눈에 눈물이 고이고(Her eyes filled with tears)', '완전히 무너진 느낌(feeling utterly defeated)'으로 비참함(miserable)을 드러낸다. 전환점은 어머니가 귀가하여 케이크를 맛보고 칭찬하는 장면이며, 후반부에서 Mia는 '위를 올려다보며 따뜻한 미소가 눈물을 천천히 대신했다(a warm smile slowly replaced her tears)'는 위로받음(comforted)의 표현으로 마무리된다. 따라서 'miserable → comforted'가 정답이다.",
+        "wrong": {
+          "1": "'annoyed → indifferent': Mia는 단순히 짜증난(annoyed) 것이 아니라 눈물을 흘리며 완전히 무너진 비참한 상태다. 후반부에서도 무관심(indifferent)해지는 것이 아니라 어머니의 위로로 마음이 풀린다.",
+          "2": "'proud → envious': 지문의 초점은 케이크 사고 이후의 감정에 맞춰져 있다. 설령 사고 전 자부심이 있었다 해도 질투(envious)를 느낄 대상이나 상황이 전혀 등장하지 않는다.",
+          "4": "'excited → suspicious': 어머니의 행동에 대한 의심(suspicious)을 시사하는 표현이 지문에 없다. 전반부 감정도 흥분보다는 비참함이 중심이다.",
+          "5": "'calm → furious': Mia는 케이크 사고 전에 침착(calm)한 상태가 아니라 설레며 신중하게 케이크를 나르고 있었다. 후반부 감정도 분노(furious)가 아닌 슬픔과 위로다."
+        },
+        "key_point": "사고 후 비참함('eyes filled with tears', 'utterly defeated')과 어머니의 위로 이후 회복('warm smile replaced her tears')의 두 단계를 지문에서 직접 확인하는 것이 핵심이다."
+      }
+    }
+  ]
+}

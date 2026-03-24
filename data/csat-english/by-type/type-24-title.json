@@ -1,0 +1,187 @@
+{
+  "type": "제목",
+  "typeNumber": 24,
+  "totalCount": 18,
+  "questions": [
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Every day an enormous amount of energy is created by the movement of people and animals, and by interactions of people with their immediate surroundings. This is usually in very small amounts or in very dispersed environments. Virtually all of that energy is lost to the local environment, and historically there have been no efforts to gather it. It may seem odd to consider finding ways to \"collect\" energy that is given off all around us — by people simply walking or by walking upstairs and downstairs or by riding stationary/exercise bicycles, for example — but that is the general idea and nature of energy harvesting. The broad idea of energy harvesting is that there are many places at which small amounts of energy are generated — and often wasted — and when collected, this can be put to some practical use.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Energy Harvesting: Every Little Helps", "Burning Waste for Energy Is Harmful", "Is Renewable Energy Really Green?", "Pros and Cons of Energy Harvesting", "Can Natural Energy Sources Fulfill the Demand?"],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "There was once a certain difficulty with the moons of Jupiter that is worth remarking on. These satellites were studied very carefully by Roemer, who noticed that the moons sometimes seemed to be ahead of schedule, and sometimes behind. They were ahead when Jupiter was particularly close to the earth and they were behind when Jupiter was farther from the earth. The reason for this discrepancy was very simple and beautiful: it takes a little while to see the moons of Jupiter because of the time it takes light to travel from Jupiter to the earth. When Jupiter is closer to the earth the time is a little less, and when it is farther from the earth, the time is more.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["The Difficulty of Proving the Gravitational Law", "An Illusion Created by the Shadow of the Moon", "Why Aren't Jupiter's Moons Observed Where They Should Be?", "Obstacles in Measuring Light's Speed: Limits of Past Technology", "Ahead and Behind: Moons Change Their Position by Themselves"],
+      "answer": 3,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Hyper-mobility — the notion that more travel at faster speeds covering longer distances generates greater economic success — seems to be a distinguishing feature of urban areas. By 2005, approximately 7.5 billion trips were made each day in cities worldwide. In 2050, there may be three to four times as many passenger-kilometres travelled as in the year 2000. Yet, despite the increasing level of urban mobility worldwide, access to places, activities and services has become increasingly difficult. Not only is it less convenient to access locations in cities, but the very process of moving around in cities generates a number of negative externalities. Accordingly, many of the world's cities face an unprecedented accessibility crisis, and are characterized by unsustainable mobility systems.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Is Hyper-mobility Always Good for Cities?", "Accessibility: A Guide to a Web of Urban Areas", "A Long and Winding Road to Economic Success", "Inevitable Regional Conflicts from Hyper-mobility", "Infrastructure: An Essential Element of Hyper-mobility"],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Melody is one of the primary ways that our expectations are controlled by composers. Music theorists have identified a principle called gap fill; in a sequence of tones, if a melody makes a large leap, either up or down, the next note should change direction. A typical melody includes a lot of stepwise motion, that is, adjacent tones in the scale. If the melody makes a big leap, theorists describe a tendency for the melody to \"want\" to return to the jumping-off point; this is another way to say that our brains expect that the leap was only temporary, and tones that follow need to bring us closer and closer to our starting point, or harmonic \"home.\" In \"Over the Rainbow,\" the melody begins with one of the largest leaps we've ever experienced in a lifetime of music listening: an octave. This is a strong schematic violation, and so the composer rewards and soothes us by bringing the melody back toward home again, but not by too much because he wants to continue to build tension. The third note of this melody fills the gap.\n* adjacent: 인접한",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["How Awesome Repetition in Melody Can Be!", "Why a Big Leap Melody Tends to Go Back Home", "Lyrics of Songs: Key Controller of Our Emotions", "Should Composers Consider Their Potential Audience?", "Misunderstanding of Composers' Intention with Melody"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Before the web, newspaper archives were largely the musty domain of professional researchers and journalism students. Journalism was, by definition, current. The general accessibility of archives has greatly extended the shelf life of journalism, with older stories now regularly cited to provide context for more current ones. With regard to how meaning is made of complex issues encountered in the news, this departure can be understood as a readiness by online news consumers to engage with the underlying issues and contexts of the news that was not apparent in, or even possible for, print consumers. One of the emergent qualities of online news, determined in part by the depth of readily accessible online archives, seems to be the possibility of understanding news stories as the manifest outcomes of larger economic, social and cultural issues rather than short-lived and unconnected media spectacles.\n* archive: 기록 보관소 ** musty: 곰팡내 나는 *** manifest: 분명한",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Web-based Journalism: Lasting Longer and Contextually Wider", "With the Latest Content, Online News Beats Daily Newspapers!", "How Online Media Journalists Reveal Hidden Stories Behind News", "Let's Begin a Journey to the Past with Printed Newspapers!", "Present and Future of Journalism in the Web World"],
+      "answer": 1,
+      "points": 3,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "When you break up with a partner or close friend, the natural response (after having a good cry, obviously) is to blame yourself. You wonder what you did wrong and what you might have done differently. Bonds can help us reach a more balanced perspective; there are some bonds that were simply never meant to last, even if they played an essential role in your evolution to this point. Perhaps the most valuable thing is to know that seeing bonds break doesn't have to break us. In chemistry, by definition, a change in the atomic bonding is not just the end of one state, but the beginning of another: creating the space for new bonding potential. The same is true for us as humans. It might take a cup of warm milk to reset us and give us comfort after a relationship has broken down. But however many bonds we see come apart, we will always retain one of our most human abilities: to connect afresh, find new friends and love again.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Relationships: The Older, The Better", "A Break in a Bond: A New Beginning", "Shared Experiences Make Strong Bonds", "A Friend in Need, A Friend Indeed", "Two Heads Are Better Than One"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "We naturally gravitate toward people whose views and beliefs are similar to our own, seeking what the eighteenth-century moral philosopher Adam Smith called \"a certain harmony of minds.\" Spending time with people who share our opinions reinforces our group identity, strengthening trust, cooperation, equality, and productivity. Our shared reality grounds us not just in our common perceptions but in similar feelings and worldviews. This helps to preserve our core values and beliefs about ourselves. It also provides us with meaning and a feeling of self-worth. And with each decision or interaction that confirms our tribe's common experience, we get rewarded with the hormonal happiness we crave. Our perception of ourselves is a mixture of our own unique characteristics and our sense of belonging to our in-groups. In fact, our personal identity is so closely interwoven with our social identity that our brains can't tell them apart. If I put you in a scanner and ask you to talk about yourself and then about the groups to which you feel the closest affinity, it will activate the same neural networks in your brain.\n* gravitate toward: ~에 자연히 끌리다 ** affinity: 유사성",
+      "question": "다음 글의 제목으로 가장 적절한 것은? [3점]",
+      "choices": ["The Secret to Becoming a Unique Individual", "Societal Conflict: Shared Reality Breeding Mutual Distrust", "Our Identity Shaped by Shared Views: Comfort of Like Minds", "Sympathy: Key to Resolving Disharmony in the Workplace", "How We Balance Personal Identity with Social Identity"],
+      "answer": 3,
+      "points": 3,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Distance in time is like distance in space. People matter even if they live thousands of miles away. Likewise, they matter even if they live thousands of years hence. In both cases, it's easy to mistake distance for unreality, to treat the limits of what we can see as the limits of the world. But just as the world does not stop at our doorstep or our country's borders, neither does it stop with our generation, or the next. These ideas are common sense. A popular proverb says, \"A society grows great when old men plant trees under whose shade they will never sit.\" When we dispose of radioactive waste, we don't say, \"Who cares if this poisons people centuries from now?\" Similarly, few of us who care about climate change or pollution do so solely for the sake of people alive today. We build museums and parks and bridges that we hope will last for generations; we invest in schools and long-term scientific projects; we preserve paintings, traditions, languages; we protect beautiful places. In many cases, we don't draw clear lines between our concerns for the present and the future — both are in play.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["How to Be Present: Discover the Benefits of Here and Now", "The Power of Time Management: The Key to Success", "Why Is Green Infrastructure Eventually Cost-Effective?", "Solving Present-Day Problems from Past Experiences", "How We Act Beyond the Bounds of Time"],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "When viewed from space, one of the Earth's most commanding features is the blueness of its vast oceans. Small amounts of water do not indicate the color of these large bodies of water; when pure drinking water is examined in a glass, it appears clear and colorless. Apparently a relatively large volume of water is required to reveal the blue color. Why is this so? When light penetrates water, it experiences both absorption and scattering. Water molecules strongly absorb infrared and, to a lesser degree, red light. At the same time, water molecules are small enough to scatter shorter wavelengths, giving water its blue-green color. The amount of long-wavelength absorption is a function of depth; the deeper the water, the more red light is absorbed. At a depth of 15m, the intensity of red light drops to 25% of its original value and falls to zero beyond a depth of 30m. Any object viewed at this depth is seen in a blue-green light. For this reason, red inhabitants of the sea, such as lobsters and crabs, appear black to divers not carrying a lamp.\n* penetrate: 관통하다 ** infrared: 적외선",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["We Should Go Green with the Ocean Exploration", "Various Tones of Water Our Deceptive Eyes Show Us", "How Deep-Sea Microorganisms Affect the Ocean's Color", "Why So Blue: The Science Behind the Color of Earth's Oceans", "The Bigger Volume Water Has, the Lower Temperature It Gets"],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "As far back as 32,000 years ago, prehistoric cave artists skillfully used modeling shadows to give their horses and bison volume. A few thousand years ago ancient Egyptian and then ancient Greek art presented human forms in shadow-style silhouette. But cast shadows do not appear in Western art until about 400 BCE in Athens. It was only after shadows had become an established, if controversial, part of representation that classical writers claimed that art itself had begun with the tracing of a human shadow. Greeks and Romans were the first to make the transition from modeling shadows to cast shadows, a practice that implied a consistent light source, a fixed point of view, and an understanding of geometric projection. In fact, what we might now call \"shadow studies\" — the exploration of shadows in their various artistic representations — has its roots in ancient Athens. Ever since, the practice of portraying shadows has evolved along with critical analysis of them, as artists and theoreticians have engaged in an ongoing debate about the significance of shadow representation.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["The Journey of Shadows in Art from Prehistoric Caves Onward", "Portrayals of Human Shadows from the Artistic Perspective", "Representing Shadows as a Key Part of Contemporary Art", "What Are the Primary Challenges for Shadow Painters?", "Unique Views on Shadows: From Cave Artists to Romans"],
+      "answer": 1,
+      "points": 3,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "A scholar Eve Tuck urges researchers to move away from what she calls \"damage-based research,\" or \"research that operates, even benevolently, from a theory of change that establishes harm or injury in order to achieve reparation.\" Citing studies in education that sought to increase resources for marginalized youths by documenting the \"illiteracies\" of indigenous youths and youths of color, Tuck explains that damage-based research is a popular mechanism by which \"pain and loss are documented in order to obtain particular political or material gains.\" While damage-based studies have proven successful in attaining political or material gains in the form of funding, attention, and increased awareness related to the struggles of marginalized communities, Tuck points researchers to the ongoing violence damage-based research inflicts on marginalized communities, even under benevolent or perceivably beneficial circumstances. Among the many issues associated with damage-based research are the underlying assumptions this type of work makes and sustains about marginalized people; namely, that marginalized communities lack communication, civility, intellect, desires, assets, innovation, and ethics.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Marginalized Yesterday, Privileged Today", "How Damage-Based Research Can Backfire", "Research: An Endless Journey to the Truth", "Different Era, Different Education for Minority Youth", "The Growth of Diversity Among Younger Generations"],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "There are good reasons why open-office plans have gained currency, but open offices may not be the plan of choice for all times. Instead, the right plan seems to be building a culture of change. Overly rigid habits and conventions, no matter how well-considered or well-intentioned, threaten innovation. The crucial take-away from analyzing office plans over time is that the answers keep changing. It might seem that there is a straight line of progress, but it's a myth. Surveying office spaces from the past eighty years, one can see a cycle that repeats. Comparing the offices of the 1940s with contemporary office spaces shows that they have circled back around to essentially the same style, via a period in the 1980s when partitions and cubicles were more the norm. The technologies and colors may differ, but the 1940s and 2000s plans are alike, right down to the pillars running down the middle.\n* rigid: 굳은 ** pillar: 기둥",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Why Are Open-office Plans So Cost-efficient?", "How to Incorporate Retro Styles into Office Spaces", "An Office Divided: Why Partitions Limit Productivity", "Office Designs: What Goes Around Comes Around", "Tips for Managing Contemporary Office Spaces"],
+      "answer": 4,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "For most people, the word \"property\" just refers to \"stuff\": land, yes, but also the structures on that land, as well as physical possessions and even intangibles like ideas or radio frequencies. If you can own it, or claim some kind of right to it, it's property. But sociologists and anthropologists have observed that in human societies, property rights systems aren't really about \"stuff\"; they're about people. More specifically, a property right isn't a relationship between a person and an object, it's an agreement between people about the object. And these agreements aren't limited to written deeds and titles, or other property laws in a society. Becher explained that a sociologist like herself \"would see property as a kind of social agreement. Property rights certainly exist in writing, in law, and that's part of what they are. But they're really only real to the extent that we respect them. [So, property rights are, in a sense,] claims that people make that get respected by others. So they're always social.\"",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["How Can We Build Agreement When Reforming Property Law?", "Rethinking Property: Understanding It as a Social Agreement", "The Growing Importance of Protecting Private Property", "Social Duty: Reframing Possession as Collective Goods", "New Insight on Property as a Timeless Asset"],
+      "answer": 2,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "In fact, humans are known to have the largest and most visible sclera — the \"whites\" of the eyes — of any species. This fact intrigues scientists, because it would seem actually to be a considerable obstacle: imagine, for example, the classic war movie scene where the soldier dresses in camouflage and paints his face with green and brown color — but can do nothing about his noticeably white sclera, beaming bright against the jungle. There must be some reason humans developed it, despite its obvious costs. In fact, the advantage of visible sclera — so goes the \"cooperative eye hypothesis\" — is precisely that it enables humans to see clearly, and from a distance, which direction other humans are looking. Michael Tomasello showed in a 2007 study that chimpanzees, gorillas, and bonobos — our nearest cousins — follow the direction of each other's heads, whereas human infants follow the direction of each other's eyes. So the value of looking someone in the eye may in fact be something uniquely human.\n* sclera: (눈의) 공막(鞏膜) ** camouflage: 위장복",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Adaptive Strategies for Animals with Poor Vision", "The Uniqueness of Human's Visible Sclera", "The Human Eye: A Window to Our Soul", "Why Human Eyes Evolved Various Colors", "How Non-human Species Use Sclera in Communication"],
+      "answer": 2,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Time denial, rooted in a very human combination of pride and existential dread, is perhaps the most common and forgivable form of what might be called chronophobia. But there are other, more toxic varieties that work together with the less harmful kind to create a prevalent, stubborn, and dangerous temporal illiteracy in our society. We in the twenty-first century would be shocked if an educated adult were unable to identify the continents on a world map, yet we are quite comfortable with widespread ignorance about anything but the most superficial highlights from the planet's long history: perhaps the Bering Strait, dinosaurs, or Pangaea. Most humans have no sense of temporal proportion — the durations of the great chapters in Earth's history, the rates of change during previous intervals of environmental instability, the intrinsic timescales of \"natural capital\" like groundwater systems. As a species, we have a childlike disinterest and partial disbelief in the time before our appearance on Earth. With no appetite for stories lacking humans, many people simply can't be bothered with natural history.\n* chronophobia: 시간 공포증",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Awareness of Planetary Time: A Must for Survival Skill", "Our Temporal Blindness to the Vast History of the Earth", "Time Leaves You Behind While You're Stuck in Yesterday", "What Is the Future of a Society That Forgets Its History?", "Time Denial: Technology Shapes Our Perceptions of Time"],
+      "answer": 2,
+      "points": 3,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Food, as we all know, is essential for human life. It also is the basis for several major industries found in many countries around the world such as in agriculture, food processing, food retailing and food service. For millennia, the focus of those involved with food as a human and economic phenomenon was on its production, preservation, distribution, pricing and other practical concerns. But in the late 18th century this began to change. Food became more than just a life necessity. Restaurants began to be developed, initially in France but eventually in other nations, as a distinct institution offering people dining choices and table service, the opportunity for socialization and, over time, a finer and finer atmosphere. The rise of restaurants eventually led to a class of diners who prided themselves on being critics of taste, food and cooking. Brillat-Savarin is probably the best known of the 'culinary philosophers' or, in today's parlance, a 'foodie'. One of Brillat-Savarin's better known sayings was, '[t]ell me what you eat, and I'll tell you who you are.'",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Changing Appetites: The Return of Fine Dining", "Beyond Mere Necessity: The Rise of Food Culture", "Tips for Choosing Restaurants for Social Occasions", "Why Table Manners Matter: Food and Class Identity", "How Industrialization Is Taking Over Food Production"],
+      "answer": 2,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "What sets off literary works from other narrative display texts is that they have undergone a process of selection: they have been published, reviewed, and reprinted, so that readers approach them with the assurance that others have found them well constructed and 'worth it'. So for literary works, the cooperative principle is 'hyper-protected'. We can put up with many obscurities and apparent irrelevancies, without assuming that this makes no sense. Readers assume that in literature complications of language ultimately have a communicative purpose and, instead of imagining that the speaker or writer is being uncooperative, as they might in other speech contexts, they struggle to interpret elements that flout principles of efficient communication in the interests of some further communicative goal. 'Literature' is an institutional label that gives us reason to expect that the results of our reading efforts will be 'worth it'. And many of the features of literature follow from the willingness of readers to pay attention, to explore uncertainties, and not immediately ask 'what do you mean by that?'\n* obscurity: 모호 ** flout: 비웃다",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["Why Do We Willingly Accept Uncertainty in Literary Works?", "Irrelevant Elements Should Be Left Out in Narrative Texts", "The Illusion of Depth: Complex Language Weakens Literature", "Literary Interpretation as a Worthwhile Quest for Pleasure", "How Selective Reading Narrows Readers' Perspectives"],
+      "answer": 1,
+      "points": 3,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Monasteries were the engine rooms of the Middle Ages. At the height of their activities and influence, monasteries provided intellectual leadership for the institutions of Church and civil governments, innovation in religious thought and practice, medical provision, education, visual culture and agricultural development. They did all this while apparently observing self-imposed isolation from the wider community. For monasteries were intended to function as places set apart from the world, in which monks devoted their lives to a permanent rhythm of religious observance, prayer and study. Religious prayer and praise lay at the heart of monasticism. Both those following this life and those outside believed that monastic lives were led for the benefit of wider society, and that the sacrifices made by monks in separating themselves from 'normal' human contact functioned as penances on behalf of the community as well as for their own deliverance. Monks were regarded as leading parallel lives that had the power to save themselves and others.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["How to Gain Religious and Social Benefits from Monastery Life", "Why the Middle Ages Demanded Religious Figures Be Isolated", "The Grace of Solitude: Detached from but Attached to Society", "No Sacrificial Leaders, No Flowering of Civilization", "Mystery of Power: The Politics of Peace and Solitude"],
+      "answer": 3,
+      "points": 3,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    }
+  ]
+}

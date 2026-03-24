@@ -1,0 +1,261 @@
+{
+  "exam": "2024학년도 4월 고3 학력평가",
+  "subject": "영어",
+  "source": "경기도교육청",
+  "questions": [
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "My name is Rohan Kaul, the producer of the upcoming film 'Upagrah.' I am reaching out to you regarding a matter of importance concerning the shooting of some scenes for our film. We have identified Gulab Park, Mumbai, as an ideal location for these scenes. We are hoping to conduct this shoot on 3rd June 2024, from 1 p.m. to 6 p.m. We have chosen Monday for the shooting day to minimize traffic issues and disruption to the public. During the shoot, our team promises to follow all rules and regulations, ensuring no inconvenience is caused to the public. We would be so grateful if you granted permission for the shoot so that we can put the beautiful scenery of the park in our film. We look forward to your response.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["주말 영화 시사회에 초대하려고", "공원 이용 시간의 연장을 건의하려고", "촬영을 위한 장비 대여 방법을 문의하려고", "행사 운영을 위한 교통 통제를 요청하려고", "영화 촬영을 위해 장소 사용 허가를 얻으려고"],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Charles was taking a quiz in his math class. He stared at the questions, but they looked completely unfamiliar. Charles flipped through the pages of the quiz for a while. His palms grew sweaty as he realized that he didn't know a single answer. A moment later, a few other students began raising their hands. One said, \"I don't think we ever learned about the stuff on this quiz, Mrs. Smith.\" The teacher quickly looked over a copy of the quiz and announced, \"I'm sorry, class. It appears that I have given you the wrong quiz by mistake. We'll take the right quiz next class.\" As Charles heard what the teacher said, the tension in his shoulders began to melt away.",
+      "question": "다음 글에 드러난 Charles의 심경 변화로 가장 적절한 것은?",
+      "choices": ["nervous → relieved", "relaxed → regretful", "amazed → annoyed", "indifferent → satisfied", "shocked → sympathetic"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "When you are middle‑aged, the risk of connective tissue injuries peaks as decreased load tolerance combines with continued high activity levels. The path of least resistance is to stop doing the things that hurt ― avoid uncomfortable movements and find easier forms of exercise. However, that's the exact opposite of what you should do. There is a path forward. But it doesn't involve following the typical pain management advice of rest, ice, and medicine, which multiple reviews have shown is not effective for treating age‑related joint pain and dysfunction. These methods do nothing more than treat superficial symptoms. The only practical solution is to strengthen your body with muscle training. Whether you've been training for a few years or a few decades, or haven't ever stepped foot in the weight room, it's not too late to restore your body, build real strength, and achieve your physical potential.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": ["관절의 노화를 늦추기 위해 적절한 체중을 유지해야 한다.", "근육을 강화하기 위해 다양한 강도의 운동을 병행해야 한다.", "중년층은 근 손실 예방을 위해 식단을 철저히 관리해야 한다.", "노화와 관련된 관절 질환에는 치료보다 예방이 우선되어야 한다.", "중년에는 통증이 따르더라도 근력 운동으로 신체를 강화해야 한다."],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 21,
+      "type": "함축 의미",
+      "passage": "Turn the lights out and point the beam of a small flashlight up into one of your eyes. Shake the beam around while moving your gaze up and down. You should catch glimpses of what look like delicate branches. These branches are shadows of the blood vessels that lie on top of your retina. The vessels constantly cast shadows as light streams into the eye, but because these shadows never move, the brain ceases responding to them. Moving the flashlight beam around shifts the shadows just enough to make them momentarily visible. Now you might wonder if you could cause an image to fade just by staring at something unmoving. But that is not possible because the visual system constantly jiggles the eye muscles, which prevents the perfect stabilization of images of the world. These muscle movements are unbelievably small, but their effect is huge. Without them, we would go blind by tuning out what we see shortly after fixating our gaze! It's an interesting notion: Approximate perfection is better than perfect perfection.\n* retina: 망막 ** jiggle: 가볍게 흔들다",
+      "question": "밑줄 친 Approximate perfection is better than perfect perfection이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "choices": ["What makes your vision blurry actually protects your eyes.", "The more quickly an object moves, the more sensitively eyes react.", "Eyes exposed to intense light are subject to distortion of images.", "Constant adjustment of focusing makes your eye muscles tired.", "Shaky eye‑muscle movements let us see what the brain might ignore."],
+      "answer": 5,
+      "points": 3
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Most opposition to wilderness preservation doesn't come from environmentalists but from corporate interests and developers. When wild places are designated as wilderness, they are closed to most commercial activities and residential or infrastructure development. There is thus frequently an economic cost to wilderness preservation. Some critics claim that when wilderness and economic interests clash, economic interests should normally prevail. This argument, even if it is sound, won't exclude all wilderness preservation efforts, because some wilderness areas have little economic value. But a deeper problem with the argument is that it views nature from a human‑focused and excessively economic point of view. Allowing economic considerations to outweigh all other forms of value is inconsistent with the biocentric reasons that support wilderness preservation. Thus, while it certainly makes sense to weigh the economic costs of wilderness protection, especially when such costs are high, the biocentric values underlying wilderness preservation exclude viewing economic considerations as the most important.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["야생 보호 구역 보존의 생명 중심적 가치는 경제적 고려에 우선한다.", "자연과의 공존을 고려한 상업 활동이 기업에 경제적 이익을 가져다준다.", "야생 보호에 있어 우선적으로 고려하는 가치는 문화에 따라 다양하다.", "야생 보호는 경제적 가치와 상관없이 모든 생물에 똑같이 적용된다.", "야생의 보호와 회복을 위한 비용 부담은 공동체 모두의 몫이다."],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "During the day, a molecule called adenosine builds up in your brain. Adenosine binds with receptors on nerve cells, or neurons, slowing down their activity and making you feel drowsy. But caffeine is also able to bind with these receptors, and by doing so it blocks adenosine's effect, making your neurons fire more and keeping you alert. Caffeine also activates a gland at the base of your brain. This releases hormones that tell the adrenal glands on your kidneys to produce adrenaline, causing your heart to beat faster and your blood pressure to rise. If, however, your daily caffeine intake is consistent, your brain will adapt to it. Your brain is like, 'Okay, every morning I'm getting this caffeine that's binding to these receptors and blocking adenosine from binding to them.' So your brain creates extra receptors to give adenosine more of an opportunity to bind with them and have its usual effect. And more adenosine is also produced to counteract the caffeine. That's why it takes more and more caffeine to have the same effect.\n* drowsy: 나른한 ** gland: (분비)선",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": ["what your brain does for regular hormone production", "consequences of sleep deprivation caused by caffeine", "connection between brain health and hormone balance", "efforts to overcome the constant temptation of caffeine", "how your brain adapts to a steady caffeine consumption"],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "When viewed from space, one of the Earth's most commanding features is the blueness of its vast oceans. Small amounts of water do not indicate the color of these large bodies of water; when pure drinking water is examined in a glass, it appears clear and colorless. Apparently a relatively large volume of water is required to reveal the blue color. Why is this so? When light penetrates water, it experiences both absorption and scattering. Water molecules strongly absorb infrared and, to a lesser degree, red light. At the same time, water molecules are small enough to scatter shorter wavelengths, giving water its blue‑green color. The amount of long‑wavelength absorption is a function of depth; the deeper the water, the more red light is absorbed. At a depth of 15m, the intensity of red light drops to 25% of its original value and falls to zero beyond a depth of 30m. Any object viewed at this depth is seen in a blue‑green light. For this reason, red inhabitants of the sea, such as lobsters and crabs, appear black to divers not carrying a lamp.\n* penetrate: 관통하다 ** infrared: 적외선",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": ["We Should Go Green with the Ocean Exploration", "Various Tones of Water Our Deceptive Eyes Show Us", "How Deep‑Sea Microorganisms Affect the Ocean's Color", "Why So Blue: The Science Behind the Color of Earth's Oceans", "The Bigger Volume Water Has, the Lower Temperature It Gets"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 25,
+      "type": "도표",
+      "passage": "The above graph shows the percentage of preferable chatbot platforms by age categorized by Generation Z, Millennials, and Generation X. ① Millennials and Generation X had the highest percentage of respondents who preferred Desktop Websites while Generation Z had the highest percentage for Messenger Apps. ② In Generation Z, the percentage of respondents who preferred Mobile Apps was more than twice that of those who preferred Voice Assistant Devices. ③ Messenger Apps was the only platform where the percentage of respondents' preference for it sank lower and lower from Generation Z, to Millennials, to Generation X. ④ The percentage point gap between Millennial and Generation X respondents who preferred Mobile Apps was larger than the percentage point gap between the same two groups for Voice Assistant Devices. ⑤ The percentage of respondents who preferred Mobile Websites was the lowest in all the age groups.",
+      "question": "다음 도표의 내용과 일치하지 않는 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 26,
+      "type": "내용 일치/불일치",
+      "passage": "José Saramago was born in 1922 to a family of farmers in a little village north of Lisbon. For financial reasons he abandoned his high‑school studies and worked as a mechanic. At this time, he acquired a taste for reading and started to frequent a public library in Lisbon in his free time. After trying different jobs in the civil service, he worked for a publishing company for twelve years and then as an editor of the newspaper 'Diário de Notícias.' Between 1975 and 1980 Saramago supported himself as a translator, but after his literary successes in the 1980s he devoted himself to his own writing. He achieved worldwide recognition in 1982 with the humorous love story Baltasar and Blimunda, a novel set in 18th century Portugal. Saramago's oeuvre totals 30 works, and comprises not only novels but also poetry, essays and drama.\n* oeuvre: 전체 작품",
+      "question": "José Saramago에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "choices": ["재정적인 이유로 고등학교 공부를 그만두었다.", "독서에 흥미가 생겨 공립 도서관을 자주 방문하기 시작했다.", "신문사의 편집자로 일한 후 출판사에서 12년간 일했다.", "포르투갈이 배경인 소설로 세계적인 인정을 받았다.", "소설뿐 아니라 시, 수필, 희곡 또한 집필하였다."],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "Scottish Day Trip Package\nDon't miss the chance to soak up the spirit of Scotland!\nA full‑day trip through the Highlands is waiting for you.\n\nSchedule\n∙ Departs at 7 a.m. from the Highland Tours office\n∙ Returns around 9 p.m. to the original departure point\n\nDetails\n∙ Max of 40 people per group\n∙ Minimum age: 5 years old\n∙ Price: $150 per person\n\nBooking\n∙ Only online booking is available.\n∙ You will receive an email once your booking is confirmed.\n∙ For a refund, cancel at least two days before the tour departs.\n\nNote\n∙ The tour will not hold back for tourists who arrive at the departure point late.",
+      "question": "Scottish Day Trip Package에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["출발하는 장소와 돌아오는 장소가 같다.", "한 그룹당 40명까지 참여할 수 있다.", "예약이 확정되면 이메일을 받을 것이다.", "환불을 위해서는 출발 하루 전까지 취소해야 한다.", "출발지에 늦게 도착하는 여행자를 기다려 주지 않는다."],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "JR. CHEF CLASS\nwith Chef Scott Gomez\n\nProfessional Chef Scott Gomez offers cooking classes to provide your children with hands‑on experience and happy memories. He has picked pizza for the menu this week.\n\nDetails\n∙ Date: Tuesday, May 14th, 2024\n∙ Place: Rosehill Community Center Cafeteria\n∙ Available for children ages 6 – 12\n\nCost\n∙ $20 per child includes all ingredients, chef hat and apron.\n\nSchedule\nTime / Contents\n5:00 – 5:20 p.m. / rolling pizza dough\n5:20 – 6:00 p.m. / topping and baking\n6:00 – 6:30 p.m. / plating and serving\n\nNote\n∙ Call 876‑725‑7501 to register.\n∙ A parent or guardian must stay on site during class.\n∙ Since parking space is limited, using public transportation is recommended.",
+      "question": "Jr. Chef Class에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["이번 주의 메뉴는 아이들이 택한다.", "비용에는 앞치마가 포함되지 않는다.", "피자 반죽 밀기는 30분간 진행된다.", "부모 혹은 보호자는 수업 동안 현장에 머물러야 한다.", "충분한 주차 공간이 확보되어 있다."],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "When a new pathogen emerges, one way it transitions from wherever it has been living into a new host may be the acquisition of new traits. Imagine that in ① its hourly struggle to survive over long periods of time and many generations, a fungus species might acquire a protective capsule ― a bit of coating ― that shields it or even masks it from other microbes or cells. Then it acquires some enzymes that enable it to survive ② whatever chemicals other microbes might throw at it. If it can overcome these chemicals, it may also overcome the same or similar chemicals ③ used as antifungal drugs. Maybe it also evolves to tolerate warmer temperatures. Now we've got a yeast that once made its home in an apple tree or in a wetland but ④ that at this point can live quite happily in our body, hide from our immune system, and disarm our drugs. Then some of us carry it from one country to another and then another, and eventually it finds a host in a hospital patient who has recently received an organ transplant or ⑤ are elderly with a weakened immune system.\n* pathogen: 병원균 ** enzyme: 효소 *** yeast: 효모",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Memory is shaped by emotions connected to an experience. For this reason, inaccuracies often ① hide the full picture of what happened. For example, a company might decide to hire a consultant to assist with a major project. During this project, the consultant demonstrated some personality traits that clashed with a couple of the executives involved. Through the course of the project, they were able to put aside the personality ② conflicts in order to see their vision become a reality. Ultimately, the project was a success, enabling the company to move forward and profit. At a later date, the company, remembering the previous success, expressed an ③ interest in hiring the same consultant for another large project. The executives who struggled with his personality last time may most vividly remember their difficulty in overcoming his personality and related emotions. In this case, the success of the project fades into the background as they focus on their previous experience, colored by their feelings of ④ discomfort. As a result, they convince the company to ⑤ rehire the consultant, making project completion more difficult.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "As colors came to take on meanings and cultural significance within societies, attempts were made to ______ their use. The most extreme example of this phenomenon was the sumptuary laws. While these were passed in ancient Greece and Rome, and examples can be found in ancient China and Japan, they found their fullest expressions in Europe from the mid‑twelfth century, before slowly disappearing in the early modern period. Such laws could touch on anything from diet to dress and furnishings, and sought to enforce social boundaries by encoding the social classes into a clear visual system: the peasants, in other words, should eat and dress like peasants; craftsmen should eat and dress like craftsmen. Color was a vital signifier in this social language ― dull, earthy colors like russet were explicitly confined to the poorest rural peasants, while bright ones like scarlet were the preserve of a select few.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["export", "restrict", "conceal", "liberate", "tolerate"],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "John Douglas Pettigrew, a professor of psychology at the University of Queensland, found that the brain manages the external world by dividing it into separate regions, the peripersonal and the extrapersonal ― basically, near and far. Peripersonal space includes whatever is in arm's reach; things you can control right now by using your hands. This is the world of what's real, right now. Extrapersonal space refers to everything else ― whatever you can't touch unless you move beyond your arm's reach, whether it's three feet or three million miles away. This is the realm of possibility. With those definitions in place, another fact follows, obvious but useful: any interaction in the extrapersonal space must occur in the future. Or, to put it another way, ______. For instance, if you're in the mood for a peach, but the closest one is sitting in a bin at the corner market, you can't enjoy it now. You can only enjoy it in the future, after you go get it.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["distance is linked to time", "the past is out of your reach", "what is going to happen happens", "time doesn't flow in one direction", "our brain is attracted to near objects"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Insect‑eating plants' unique strategies for catching live prey have long captured the public imagination. But even within this strange group, in which food‑trapping mechanisms have evolved multiple times independently, some unusual ones stand out. According to Ulrike Bauer, an evolutionary biologist, the visually striking pitcher plant Nepenthes gracilis, for example, can ______. This species' pitcher has a rigid, horizontal lid with an exposed underside that produces nectar, luring insects to land on it. When a raindrop strikes the lid's top, the lid jolts downward and throws any unsuspecting visitor into digestive juices below. Researchers used x‑ray scans to analyze cross sections of the pitchers when the lid is raised, lowered, and in a neutral position. Their results revealed a structural weak point in the pitcher's neck: when a raindrop hits the lid, the weak spot folds in and forces the lid to quickly move downward, similar to a diving board. The weak point makes the pitcher's body bend and bounce back in a specific, consistent way, so the lid rises back up without bouncing too far ― unlike a typical leaf's chaotic vibration when struck by rain.\n* pitcher: 주머니 모양의 잎 ** nectar: (식물의) 꿀 *** jolt: 덜컹거리다, 흔들리다",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["exploit external energy for a purpose", "hide itself with help of the environment", "coordinate with other plants to trap insects", "change its shape to absorb more rain water", "modify its hunting strategy on a regular basis"],
+      "answer": 1,
+      "points": 3
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "Many fish generate their own light in a biological firework display called bioluminescence. The lanternfish creates beams that sweep the sea like headlamps. The dragonfish produces wavelengths that only it can see, leaving its victims unaware of the approaching threat. In contrast, the anglerfish hopes its prey will notice and be lured toward its rod‑like bioluminescent barbel; its fierce jaws stay hidden in the shadows. Bioluminescence is also used to frustrate predators. A species from the spookfish family relies on a bellyful of symbiotic, glowing bacteria to save it from becoming a meal. It uses the same concept developed by the US Navy during World War II to make bomber aircraft difficult to see. Just as Project Yehudi designed planes with underwing spotlights, the fish's glowing belly conceals its silhouette against sunlight to hide it from watching eyes below. In this fish‑eat‑fish world, survival is ______.\n* barbel: (물고기의) 수염 ** symbiotic: 공생의",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["dependent upon communication within the same species", "a game of hide‑and‑seek that prioritizes the sense of sight", "up to the ability to detect the subtle dance of sound waves", "a competition to imitate the illumination of different species", "a war where wider vision means better chances to catch prey"],
+      "answer": 2,
+      "points": 3
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "The human race traces back to a surprisingly small number of common ancestors. It has been documented that the entire human race can be traced back to only seven different mothers, and one of these women is a common ancestor to roughly 40% of the human species. Why is this? The simple answer is that humans are extremely good at dying and at wiping each other out. ① History has had many successful rulers and conquerors who have got rid of entire populations, and even beyond that, our species has wiped out plenty of similar humanoid lines that existed on this earth. ② Scientific finds have so far discovered a number of other humanoid species that once shared the earth with us, some of which include Neanderthals and Denisovans. ③ There are still no clear examples of Neanderthals attempting to expressively symbolize real‑life elements such as animals or people in creative works. ④ Yet of these lines, only homo sapiens have survived, only the modern humans. ⑤ That itself shows how difficult it is for a species to survive and thrive long‑term on this planet.\n* humanoid: 인간에 가까운",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Philosophers who seek to understand the nature of time might consider the possibility of time travel. But there are no real‑life cases of time travel.\n\n(A) It seems that something must happen to prevent you from doing this, because if you were to succeed, you would not exist and so you would not have been able to go back in time. As a result of thinking through these sorts of cases, some philosophers claim that the very notion of time travel makes no sense.\n\n(B) In situations such as this, philosophers often construct thought experiments ― imagined scenarios that bring out the thoughts and presuppositions underlying people's judgments. Sometimes these scenarios are drawn from books, movies, and television. Other times, philosophers just make up their own scenarios.\n\n(C) Either way, the point is to put such concepts to the test. In the case of time travel, for example, a common thought experiment is to imagine what would happen if you went back in time and found yourself in a position to interfere in such a way that you were never born.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "A universal indicator of sleep is the loss of external awareness. You are no longer conscious of all that surrounds you, at least not explicitly. In actual fact, your ears are still 'hearing'; your eyes, though closed, are still capable of 'seeing.'\n\n(A) Should they be granted its permission to pass, they are sent to the cortex at the top of your brain, where they are consciously perceived. By locking its gates shut, the thalamus imposes a sensory blackout in the brain, preventing onward travel of those signals to the cortex.\n\n(B) As a result, you are no longer consciously aware of the information broadcasts being transmitted from your outer sense organs. At this moment, your brain has lost waking contact with the outside world. Said another way, you are now asleep.\n\n(C) All these signals still flood into the center of your brain while you sleep, but they are blocked by a perceptual barricade set up in a structure called the thalamus. The thalamus decides which sensory signals are allowed through its gate, and which are not.\n\n* cortex: 대뇌피질 ** thalamus: 시상(視床)",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "passage": "Emotional response to the world is an inherent part of ethics. In ethics, appeals to compassion and empathy can and should be part of rational arguments about ethical decisions. Moreover, the best practices of objectivity often combine partiality and impartiality. ( ① ) In a trial, the partiality of the prosecutor and the defense attorney (and the parties they represent) occurs within a larger impartial context. ( ② ) A judge or jury puts partial arguments to the test of objective evidence and to the impartial rules of law. ( ③ ) Ideally, what is fair and objective emerges during a trial where partialities make their case and are judged by objective norms. ( ④ ) The reverse is true: the norms were constructed because of an acute awareness of human bias, because it is evident. ( ⑤ ) Rather than conclude that objectivity is impossible because bias is universal, scientists, journalists, and others concluded the opposite: we biased humans need the discipline of objectivity to reduce the ineliminable presence of bias.\n* prosecutor: 검사(檢事)",
+      "insertSentence": "The norms of objectivity were constructed not because their creators thought most humans could be 'empty' of bias.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 39,
+      "type": "문장 삽입",
+      "passage": "The fact that cats' eyes glow in the dark is part of their enhanced light‑gathering efficiency; there is a reflective layer behind the retina, so light can hit the retina when it enters the eye, or when it is reflected from behind the retina. ( ① ) Light that manages to miss the retina exits the eye and creates that ghostly glow. ( ② ) When cats' light‑gathering ability is combined with the very large population of rods in their eyes, the result is a predator that can see exceptionally well in the dark. ( ③ ) This may seem counterproductive; what is the point of seeing a mouse in the dark if, in that final, close moment, the cat can't focus on it? ( ④ ) Tactile information comes into play at this time; cats can move their whiskers forward and use them to get information about objects within the grasp of their jaws. ( ⑤ ) So the next time you see a cat seeming to nap in the bright sunlight, eyes half‑closed, remember that it may simply be shielding its retina from a surplus of light.\n* rod: (시신경의) 간상체(杆狀體) ** tactile: 촉각의 *** whisker: (고양이의) 수염",
+      "insertSentence": "Cats 'pay' for this nighttime accuracy with less accurate daytime vision and an inability to focus on close objects.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 3
+    },
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "In one study, researchers gave more than five hundred visitors to an art museum a special glove that reported their movement patterns along with physiological data such as their heart rates. The data showed that when people were not distracted by chatting with companions, they actually had a stronger emotional response to the art. Of course, there's nothing wrong with chatting and letting the art slide past, but think of the inspiration those museum visitors missed out on. Then apply that to life in general. When we surround ourselves with other people, we're not just missing out on the finer details of an art exhibition. We're missing out on the chance to reflect and understand ourselves better. In fact, studies show that if we never allow ourselves to be alone, it's just plain harder for us to learn. Other research found that young people who cannot stand being alone were less likely to develop creative skills like playing an instrument or writing because the most effective practice of these abilities is often done while alone.\n* physiological: 생리적인",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nThe study above shows (A) conversation with companions while exploring an art museum intensifies emotional response to art, suggesting that absence of alone time may (B) personal growth and learning.",
+      "choices": ["avoiding …… inhibit", "recalling …… restrain", "preventing …… enhance", "facilitating …… nurture", "dominating …… minimize"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 41,
+      "type": "장문 (제목)",
+      "passage": "There are a number of human characteristics that would seem to be disadvantageous yet continue to survive, generation after generation. One example is color blindness. Most color blindness is associated with genes on the X chromosome. Women have two X chromosomes, so if this problem occurs on one of them, the other can (a) compensate. But men have only one X chromosome. If the mutation occurs there, that male is color blind. We might ask why such a (b) deficiency would survive and not die out. To understand this, we can consider ancient hunter‑gatherers, with the men doing most of the hunting for meat and the women doing most of the gathering of fruits and nuts. Gathering fruits, especially berries, and nuts is much more productive if it is easy to distinguish the red or purple fruit from the green leaves of the plant. If red‑green color blindness were common among women, the resulting (c) lack of productivity would likely cause this trait to die out relatively quickly. On the other hand, the men out hunting don't much rely on being able to contrast red from green. Most of the animals they are hunting have fur or feathers that help them hide. Rather than relying on color, the hunter relies on an acute ability to detect motion. It is conceivable that a (d) reduction in color contrast in these circumstances might actually enhance one's ability to detect subtle motions. Given that a hunted animal blends into its surroundings, less background color variation would be (e) more of a visual distraction.\n* chromosome: 염색체 ** mutation: 돌연변이",
+      "question": "윗글의 제목으로 가장 적절한 것은?",
+      "choices": ["Genetic Code: The Key to Conquering Disorders", "Ancient People's Challenges from Genetic Weaknesses", "What Makes a Great Hunter: An Ability to Move Quickly", "In Evolution, Disadvantageous Doesn't Mean Destined to Vanish", "Various Biological Factors Causing Red‑Green Color Blindness"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 42,
+      "type": "장문 (어휘)",
+      "passage": "[41~42 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 3
+    },
+    {
+      "number": 43,
+      "type": "장문 (순서 배열)",
+      "passage": "(A)\nPamela and Maggie were identical twins. Even their parents found it hard to tell them apart. But although they looked identical, they were different in every other way. They didn't have anything in common, so they fought all the time. Pamela thought that (a) her sister was weird and incomprehensible, and of course Maggie felt the same way.\n\n(B)\nTired of the endless arguments, their mother Rachel decided to put an end to them. She would make them understand that each of their points of view could be correct. One day, the twins were brought to the dining table where a big board stood in the middle. Pamela sat on one side of the board and (b) her twin on the other. Rachel asked Pamela what the color of the board was. \"Black,\" she said.\n\n(C)\nFor example, Pamela was always upset at her sister waking up early in the morning. (c) She didn't understand why her sister couldn't finish what she needed to do at night and sleep peacefully the next morning. To Maggie, staying up past the time (d) she began to feel sleepy was exhausting. Besides, she loved the fresh morning air. They had fights about simple things like this every day.\n\n(D)\nAfter hearing Pamela's answer, Rachel asked the same question to (e) the other daughter. She replied it was white. Predictably, they began arguing. Rachel then asked them to switch seats. Each sitting on a new chair, they were surprised to realize the board was black on one side and white on the other. Understanding what their mother wanted to say, they promised they would never insist the other was wrong again.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": ["(B)-(D)-(C)", "(C)-(B)-(D)", "(C)-(D)-(B)", "(D)-(B)-(C)", "(D)-(C)-(B)"],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 44,
+      "type": "장문 (지칭 추론)",
+      "passage": "[43~45 공통 지문 참조]",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 45,
+      "type": "장문 (내용 일치/불일치)",
+      "passage": "[43~45 공통 지문 참조]",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": ["자매는 외모를 제외한 모든 면에서 서로 달랐다.", "Rachel은 두 딸의 언쟁을 끝내기로 결심했다.", "Pamela는 판자가 흰색이라고 대답했다.", "Maggie는 상쾌한 아침 공기를 좋아했다.", "Rachel은 두 딸이 자리를 바꾸도록 요청했다."],
+      "answer": 3,
+      "points": 2
+    }
+  ]
+}

@@ -1,0 +1,1096 @@
+{
+  "type": "빈칸 추론 (절)",
+  "typeNumber": 33,
+  "version": "v2",
+  "generatedAt": "2026-03-23",
+  "totalCount": 25,
+  "difficultyDistribution": {
+    "standard": 5,
+    "hard": 12,
+    "killer": 8
+  },
+  "answerDistribution": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5
+  },
+  "questions": [
+    {
+      "id": "v2-33-01",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "topic": "Temporal discounting and present bias in decision-making",
+      "passage": "Economists have long observed that people consistently prefer smaller rewards delivered sooner over larger rewards delivered later — a phenomenon known as temporal discounting. What is particularly striking, however, is that this preference does not operate in a mathematically constant way. When both options lie in the future, people often make patient, far-sighted choices: given a choice between receiving a modest sum in a year versus a larger sum in a year and a week, most people choose the larger sum. Yet when the same choice is brought into the present — a modest sum today versus a larger sum in a week — most people impulsively choose the immediate reward. This reversal is called present bias, and it explains why people who confidently plan to save money, exercise regularly, or quit unhealthy habits often fail to follow through when the moment of action arrives. The future self, with its long-term interests, exercises less motivational force than the present self, with its immediate desires. This asymmetry implies that ______________, since the conditions under which choices are made systematically distort preferences in ways that rational models of decision-making cannot fully account for.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "revealed preferences do not always reflect stable underlying values",
+        "patient decision-makers are better equipped to accumulate long-term wealth",
+        "people should be discouraged from making choices involving future rewards",
+        "the brain's reward system becomes less active as temporal distances increase",
+        "rational models of economics are superior to psychological alternatives"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 사람들은 결과를 절대적이 아닌 준거점 대비 상대적으로 평가하고 ② 동일한 선택이 시간적 근접성에 따라 반전되며(현재 편향) ③ 이 반전은 합리적 모형으로 설명 불가합니다. 빈칸은 'This asymmetry implies that ___'로, 현재 편향의 함의를 서술하는 결론 위치입니다. ①번 '드러난 선호가 안정적인 기저 가치를 항상 반영하지는 않는다'는 선호 반전 현상의 논리적 귀결을 정확히 포착합니다.",
+        "wrong": {
+          "2": "②번 '경제 성장이 불평등을 초래'는 글의 주제(시간 할인과 현재 편향)와 전혀 무관한 사회경제적 논점입니다.",
+          "3": "③번 '미래 보상 관련 선택을 억제해야 한다'는 본문에 없는 규범적 처방을 도입합니다.",
+          "4": "④번 '뇌의 보상 시스템이 시간 거리에 따라 덜 활성화'는 신경과학적 메커니즘을 도입하지만 본문에서 논의되지 않습니다.",
+          "5": "⑤번 '합리적 모형이 심리학적 대안보다 우월'은 본문이 합리적 모형의 한계를 비판하고 있으므로 정반대 주장입니다."
+        },
+        "key_point": "빈칸 뒤 'since the conditions under which choices are made systematically distort preferences'가 정답 방향을 확인합니다. since절은 빈칸의 이유를 제공하므로, 빈칸 내용은 since절과 논리적으로 연결되어야 합니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 사람들은 결과를 절대적이 아닌 준거점 대비 상대적으로 평가하고 ② 동일한 선택이 시간적 근접성에 따라 반전되며(현재 편향) ③ 이 반전은 합리적 모형으로 설명 불가합니다. 빈칸은 'This asymmetry implies that ___'로, 현재 편향의 함의를 서술하는 결론 위치입니다. ①번 '드러난 선호가 안정적인 기저 가치를 항상 반영하지는 않는다'는 선호 반전 현상의 논리적 귀결을 정확히 포착합니다.",
+        "wrong": {
+          "2": "②번 '경제 성장이 불평등을 초래'는 글의 주제(시간 할인과 현재 편향)와 전혀 무관한 사회경제적 논점입니다.",
+          "3": "③번 '미래 보상 관련 선택을 억제해야 한다'는 본문에 없는 규범적 처방을 도입합니다.",
+          "4": "④번 '뇌의 보상 시스템이 시간 거리에 따라 덜 활성화'는 신경과학적 메커니즘을 도입하지만 본문에서 논의되지 않습니다.",
+          "5": "⑤번 '합리적 모형이 심리학적 대안보다 우월'은 본문이 합리적 모형의 한계를 비판하고 있으므로 정반대 주장입니다."
+        },
+        "key_point": "빈칸 뒤 'since the conditions under which choices are made systematically distort preferences'가 정답 방향을 확인합니다. since절은 빈칸의 이유를 제공하므로, 빈칸 내용은 since절과 논리적으로 연결되어야 합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage shows that the same person makes opposite choices depending on temporal proximity — a reversal that standard rational models cannot capture. The blank must state the implication: preferences as revealed by choices are not stable reflections of underlying values. Choice 1 is correct. Choice 2 is off-topic (wealth accumulation). Choice 3 is a prescriptive claim not argued in the passage. Choice 4 introduces neuroscience not discussed. Choice 5 directly contradicts the passage's critique of rational models.",
+        "word_count": 218,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-02",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Path dependency in institutional economics",
+      "passage": "In institutional economics, the concept of path dependency holds that the historical sequence of choices and events that led to a current institutional arrangement shapes — and often constrains — the range of alternatives available going forward. The classic illustration is the QWERTY keyboard layout, initially designed to prevent mechanical typewriter jams by separating commonly paired letters. Although the mechanical constraint that originally justified this layout disappeared with the advent of electric and digital keyboards, the layout persisted because the costs of retraining an already-skilled workforce and replacing an already-distributed infrastructure outweighed any efficiency gains from switching. Path dependency thus suggests that institutions and technologies do not simply converge on optimal solutions over time; instead, early adoption decisions can lock in suboptimal arrangements indefinitely. This has unsettling implications for theories of historical progress. If institutional evolution is path-dependent, then current arrangements ______________, since they may simply reflect the contingencies of which alternatives happened to become dominant first, rather than the accumulated wisdom of selection processes that identify superior solutions.\n* contingency: 우연한 사건",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "must be dismantled before superior alternatives can be properly evaluated",
+        "cannot be presumed to represent the most efficient available options",
+        "tend to resolve their inefficiencies once awareness of them becomes widespread",
+        "prove that technological change consistently outpaces institutional adaptation",
+        "are the direct product of deliberate optimization across many generations"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 경로 의존성은 초기 선택이 이후 대안의 범위를 제약하고 ② QWERTY 사례처럼 차선적 배열이 무기한 고착될 수 있으며 ③ 이는 역사적 진보 이론에 불편한 함의를 가집니다. 빈칸은 'current arrangements ___'로, 경로 의존성이 현재 제도에 대해 말해주는 바를 서술합니다. ②번 '가장 효율적인 옵션을 대표한다고 전제할 수 없다'는 현재 배열이 최적이 아닐 수 있다는 핵심 함의를 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '더 나은 대안을 평가하기 전에 해체해야 한다'는 본문에 없는 규범적 처방(해체)을 도입합니다.",
+          "3": "③번 '비효율성이 널리 인식되면 해소되는 경향'은 경로 의존성의 핵심(비효율이 고착됨)과 직접 모순됩니다.",
+          "4": "④번 '기술 변화가 제도적 적응보다 빠르다'는 본문에서 다루지 않는 속도 비교를 도입합니다.",
+          "5": "⑤번 '여러 세대에 걸친 의도적 최적화의 산물'은 경로 의존성(우연적 고착)의 정반대 주장입니다."
+        },
+        "key_point": "빈칸 뒤 since절('they may simply reflect the contingencies of which alternatives happened to become dominant first')이 정답의 근거를 직접 제시합니다. '우연히 먼저 지배적이 된 것'이라면, 현재 배열이 최적일 수 없다는 결론이 도출됩니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 경로 의존성은 초기 선택이 이후 대안의 범위를 제약하고 ② QWERTY 사례처럼 차선적 배열이 무기한 고착될 수 있으며 ③ 이는 역사적 진보 이론에 불편한 함의를 가집니다. 빈칸은 'current arrangements ___'로, 경로 의존성이 현재 제도에 대해 말해주는 바를 서술합니다. ②번 '가장 효율적인 옵션을 대표한다고 전제할 수 없다'는 현재 배열이 최적이 아닐 수 있다는 핵심 함의를 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '더 나은 대안을 평가하기 전에 해체해야 한다'는 본문에 없는 규범적 처방(해체)을 도입합니다.",
+          "3": "③번 '비효율성이 널리 인식되면 해소되는 경향'은 경로 의존성의 핵심(비효율이 고착됨)과 직접 모순됩니다.",
+          "4": "④번 '기술 변화가 제도적 적응보다 빠르다'는 본문에서 다루지 않는 속도 비교를 도입합니다.",
+          "5": "⑤번 '여러 세대에 걸친 의도적 최적화의 산물'은 경로 의존성(우연적 고착)의 정반대 주장입니다."
+        },
+        "key_point": "빈칸 뒤 since절('they may simply reflect the contingencies of which alternatives happened to become dominant first')이 정답의 근거를 직접 제시합니다. '우연히 먼저 지배적이 된 것'이라면, 현재 배열이 최적일 수 없다는 결론이 도출됩니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that path dependency means current arrangements persist due to historical accident, not optimality. The blank must state that current arrangements cannot be assumed to be optimal. Choice 2 ('cannot be presumed to represent the most efficient available options') captures this exactly. Choice 5 directly contradicts path dependency (deliberate optimization). Choice 3 contradicts the 'indefinite lock-in' claim. Choice 4 introduces a technology-institution speed comparison not discussed. Choice 1 is prescriptive and unsupported.",
+        "word_count": 216,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-03",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "topic": "The frame problem in artificial intelligence and situated cognition",
+      "passage": "In the early decades of artificial intelligence research, engineers encountered a fundamental obstacle that came to be known as the frame problem. When programming a system to reason about actions and their consequences, it proved surprisingly difficult to specify which aspects of the world remain unchanged when an action is taken. If a robot moves a box from one table to another, it must somehow know that the color of the walls, the position of other objects, and the temperature of the room all remain the same — without being explicitly told so for every possible property of every possible situation. The combinatorial explosion of things that need not be updated after any given action made purely propositional approaches to common-sense reasoning intractable. Philosophers later recognized that the frame problem pointed to something profound about the nature of biological cognition. Humans navigate this problem not by maintaining explicit records of what does and does not change, but because cognition is embodied and situated — our bodies are already embedded in the world in ways that make most irrelevant information simply invisible to attention. The frame problem thus reveals that ______________, since a system that must represent everything explicitly in order to act will always be overwhelmed by the very completeness it requires.\n* propositional: 명제적인 ** intractable: 처리 불가능한",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "the gap between machine reasoning and biological cognition reflects a difference in processing speed alone",
+        "advances in computing power will eventually resolve the combinatorial challenges of AI",
+        "explicit symbolic representation is insufficient as a foundation for general intelligence",
+        "embodied systems are capable of maintaining complete records of environmental change",
+        "the difficulty of common-sense reasoning stems primarily from a lack of sufficient training data"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 프레임 문제는 행동 후 변하지 않는 것들을 명시적으로 지정하는 것이 조합 폭발로 불가능함을 보여주고 ② 인간은 체화된(embodied) 인지로 이 문제를 해결하며 ③ 따라서 프레임 문제는 명시적 표상 방식의 근본적 한계를 드러냅니다. 빈칸은 'The frame problem thus reveals that ___'로, 이 문제가 밝히는 근본적 통찰을 요약합니다. ③번 '명시적 기호 표상은 일반 지능의 기초로 불충분하다'는 이 논증의 결론을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '기계 추론과 생물 인지의 차이가 처리 속도의 차이만 반영'은 글이 구조적/건축적 차이를 주장하는 것과 모순됩니다. 속도가 아닌 인지 방식의 차이입니다.",
+          "2": "②번 '컴퓨팅 파워의 발전이 결국 해결할 것'은 글이 암묵적으로 거부하는 도구적 해법입니다. 문제는 양이 아니라 접근 방식입니다.",
+          "4": "④번 '체화된 시스템이 환경 변화의 완전한 기록을 유지할 수 있다'는 본문의 핵심(체화된 인지는 완전한 기록을 필요로 하지 않음)과 정반대입니다.",
+          "5": "⑤번 '훈련 데이터 부족이 주된 원인'은 현대 머신러닝 프레임을 도입하지만 본문에는 전혀 언급되지 않습니다."
+        },
+        "key_point": "빈칸 뒤 since절이 '모든 것을 명시적으로 표상해야 하는 시스템은 그 완전성 자체에 압도된다'고 말합니다. 이것이 정답의 이유를 직접 제공합니다. 킬러 빈칸에서는 since/because절을 먼저 분석하세요."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 프레임 문제는 행동 후 변하지 않는 것들을 명시적으로 지정하는 것이 조합 폭발로 불가능함을 보여주고 ② 인간은 체화된(embodied) 인지로 이 문제를 해결하며 ③ 따라서 프레임 문제는 명시적 표상 방식의 근본적 한계를 드러냅니다. 빈칸은 'The frame problem thus reveals that ___'로, 이 문제가 밝히는 근본적 통찰을 요약합니다. ③번 '명시적 기호 표상은 일반 지능의 기초로 불충분하다'는 이 논증의 결론을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '기계 추론과 생물 인지의 차이가 처리 속도의 차이만 반영'은 글이 구조적/건축적 차이를 주장하는 것과 모순됩니다. 속도가 아닌 인지 방식의 차이입니다.",
+          "2": "②번 '컴퓨팅 파워의 발전이 결국 해결할 것'은 글이 암묵적으로 거부하는 도구적 해법입니다. 문제는 양이 아니라 접근 방식입니다.",
+          "4": "④번 '체화된 시스템이 환경 변화의 완전한 기록을 유지할 수 있다'는 본문의 핵심(체화된 인지는 완전한 기록을 필요로 하지 않음)과 정반대입니다.",
+          "5": "⑤번 '훈련 데이터 부족이 주된 원인'은 현대 머신러닝 프레임을 도입하지만 본문에는 전혀 언급되지 않습니다."
+        },
+        "key_point": "빈칸 뒤 since절이 '모든 것을 명시적으로 표상해야 하는 시스템은 그 완전성 자체에 압도된다'고 말합니다. 이것이 정답의 이유를 직접 제공합니다. 킬러 빈칸에서는 since/because절을 먼저 분석하세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that the frame problem exposed a deep flaw in purely propositional AI: explicit representation of everything is intractable. Biological systems solve it by being embodied. Choice 3 ('explicit symbolic representation is insufficient as a foundation for general intelligence') is correct. Choice 1 attributes the gap to speed — contradicts the architectural argument. Choice 2 invokes computing power — an instrumental fix the passage implicitly rejects. Choice 4 contradicts the passage (embodied systems avoid needing complete records). Choice 5 introduces training data — a modern ML framing absent from the passage.",
+        "word_count": 222,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-04",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Labeling theory and the social construction of deviance",
+      "passage": "Sociologist Howard Becker argued that deviance is not an intrinsic property of any act but rather the outcome of a social process of labeling. No behavior, however harmful it may appear, is deviant in the abstract; it becomes deviant only when it is so defined by those with the power to impose that definition. Becker's most provocative claim was that the act of labeling a person as deviant often produces more of the very behavior it was supposed to control. Once labeled a delinquent, a person finds that legitimate opportunities — employment, education, community acceptance — begin to close. Simultaneously, informal associations with others who carry the same label become more probable. The result is what Becker called a \"deviant career\": a self-reinforcing trajectory in which the label reshapes the social environment in ways that make conforming behavior progressively harder to sustain. This insight shifts the analytical focus in criminology and social policy away from asking why certain individuals break rules and toward asking ______________, because only by examining who applies labels and under what conditions can the amplifying effects of stigma be properly understood.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "why certain acts are defined as deviant by those who have the power to do so",
+        "how social environments shape the neurological basis of impulsive behavior",
+        "whether economic deprivation is the primary cause of criminal activity",
+        "how rehabilitation programs can reverse the psychological damage of incarceration",
+        "what biological traits distinguish individuals who violate norms from those who do not"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 베커의 낙인 이론에 따르면 일탈은 행위 자체의 속성이 아니라 권력을 가진 자가 부여하는 정의의 결과이고 ② 낙인은 자기강화적 궤도('일탈 경력')를 만들며 ③ 따라서 분석의 초점이 '왜 개인이 규칙을 어기는가'에서 이동해야 합니다. 빈칸은 'toward asking ___'로, 이 초점 이동의 목적지를 완성합니다. ①번 '왜 특정 행위가 권력을 가진 자에 의해 일탈로 정의되는가'는 낙인 이론의 핵심 질문을 정확히 제시합니다.",
+        "wrong": {
+          "2": "②번 '사회 환경이 충동적 행동의 신경학적 기반을 어떻게 형성하는가'는 본문에 없는 신경과학을 도입합니다.",
+          "3": "③번 '경제적 박탈이 범죄의 주된 원인인지'는 낙인 이론이 벗어나려는 구조적 원인론과 같은 프레임입니다.",
+          "4": "④번 '재활 프로그램이 수감의 심리적 피해를 어떻게 되돌릴 수 있는가'는 정책 처방으로 본문의 이론적 논의와 무관합니다.",
+          "5": "⑤번 '어떤 생물학적 특성이 규범 위반자를 구별하는가'는 낙인 이론이 명시적으로 반대하는 생물학적 결정론입니다."
+        },
+        "key_point": "'shifting the focus away from A and toward asking ___' 구조에서 정답은 A와 대조되는 새로운 질문이어야 합니다. A가 '개인의 규칙 위반 이유'이므로, 정답은 '사회적 정의 과정'에 관한 질문이어야 합니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 베커의 낙인 이론에 따르면 일탈은 행위 자체의 속성이 아니라 권력을 가진 자가 부여하는 정의의 결과이고 ② 낙인은 자기강화적 궤도('일탈 경력')를 만들며 ③ 따라서 분석의 초점이 '왜 개인이 규칙을 어기는가'에서 이동해야 합니다. 빈칸은 'toward asking ___'로, 이 초점 이동의 목적지를 완성합니다. ①번 '왜 특정 행위가 권력을 가진 자에 의해 일탈로 정의되는가'는 낙인 이론의 핵심 질문을 정확히 제시합니다.",
+        "wrong": {
+          "2": "②번 '사회 환경이 충동적 행동의 신경학적 기반을 어떻게 형성하는가'는 본문에 없는 신경과학을 도입합니다.",
+          "3": "③번 '경제적 박탈이 범죄의 주된 원인인지'는 낙인 이론이 벗어나려는 구조적 원인론과 같은 프레임입니다.",
+          "4": "④번 '재활 프로그램이 수감의 심리적 피해를 어떻게 되돌릴 수 있는가'는 정책 처방으로 본문의 이론적 논의와 무관합니다.",
+          "5": "⑤번 '어떤 생물학적 특성이 규범 위반자를 구별하는가'는 낙인 이론이 명시적으로 반대하는 생물학적 결정론입니다."
+        },
+        "key_point": "'shifting the focus away from A and toward asking ___' 구조에서 정답은 A와 대조되는 새로운 질문이어야 합니다. A가 '개인의 규칙 위반 이유'이므로, 정답은 '사회적 정의 과정'에 관한 질문이어야 합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that deviance is defined by labelers with power, and that the focus should shift from 'why individuals break rules' to the social process of definition. The blank completes the shift: it must be about who defines deviance and how. Choice 1 ('why certain acts are defined as deviant by those who have the power to do so') is correct. Choice 2 invokes neuroscience — absent. Choice 3 is a competing structural theory the passage moves away from. Choice 4 is policy-prescriptive and off-topic. Choice 5 invokes biological determinism, which labeling theory explicitly opposes.",
+        "word_count": 211,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-05",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "topic": "Affordances and ecological perception (J.J. Gibson)",
+      "passage": "Psychologist James Gibson proposed a radical departure from the classical view that perception involves first registering raw sensory data and then interpreting it through stored mental categories. For Gibson, organisms do not perceive neutral properties like color, shape, and texture and then infer what those properties mean for action. Instead, they directly perceive what he called affordances — the possibilities for action that the environment offers to a particular organism. A flat, rigid surface affords walking; a graspable object affords throwing; a climbable structure affords ascending. Crucially, affordances are not properties of the environment alone, nor of the organism alone, but of the relationship between them. The same cliff face affords climbing to an experienced mountaineer but presents only a barrier to an untrained pedestrian. Gibson's framework implies that perception is fundamentally purposive: we do not first see a neutral world and then decide how to act in it. Rather, ______________, each element encountered already carrying implicit information about how it may be used, avoided, or engaged with.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "sensory data must be fully processed before any action can be initiated",
+        "the same environment will always offer identical possibilities to every observer",
+        "organisms rely primarily on stored categories to classify environmental stimuli",
+        "we perceive the world as structured by the action possibilities it presents",
+        "cognitive maps replace direct perception as organisms become more experienced"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 깁슨은 지각이 원시 감각 데이터를 등록한 후 해석하는 것이 아니라 행위 가능성(어포던스)을 직접 지각한다고 주장하고 ② 어포던스는 환경과 유기체의 관계에서 발생하며 ③ 지각은 근본적으로 목적 지향적입니다. 빈칸은 'Rather, ___'로, 고전적 견해('중립적 세계를 보고 나서 행동을 결정')와의 대조를 완성합니다. ④번 '우리는 세계를 그것이 제시하는 행위 가능성에 의해 구조화된 것으로 지각한다'는 어포던스 이론의 핵심을 정확히 요약합니다.",
+        "wrong": {
+          "1": "①번 '감각 데이터가 완전히 처리된 후에야 행동 가능'은 글이 거부하는 고전적 견해 그 자체입니다.",
+          "2": "②번 '같은 환경이 모든 관찰자에게 동일한 가능성을 제공'은 절벽 사례(숙련된 등산가 vs 비숙련자)와 직접 모순됩니다.",
+          "3": "③번 '유기체가 주로 저장된 범주에 의존하여 자극을 분류'는 깁슨이 반대하는 고전적 범주화 관점입니다.",
+          "5": "⑤번 '경험이 쌓이면 인지 지도가 직접 지각을 대체'는 본문에 없는 인지 지도 개념을 도입하며, 깁슨의 직접 지각론과 충돌합니다."
+        },
+        "key_point": "'Rather, ___' 구조는 직전에 부정된 견해의 대안을 요구합니다. 부정된 것이 '중립적 세계를 먼저 보고 행동 결정'이므로, 정답은 '세계가 이미 행위 가능성으로 구조화되어 지각됨'이어야 합니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 깁슨은 지각이 원시 감각 데이터를 등록한 후 해석하는 것이 아니라 행위 가능성(어포던스)을 직접 지각한다고 주장하고 ② 어포던스는 환경과 유기체의 관계에서 발생하며 ③ 지각은 근본적으로 목적 지향적입니다. 빈칸은 'Rather, ___'로, 고전적 견해('중립적 세계를 보고 나서 행동을 결정')와의 대조를 완성합니다. ④번 '우리는 세계를 그것이 제시하는 행위 가능성에 의해 구조화된 것으로 지각한다'는 어포던스 이론의 핵심을 정확히 요약합니다.",
+        "wrong": {
+          "1": "①번 '감각 데이터가 완전히 처리된 후에야 행동 가능'은 글이 거부하는 고전적 견해 그 자체입니다.",
+          "2": "②번 '같은 환경이 모든 관찰자에게 동일한 가능성을 제공'은 절벽 사례(숙련된 등산가 vs 비숙련자)와 직접 모순됩니다.",
+          "3": "③번 '유기체가 주로 저장된 범주에 의존하여 자극을 분류'는 깁슨이 반대하는 고전적 범주화 관점입니다.",
+          "5": "⑤번 '경험이 쌓이면 인지 지도가 직접 지각을 대체'는 본문에 없는 인지 지도 개념을 도입하며, 깁슨의 직접 지각론과 충돌합니다."
+        },
+        "key_point": "'Rather, ___' 구조는 직전에 부정된 견해의 대안을 요구합니다. 부정된 것이 '중립적 세계를 먼저 보고 행동 결정'이므로, 정답은 '세계가 이미 행위 가능성으로 구조화되어 지각됨'이어야 합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that perception is direct, action-oriented, and relational. The blank follows 'Rather, ___' completing the contrast: we do not see a neutral world first. Choice 4 ('we perceive the world as structured by the action possibilities it presents') correctly states that the world is already perceived in terms of affordances. Choice 1 is the classical view being rejected. Choice 2 contradicts the cliff-face example. Choice 3 is the classical categorization view. Choice 5 introduces cognitive maps — a different framework with no textual support.",
+        "word_count": 210,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-06",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Moral luck and the limits of moral judgment (Nagel)",
+      "passage": "Philosopher Thomas Nagel identified a troubling tension at the heart of moral judgment. We ordinarily hold people morally responsible only for what is within their control — it seems unfair to praise or blame someone for circumstances they could not have chosen or altered. Yet in practice, the outcomes of our actions depend heavily on factors entirely outside our control, and those outcomes profoundly affect how we and others judge the actions. Two drivers behave with identical recklessness: one makes it home safely because no child happened to run into the street; the other hits and kills a child who does. We judge them very differently, though the difference in outcome was entirely a matter of luck. Nagel called this phenomenon moral luck, and he argued that it cannot be resolved by simply declaring outcomes irrelevant to moral judgment. If we scrub all elements of luck from moral assessment, almost nothing remains to assess — for even the character traits that generate our choices are themselves the products of genes, upbringing, and circumstance we never chose. The problem of moral luck thus reveals ______________, since the very practice of holding people responsible rests on a fiction that our choices are more fully our own than they actually are.\n* recklessness: 무모함",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "that legal systems are better equipped than moral ones to handle questions of responsibility",
+        "that luck plays a constructive role in building character over the course of a life",
+        "that only actions with measurable outcomes deserve serious moral scrutiny",
+        "the need to replace moral judgment with empirical accounts of causation",
+        "a deep incoherence in our ordinary conception of moral responsibility"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 우리는 통제 가능한 것에 대해서만 도덕적 책임을 묻지만 ② 행위의 결과는 운(luck)에 크게 좌우되고 ③ 운의 요소를 모두 제거하면 평가할 것이 거의 남지 않습니다. 빈칸은 'The problem of moral luck thus reveals ___'로, 이 문제가 폭로하는 바를 서술합니다. ⑤번 '도덕적 책임에 대한 우리의 통상적 관념에 깊은 비일관성'은 책임의 전제(통제)와 실제(운)의 모순을 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '법적 시스템이 도덕적 시스템보다 책임 문제를 더 잘 다룬다'는 본문에서 법 체계를 전혀 논의하지 않습니다.",
+          "2": "②번 '운이 삶의 과정에서 성격 형성에 건설적 역할을 한다'는 글의 논증(운이 도덕적 판단을 불안정하게 만듦)을 뒤집습니다.",
+          "3": "③번 '측정 가능한 결과가 있는 행위만 도덕적 검토를 받을 자격이 있다'는 글이 경계하는 결과주의적 관점입니다.",
+          "4": "④번 '도덕적 판단을 경험적 인과 설명으로 대체해야 한다'는 글에서 주장되지 않는 처방입니다."
+        },
+        "key_point": "빈칸 뒤 since절('the very practice of holding people responsible rests on a fiction')이 정답을 직접 확인합니다. '허구에 기반한다'는 것은 '깊은 비일관성'과 동치입니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 우리는 통제 가능한 것에 대해서만 도덕적 책임을 묻지만 ② 행위의 결과는 운(luck)에 크게 좌우되고 ③ 운의 요소를 모두 제거하면 평가할 것이 거의 남지 않습니다. 빈칸은 'The problem of moral luck thus reveals ___'로, 이 문제가 폭로하는 바를 서술합니다. ⑤번 '도덕적 책임에 대한 우리의 통상적 관념에 깊은 비일관성'은 책임의 전제(통제)와 실제(운)의 모순을 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '법적 시스템이 도덕적 시스템보다 책임 문제를 더 잘 다룬다'는 본문에서 법 체계를 전혀 논의하지 않습니다.",
+          "2": "②번 '운이 삶의 과정에서 성격 형성에 건설적 역할을 한다'는 글의 논증(운이 도덕적 판단을 불안정하게 만듦)을 뒤집습니다.",
+          "3": "③번 '측정 가능한 결과가 있는 행위만 도덕적 검토를 받을 자격이 있다'는 글이 경계하는 결과주의적 관점입니다.",
+          "4": "④번 '도덕적 판단을 경험적 인과 설명으로 대체해야 한다'는 글에서 주장되지 않는 처방입니다."
+        },
+        "key_point": "빈칸 뒤 since절('the very practice of holding people responsible rests on a fiction')이 정답을 직접 확인합니다. '허구에 기반한다'는 것은 '깊은 비일관성'과 동치입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage shows that moral responsibility presupposes control, yet outcomes and character are largely outside our control. The blank states what the problem of moral luck 'reveals.' Choice 5 ('a deep incoherence in our ordinary conception of moral responsibility') is correct — the framework of responsibility is internally contradictory. The confirming sentence: 'responsibility rests on a fiction.' Choice 1 invokes legal systems — not discussed. Choice 2 inverts the argument. Choice 3 is what the passage cautions against. Choice 4 prescribes a replacement not argued.",
+        "word_count": 222,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-07",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "topic": "Tacit knowledge and the limits of codification (Polanyi)",
+      "passage": "Philosopher of science Michael Polanyi drew a fundamental distinction between explicit knowledge — information that can be articulated, written down, and transmitted symbolically — and tacit knowledge, which he characterized with the aphorism: \"We can know more than we can tell.\" Tacit knowledge includes the bodily skills of an experienced surgeon, the intuitive pattern-recognition of a master chess player, and the judgment of a seasoned engineer who can sense that a design is \"off\" before identifying precisely why. What makes tacit knowledge philosophically significant is not merely that it is difficult to articulate but that the attempt to articulate it may actually impair performance. Studies of skilled motor behavior consistently show that directing conscious attention toward the mechanics of a well-practiced action — the placement of fingers during piano playing, the angle of a tennis serve — disrupts the fluency that tacit mastery provides. This phenomenon, sometimes called paralysis by analysis, implies that complete codification of expert knowledge is not simply an unsolved technical problem awaiting better documentation tools. Rather, it suggests that ______________, since the very act of rendering such knowledge explicit changes the cognitive mode through which it is applied in ways that undermine its effectiveness.\n* codification: 성문화, 체계화 ** aphorism: 경구",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "expert performance depends primarily on the speed of information retrieval rather than embodied skill",
+        "some forms of knowledge are constitutively resistant to complete symbolic representation",
+        "conscious articulation enhances the reliability of expert judgment in high-stakes situations",
+        "the development of tacit skill requires extended exposure to formal instructional materials",
+        "tacit knowledge can be fully captured once sufficiently advanced recording technologies become available"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 폴라니는 '우리는 말할 수 있는 것보다 더 많이 안다'고 주장하며 암묵적 지식을 정의하고 ② 암묵적 지식을 명시적으로 표현하려는 시도가 오히려 수행을 저해하며(분석에 의한 마비) ③ 따라서 완전한 성문화는 단순히 미해결 기술 문제가 아닙니다. 빈칸은 'Rather, it suggests that ___'로, '미해결 기술 문제가 아니라면 무엇인가'를 설명합니다. ②번 '일부 형태의 지식은 본질적으로(constitutively) 완전한 기호적 표상에 저항한다'는 이 구조적 불가능성을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '전문가 수행이 주로 정보 검색 속도에 의존'은 체화된 기술(embodied skill)이 아닌 속도로 환원하며 글의 논점과 무관합니다.",
+          "3": "③번 '의식적 표현이 고위험 상황에서 전문가 판단의 신뢰성을 높인다'는 '분석에 의한 마비' 현상의 정반대 주장입니다.",
+          "4": "④번 '암묵적 기술 발달에 공식 교육 자료가 필요'는 몸으로 체득하는 지식의 본질과 모순됩니다.",
+          "5": "⑤번 '충분히 발전된 기록 기술이 있으면 완전 포착 가능'은 글이 '기술 문제가 아니라 본질적 한계'라고 말하는 것과 직접 대립합니다."
+        },
+        "key_point": "'not simply an unsolved technical problem... Rather, ___' 구조는 기술적 해법이 아닌 본질적 한계를 정답으로 요구합니다. '기술 발전으로 해결 가능' 류의 선지는 자동 배제하세요."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 폴라니는 '우리는 말할 수 있는 것보다 더 많이 안다'고 주장하며 암묵적 지식을 정의하고 ② 암묵적 지식을 명시적으로 표현하려는 시도가 오히려 수행을 저해하며(분석에 의한 마비) ③ 따라서 완전한 성문화는 단순히 미해결 기술 문제가 아닙니다. 빈칸은 'Rather, it suggests that ___'로, '미해결 기술 문제가 아니라면 무엇인가'를 설명합니다. ②번 '일부 형태의 지식은 본질적으로(constitutively) 완전한 기호적 표상에 저항한다'는 이 구조적 불가능성을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '전문가 수행이 주로 정보 검색 속도에 의존'은 체화된 기술(embodied skill)이 아닌 속도로 환원하며 글의 논점과 무관합니다.",
+          "3": "③번 '의식적 표현이 고위험 상황에서 전문가 판단의 신뢰성을 높인다'는 '분석에 의한 마비' 현상의 정반대 주장입니다.",
+          "4": "④번 '암묵적 기술 발달에 공식 교육 자료가 필요'는 몸으로 체득하는 지식의 본질과 모순됩니다.",
+          "5": "⑤번 '충분히 발전된 기록 기술이 있으면 완전 포착 가능'은 글이 '기술 문제가 아니라 본질적 한계'라고 말하는 것과 직접 대립합니다."
+        },
+        "key_point": "'not simply an unsolved technical problem... Rather, ___' 구조는 기술적 해법이 아닌 본질적 한계를 정답으로 요구합니다. '기술 발전으로 해결 가능' 류의 선지는 자동 배제하세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that tacit knowledge cannot be fully articulated and that trying to articulate it impairs performance. The blank completes 'it suggests that ___.' Choice 2 ('some forms of knowledge are constitutively resistant to complete symbolic representation') is correct — 'constitutively' means intrinsic resistance, matching the claim that codification is not 'simply an unsolved technical problem.' Choice 1 invokes retrieval speed — unrelated. Choice 3 says articulation enhances judgment — opposite of 'paralysis by analysis.' Choice 4 invokes formal instruction — contradicts the body-knowledge emphasis. Choice 5 says full capture is possible with better technology — directly contradicted.",
+        "word_count": 220,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-08",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Entropy and information theory (Shannon-Boltzmann connection)",
+      "passage": "The second law of thermodynamics states that in any closed system, entropy — a measure of disorder or the dispersal of energy — will tend to increase over time, never spontaneously decrease. This law provides physics with its only fundamental temporal asymmetry: the laws governing individual particle collisions are time-reversible, yet the collective behavior of large numbers of particles overwhelmingly tends in one direction. A drop of ink dispersing in water will not spontaneously reconcentrate; a shattered glass will not reassemble itself. What is less widely appreciated is that this thermodynamic arrow of time is also the foundation of information theory. Claude Shannon's formal definition of information entropy uses the same mathematical structure as Boltzmann's thermodynamic entropy. A highly ordered, redundant message contains less information than a maximally disordered, unpredictable one — because information is a measure of surprise, and surprise requires deviation from the expected. This connection implies that the experience of gaining new knowledge, and the physical process of increasing thermodynamic disorder, are governed by ______________, pointing to a deep unity between the physics of energy dispersal and the epistemology of learning.\n* thermodynamic: 열역학적인 ** Boltzmann: 볼츠만(물리학자)",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "opposing tendencies that classical physics failed to reconcile",
+        "distinct principles that only superficially resemble each other",
+        "the same underlying mathematical formalism",
+        "different equations that yield identical practical outcomes",
+        "a shared requirement for external energy inputs to sustain order"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 열역학 제2법칙에서 엔트로피는 시간의 비대칭성을 제공하고 ② 섀넌의 정보 엔트로피는 볼츠만의 열역학적 엔트로피와 동일한 수학적 구조를 사용하며 ③ 이는 에너지 분산의 물리학과 학습의 인식론 사이의 깊은 통일성을 시사합니다. 빈칸은 'governed by ___'로, 두 과정을 지배하는 공통 원리를 서술합니다. ③번 '동일한 기저 수학적 형식론(mathematical formalism)'은 이 공유된 구조를 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '고전 물리학이 조화시키지 못한 상반된 경향'은 글이 말하는 '깊은 통일성(deep unity)'의 정반대입니다.",
+          "2": "②번 '피상적으로만 닮은 별개의 원리'는 역시 '깊은 통일성'과 모순됩니다.",
+          "4": "④번 '동일한 실용적 결과를 내는 다른 방정식'은 글이 '동일한 수학적 구조(same mathematical structure)'라고 명시한 것과 대립합니다.",
+          "5": "⑤번 '질서를 유지하기 위한 외부 에너지 투입의 공유된 필요'는 논의되지 않은 별도의 열역학 개념을 도입합니다."
+        },
+        "key_point": "글에서 'uses the same mathematical structure'라는 직접적 표현이 정답의 방향을 확인합니다. 킬러 빈칸에서는 핵심 키워드의 패러프레이즈를 정답에서 찾으세요."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 열역학 제2법칙에서 엔트로피는 시간의 비대칭성을 제공하고 ② 섀넌의 정보 엔트로피는 볼츠만의 열역학적 엔트로피와 동일한 수학적 구조를 사용하며 ③ 이는 에너지 분산의 물리학과 학습의 인식론 사이의 깊은 통일성을 시사합니다. 빈칸은 'governed by ___'로, 두 과정을 지배하는 공통 원리를 서술합니다. ③번 '동일한 기저 수학적 형식론(mathematical formalism)'은 이 공유된 구조를 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '고전 물리학이 조화시키지 못한 상반된 경향'은 글이 말하는 '깊은 통일성(deep unity)'의 정반대입니다.",
+          "2": "②번 '피상적으로만 닮은 별개의 원리'는 역시 '깊은 통일성'과 모순됩니다.",
+          "4": "④번 '동일한 실용적 결과를 내는 다른 방정식'은 글이 '동일한 수학적 구조(same mathematical structure)'라고 명시한 것과 대립합니다.",
+          "5": "⑤번 '질서를 유지하기 위한 외부 에너지 투입의 공유된 필요'는 논의되지 않은 별도의 열역학 개념을 도입합니다."
+        },
+        "key_point": "글에서 'uses the same mathematical structure'라는 직접적 표현이 정답의 방향을 확인합니다. 킬러 빈칸에서는 핵심 키워드의 패러프레이즈를 정답에서 찾으세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage builds to the claim that thermodynamic entropy and information entropy share the 'same mathematical structure.' The blank must state this shared formal basis. Choice 3 ('the same underlying mathematical formalism') is correct. Choice 1 says 'opposing tendencies' — the opposite of 'deep unity.' Choice 2 says 'only superficially resemble' — contradicts 'deep unity.' Choice 4 says 'different equations' — the passage explicitly says same mathematical structure. Choice 5 introduces 'external energy inputs' — a different thermodynamic concept not discussed.",
+        "word_count": 216,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-09",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "topic": "Normative vs. positive economics and the impossibility of value-neutral analysis",
+      "passage": "Economists have long insisted on a methodological boundary between positive economics — the descriptive study of how economies actually function — and normative economics, which concerns how economies ought to function. The appeal of this distinction lies in its promise of scientific neutrality: if economists restrict themselves to positive claims, their analyses can in principle be verified or falsified by data, free from the distorting influence of political values. In practice, however, maintaining this boundary has proven far more difficult than its proponents acknowledged. The selection of what to measure, how to define key variables such as productivity or welfare, and which phenomena to treat as economically significant are all choices that embed value judgments prior to any data collection. A researcher who defines poverty as falling below an absolute caloric threshold will reach different conclusions from one who defines it as falling below fifty percent of median income — yet neither definition is purely empirical. Critics have argued, therefore, that the positivist ambition in economics is not merely incomplete but fundamentally illusory, because ______________, and every empirical description of an economy already presupposes a normative framework about what matters and what does not.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "the tools of data analysis are not yet sophisticated enough to separate fact from value",
+        "economic models are inherently too simplified to reflect the complexity of real markets",
+        "normative claims in economics require greater empirical validation than they currently receive",
+        "the distinction between describing and evaluating the economy cannot be cleanly maintained",
+        "economists should focus exclusively on comparative data rather than on abstract definitions"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 경제학은 실증(positive)과 규범(normative)의 방법론적 경계를 주장하지만 ② 무엇을 측정할지, 핵심 변수를 어떻게 정의할지 등의 선택에 이미 가치 판단이 내재되어 있고 ③ 따라서 실증주의적 야심은 불완전할 뿐 아니라 근본적으로 환상적입니다. 빈칸은 'because ___'로, 실증주의가 환상인 이유를 서술합니다. ④번 '경제를 기술하는 것과 평가하는 것의 구분은 깔끔하게 유지될 수 없다'는 이 핵심 논지를 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '데이터 분석 도구가 아직 충분히 정교하지 않다'는 기술적/일시적 한계를 지적하지만, 글은 근본적(fundamental) 불가능성을 주장합니다.",
+          "2": "②번 '경제 모형이 본질적으로 단순화되어 있다'는 글의 논점(가치 판단의 내재)과 다른 문제(모형의 단순성)를 도입합니다.",
+          "3": "③번 '규범적 주장에 더 많은 경험적 검증이 필요'는 글의 논점(실증과 규범의 분리 불가능)과 직교하는 주장입니다.",
+          "5": "⑤번 '비교 데이터에만 집중해야 한다'는 본문에 근거가 없는 방법론적 처방입니다."
+        },
+        "key_point": "'not merely incomplete but fundamentally illusory, because ___'에서 'fundamentally illusory'가 정답의 강도를 결정합니다. 기술적 한계(아직 부족)가 아닌 원리적 불가능(본질적으로 유지 불가)을 말하는 선지를 선택하세요."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 경제학은 실증(positive)과 규범(normative)의 방법론적 경계를 주장하지만 ② 무엇을 측정할지, 핵심 변수를 어떻게 정의할지 등의 선택에 이미 가치 판단이 내재되어 있고 ③ 따라서 실증주의적 야심은 불완전할 뿐 아니라 근본적으로 환상적입니다. 빈칸은 'because ___'로, 실증주의가 환상인 이유를 서술합니다. ④번 '경제를 기술하는 것과 평가하는 것의 구분은 깔끔하게 유지될 수 없다'는 이 핵심 논지를 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '데이터 분석 도구가 아직 충분히 정교하지 않다'는 기술적/일시적 한계를 지적하지만, 글은 근본적(fundamental) 불가능성을 주장합니다.",
+          "2": "②번 '경제 모형이 본질적으로 단순화되어 있다'는 글의 논점(가치 판단의 내재)과 다른 문제(모형의 단순성)를 도입합니다.",
+          "3": "③번 '규범적 주장에 더 많은 경험적 검증이 필요'는 글의 논점(실증과 규범의 분리 불가능)과 직교하는 주장입니다.",
+          "5": "⑤번 '비교 데이터에만 집중해야 한다'는 본문에 근거가 없는 방법론적 처방입니다."
+        },
+        "key_point": "'not merely incomplete but fundamentally illusory, because ___'에서 'fundamentally illusory'가 정답의 강도를 결정합니다. 기술적 한계(아직 부족)가 아닌 원리적 불가능(본질적으로 유지 불가)을 말하는 선지를 선택하세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that the positive/normative distinction cannot be maintained because value judgments enter before data collection. The blank must state why the positivist ambition is 'fundamentally illusory.' Choice 4 ('the distinction between describing and evaluating the economy cannot be cleanly maintained') directly states this. The confirming sentence follows. Choice 1 invokes data tool limitations — a technical, not fundamental, objection. Choice 2 introduces simplification — not the passage's argument. Choice 3 demands more validation — orthogonal to the passage's point. Choice 5 is a methodological prescription not supported.",
+        "word_count": 213,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-10",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "topic": "The tragedy of the commons and institutional self-governance (Ostrom)",
+      "passage": "Garrett Hardin's 1968 essay \"The Tragedy of the Commons\" argued that shared resources will inevitably be overexploited by rational self-interested individuals, since each person captures the full benefit of additional use while bearing only a fraction of the resulting collective cost. Hardin's conclusion was stark: the only solutions were privatization of the commons or coercive state regulation. For decades this argument dominated policy thinking about environmental governance. It was economist Elinor Ostrom who challenged this binary by examining how actual communities manage shared resources. Studying fisheries, irrigation systems, forests, and pastures across multiple continents, Ostrom found that many communities had developed sophisticated, self-enforced institutional arrangements — rules about access, usage limits, monitoring, and graduated sanctions — that sustained shared resources over generations without either privatization or top-down coercion. Her central finding overturned Hardin's premise by demonstrating that ______________, provided they are given the autonomy to devise and enforce their own rules rather than having solutions imposed from the outside.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "communities are capable of cooperatively managing shared resources without external authority",
+        "state intervention remains indispensable for managing large-scale environmental commons",
+        "privatization of shared resources consistently yields better outcomes than communal governance",
+        "the sustainability of commons depends primarily on reducing the overall size of user populations",
+        "rational self-interest inevitably drives individuals toward exploitation regardless of institutional design"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 하딘의 '공유지의 비극'은 공유 자원이 필연적으로 남용된다고 주장하며 해법으로 사유화 또는 국가 규제만 제시하고 ② 오스트롬은 실제 공동체 연구를 통해 자율적 제도 설계(접근 규칙, 사용 한도, 모니터링, 단계적 제재)로 공유 자원이 지속 관리됨을 입증했습니다. 빈칸은 'demonstrated that ___'로, 오스트롬의 핵심 발견을 서술합니다. ①번 '공동체가 외부 권위 없이 공유 자원을 협력적으로 관리할 수 있다'는 이 발견을 정확히 요약합니다.",
+        "wrong": {
+          "2": "②번 '국가 개입이 대규모 환경 공유지에 불가결'은 하딘의 해법 중 하나이며, 오스트롬이 뒤집은 전제입니다.",
+          "3": "③번 '공유 자원의 사유화가 일관되게 더 나은 결과를 낳는다'는 하딘의 다른 해법으로, 역시 오스트롬이 반박한 것입니다.",
+          "4": "④번 '공유지의 지속가능성이 주로 사용자 인구 감소에 달려 있다'는 오스트롬의 논점(제도적 자율 설계)과 무관합니다.",
+          "5": "⑤번 '합리적 자기이익이 제도 설계에 관계없이 착취로 이끈다'는 하딘의 반증된 전제를 그대로 반복합니다."
+        },
+        "key_point": "'overturned Hardin's premise by demonstrating that ___'에서 정답은 하딘의 전제(사유화/국가 규제만 가능)를 뒤집는 내용이어야 합니다. 뒤에 나오는 'provided they are given the autonomy' 조건절이 정답 방향을 확인합니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 하딘의 '공유지의 비극'은 공유 자원이 필연적으로 남용된다고 주장하며 해법으로 사유화 또는 국가 규제만 제시하고 ② 오스트롬은 실제 공동체 연구를 통해 자율적 제도 설계(접근 규칙, 사용 한도, 모니터링, 단계적 제재)로 공유 자원이 지속 관리됨을 입증했습니다. 빈칸은 'demonstrated that ___'로, 오스트롬의 핵심 발견을 서술합니다. ①번 '공동체가 외부 권위 없이 공유 자원을 협력적으로 관리할 수 있다'는 이 발견을 정확히 요약합니다.",
+        "wrong": {
+          "2": "②번 '국가 개입이 대규모 환경 공유지에 불가결'은 하딘의 해법 중 하나이며, 오스트롬이 뒤집은 전제입니다.",
+          "3": "③번 '공유 자원의 사유화가 일관되게 더 나은 결과를 낳는다'는 하딘의 다른 해법으로, 역시 오스트롬이 반박한 것입니다.",
+          "4": "④번 '공유지의 지속가능성이 주로 사용자 인구 감소에 달려 있다'는 오스트롬의 논점(제도적 자율 설계)과 무관합니다.",
+          "5": "⑤번 '합리적 자기이익이 제도 설계에 관계없이 착취로 이끈다'는 하딘의 반증된 전제를 그대로 반복합니다."
+        },
+        "key_point": "'overturned Hardin's premise by demonstrating that ___'에서 정답은 하딘의 전제(사유화/국가 규제만 가능)를 뒤집는 내용이어야 합니다. 뒤에 나오는 'provided they are given the autonomy' 조건절이 정답 방향을 확인합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage describes Ostrom overturning Hardin's claim that commons require privatization or state coercion. Her finding is that communities can self-manage. Choice 1 ('communities are capable of cooperatively managing shared resources without external authority') is correct — confirmed by the 'provided they are given autonomy' clause. Choice 2 (state intervention indispensable) is Hardin's view. Choice 3 (privatization best) is the other Hardin option. Choice 4 (reduce populations) is not Ostrom's argument. Choice 5 restates Hardin's disproved premise.",
+        "word_count": 210,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-11",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "topic": "Mirror neurons and the limits of simulation theory in social cognition",
+      "passage": "The discovery of mirror neurons in the premotor cortex of macaque monkeys — cells that fire both when the animal performs an action and when it observes the same action performed by another — generated enormous excitement in cognitive neuroscience. Researchers proposed that a human mirror neuron system might underlie our capacity for imitation, empathy, and the understanding of others' intentions: by internally simulating observed actions, we grasp what others are doing as if from the inside. This \"simulation theory\" of social cognition seemed to explain, in a single neural mechanism, phenomena as diverse as the acquisition of language, the experience of emotional contagion, and the impairments in social understanding associated with autism. Subsequent research has significantly complicated this picture, however. Human neuroimaging studies reveal that mirror-like activity is found in a far broader, more distributed network than the original premotor findings suggested, and that this activity does not reliably predict mentalizing ability — the capacity to attribute beliefs, desires, and intentions to others. The emerging consensus is that ______________, since understanding another mind involves not only simulation of observed actions but also the application of conceptual knowledge about mental states that cannot be reduced to motor resonance.\n* mentalizing: 정신화(他者의 정신 상태 추론) ** motor resonance: 운동 공명",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "mirror neuron activity is the primary mechanism by which humans develop linguistic competence",
+        "the mirror neuron system functions identically in humans and macaque monkeys",
+        "imitation and empathy depend on entirely different neural systems with no structural overlap",
+        "neuroimaging technologies are too imprecise to resolve debates about social cognition",
+        "social cognition cannot be explained by a single neural mechanism centered on action simulation"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 거울 뉴런의 발견은 모방, 공감, 타인 의도 이해를 하나의 신경 메커니즘(시뮬레이션)으로 설명하려 했으나 ② 후속 연구에서 거울 유사 활동이 더 넓게 분포하며 정신화 능력을 신뢰성 있게 예측하지 못함이 밝혀졌고 ③ 타인의 마음을 이해하려면 운동 공명을 넘어선 개념적 지식도 필요합니다. 빈칸은 'the emerging consensus is that ___'로, 현재의 학술적 합의를 서술합니다. ⑤번 '사회 인지는 행위 시뮬레이션 중심의 단일 신경 메커니즘으로 설명될 수 없다'는 이 합의를 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '거울 뉴런이 언어 능력 발달의 주요 메커니즘'은 글이 복잡화(complication)한 초기 낙관적 주장을 되풀이합니다.",
+          "2": "②번 '거울 뉴런 시스템이 인간과 원숭이에서 동일하게 기능'은 인간에서 더 넓게 분포한다는 연구 결과와 모순됩니다.",
+          "3": "③번 '모방과 공감이 구조적 겹침 없이 완전히 다른 신경 시스템에 의존'은 '완전히 다른(entirely different)'이 너무 강한 주장입니다.",
+          "4": "④번 '신경영상 기술이 너무 부정확하여 사회 인지 논쟁을 해결할 수 없다'는 기술적 한계를 탓하지만, 글의 논점은 이론적 불충분성입니다."
+        },
+        "key_point": "킬러 빈칸에서 'emerging consensus'는 초기 이론의 수정/제한을 요구합니다. 초기 이론(거울 뉴런 만능론)을 그대로 반복하는 선지는 배제하고, 제한적 결론을 찾으세요."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 거울 뉴런의 발견은 모방, 공감, 타인 의도 이해를 하나의 신경 메커니즘(시뮬레이션)으로 설명하려 했으나 ② 후속 연구에서 거울 유사 활동이 더 넓게 분포하며 정신화 능력을 신뢰성 있게 예측하지 못함이 밝혀졌고 ③ 타인의 마음을 이해하려면 운동 공명을 넘어선 개념적 지식도 필요합니다. 빈칸은 'the emerging consensus is that ___'로, 현재의 학술적 합의를 서술합니다. ⑤번 '사회 인지는 행위 시뮬레이션 중심의 단일 신경 메커니즘으로 설명될 수 없다'는 이 합의를 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '거울 뉴런이 언어 능력 발달의 주요 메커니즘'은 글이 복잡화(complication)한 초기 낙관적 주장을 되풀이합니다.",
+          "2": "②번 '거울 뉴런 시스템이 인간과 원숭이에서 동일하게 기능'은 인간에서 더 넓게 분포한다는 연구 결과와 모순됩니다.",
+          "3": "③번 '모방과 공감이 구조적 겹침 없이 완전히 다른 신경 시스템에 의존'은 '완전히 다른(entirely different)'이 너무 강한 주장입니다.",
+          "4": "④번 '신경영상 기술이 너무 부정확하여 사회 인지 논쟁을 해결할 수 없다'는 기술적 한계를 탓하지만, 글의 논점은 이론적 불충분성입니다."
+        },
+        "key_point": "킬러 빈칸에서 'emerging consensus'는 초기 이론의 수정/제한을 요구합니다. 초기 이론(거울 뉴런 만능론)을 그대로 반복하는 선지는 배제하고, 제한적 결론을 찾으세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage builds a case that mirror neurons alone cannot explain social cognition — distributed networks, lack of predictive validity for mentalizing, and the need for conceptual knowledge beyond motor simulation. The blank ('the emerging consensus is that ___') must state that a single simulation-based mechanism is insufficient. Choice 5 ('social cognition cannot be explained by a single neural mechanism centered on action simulation') is correct. Choice 1 inverts the passage's complication. Choice 2 says identical function in humans and monkeys — contradicted. Choice 3 says 'entirely different systems' — too strong. Choice 4 invokes technological limits — not the passage's argument.",
+        "word_count": 222,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-12",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Category errors and the philosophy of mind (Ryle)",
+      "passage": "Gilbert Ryle's 1949 work The Concept of Mind introduced the notion of a category mistake to diagnose what he considered a fundamental error in Descartes' account of the mind. The Cartesian picture treats the mind as a ghostly inner substance — the \"ghost in the machine\" — that exists alongside the body and causally interacts with it. Ryle argued that this picture arises not from empirical investigation but from a logical blunder: treating mental terms as if they referred to a hidden inner realm of the same logical type as physical processes, when in fact they belong to a categorically different kind of description. To say that a person is intelligent is not to identify a separate inner event that causes their intelligent behavior; it is to characterize the behavior itself in terms of its patterns, tendencies, and dispositions. Ryle's critique implies that the hard problem of consciousness — the question of why any physical process should be accompanied by subjective experience — may not be a genuine empirical mystery awaiting a scientific solution but rather ______________, since framing it as a question about a hidden inner substance presupposes precisely the categorical confusion that generates the appearance of a problem.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "a problem that neuroscience will eventually resolve with sufficiently detailed brain imaging",
+        "a symptom of misapplying the logical grammar of physical description to mental phenomena",
+        "evidence that consciousness operates according to causal laws distinct from those of physics",
+        "a question that can only be addressed through introspective rather than scientific methods",
+        "confirmation that the mind-body distinction is grounded in empirical rather than logical facts"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 라일은 데카르트의 심신 이원론이 범주 오류(category mistake)에서 비롯된다고 진단하고 ② 정신 용어는 숨겨진 내적 실체가 아닌 행동의 패턴과 성향을 기술하며 ③ 따라서 의식의 어려운 문제(hard problem)도 진정한 경험적 신비가 아닐 수 있습니다. 빈칸은 'not a genuine empirical mystery but rather ___'로, 대안적 진단을 완성합니다. ②번 '물리적 기술의 논리적 문법을 정신 현상에 잘못 적용한 증상'은 라일의 범주 오류 진단을 정확히 반영합니다.",
+        "wrong": {
+          "1": "①번 '신경과학이 충분히 상세한 뇌 영상으로 결국 해결할 것'은 글이 잘못된 프레이밍이라고 암시하는 경험적 접근 자체입니다.",
+          "3": "③번 '의식이 물리학과 다른 인과 법칙에 따라 작동한다는 증거'는 이원론을 강화하는 것으로, 라일이 해소하려는 바로 그 혼동입니다.",
+          "4": "④번 '과학적이 아닌 내성적 방법으로만 다룰 수 있는 문제'는 라일의 방법론과 다른 접근을 도입합니다.",
+          "5": "⑤번 '심신 구분이 논리적이 아닌 경험적 사실에 근거'는 라일의 핵심 주장(논리적 혼동)의 정반대입니다."
+        },
+        "key_point": "'not A but rather B' 구조에서 A가 '경험적 신비'이므로, B는 경험적이 아닌 논리적/개념적 차원의 진단이어야 합니다. 신경과학이나 경험적 방법을 제시하는 선지는 A를 반복하는 것입니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 라일은 데카르트의 심신 이원론이 범주 오류(category mistake)에서 비롯된다고 진단하고 ② 정신 용어는 숨겨진 내적 실체가 아닌 행동의 패턴과 성향을 기술하며 ③ 따라서 의식의 어려운 문제(hard problem)도 진정한 경험적 신비가 아닐 수 있습니다. 빈칸은 'not a genuine empirical mystery but rather ___'로, 대안적 진단을 완성합니다. ②번 '물리적 기술의 논리적 문법을 정신 현상에 잘못 적용한 증상'은 라일의 범주 오류 진단을 정확히 반영합니다.",
+        "wrong": {
+          "1": "①번 '신경과학이 충분히 상세한 뇌 영상으로 결국 해결할 것'은 글이 잘못된 프레이밍이라고 암시하는 경험적 접근 자체입니다.",
+          "3": "③번 '의식이 물리학과 다른 인과 법칙에 따라 작동한다는 증거'는 이원론을 강화하는 것으로, 라일이 해소하려는 바로 그 혼동입니다.",
+          "4": "④번 '과학적이 아닌 내성적 방법으로만 다룰 수 있는 문제'는 라일의 방법론과 다른 접근을 도입합니다.",
+          "5": "⑤번 '심신 구분이 논리적이 아닌 경험적 사실에 근거'는 라일의 핵심 주장(논리적 혼동)의 정반대입니다."
+        },
+        "key_point": "'not A but rather B' 구조에서 A가 '경험적 신비'이므로, B는 경험적이 아닌 논리적/개념적 차원의 진단이어야 합니다. 신경과학이나 경험적 방법을 제시하는 선지는 A를 반복하는 것입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that the hard problem arises from a category mistake — applying physical-object logical grammar to mental terms. The blank completes 'may not be a genuine empirical mystery but rather ___.' Choice 2 ('a symptom of misapplying the logical grammar of physical description to mental phenomena') is correct. Choice 1 invokes neuroscience solving consciousness — the passage implies this is the wrong framing. Choice 3 invokes distinct causal laws — entrenches dualism rather than dissolving it. Choice 4 introduces introspection — a different methodology not Ryle's. Choice 5 says the distinction is empirically grounded — the opposite of Ryle's claim that it is a logical confusion.",
+        "word_count": 217,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-13",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Emergence in complex systems and the limits of reductionism",
+      "passage": "One of the central debates in the philosophy of science concerns whether the properties of complex systems can in principle be fully explained by the properties of their constituent parts — a position known as reductionism — or whether genuinely novel properties arise at higher levels of organization that cannot be predicted from lower-level descriptions alone. Proponents of emergence point to phenomena such as consciousness arising from neurons, liquidity arising from molecules that are individually neither wet nor flowing, and the coordinated movement of bird flocks arising from local interaction rules followed by individuals with no awareness of the collective pattern they produce. In each case, the macroscopic property appears to require a higher-level vocabulary that is not available at the level of the parts. Critics of strong emergence argue, however, that the apparent irreducibility of such properties reflects only our current ignorance — that a sufficiently complete description of the lower-level dynamics would in principle entail the higher-level pattern. What this debate ultimately turns on is whether the relationship between levels of description is one of in-principle reduction or one of ______________, a question that cannot be resolved by simply accumulating more data about component interactions.\n* in-principle: 원칙적으로",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "temporary epistemic limitation awaiting better computational models",
+        "mutual reinforcement where higher levels continuously reshape lower ones",
+        "genuine ontological novelty that no lower-level description can capture",
+        "practical approximation that simplifies the analysis of component interactions",
+        "historical dependency where initial conditions determine all subsequent patterns"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 환원주의는 복잡계의 속성이 구성 요소로 완전히 설명 가능하다고 주장하고 ② 창발론은 의식, 유동성, 새 떼의 군무 등이 하위 수준 기술에서 예측 불가능한 진정한 신규 속성이라고 반박하며 ③ 비판자들은 이런 비환원성이 우리의 현재 무지를 반영할 뿐이라고 주장합니다. 빈칸은 'in-principle reduction or one of ___'로, 이 양자택일의 두 번째 뿔(horn)을 완성합니다. ③번 '어떤 하위 수준 기술도 포착할 수 없는 진정한 존재론적 신규성'은 창발론 측의 주장을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '더 나은 계산 모형을 기다리는 일시적 인식론적 한계'는 비판자 측의 입장으로, 이미 본문에서 환원주의 옹호로 제시된 것입니다.",
+          "2": "②번 '상위 수준이 하위 수준을 지속적으로 재형성하는 상호 강화'는 본문에서 프레이밍한 이분법(환원 vs 창발)에 포함되지 않는 제3의 관점입니다.",
+          "4": "④번 '구성 요소 상호작용 분석을 단순화하는 실용적 근사'는 실용주의적 절충안으로 본문의 이분법적 논쟁과 맞지 않습니다.",
+          "5": "⑤번 '초기 조건이 이후 모든 패턴을 결정하는 역사적 의존성'은 경로 의존성 개념으로, 본문의 환원주의/창발 논쟁과 무관합니다."
+        },
+        "key_point": "'A or one of B' 이분법 구조에서 A가 이미 정의되었으면(원칙적 환원), B는 A의 정확한 대립항이어야 합니다. A 측의 주장을 반복하는 선지(①번)는 구조적으로 배제됩니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 환원주의는 복잡계의 속성이 구성 요소로 완전히 설명 가능하다고 주장하고 ② 창발론은 의식, 유동성, 새 떼의 군무 등이 하위 수준 기술에서 예측 불가능한 진정한 신규 속성이라고 반박하며 ③ 비판자들은 이런 비환원성이 우리의 현재 무지를 반영할 뿐이라고 주장합니다. 빈칸은 'in-principle reduction or one of ___'로, 이 양자택일의 두 번째 뿔(horn)을 완성합니다. ③번 '어떤 하위 수준 기술도 포착할 수 없는 진정한 존재론적 신규성'은 창발론 측의 주장을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '더 나은 계산 모형을 기다리는 일시적 인식론적 한계'는 비판자 측의 입장으로, 이미 본문에서 환원주의 옹호로 제시된 것입니다.",
+          "2": "②번 '상위 수준이 하위 수준을 지속적으로 재형성하는 상호 강화'는 본문에서 프레이밍한 이분법(환원 vs 창발)에 포함되지 않는 제3의 관점입니다.",
+          "4": "④번 '구성 요소 상호작용 분석을 단순화하는 실용적 근사'는 실용주의적 절충안으로 본문의 이분법적 논쟁과 맞지 않습니다.",
+          "5": "⑤번 '초기 조건이 이후 모든 패턴을 결정하는 역사적 의존성'은 경로 의존성 개념으로, 본문의 환원주의/창발 논쟁과 무관합니다."
+        },
+        "key_point": "'A or one of B' 이분법 구조에서 A가 이미 정의되었으면(원칙적 환원), B는 A의 정확한 대립항이어야 합니다. A 측의 주장을 반복하는 선지(①번)는 구조적으로 배제됩니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage frames the debate as: is irreducibility merely epistemic (our ignorance) or genuinely ontological (novel properties in reality)? The blank completes 'in-principle reduction or one of ___.' Choice 3 ('genuine ontological novelty that no lower-level description can capture') is the correct second horn of the dilemma. Choice 1 is the critic's position (epistemic ignorance) already named in the passage. Choice 2 introduces 'mutual reinforcement' — not the debate framed. Choice 4 ('practical approximation') is a pragmatist middle ground not in the passage. Choice 5 ('historical dependency') introduces path-dependency, unrelated.",
+        "word_count": 215,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-14",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Survivorship bias and the distortion of historical inference",
+      "passage": "During World War II, statistician Abraham Wald was asked to analyze damage patterns on returning bomber aircraft in order to recommend where additional armor plating should be added. The intuitive response was to reinforce the areas showing the most bullet holes. Wald recognized, however, that this approach contained a fatal flaw. The aircraft being examined were only those that had survived to return to base. The damage they displayed represented the locations where a plane could sustain hits and still fly home. The planes that did not return — which were precisely the ones that had been destroyed — were missing from the sample entirely. The areas that showed no damage on the surviving aircraft were not the safest locations; they were the locations where a hit was most likely to be fatal. Wald recommended reinforcing the undamaged areas. This episode illustrates survivorship bias: the systematic distortion that arises when analysis is conducted only on cases that pass a selection filter, without accounting for the cases excluded. In many domains of knowledge — from the apparent success of published financial strategies to the perceived genius of celebrated artists — ______________, because the failures, the unpublished, and the destroyed are systematically invisible to the analyst.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "selection criteria become more rigorous as the volume of available data increases",
+        "analytical methods must be revised to exclude incomplete data from consideration",
+        "the quality of evidence improves in direct proportion to the size of the surviving sample",
+        "the observed pattern overestimates the frequency of successful outcomes",
+        "researchers are increasingly aware of the hidden influence of irrelevant variables"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 왈드는 귀환한 폭격기의 피탄 패턴이 '생존한 것들만'의 편향된 표본임을 인식하고 ② 피탄이 없는 부위가 오히려 치명적 부위라는 역설을 발견했으며 ③ 이는 선택 필터를 통과한 사례만 분석할 때 발생하는 생존자 편향을 보여줍니다. 빈칸은 '많은 지식 영역에서 ___'로, 생존자 편향의 일반화된 결과를 서술합니다. ④번 '관찰된 패턴이 성공적 결과의 빈도를 과대평가한다'는 이 편향의 핵심 효과를 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '데이터 양이 증가하면 선별 기준이 더 엄격해진다'는 본문에서 논의하지 않는 별도의 방법론적 주장입니다.",
+          "2": "②번 '불완전한 데이터를 배제하도록 분석 방법을 수정해야 한다'는 왈드의 해법(누락된 사례를 포함해야 함)의 정반대입니다.",
+          "3": "③번 '생존 표본이 커질수록 증거의 질이 비례적으로 향상'은 선택 편향 문제를 완전히 무시합니다. 편향된 표본은 아무리 커도 편향됩니다.",
+          "5": "⑤번 '연구자들이 무관한 변수의 숨겨진 영향을 점점 더 인식'은 교란 변수(confounding variable)라는 다른 방법론적 개념입니다."
+        },
+        "key_point": "생존자 편향의 핵심은 '보이지 않는 실패 사례'입니다. 보이는 것(생존자)만으로 결론을 내리면 성공률이 과대평가됩니다. 이 역설적 구조를 파악하면 정답이 명확해집니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 왈드는 귀환한 폭격기의 피탄 패턴이 '생존한 것들만'의 편향된 표본임을 인식하고 ② 피탄이 없는 부위가 오히려 치명적 부위라는 역설을 발견했으며 ③ 이는 선택 필터를 통과한 사례만 분석할 때 발생하는 생존자 편향을 보여줍니다. 빈칸은 '많은 지식 영역에서 ___'로, 생존자 편향의 일반화된 결과를 서술합니다. ④번 '관찰된 패턴이 성공적 결과의 빈도를 과대평가한다'는 이 편향의 핵심 효과를 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '데이터 양이 증가하면 선별 기준이 더 엄격해진다'는 본문에서 논의하지 않는 별도의 방법론적 주장입니다.",
+          "2": "②번 '불완전한 데이터를 배제하도록 분석 방법을 수정해야 한다'는 왈드의 해법(누락된 사례를 포함해야 함)의 정반대입니다.",
+          "3": "③번 '생존 표본이 커질수록 증거의 질이 비례적으로 향상'은 선택 편향 문제를 완전히 무시합니다. 편향된 표본은 아무리 커도 편향됩니다.",
+          "5": "⑤번 '연구자들이 무관한 변수의 숨겨진 영향을 점점 더 인식'은 교란 변수(confounding variable)라는 다른 방법론적 개념입니다."
+        },
+        "key_point": "생존자 편향의 핵심은 '보이지 않는 실패 사례'입니다. 보이는 것(생존자)만으로 결론을 내리면 성공률이 과대평가됩니다. 이 역설적 구조를 파악하면 정답이 명확해집니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage explains that survivorship bias causes the visible sample to be systematically unrepresentative — only survivors remain visible, inflating apparent success rates. The blank must state the consequence in 'many domains.' Choice 4 ('the observed pattern overestimates the frequency of successful outcomes') is correct. Choice 1 invokes increasing rigor — not discussed. Choice 2 says 'exclude incomplete data' — the opposite of Wald's solution (include missing cases). Choice 3 says quality improves with sample size — ignores the selection bias problem. Choice 5 invokes 'irrelevant variables' — a different methodological concept.",
+        "word_count": 220,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-15",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "topic": "Incommensurability between scientific paradigms (Kuhn)",
+      "passage": "Thomas Kuhn's concept of incommensurability between scientific paradigms goes beyond the claim that rival theories make different predictions; it holds that competing paradigms often employ the same words in ways that are subtly but fundamentally different, such that proponents of each paradigm may be unable to fully translate the claims of the other into their own conceptual vocabulary. Newtonian and Einsteinian mechanics both use terms like mass, space, and time — but the concepts those terms pick out are not identical across the two frameworks. Einsteinian mass varies with velocity in a way that has no analogue in Newtonian mechanics, and Newtonian absolute space simply has no Einsteinian counterpart. If this is correct, then scientific revolutions involve not merely the replacement of one set of propositions with another but a deeper shift in the very conceptual grid through which phenomena are identified and described. Kuhn's defenders argue that incommensurability is partial rather than total, affecting specific theoretical terms while leaving enough common ground for communication. Yet even partial incommensurability implies that ______________, since there is no perspective-independent archive of observations waiting to be interpreted: what counts as an observation is already shaped by the conceptual framework through which it is apprehended.\n* adjudicate: 판정하다 ** apprehend: 파악하다",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "progress in science is best measured by the accumulation of agreed-upon facts across paradigms",
+        "the burden of proof in scientific disputes lies entirely with those proposing new theories",
+        "scientific communication requires the development of universal mathematical notation",
+        "paradigm change is driven primarily by generational turnover rather than rational argument",
+        "observation cannot fully function as a theory-neutral arbiter between competing paradigms"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 쿤의 공약불가능성은 경쟁 패러다임이 동일한 용어를 근본적으로 다른 의미로 사용한다고 주장하고 ② 과학 혁명은 명제 교체가 아닌 개념적 격자(conceptual grid) 자체의 전환이며 ③ 부분적 공약불가능성만으로도 관찰이 이론 중립적 중재자가 될 수 없음을 함의합니다. 빈칸은 'even partial incommensurability implies that ___'로, 부분적 공약불가능성의 함의를 서술합니다. ⑤번 '관찰이 경쟁 패러다임 사이의 이론 중립적 중재자로 완전히 기능할 수 없다'는 이 핵심 함의를 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '과학의 진보는 패러다임 간 합의된 사실의 축적으로 가장 잘 측정된다'는 프레임워크 중립적 관찰을 전제하지만, 글이 바로 이것을 부정합니다.",
+          "2": "②번 '과학적 논쟁에서 입증 책임이 전적으로 새 이론 제안자에게 있다'는 입증 책임이라는 본문과 무관한 논점을 도입합니다.",
+          "3": "③번 '과학적 소통에 보편적 수학 표기법 개발이 필요'는 본문에서 전혀 논의되지 않습니다.",
+          "4": "④번 '패러다임 전환이 합리적 논증보다 세대 교체에 의해 주도된다'는 쿤의 다른 부분에서 나오는 사회학적 주장으로, 이 지문의 논증과 다릅니다."
+        },
+        "key_point": "킬러 빈칸에서 'since there is no perspective-independent archive of observations'가 정답의 핵심 근거입니다. '관점 독립적 관찰 저장소가 없다'면, 관찰은 이론 중립적 중재자가 될 수 없습니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 쿤의 공약불가능성은 경쟁 패러다임이 동일한 용어를 근본적으로 다른 의미로 사용한다고 주장하고 ② 과학 혁명은 명제 교체가 아닌 개념적 격자(conceptual grid) 자체의 전환이며 ③ 부분적 공약불가능성만으로도 관찰이 이론 중립적 중재자가 될 수 없음을 함의합니다. 빈칸은 'even partial incommensurability implies that ___'로, 부분적 공약불가능성의 함의를 서술합니다. ⑤번 '관찰이 경쟁 패러다임 사이의 이론 중립적 중재자로 완전히 기능할 수 없다'는 이 핵심 함의를 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '과학의 진보는 패러다임 간 합의된 사실의 축적으로 가장 잘 측정된다'는 프레임워크 중립적 관찰을 전제하지만, 글이 바로 이것을 부정합니다.",
+          "2": "②번 '과학적 논쟁에서 입증 책임이 전적으로 새 이론 제안자에게 있다'는 입증 책임이라는 본문과 무관한 논점을 도입합니다.",
+          "3": "③번 '과학적 소통에 보편적 수학 표기법 개발이 필요'는 본문에서 전혀 논의되지 않습니다.",
+          "4": "④번 '패러다임 전환이 합리적 논증보다 세대 교체에 의해 주도된다'는 쿤의 다른 부분에서 나오는 사회학적 주장으로, 이 지문의 논증과 다릅니다."
+        },
+        "key_point": "킬러 빈칸에서 'since there is no perspective-independent archive of observations'가 정답의 핵심 근거입니다. '관점 독립적 관찰 저장소가 없다'면, 관찰은 이론 중립적 중재자가 될 수 없습니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that even partial incommensurability means there is no neutral conceptual standpoint. If what counts as an observation is shaped by the conceptual framework, then observation cannot arbitrate between frameworks neutrally. Choice 5 ('observation cannot fully function as a theory-neutral arbiter between competing paradigms') is correct. Choice 1 presupposes framework-neutral observation — which the passage denies. Choice 2 is about burden of proof — unrelated. Choice 3 invokes mathematical notation — not discussed. Choice 4 refers to a sociological claim from a different part of Kuhn's work, not this passage's argument.",
+        "word_count": 224,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-16",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Preference falsification and the sudden collapse of authoritarian regimes (Kuran)",
+      "passage": "Political economist Timur Kuran introduced the concept of preference falsification to explain a striking feature of political life under authoritarian regimes: the apparent stability of deeply unpopular systems, and the sudden, seemingly unpredictable revolutions that sometimes overthrow them. Preference falsification occurs when individuals publicly express support for a regime they privately oppose, calculating that the personal cost of visible dissent — harassment, imprisonment, or social ostracism — exceeds the uncertain benefit of individual protest. In such a system, the publicly observable distribution of opinion bears no relation to the privately held distribution. What makes this phenomenon so consequential is its self-reinforcing character. Each person, observing widespread public support and ignorant of the private opposition it conceals, updates their estimate of the regime's actual popularity upward, which in turn lowers their own threshold for public dissent. The privately held opposition is thus rendered permanently invisible to those who share it. Under these conditions, the regime can appear robust right up to the moment of its collapse, because the triggering of a revolution requires only that a sufficient number of individuals simultaneously revise their public stance — a threshold effect that, once crossed, ______________ through the population, each visible defection lowering the threshold for the next.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "gradually dissipates as citizens grow accustomed to the costs of visible dissent",
+        "spreads like a cascade of rapidly accelerating public reversals",
+        "is absorbed by the regime's capacity for coercive suppression",
+        "requires extensive coordination among opposition leaders before it can proceed",
+        "reflects the long-term accumulation of privately held grievances over decades"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 선호 위장(preference falsification)으로 사적 반대가 공적으로 보이지 않게 되고 ② 각 개인이 공적 지지를 관찰하며 체제 인기를 과대평가하여 반대 표출의 임계점을 높이며 ③ 그러나 충분한 수가 동시에 공적 입장을 바꾸면 임계 효과(threshold effect)가 발생합니다. 빈칸은 이 임계점을 넘은 후의 동태를 서술합니다. ②번 '급속히 가속되는 공적 전향의 연쇄(cascade)처럼 확산된다'는 각 이탈이 다음 이탈의 임계점을 낮추는 연쇄 메커니즘을 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '시민들이 반대의 비용에 익숙해지면서 점차 소멸'은 폭발적 연쇄라는 글의 논점과 정반대(점진적 소멸)입니다.",
+          "3": "③번 '체제의 강제적 억압 역량에 흡수된다'는 혁명이 실제로 일어나는 시나리오와 모순됩니다.",
+          "4": "④번 '진행되려면 야당 지도자 간 광범위한 조율이 필요'는 자발적 연쇄(coordination 불필요) 메커니즘과 충돌합니다.",
+          "5": "⑤번 '수십 년간 사적 불만의 장기적 축적을 반영'은 붕괴의 전제 조건을 서술하지, 붕괴 순간의 동태를 서술하지 않습니다."
+        },
+        "key_point": "빈칸 뒤 'each visible defection lowering the threshold for the next'가 정답의 메커니즘을 직접 설명합니다. '연쇄(cascade)' 또는 '가속화'를 포함하는 선지를 찾으세요."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 선호 위장(preference falsification)으로 사적 반대가 공적으로 보이지 않게 되고 ② 각 개인이 공적 지지를 관찰하며 체제 인기를 과대평가하여 반대 표출의 임계점을 높이며 ③ 그러나 충분한 수가 동시에 공적 입장을 바꾸면 임계 효과(threshold effect)가 발생합니다. 빈칸은 이 임계점을 넘은 후의 동태를 서술합니다. ②번 '급속히 가속되는 공적 전향의 연쇄(cascade)처럼 확산된다'는 각 이탈이 다음 이탈의 임계점을 낮추는 연쇄 메커니즘을 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '시민들이 반대의 비용에 익숙해지면서 점차 소멸'은 폭발적 연쇄라는 글의 논점과 정반대(점진적 소멸)입니다.",
+          "3": "③번 '체제의 강제적 억압 역량에 흡수된다'는 혁명이 실제로 일어나는 시나리오와 모순됩니다.",
+          "4": "④번 '진행되려면 야당 지도자 간 광범위한 조율이 필요'는 자발적 연쇄(coordination 불필요) 메커니즘과 충돌합니다.",
+          "5": "⑤번 '수십 년간 사적 불만의 장기적 축적을 반영'은 붕괴의 전제 조건을 서술하지, 붕괴 순간의 동태를 서술하지 않습니다."
+        },
+        "key_point": "빈칸 뒤 'each visible defection lowering the threshold for the next'가 정답의 메커니즘을 직접 설명합니다. '연쇄(cascade)' 또는 '가속화'를 포함하는 선지를 찾으세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage describes a threshold effect where once enough people publicly reverse their stance, each visible defection lowers the threshold for the next, producing rapid cascading change. Choice 2 ('spreads like a cascade of rapidly accelerating public reversals') captures the threshold dynamic. Choice 1 ('gradually dissipates') contradicts the explosive cascade. Choice 3 ('absorbed by suppression') contradicts the revolution scenario. Choice 4 ('requires coordination') contradicts the spontaneous cascade mechanism. Choice 5 ('long-term accumulation') describes the precondition, not the dynamic at the moment of collapse.",
+        "word_count": 221,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-17",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "topic": "The curse of knowledge in communication and expert teaching",
+      "passage": "Cognitive psychologists use the term \"curse of knowledge\" to describe a specific failure of perspective-taking that afflicts experts communicating with novices. Once a person has acquired a piece of knowledge or a skill, it becomes extremely difficult for them to recall the state of not knowing it, and therefore difficult to accurately model what information the other person lacks. The classic experimental demonstration involves a tapping study: one participant taps out the rhythm of a well-known song on a table while the other attempts to identify the melody. Tappers consistently predict that listeners will recognize the song far more often than they actually do. The tapper, hearing the full melody in their head as they tap, cannot suppress this knowledge to simulate the listener's experience of bare rhythmic noise. The curse of knowledge has serious practical implications. Teachers who have mastered a subject thoroughly often find it genuinely difficult to identify which conceptual steps are non-obvious to beginners. Technical writers fluent in a domain produce documents that are opaque to outsiders not because they are withholding information but because ______________, and the knowledge that would make the gaps visible is precisely the knowledge the reader lacks.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "they lack the vocabulary to describe complex concepts in simplified terms",
+        "specialized knowledge requires extensive memorization that most readers cannot afford",
+        "they cannot perceive the gaps in their own explanations from an uninformed perspective",
+        "they prioritize technical accuracy over communicative clarity in professional contexts",
+        "educational standards in specialized fields discourage the use of accessible language"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① '지식의 저주'는 전문가가 비전문가의 무지 상태를 상상하기 어려운 관점 채택 실패이고 ② 탭핑 실험에서 탭하는 사람은 듣는 사람이 멜로디를 인식할 확률을 과대평가하며 ③ 전문 기술 작성자가 불투명한 문서를 작성하는 것도 같은 메커니즘입니다. 빈칸은 'not because they are withholding information but because ___'로, 불투명성의 진짜 원인을 서술합니다. ③번 '비전문가 관점에서 자기 설명의 빈틈을 인지하지 못하기 때문'은 지식의 저주 메커니즘을 정확히 재진술합니다.",
+        "wrong": {
+          "1": "①번 '복잡한 개념을 단순화된 용어로 기술할 어휘가 부족'은 글의 메커니즘(관점 채택 실패)이 아닌 어휘적 한계를 탓합니다.",
+          "2": "②번 '전문 지식에는 대부분의 독자가 감당할 수 없는 광범위한 암기가 필요'는 독자에게 책임을 전가하며 글의 논점과 다릅니다.",
+          "4": "④번 '전문 맥락에서 기술적 정확성을 소통 명확성보다 우선'은 의도적 선택을 시사하지만, 글은 '정보를 숨기는 것이 아니라(not withholding)' 인지적으로 인지하지 못하는 것이라고 합니다.",
+          "5": "⑤번 '전문 분야의 교육 기준이 접근 가능한 언어 사용을 억제'는 본문에 없는 제도적 요인을 도입합니다."
+        },
+        "key_point": "'not because A but because B' 구조에서 A(의도적 은폐)가 부정되었으므로, B는 비의도적/인지적 원인이어야 합니다. 의도적 선택을 시사하는 선지는 A를 반복하는 것입니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① '지식의 저주'는 전문가가 비전문가의 무지 상태를 상상하기 어려운 관점 채택 실패이고 ② 탭핑 실험에서 탭하는 사람은 듣는 사람이 멜로디를 인식할 확률을 과대평가하며 ③ 전문 기술 작성자가 불투명한 문서를 작성하는 것도 같은 메커니즘입니다. 빈칸은 'not because they are withholding information but because ___'로, 불투명성의 진짜 원인을 서술합니다. ③번 '비전문가 관점에서 자기 설명의 빈틈을 인지하지 못하기 때문'은 지식의 저주 메커니즘을 정확히 재진술합니다.",
+        "wrong": {
+          "1": "①번 '복잡한 개념을 단순화된 용어로 기술할 어휘가 부족'은 글의 메커니즘(관점 채택 실패)이 아닌 어휘적 한계를 탓합니다.",
+          "2": "②번 '전문 지식에는 대부분의 독자가 감당할 수 없는 광범위한 암기가 필요'는 독자에게 책임을 전가하며 글의 논점과 다릅니다.",
+          "4": "④번 '전문 맥락에서 기술적 정확성을 소통 명확성보다 우선'은 의도적 선택을 시사하지만, 글은 '정보를 숨기는 것이 아니라(not withholding)' 인지적으로 인지하지 못하는 것이라고 합니다.",
+          "5": "⑤번 '전문 분야의 교육 기준이 접근 가능한 언어 사용을 억제'는 본문에 없는 제도적 요인을 도입합니다."
+        },
+        "key_point": "'not because A but because B' 구조에서 A(의도적 은폐)가 부정되었으므로, B는 비의도적/인지적 원인이어야 합니다. 의도적 선택을 시사하는 선지는 A를 반복하는 것입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage establishes that the curse of knowledge means experts cannot accurately simulate the novice perspective. The blank must explain why technical writers produce opaque documents 'not because they withhold information but because ___.' Choice 3 ('they cannot perceive the gaps in their own explanations from an uninformed perspective') is correct — it restates the curse of knowledge mechanism directly. Choice 1 invokes vocabulary limitation — not the passage's mechanism. Choice 2 blames the reader. Choice 4 invokes an intentional trade-off — contradicts 'not because they are withholding.' Choice 5 invokes institutional standards — absent from the passage.",
+        "word_count": 215,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-18",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Narrative identity and the construction of the self (Ricoeur / MacIntyre)",
+      "passage": "Philosophers Paul Ricoeur and Alasdair MacIntyre, working from different traditions, converged on the view that personal identity is fundamentally narrative in structure. For Ricoeur, the self is not a fixed substance that persists through time but an ongoing interpretive project: we constitute who we are by integrating our actions, experiences, and the stories others tell about us into a coherent narrative with a recognizable protagonist. Without narrative, the multiplicity of episodes that constitute a life remains a series of disconnected events with no discernible thread. MacIntyre added that intelligibility of action requires narrative context: to understand why a person performs an act, you must know what story they take themselves to be enacting — whether they are being a loyal employee, a devoted parent, or a principled dissenter. Both thinkers argue, therefore, that disruptions to the coherence of a person's life narrative — through trauma, exile, severe illness, or social displacement — are not merely unfortunate events but constitute a form of damage to the self as such, because ______________, and a person who cannot place their current situation within an ongoing story has lost not merely continuity of memory but the framework within which their choices carry meaning.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "physical continuity of the body provides an insufficient basis for personal identity",
+        "identity is constituted through the ongoing act of self-narration rather than residing in a substance",
+        "social recognition by others is more central to selfhood than any internal narrative structure",
+        "memory loss produces irreversible changes to neural structures associated with self-representation",
+        "philosophical accounts of identity cannot be reconciled with empirical findings from neuroscience"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 리쾨르와 매킨타이어는 정체성이 고정된 실체가 아닌 서사적 구조라고 주장하고 ② 서사 없이는 삶의 에피소드들이 맥락 없는 단절된 사건에 불과하며 ③ 따라서 서사 일관성의 파괴(트라우마, 망명 등)는 자아 자체에 대한 손상입니다. 빈칸은 'because ___'로, 서사 파괴가 자아 손상인 이유(전제)를 서술합니다. ②번 '정체성이 실체에 거주하는 것이 아니라 지속적인 자기 서사 행위를 통해 구성된다'는 이 철학적 전제를 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '신체의 물리적 연속성이 정체성의 불충분한 기반을 제공'은 관련되지만 글의 적극적 주장(서사적 구성)이 아닌 소극적 부정(신체 불충분)입니다.",
+          "3": "③번 '타인의 사회적 인정이 내적 서사보다 자아에 더 중심적'은 서사적 정체성과 다른 이론(사회적 인정)을 도입합니다.",
+          "4": "④번 '기억 상실이 자기 표상 관련 신경 구조에 비가역적 변화를 일으킨다'는 본문에 없는 신경과학을 도입합니다.",
+          "5": "⑤번 '정체성에 대한 철학적 설명이 신경과학의 경험적 발견과 조화될 수 없다'는 본문에 없는 학제간 갈등을 도입합니다."
+        },
+        "key_point": "빈칸이 'because' 뒤에 위치할 때, 정답은 빈칸 앞 주장의 이유/전제여야 합니다. 빈칸 뒤 문장('a person who cannot place their current situation within an ongoing story has lost... the framework')이 이 전제를 확인합니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 리쾨르와 매킨타이어는 정체성이 고정된 실체가 아닌 서사적 구조라고 주장하고 ② 서사 없이는 삶의 에피소드들이 맥락 없는 단절된 사건에 불과하며 ③ 따라서 서사 일관성의 파괴(트라우마, 망명 등)는 자아 자체에 대한 손상입니다. 빈칸은 'because ___'로, 서사 파괴가 자아 손상인 이유(전제)를 서술합니다. ②번 '정체성이 실체에 거주하는 것이 아니라 지속적인 자기 서사 행위를 통해 구성된다'는 이 철학적 전제를 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '신체의 물리적 연속성이 정체성의 불충분한 기반을 제공'은 관련되지만 글의 적극적 주장(서사적 구성)이 아닌 소극적 부정(신체 불충분)입니다.",
+          "3": "③번 '타인의 사회적 인정이 내적 서사보다 자아에 더 중심적'은 서사적 정체성과 다른 이론(사회적 인정)을 도입합니다.",
+          "4": "④번 '기억 상실이 자기 표상 관련 신경 구조에 비가역적 변화를 일으킨다'는 본문에 없는 신경과학을 도입합니다.",
+          "5": "⑤번 '정체성에 대한 철학적 설명이 신경과학의 경험적 발견과 조화될 수 없다'는 본문에 없는 학제간 갈등을 도입합니다."
+        },
+        "key_point": "빈칸이 'because' 뒤에 위치할 때, 정답은 빈칸 앞 주장의 이유/전제여야 합니다. 빈칸 뒤 문장('a person who cannot place their current situation within an ongoing story has lost... the framework')이 이 전제를 확인합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that the self is constituted by narrative, so disruptions to narrative coherence damage the self. The blank follows 'because ___' and must state the premise that explains why narrative disruption is self-damage. Choice 2 ('identity is constituted through the ongoing act of self-narration rather than residing in a substance') directly states the philosophical premise. The confirming sentence follows. Choice 1 invokes bodily continuity — related but not the passage's positive claim. Choice 3 invokes social recognition — a different theory. Choice 4 invokes neuroscience — absent. Choice 5 invokes disciplinary conflict — absent.",
+        "word_count": 218,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-19",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "topic": "Veblen goods and the social embedding of consumer demand",
+      "passage": "Classical economic theory holds that demand for a good falls as its price rises, reflecting the straightforward logic that consumers prefer to pay less for any given quantity of value. Thorstein Veblen observed, however, that this relationship inverts for a specific class of luxury goods whose primary function is to signal social status. For such goods — later called Veblen goods — the high price is not an unfortunate cost to be minimized but the essential mechanism by which the good performs its signaling function. A diamond ring is desired precisely because it is expensive; if its price were to fall to that of costume jewelry, it would lose the capacity to communicate the wealth of its giver and, correspondingly, lose most of its desirability. The signal depends on the cost being genuine and visible. This creates a paradox for standard demand analysis: increasing the price of a Veblen good may increase rather than decrease the quantity demanded, because the higher price simultaneously enhances the social signal the good conveys. The theoretical significance of Veblen goods extends beyond luxury markets, however, because they illustrate the more general principle that ______________, since when consumption is embedded in social meaning, the logic of individual utility maximization cannot be separated from the logic of positional competition.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "rising incomes consistently shift consumer preferences toward higher-quality substitutes",
+        "the demand for luxury goods is determined primarily by their functional superiority over alternatives",
+        "price signals in markets for positional goods convey information about supply rather than status",
+        "consumer behavior cannot always be modeled independently of the social meanings that structure it",
+        "firms producing status goods benefit from restricting supply in order to maintain price premiums"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 고전 경제학은 가격 상승 시 수요 감소를 예측하지만 ② 베블런재는 높은 가격이 사회적 신호 기능의 핵심이므로 가격 상승이 수요를 증가시킬 수 있고 ③ 이는 사치품 시장을 넘어 더 일반적인 원리를 보여줍니다. 빈칸은 'the more general principle that ___'로, 베블런재가 예시하는 일반 원리를 서술합니다. ④번 '소비자 행동이 그것을 구조화하는 사회적 의미와 독립적으로 항상 모형화될 수는 없다'는 이 일반적 통찰을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '소득 상승이 일관되게 더 높은 품질의 대체재로 선호를 이동시킨다'는 소득 효과를 다루며 글의 핵심(사회적 신호)과 무관합니다.",
+          "2": "②번 '사치품 수요가 주로 기능적 우월성에 의해 결정'은 베블런재의 논리(기능이 아닌 신호)의 정반대입니다.",
+          "3": "③번 '지위재 시장의 가격 신호가 지위가 아닌 공급에 관한 정보를 전달'은 가격 신호의 본질(지위 전달)을 오해합니다.",
+          "5": "⑤번 '지위재 생산 기업이 가격 프리미엄 유지를 위해 공급 제한으로 이득'은 전략적 사업 함의로, 글이 도출하는 이론적 원리가 아닙니다."
+        },
+        "key_point": "빈칸 뒤 since절('when consumption is embedded in social meaning, utility maximization cannot be separated from positional competition')이 정답의 패러프레이즈입니다. since절을 먼저 읽고 이를 요약하는 선지를 찾으세요."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 고전 경제학은 가격 상승 시 수요 감소를 예측하지만 ② 베블런재는 높은 가격이 사회적 신호 기능의 핵심이므로 가격 상승이 수요를 증가시킬 수 있고 ③ 이는 사치품 시장을 넘어 더 일반적인 원리를 보여줍니다. 빈칸은 'the more general principle that ___'로, 베블런재가 예시하는 일반 원리를 서술합니다. ④번 '소비자 행동이 그것을 구조화하는 사회적 의미와 독립적으로 항상 모형화될 수는 없다'는 이 일반적 통찰을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '소득 상승이 일관되게 더 높은 품질의 대체재로 선호를 이동시킨다'는 소득 효과를 다루며 글의 핵심(사회적 신호)과 무관합니다.",
+          "2": "②번 '사치품 수요가 주로 기능적 우월성에 의해 결정'은 베블런재의 논리(기능이 아닌 신호)의 정반대입니다.",
+          "3": "③번 '지위재 시장의 가격 신호가 지위가 아닌 공급에 관한 정보를 전달'은 가격 신호의 본질(지위 전달)을 오해합니다.",
+          "5": "⑤번 '지위재 생산 기업이 가격 프리미엄 유지를 위해 공급 제한으로 이득'은 전략적 사업 함의로, 글이 도출하는 이론적 원리가 아닙니다."
+        },
+        "key_point": "빈칸 뒤 since절('when consumption is embedded in social meaning, utility maximization cannot be separated from positional competition')이 정답의 패러프레이즈입니다. since절을 먼저 읽고 이를 요약하는 선지를 찾으세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage uses Veblen goods to illustrate a general principle. The final sentence — 'when consumption is embedded in social meaning, individual utility maximization cannot be separated from positional competition' — is the expanded statement of the blank. Choice 4 ('consumer behavior cannot always be modeled independently of the social meanings that structure it') is correct. Choice 1 invokes income effects — not the passage's point. Choice 2 says demand based on functional superiority — the opposite of Veblen goods' logic. Choice 3 invokes supply information — a mischaracterization of the price signal. Choice 5 is a strategic business implication, not the theoretical principle the passage draws.",
+        "word_count": 220,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-20",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "topic": "Structural coupling and autopoiesis in systems theory (Maturana and Varela)",
+      "passage": "Biologists Humberto Maturana and Francisco Varela proposed that living systems are fundamentally characterized by autopoiesis — the capacity to continuously produce and maintain the components that constitute themselves. An autopoietic system, such as a cell, is operationally closed: its internal organization is maintained by its own processes, not by external instructions. This does not mean, however, that living systems are isolated from their environments. Rather, the environment can trigger changes in the system's state, but it cannot specify or determine those changes — the system's internal organization determines how any perturbation is processed and whether it results in structural change. Maturana and Varela called this relationship structural coupling: the history of interactions between a system and its environment produces a fit between the two, such that each becomes a source of perturbations for the other while each retains its own organizational autonomy. The concept has radical implications for theories of learning and cognition. If an organism can only respond to perturbations in ways determined by its own structure, then the environment does not supply information that the organism passively receives and stores. Instead, ______________, since every act of knowing is simultaneously an expression of the organism's organizational history and a further modification of it.\n* autopoiesis: 자기생성 ** perturbation: 교란",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "the capacity for learning is directly proportional to the complexity of environmental stimuli",
+        "organisms develop increasingly accurate internal representations of their external environments",
+        "information is stored most efficiently when encoded in the stable structures of long-term memory",
+        "the boundary between an organism and its environment dissolves as structural coupling deepens",
+        "learning is a process by which organisms restructure themselves in response to environmental perturbations"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 자기생성(autopoiesis) 체계는 작동적으로 폐쇄되어 있으며 내부 조직이 교란의 처리 방식을 결정하고 ② 환경은 변화를 촉발할 수 있지만 지정할 수는 없으며 ③ 따라서 환경이 정보를 제공하고 유기체가 수동적으로 수용하는 것이 아닙니다. 빈칸은 'Instead, ___'로, 수동적 정보 수용의 대안을 제시합니다. ⑤번 '학습은 유기체가 환경적 교란에 대응하여 스스로를 재구조화하는 과정'은 구성주의적 대안을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '학습 능력이 환경 자극의 복잡성에 정비례'는 수동적 환경 결정론을 재도입하며, 자기생성 이론과 모순됩니다.",
+          "2": "②번 '유기체가 점점 더 정확한 외부 환경의 내적 표상을 발전시킨다'는 자기생성 프레임워크가 거부하는 고전적 표상주의 관점입니다.",
+          "3": "③번 '정보가 장기 기억의 안정적 구조에 부호화될 때 가장 효율적으로 저장'은 구조적 결합 프레임워크가 아닌 정보처리 모형의 용어입니다.",
+          "4": "④번 '구조적 결합이 심화되면 유기체와 환경의 경계가 해소'는 과장입니다. 구조적 결합은 조직적 자율성을 유지하면서 상호작용합니다."
+        },
+        "key_point": "킬러 빈칸에서 'Instead'는 직전에 부정된 관점의 정확한 대안을 요구합니다. 부정된 것(수동적 정보 수용)의 반대는 '능동적 자기 재구조화'입니다. 부정된 관점을 되풀이하는 선지는 즉시 배제하세요."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 자기생성(autopoiesis) 체계는 작동적으로 폐쇄되어 있으며 내부 조직이 교란의 처리 방식을 결정하고 ② 환경은 변화를 촉발할 수 있지만 지정할 수는 없으며 ③ 따라서 환경이 정보를 제공하고 유기체가 수동적으로 수용하는 것이 아닙니다. 빈칸은 'Instead, ___'로, 수동적 정보 수용의 대안을 제시합니다. ⑤번 '학습은 유기체가 환경적 교란에 대응하여 스스로를 재구조화하는 과정'은 구성주의적 대안을 정확히 표현합니다.",
+        "wrong": {
+          "1": "①번 '학습 능력이 환경 자극의 복잡성에 정비례'는 수동적 환경 결정론을 재도입하며, 자기생성 이론과 모순됩니다.",
+          "2": "②번 '유기체가 점점 더 정확한 외부 환경의 내적 표상을 발전시킨다'는 자기생성 프레임워크가 거부하는 고전적 표상주의 관점입니다.",
+          "3": "③번 '정보가 장기 기억의 안정적 구조에 부호화될 때 가장 효율적으로 저장'은 구조적 결합 프레임워크가 아닌 정보처리 모형의 용어입니다.",
+          "4": "④번 '구조적 결합이 심화되면 유기체와 환경의 경계가 해소'는 과장입니다. 구조적 결합은 조직적 자율성을 유지하면서 상호작용합니다."
+        },
+        "key_point": "킬러 빈칸에서 'Instead'는 직전에 부정된 관점의 정확한 대안을 요구합니다. 부정된 것(수동적 정보 수용)의 반대는 '능동적 자기 재구조화'입니다. 부정된 관점을 되풀이하는 선지는 즉시 배제하세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage establishes that the organism's structure determines how perturbations are processed. The blank follows 'Instead, ___' and must provide the constructivist alternative to passive information reception. Choice 5 ('learning is a process by which organisms restructure themselves in response to environmental perturbations') is correct. Choice 1 reintroduces passive environmental determination. Choice 2 is the classical representationist view the autopoietic framework rejects. Choice 3 invokes memory storage — not the structural coupling framework. Choice 4 says 'boundary dissolves' — overstates; structural coupling maintains organizational autonomy.",
+        "word_count": 224,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-21",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Uniformitarianism and the methodological legacy of geological interpretation",
+      "passage": "In the early nineteenth century, geology was dominated by catastrophism — the view that the features of the Earth's surface were produced by a series of violent, sudden, global events. The primary opposition came from James Hutton and later Charles Lyell, who argued for uniformitarianism: the principle that the same geological processes operating at the same rates observable today — erosion, sedimentation, volcanic activity — are sufficient to explain all geological formations, given sufficient time. Lyell's insistence on the efficacy of slow, incremental processes over vast stretches of time had consequences far beyond geology. It provided Darwin with the temporal framework he needed for natural selection to accumulate sufficient change to produce species divergence. It also shifted the burden of proof in geological argumentation: rather than appealing to catastrophic or miraculous interventions, geologists were now expected to exhaust uniformitarian explanations first. The methodological legacy of this debate persists today in the principle of parsimony applied to causal explanation: ______________, provided that ordinary mechanisms operating over sufficient time are adequate to produce the observed effects.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "extraordinary causes should not be invoked where ordinary ones suffice",
+        "extraordinary events must be documented by multiple independent sources before they are accepted",
+        "geological time scales must be revised whenever new evidence of rapid change emerges",
+        "scientific explanations should be preferred that minimize the role of temporal duration",
+        "the simplest available explanation must always be the correct one regardless of evidence"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 격변설은 갑작스러운 전 지구적 사건으로 지형을 설명했으나 ② 동일과정설(허턴, 라이엘)은 현재 관찰 가능한 것과 동일한 과정이 충분한 시간에 걸쳐 작용하면 모든 지질 형성을 설명할 수 있다고 주장했으며 ③ 이는 입증 책임을 '비범한 원인 배제'로 전환했습니다. 빈칸은 '인과 설명에 적용되는 절약의 원리'를 서술합니다. ①번 '일상적 원인으로 충분한 곳에 비범한 원인을 동원해서는 안 된다'는 이 방법론적 유산을 정확히 포착합니다.",
+        "wrong": {
+          "2": "②번 '비범한 사건은 다수의 독립적 출처에 의해 문서화되어야 수용'은 문서화 기준이라는 다른 방법론적 논점입니다.",
+          "3": "③번 '급격한 변화의 새 증거가 나타날 때마다 지질학적 시간 척도를 수정해야'는 동일과정설(느린 과정 + 긴 시간)과 모순됩니다.",
+          "4": "④번 '시간적 지속의 역할을 최소화하는 설명이 선호되어야'는 동일과정설의 핵심(광대한 시간이 필요)의 정반대입니다.",
+          "5": "⑤번 '가장 단순한 설명이 증거에 관계없이 항상 옳아야'는 절약 원리를 '증거 무시'로 과장한 왜곡입니다."
+        },
+        "key_point": "'provided that ordinary mechanisms operating over sufficient time are adequate'가 빈칸의 조건절입니다. 이 조건이 충족될 때 비범한 원인을 배제한다는 것이 절약 원리의 핵심입니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 격변설은 갑작스러운 전 지구적 사건으로 지형을 설명했으나 ② 동일과정설(허턴, 라이엘)은 현재 관찰 가능한 것과 동일한 과정이 충분한 시간에 걸쳐 작용하면 모든 지질 형성을 설명할 수 있다고 주장했으며 ③ 이는 입증 책임을 '비범한 원인 배제'로 전환했습니다. 빈칸은 '인과 설명에 적용되는 절약의 원리'를 서술합니다. ①번 '일상적 원인으로 충분한 곳에 비범한 원인을 동원해서는 안 된다'는 이 방법론적 유산을 정확히 포착합니다.",
+        "wrong": {
+          "2": "②번 '비범한 사건은 다수의 독립적 출처에 의해 문서화되어야 수용'은 문서화 기준이라는 다른 방법론적 논점입니다.",
+          "3": "③번 '급격한 변화의 새 증거가 나타날 때마다 지질학적 시간 척도를 수정해야'는 동일과정설(느린 과정 + 긴 시간)과 모순됩니다.",
+          "4": "④번 '시간적 지속의 역할을 최소화하는 설명이 선호되어야'는 동일과정설의 핵심(광대한 시간이 필요)의 정반대입니다.",
+          "5": "⑤번 '가장 단순한 설명이 증거에 관계없이 항상 옳아야'는 절약 원리를 '증거 무시'로 과장한 왜곡입니다."
+        },
+        "key_point": "'provided that ordinary mechanisms operating over sufficient time are adequate'가 빈칸의 조건절입니다. 이 조건이 충족될 때 비범한 원인을 배제한다는 것이 절약 원리의 핵심입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage traces how uniformitarianism shifted the burden of proof toward ordinary explanations. The methodological legacy is parsimony: prefer ordinary mechanisms over extraordinary ones when sufficient. Choice 1 ('extraordinary causes should not be invoked where ordinary ones suffice') captures this — the uniformitarian principle as a methodological norm. Choice 2 invokes documentary standards — not the passage's point. Choice 3 says revise time scales for rapid change — contradicts uniformitarianism. Choice 4 says minimize temporal duration — the opposite (uniformitarianism requires vast time). Choice 5 ('simplest must always be correct regardless of evidence') is an overstatement of parsimony.",
+        "word_count": 214,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-22",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "topic": "Parasocial relationships and their psychological functions",
+      "passage": "Media researchers Donald Horton and Richard Wohl coined the term \"parasocial interaction\" in 1956 to describe the one-sided sense of intimacy that audience members develop with media performers. Viewers of a television personality may feel they know the host personally — following their routines, anticipating their reactions, and experiencing distress when the program is cancelled — even though the performer has no awareness of any individual viewer's existence. Subsequent research has shown that these bonds are not merely superficial habits of consumption but can fulfill genuine psychological functions. People who score high on loneliness or social anxiety report more intense parasocial attachments, and parasocial relationships with admired figures can provide models for self-development, a sense of companionship, and sources of social comparison that influence self-esteem. The psychological reality of these effects challenges a common intuition that one-sided relationships are somehow less authentic than mutual ones. What makes a social bond genuinely supportive, this research suggests, may be less a matter of its formal reciprocity and more a matter of ______________, since the subjective experience of closeness and the behavioral influence it exerts do not depend on the relationship being acknowledged by both parties.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "the psychological functions it serves for the person who experiences it",
+        "the frequency with which the media figure communicates directly with individual fans",
+        "whether the bond is recognized and validated by the broader social community",
+        "the degree to which both parties share common beliefs and preferences",
+        "the length of time over which the sense of intimacy has been cultivated"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 준사회적 상호작용은 시청자가 미디어 인물과 일방적 친밀감을 느끼는 현상이고 ② 이러한 유대가 동반자 의식, 자기발전 모델, 자존감에 실제 심리적 기능을 수행하며 ③ 따라서 일방적 관계가 상호적 관계보다 덜 진정하다는 직관에 도전합니다. 빈칸은 'less a matter of formal reciprocity and more a matter of ___'로, 유대의 진정한 지지력을 결정하는 것이 무엇인지 서술합니다. ①번 '그것을 경험하는 사람에게 수행하는 심리적 기능'은 이 기능적 정의를 정확히 표현합니다.",
+        "wrong": {
+          "2": "②번 '미디어 인물이 개별 팬과 직접 소통하는 빈도'는 준사회적 관계의 핵심(일방적 + 인물이 개인을 모름)을 뒤집습니다.",
+          "3": "③번 '유대가 더 넓은 사회 공동체에 의해 인정되고 검증되는지'는 본문에서 논의되지 않는 사회적 인정을 도입합니다.",
+          "4": "④번 '양쪽이 공통된 신념과 선호를 공유하는 정도'는 양측의 상호 지식을 필요로 하며 일방적 관계와 모순됩니다.",
+          "5": "⑤번 '친밀감이 배양된 기간의 길이'는 글에서 핵심 변수로 주장되지 않습니다."
+        },
+        "key_point": "'less A and more B' 구조에서 A(형식적 상호성)가 부정된 후, B는 A를 대체하는 새로운 기준이어야 합니다. 상호성을 전제하는 선지(②④)는 A 측이므로 자동 배제됩니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 준사회적 상호작용은 시청자가 미디어 인물과 일방적 친밀감을 느끼는 현상이고 ② 이러한 유대가 동반자 의식, 자기발전 모델, 자존감에 실제 심리적 기능을 수행하며 ③ 따라서 일방적 관계가 상호적 관계보다 덜 진정하다는 직관에 도전합니다. 빈칸은 'less a matter of formal reciprocity and more a matter of ___'로, 유대의 진정한 지지력을 결정하는 것이 무엇인지 서술합니다. ①번 '그것을 경험하는 사람에게 수행하는 심리적 기능'은 이 기능적 정의를 정확히 표현합니다.",
+        "wrong": {
+          "2": "②번 '미디어 인물이 개별 팬과 직접 소통하는 빈도'는 준사회적 관계의 핵심(일방적 + 인물이 개인을 모름)을 뒤집습니다.",
+          "3": "③번 '유대가 더 넓은 사회 공동체에 의해 인정되고 검증되는지'는 본문에서 논의되지 않는 사회적 인정을 도입합니다.",
+          "4": "④번 '양쪽이 공통된 신념과 선호를 공유하는 정도'는 양측의 상호 지식을 필요로 하며 일방적 관계와 모순됩니다.",
+          "5": "⑤번 '친밀감이 배양된 기간의 길이'는 글에서 핵심 변수로 주장되지 않습니다."
+        },
+        "key_point": "'less A and more B' 구조에서 A(형식적 상호성)가 부정된 후, B는 A를 대체하는 새로운 기준이어야 합니다. 상호성을 전제하는 선지(②④)는 A 측이므로 자동 배제됩니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that parasocial bonds are functionally real even without reciprocity. The blank follows 'more a matter of ___' completing the functional definition of what makes a bond genuinely supportive. Choice 1 ('the psychological functions it serves for the person who experiences it') is correct — the passage lists companionship, self-development models, and self-esteem effects as evidence. Choice 2 (frequency of direct communication) inverts the parasocial logic. Choice 3 (social validation) introduces community recognition — not discussed. Choice 4 (shared beliefs) requires bilateral knowledge. Choice 5 (duration) is not argued as the key variable.",
+        "word_count": 213,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-23",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "topic": "The measurement problem and the classical assumption it undermines (quantum mechanics)",
+      "passage": "Among the conceptually disorienting features of quantum mechanics is the measurement problem: the mathematical formalism of the theory describes particles not as having definite properties prior to measurement but as existing in superpositions — weighted combinations of multiple possible states simultaneously. Measurement, in this framework, is not a passive revelation of a pre-existing fact but an interaction that produces the definiteness it records. The wave function describing a particle's state evolves deterministically according to the Schrödinger equation between measurements, but upon measurement, this superposition is said to \"collapse\" into a single definite outcome. What causes collapse, and whether collapse is a genuine physical process or a feature of our description, remains one of the most contested questions in the foundations of physics. Various interpretations — Copenhagen, many-worlds, pilot wave, relational — differ fundamentally on this point. What is significant for the philosophy of science, however, is that quantum mechanics has made untenable the classical assumption that ______________, independent of any observing apparatus or conceptual framework brought to bear on it, since the physical world at the level quantum mechanics describes does not come with pre-attached measurement outcomes.\n* superposition: 중첩 ** wave function: 파동 함수 *** Schrödinger equation: 슈뢰딩거 방정식",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "mathematical formalism can provide a complete description of all physical phenomena",
+        "the speed of physical processes is independent of the reference frame of the observer",
+        "measurement reveals properties that objects possess prior to and independent of observation",
+        "the behavior of subatomic particles follows the same causal laws as macroscopic objects",
+        "scientific theories must ultimately be reconciled with ordinary perceptual experience"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 양자역학에서 입자는 측정 전에 확정된 속성을 갖지 않고 중첩 상태로 존재하며 ② 측정은 기존 사실의 수동적 드러냄이 아니라 확정성을 생산하는 상호작용이고 ③ 파동 함수의 붕괴가 물리적 과정인지 기술적 특성인지는 여전히 논쟁 중입니다. 빈칸은 'made untenable the classical assumption that ___'로, 양자역학이 무너뜨린 고전적 가정을 서술합니다. ③번 '측정이 대상이 관찰 이전에 독립적으로 보유한 속성을 드러낸다'는 바로 이 고전적 가정입니다.",
+        "wrong": {
+          "1": "①번 '수학적 형식론이 모든 물리 현상의 완전한 기술을 제공할 수 있다'는 다른 논쟁(수학적 완전성)을 도입합니다.",
+          "2": "②번 '물리적 과정의 속도가 관찰자의 기준 틀에 독립적'은 특수상대성이론의 논점으로, 양자역학의 측정 문제와 다릅니다.",
+          "4": "④번 '아원자 입자가 거시적 물체와 동일한 인과 법칙을 따른다'는 관련되지만, 글의 구체적 주장(측정에 관한 것)과 일치하지 않습니다.",
+          "5": "⑤번 '과학 이론이 궁극적으로 일상적 지각 경험과 조화되어야'는 글의 논점과 무관한 인식론적 주장입니다."
+        },
+        "key_point": "'made untenable the classical assumption that ___'에서 빈칸은 양자역학이 부정한 고전적 가정 자체여야 합니다. 핵심 키워드는 'prior to and independent of observation'으로, 글의 'not a passive revelation of a pre-existing fact'와 정확히 대응합니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 양자역학에서 입자는 측정 전에 확정된 속성을 갖지 않고 중첩 상태로 존재하며 ② 측정은 기존 사실의 수동적 드러냄이 아니라 확정성을 생산하는 상호작용이고 ③ 파동 함수의 붕괴가 물리적 과정인지 기술적 특성인지는 여전히 논쟁 중입니다. 빈칸은 'made untenable the classical assumption that ___'로, 양자역학이 무너뜨린 고전적 가정을 서술합니다. ③번 '측정이 대상이 관찰 이전에 독립적으로 보유한 속성을 드러낸다'는 바로 이 고전적 가정입니다.",
+        "wrong": {
+          "1": "①번 '수학적 형식론이 모든 물리 현상의 완전한 기술을 제공할 수 있다'는 다른 논쟁(수학적 완전성)을 도입합니다.",
+          "2": "②번 '물리적 과정의 속도가 관찰자의 기준 틀에 독립적'은 특수상대성이론의 논점으로, 양자역학의 측정 문제와 다릅니다.",
+          "4": "④번 '아원자 입자가 거시적 물체와 동일한 인과 법칙을 따른다'는 관련되지만, 글의 구체적 주장(측정에 관한 것)과 일치하지 않습니다.",
+          "5": "⑤번 '과학 이론이 궁극적으로 일상적 지각 경험과 조화되어야'는 글의 논점과 무관한 인식론적 주장입니다."
+        },
+        "key_point": "'made untenable the classical assumption that ___'에서 빈칸은 양자역학이 부정한 고전적 가정 자체여야 합니다. 핵심 키워드는 'prior to and independent of observation'으로, 글의 'not a passive revelation of a pre-existing fact'와 정확히 대응합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that quantum mechanics shows measurement is not passive revelation of pre-existing facts but an interaction that produces definiteness. The blank follows 'made untenable the classical assumption that ___.' Choice 3 ('measurement reveals properties that objects possess prior to and independent of observation') is the classical assumption that quantum mechanics undermines. Choice 1 invokes mathematical completeness — a different debate. Choice 2 invokes reference frames — that is special relativity, not quantum mechanics. Choice 4 says subatomic particles follow macroscopic laws — related but the passage's specific claim is about measurement, not laws generally. Choice 5 invokes perceptual experience — not the passage's argument.",
+        "word_count": 222,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-24",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Weak linguistic relativity and cognitive habits of attention (Sapir-Whorf)",
+      "passage": "The Sapir-Whorf hypothesis, in its strong form, claims that the language one speaks determines the structure of one's thought — that speakers of different languages perceive and conceive the world in fundamentally different ways as a consequence of the grammatical and lexical resources their languages provide. Although the strong version has largely been rejected as empirically unsupported, a weaker form of the hypothesis has gained considerable experimental support. Studies by Lera Boroditsky and colleagues have demonstrated that language influences certain cognitive tasks in measurable ways. Russian speakers, whose language obligatorily distinguishes light blue from dark blue with separate root words, are faster to distinguish shades that fall across this linguistic boundary than shades within a single category. English speakers use spatial metaphors for time primarily along a horizontal axis; Mandarin speakers more readily use vertical spatial metaphors. These effects are not absolute: non-linguistic representations can sometimes override them when attention is redirected. But they are real and replicable. This body of evidence suggests that ______________, since language does not build the walls of the mind but arranges the furniture — shaping which distinctions are habitually attended to and which require effortful redirection of attention.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "the grammatical structure of a language determines the logical categories available to its speakers",
+        "cross-linguistic differences in cognition diminish as speakers become proficient in a second language",
+        "language has no measurable effect on non-linguistic cognitive tasks under controlled conditions",
+        "the categories provided by language influence, without fully determining, how speakers habitually think",
+        "speakers of languages with richer color vocabularies perceive color more accurately than others"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 사피어-워프 가설의 강한 버전(언어가 사고를 결정)은 경험적으로 기각되었으나 ② 약한 버전(언어가 인지에 영향)은 실험적 지지를 받았으며(러시아어 화자의 파란색 구분, 중국어의 수직적 시간 은유) ③ 이 효과는 절대적이지 않고 비언어적 표상이 때때로 우선합니다. 빈칸은 'This body of evidence suggests that ___'로, 약한 언어 상대성의 결론을 서술합니다. ④번 '언어가 제공하는 범주가 화자의 습관적 사고를 완전히 결정하지는 않으면서 영향을 미친다'는 영향과 비결정성을 모두 포착합니다.",
+        "wrong": {
+          "1": "①번 '언어의 문법 구조가 화자에게 가용한 논리적 범주를 결정'은 글에서 기각된 강한 사피어-워프 가설입니다.",
+          "2": "②번 '이중 언어 사용자가 되면 교차 언어적 인지 차이가 감소'는 본문에서 논의하지 않는 제2언어 습득을 다룹니다.",
+          "3": "③번 '언어가 통제된 조건에서 비언어적 인지 과제에 측정 가능한 영향을 미치지 않는다'는 글이 제시한 실험적 증거와 직접 모순됩니다.",
+          "5": "⑤번 '더 풍부한 색채 어휘를 가진 언어 화자가 더 정확하게 색을 지각'은 색 증거를 과대 일반화하며(속도 vs 정확도) 부정확합니다."
+        },
+        "key_point": "글의 가구 비유('language does not build the walls of the mind but arranges the furniture')가 정답의 핵심입니다. 벽(결정) vs 가구(영향)의 구분이 강한 버전과 약한 버전의 차이입니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 사피어-워프 가설의 강한 버전(언어가 사고를 결정)은 경험적으로 기각되었으나 ② 약한 버전(언어가 인지에 영향)은 실험적 지지를 받았으며(러시아어 화자의 파란색 구분, 중국어의 수직적 시간 은유) ③ 이 효과는 절대적이지 않고 비언어적 표상이 때때로 우선합니다. 빈칸은 'This body of evidence suggests that ___'로, 약한 언어 상대성의 결론을 서술합니다. ④번 '언어가 제공하는 범주가 화자의 습관적 사고를 완전히 결정하지는 않으면서 영향을 미친다'는 영향과 비결정성을 모두 포착합니다.",
+        "wrong": {
+          "1": "①번 '언어의 문법 구조가 화자에게 가용한 논리적 범주를 결정'은 글에서 기각된 강한 사피어-워프 가설입니다.",
+          "2": "②번 '이중 언어 사용자가 되면 교차 언어적 인지 차이가 감소'는 본문에서 논의하지 않는 제2언어 습득을 다룹니다.",
+          "3": "③번 '언어가 통제된 조건에서 비언어적 인지 과제에 측정 가능한 영향을 미치지 않는다'는 글이 제시한 실험적 증거와 직접 모순됩니다.",
+          "5": "⑤번 '더 풍부한 색채 어휘를 가진 언어 화자가 더 정확하게 색을 지각'은 색 증거를 과대 일반화하며(속도 vs 정확도) 부정확합니다."
+        },
+        "key_point": "글의 가구 비유('language does not build the walls of the mind but arranges the furniture')가 정답의 핵심입니다. 벽(결정) vs 가구(영향)의 구분이 강한 버전과 약한 버전의 차이입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage describes evidence for weak linguistic relativity: language influences but does not determine cognition. Choice 4 ('the categories provided by language influence, without fully determining, how speakers habitually think') captures both the influence and its non-deterministic nature. The furniture metaphor confirms: language 'shapes which distinctions are habitually attended to' but does not build walls. Choice 1 states strong Whorf — rejected in the passage. Choice 2 invokes second-language acquisition — not discussed. Choice 3 says no measurable effect — contradicts the experimental evidence. Choice 5 overstates the color evidence (accuracy vs. speed) and incorrectly generalizes.",
+        "word_count": 215,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "id": "v2-33-25",
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "hard",
+      "topic": "Batesian mimicry, frequency dependence, and signal degradation",
+      "passage": "In evolutionary biology, mimicry illustrates how selection pressures can produce elaborate deceptive signals without any intentionality on the part of the organism. In Batesian mimicry, a harmless species evolves to resemble a toxic or dangerous model species, gaining protection from predators that have learned to avoid the model. The system works because the predator's learned aversion is a costly generalization: it forfeits the opportunity to consume the harmless mimic in order to avoid the risk of the harmful model. The effectiveness of Batesian mimicry, however, is frequency-dependent. When the harmless mimic is rare relative to the harmful model, predators rarely encounter the mimic and their aversion remains well-calibrated. As the mimic becomes more common, predators increasingly consume mimics without ill effect, and the association between the signal and danger weakens. This dynamic means that the evolutionary advantage of mimicry erodes as it succeeds, because ______________, and the signal's reliability depends on the rarity of the deception, creating a built-in constraint on how widely the mimetic strategy can spread through a population before it begins to undermine itself.\n* Batesian mimicry: 베이츠 의태 ** frequency-dependent: 빈도 의존적인",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "predators evolve increasingly sophisticated sensory systems to distinguish mimics from models",
+        "the harmless mimic gradually acquires genuine toxicity through prolonged co-evolution with the model",
+        "selection favors models that develop new warning signals to distance themselves from their mimics",
+        "prey species exposed to multiple predators evolve separate mimicry strategies for each threat",
+        "the more mimics there are, the less reliably the shared signal indicates the presence of real danger"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanation": {
+        "correct": "글의 논증 구조: ① 베이츠 의태에서 무해한 종이 유독한 모델 종을 닮아 포식자의 학습된 회피로부터 보호받고 ② 의태자가 드물 때는 포식자의 회피가 잘 보정되지만 ③ 의태자가 흔해지면 포식자가 의태자를 잡아먹어도 해가 없어 신호-위험 연관이 약해집니다. 빈칸은 'because ___'로, 의태의 진화적 이점이 성공할수록 약화되는 이유를 설명합니다. ⑤번 '의태자가 많을수록 공유 신호가 실제 위험의 존재를 덜 신뢰성 있게 나타낸다'는 이 신호 열화 메커니즘을 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '포식자가 의태자와 모델을 구별하기 위한 점점 더 정교한 감각 체계를 진화'는 관련된 군비경쟁 개념이지만 이 지문의 메커니즘(빈도 의존적 신호 열화)이 아닙니다.",
+          "2": "②번 '무해한 의태자가 모델과의 장기적 공진화를 통해 진짜 독성을 획득'은 본문에 없으며, 이 경우 전략이 약화되기보다 해결됩니다.",
+          "3": "③번 '선택이 모델이 의태자와 거리를 두기 위한 새 경고 신호를 발달시키도록 유도'는 실제 현상이지만 이 지문이 설명하는 메커니즘이 아닙니다.",
+          "4": "④번 '복수의 포식자에 노출된 먹이 종이 각 위협에 대해 별도의 의태 전략을 진화'는 본문과 무관한 별도의 진화 시나리오입니다."
+        },
+        "key_point": "빈도 의존적 선택의 핵심: 의태 전략은 드물 때만 효과적이며, 성공(확산)이 곧 자기 파괴(신호 열화)입니다. 이 '성공의 역설' 구조를 파악하면 정답이 명확해집니다."
+      },
+      "explanations": {
+        "correct": "글의 논증 구조: ① 베이츠 의태에서 무해한 종이 유독한 모델 종을 닮아 포식자의 학습된 회피로부터 보호받고 ② 의태자가 드물 때는 포식자의 회피가 잘 보정되지만 ③ 의태자가 흔해지면 포식자가 의태자를 잡아먹어도 해가 없어 신호-위험 연관이 약해집니다. 빈칸은 'because ___'로, 의태의 진화적 이점이 성공할수록 약화되는 이유를 설명합니다. ⑤번 '의태자가 많을수록 공유 신호가 실제 위험의 존재를 덜 신뢰성 있게 나타낸다'는 이 신호 열화 메커니즘을 정확히 포착합니다.",
+        "wrong": {
+          "1": "①번 '포식자가 의태자와 모델을 구별하기 위한 점점 더 정교한 감각 체계를 진화'는 관련된 군비경쟁 개념이지만 이 지문의 메커니즘(빈도 의존적 신호 열화)이 아닙니다.",
+          "2": "②번 '무해한 의태자가 모델과의 장기적 공진화를 통해 진짜 독성을 획득'은 본문에 없으며, 이 경우 전략이 약화되기보다 해결됩니다.",
+          "3": "③번 '선택이 모델이 의태자와 거리를 두기 위한 새 경고 신호를 발달시키도록 유도'는 실제 현상이지만 이 지문이 설명하는 메커니즘이 아닙니다.",
+          "4": "④번 '복수의 포식자에 노출된 먹이 종이 각 위협에 대해 별도의 의태 전략을 진화'는 본문과 무관한 별도의 진화 시나리오입니다."
+        },
+        "key_point": "빈도 의존적 선택의 핵심: 의태 전략은 드물 때만 효과적이며, 성공(확산)이 곧 자기 파괴(신호 열화)입니다. 이 '성공의 역설' 구조를 파악하면 정답이 명확해집니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage explains that when mimics become common, predators consume them without ill effect, weakening the signal-danger association. The blank follows 'because ___' and must explain why the advantage erodes as mimicry succeeds. Choice 5 ('the more mimics there are, the less reliably the shared signal indicates the presence of real danger') is correct — it states the signal degradation mechanism. The confirming sentence: 'the signal's reliability depends on the rarity of the deception.' Choice 1 invokes predator sensory evolution — a related arms-race concept but not this passage's mechanism. Choice 2 says mimics acquire genuine toxicity — not discussed and would resolve rather than erode the strategy. Choice 3 invokes model escape through new signals — a real phenomenon but not the passage's argument. Choice 4 invokes multiple predator strategies — unrelated.",
+        "word_count": 212,
+        "single_answer_confirmed": true
+      }
+    }
+  ]
+}

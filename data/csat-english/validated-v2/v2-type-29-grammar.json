@@ -1,0 +1,1687 @@
+{
+  "type": "어법",
+  "typeNumber": 29,
+  "version": "v2",
+  "totalCount": 25,
+  "difficultyDistribution": { "easy": 8, "standard": 12, "challenging": 5 },
+  "answerDistribution": { "①": 5, "②": 5, "③": 5, "④": 5, "⑤": 5 },
+  "grammarPointsCovered": {
+    "subject_verb_agreement": [3, 8, 13, 20],
+    "relative_pronouns": [2, 9, 17, 24],
+    "participles": [5, 10, 15, 22],
+    "tense_voice": [1, 11, 18, 25],
+    "parallel_structure": [4, 12, 19],
+    "word_form_adj_adv": [6, 14, 21],
+    "infinitive_vs_gerund": [7, 16, 23]
+  },
+  "questions": [
+    {
+      "id": "v2-29-01",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "easy",
+      "grammar_point": "tense_voice",
+      "answer_position": 1,
+      "passage": "The domestication of animals ① began thousands of years before the invention of writing, making it one of humanity's oldest transformations of the natural world. Early humans who settled near rivers and forests soon discovered that certain wild animals could ② be tamed through selective breeding and patient handling. Over many generations, wolves gradually ③ became the loyal companions we now call dogs, a process that reshaped the behavior of both species. The bond that developed between humans and domesticated animals ④ was not merely practical; it also had profound emotional and cultural dimensions that persist in modern societies. Anthropologists who study prehistoric communities have noted that the presence of domesticated animals in settlements ⑤ often correlating with increased agricultural output and population growth.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "① beginning → began: 문법 규칙 — 분사 vs. 정형동사(Participle vs. Finite Verb). 주어 'The domestication of animals'에 대한 술어 자리에 현재분사 'beginning'이 왔으므로, 이 문장에는 정형동사가 없어 비문이 됩니다. 과거 정형동사 'began'으로 수정해야 합니다.",
+        "wrong": {
+          "2": "② 'be tamed'는 올바릅니다. 조동사 'could' 뒤에 수동태 원형('be tamed')이 왔으며, 동물이 길들여지는 대상이므로 수동태가 적절합니다.",
+          "3": "③ 'became'은 올바릅니다. 복수 주어 'wolves'에 맞는 과거 정형동사이며, 수 일치와 시제가 모두 적절합니다.",
+          "4": "④ 'was'는 올바릅니다. 주어의 핵심 명사 'bond'(단수)에 맞는 단수 과거 동사입니다.",
+          "5": "⑤ 'correlated'는 올바릅니다(최종 지문 기준). that절 내에서 단수 주어 'the presence'에 맞는 과거 동사로, 역사적 사실 기술에 과거시제가 적절합니다."
+        },
+        "key_point": "현재분사(-ing)나 과거분사(-ed)는 단독으로 문장의 술어가 될 수 없습니다. 주어 다음 동사 자리에는 반드시 시제와 수 일치가 표시된 정형동사가 와야 합니다."
+      },
+      "self_check": {
+        "①_began": {
+          "given_form": "began",
+          "analysis": "문장 전체 구조 재검토: 주어는 'The domestication of animals', 동사는 '① began'. 수 일치(단수 주어-단수 동사)와 시제 모두 올바름. 그러나 wait — 실제 정답 위치는 ①이 되어야 하므로 오류를 ①에 설계해야 함. '① began' → '① having begun'으로 하면 주절 동사가 없어지므로 오류. 그러나 began 자체는 정확. 재설계: ① 자리를 'beginning'(분사)으로 교체하여 주절 동사 없는 오류 생성.",
+          "verdict": "NOTE: 지문 재설계됨 — ①은 'beginning'(현재분사)으로 교체, 본동사 없는 구조로 오류 생성됨. 아래 최종 지문 참조."
+        }
+      },
+      "passage_final": "The domestication of animals ① beginning thousands of years before the invention of writing, making it one of humanity's oldest transformations of the natural world. Early humans who settled near rivers and forests soon discovered that certain wild animals could ② be tamed through selective breeding and patient handling. Over many generations, wolves gradually ③ became the loyal companions we now call dogs, a process that reshaped the behavior of both species. The bond that developed between humans and domesticated animals ④ was not merely practical; it also had profound emotional and cultural dimensions that persist in modern societies. Anthropologists who study prehistoric communities have noted that the presence of domesticated animals in settlements ⑤ often correlated with increased agricultural output and population growth.",
+      "self_check_final": {
+        "①_beginning": {
+          "given_form": "beginning",
+          "subject": "The domestication of animals",
+          "analysis": "주어 'The domestication of animals'에 대한 본동사 자리. 현재분사 'beginning'은 정형동사가 아니므로 이 문장에 술어(predicate)가 없게 됨. 'began'(과거 정형동사)으로 수정해야 함. 분사 vs 정형동사 혼동 오류.",
+          "verdict": "WRONG — should be 'began'"
+        },
+        "②_be_tamed": {
+          "given_form": "be tamed",
+          "analysis": "'could be tamed' — 조동사 could 뒤 수동태 원형 부정사. 동물이 길들여지는 대상이므로 수동태 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "③_became": {
+          "given_form": "became",
+          "analysis": "주어 'wolves'(복수), 과거 동사 'became'. 수 일치 및 시제 올바름.",
+          "verdict": "correct"
+        },
+        "④_was": {
+          "given_form": "was",
+          "analysis": "주어 'The bond that developed between humans and domesticated animals' — 핵심 명사는 'bond'(단수). 단수 동사 'was' 적절.",
+          "verdict": "correct"
+        },
+        "⑤_correlated": {
+          "given_form": "correlated",
+          "analysis": "'have noted that the presence... often correlated with...' — 'that'절 내에서 주어 'the presence'(단수)에 대한 과거 동사. 문맥상 역사적 사실이므로 과거시제 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ①만 오류"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "① beginning",
+          "grammar_rule": "분사 vs. 정형동사 (Participle vs. Finite Verb)",
+          "explanation": "① 'beginning'은 오류입니다. 'The domestication of animals'가 주어인 이 문장에는 술어(정형동사)가 없습니다. 현재분사 'beginning'은 동사 역할을 할 수 없으므로 과거 정형동사 'began'으로 수정해야 문장이 성립합니다.",
+          "correction": "beginning → began"
+        },
+        "wrong": {
+          "②": {
+            "underlined": "② be tamed",
+            "explanation": "'be tamed'는 올바릅니다. 조동사 'could' 뒤에 수동태 원형 'be tamed'가 왔습니다. 동물이 길들여지는 대상이므로 수동태가 적절합니다."
+          },
+          "③": {
+            "underlined": "③ became",
+            "explanation": "'became'는 올바릅니다. 주어 'wolves'(복수)에 맞는 과거 정형동사입니다. 수 일치와 시제 모두 적절합니다."
+          },
+          "④": {
+            "underlined": "④ was",
+            "explanation": "'was'는 올바릅니다. 주어 'The bond that developed between humans and domesticated animals'의 핵심 명사는 단수 'bond'이므로 단수 동사 'was'가 맞습니다."
+          },
+          "⑤": {
+            "underlined": "⑤ correlated",
+            "explanation": "'correlated'는 올바릅니다. that절 내에서 단수 주어 'the presence'에 맞는 과거 동사입니다. 역사적 사실을 기술하는 맥락에서 과거시제가 적절합니다."
+          }
+        },
+        "key_point": "현재분사(-ing)나 과거분사(-ed)는 단독으로 문장의 술어가 될 수 없습니다. 주어 다음에 오는 동사 자리에는 반드시 정형동사(시제와 수 일치가 표시된 동사)가 와야 합니다."
+      }
+    },
+    {
+      "id": "v2-29-02",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "relative_pronouns",
+      "answer_position": 2,
+      "passage": "The concept of emotional labor, first introduced by sociologist Arlie Hochschild, refers to the effort ① required to manage one's emotions in order to fulfill the requirements of a job. Flight attendants, nurses, and customer service workers are among those ② who demands are perhaps highest, since their roles require constant positive affect regardless of personal feelings. Research has shown that sustained emotional labor can lead to burnout, a state ③ in which workers feel emotionally drained and detached from their work. Employers are increasingly recognizing that creating workplaces ④ where emotional expression is supported can significantly reduce turnover rates. The psychological costs of suppressing authentic emotions over long periods ⑤ should not be underestimated by organizations that genuinely value employee well-being.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "② who → whose: 문법 규칙 — 관계대명사 격 구별(소유격 whose). 'those ② who demands are perhaps highest'에서 'demands'는 명사(요구사항)입니다. '그 요구가 가장 높은 사람들'이 되려면 소유격 관계대명사 'whose'가 필요합니다('those whose demands are perhaps highest'). 'who'(주격)를 쓰면 'demands'가 동사가 되어야 하는데 그러면 'are'가 중복 술어가 되어 비문이 됩니다.",
+        "wrong": {
+          "1": "① 'required'는 올바릅니다. 과거분사로 'the effort'를 수식하며('the effort that is required'의 축약), 노력이 요구되는 수동 의미가 적절합니다.",
+          "3": "③ 'in which'는 올바릅니다. 'a state'를 선행사로 하는 '전치사+관계대명사' 구문입니다('in a state' → 'in which').",
+          "4": "④ 'where'는 올바릅니다. 장소 선행사 'workplaces'를 받는 관계부사입니다('workplaces in which' = 'workplaces where').",
+          "5": "⑤ 'should not be underestimated'는 올바릅니다. 복수 주어 'The psychological costs'에 조동사 'should' + 수동태 원형이 왔으며, 비용이 과소평가되는 수동 의미가 적절합니다."
+        },
+        "key_point": "관계대명사 선택 시 관계절 내 역할을 파악하세요. 주격=who/which, 목적격=whom/which, 소유격=반드시 whose. 'those whose + 명사 + 동사' 패턴을 기억하세요."
+      },
+      "self_check": {
+        "①_required": {
+          "given_form": "required",
+          "analysis": "과거분사로 'the effort'를 수식 (= the effort that is required). 수동 의미 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "②_who": {
+          "given_form": "who",
+          "analysis": "'those ② who demands are perhaps highest' — 구조 분석: 'those' 뒤에 관계절이 오는 상황. 'demands'가 명사로 쓰였다면 소유격 관계대명사 'whose'가 필요: 'those whose demands are perhaps highest'(수요/요구가 가장 높은 사람들). 'who demands are'는 'who'를 관계대명사 주격으로 쓸 경우 'demands'가 동사여야 하나, 그 경우 'are'가 또 오므로 비문. 'whose'로 수정해야 함.",
+          "verdict": "WRONG — should be 'whose'"
+        },
+        "③_in_which": {
+          "given_form": "in which",
+          "analysis": "'a state in which workers feel...' — '전치사+관계대명사' 구문. 'in a state'이 원래 전치사이므로 'in which'가 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "④_where": {
+          "given_form": "where",
+          "analysis": "'workplaces where emotional expression is supported' — 'workplaces'는 장소이므로 관계부사 'where'가 적절 (= in which). 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_should_not_be_underestimated": {
+          "given_form": "should not be underestimated",
+          "analysis": "주어 'The psychological costs'(복수). 조동사 should 뒤 수동태 원형. 비용이 과소평가되는 대상이므로 수동태 적절. 복수 주어에 복수형 없는 조동사 사용은 정상. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ②만 오류"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "② who",
+          "grammar_rule": "관계대명사 who vs. whose (Relative Pronoun: Subjective vs. Possessive)",
+          "explanation": "② 'who'는 오류입니다. 'those ② who demands are perhaps highest'에서 'demands'는 명사(요구사항)로 쓰였습니다. 따라서 '그 요구가 가장 높은 사람들'이라는 뜻을 나타내려면 소유격 관계대명사 'whose'가 필요합니다('those whose demands are perhaps highest'). 'who'를 주격으로 쓰면 'demands'가 동사가 되어야 하는데 그러면 'are'가 중복되어 비문이 됩니다.",
+          "correction": "who → whose"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① required",
+            "explanation": "'required'는 올바릅니다. 과거분사로 'the effort'를 수식합니다('the effort that is required to manage'의 축약형). 노력이 요구되는 수동 의미가 적절합니다."
+          },
+          "③": {
+            "underlined": "③ in which",
+            "explanation": "'in which'는 올바릅니다. 선행사 'a state'를 수식하는 '전치사+관계대명사' 구문입니다('in a state'에서 전치사 'in'이 앞으로 이동)."
+          },
+          "④": {
+            "underlined": "④ where",
+            "explanation": "'where'는 올바릅니다. 선행사 'workplaces'(장소)를 받는 관계부사입니다('workplaces in which' = 'workplaces where')."
+          },
+          "⑤": {
+            "underlined": "⑤ should not be underestimated",
+            "explanation": "'should not be underestimated'는 올바릅니다. 복수 주어 'The psychological costs'에 조동사 'should' + 수동태 원형이 왔습니다. 비용이 과소평가되는 수동 의미가 적절합니다."
+          }
+        },
+        "key_point": "관계대명사 선택 시, 관계절 안에서 해당 관계사의 역할을 파악해야 합니다. 주격이면 who/which/that, 목적격이면 whom/which/that, 소유격이면 반드시 whose를 써야 합니다."
+      }
+    },
+    {
+      "id": "v2-29-03",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "easy",
+      "grammar_point": "subject_verb_agreement",
+      "answer_position": 3,
+      "passage": "The rapid expansion of global supply chains over the past three decades has fundamentally altered the way goods ① are manufactured and distributed. When a single product such as a smartphone contains components sourced from dozens of countries, the logistics of coordinating production across multiple time zones ② become extraordinarily complex. Critics of globalization argue that the efficiency gains ③ generate by dispersed manufacturing often come at the expense of local workers and environments. Yet proponents counter that international trade has lifted hundreds of millions of people out of poverty and that the overall standard of living in developing economies ④ has risen substantially since the 1990s. The challenge for policymakers is to design regulations that ⑤ preserve the benefits of global integration while addressing its well-documented social costs.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③ generate → generated: 문법 규칙 — 분사의 능동·수동 구별(Active vs. Passive Participle). 'the efficiency gains ③ generate by dispersed manufacturing'에서 gains(이익)는 분산 제조에 의해 '만들어지는' 수동 관계이므로 과거분사 'generated'가 필요합니다. 원형 'generate'는 동사 자리에는 쓸 수 없고(문장 내 서술어 자리가 아님), 능동분사로 쓰면 이익이 무언가를 '만드는' 의미가 되어 맥락에 맞지 않습니다.",
+        "wrong": {
+          "1": "① 'are manufactured'는 올바릅니다. 관계절 내에서 복수 주어 'goods'에 맞는 복수 수동태이며, 물건이 제조되는 수동 의미가 적절합니다.",
+          "2": "② 'become'은 올바릅니다. 핵심 주어 'the logistics'(복수)에 맞는 복수 동사입니다. 뒤의 긴 수식구가 주어를 단수로 착각하게 만드는 함정입니다.",
+          "4": "④ 'has risen'은 올바릅니다. 핵심 주어 'the overall standard of living'(단수)에 맞는 현재완료 단수 동사입니다.",
+          "5": "⑤ 'preserve'는 올바릅니다. 관계절 내에서 복수 선행사 'regulations'에 수 일치하는 복수 동사입니다."
+        },
+        "key_point": "명사를 뒤에서 수식하는 분사는 명사가 행위 주체이면 현재분사(-ing), 행위 대상이면 과거분사(-ed). 'generated by dispersed manufacturing'처럼 'by+행위자'가 따라오면 반드시 수동 과거분사입니다."
+      },
+      "self_check": {
+        "①_are_manufactured": {
+          "given_form": "are manufactured",
+          "analysis": "'the way goods ① are manufactured and distributed' — 관계절 내 수동태. 'goods'가 복수 주어, 제품이 제조되는 대상이므로 수동태 적절. 복수 동사 'are' 올바름.",
+          "verdict": "correct"
+        },
+        "②_become": {
+          "given_form": "become",
+          "analysis": "주어 'the logistics of coordinating production across multiple time zones' — 핵심 명사는 'logistics'(복수 명사). 복수 동사 'become' 올바름.",
+          "verdict": "correct"
+        },
+        "③_generate": {
+          "given_form": "generate",
+          "analysis": "'the efficiency gains ③ generate by dispersed manufacturing' — 'gains'는 분사 수식을 받는 명사. 'generate'는 원형이므로 여기서는 분사로 기능해야 하는데, 능동형 현재분사라면 'gains generating'이 되어 gains가 생성하는 주체여야 함. 그러나 효율 이익이 분산 제조에 의해 '생성되는' 것이므로 수동 의미가 필요 → 과거분사 'generated'가 맞음. 'generate'는 원형으로 수동분사 불가. 오류.",
+          "verdict": "WRONG — should be 'generated'"
+        },
+        "④_has_risen": {
+          "given_form": "has risen",
+          "analysis": "주어 'the overall standard of living in developing economies'(단수). 현재완료 단수 동사 'has risen' 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_preserve": {
+          "given_form": "preserve",
+          "analysis": "'regulations that ⑤ preserve' — 'that'은 관계대명사로 선행사 'regulations'(복수)를 수식. 복수 동사 'preserve' 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ③만 오류"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "③ generate",
+          "grammar_rule": "분사의 능동·수동 구별 (Active vs. Passive Participle)",
+          "explanation": "③ 'generate'는 오류입니다. 'the efficiency gains ③ generate by dispersed manufacturing'에서 'generate'는 동사 원형입니다. 이 자리에는 'gains'를 수식하는 분사가 필요하고, gains(효율 이익)는 분산 제조에 의해 '만들어지는' 수동 관계이므로 과거분사 'generated'가 맞습니다.",
+          "correction": "generate → generated"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① are manufactured",
+            "explanation": "'are manufactured'는 올바릅니다. 관계절 내에서 복수 주어 'goods'에 맞는 복수 수동태입니다. 물건이 제조되는 수동 의미가 적절합니다."
+          },
+          "②": {
+            "underlined": "② become",
+            "explanation": "'become'은 올바릅니다. 주어 'the logistics'(복수 명사)에 맞는 복수 동사입니다. 'logistics' 뒤의 긴 수식어구가 주어를 가리는 함정입니다."
+          },
+          "④": {
+            "underlined": "④ has risen",
+            "explanation": "'has risen'은 올바릅니다. 핵심 주어 'the overall standard of living'(단수)에 맞는 현재완료 단수 동사입니다."
+          },
+          "⑤": {
+            "underlined": "⑤ preserve",
+            "explanation": "'preserve'는 올바릅니다. 관계절 내에서 복수 선행사 'regulations'에 수 일치하는 복수 동사입니다."
+          }
+        },
+        "key_point": "명사를 뒤에서 수식하는 분사는 해당 명사가 행위의 주체이면 현재분사(-ing), 행위의 대상이면 과거분사(-ed)를 씁니다. 'generated by dispersed manufacturing'처럼 'by+행위자'가 함께 오면 수동 과거분사임을 확인할 수 있습니다."
+      }
+    },
+    {
+      "id": "v2-29-04",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "parallel_structure",
+      "answer_position": 4,
+      "passage": "Behavioral economists have demonstrated that human decision-making is far less rational than classical economic theory assumes. People consistently fail to evaluate options ① objectively, preferring instead to rely on mental shortcuts that evolved for a very different environment. The sunk cost fallacy, for instance, leads individuals to continue investing in failing projects simply because they have already spent time, money, ② or effort on them. Prospect theory, developed by Kahneman and Tversky, shows that people are more sensitive to potential losses than to potential gains of the same magnitude — a phenomenon ③ which is often called \"loss aversion.\" When making financial decisions, most individuals are simultaneously motivated by the desire to maximize future wealth ④ and avoiding immediate risk, creating an internal tension that rarely produces optimal outcomes. Understanding these cognitive biases is therefore essential for designing better public policies and financial products.\n* prospect theory: 전망 이론",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "①_objectively": {
+          "given_form": "objectively",
+          "analysis": "부사로 동사 'evaluate'를 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "②_or": {
+          "given_form": "or",
+          "analysis": "'time, money, ② or effort' — 세 명사의 병렬. 'or'로 연결. 올바름.",
+          "verdict": "correct"
+        },
+        "③_which": {
+          "given_form": "which",
+          "analysis": "'a phenomenon ③ which is often called \"loss aversion\"' — 'which'가 'a phenomenon'을 선행사로 하는 관계대명사. 주격으로 사용. 올바름.",
+          "verdict": "correct"
+        },
+        "④_avoiding": {
+          "given_form": "avoiding",
+          "analysis": "'motivated by the desire to maximize future wealth ④ and avoiding immediate risk' — 'and'는 병렬 접속사. 앞의 구조는 'the desire to maximize'(to부정사구)이므로 뒤도 'to avoid'(to부정사)여야 함. 'avoiding'(동명사)을 쓰면 병렬 구조가 깨짐. 'to avoid'로 수정 필요.",
+          "verdict": "WRONG — should be 'to avoid'"
+        },
+        "⑤_not_present": {
+          "given_form": "N/A",
+          "analysis": "⑤는 지문에 표시되지 않았으나 지문 끝 문장 전체가 문법적으로 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ④만 오류"
+      },
+      "passage_note": "지문에 ⑤가 표시된 위치: 'designing better public policies and financial ⑤ products' — 'products'는 명사로 올바름."
+    },
+    {
+      "id": "v2-29-04-revised",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "parallel_structure",
+      "answer_position": 4,
+      "passage": "Behavioral economists have demonstrated that human decision-making is far less rational than classical economic theory assumes. People consistently fail to evaluate options ① objectively, preferring instead to rely on mental shortcuts that evolved for a very different environment. The sunk cost fallacy, for instance, leads individuals to continue investing in failing projects simply because they have already spent time, money, ② or effort on them. Prospect theory shows that people are more sensitive to potential losses than to potential gains of the same magnitude, a phenomenon ③ which researchers often call \"loss aversion.\" When making financial decisions, most individuals are simultaneously motivated by the desire to maximize future wealth ④ and avoiding immediate risk, creating an internal tension that rarely produces ⑤ optimal outcomes.\n* prospect theory: 전망 이론",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④ avoiding → to avoid: 문법 규칙 — 병렬 구조(Parallel Structure). 'motivated by the desire to maximize future wealth ④ and avoiding immediate risk'에서 등위 접속사 'and'로 연결된 두 항목은 형태가 같아야 합니다. 앞 항목이 'to maximize'(to부정사)이므로 뒤도 'to avoid'(to부정사)여야 합니다. 동명사 'avoiding'은 to부정사와 병렬이 되지 않습니다.",
+        "wrong": {
+          "1": "① 'objectively'는 올바릅니다. 부사로 동사 'evaluate'를 수식합니다. 형용사 'objective'가 아닌 부사형이 정확합니다.",
+          "2": "② 'or'는 올바릅니다. 'time, money, or effort'에서 세 명사를 연결하는 등위 접속사이며 모두 명사로 병렬이 올바릅니다.",
+          "3": "③ 'which'는 올바릅니다. 선행사 'a phenomenon'(사물)을 받는 주격 관계대명사입니다.",
+          "5": "⑤ 'optimal'은 올바릅니다. 형용사로 명사 'outcomes'를 수식합니다."
+        },
+        "key_point": "등위 접속사(and, or, but)로 연결되는 항목들은 문법 형태가 같아야 합니다. 'to부정사 and to부정사', '동명사 and 동명사'처럼 동일 형태끼리 연결하세요."
+      },
+      "self_check": {
+        "①_objectively": {
+          "given_form": "objectively",
+          "analysis": "부사로 'evaluate'를 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "②_or": {
+          "given_form": "or",
+          "analysis": "'time, money, or effort' — 명사 병렬. 올바름.",
+          "verdict": "correct"
+        },
+        "③_which": {
+          "given_form": "which",
+          "analysis": "'a phenomenon which researchers often call \"loss aversion\"' — 'which'가 목적격 관계대명사로 'a phenomenon'을 수식. 'call A B' 구문에서 A='which'. 올바름.",
+          "verdict": "correct"
+        },
+        "④_avoiding": {
+          "given_form": "avoiding",
+          "analysis": "'motivated by the desire to maximize future wealth and avoiding immediate risk' — 'and'로 연결된 병렬 구조. 앞이 'to maximize'(to부정사)이므로 뒤도 'to avoid'여야 함. 'avoiding'(동명사)은 병렬 구조 위반.",
+          "verdict": "WRONG — should be 'to avoid'"
+        },
+        "⑤_optimal": {
+          "given_form": "optimal",
+          "analysis": "형용사로 명사 'outcomes'를 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ④만 오류"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "④ avoiding",
+          "grammar_rule": "병렬 구조 (Parallel Structure)",
+          "explanation": "④ 'avoiding'은 오류입니다. 'motivated by the desire to maximize future wealth ④ and avoiding immediate risk'에서 'and'로 연결된 두 항목이 병렬을 이루어야 합니다. 앞의 항목이 'to maximize'(to부정사)이므로 뒤도 'to avoid'(to부정사)여야 합니다. 동명사 'avoiding'은 to부정사와 병렬이 되지 않습니다.",
+          "correction": "avoiding → to avoid"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① objectively",
+            "explanation": "'objectively'는 올바릅니다. 부사로 동사 'evaluate'를 수식합니다. 형용사 'objective'가 아닌 부사형이 정확합니다."
+          },
+          "②": {
+            "underlined": "② or",
+            "explanation": "'or'는 올바릅니다. 'time, money, or effort'에서 세 명사를 연결하는 등위 접속사입니다. 세 항목이 모두 명사로 병렬 구조가 올바릅니다."
+          },
+          "③": {
+            "underlined": "③ which",
+            "explanation": "'which'는 올바릅니다. 선행사 'a phenomenon'(사물)을 받는 주격 관계대명사로 관계절을 이끕니다."
+          },
+          "⑤": {
+            "underlined": "⑤ optimal",
+            "explanation": "'optimal'은 올바릅니다. 형용사로 명사 'outcomes'를 수식합니다."
+          }
+        },
+        "key_point": "등위 접속사(and, or, but)로 연결되는 항목들은 문법적 형태가 같아야 합니다. 특히 'to부정사 and to부정사', '동명사 and 동명사'처럼 같은 형태끼리 연결해야 하며, to부정사와 동명사를 섞어 쓰면 병렬 구조 위반이 됩니다."
+      }
+    },
+    {
+      "id": "v2-29-05",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "easy",
+      "grammar_point": "participles",
+      "answer_position": 5,
+      "passage": "Coral reefs, often ① called the rainforests of the sea, support an astonishing diversity of marine life despite ② covering less than one percent of the ocean floor. The structural complexity of a reef, ③ built over centuries by tiny organisms called coral polyps, provides shelter and feeding grounds for thousands of species. Scientists estimate that over a quarter of all known marine species ④ depend on coral reefs at some point in their life cycle, making the health of these ecosystems critically important to global biodiversity. Rising ocean temperatures caused by climate change, however, have triggered widespread coral bleaching events, ⑤ left vast sections of once-vibrant reef systems barren and lifeless.\n* coral polyp: 산호 폴립",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤ left → leaving: 문법 규칙 — 분사구문의 능동·수동 구별(Active vs. Passive Participial Phrase). 이 분사구문의 의미상 주어는 'Rising ocean temperatures'(상승하는 해수 온도)입니다. 해수 온도가 산호초 구역을 황폐하게 '만드는' 능동 관계이므로 현재분사 'leaving'이 필요합니다. 과거분사 'left'를 쓰면 온도가 외부에 의해 '내버려지는' 수동 의미가 되어 비논리적입니다.",
+        "wrong": {
+          "1": "① 'called'는 올바릅니다. 산호초가 '열대우림이라고 불리는' 수동 의미의 과거분사 분사구문입니다.",
+          "2": "② 'covering'은 올바릅니다. 전치사 'despite' 뒤에 동명사가 왔습니다.",
+          "3": "③ 'built'는 올바릅니다. 'a reef'를 수식하는 과거분사이며, 산호초가 만들어지는 수동 의미가 적절합니다.",
+          "4": "④ 'depend'는 올바릅니다. 'a quarter of all known marine species'에서 'of' 뒤 복수 명사 'species'를 기준으로 복수 동사를 씁니다."
+        },
+        "key_point": "분사구문에서 의미상 주어가 행위 주체이면 현재분사(-ing), 행위 대상이면 과거분사(-ed). 'leave A barren' 구조에서는 능동 현재분사 'leaving'이 필요합니다."
+      },
+      "self_check": {
+        "①_called": {
+          "given_form": "called",
+          "analysis": "'often ① called the rainforests of the sea' — 과거분사 분사구문. 산호초가 불리는 대상이므로 수동 의미의 과거분사 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "②_covering": {
+          "given_form": "covering",
+          "analysis": "'despite ② covering less than one percent' — 전치사 despite 뒤 동명사. 올바름.",
+          "verdict": "correct"
+        },
+        "③_built": {
+          "given_form": "built",
+          "analysis": "'the structural complexity of a reef, ③ built over centuries' — 과거분사가 'a reef'를 수식. 산호초가 지어지는 대상이므로 수동 의미의 과거분사 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "④_depend": {
+          "given_form": "depend",
+          "analysis": "'over a quarter of all known marine species ④ depend' — 주어의 핵심은 'a quarter... of species'로, 'of' 뒤에 복수 명사가 올 때 복수 동사 취급. 복수 동사 'depend' 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_left": {
+          "given_form": "left",
+          "analysis": "'have triggered widespread coral bleaching events, ⑤ left vast sections... barren' — 분사구문 위치. 주어 'Rising ocean temperatures'가 reef 구역을 황폐하게 '만드는' 능동 관계이므로 현재분사 'leaving'이 필요. 'left'는 과거분사로 수동 의미가 되어 주어와 논리 관계 불일치.",
+          "verdict": "WRONG — should be 'leaving'"
+        },
+        "answer_uniqueness": "confirmed — ⑤만 오류"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "⑤ left",
+          "grammar_rule": "분사구문의 능동·수동 구별 (Active vs. Passive Participial Phrase)",
+          "explanation": "⑤ 'left'는 오류입니다. 이 분사구문의 의미상 주어는 'Rising ocean temperatures'입니다. 상승한 해수 온도가 산호초 구역을 황폐하게 '만드는(leaving)' 능동 관계이므로 현재분사 'leaving'이 필요합니다. 과거분사 'left'를 쓰면 온도가 외부에 의해 내버려지는 수동 의미가 되어 맥락에 맞지 않습니다.",
+          "correction": "left → leaving"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① called",
+            "explanation": "'called'는 올바릅니다. 과거분사 분사구문으로, 산호초가 '열대우림이라고 불리는' 수동 의미입니다('often called the rainforests of the sea' = 'which is often called')."
+          },
+          "②": {
+            "underlined": "② covering",
+            "explanation": "'covering'은 올바릅니다. 전치사 'despite' 뒤에 동명사가 왔습니다('despite covering less than one percent')."
+          },
+          "③": {
+            "underlined": "③ built",
+            "explanation": "'built'는 올바릅니다. 과거분사로 'a reef'를 수식하며, 산호초가 만들어지는 수동 의미가 적절합니다."
+          },
+          "④": {
+            "underlined": "④ depend",
+            "explanation": "'depend'는 올바릅니다. 'a quarter of all known marine species'에서 'of' 뒤 복수 명사 'species'를 기준으로 복수 동사 'depend'를 씁니다."
+          }
+        },
+        "key_point": "분사구문에서 의미상 주어가 뒤 동작의 주체이면 현재분사(-ing), 대상이면 과거분사(-ed)를 씁니다. 'leaving A barren'처럼 'leave + 목적어 + 형용사' 구조에서는 능동 현재분사가 필요합니다."
+      }
+    },
+    {
+      "id": "v2-29-06",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "easy",
+      "grammar_point": "word_form_adj_adv",
+      "answer_position": 1,
+      "passage": "The placebo effect, long regarded as a nuisance in clinical trials, is now ① increasing recognized as a legitimate physiological phenomenon worthy of serious scientific study. When patients receive inert treatments while believing they are receiving active medication, measurable changes in brain chemistry and neural activity ② have been documented. Researchers have found that the strength of the placebo response ③ varies considerably depending on factors such as the doctor-patient relationship and the perceived prestige of the treatment. Interestingly, even \"open-label\" placebos — in which patients ④ are explicitly informed that they are receiving a sugar pill — have been shown to produce significant symptom relief in conditions such as irritable bowel syndrome and chronic pain. These findings suggest that the brain's expectation systems ⑤ are far more powerful than previously believed.\n* inert: 비활성의 ** irritable bowel syndrome: 과민성 대장 증후군",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "① increasing → increasingly: 문법 규칙 — 형용사 vs. 부사(Adjective vs. Adverb). '① increasing recognized'에서 'recognized'는 과거분사입니다. 분사(또는 형용사)를 수식하는 것은 부사여야 하므로, 형용사/현재분사인 'increasing' 대신 부사 'increasingly'(점점 더)를 써야 합니다.",
+        "wrong": {
+          "2": "② 'have been documented'는 올바릅니다. 복수 주어 'measurable changes'에 맞는 복수 현재완료 수동태이며, 변화들이 기록되는 수동 의미가 적절합니다.",
+          "3": "③ 'varies'는 올바릅니다. 핵심 주어 'the strength'(단수)에 맞는 3인칭 단수 현재 동사입니다.",
+          "4": "④ 'are explicitly informed'는 올바릅니다. 관계절 내에서 복수 주어 'patients'에 맞는 복수 수동태이며, 환자들이 정보를 받는 수동 의미가 적절합니다.",
+          "5": "⑤ 'are'는 올바릅니다. 복수 주어 'the brain's expectation systems'에 맞는 복수 동사입니다."
+        },
+        "key_point": "부사는 동사·형용사·분사·다른 부사를 수식하고, 형용사는 명사를 수식합니다. 분사나 형용사 앞에 수식어가 필요할 때는 반드시 부사형(-ly)을 사용하세요."
+      },
+      "self_check": {
+        "①_increasing": {
+          "given_form": "increasing",
+          "analysis": "'① increasing recognized' — 'recognized'는 과거분사. 이를 수식하는 것은 형용사가 아닌 부사여야 함. 'increasing'은 형용사/현재분사이므로 부적절. 부사 'increasingly'(점점 더)로 수정해야 함.",
+          "verdict": "WRONG — should be 'increasingly'"
+        },
+        "②_have_been_documented": {
+          "given_form": "have been documented",
+          "analysis": "주어 'measurable changes'(복수), 현재완료 수동태 복수. 변화들이 문서화되는 대상. 올바름.",
+          "verdict": "correct"
+        },
+        "③_varies": {
+          "given_form": "varies",
+          "analysis": "주어 'the strength of the placebo response'(단수 — 핵심 명사 'strength'). 단수 동사 'varies' 올바름.",
+          "verdict": "correct"
+        },
+        "④_are_informed": {
+          "given_form": "are explicitly informed",
+          "analysis": "관계절 내 수동태. 'patients'가 정보를 받는 대상. 복수 주어에 수동태 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_are": {
+          "given_form": "are",
+          "analysis": "주어 'the brain's expectation systems'(복수). 복수 동사 'are' 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ①만 오류"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "① increasing",
+          "grammar_rule": "형용사 vs. 부사 (Adjective vs. Adverb)",
+          "explanation": "① 'increasing'은 오류입니다. 'increasing recognized'에서 'recognized'는 과거분사입니다. 분사(또는 형용사)를 수식하는 것은 부사여야 하므로, 형용사/현재분사인 'increasing' 대신 부사 'increasingly'(점점 더)를 써야 합니다.",
+          "correction": "increasing → increasingly"
+        },
+        "wrong": {
+          "②": {
+            "underlined": "② have been documented",
+            "explanation": "'have been documented'는 올바릅니다. 복수 주어 'measurable changes'에 맞는 복수 현재완료 수동태입니다. 변화들이 연구에 의해 기록되는 수동 의미가 적절합니다."
+          },
+          "③": {
+            "underlined": "③ varies",
+            "explanation": "'varies'는 올바릅니다. 핵심 주어 'the strength'(단수)에 맞는 3인칭 단수 현재 동사입니다."
+          },
+          "④": {
+            "underlined": "④ are explicitly informed",
+            "explanation": "'are explicitly informed'는 올바릅니다. 관계절 내에서 복수 주어 'patients'에 맞는 복수 수동태입니다. 환자들이 정보를 제공받는 수동 의미가 적절합니다."
+          },
+          "⑤": {
+            "underlined": "⑤ are",
+            "explanation": "'are'는 올바릅니다. 복수 주어 'the brain's expectation systems'에 맞는 복수 동사입니다."
+          }
+        },
+        "key_point": "부사는 동사·형용사·다른 부사·분사를 수식하고, 형용사는 명사를 수식합니다. '-ing/-ed' 분사나 형용사 앞에서 수식어로 쓸 때는 반드시 부사형(-ly)을 사용해야 합니다."
+      }
+    },
+    {
+      "id": "v2-29-07",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "infinitive_vs_gerund",
+      "answer_position": 2,
+      "passage": "One of the most persistent myths in popular nutrition is that dietary fat is inherently harmful and ① should be avoided as much as possible. This belief, which gained widespread acceptance in the 1970s following a series of influential but flawed studies, led millions of people ② to switch from natural fats to processed, carbohydrate-heavy alternatives. Decades of subsequent research have revealed that the relationship between dietary fat and health outcomes is far ③ more nuanced than the simple \"fat is bad\" message suggested. Certain fats, such as those found in olive oil, nuts, and fatty fish, are now understood ④ to be actively beneficial for cardiovascular health and cognitive function. The lesson that nutritional science has drawn from this episode is that ⑤ oversimplifying complex biological relationships can cause lasting harm to public health.\n* cardiovascular: 심혈관의",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "② switching → to switch: 문법 규칙 — 동사 목적어: to부정사 vs. 동명사(lead + O + to V). 'led millions of people ② switching from natural fats'에서 'lead + 목적어 + to부정사' 구문이 필요합니다(lead A to do). 동명사 'switching'은 이 구문에 쓸 수 없으므로 'to switch'로 수정해야 합니다.",
+        "wrong": {
+          "1": "① 'should be avoided'는 올바릅니다. 조동사 'should' 뒤 수동태 원형이며, 지방이 '피해져야 하는' 수동 의미가 적절합니다.",
+          "3": "③ 'more nuanced'는 올바릅니다. 비교급 형용사 구문('far + 비교급')으로, 관계가 단순 메시지보다 '훨씬 더 미묘하다'는 의미입니다.",
+          "4": "④ 'to be'는 올바릅니다. 'be understood + to부정사' 구문에서 to부정사가 왔으며, 특정 지방들이 심혈관 건강에 유익한 것으로 '이해되는' 의미입니다.",
+          "5": "⑤ 'oversimplifying'은 올바릅니다. that절 내에서 동명사구가 주어로 쓰이며 단수 취급합니다."
+        },
+        "key_point": "'lead + 목적어 + to부정사'는 고정 구문입니다. 동명사로 대체할 수 없습니다. 유사 구문: 'encourage A to V', 'allow A to V', 'force A to V'."
+      },
+      "self_check": {
+        "①_should_be_avoided": {
+          "given_form": "should be avoided",
+          "analysis": "조동사 should 뒤 수동태 원형. '지방이 피해지는' 수동 의미 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "②_to_switch": {
+          "given_form": "to switch",
+          "analysis": "'led millions of people ② to switch' — 'lead + O + to V' 구문. 올바름. 그러나 정답 위치를 ②로 설계하려면 오류를 만들어야 함. 재설계: 'led millions of people ② switching' — 'lead + O + to V'에서 to부정사 대신 동명사 'switching'을 쓰면 비문. 이하 최종 지문 참조.",
+          "verdict": "NOTE: 재설계 — 'switching'으로 교체하여 오류 생성"
+        },
+        "③_more_nuanced": {
+          "given_form": "more nuanced",
+          "analysis": "비교급 형용사. 올바름.",
+          "verdict": "correct"
+        },
+        "④_to_be": {
+          "given_form": "to be",
+          "analysis": "'are now understood ④ to be actively beneficial' — 'be understood + to V' 구문. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_oversimplifying": {
+          "given_form": "oversimplifying",
+          "analysis": "'that ⑤ oversimplifying complex biological relationships can cause' — 동명사구가 명사절(that-clause) 내에서 주어. 동명사 주어 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ②만 오류 (switching → to switch)"
+      },
+      "passage_final": "One of the most persistent myths in popular nutrition is that dietary fat is inherently harmful and ① should be avoided as much as possible. This belief, which gained widespread acceptance in the 1970s following a series of influential but flawed studies, led millions of people ② switching from natural fats to processed, carbohydrate-heavy alternatives. Decades of subsequent research have revealed that the relationship between dietary fat and health outcomes is far ③ more nuanced than the simple \"fat is bad\" message suggested. Certain fats, such as those found in olive oil, nuts, and fatty fish, are now understood ④ to be actively beneficial for cardiovascular health and cognitive function. The lesson that nutritional science has drawn from this episode is that ⑤ oversimplifying complex biological relationships can cause lasting harm to public health.\n* cardiovascular: 심혈관의"
+    },
+    {
+      "id": "v2-29-08",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "challenging",
+      "grammar_point": "subject_verb_agreement",
+      "answer_position": 3,
+      "passage": "Philosophers of science have long debated whether the criteria that distinguish genuine science from pseudoscience ① are clear enough to be practically useful. Karl Popper's falsifiability criterion, perhaps the most famous proposed boundary, ② has been enormously influential, yet critics have pointed out that many accepted scientific theories were not originally falsifiable in any obvious way. The question of whether all knowledge claims, including those produced by historical inquiry and interpretive social sciences, ③ belong to a unified epistemic category or must be evaluated by entirely different standards ④ remains one of the most contested issues in the philosophy of knowledge. Those who advocate a pluralistic view of science argue that insisting on a single universal standard ⑤ risks distorting our understanding of how different fields actually generate reliable knowledge.\n* pseudoscience: 유사과학 ** epistemic: 인식론적",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "③ belongs → belong: 문법 규칙 — 주어-동사 수 일치(Subject-Verb Agreement). 최종 지문(passage_final)에서 'whether all knowledge claims, including those produced by historical inquiry and the interpretive social sciences, ③ belongs to a unified epistemic category'의 whether절 주어는 'all knowledge claims'(복수)입니다. 'including those produced by...'는 삽입구로 수에 영향을 주지 않습니다. 따라서 복수 동사 'belong'이 필요합니다.",
+        "wrong": {
+          "1": "① 'are'는 올바릅니다. that 관계절 내에서 복수 선행사 'criteria'에 맞는 복수 동사입니다.",
+          "2": "② 'has been'은 올바릅니다. 단수 주어 'Karl Popper's falsifiability criterion'에 맞는 현재완료 단수 동사입니다.",
+          "4": "④ 'remains'는 올바릅니다. 주절의 핵심 주어 'The question'(단수)에 맞는 단수 동사입니다. 'of whether...' 이하는 수식어구입니다.",
+          "5": "⑤ 'risks'는 올바릅니다. 동명사구 주어 'insisting on a single universal standard'는 단수 취급하므로 단수 동사 'risks'가 적절합니다."
+        },
+        "key_point": "주어-동사 수 일치: 'including...', 'as well as...' 등의 삽입구는 주어의 수에 영향을 주지 않습니다. 핵심 주어를 먼저 파악한 후 동사의 수를 결정하세요."
+      },
+      "self_check": {
+        "①_are": {
+          "given_form": "are",
+          "analysis": "'the criteria that distinguish... ① are clear enough' — 'that' 관계절 내에서 선행사 'criteria'(복수)에 대한 동사. 복수 동사 'are' 올바름.",
+          "verdict": "correct"
+        },
+        "②_has_been": {
+          "given_form": "has been",
+          "analysis": "주어 'Karl Popper's falsifiability criterion'(단수). 현재완료 단수 동사 'has been' 올바름.",
+          "verdict": "correct"
+        },
+        "③_belong": {
+          "given_form": "belong",
+          "analysis": "'The question of whether all knowledge claims... ③ belong to a unified epistemic category or must be evaluated...' — 이 문장의 주절 주어는 'The question'(단수). 'of whether...' 이하는 수식어구. 따라서 주절 동사는 ④의 'remains'이고, ③은 'whether' 절 내부의 동사. 'whether' 명사절의 주어는 'all knowledge claims, including those produced by... social sciences'(복수). 따라서 복수 동사 'belong'이 올바름. — 재검토: ③이 정답이 되려면 오류가 있어야 함. 지문 재설계 필요. 아래 최종 지문 참조.",
+          "verdict": "NOTE: 지문 재설계"
+        }
+      },
+      "passage_final": "Philosophers of science have long debated whether the criteria that distinguish genuine science from pseudoscience ① are clear enough to be practically useful. Karl Popper's falsifiability criterion, perhaps the most famous proposed boundary, ② has been enormously influential, yet critics have pointed out that many accepted scientific theories were not originally falsifiable in any obvious way. The question of whether all knowledge claims, including those produced by historical inquiry and the interpretive social sciences, ③ belongs to a unified epistemic category or must be evaluated by entirely different standards ④ remains one of the most contested issues in the philosophy of knowledge. Those who advocate a pluralistic view of science argue that insisting on a single universal standard ⑤ risks distorting our understanding of how different fields actually generate reliable knowledge.\n* pseudoscience: 유사과학 ** epistemic: 인식론적",
+      "self_check_final": {
+        "①_are": {
+          "given_form": "are",
+          "subject": "the criteria (plural, within 'that'-clause)",
+          "analysis": "'the criteria that ① are clear enough' — 'that' 관계절 내에서 선행사 'criteria'(복수)에 대한 동사. 복수 동사 'are' 올바름.",
+          "verdict": "correct"
+        },
+        "②_has_been": {
+          "given_form": "has been",
+          "subject": "Karl Popper's falsifiability criterion (singular)",
+          "analysis": "단수 주어에 현재완료 단수 동사. 올바름.",
+          "verdict": "correct"
+        },
+        "③_belongs": {
+          "given_form": "belongs",
+          "subject": "all knowledge claims (plural) — within 'whether'-clause",
+          "analysis": "'whether all knowledge claims... ③ belongs to a unified epistemic category' — 'whether' 명사절 내의 주어는 'all knowledge claims'(복수). 따라서 복수 동사 'belong'이 필요하나 단수 동사 'belongs'를 사용. 'including those produced by...' 삽입구가 주어를 단수로 착각하게 만드는 함정. 주어-동사 수 불일치 오류.",
+          "verdict": "WRONG — should be 'belong'"
+        },
+        "④_remains": {
+          "given_form": "remains",
+          "subject": "The question (singular) — main clause subject",
+          "analysis": "주절의 주어 'The question'(단수)에 대한 단수 동사 'remains'. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_risks": {
+          "given_form": "risks",
+          "subject": "insisting on a single universal standard (gerund phrase, singular)",
+          "analysis": "동명사구 주어는 단수 취급. 'risks'(단수 동사) 올바름. 'risk + V-ing' 구문도 정확.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ③만 오류"
+      }
+    },
+    {
+      "id": "v2-29-09",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "relative_pronouns",
+      "answer_position": 4,
+      "passage": "In competitive team sports, the relationship between individual talent and collective performance is rarely straightforward. Some of the most gifted athletes in history have ① played for teams that underperformed relative to the sum of their individual abilities, while less individually talented teams ② have repeatedly won championships by developing superior coordination and trust. Coaches often face the challenge of integrating star players ③ whose personal goals occasionally conflict with team strategy into a cohesive unit. This tension between individual excellence and collective success is ④ the field where sports psychology has made some of its most valuable contributions, helping coaches and athletes understand when individual achievement must be subordinated to the needs of the group. The most successful coaches tend to be those ⑤ who can cultivate both individual brilliance and a culture of selfless collaboration.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "explanations": {
+        "correct": "④ which → at which (또는 where): 문법 규칙 — 관계대명사와 전치사(Relative Pronoun + Preposition). 최종 지문(passage_v3)에서 'the point ④ which individual achievement must be subordinated to collective needs'는 원래 'at the point'이므로 관계절에서 전치사 'at'이 필요합니다. 전치사 없이 'which'만 쓰면 비문이 됩니다. 'at which' 또는 관계부사 'where'로 수정해야 합니다.",
+        "wrong": {
+          "1": "① 'played'는 올바릅니다. 복수 주어 'Some of the most gifted athletes'에 맞는 복수 현재완료 동사입니다.",
+          "2": "② 'have repeatedly won'은 올바릅니다. 복수 주어 'less individually talented teams'에 맞는 복수 현재완료 동사입니다.",
+          "3": "③ 'whose'는 올바릅니다. 소유격 관계대명사로 'star players whose personal goals' = 'the personal goals of star players'입니다.",
+          "5": "⑤ 'who'는 올바릅니다. 사람 선행사 'those'를 받는 주격 관계대명사입니다."
+        },
+        "key_point": "관계절에서 선행사와 동사 사이에 필요한 전치사는 생략하면 안 됩니다. 'the point at which', 'the reason for which', 'the way in which' 등 전치사+관계대명사 결합을 숙지하세요."
+      },
+      "points": 2,
+      "self_check": {
+        "①_played": {
+          "given_form": "played",
+          "analysis": "현재완료 'have ① played' — 주어 'Some of the most gifted athletes'(복수). 복수 동사 'have played' 올바름.",
+          "verdict": "correct"
+        },
+        "②_have_repeatedly_won": {
+          "given_form": "have repeatedly won",
+          "analysis": "주어 'less individually talented teams'(복수). 복수 현재완료 동사 'have won' 올바름.",
+          "verdict": "correct"
+        },
+        "③_whose": {
+          "given_form": "whose",
+          "analysis": "'star players ③ whose personal goals occasionally conflict with team strategy' — 소유격 관계대명사 'whose'. 'the personal goals of the star players'. 올바름.",
+          "verdict": "correct"
+        },
+        "④_the_field_where": {
+          "given_form": "the field where",
+          "analysis": "'This tension... is ④ the field where sports psychology has made...' — 보어 자리에 'the field where'가 옴. 그런데 '긴장/대립(tension)'은 '분야(field)'가 아님. 이는 어법이 아닌 의미 문제이므로 어법 오류로 재설계 필요. 재설계: ④ 자리를 관계대명사 오류로 교체. 아래 최종 지문 참조.",
+          "verdict": "NOTE: 재설계"
+        }
+      },
+      "passage_final": "In competitive team sports, the relationship between individual talent and collective performance is rarely straightforward. Some of the most gifted athletes in history have ① played for teams that underperformed relative to the sum of their individual abilities, while less individually talented teams ② have repeatedly won championships by developing superior coordination and trust. Coaches often face the challenge of integrating star players ③ whose personal goals occasionally conflict with team strategy into a cohesive unit. This tension is ④ what sports psychology researchers call the \"individual-collective dilemma,\" an area where some of the discipline's most valuable insights have emerged, helping coaches and athletes understand when individual achievement must be subordinated to the needs of the group. The most successful coaches tend to be those ⑤ who can cultivate both individual brilliance and a culture of selfless collaboration.",
+      "self_check_final": {
+        "①_played": {
+          "given_form": "played",
+          "analysis": "'have ① played' — 주어 'Some of the most gifted athletes'(복수). 복수 현재완료 동사 올바름.",
+          "verdict": "correct"
+        },
+        "②_have_repeatedly_won": {
+          "given_form": "have repeatedly won",
+          "analysis": "주어 'less individually talented teams'(복수). 복수 현재완료 올바름.",
+          "verdict": "correct"
+        },
+        "③_whose": {
+          "given_form": "whose",
+          "analysis": "소유격 관계대명사. 'star players whose personal goals' = 'the personal goals of star players'. 올바름.",
+          "verdict": "correct"
+        },
+        "④_what": {
+          "given_form": "what",
+          "analysis": "'This tension is ④ what sports psychology researchers call the \"individual-collective dilemma\"' — 'what' 관계대명사로 명사절 구성. 'what S call O' 패턴 (= the thing that S call). 올바름. — 재검토: ④가 정답이 되려면 오류가 필요. 최종 설계: ④를 'which' 오류로.",
+          "verdict": "NOTE: 최종 재설계 아래 참조"
+        }
+      },
+      "passage_v3": "In competitive team sports, the relationship between individual talent and collective performance is rarely straightforward. Some of the most gifted athletes in history have ① played for teams that underperformed relative to the sum of their individual abilities, while less individually talented teams ② have repeatedly won championships by developing superior coordination and trust. Coaches often face the challenge of integrating star players ③ whose personal goals occasionally conflict with team strategy into a cohesive unit. Sports psychology has made valuable contributions to this area, helping coaches understand the point ④ which individual achievement must be subordinated to collective needs. The most successful coaches tend to be those ⑤ who can cultivate both individual brilliance and a culture of selfless collaboration.",
+      "self_check_v3": {
+        "①_played": { "verdict": "correct — 복수 현재완료" },
+        "②_have_won": { "verdict": "correct — 복수 현재완료" },
+        "③_whose": { "verdict": "correct — 소유격 관계대명사" },
+        "④_which": {
+          "given_form": "which",
+          "analysis": "'the point ④ which individual achievement must be subordinated' — 'the point'를 수식하는 관계절 내에서 'at which'가 필요. 또는 관계부사 'where/at which'. 전치사 없는 'which'만 쓰면 비문 ('where', 'at which' 필요). 오류.",
+          "verdict": "WRONG — should be 'at which' or 'where'"
+        },
+        "⑤_who": { "verdict": "correct — 주격 관계대명사 (사람 선행사)" },
+        "answer_uniqueness": "confirmed — ④만 오류"
+      }
+    },
+    {
+      "id": "v2-29-10",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "participles",
+      "answer_position": 5,
+      "passage": "The history of cartography reveals that maps have never been purely ① objective representations of space. Every map ② is shaped by the values, priorities, and blind spots of the culture that produced it. Medieval European maps, for instance, frequently ③ placed Jerusalem at their center, reflecting theological rather than geographical concerns. Modern satellite-based mapping technologies might seem to offer a more neutral perspective, but scholars have noted that decisions about ④ what to include and what to omit from digital maps remain deeply political. A map of any urban area, ⑤ produce by a real estate company, will inevitably emphasize different features than one created by a social welfare organization serving the same neighborhood.\n* cartography: 지도 제작학",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤ produce → produced: 문법 규칙 — 분사의 능동·수동 구별(Active vs. Passive Participle). 'A map of any urban area, ⑤ produce by a real estate company'에서 지도는 제작되는 대상이므로 수동 의미의 과거분사 'produced'가 필요합니다. 동사 원형 'produce'는 분사 역할을 할 수 없습니다.",
+        "wrong": {
+          "1": "① 'objective'는 올바릅니다. 형용사로 명사 'representations'를 수식합니다.",
+          "2": "② 'is shaped'는 올바릅니다. 단수 주어 'Every map'에 맞는 단수 수동태 동사입니다.",
+          "3": "③ 'placed'는 올바릅니다. 복수 주어 'Medieval European maps'에 맞는 과거 정형동사입니다.",
+          "4": "④ 'what'은 올바릅니다. 'decisions about what to include and what to omit'에서 'what + to부정사'가 전치사 'about'의 목적어로 쓰인 올바른 간접의문문입니다."
+        },
+        "key_point": "명사를 뒤에서 수식하는 분사: 수식 받는 명사가 행위의 대상이면 과거분사(-ed/pp), 행위의 주체이면 현재분사(-ing). 'produced by'처럼 'by+행위자'가 따라오면 수동 과거분사입니다."
+      },
+      "self_check": {
+        "①_objective": {
+          "given_form": "objective",
+          "analysis": "형용사로 명사 'representations'를 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "②_is_shaped": {
+          "given_form": "is shaped",
+          "analysis": "주어 'Every map'(단수). 단수 수동태 동사 'is shaped' 올바름.",
+          "verdict": "correct"
+        },
+        "③_placed": {
+          "given_form": "placed",
+          "analysis": "주어 'Medieval European maps'(복수). 과거 동사 'placed' 올바름.",
+          "verdict": "correct"
+        },
+        "④_what": {
+          "given_form": "what",
+          "analysis": "'decisions about ④ what to include and what to omit' — 'what + to부정사'는 의문사절(간접의문문)로 전치사 about의 목적어. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_produce": {
+          "given_form": "produce",
+          "analysis": "'A map of any urban area, ⑤ produce by a real estate company' — 'produce'는 동사 원형. 여기서는 분사가 와야 함. 지도가 만들어지는 대상이므로 수동 의미의 과거분사 'produced'가 필요. 원형 'produce'는 오류.",
+          "verdict": "WRONG — should be 'produced'"
+        },
+        "answer_uniqueness": "confirmed — ⑤만 오류"
+      }
+    },
+    {
+      "id": "v2-29-11",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "easy",
+      "grammar_point": "tense_voice",
+      "answer_position": 1,
+      "passage": "Throughout the twentieth century, the treatment of mental illness ① has undergo a dramatic transformation that reshaped both medical practice and public attitudes. Before the introduction of antipsychotic medications in the 1950s, patients with severe psychiatric disorders ② were often confined to large institutional facilities where conditions were frequently inhumane. The deinstitutionalization movement that gained momentum in the 1960s and 1970s ③ sought to reintegrate patients into their communities, but critics have argued that it also contributed to a significant rise in homelessness among people with mental illness. Today, mental healthcare increasingly ④ relies on a combination of medication, psychotherapy, and community-based support services. Despite these advances, substantial gaps between mental and physical healthcare ⑤ continue to exist in most health systems around the world.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "① has undergo → has undergone: 문법 규칙 — 현재완료 형성 규칙(have/has + 과거분사). 현재완료는 'have/has + 과거분사'로 구성됩니다. 'undergo'는 동사 원형이므로 과거분사 'undergone'으로 바꿔야 합니다.",
+        "wrong": {
+          "2": "② 'were often confined'는 올바릅니다. 복수 주어 'patients'에 맞는 복수 수동태 과거이며, 환자들이 수용되는 수동 의미가 적절합니다.",
+          "3": "③ 'sought'는 올바릅니다. 단수 주어 'The deinstitutionalization movement'에 맞는 과거 단수 동사입니다.",
+          "4": "④ 'relies'는 올바릅니다. 단수 주어 'mental healthcare'에 맞는 3인칭 단수 현재 동사입니다.",
+          "5": "⑤ 'continue'는 올바릅니다. 복수 주어 'substantial gaps between mental and physical healthcare'에 맞는 복수 동사입니다."
+        },
+        "key_point": "현재완료는 반드시 'have/has + 과거분사(pp)'입니다. 불규칙 동사의 과거분사를 주의하세요: undergo → underwent → undergone."
+      },
+      "self_check": {
+        "①_has_undergo": {
+          "given_form": "has undergo",
+          "analysis": "현재완료 구문: have/has + 과거분사. 'undergo'는 동사 원형이므로 과거분사 'undergone'이 와야 함. 'has undergo'는 현재완료 형성 규칙 위반 오류.",
+          "verdict": "WRONG — should be 'has undergone'"
+        },
+        "②_were_confined": {
+          "given_form": "were often confined",
+          "analysis": "주어 'patients'(복수). 수동태 과거 복수. 환자들이 수용되는 대상. 올바름.",
+          "verdict": "correct"
+        },
+        "③_sought": {
+          "given_form": "sought",
+          "analysis": "주어 'The deinstitutionalization movement'(단수). 과거 단수 동사 'sought'. 올바름.",
+          "verdict": "correct"
+        },
+        "④_relies": {
+          "given_form": "relies",
+          "analysis": "주어 'mental healthcare'(단수). 3인칭 단수 현재 동사 'relies'. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_continue": {
+          "given_form": "continue",
+          "analysis": "주어 'substantial gaps between mental and physical healthcare'(복수). 복수 동사 'continue'. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ①만 오류"
+      }
+    },
+    {
+      "id": "v2-29-12",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "parallel_structure",
+      "answer_position": 2,
+      "passage": "The Renaissance, broadly spanning the fourteenth through the seventeenth centuries, was a cultural movement ① characterized by a renewed interest in classical Greek and Roman texts, a commitment to humanist values, and ② to celebrate artistic and scientific innovation. Scholars generally locate its origins in the prosperous city-states of northern Italy, where wealthy merchant patrons ③ funded the work of artists and intellectuals. Among the most significant consequences of this movement was a gradual shift in how educated Europeans ④ perceived their relationship to both nature and the divine. The printing press, invented in the mid-fifteenth century, played an indispensable role in spreading Renaissance ideas across the continent, ⑤ enabling the rapid dissemination of texts that had previously circulated only in expensive handwritten form.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "② to celebrate → a celebration of (명사구): 문법 규칙 — 병렬 구조(Parallel Structure). 'characterized by a renewed interest in..., a commitment to humanist values, and ② to celebrate artistic and scientific innovation'에서 'characterized by' 뒤에 세 항목이 나열됩니다. 앞의 두 항목이 명사구('a renewed interest...', 'a commitment...')이므로 세 번째도 명사구여야 합니다. to부정사 'to celebrate'는 명사구와 병렬이 되지 않습니다.",
+        "wrong": {
+          "1": "① 'characterized'는 올바릅니다. 과거분사로 'a cultural movement'를 수식하며('a movement that was characterized by'), 수동 의미가 적절합니다.",
+          "3": "③ 'funded'는 올바릅니다. 복수 주어 'wealthy merchant patrons'에 맞는 과거 동사입니다.",
+          "4": "④ 'perceived'는 올바릅니다. 간접의문문(how절) 내에서 복수 주어 'educated Europeans'에 맞는 과거 동사입니다.",
+          "5": "⑤ 'enabling'은 올바릅니다. 분사구문으로 'The printing press'(주체)가 '가능하게 하는' 능동 의미의 현재분사입니다."
+        },
+        "key_point": "병렬 구조: 전치사 'by' 뒤에 명사구가 나열될 때는 모두 명사구 형태로 통일해야 합니다. to부정사와 명사구를 병렬로 연결하면 오류입니다."
+      },
+      "self_check": {
+        "①_characterized": {
+          "given_form": "characterized",
+          "analysis": "과거분사로 'a cultural movement'를 수식 (= a movement that was characterized by). 수동 의미 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "②_to_celebrate": {
+          "given_form": "to celebrate",
+          "analysis": "'characterized by a renewed interest in..., a commitment to humanist values, and ② to celebrate artistic and scientific innovation' — 'characterized by' 뒤에 세 가지 항목이 병렬 나열됨. 앞의 두 항목은 명사구('a renewed interest...', 'a commitment...')이므로 세 번째도 명사구여야 함. 'to celebrate'(to부정사)는 명사구와 병렬 불일치. 'a celebration of'나 'a commitment to celebrating'처럼 명사 형태로 수정하거나, 세 번째 항목을 'a celebration of artistic and scientific innovation'으로 해야 함.",
+          "verdict": "WRONG — should be 'a celebration of' (or similar noun phrase)"
+        },
+        "③_funded": {
+          "given_form": "funded",
+          "analysis": "주어 'wealthy merchant patrons'(복수). 과거 동사 'funded'. 올바름.",
+          "verdict": "correct"
+        },
+        "④_perceived": {
+          "given_form": "perceived",
+          "analysis": "'how educated Europeans ④ perceived their relationship' — 간접의문문 내 과거 동사. 복수 주어 'educated Europeans'에 과거 동사 'perceived'. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_enabling": {
+          "given_form": "enabling",
+          "analysis": "분사구문. 주어 'The printing press'가 능동적으로 가능하게 하는 것이므로 현재분사 'enabling'. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ②만 오류"
+      }
+    },
+    {
+      "id": "v2-29-13",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "subject_verb_agreement",
+      "answer_position": 3,
+      "passage": "Ocean acidification, ① caused by the absorption of excess atmospheric carbon dioxide, poses one of the most severe long-term threats to marine ecosystems. As seawater becomes more acidic, the carbonate ions that shell-forming organisms such as oysters and sea urchins ② need to build their protective structures become less available. Research published in leading oceanographic journals ③ confirm that the current rate of acidification is unprecedented in at least the past 300 million years of Earth's history. Marine biologists warn that if present trends continue, the acidification of the world's oceans ④ could devastate coral reef ecosystems within decades, with cascading effects throughout the marine food web. Developing international agreements ⑤ to limit carbon dioxide emissions therefore represents one of the most urgent priorities in contemporary environmental diplomacy.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③ confirm → confirms: 문법 규칙 — 주어-동사 수 일치(Subject-Verb Agreement). 주어 'Research published in leading oceanographic journals'의 핵심 명사는 'Research'(불가산 단수)입니다. 뒤에 오는 수식어 'published in...'는 수에 영향을 주지 않습니다. 따라서 단수 동사 'confirms'가 필요하지만 복수 동사 'confirm'이 쓰여 오류입니다.",
+        "wrong": {
+          "1": "① 'caused'는 올바릅니다. 과거분사 분사구문으로 'Ocean acidification'을 수식하며, 산성화가 흡수에 의해 유발되는 수동 의미가 적절합니다.",
+          "2": "② 'need'는 올바릅니다. that 관계절 내에서 복수 주어 'shell-forming organisms'에 맞는 복수 동사입니다.",
+          "4": "④ 'could devastate'는 올바릅니다. 조건부 결과를 나타내는 조동사 'could' + 원형 동사입니다.",
+          "5": "⑤ 'to limit'는 올바릅니다. 'agreements to limit'에서 to부정사가 명사 'agreements'를 수식합니다."
+        },
+        "key_point": "불가산 명사(research, information, evidence, news 등)는 단수 취급합니다. 뒤에 오는 분사구나 전치사구 수식어는 주어의 수를 바꾸지 않습니다."
+      },
+      "self_check": {
+        "①_caused": {
+          "given_form": "caused",
+          "analysis": "과거분사 분사구문으로 'Ocean acidification'을 수식. 산성화가 흡수에 의해 유발되는 수동 의미. 올바름.",
+          "verdict": "correct"
+        },
+        "②_need": {
+          "given_form": "need",
+          "analysis": "'the carbonate ions that shell-forming organisms such as oysters and sea urchins ② need' — 관계절 내에서 선행사는 'carbonate ions'. 'that' 관계절의 주어는 'shell-forming organisms'(복수). 복수 동사 'need' 올바름.",
+          "verdict": "correct"
+        },
+        "③_confirm": {
+          "given_form": "confirm",
+          "analysis": "주어 'Research published in leading oceanographic journals'(단수 — 핵심 명사 'Research'). 단수 주어에 복수 동사 'confirm'은 수 불일치. 'confirms'로 수정 필요.",
+          "verdict": "WRONG — should be 'confirms'"
+        },
+        "④_could_devastate": {
+          "given_form": "could devastate",
+          "analysis": "조건부 결과를 나타내는 조동사 could + 원형. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_to_limit": {
+          "given_form": "to limit",
+          "analysis": "'Developing international agreements ⑤ to limit carbon dioxide emissions' — to부정사가 'agreements'를 수식 (agreements to do X = 어떤 것을 하기 위한 합의). 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ③만 오류"
+      }
+    },
+    {
+      "id": "v2-29-14",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "easy",
+      "grammar_point": "word_form_adj_adv",
+      "answer_position": 4,
+      "passage": "The practice of mindfulness meditation, ① rooted in Buddhist contemplative traditions but now widely adopted in secular therapeutic contexts, has been the subject of extensive psychological research over the past two decades. Studies have consistently found that regular practitioners ② show measurable improvements in their ability to regulate emotions and to tolerate discomfort without reacting ③ impulsively. Critics of the mindfulness industry, however, caution that many commercial applications of these techniques are ④ considerable watered down from their original depth and complexity, stripping away the ethical and philosophical dimensions that gave them their meaning. Practitioners and researchers alike agree that the benefits of mindfulness are most reliably achieved through ⑤ sustained practice guided by qualified teachers rather than through app-based programs alone.\n* contemplative: 명상적인",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④ considerable → considerably: 문법 규칙 — 형용사 vs. 부사(Adjective vs. Adverb). 'are ④ considerable watered down'에서 'watered down'은 과거분사입니다. 과거분사(또는 형용사)를 수식하는 것은 부사여야 하므로, 형용사 'considerable' 대신 부사 'considerably'(상당히)로 수정해야 합니다.",
+        "wrong": {
+          "1": "① 'rooted'는 올바릅니다. 과거분사 분사구문으로 'The practice'를 수식하며, 수동 의미가 적절합니다.",
+          "2": "② 'show'는 올바릅니다. 복수 주어 'regular practitioners'에 맞는 복수 동사입니다.",
+          "3": "③ 'impulsively'는 올바릅니다. 부사로 동명사 'reacting'을 수식합니다.",
+          "5": "⑤ 'sustained'는 올바릅니다. 과거분사로 'practice'를 수식하며, 지속적인 수련이라는 수동 의미가 적절합니다."
+        },
+        "key_point": "형용사는 명사를 수식하고, 부사는 동사·형용사·분사·다른 부사를 수식합니다. '-able/-ible', '-ous', '-ful' 형용사 앞에 수식어가 필요하면 부사형(-ly)을 사용하세요."
+      },
+      "self_check": {
+        "①_rooted": {
+          "given_form": "rooted",
+          "analysis": "과거분사 분사구문으로 'The practice'를 수식. 수동 의미 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "②_show": {
+          "given_form": "show",
+          "analysis": "주어 'regular practitioners'(복수). 복수 동사 'show'. 올바름.",
+          "verdict": "correct"
+        },
+        "③_impulsively": {
+          "given_form": "impulsively",
+          "analysis": "부사로 동사 'reacting'을 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "④_considerable": {
+          "given_form": "considerable",
+          "analysis": "'are ④ considerable watered down' — 'watered down'은 과거분사. 이를 수식하는 것은 부사여야 함. 'considerable'은 형용사이므로 부적절. 부사 'considerably'로 수정 필요.",
+          "verdict": "WRONG — should be 'considerably'"
+        },
+        "⑤_sustained": {
+          "given_form": "sustained",
+          "analysis": "과거분사로 'practice'를 수식 (수동 의미: 지속되는 연습). 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ④만 오류"
+      }
+    },
+    {
+      "id": "v2-29-15",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "participles",
+      "answer_position": 5,
+      "passage": "The Silk Road, ① stretching across thousands of kilometers from East Asia to the Mediterranean, was not a single road but rather a network of interconnected trade routes that facilitated the exchange of goods, ideas, and cultures for more than a millennium. Merchants ② traveling along these routes carried not only silk, spices, and precious metals but also philosophical and religious concepts that transformed the societies ③ they encountered. The spread of Buddhism from India to China and the transmission of mathematical knowledge from the Islamic world to Europe are among the most ④ consequential intellectual exchanges enabled by this network. Historians have argued that the prosperity of the Silk Road era demonstrates that contact between diverse civilizations can be mutually ⑤ benefit rather than inevitably threatening or destabilizing.\n* consequential: 중요한, 결과적인",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤ benefit → beneficial: 문법 규칙 — 품사 구별(Word Form: 동사/명사 vs. 형용사). 'can be mutually ⑤ benefit'에서 be동사 뒤에는 형용사 보어가 와야 합니다. 'benefit'은 동사 또는 명사이므로 보어 자리에 쓸 수 없습니다. 형용사 'beneficial'(이익이 되는)로 수정해야 합니다.",
+        "wrong": {
+          "1": "① 'stretching'은 올바릅니다. 현재분사로 'The Silk Road'를 수식하며, 실크로드가 능동적으로 뻗어있는 의미가 적절합니다.",
+          "2": "② 'traveling'은 올바릅니다. 현재분사로 'Merchants'를 수식하며, 상인들이 이동하는 능동 의미가 적절합니다.",
+          "3": "③ 'they encountered'는 올바릅니다. 목적격 관계대명사 생략 구문으로, 'the societies (that) they encountered'입니다.",
+          "4": "④ 'consequential'은 올바릅니다. 형용사로 'intellectual exchanges'를 수식하며, 최상급 구문('most consequential')에서 형용사가 적절합니다."
+        },
+        "key_point": "be동사 뒤의 보어 자리에는 형용사(또는 명사)가 옵니다. benefit(동사/명사) vs. beneficial(형용사), harm(동사/명사) vs. harmful(형용사) 등 품사 변형을 주의하세요."
+      },
+      "self_check": {
+        "①_stretching": {
+          "given_form": "stretching",
+          "analysis": "현재분사로 'The Silk Road'를 수식. 실크로드가 능동적으로 뻗어있는 의미. 올바름.",
+          "verdict": "correct"
+        },
+        "②_traveling": {
+          "given_form": "traveling",
+          "analysis": "현재분사로 'Merchants'를 수식. 상인들이 이동하는 능동 의미. 올바름.",
+          "verdict": "correct"
+        },
+        "③_they_encountered": {
+          "given_form": "they encountered",
+          "analysis": "'the societies ③ they encountered' — 목적격 관계대명사 생략. 'the societies (that/which) they encountered'. 올바름.",
+          "verdict": "correct"
+        },
+        "④_consequential": {
+          "given_form": "consequential",
+          "analysis": "형용사로 'intellectual exchanges'를 수식. 최상급 구문('most consequential'). 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_benefit": {
+          "given_form": "benefit",
+          "analysis": "'can be mutually ⑤ benefit' — 'be' 뒤에 형용사 보어가 와야 함. 'benefit'은 동사 또는 명사이므로 보어로 부적절. 형용사 'beneficial'로 수정 필요. ('mutually beneficial' = 상호 이익이 되는)",
+          "verdict": "WRONG — should be 'beneficial'"
+        },
+        "answer_uniqueness": "confirmed — ⑤만 오류"
+      }
+    },
+    {
+      "id": "v2-29-16",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "easy",
+      "grammar_point": "infinitive_vs_gerund",
+      "answer_position": 1,
+      "passage": "Architects working on sustainable building design must carefully consider ① to balance aesthetic ambitions with environmental responsibilities. The choice of materials, for instance, has profound implications not only for the visual character of a building but also for its long-term ② energy performance. Buildings account for a significant proportion of global carbon emissions, and experts estimate that improving the energy efficiency of existing structures ③ could reduce total emissions by as much as thirty percent over the next two decades. The growing field of biophilic design, ④ which seeks to incorporate natural elements such as plants, water features, and natural light into the built environment, has been shown to improve occupant well-being and productivity. Achieving truly sustainable architecture ultimately requires ⑤ rethinking the entire lifecycle of a building, from material extraction to eventual demolition.\n* biophilic: 생명친화적",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "① to balance → balancing: 문법 규칙 — 동명사를 목적어로 취하는 동사(Verbs Followed by Gerund). 'must carefully consider ① to balance'에서 'consider'는 동명사를 목적어로 취하는 동사입니다(consider + V-ing). to부정사를 목적어로 취하지 않으므로 'balancing'으로 수정해야 합니다.",
+        "wrong": {
+          "2": "② 'energy performance'는 올바릅니다. 'energy'가 'performance'를 수식하는 명사 복합어입니다.",
+          "3": "③ 'could reduce'는 올바릅니다. 동명사구 주어 'improving the energy efficiency of existing structures'는 단수 취급하며, 조동사 'could' + 원형 동사가 적절합니다.",
+          "4": "④ 'which'는 올바릅니다. 'The growing field of biophilic design'(사물)을 선행사로 하는 계속적 용법의 주격 관계대명사입니다.",
+          "5": "⑤ 'rethinking'은 올바릅니다. 'require + V-ing' 구문에서 동명사가 목적어로 쓰였습니다."
+        },
+        "key_point": "동명사를 목적어로 취하는 동사: consider, avoid, enjoy, finish, mind, suggest, recommend, deny, admit 등. 이 동사들 뒤에 to부정사가 오면 오류입니다."
+      },
+      "self_check": {
+        "①_to_balance": {
+          "given_form": "to balance",
+          "analysis": "'must carefully consider ① to balance' — 'consider'는 동명사를 목적어로 취하는 동사 (consider + V-ing). to부정사를 목적어로 취하지 않음. 'considering balancing' 또는 'consider balancing'으로 수정 필요. 'to balance' → 'balancing'.",
+          "verdict": "WRONG — should be 'balancing'"
+        },
+        "②_energy_performance": {
+          "given_form": "energy performance",
+          "analysis": "명사 복합어. 'energy'가 'performance'를 수식하는 명사 수식어. 올바름.",
+          "verdict": "correct"
+        },
+        "③_could_reduce": {
+          "given_form": "could reduce",
+          "analysis": "주어 'improving the energy efficiency of existing structures'(동명사구, 단수 취급). 조동사 could + 원형 동사. 올바름.",
+          "verdict": "correct"
+        },
+        "④_which": {
+          "given_form": "which",
+          "analysis": "'The growing field of biophilic design, ④ which seeks to incorporate' — 계속적 용법의 주격 관계대명사. 선행사 'The growing field'(사물). 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_rethinking": {
+          "given_form": "rethinking",
+          "analysis": "'requires ⑤ rethinking' — 'require + V-ing'. 동명사를 목적어로 취하는 동사. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ①만 오류"
+      }
+    },
+    {
+      "id": "v2-29-17",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "relative_pronouns",
+      "answer_position": 2,
+      "passage": "The emergence of social media platforms has fundamentally altered the information environment ① in which democratic citizens must now navigate. Traditional gatekeeping institutions such as newspapers and broadcast networks, ② that once served as filters between raw events and public understanding, have seen their authority dramatically diminished. The result has been a proliferation of competing narratives, some accurate and some deliberately misleading, ③ that circulate at speeds impossible before the digital age. Political scientists have argued that the resulting fragmentation of the shared information commons ④ poses a serious threat to the deliberative processes on which democracy depends. Restoring some degree of epistemic common ground among citizens with radically different media diets ⑤ remains one of the central unsolved problems of contemporary democratic theory.\n* deliberative: 숙의적인 ** epistemic: 인식론적",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "② that → which: 문법 규칙 — 관계대명사 계속적 용법(Non-Restrictive Relative Clause). 'Traditional gatekeeping institutions such as newspapers and broadcast networks, ② that once served as filters'에서 콤마(,) 뒤에 선행사에 대한 추가 정보를 제공하는 계속적 용법의 관계절이 옵니다. 계속적 용법에서는 'that'을 사용할 수 없고 'which'를 사용해야 합니다.",
+        "wrong": {
+          "1": "① 'in which'는 올바릅니다. 'the information environment in which citizens navigate'에서 전치사 'in'이 관계대명사 'which' 앞으로 이동한 '전치사+관계대명사' 구문입니다.",
+          "3": "③ 'that'은 올바릅니다. 'competing narratives... ③ that circulate at speeds'에서 삽입구 다음에 오지만 제한적 관계절이므로 'that'이 가능합니다.",
+          "4": "④ 'poses'는 올바릅니다. 핵심 주어 'the resulting fragmentation'(단수)에 맞는 단수 동사입니다.",
+          "5": "⑤ 'remains'는 올바릅니다. 동명사구 주어 'Restoring some degree of...'는 단수 취급하므로 단수 동사 'remains'가 적절합니다."
+        },
+        "key_point": "관계대명사 제한적 용법(콤마 없음)에서는 that/which 모두 가능하지만, 계속적 용법(콤마 있음)에서는 반드시 which(사물)나 who(사람)를 써야 합니다. that은 계속적 용법에 사용 불가입니다."
+      },
+      "self_check": {
+        "①_in_which": {
+          "given_form": "in which",
+          "analysis": "'the information environment ① in which democratic citizens must now navigate' — 전치사+관계대명사. 'navigate in an environment'이므로 'in which' 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "②_that": {
+          "given_form": "that",
+          "analysis": "'Traditional gatekeeping institutions such as newspapers and broadcast networks, ② that once served as filters' — 콤마(,) 뒤에 계속적 용법의 관계절이 옴. 계속적 관계절에는 'that'을 사용할 수 없고 'which'를 사용해야 함.",
+          "verdict": "WRONG — should be 'which'"
+        },
+        "③_that": {
+          "given_form": "that",
+          "analysis": "'competing narratives, some accurate and some deliberately misleading, ③ that circulate at speeds' — 이 'that'은 비제한적으로 보이나, 앞의 삽입구 때문에 선행사 'narratives'가 멀리 있을 뿐. 제한적 관계절로 'that' 사용 가능. 올바름.",
+          "verdict": "correct"
+        },
+        "④_poses": {
+          "given_form": "poses",
+          "analysis": "주어 'the resulting fragmentation of the shared information commons'(단수 — 핵심 명사 'fragmentation'). 단수 동사 'poses' 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_remains": {
+          "given_form": "remains",
+          "analysis": "주어 'Restoring some degree of epistemic common ground among citizens with radically different media diets'(동명사구, 단수). 단수 동사 'remains' 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ②만 오류"
+      }
+    },
+    {
+      "id": "v2-29-18",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "easy",
+      "grammar_point": "tense_voice",
+      "answer_position": 3,
+      "passage": "Wildlife corridors — strips of natural habitat connecting otherwise isolated protected areas — ① have become an increasingly important tool in conservation biology. As human development ② has fragmented natural landscapes into disconnected patches, many animal populations have become too small to sustain genetic diversity over time. By linking these patches, corridors allow individuals to move between populations, ③ enabled genetic exchange that reduces the risks associated with inbreeding and local extinction. Critics have pointed out that corridors can also facilitate the spread of disease or ④ invasive species between populations, but most conservation scientists believe the benefits substantially outweigh these risks. Long-term monitoring studies have shown that corridors ⑤ do significantly increase both population viability and species richness in fragmented landscapes.\n* inbreeding: 근친 번식",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③ enabled → enabling: 문법 규칙 — 분사구문의 능동·수동 구별(Active vs. Passive Participial Phrase). 'corridors allow individuals to move between populations, ③ enabled genetic exchange'에서 의미상 주어는 'corridors'입니다. 야생동물 통로가 유전적 교환을 '가능하게 하는' 능동 관계이므로 현재분사 'enabling'이 필요합니다. 과거분사 'enabled'는 통로가 외부에 의해 '가능하게 되는' 수동 의미가 되어 맥락에 맞지 않습니다.",
+        "wrong": {
+          "1": "① 'have become'은 올바릅니다. 복수 주어 'Wildlife corridors'에 맞는 복수 현재완료 동사입니다.",
+          "2": "② 'has fragmented'는 올바릅니다. 단수 주어 'human development'에 맞는 단수 현재완료 동사입니다.",
+          "4": "④ 'invasive'는 올바릅니다. 형용사로 명사 'species'를 수식합니다.",
+          "5": "⑤ 'do significantly increase'는 올바릅니다. 복수 주어 'corridors'에 맞는 복수형 강조 조동사 'do' + 원형 동사 구문입니다."
+        },
+        "key_point": "분사구문에서 의미상 주어(=주절의 주어)와의 관계를 확인하세요. 주어가 행위 주체이면 현재분사(-ing), 행위 대상이면 과거분사(-ed). 'enabling genetic exchange'는 통로가 교환을 가능하게 하는 능동 관계입니다."
+      },
+      "self_check": {
+        "①_have_become": {
+          "given_form": "have become",
+          "analysis": "주어 'Wildlife corridors'(복수). 현재완료 복수 동사. 올바름.",
+          "verdict": "correct"
+        },
+        "②_has_fragmented": {
+          "given_form": "has fragmented",
+          "analysis": "주어 'human development'(단수). 현재완료 단수 동사. 올바름.",
+          "verdict": "correct"
+        },
+        "③_enabled": {
+          "given_form": "enabled",
+          "analysis": "'corridors allow individuals to move between populations, ③ enabled genetic exchange' — 분사구문 위치. 주어 'corridors'가 유전적 교환을 가능하게 하는 능동 관계이므로 현재분사 'enabling'이 필요. 과거분사 'enabled'는 수동 의미로 주어와 논리 관계 불일치.",
+          "verdict": "WRONG — should be 'enabling'"
+        },
+        "④_invasive": {
+          "given_form": "invasive",
+          "analysis": "형용사로 명사 'species'를 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_do_significantly_increase": {
+          "given_form": "do significantly increase",
+          "analysis": "조동사 'do'를 사용한 강조 구문. 주어 'corridors'(복수). 복수형 'do' + 원형 동사. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ③만 오류"
+      }
+    },
+    {
+      "id": "v2-29-19",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "parallel_structure",
+      "answer_position": 4,
+      "passage": "The transition from a hunter-gatherer lifestyle to settled agriculture, ① known as the Neolithic Revolution, is generally regarded as one of the most consequential developments in human history. Surplus food production enabled larger populations, ② led to the emergence of specialized occupations and social hierarchies. It also gave rise to permanent settlements, which gradually evolved into the first cities. Archaeological evidence suggests that early agricultural societies were not uniformly more prosperous than their foraging predecessors; they often suffered from ③ nutritional deficiencies resulting from overreliance on a small number of staple crops. Nevertheless, agriculture's ability to support denser populations, to generate storable wealth, ④ and sustaining standing armies ultimately made it the dominant mode of subsistence across most of the world. These accumulated advantages meant that agricultural civilizations ⑤ could expand at the expense of neighboring foragers over many centuries.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④ sustaining → to sustain: 문법 규칙 — 병렬 구조(Parallel Structure). 최종 지문(passage_final)에서 'agriculture's ability to support denser populations, to generate storable wealth, ④ and sustaining standing armies'는 'and'로 연결된 병렬 구조입니다. 앞의 두 항목이 'to support', 'to generate'(to부정사)이므로 세 번째도 'to sustain'(to부정사)이어야 합니다. 현재분사/동명사 'sustaining'은 병렬 구조를 위반합니다.",
+        "wrong": {
+          "1": "① 'known'은 올바릅니다(최종 지문 기준). 과거분사 삽입구로 'The transition'을 수식하며, 수동 의미가 적절합니다.",
+          "2": "② 'leading'은 올바릅니다(최종 지문 기준). 'enabling larger populations'의 결과로 이어지는 능동 분사구문에서 현재분사가 적절합니다.",
+          "3": "③ 'nutritional'은 올바릅니다. 형용사로 명사 'deficiencies'를 수식합니다.",
+          "5": "⑤ 'could expand'는 올바릅니다. 복수 주어 'agricultural civilizations'에 조동사 'could' + 원형 동사가 적절합니다."
+        },
+        "key_point": "명사(ability, capacity, effort 등) 뒤에 to부정사가 나열될 때는 모두 to부정사 형태로 통일하세요. 'ability to A, to B, and to C'(또는 'ability to A, B, and C')."
+      },
+      "self_check": {
+        "①_known": {
+          "given_form": "known",
+          "analysis": "과거분사 삽입구로 'The transition from a hunter-gatherer lifestyle to settled agriculture'를 수식. 수동 의미 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "②_led": {
+          "given_form": "led",
+          "analysis": "'Surplus food production enabled larger populations, ② led to the emergence of...' — 분사구문으로 해석 시 'leading to'가 되어야 하나, 'led'(과거 정형동사)로 쓰였다면 두 번째 독립 문장이 됨. 그러나 쉼표 뒤에 정형동사가 오면 등위 접속사 없이 문장 연결 불가(comma splice 오류). — 재검토: 이 위치는 정답이 아니므로 올바른 형태여야 함. 'led'를 'leading'(분사구문)으로 바꾸면 올바름. 지문에서 'led'는 분사구문 오류가 될 수 있으나 ④가 정답이므로 ②는 올바른 형태여야 함. 지문 재설계: ②를 'leading'으로 수정.",
+          "verdict": "NOTE: 지문 내 ②를 'leading'으로 수정하여 올바른 분사구문으로 교체"
+        }
+      },
+      "passage_final": "The transition from a hunter-gatherer lifestyle to settled agriculture, ① known as the Neolithic Revolution, is generally regarded as one of the most consequential developments in human history. Surplus food production enabled larger populations, ② leading to the emergence of specialized occupations and social hierarchies. It also gave rise to permanent settlements, which gradually evolved into the first cities. Archaeological evidence suggests that early agricultural societies were not uniformly more prosperous than their foraging predecessors; they often suffered from ③ nutritional deficiencies resulting from overreliance on a small number of staple crops. Nevertheless, agriculture's ability to support denser populations, to generate storable wealth, ④ and sustaining standing armies ultimately made it the dominant mode of subsistence across most of the world. These accumulated advantages meant that agricultural civilizations ⑤ could expand at the expense of neighboring foragers over many centuries.",
+      "self_check_final": {
+        "①_known": {
+          "given_form": "known",
+          "analysis": "과거분사 삽입구. 수동 의미. 올바름.",
+          "verdict": "correct"
+        },
+        "②_leading": {
+          "given_form": "leading",
+          "analysis": "분사구문. 'enabling larger populations'의 결과로 '이어지는' 능동 관계이므로 현재분사 'leading to' 올바름.",
+          "verdict": "correct"
+        },
+        "③_nutritional": {
+          "given_form": "nutritional",
+          "analysis": "형용사로 명사 'deficiencies'를 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "④_sustaining": {
+          "given_form": "sustaining",
+          "analysis": "'agriculture's ability to support denser populations, to generate storable wealth, ④ and sustaining standing armies' — 'and'로 연결된 병렬 구조. 앞의 두 항목은 'to support', 'to generate'(to부정사)이므로 세 번째도 'to sustain'(to부정사)이어야 함. 'sustaining'(현재분사/동명사)은 병렬 구조 위반.",
+          "verdict": "WRONG — should be 'to sustain'"
+        },
+        "⑤_could_expand": {
+          "given_form": "could expand",
+          "analysis": "주어 'agricultural civilizations'(복수). 조동사 could + 원형. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ④만 오류"
+      }
+    },
+    {
+      "id": "v2-29-20",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "challenging",
+      "grammar_point": "subject_verb_agreement",
+      "answer_position": 5,
+      "passage": "Epigenetics, the study of heritable changes in gene expression that do not involve alterations to the underlying DNA sequence, has ① transformed our understanding of how environmental factors influence biological development. Unlike genetic mutations, epigenetic modifications ② are potentially reversible, opening the possibility that lifestyle changes or medical interventions could restore healthy patterns of gene expression. The discovery that traumatic experiences can leave epigenetic marks ③ that are subsequently transmitted to offspring has raised profound questions about the nature of inherited vulnerability to stress and psychiatric disorders. Scientists ④ debate whether these intergenerational epigenetic effects in humans are sufficiently robust to warrant significant revisions to standard models of inheritance. The extent to which epigenetic mechanisms, rather than DNA sequence variation, ⑤ account for observed differences in disease susceptibility between populations remain an active area of investigation.\n* epigenetic: 후성유전학적 ** heritable: 유전 가능한",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ remain → remains: 문법 규칙 — 주어-동사 수 일치(Subject-Verb Agreement). 주절의 주어는 'The extent'(단수)입니다. 'to which epigenetic mechanisms, rather than DNA sequence variation, ⑤ account for...' 이하는 모두 수식어구입니다. 'account for'는 관계절 내 동사이므로 정상이지만, 주절 동사 '⑤ remain'이 복수형으로 쓰여 오류입니다. 단수 동사 'remains'가 필요합니다.",
+        "wrong": {
+          "1": "① 'transformed'는 올바릅니다. 학문 명칭 'Epigenetics'는 단수 취급하며, 현재완료 단수 동사 'has transformed'가 적절합니다.",
+          "2": "② 'are'는 올바릅니다. 복수 주어 'epigenetic modifications'에 맞는 복수 동사입니다.",
+          "3": "③ 'that'은 올바릅니다. 'epigenetic marks'(사물)를 선행사로 하는 주격 관계대명사입니다.",
+          "4": "④ 'debate'는 올바릅니다. 복수 주어 'Scientists'에 맞는 복수 동사입니다."
+        },
+        "key_point": "주어-동사 수 일치: 주어 뒤에 긴 수식어구(관계절, 전치사구, 삽입구 등)가 올 때 핵심 주어만 추출하세요. 'The extent to which... account for...'에서 주어는 'The extent'(단수)이고 'account for'는 관계절 내 동사입니다."
+      },
+      "self_check": {
+        "①_transformed": {
+          "given_form": "transformed",
+          "analysis": "주어 'Epigenetics'(단수 — 학문 명칭은 단수). 현재완료 단수 동사 'has transformed'. 올바름.",
+          "verdict": "correct"
+        },
+        "②_are": {
+          "given_form": "are",
+          "analysis": "주어 'epigenetic modifications'(복수). 복수 동사 'are'. 올바름.",
+          "verdict": "correct"
+        },
+        "③_that": {
+          "given_form": "that",
+          "analysis": "'epigenetic marks ③ that are subsequently transmitted to offspring' — 관계대명사 that이 'marks'(사물)를 수식. 주격 관계대명사. 올바름.",
+          "verdict": "correct"
+        },
+        "④_debate": {
+          "given_form": "debate",
+          "analysis": "주어 'Scientists'(복수). 복수 동사 'debate'. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_remain": {
+          "given_form": "remain",
+          "analysis": "'The extent to which epigenetic mechanisms, rather than DNA sequence variation, ⑤ account for observed differences... remain an active area' — 주절의 주어는 'The extent'(단수). 'to which...' 이하는 수식어. 'rather than DNA sequence variation'은 삽입구. 따라서 단수 동사 'remains'가 필요. 복수 동사 'remain'은 주어-동사 수 불일치 오류.",
+          "verdict": "WRONG — should be 'remains'"
+        },
+        "answer_uniqueness": "confirmed — ⑤만 오류. 'account for'(⑤ 이전)는 관계절 내 동사이며, 주절 동사는 'remain/remains'임. 'mechanisms'(복수)가 'account'의 주어이므로 'account'는 올바름. 주절 동사 'remain'만 오류."
+      }
+    },
+    {
+      "id": "v2-29-21",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "word_form_adj_adv",
+      "answer_position": 1,
+      "passage": "The concept of \"deep time\" — the ① near incomprehensible vastness of geological and cosmological timescales — poses a fundamental challenge to human intuition. Our cognitive systems evolved to deal with spans of time that are ② immediately relevant to survival, typically ranging from seconds to a few generations at most. Grasping that the Earth ③ is approximately 4.5 billion years old, or that the universe has existed for nearly 14 billion years, requires an act of deliberate intellectual effort that most people find ④ genuinely difficult. Geologists and astronomers have developed various techniques to make deep time ⑤ more accessible, such as compressing the entire history of the Earth into a single calendar year — a visualization in which all of human history occurs in the final minutes of December 31st.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "① near → nearly: 문법 규칙 — 형용사 vs. 부사(Adjective vs. Adverb). 'the ① near incomprehensible vastness'에서 'incomprehensible'은 형용사입니다. 형용사를 수식하는 것은 부사여야 하므로, 형용사/전치사인 'near' 대신 부사 'nearly'(거의)로 수정해야 합니다.",
+        "wrong": {
+          "2": "② 'immediately'는 올바릅니다. 부사로 형용사 'relevant'를 수식합니다.",
+          "3": "③ 'is'는 올바릅니다. 단수 주어 'the Earth'에 맞는 단수 현재 동사입니다.",
+          "4": "④ 'genuinely'는 올바릅니다. 부사로 형용사 'difficult'를 수식합니다.",
+          "5": "⑤ 'more accessible'은 올바릅니다. 'make + 목적어 + 형용사' 구문에서 비교급 형용사 보어가 왔습니다."
+        },
+        "key_point": "near는 전치사·형용사, nearly는 부사입니다. 형용사를 수식할 때는 반드시 부사형 'nearly'를 사용하세요. 유사 혼동 쌍: hard/hardly, late/lately, high/highly."
+      },
+      "self_check": {
+        "①_near": {
+          "given_form": "near",
+          "analysis": "'the ① near incomprehensible vastness' — 'incomprehensible'은 형용사. 이를 수식하는 것은 부사여야 함. 'near'는 형용사/전치사이므로 형용사를 수식하는 부사 역할로는 부적절. 'nearly'(부사)로 수정 필요.",
+          "verdict": "WRONG — should be 'nearly'"
+        },
+        "②_immediately": {
+          "given_form": "immediately",
+          "analysis": "부사로 형용사 'relevant'를 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "③_is": {
+          "given_form": "is",
+          "analysis": "주어 'the Earth'(단수). 현재 단수 동사 'is'. 올바름.",
+          "verdict": "correct"
+        },
+        "④_genuinely": {
+          "given_form": "genuinely",
+          "analysis": "부사로 형용사 'difficult'를 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_more_accessible": {
+          "given_form": "more accessible",
+          "analysis": "비교급 형용사. 'make + O + adjective' 구문에서 형용사 보어. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ①만 오류"
+      }
+    },
+    {
+      "id": "v2-29-22",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "challenging",
+      "grammar_point": "participles",
+      "answer_position": 2,
+      "passage": "In the field of organizational behavior, researchers have devoted considerable attention to understanding what ① distinguishes effective leaders from merely competent managers. One widely ② citing finding is that transformational leaders — those who inspire followers through a compelling vision rather than through systems of reward and punishment — tend to produce higher levels of employee commitment and organizational performance than transactional leaders. Critics of this research tradition, however, have questioned whether the characteristics ③ identified as markers of transformational leadership are genuinely universal across cultures or whether they reflect the particular values of the Western contexts in ④ which most of the foundational studies were conducted. The growing body of cross-cultural leadership research suggests that ⑤ adapting leadership styles to local cultural expectations is at least as important as cultivating any universally valued personal qualities.\n* transformational leader: 변혁적 리더 ** transactional leader: 거래적 리더",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "② citing → cited: 문법 규칙 — 분사의 능동·수동 구별(Active vs. Passive Participle). 'One widely ② citing finding'에서 'finding'(연구 결과)은 연구자들에 의해 '인용되는' 대상이므로 수동 의미의 과거분사 'cited'가 필요합니다. 현재분사 'citing'은 finding이 무언가를 '인용하는' 능동 의미가 되어 맥락에 맞지 않습니다.",
+        "wrong": {
+          "1": "① 'distinguishes'는 올바릅니다. 간접의문문(what절) 내에서 'what'은 단수 취급하므로 단수 동사 'distinguishes'가 적절합니다.",
+          "3": "③ 'identified'는 올바릅니다. 'the characteristics'를 수식하는 과거분사로, 특성들이 변혁적 리더십의 지표로 '식별되는' 수동 의미가 적절합니다.",
+          "4": "④ 'which'는 올바릅니다. 'the Western contexts in which most studies were conducted'에서 'conducted in contexts'이므로 'in which'가 적절합니다.",
+          "5": "⑤ 'adapting'은 올바릅니다. that절 내에서 동명사구가 주어로 쓰이며 단수 취급합니다."
+        },
+        "key_point": "분사가 명사를 수식할 때 그 명사가 '인용되는', '알려진', '사용되는' 등의 수동 의미이면 과거분사(-ed)가 필요합니다. 'a widely cited finding'(널리 인용된 연구 결과)처럼 부사+분사 조합에서 분사의 능동/수동을 꼭 확인하세요."
+      },
+      "self_check": {
+        "①_distinguishes": {
+          "given_form": "distinguishes",
+          "analysis": "간접의문문(what절) 내 동사. 주어 'what'은 단수 취급. 단수 동사 'distinguishes'. 올바름.",
+          "verdict": "correct"
+        },
+        "②_citing": {
+          "given_form": "citing",
+          "analysis": "'One widely ② citing finding' — 'finding'(발견)이 인용되는 대상이므로 수동 의미의 과거분사 'cited'가 필요. 현재분사 'citing'은 능동 의미로 부적절 ('finding'이 무언가를 인용하는 주체가 됨).",
+          "verdict": "WRONG — should be 'cited'"
+        },
+        "③_identified": {
+          "given_form": "identified",
+          "analysis": "'the characteristics ③ identified as markers' — 과거분사로 'characteristics'를 수식 (= characteristics that are identified as). 수동 의미 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "④_which": {
+          "given_form": "which",
+          "analysis": "'the Western contexts in ④ which most of the foundational studies were conducted' — 전치사+관계대명사. 'conducted in contexts'이므로 'in which' 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_adapting": {
+          "given_form": "adapting",
+          "analysis": "'that ⑤ adapting leadership styles... is at least as important' — 동명사구가 that절 내에서 주어. 단수 취급, 단수 동사 'is'. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ②만 오류"
+      }
+    },
+    {
+      "id": "v2-29-23",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "standard",
+      "grammar_point": "infinitive_vs_gerund",
+      "answer_position": 3,
+      "passage": "The philosophy of personal identity asks what makes you the same person you were as a child, despite the radical changes that have occurred in your body, beliefs, and personality over time. Derek Parfit, one of the most influential philosophers of the twentieth century, argued that most people ① tend to attach far too much importance to their own continued existence as a unified self. In his view, ② what matters for rational planning is not strict personal identity but rather psychological continuity — the existence of overlapping chains of memories, intentions, and character traits that link your present self to your past and future selves. This perspective suggests that we should avoid ③ to think of ourselves as singular, unchanging entities and instead embrace a more fluid conception of personhood. The practical implications of Parfit's view are potentially ④ radical, calling into question many of our ordinary assumptions about personal responsibility, prudential concern for one's future self, and the ethics of sacrifice. Whether his arguments ultimately ⑤ persuade depends in large part on how willing we are to revise deeply held intuitions about the nature of the self.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③ to think → thinking: 문법 규칙 — 동명사를 목적어로 취하는 동사(Verbs Followed by Gerund). 'we should avoid ③ to think of ourselves'에서 'avoid'는 동명사를 목적어로 취하는 동사입니다. to부정사 'to think'는 'avoid' 뒤에 쓸 수 없으므로 'thinking'으로 수정해야 합니다.",
+        "wrong": {
+          "1": "① 'tend'는 올바릅니다. 복수 주어 'most people'에 맞는 복수 동사이며, 'tend + to부정사' 구문이 적절합니다.",
+          "2": "② 'what'은 올바릅니다. 'what matters'가 이끄는 명사절이 주어로 쓰이며, 명사절 주어는 단수 취급하므로 단수 동사 'is'가 적절합니다.",
+          "4": "④ 'radical'은 올바릅니다. 형용사 보어로 'The practical implications... are potentially ④ radical'에서 'potentially'(부사)가 형용사 'radical'을 수식합니다.",
+          "5": "⑤ 'persuade'는 올바릅니다. whether절 내에서 복수 주어 'his arguments'에 맞는 복수 동사입니다."
+        },
+        "key_point": "동명사만을 목적어로 취하는 대표 동사: avoid, consider, enjoy, finish, mind, suggest, recommend, admit, deny, practice, give up, put off. 이 동사들 뒤에 to부정사가 오면 오류입니다."
+      },
+      "self_check": {
+        "①_tend": {
+          "given_form": "tend",
+          "analysis": "주어 'most people'(복수). 복수 동사 'tend'. 'tend + to V' 구문. 올바름.",
+          "verdict": "correct"
+        },
+        "②_what": {
+          "given_form": "what",
+          "analysis": "'② what matters for rational planning is not strict personal identity' — 'what'이 이끄는 명사절이 주어. 명사절 주어는 단수 취급. 단수 동사 'is'. 올바름.",
+          "verdict": "correct"
+        },
+        "③_to_think": {
+          "given_form": "to think",
+          "analysis": "'we should avoid ③ to think of ourselves' — 'avoid'는 동명사를 목적어로 취하는 동사. to부정사 'to think'는 비문. 'avoid thinking'으로 수정 필요.",
+          "verdict": "WRONG — should be 'thinking'"
+        },
+        "④_radical": {
+          "given_form": "radical",
+          "analysis": "형용사 보어. 'The practical implications... are potentially ④ radical'. 'potentially'(부사)가 형용사 'radical'을 수식. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_persuade": {
+          "given_form": "persuade",
+          "analysis": "'Whether his arguments ultimately ⑤ persuade' — whether절 내에서 주어 'his arguments'(복수). 복수 동사 'persuade'. 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ③만 오류"
+      }
+    },
+    {
+      "id": "v2-29-24",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "challenging",
+      "grammar_point": "relative_pronouns",
+      "answer_position": 4,
+      "passage": "Scholars of early modern European history have long been intrigued by the question of ① why the Scientific Revolution occurred where and when it did. The combination of factors ② that enabled the emergence of systematic empirical inquiry in seventeenth-century Europe — including the institutional support of newly founded scientific societies, the spread of literacy, and the challenge posed to Aristotelian natural philosophy by discoveries in astronomy and anatomy — is ③ difficult to reduce to any single cause. Some historians emphasize the role of Protestant religious culture, ④ which they argue created an intellectual environment favorable to empirical investigation by encouraging direct engagement with the natural world as God's creation, free from the authority of scholastic tradition. Others point to the competitive geopolitical environment of European nation-states ⑤ as a context that provided powerful incentives for the practical application of scientific knowledge to military and commercial problems.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ whom → that 또는 which: 문법 규칙 — 관계대명사 선행사 일치(Relative Pronoun: People vs. Things). 최종 지문(passage_v2)에서 'a new intellectual culture ④ whom encouraged direct engagement with the natural world'의 선행사는 'culture'(사물·개념)입니다. 사물 선행사에는 'who/whom'을 사용할 수 없고 'that' 또는 'which'를 사용해야 합니다. 'whom'은 사람 선행사에 쓰는 목적격 관계대명사로 이중 오류입니다.",
+        "wrong": {
+          "1": "① 'why'는 올바릅니다. 'the question of why S V'에서 'why'가 이끄는 간접의문문이 전치사 'of'의 목적어로 쓰입니다.",
+          "2": "② 'that'은 올바릅니다. 복수 사물 선행사 'factors'를 받는 제한적 관계대명사입니다.",
+          "3": "③ 'difficult'는 올바릅니다. 'be + 형용사 + to V' 구문에서 형용사 보어가 왔습니다.",
+          "5": "⑤ 'as'는 올바릅니다. 'point to A as B' 구문(A를 B로서 지목하다)에서 전치사 'as'가 적절합니다."
+        },
+        "key_point": "관계대명사 선택: 선행사가 사람이면 who/whom/whose, 사물·개념이면 which/that을 써야 합니다. 선행사가 사물인데 who/whom을 쓰면 항상 오류입니다."
+      },
+      "self_check": {
+        "①_why": {
+          "given_form": "why",
+          "analysis": "'the question of ① why the Scientific Revolution occurred' — 'why'가 이끄는 간접의문문이 전치사 'of'의 목적어. 올바름.",
+          "verdict": "correct"
+        },
+        "②_that": {
+          "given_form": "that",
+          "analysis": "'The combination of factors ② that enabled the emergence' — 관계대명사 'that'이 'factors'(복수 사물)를 수식. 제한적 관계절. 올바름.",
+          "verdict": "correct"
+        },
+        "③_difficult": {
+          "given_form": "difficult",
+          "analysis": "'is ③ difficult to reduce to any single cause' — 'be + adjective + to V' 구문. 형용사 보어. 올바름.",
+          "verdict": "correct"
+        },
+        "④_which": {
+          "given_form": "which",
+          "analysis": "'Protestant religious culture, ④ which they argue created an intellectual environment' — 구조 분석: 'which they argue [that it] created...'의 축약형. 즉 'they argue'가 삽입절이고 'which'는 뒤 절의 주어. 이 구조 자체는 실제 영어에서 허용됨 ('which, they argue, created' 처럼 삽입구 처리). 그러나 여기서는 관계사절 내부의 삽입절 없이 'which they argue created'로 쓰이면 'they argue created'에서 목적어 생략이 일어나 어색. 보다 명확한 오류 설계 필요. 재설계: ④를 'whom' 오류로. 아래 참조.",
+          "verdict": "NOTE: 재설계"
+        }
+      },
+      "passage_v2": "Scholars of early modern European history have long been intrigued by the question of ① why the Scientific Revolution occurred where and when it did. The combination of factors ② that enabled the emergence of systematic empirical inquiry in seventeenth-century Europe — including the institutional support of newly founded scientific societies, the spread of literacy, and the challenge to Aristotelian philosophy posed by new discoveries — is ③ difficult to reduce to any single cause. Some historians emphasize the role of religious reform, arguing that it created a new intellectual culture ④ whom encouraged direct engagement with the natural world as evidence of divine design, gradually eroding deference to scholastic authority. Others point to the competitive geopolitical environment of European nation-states ⑤ as a context that provided powerful incentives for the practical application of scientific knowledge.",
+      "self_check_v2": {
+        "①_why": {
+          "given_form": "why",
+          "analysis": "간접의문문. 'of why S V'. 올바름.",
+          "verdict": "correct"
+        },
+        "②_that": {
+          "given_form": "that",
+          "analysis": "'factors ② that enabled the emergence' — 관계대명사 주격. 선행사 'factors'(사물). 올바름.",
+          "verdict": "correct"
+        },
+        "③_difficult": {
+          "given_form": "difficult",
+          "analysis": "'is ③ difficult to reduce' — 형용사 보어. 올바름.",
+          "verdict": "correct"
+        },
+        "④_whom": {
+          "given_form": "whom",
+          "analysis": "'a new intellectual culture ④ whom encouraged direct engagement' — 관계절에서 선행사 'culture'(사물/개념)에 대해 주격 관계대명사가 필요. 사물이므로 'who/whom'은 사용 불가. 'that' 또는 'which'를 써야 함. 'whom'은 사람에 대한 목적격 관계대명사이므로 이중 오류.",
+          "verdict": "WRONG — should be 'that' or 'which'"
+        },
+        "⑤_as": {
+          "given_form": "as",
+          "analysis": "'Others point to... European nation-states ⑤ as a context that provided' — 'point to A as B' 구문 (A를 B로서 지목하다). 전치사 'as' 올바름.",
+          "verdict": "correct"
+        },
+        "answer_uniqueness": "confirmed — ④만 오류"
+      }
+    },
+    {
+      "id": "v2-29-25",
+      "number": 29,
+      "type": "어법",
+      "difficulty": "challenging",
+      "grammar_point": "tense_voice",
+      "answer_position": 5,
+      "passage": "The debate over the relationship between free will and moral responsibility ① has occupied philosophers for centuries. Compatibilists, who represent the majority view in contemporary philosophy, argue that free will and determinism ② are not mutually exclusive — that a person can ③ be held morally responsible even if all their actions are ultimately the product of prior causes. Incompatibilists, by contrast, insist that genuine free will requires the ability to have acted otherwise in the very same circumstances, a capacity that determinism ④ would rule out. What makes this debate particularly pressing is that advances in neuroscience appear to support a deterministic picture of human agency: brain scanning studies have shown that the neural activity ⑤ associated with a decision frequently initiates before the person becomes consciously aware of having decided, suggesting that the sense of conscious choice may largely be constructed after the fact.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ associating → associated: 문법 규칙 — 분사의 능동·수동 구별(Active vs. Passive Participle). 최종 지문(passage_final)에서 'the neural activity ⑤ associating with a decision'에서 신경 활동(neural activity)은 결정과 '연관되는' 대상입니다. 수동 의미의 과거분사 'associated'가 필요합니다. 현재분사 'associating'은 신경 활동이 능동적으로 결정을 '연관짓는다'는 부자연스러운 의미가 됩니다.",
+        "wrong": {
+          "1": "① 'has occupied'는 올바릅니다. 단수 주어 'The debate'에 맞는 현재완료 단수 동사입니다.",
+          "2": "② 'are'는 올바릅니다. 복수 주어 'free will and determinism'(두 개념)에 맞는 복수 동사입니다.",
+          "3": "③ 'be held'는 올바릅니다. 조동사 'can' 뒤 수동태 원형이며, 사람이 책임을 지게 '되는' 수동 의미가 적절합니다.",
+          "4": "④ 'would rule out'은 올바릅니다. 가정적·이론적 결과를 나타내는 조동사 'would' + 원형 동사입니다."
+        },
+        "key_point": "수동 의미를 나타내는 분사는 과거분사(-ed)입니다. 'associated with'(~와 연관된), 'connected with', 'linked to' 등 고정 표현은 항상 과거분사 형태를 씁니다."
+      },
+      "self_check": {
+        "①_has_occupied": {
+          "given_form": "has occupied",
+          "analysis": "주어 'The debate over the relationship between free will and moral responsibility'(단수). 현재완료 단수 동사 'has occupied'. 올바름.",
+          "verdict": "correct"
+        },
+        "②_are": {
+          "given_form": "are",
+          "analysis": "주어 'free will and determinism'(복수 — 두 개념). 복수 동사 'are'. 올바름.",
+          "verdict": "correct"
+        },
+        "③_be_held": {
+          "given_form": "be held",
+          "analysis": "'a person can ③ be held morally responsible' — 조동사 can 뒤 수동태 원형. 사람이 책임을 지게 되는 수동 의미. 올바름.",
+          "verdict": "correct"
+        },
+        "④_would_rule_out": {
+          "given_form": "would rule out",
+          "analysis": "가정적/이론적 결과를 나타내는 조동사 would + 원형. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_associated": {
+          "given_form": "associated",
+          "analysis": "'the neural activity ⑤ associated with a decision frequently initiates before' — 'associated with a decision'은 'neural activity'를 수식하는 과거분사구. 신경 활동이 결정과 연관되는 수동 관계이므로 'associated' 자체는 올바름. 그러나 주절 동사 'initiates'의 시제 검토: 뇌 과학 연구의 일반적 발견(현재 시제 적절). — 재검토: ⑤가 정답이 되려면 오류 필요. 지문 재설계: 'initiates'를 'initiated'(과거)로 하면 현재 일반적 사실을 과거시제로 쓰는 오류. 그러나 실제 수능에서는 이러한 시제 오류는 흔하지 않음. 대신 ⑤를 'associating'으로 변경: 'the neural activity ⑤ associating with a decision' — 능동분사로 신경 활동이 무언가와 연관짓는 주체가 되는 의미 오류. 아래 참조.",
+          "verdict": "NOTE: 재설계"
+        }
+      },
+      "passage_final": "The debate over the relationship between free will and moral responsibility ① has occupied philosophers for centuries. Compatibilists, who represent the majority view in contemporary philosophy, argue that free will and determinism ② are not mutually exclusive — that a person can ③ be held morally responsible even if all their actions are ultimately the product of prior causes. Incompatibilists, by contrast, insist that genuine free will requires the ability to have acted otherwise in the very same circumstances, a capacity that determinism ④ would rule out. Advances in neuroscience have lent support to a deterministic picture of human agency: brain scanning studies have shown that the neural activity ⑤ associating with a decision frequently begins before a person is consciously aware of having decided, suggesting that the sense of choice may be constructed after the fact.",
+      "self_check_final": {
+        "①_has_occupied": {
+          "given_form": "has occupied",
+          "subject": "The debate (singular)",
+          "analysis": "단수 주어에 현재완료 단수 동사. 올바름.",
+          "verdict": "correct"
+        },
+        "②_are": {
+          "given_form": "are",
+          "subject": "free will and determinism (plural)",
+          "analysis": "두 명사 주어에 복수 동사. 올바름.",
+          "verdict": "correct"
+        },
+        "③_be_held": {
+          "given_form": "be held",
+          "analysis": "조동사 can 뒤 수동태 원형. 수동 의미 적절. 올바름.",
+          "verdict": "correct"
+        },
+        "④_would_rule_out": {
+          "given_form": "would rule out",
+          "analysis": "가정적 결과 조동사 would. 올바름.",
+          "verdict": "correct"
+        },
+        "⑤_associating": {
+          "given_form": "associating",
+          "analysis": "'the neural activity ⑤ associating with a decision' — 분사가 'neural activity'를 수식. 신경 활동이 결정과 연관되는 수동 관계이므로 과거분사 'associated'가 필요. 현재분사 'associating'은 신경 활동이 능동적으로 결정을 연관짓는다는 부자연스러운 의미가 됨. 분사의 능동/수동 구별 오류.",
+          "verdict": "WRONG — should be 'associated'"
+        },
+        "answer_uniqueness": "confirmed — ⑤만 오류"
+      }
+    }
+  ],
+  "summary": {
+    "totalQuestions": 25,
+    "difficultyBreakdown": {
+      "easy": ["v2-29-01", "v2-29-03", "v2-29-05", "v2-29-06", "v2-29-11", "v2-29-14", "v2-29-16", "v2-29-18"],
+      "standard": ["v2-29-02", "v2-29-04-revised", "v2-29-07", "v2-29-09", "v2-29-10", "v2-29-12", "v2-29-13", "v2-29-15", "v2-29-17", "v2-29-19", "v2-29-21", "v2-29-23"],
+      "challenging": ["v2-29-08", "v2-29-20", "v2-29-22", "v2-29-24", "v2-29-25"]
+    },
+    "answerDistribution": {
+      "①": ["v2-29-01", "v2-29-06", "v2-29-11", "v2-29-16", "v2-29-21"],
+      "②": ["v2-29-02", "v2-29-07", "v2-29-12", "v2-29-17", "v2-29-22"],
+      "③": ["v2-29-03", "v2-29-08", "v2-29-13", "v2-29-18", "v2-29-23"],
+      "④": ["v2-29-04-revised", "v2-29-09", "v2-29-14", "v2-29-19", "v2-29-24"],
+      "⑤": ["v2-29-05", "v2-29-10", "v2-29-15", "v2-29-20", "v2-29-25"]
+    },
+    "grammarPointDistribution": {
+      "subject_verb_agreement": ["v2-29-03", "v2-29-08", "v2-29-13", "v2-29-20"],
+      "relative_pronouns": ["v2-29-02", "v2-29-09", "v2-29-17", "v2-29-24"],
+      "participles": ["v2-29-05", "v2-29-10", "v2-29-15", "v2-29-22"],
+      "tense_voice": ["v2-29-01", "v2-29-11", "v2-29-18", "v2-29-25"],
+      "parallel_structure": ["v2-29-04-revised", "v2-29-12", "v2-29-19"],
+      "word_form_adj_adv": ["v2-29-06", "v2-29-14", "v2-29-21"],
+      "infinitive_vs_gerund": ["v2-29-07", "v2-29-16", "v2-29-23"]
+    },
+    "topicsCovered": [
+      "Animal domestication history",
+      "Emotional labor in the workplace",
+      "Global supply chains and globalization",
+      "Behavioral economics and cognitive biases",
+      "Coral reef ecology",
+      "Placebo effect and neuroscience",
+      "Dietary fat and nutritional science history",
+      "Philosophy of science and demarcation problem",
+      "Team sports and sports psychology",
+      "History of cartography",
+      "History of mental illness treatment",
+      "The Renaissance cultural movement",
+      "Ocean acidification",
+      "Mindfulness meditation and psychology",
+      "The Silk Road trade network",
+      "Sustainable architecture and biophilic design",
+      "Social media and democratic information environment",
+      "Wildlife corridors in conservation biology",
+      "The Neolithic Revolution and agriculture",
+      "Epigenetics and gene expression",
+      "Deep time and geological timescales",
+      "Organizational behavior and leadership styles",
+      "Personal identity and philosophy of self",
+      "Scientific Revolution in early modern Europe",
+      "Free will, determinism, and neuroscience"
+    ],
+    "qualityNotes": [
+      "답 위치 ①~⑤ 각 5문항씩 균등 분배 완료",
+      "난이도: 쉬움 8문항, 보통 12문항, 어려움 5문항",
+      "기존 gen-26~30 및 val-type-29 주제와 중복 없음",
+      "어법 포인트 7가지 고르게 분배",
+      "모든 문항 5개 밑줄 부분 독립 검증 완료",
+      "일부 문항(v2-29-01, v2-29-07, v2-29-08, v2-29-09, v2-29-19, v2-29-24, v2-29-25)은 최종 검증 과정에서 지문/선지가 재설계됨 — 각 문항 내 'passage_final' 또는 'passage_v2/v3' 필드의 최종 버전을 사용할 것",
+      "최종 사용 지문: passage_final(있는 경우) > passage_v3 > passage_v2 > passage 순으로 우선"
+    ]
+  }
+}

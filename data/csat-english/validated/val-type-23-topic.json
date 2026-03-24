@@ -1,0 +1,109 @@
+{
+  "type": "주제",
+  "typeNumber": 23,
+  "validatedAt": "2026-03-23",
+  "validator": "claude-opus-4-6",
+  "summary": {
+    "totalQuestions": 5,
+    "allCorrect": true,
+    "averageScore": 4.68,
+    "overallVerdict": "PASS"
+  },
+  "validated": [
+    {
+      "number": 23,
+      "index": 1,
+      "passage_topic": "availability heuristic and risk perception",
+      "generated_answer": 1,
+      "validated_answer": 1,
+      "match": true,
+      "reasoning": "The passage centers on the availability heuristic: people judge risk by how easily examples come to mind, leading to overestimation of dramatic risks and underestimation of gradual ones. Choice 1 ('influence of memorable events on people's perception of risk') directly captures this central thesis. Other choices touch on tangential elements (media anxiety, government failure, statistical literacy, negative news effects) but miss the core cognitive mechanism.",
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 5,
+        "선지균형": 4
+      },
+      "avgScore": 4.8,
+      "comments": "Excellent question. All distractors are plausible within the passage domain yet clearly distinguishable from the correct answer. Minor note: choice 2 (media anxiety) is somewhat easy to eliminate since the passage never focuses on anxiety reduction strategies. Otherwise near-perfect.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 23,
+      "index": 2,
+      "passage_topic": "biodiversity and ecosystem resilience through functional redundancy",
+      "generated_answer": 2,
+      "validated_answer": 2,
+      "match": true,
+      "reasoning": "The passage argues that biodiversity provides functional redundancy, acting as biological insurance against disturbances. As species are lost, ecosystems lose their capacity to absorb shocks even while appearing healthy. Choice 2 ('role of biodiversity as a buffer against ecosystem collapse') accurately encapsulates this argument. Choice 1 contradicts the passage (disturbances are natural, not something to control). Choices 3-5 address unrelated ecological topics not discussed.",
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 5,
+        "선지균형": 5
+      },
+      "avgScore": 5.0,
+      "comments": "Outstanding question. The rivet analogy is well-deployed for a 3-point difficulty level. Distractors are well-crafted: choice 1 is a plausible misreading, choice 5 relates to a distinction the passage deliberately avoids making. All five choices represent genuinely different ecological topics.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 23,
+      "index": 3,
+      "passage_topic": "literary translation as creative, subjective interpretation",
+      "generated_answer": 2,
+      "validated_answer": 2,
+      "match": true,
+      "reasoning": "The passage argues that literary translation is inherently subjective and interpretive — a cultural negotiation, not a mechanical transfer. The prism metaphor reinforces that translations refract meaning in multiple ways. Choice 2 ('creative and interpretive nature of literary translation') captures this precisely. Choice 1 (machine translation) is never mentioned. Choice 3 contradicts the passage's argument. Choices 4-5 address unrelated domains.",
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 4,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 4
+      },
+      "avgScore": 4.4,
+      "comments": "Strong question overall. The passage is eloquent and well-structured. Slight deduction: choices 1 (machine translation) and 5 (foreign language education) are relatively easy to eliminate as they venture into clearly different domains. A slightly more tempting distractor (e.g., 'the role of cultural context in determining translation quality') would raise the difficulty. Still appropriate for the 3-point level.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 23,
+      "index": 4,
+      "passage_topic": "blurring boundary between adolescence and adulthood (emerging adulthood)",
+      "generated_answer": 3,
+      "validated_answer": 3,
+      "match": true,
+      "reasoning": "The passage describes how the transition to adulthood has become ambiguous in modern Western societies, introducing the sociological concept of 'emerging adulthood.' It presents both privilege and structural barrier interpretations. Choice 3 ('the blurring boundary between adolescence and adulthood in modern society') matches the central argument. Choice 1 is too narrow (ceremonies are only historical context). Choice 2 focuses on only one factor. Choice 4 misrepresents the passage's neutral stance. Choice 5 reverses the causal focus.",
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 5,
+        "선지균형": 5
+      },
+      "avgScore": 5.0,
+      "comments": "Excellent question. The passage handles a nuanced sociological concept with balanced presentation. Choice 2 is a well-designed 'partial truth' distractor that could trap students who focus on the economic details rather than the broader argument. Answer position at 3 adds variety.",
+      "verdict": "PASS"
+    },
+    {
+      "number": 23,
+      "index": 5,
+      "passage_topic": "pattern recognition in expert judgment — strength and vulnerability",
+      "generated_answer": 2,
+      "validated_answer": 2,
+      "match": true,
+      "reasoning": "The passage builds a two-part argument: expertise relies on pattern recognition (not knowledge volume), but this same mechanism creates vulnerability when situations deceptively resemble known patterns ('expertise trap'). Choice 2 ('pattern recognition as both the strength and weakness of expert judgment') captures both dimensions. Choice 4 is a particularly well-designed trap since it reflects the common assumption the passage explicitly refutes. Choices 1, 3, and 5 address tangential or unmentioned topics.",
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 5,
+        "선지균형": 4
+      },
+      "avgScore": 4.8,
+      "comments": "Very strong question. The dual-nature argument (strength + weakness) requires full comprehension to select the correct answer. Choice 4 is an excellent distractor that tests whether students actually understood the passage's counter-intuitive claim. Minor note: choice 1 (training programs) is relatively easy to dismiss.",
+      "verdict": "PASS"
+    }
+  ]
+}

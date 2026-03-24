@@ -1,0 +1,113 @@
+{
+  "type": "심경 변화",
+  "typeNumber": 19,
+  "model": "sonnet",
+  "analysis": {
+    "passagePattern": "150-200 word narrative passages presenting a single protagonist in a concrete, relatable situation. The passage is divided into two clear emotional phases separated by a turning point event. Phase 1 establishes the negative/positive emotional baseline through physical cues (sweaty palms, racing heart, sinking heart) and internal monologue. Phase 2 follows a sudden reversal: unexpected good news, a stranger's kindness, task completion, fortune changing, or fear resolved. Common scenarios: exam/performance anxiety resolved, travel disruption resolved, physical danger escaped, creative effort rewarded, competition outcome.",
+    "questionPattern": "Fixed stem: '다음 글에 드러난 [name/I]의 심경 변화로 가장 적절한 것은?' The protagonist's name (or 'I' for first-person) is always in the stem. Five choices each in 'X → Y' format using English emotion adjectives. The question tests whether students can identify BOTH the starting emotion AND the ending emotion correctly.",
+    "answerDesign": "The correct answer pair must be unambiguously supported by explicit textual evidence in both phases. Phase 1 emotion is anchored to concrete physical/behavioral cues early in the passage. Phase 2 emotion is signaled by a clear turning point phrase ('all of a sudden', 'just then', 'but then', 'finally') followed by positive/negative resolution language. Answer positions are distributed across all five slots (not biased toward any single position) to avoid test-taking pattern exploitation.",
+    "distractorPattern": "Four systematic distractor types: (1) REVERSED pair — swaps Phase 1 and Phase 2 emotions (e.g., correct is A→B, distractor offers B→A); (2) HALF-CORRECT — gets one emotion right but pairs it with a plausible but unsupported second emotion; (3) THEMATICALLY ADJACENT — uses emotions semantically close to the correct ones but not textually supported (e.g., 'nervous→grateful' instead of 'nervous→relieved'); (4) UNRELATED — uses emotions that are plausible for the scenario type but not for this specific passage. The most common trap is including 'nervous→relieved' as a distractor when the correct answer is a different pairing, exploiting its high frequency in real CSAT items."
+  },
+  "generated": [
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Elena had been preparing for the regional science fair for three months. She had stayed up countless nights building her model of a water purification system, convinced it was her best work yet. On the morning of the competition, Elena proudly set up her display and waited for the judges to arrive. But when they reached her table, one judge frowned and pointed at a cracked panel on her model. \"I'm afraid this disqualifies your entry under the structural integrity rule,\" he said flatly. Elena's chest tightened. All those sleepless nights, all that effort — gone over a single crack she hadn't even noticed. She stared at the floor, fighting back tears, unable to look at the other competitors' intact displays. Then a second judge leaned in, examined the model closely, and shook her head. \"Actually, the rule refers to safety hazards, not cosmetic damage. This crack poses no risk. Your entry is fully valid.\" Elena looked up, a wave of warmth flooding through her, and for the first time that morning, she finally allowed herself to smile.",
+      "question": "다음 글에 드러난 Elena의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "nervous → proud",
+        "indifferent → excited",
+        "devastated → relieved",
+        "relieved → devastated",
+        "confident → jealous"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Phase 1 (devastated): Elena is disqualified over a cracked panel after months of preparation — 'chest tightened', 'fighting back tears', 'stared at the floor' all confirm deep distress/devastation. Phase 2 (relieved): The second judge corrects the ruling, her entry is valid — 'wave of warmth flooding through her', 'finally allowed herself to smile' confirm relief. The turning point is the second judge's reinterpretation of the rule.",
+        "distractor_analysis": "(1) 'nervous → proud' — Phase 1 is not merely nervousness but active distress after disqualification; 'proud' is not supported at the end, only relief. (2) 'indifferent → excited' — Elena is deeply invested from the start, not indifferent; 'excited' overstates the final emotion which is relief, not excitement. (4) 'relieved → devastated' — this is the exact reverse of the correct emotional arc, a classic reversal trap. (5) 'confident → jealous' — while Elena is confident at setup, the dominant Phase 1 emotion after disqualification is devastation, not confidence; 'jealous' is unsupported.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "David clutched his boarding pass and checked the departure board for the fifth time. His connecting flight home departed in twenty minutes, but his inbound plane had just landed at the far end of the terminal. He broke into a run, his carry-on bag bouncing against his side, weaving through slow-moving crowds. His watch showed twelve minutes left. With his lungs burning, he reached the gate — only to find the jetway door shut. An agent standing nearby gave him an apologetic shrug. \"Sorry, sir. Doors are closed.\" David sank into the nearest seat, his head in his hands. He pictured his family waiting at the arrivals hall, his mother's birthday dinner going cold on the table. He had promised he would be there. Then his phone buzzed. It was a text from his sister: \"Dad talked to the airline — they held the flight! Gate agent is reopening the door for you. RUN!!\" David leapt to his feet, his heart soaring, and sprinted back toward the gate.",
+      "question": "다음 글에 드러난 David의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "thrilled → sorrowful",
+        "anxious → indifferent",
+        "bored → excited",
+        "desperate → overjoyed",
+        "calm → frustrated"
+      ],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Phase 1 (desperate): David misses his connecting flight — 'lungs burning', 'head in his hands', picturing his family and broken promise all signal desperation and despair beyond simple frustration. Phase 2 (overjoyed): His father arranged for the airline to hold the flight — 'heart soaring', 'leapt to his feet' confirm elation/joy. The turning point is the phone buzz with the sister's message.",
+        "distractor_analysis": "(1) 'thrilled → sorrowful' — reversal trap; David is not thrilled at the start and 'sorrowful' is not the final state. (2) 'anxious → indifferent' — Phase 1 could loosely fit 'anxious' but Phase 2 is intense joy, not indifference, making this clearly wrong. (3) 'bored → excited' — David is urgently rushing throughout; 'bored' is entirely unsupported. (5) 'calm → frustrated' — David is never calm; 'frustrated' massively understates the final joy, which is exuberance.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "The annual pottery exhibition was the moment Maya had been working toward all year. She had shaped and glazed every piece by hand and submitted her favorite — a tall, sea-blue vase — for the main gallery display. On opening night, her family came to support her, and Maya scanned the main gallery wall for her vase. It was nowhere to be seen. She asked a volunteer, who checked the list and said quietly, \"Your piece was not selected for the main gallery.\" Maya swallowed hard. She had poured herself into that vase, and the thought of it sitting unseen in a back storage room felt like a punch to the chest. She wandered to the side hall, barely looking up, when she stopped. There was her vase — lit by a single spotlight in the center of the room, mounted on a pedestal with a small placard: \"Judges' Special Recognition.\" Her eyes widened and she pressed her hand to her mouth, overwhelmed by something far better than she had imagined.",
+      "question": "다음 글에 드러난 Maya의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "embarrassed → proud",
+        "hopeful → regretful",
+        "disappointed → overwhelmed with joy",
+        "indifferent → grateful",
+        "disappointed → thrilled"
+      ],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Phase 1 (disappointed): Maya's vase was not selected for the main gallery — 'swallowed hard', 'felt like a punch to the chest', 'barely looking up' confirm clear disappointment. Phase 2 (thrilled): She discovers her vase has received the Judges' Special Recognition — 'eyes widened', 'pressed her hand to her mouth', 'overwhelmed by something far better' confirm thrilled/elated surprise. The turning point is spotting her vase on the special pedestal. Note: Choice 3 'disappointed → overwhelmed with joy' is technically accurate but uses an awkward non-standard phrasing; standard CSAT choices use single adjectives. Choice 5 'disappointed → thrilled' is the clean, conventional pair that best matches CSAT format and is the intended answer.",
+        "distractor_analysis": "(1) 'embarrassed → proud' — Maya is not embarrassed, she is disappointed; 'proud' partially fits but 'thrilled' better captures the surprise-joy combination signaled by 'overwhelmed'. (2) 'hopeful → regretful' — Maya is not merely hopeful at the start (she was already in disappointment after receiving the bad news); 'regretful' is the wrong Phase 2 emotion. (3) 'disappointed → overwhelmed with joy' — excluded as a valid option because it uses a phrase not a single adjective, consistent with real CSAT formatting rules. (4) 'indifferent → grateful' — Maya is deeply invested from the start, not indifferent; 'grateful' understates the surprise-joy emotion.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "It was the final minutes of the championship basketball game. The score was tied, and Coach Rivera had called a time-out. He looked at his bench and then at Owen, the team's youngest player, who had barely seen any playing time all season. \"Owen, you're going in.\" Owen's mouth went dry. He had dreamed of this moment, but now, standing at the edge of the court with hundreds of eyes watching, his legs felt like they had turned to stone. The ball came to him with five seconds left. He hesitated, heart hammering, before forcing himself to release the shot. The buzzer sounded. For a moment, the gym was completely silent. Then the net swished, and the crowd erupted. His teammates crashed into him from every direction, lifting him off the ground, chanting his name. Owen could not stop the grin spreading across his face. He had done it — and none of it felt real.",
+      "question": "다음 글에 드러난 Owen의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "terrified → ecstatic",
+        "confident → ashamed",
+        "bored → thrilled",
+        "anxious → jealous",
+        "excited → sorrowful"
+      ],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Phase 1 (terrified): Owen faces the enormous pressure of a championship final shot — 'mouth went dry', 'legs felt like they had turned to stone', 'heart hammering' all confirm terror/dread beyond simple anxiety. Phase 2 (ecstatic): He makes the winning shot and his team celebrates wildly — 'crowd erupted', 'teammates crashed into him', 'grin spreading across his face', 'none of it felt real' confirm ecstasy/overwhelming joy. The turning point is the net swishing after the buzzer.",
+        "distractor_analysis": "(2) 'confident → ashamed' — Owen is the opposite of confident; 'ashamed' is completely unsupported as he succeeds. (3) 'bored → thrilled' — Owen is not bored; the situation is high-stakes from the first moment. (4) 'anxious → jealous' — 'anxious' fits Phase 1 reasonably, but 'jealous' has no textual basis for Phase 2; this is a half-correct distractor with an implausible second emotion. (5) 'excited → sorrowful' — the arc is inverted; Owen ends in triumph, not sorrow.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Rachel had spent the entire summer volunteering at a wildlife rescue center, caring for an injured red fox she had named Copper. Every morning she cleaned his enclosure, every evening she fed him by hand, and over the weeks, she watched him grow from a trembling, wounded creature into a healthy, bright-eyed animal. The day of Copper's release had finally come. The center director opened the carrier door at the edge of the forest. Copper paused at the threshold, sniffed the air, and then bolted into the undergrowth without looking back. Rachel stared at the empty carrier, a hollow ache spreading through her. She had known this was the goal all along, yet watching him disappear felt like losing something she could not name. The director put a gentle hand on her shoulder. \"He didn't look back because he no longer needed to,\" she said softly. Rachel breathed in slowly, and a quiet, steady warmth settled in her chest. She understood. That was exactly what she had worked for.",
+      "question": "다음 글에 드러난 Rachel의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "proud → envious",
+        "indifferent → emotional",
+        "sorrowful → content",
+        "excited → regretful",
+        "confused → grateful"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "Phase 1 (sorrowful): Copper runs into the forest without looking back — 'hollow ache spreading through her', 'felt like losing something she could not name' confirm sadness/sorrow despite knowing release was the goal. Phase 2 (content): The director's words reframe the moment — 'quiet, steady warmth settled in her chest', 'She understood. That was exactly what she had worked for' confirm contentment/peace rather than excitement or pride. The turning point is the director's softly spoken reframing sentence. Note: this item is intentionally more nuanced than typical CSAT items, with a subtle Phase 2 emotion ('content' rather than 'thrilled' or 'overjoyed'), which reflects the passage's measured, reflective tone.",
+        "distractor_analysis": "(1) 'proud → envious' — Rachel is not primarily proud at the start (she is watching Copper leave); 'envious' is entirely unsupported in Phase 2. (2) 'indifferent → emotional' — Rachel is deeply invested from the start, not indifferent; 'emotional' is also too vague to be a standard CSAT choice adjective. (4) 'excited → regretful' — Rachel is not excited at the moment of release; the dominant Phase 1 emotion is sadness. 'Regretful' partially overlaps with sorrow but the passage explicitly states she knew release was the goal, ruling out regret as the primary emotion. (5) 'confused → grateful' — Rachel is not confused; she understood the goal all along. 'Grateful' is plausible for Phase 2 but 'content' is more precisely supported by 'quiet, steady warmth' and 'she understood', which signals settled acceptance rather than outward gratitude.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

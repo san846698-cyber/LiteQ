@@ -1,0 +1,263 @@
+{
+  "checkedAt": "2026-03-23T08:15:49.455Z",
+  "totalQuestionsChecked": 326,
+  "totalFixesApplied": 28,
+  "fixRate": "8.6%",
+  "fixes": [
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-01",
+      "originalAnswer": 1,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"nervous → grateful...\") as correct (score: 23), but answer field says 1",
+      "choiceOriginal": "assured → crestfallen",
+      "choiceCorrected": "nervous → grateful"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-02",
+      "originalAnswer": 2,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"sorrowful → thrilled...\") as correct (score: 23), but answer field says 2",
+      "choiceOriginal": "fearful → relieved",
+      "choiceCorrected": "sorrowful → thrilled"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-03",
+      "originalAnswer": 3,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"eager → regretful...\") as correct (score: 23), but answer field says 3",
+      "choiceOriginal": "composed → mortified",
+      "choiceCorrected": "eager → regretful"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-04",
+      "originalAnswer": 4,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"anxious → proud...\") as correct (score: 23), but answer field says 4",
+      "choiceOriginal": "anxious → relieved",
+      "choiceCorrected": "anxious → proud"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-05",
+      "originalAnswer": 5,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"nervous → content...\") as correct (score: 23), but answer field says 5",
+      "choiceOriginal": "terrified → elated",
+      "choiceCorrected": "nervous → content"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-06",
+      "originalAnswer": 1,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"hopeful → deflated...\") as correct (score: 23), but answer field says 1",
+      "choiceOriginal": "deflated → hopeful",
+      "choiceCorrected": "hopeful → deflated"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-07",
+      "originalAnswer": 2,
+      "correctedAnswer": 4,
+      "reason": "self_check references choice 4 (\"confident → regretful...\") as correct (score: 23), but answer field says 2",
+      "choiceOriginal": "confident → dejected",
+      "choiceCorrected": "confident → regretful"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-08",
+      "originalAnswer": 3,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"peaceful → furious...\") as correct (score: 23), but answer field says 3",
+      "choiceOriginal": "serene → disheartened",
+      "choiceCorrected": "peaceful → furious"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-09",
+      "originalAnswer": 4,
+      "correctedAnswer": 1,
+      "reason": "self_check references choice 1 (\"excited → content...\") as correct (score: 23), but answer field says 4",
+      "choiceOriginal": "self-assured → deflated",
+      "choiceCorrected": "excited → content"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-10",
+      "originalAnswer": 5,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"content → frustrated...\") as correct (score: 23), but answer field says 5",
+      "choiceOriginal": "moved → saddened",
+      "choiceCorrected": "content → frustrated"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-11",
+      "originalAnswer": 1,
+      "correctedAnswer": 4,
+      "reason": "self_check references choice 4 (\"anxious → frightened...\") as correct (score: 23), but answer field says 1",
+      "choiceOriginal": "confident → frightened",
+      "choiceCorrected": "anxious → frightened"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-12",
+      "originalAnswer": 2,
+      "correctedAnswer": 4,
+      "reason": "self_check references choice 4 (\"prepared → regretful...\") as correct (score: 23), but answer field says 2",
+      "choiceOriginal": "prepared → unsettled",
+      "choiceCorrected": "prepared → regretful"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-13",
+      "originalAnswer": 3,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"determined → exhausted...\") as correct (score: 23), but answer field says 3",
+      "choiceOriginal": "resolute → bereft",
+      "choiceCorrected": "determined → exhausted"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-14",
+      "originalAnswer": 4,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"apprehensive → grateful...\") as correct (score: 23), but answer field says 4",
+      "choiceOriginal": "apprehensive → confident",
+      "choiceCorrected": "apprehensive → grateful"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-15",
+      "originalAnswer": 5,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"confident → regretful...\") as correct (score: 23), but answer field says 5",
+      "choiceOriginal": "self-assured → crestfallen",
+      "choiceCorrected": "confident → regretful"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-16",
+      "originalAnswer": 1,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"anguished → grateful...\") as correct (score: 23), but answer field says 1",
+      "choiceOriginal": "anguished → relieved",
+      "choiceCorrected": "anguished → grateful"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-17",
+      "originalAnswer": 2,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"anxious → thrilled...\") as correct (score: 23), but answer field says 2",
+      "choiceOriginal": "guarded → deeply moved",
+      "choiceCorrected": "anxious → thrilled"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-18",
+      "originalAnswer": 3,
+      "correctedAnswer": 4,
+      "reason": "self_check references choice 4 (\"content → proud...\") as correct (score: 23), but answer field says 3",
+      "choiceOriginal": "eager → elated",
+      "choiceCorrected": "content → proud"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-19",
+      "originalAnswer": 4,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"anxious → resigned...\") as correct (score: 23), but answer field says 4",
+      "choiceOriginal": "tense → deflated",
+      "choiceCorrected": "anxious → resigned"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-20",
+      "originalAnswer": 5,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"tense → at peace...\") as correct (score: 23), but answer field says 5",
+      "choiceOriginal": "apprehensive → unexpectedly liberated",
+      "choiceCorrected": "tense → at peace"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-21",
+      "originalAnswer": 1,
+      "correctedAnswer": 4,
+      "reason": "self_check references choice 4 (\"thrilled → exhausted...\") as correct (score: 23), but answer field says 1",
+      "choiceOriginal": "thrilled → shaken",
+      "choiceCorrected": "thrilled → exhausted"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-22",
+      "originalAnswer": 2,
+      "correctedAnswer": 1,
+      "reason": "self_check references choice 1 (\"composed → relieved...\") as correct (score: 23), but answer field says 2",
+      "choiceOriginal": "composed → panicked",
+      "choiceCorrected": "composed → relieved"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-23",
+      "originalAnswer": 3,
+      "correctedAnswer": 1,
+      "reason": "self_check references choice 1 (\"content → anxious...\") as correct (score: 23), but answer field says 3",
+      "choiceOriginal": "settled → disoriented",
+      "choiceCorrected": "content → anxious"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-24",
+      "originalAnswer": 4,
+      "correctedAnswer": 2,
+      "reason": "self_check references choice 2 (\"tense → proud...\") as correct (score: 23), but answer field says 4",
+      "choiceOriginal": "uncertain → unburdened",
+      "choiceCorrected": "tense → proud"
+    },
+    {
+      "file": "v2-type-19-mood.json",
+      "questionId": "v2-19-25",
+      "originalAnswer": 5,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"pleased → sympathetic...\") as correct (score: 23), but answer field says 5",
+      "choiceOriginal": "apologetic → gratified",
+      "choiceCorrected": "pleased → sympathetic"
+    },
+    {
+      "file": "v2-type-38-insertion.json",
+      "questionId": "v2-38-12",
+      "type": "문장 삽입",
+      "originalAnswer": 5,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"③...\") as correct (score: 15), but answer field says 5",
+      "choiceOriginal": "⑤",
+      "choiceCorrected": "③"
+    },
+    {
+      "file": "v2-type-38-insertion.json",
+      "questionId": "v2-38-20",
+      "type": "문장 삽입",
+      "originalAnswer": 3,
+      "correctedAnswer": 1,
+      "reason": "self_check references choice 1 (\"①...\") as correct (score: 15), but answer field says 3",
+      "choiceOriginal": "③",
+      "choiceCorrected": "①"
+    },
+    {
+      "file": "v2-type-38-insertion.json",
+      "questionId": "v2-38-21",
+      "type": "문장 삽입",
+      "originalAnswer": 5,
+      "correctedAnswer": 3,
+      "reason": "self_check references choice 3 (\"③...\") as correct (score: 15), but answer field says 5",
+      "choiceOriginal": "⑤",
+      "choiceCorrected": "③"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "type": "무관한 문장",
+  "typeNumber": 35,
+  "analysis": {
+    "totalReferenceQuestions": 18,
+    "answerDistribution": {
+      "position1": 0,
+      "position2": 0,
+      "position3": 10,
+      "position4": 7,
+      "position5": 1
+    },
+    "patterns": {
+      "structure": "An introductory sentence (unnumbered) establishes the topic, followed by 5 numbered sentences (① through ⑤). Exactly one sentence diverges from the main argument.",
+      "irrelevantSentenceTechnique": "The off-topic sentence shares surface-level vocabulary or domain with the passage but introduces a different claim, shifts to a tangential subtopic, or contradicts the passage's logical direction. It is designed to be subtly misleading rather than obviously unrelated.",
+      "topicComplexity": "Academic-level passages covering social science, natural science, linguistics, technology, art, and education — consistent with CSAT English difficulty.",
+      "averagePassageLength": "5-8 sentences total (1-3 intro + 5 numbered), approximately 120-180 words."
+    },
+    "generationStrategy": "Each generated passage has a clear main argument. The irrelevant sentence uses domain-adjacent vocabulary but shifts the focus to a different point. Answer positions are varied across 2, 3, 4, and 5 to avoid predictability."
+  },
+  "generated": [
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "Urban green spaces have been shown to provide significant psychological benefits to city residents. Research consistently indicates that access to parks and tree-lined streets reduces stress hormones and improves overall mental well-being. ① These findings hold true across diverse populations, regardless of socioeconomic background or cultural context. ② Even brief exposure to natural elements — such as a ten-minute walk through a park — can measurably lower cortisol levels and elevate mood. ③ The economic value of urban real estate tends to increase in neighborhoods that invest in sustainable infrastructure and modern public transportation networks. ④ Furthermore, hospital patients with views of greenery have been found to recover faster than those facing walls or parking lots. ⑤ Taken together, the evidence strongly supports integrating nature into urban planning as a public health strategy.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 무관한 이유: 이 글은 도시 녹지가 시민에게 제공하는 심리적·건강적 효과를 주제로 합니다. ③은 '지속 가능한 인프라와 대중교통에 투자한 지역의 부동산 가치가 상승한다'고 서술하는데, 이는 부동산 경제학에 관한 내용으로 글의 핵심 논지(녹지의 심리·건강 효과)와 무관합니다. '도시', '인프라'라는 어휘가 글의 배경과 겹쳐 관련 있어 보이지만 실제 주장은 전혀 다른 논점입니다. 나머지 흐름: ①(효과가 사회경제적 배경과 무관하게 보편적) → ②(10분 산책만으로 코르티솔 감소) → ④(입원 환자의 녹지 뷰 → 빠른 회복) → ⑤(자연을 도시 계획에 통합해야 한다는 결론) — ③ 없이도 논리적으로 완결됩니다.",
+        "wrong": {
+          "1": "① 녹지 효과가 사회경제적·문화적 배경과 무관하게 다양한 집단에 적용된다는 내용으로, 글의 보편적 건강 효과 논지를 뒷받침합니다.",
+          "2": "② 10분 산책만으로도 코르티솔 수치가 낮아지고 기분이 향상된다는 구체적 수치를 제시하며 글의 주장을 강화합니다.",
+          "4": "④ 창문으로 녹지를 볼 수 있는 입원 환자가 더 빨리 회복된다는 임상 근거를 추가해 글의 공중보건 논지를 뒷받침합니다.",
+          "5": "⑤ 앞의 모든 증거를 종합하여 자연을 도시 계획에 통합해야 한다는 결론을 이끌어내는 마무리 문장입니다."
+        },
+        "key_point": "무관한 문장은 글의 주제어(도시 녹지)를 공유하지만 다른 논점(부동산 경제)을 도입합니다. 표면적 어휘가 아닌 각 문장의 실제 주장이 글의 핵심 논지(건강 효과)와 일치하는지 확인해야 합니다."
+      },
+      "self_check": {
+        "mainTopic": "Psychological and health benefits of urban green spaces",
+        "irrelevantSentence": "③ discusses economic value of real estate and transportation infrastructure, which is related to urban development but not to the psychological/health benefits of green spaces.",
+        "remainingFlow": "Intro → ① benefits across populations → ② brief exposure lowers cortisol → ④ hospital patients recover faster with greenery → ⑤ conclusion supporting nature in urban planning. Logical and coherent without ③.",
+        "subtletyCheck": "③ mentions 'neighborhoods' and 'urban' vocabulary, making it seem related, but its actual claim is about real estate economics and transportation — a different topic entirely.",
+        "difficultyLevel": "medium"
+      }
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "The concept of 'flow,' first described by psychologist Mihaly Csikszentmihalyi, refers to a mental state in which a person is fully immersed in an activity with a feeling of energized focus and deep enjoyment. Achieving flow requires a delicate balance between the difficulty of a task and the individual's skill level. ① When a task is too easy, boredom sets in; when it is too difficult, anxiety takes over. ② In either case, the person fails to enter the highly productive and satisfying state of flow. ③ Organizations that provide employees with autonomy and purpose tend to report higher retention rates and stronger brand loyalty among consumers. ④ Importantly, flow is not limited to work or creative pursuits — athletes, musicians, and even surgeons frequently describe experiencing this state during peak performance. ⑤ Understanding and cultivating the conditions for flow can therefore lead to significant improvements in both personal satisfaction and professional achievement.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 무관한 이유: 이 글은 심리학적 몰입(flow) 개념과 몰입에 진입하기 위한 조건을 설명합니다. ③은 '자율성과 목적의식을 부여하는 조직이 더 높은 직원 유지율과 소비자 브랜드 충성도를 보인다'고 주장하는데, 이는 조직 관리·마케팅 분야 내용으로 flow의 심리적 메커니즘과 다른 논점입니다. '직원', '자율성' 같은 단어가 직장 맥락과 겹쳐 보이지만 실제 주장은 유지율과 브랜드 충성도입니다. 나머지 흐름: ①(너무 쉬우면 지루함, 너무 어려우면 불안) → ②(두 경우 모두 flow 진입 실패) → ④(flow는 스포츠·음악·수술 등 다양한 분야에 존재) → ⑤(flow 조건 이해 → 만족·성취 향상) — ③ 없이도 완결됩니다.",
+        "wrong": {
+          "1": "① 과제가 너무 쉬울 때 지루함, 너무 어려울 때 불안이 생긴다는 내용으로 flow 진입 조건(도전-기술 균형)을 직접 설명합니다.",
+          "2": "② 두 극단 모두에서 flow 상태에 진입하지 못한다고 ①의 내용을 논리적으로 이어줍니다.",
+          "4": "④ flow가 직업 활동에 국한되지 않고 운동·음악·수술 등 다양한 분야에서 경험된다는 글의 범위를 확장합니다.",
+          "5": "⑤ flow 조건을 이해하고 조성하면 개인 만족과 직업적 성취 모두에 긍정적 영향을 미친다는 결론입니다."
+        },
+        "key_point": "'자율성'이나 '직원' 같은 어휘가 flow와 같은 맥락(직장)에서 사용될 수 있지만, ③의 실제 주장(유지율, 브랜드 충성도)은 flow의 심리적 메커니즘과 전혀 다른 논점입니다."
+      },
+      "self_check": {
+        "mainTopic": "The concept of flow and the conditions required to achieve it",
+        "irrelevantSentence": "③ discusses organizational retention rates and brand loyalty, which relates to workplace management but not to the psychological concept of flow.",
+        "remainingFlow": "Intro → ① too easy = boredom, too hard = anxiety → ② failure to enter flow in both cases → ④ flow occurs across domains (sports, music, surgery) → ⑤ cultivating flow improves satisfaction and achievement. Coherent without ③.",
+        "subtletyCheck": "③ uses workplace-related language ('organizations,' 'employees,' 'autonomy') that could seem tangentially connected to flow in professional settings, but its actual claim about retention rates and brand loyalty is a different topic.",
+        "difficultyLevel": "medium"
+      }
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "Coral reefs are often called the 'rainforests of the sea' because of the extraordinary biodiversity they support. Despite covering less than one percent of the ocean floor, they are home to roughly a quarter of all known marine species. ① This remarkable concentration of life arises from the complex three-dimensional structures that corals create, which provide shelter, breeding grounds, and feeding areas for countless organisms. ② The symbiotic relationship between corals and the microscopic algae living within their tissues is fundamental to the reef's survival. ③ These algae, known as zooxanthellae, supply the coral with most of its energy through photosynthesis. ④ Marine biologists have recently developed sophisticated tagging systems that allow individual fish to be tracked across vast stretches of open ocean. ⑤ When ocean temperatures rise, however, corals expel their algae in a process called bleaching, which, if prolonged, can lead to the death of the reef.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④가 무관한 이유: 이 글은 산호초의 생물다양성, 산호와 조류(황색공생조류)의 공생 관계, 그리고 백화 현상이라는 위협을 하나의 흐름으로 설명합니다. ④는 '해양 생물학자들이 개별 어류를 광대한 외해에서 추적하는 첨단 태깅 기술을 개발했다'고 서술하는데, 이는 해양 생물학 소재와 연결되지만 산호초 생태계나 공생·백화와 직접 관련이 없습니다. '해양 생물학자', '어류'라는 어휘가 해양 주제와 겹쳐 보이지만 실제 내용은 외해 어류 추적 기술이라는 전혀 다른 논점입니다. 나머지 흐름: ①(산호의 입체 구조가 다양한 생물의 서식지 제공) → ②(산호-조류 공생이 생존의 근간) → ③(황색공생조류가 광합성으로 에너지 공급) → ⑤(수온 상승 → 백화 → 산호초 사망) — ④ 없이도 완결됩니다.",
+        "wrong": {
+          "1": "① 산호가 만드는 3차원 구조가 무수한 생물의 은신처·번식 공간·먹이 공간을 제공한다는 내용으로 산호초 생물다양성의 원인을 설명합니다.",
+          "2": "② 산호와 미세 조류 사이의 공생 관계가 산호초 생존의 근간이라는 핵심 메커니즘을 도입합니다.",
+          "3": "③ 황색공생조류가 광합성으로 산호의 주요 에너지를 공급한다는 ②의 공생 관계를 구체화합니다.",
+          "5": "⑤ 수온 상승 시 산호가 조류를 방출하는 백화 현상이 장기화되면 산호초가 죽는다는 위협을 결론으로 제시합니다."
+        },
+        "key_point": "해양 생물학 관련 어휘(marine biologists, fish, ocean)가 해양 주제와 겹쳐 보이지만, ④의 실제 내용(외해 어류 추적 기술)은 산호초 생태계 논의와 무관합니다. 각 문장이 '산호초의 생태와 위협'이라는 핵심 논지에 기여하는지 판단해야 합니다."
+      },
+      "self_check": {
+        "mainTopic": "Coral reef biodiversity, the coral-algae symbiosis, and the threat of bleaching",
+        "irrelevantSentence": "④ discusses fish-tracking technology in open ocean, which is related to marine biology but not to coral reefs, their symbiosis, or bleaching.",
+        "remainingFlow": "Intro → ① complex structures support biodiversity → ② coral-algae symbiosis is fundamental → ③ zooxanthellae provide energy via photosynthesis → ⑤ rising temperatures cause bleaching and reef death. Logically coherent without ④.",
+        "subtletyCheck": "④ uses marine science vocabulary ('marine biologists,' 'fish,' 'ocean') that fits the marine domain, but the actual content about open-ocean fish tracking technology is unrelated to the coral reef ecosystem discussion.",
+        "difficultyLevel": "medium"
+      }
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "The development of writing systems was not a single invention but a process that occurred independently in several different civilizations. In Mesopotamia, early forms of writing emerged around 3400 BCE as a practical tool for recording economic transactions. ① Over time, these simple pictographic marks evolved into the more abstract cuneiform script, which could represent not only objects but also sounds and grammatical relationships. ② This shift from pictographic to phonetic representation was a crucial breakthrough, as it allowed writers to express any idea that could be spoken. ③ Ancient Mesopotamian societies maintained rigid hierarchies in which priestly classes wielded considerable political influence over agricultural policy. ④ Similar transitions from pictures to phonetic signs occurred independently in Egypt and China, suggesting that there is something universal about the trajectory of writing development. ⑤ In each case, the demands of an increasingly complex society drove the evolution of writing from a simple recording tool into a versatile medium of expression.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 무관한 이유: 이 글은 문자 체계가 그림 문자에서 음성 표기 체계로 독립적으로 발전한 보편적 경로를 추적합니다. ③은 '메소포타미아 고대 사회에서 사제 계층이 농업 정책에 정치적 영향력을 행사했다'고 서술하는데, 이는 메소포타미아의 사회 계층 구조에 관한 내용으로 문자 체계 발전과는 무관합니다. '고대 메소포타미아'라는 표현이 지리·역사적으로 연결돼 보이지만 실제 주장(신정 계층의 권력과 농업 정책)은 전혀 다른 논점입니다. 나머지 흐름: ①(그림 기호 → 쐐기 문자로 발전) → ②(그림→음성 표기 전환이 결정적 돌파구) → ④(이집트·중국에서도 유사 전환 발생 → 보편성) → ⑤(복잡해지는 사회의 요구가 문자 진화를 이끌었다는 결론) — ③ 없이도 완결됩니다.",
+        "wrong": {
+          "1": "① 단순한 그림 기호가 소리와 문법 관계까지 표현할 수 있는 쐐기 문자로 발전했음을 설명하며 글의 발전 경로를 구체화합니다.",
+          "2": "② 그림에서 음성 표기로의 전환이 어떤 생각이든 표현 가능하게 된 결정적 돌파구였다고 그 의의를 강조합니다.",
+          "4": "④ 이집트와 중국에서도 유사한 전환이 독립적으로 일어났음을 지적하며 문자 발전 경로의 보편성을 시사합니다.",
+          "5": "⑤ 복잡해지는 사회의 요구가 문자를 단순 기록 도구에서 다목적 표현 매체로 발전시켰다는 종합적 결론입니다."
+        },
+        "key_point": "'고대 메소포타미아'라는 지리·역사적 표현이 앞뒤 문맥과 겹쳐 관련 있어 보이지만, ③의 실제 주장(사제 계층의 농업 정책 영향력)은 '문자 체계 발전'이라는 글의 핵심 논지와 전혀 다른 논점입니다."
+      },
+      "self_check": {
+        "mainTopic": "The independent and parallel evolution of writing systems from pictographic to phonetic representation",
+        "irrelevantSentence": "③ discusses the social hierarchy and political influence of priestly classes over agriculture in Mesopotamia, which is about Mesopotamian society but not about the development of writing systems.",
+        "remainingFlow": "Intro → ① pictographic marks evolved into cuneiform → ② shift to phonetic representation was a breakthrough → ④ similar transitions in Egypt and China suggest universality → ⑤ complex societies drove writing's evolution. Coherent without ③.",
+        "subtletyCheck": "③ mentions 'Ancient Mesopotamian societies,' which directly connects to the passage's geographic and historical setting, making it seem relevant. However, its content about priestly hierarchies and agricultural policy is entirely tangential to writing system development.",
+        "difficultyLevel": "medium-high"
+      }
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "Sleep is not a uniform state but rather a cyclical process composed of distinct stages, each serving different biological functions. During deep slow-wave sleep, the body repairs tissues, strengthens the immune system, and consolidates declarative memories such as facts and events. ① REM sleep, by contrast, is associated with emotional regulation and the integration of newly learned skills into existing neural networks. ② Disruptions to the natural sleep cycle — whether from shift work, jet lag, or screen exposure before bed — can impair both cognitive performance and physical health. ③ The pharmaceutical industry has invested heavily in developing sleep aids, generating billions of dollars in annual revenue worldwide. ④ Studies show that even a single night of poor sleep can reduce attention span, slow reaction times, and weaken the body's inflammatory response. ⑤ For these reasons, sleep researchers increasingly argue that consistent, high-quality sleep should be treated as a fundamental pillar of preventive medicine.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 무관한 이유: 이 글은 수면의 생물학적 단계와 기능, 수면 교란의 건강 영향을 설명하며 수면을 예방 의학의 핵심 요소로 봐야 한다는 주장을 전개합니다. ③은 '제약 업계가 수면 보조제 개발에 막대한 투자를 해 연간 수십억 달러의 매출을 올린다'고 서술하는데, 수면이라는 소재와 연결되지만 실제 주장은 수면 생물학의 기능이나 건강 효과가 아닌 제약 산업의 경제적 규모에 관한 것입니다. 나머지 흐름: ①(렘 수면 — 정서 조절 및 기술 통합) → ②(교대 근무·시차·스크린 등으로 수면 주기 교란 → 인지·신체 손상) → ④(단 하루 밤의 수면 부족으로도 주의력·반응속도·염증 반응 저하) → ⑤(양질의 수면을 예방 의학의 기본 축으로 다뤄야 한다는 결론) — ③ 없이도 완결됩니다.",
+        "wrong": {
+          "1": "① 렘 수면이 정서 조절과 새로 습득한 기술의 신경망 통합과 연관된다고 서파 수면과 대비해 설명합니다.",
+          "2": "② 교대 근무·시차·스크린 노출 등으로 수면 주기가 교란되면 인지 기능과 신체 건강 모두 손상된다는 근거를 제공합니다.",
+          "4": "④ 단 하루 밤의 수면 부족만으로도 주의 지속 시간·반응 속도·염증 반응이 저하된다는 구체적 연구 결과를 제시합니다.",
+          "5": "⑤ 앞서 제시된 모든 근거를 바탕으로 수면이 예방 의학의 근본 축이 되어야 한다는 결론을 이끌어냅니다."
+        },
+        "key_point": "'수면 보조제(sleep aids)'라는 어휘가 수면 주제와 일치해 보이지만, ③의 실제 주장(제약 산업 매출)은 수면의 생물학적 기능이나 건강 영향을 다루는 글의 핵심 논지와 무관합니다."
+      },
+      "self_check": {
+        "mainTopic": "The biological stages and functions of sleep, and consequences of sleep disruption",
+        "irrelevantSentence": "③ discusses the pharmaceutical industry's revenue from sleep aids, which is related to the sleep domain but shifts to a commercial/economic topic rather than the biological functions and health effects of sleep.",
+        "remainingFlow": "Intro → ① REM sleep handles emotional regulation and skill integration → ② disruptions impair cognition and health → ④ even one night of poor sleep has measurable negative effects → ⑤ sleep should be treated as preventive medicine. Logically coherent without ③.",
+        "subtletyCheck": "③ uses 'sleep aids' vocabulary that fits the sleep topic, but the actual claim about pharmaceutical industry revenue is an economic fact unrelated to the passage's argument about sleep's biological functions and health importance.",
+        "difficultyLevel": "medium"
+      }
+    }
+  ]
+}

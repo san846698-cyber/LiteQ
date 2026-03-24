@@ -1,0 +1,187 @@
+{
+  "type": "어휘",
+  "typeNumber": 30,
+  "totalCount": 18,
+  "questions": [
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "In centuries past, we might learn much about life from the wisdom of our elders. Today, the majority of the messages we receive about how to live a good life come not from Granny's long ① experience of the world, but from advertising executives hoping to sell us products. If we are satisfied with our lives, we will not feel a burning desire to purchase anything. But if we are unsatisfied, and any of the products we buy actually delivers the promised lasting fulfillment, subsequent sales figures may likewise ② rise. We exist in a fog of messaging designed explicitly to influence our behavior. Not surprisingly, our behavior often shifts in precisely the manner ③ intended. If you can be made to feel sufficiently inferior due to your yellowed teeth, perhaps you will rush to the pharmacy to purchase whitening strips. The ④ lack of any research whatsoever correlating tooth shade with life satisfaction is never mentioned. Having been told one hundred times a day how to be happy, we spend much of our lives buying the necessary accoutrements and feeling ⑤ disappointed not to discover life satisfaction inside the packaging.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 3,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "How do hormones trigger reactions in the body? When a hormone is released from a gland, it travels in the bloodstream through the body in search of its ① target. Organs, tissues and other glands in the body have receptor sites that hormones must bind to. But because every hormone has its own unique shape, they are designed to act only on the parts of the body that have a receptor site with the ② corresponding shape. When a hormone binds to its receptor, it sets off a chain of other signaling pathways to create a ③ change in the body. Once the desired effect has taken place and there is too much hormone circulating in the blood, this signal is fed back to the glands to ④ boost further hormone release. This is called a feedback loop and, when functioning correctly, it allows the endocrine system to ⑤ ensure the conditions in your body remain in balance.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "To the extent that an agent relies on the prior knowledge of its designer rather than on its own percepts, we say that the agent lacks autonomy. A rational agent should be autonomous — it should learn what it can to (A) [compensate / prepare] for partial or incorrect prior knowledge. As a practical matter, one seldom requires complete autonomy from the start: when the agent has had little or no experience, it would have to act (B) [purposefully / randomly] unless the designer gave some assistance. After sufficient experience of its environment, the behavior of a rational agent can become effectively (C) [independent / protective] of its prior knowledge.",
+      "question": "(A), (B), (C)의 각 네모 안에서 문맥에 맞는 낱말로 가장 적절한 것은?",
+      "choices": ["(A) compensate — (B) randomly — (C) protective", "(A) compensate — (B) purposefully — (C) protective", "(A) prepare — (B) randomly — (C) protective", "(A) compensate — (B) randomly — (C) independent", "(A) prepare — (B) purposefully — (C) independent"],
+      "answer": 4,
+      "points": 3,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "The consequences of the mechanical breakdown of food by cooking are profound. Both the stiffness and toughness of the food is drastically reduced, making mechanical processing far ①easier. The forces your teeth need to apply to break up the food are lower, and the food ②releases its cell contents far more easily. The optimal tooth shape for breaking up the food also ③changes. Rather than needing thick, flat plates that can apply large compression forces to grind up tough materials and crush hard ones, it is better to have molars with pointed ends to cut through the softer food. It loosens at much ④higher forces and breaks up far more quickly. Modern hunter-gatherers spend far less time chewing their food even than apes that eat relatively soft fruit; they chew for less than an hour a day compared with five or six hours for chimpanzees. This ⑤frees up plenty of time for other tasks, such as looking after the fire, making a permanent camp, tool-making, or further foraging.\n* molar: 어금니 ** forage: 식량을 찾아다니다",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["easier", "releases", "changes", "higher", "frees"],
+      "answer": 4,
+      "points": 3,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Why is the value of place so important? From a historical perspective, until the 1700s textile production was a hand process using the fibers available within a ① particular geographic region, for example, cotton, wool, silk, and flax. Trade among regions ② increased the availability of these fibers and associated textiles made from the fibers. The First Industrial Revolution and subsequent technological advancements in manufactured fibers ③ added to the fact that fibers and textiles were no longer \"place-bound.\" Fashion companies created and consumers could acquire textiles and products made from textiles with little or no connection to where, how, or by whom the products were made. This ④ countered a disconnect between consumers and the products they use on a daily basis, a loss of understanding and appreciation in the skills and resources necessary to create these products, and an associated disregard for the human and natural resources necessary for the products' creation. Therefore, renewing a value on place ⑤ reconnects the company and the consumer with the people, geography, and culture of a particular location.\n* textile: 직물",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Technology has historically distinguished the way music is produced. In a live jazz concert a bass player can provide the audience with a ten-minute jam session but is ①unable to do so if making a record. Time and space limits on early discs made this liberalized performance style impossible. Often, pieces would be separated into a number of discs leading to a ②lack of continuity. In addition to length, musicians had to take into account how the machinery recorded and absorbed their sound. Especially in the early days of recording, human voices as well as instruments were often distorted once recorded. To prevent such distortion, it was up to the musician to ③alter the sound to accommodate the recording technology that was just coming into existence. Jazz musicians and orchestras almost molded their works around recording parameters. Many musicians were ④resistant to the limitations and benefits of technology and created their records accordingly. The recording limitations began to filter into stage performance. Musicians were restricted to three-minute songs in the recording studio and they soon ⑤kept their songs to that length on stage too.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "While it has been found that young children rely exclusively on geometric information to determine the location of an object hidden in a small enclosure, exclusive use of geometry does not occur in larger spaces. Although, in a small room, children ① failed to incorporate information about non-geometric features (i.e., a blue wall), they used both types of information in a larger room. These findings suggest that geometric and non-geometric information may be combined in a ② weighted fashion. Geometry may be ③ invalid because it is more stable across time than is non-geometric information. Whether or not non-geometric landmark information is combined with geometry may depend on the ecological validity of non-geometric features; for example, larger features may be more stable and hence more ④ reliable. Further, a variety of mobile animals give more weight to nearer than to farther landmarks in estimation, ⑤ consistent with Weber's law in which smaller distances would be coded more accurately than larger distances.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 3,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Memory is shaped by emotions connected to an experience. For this reason, inaccuracies often ① hide the full picture of what happened. For example, a company might decide to hire a consultant to assist with a major project. During this project, the consultant demonstrated some personality traits that clashed with a couple of the executives involved. Through the course of the project, they were able to put aside the personality ② conflicts in order to see their vision become a reality. Ultimately, the project was a success, enabling the company to move forward and profit. At a later date, the company, remembering the previous success, expressed an ③ interest in hiring the same consultant for another large project. The executives who struggled with his personality last time may most vividly remember their difficulty in overcoming his personality and related emotions. In this case, the success of the project fades into the background as they focus on their previous experience, colored by their feelings of ④ discomfort. As a result, they convince the company to ⑤ rehire the consultant, making project completion more difficult.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Internalization depends on supports for autonomy. Contexts that use controlling strategies such as salient rewards and punishments or evaluative, self-esteem-hooking pressures are ① least likely to lead people to value activities as their own. This is not to say that controls don't ② work to produce behavior — decades of operant psychology prove that they can. It is rather that the more salient the external control over a person's behavior, the more the person is likely to be merely externally regulated or introjected in his or her actions. Consequently, the person does not ③ develop a value or investment in the behaviors, but instead remains dependent on external controls. Thus, parents who reward, force, or cajole their child to do homework are more likely to have a child who does so only when rewarded, cajoled, or forced. The salience of external controls ④ drives the acquisition of self-responsibility. Alternatively, parents who supply reasons, show an emotional understanding of difficulties overcoming problems, and use a ⑤ minimum of external incentives are more likely to cultivate a sense of willingness and value for work in their child.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "The outcomes of want-should conflicts are affected not only by what we think our future self will choose but also by how close we feel to our future self. Want-should conflicts fundamentally involve tradeoffs between options that satisfy the present self's desires (wants) and options that benefit the future self (shoulds). As a result, when we do not feel psychologically connected to our future self, we should be ① less interested in taking actions to benefit this self and thus shy away from should options. Indeed, an emerging stream of research suggests that people are more ② impatient the more disconnected they feel from their future self. For example, people prefer smaller-sooner rewards over larger-later rewards at a higher rate when they anticipate experiencing life-changing events (rather than events that are unlikely to change their identity and beliefs), since life-changing events induce a greater ③ disassociation between their image of their present self and their image of their future self. More generally, when people are told that their identity will change considerably over time, they are more likely to ④ abandon immediate benefits (wants) and forsake larger deferred benefits (shoulds). On the other hand, ⑤ farsighted decision making can be facilitated by making people feel closer to their future self.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "We all like to think of ourselves as rational actors, careful and considered in our thinking, capable of sound and reliable judgments. We might believe that we generally consider different points of view and make ① informed decisions. We are, in fact, \"predictably irrational,\" as psychologist Dan Ariely titled his book on the topic. All of us engage in automatic, reflexive thinking, typically taking the ② easier path and conserving mental effort. Although we each may have the subjective impression that we are careful thinkers, we often make snap judgments or no real judgments at all. In addition, numerous biases inhibit or override reflective, deliberative thought; intuitive theories can also interfere with ③ acceptance of accurate scientific explanations. Understanding more about how our minds work and how biases may operate can make us each ④ less subject to fallacious reasoning, more rational, and more aware of the problems in others' thinking. Learning to understand the built-in ⑤ rationality of our mental processes can also help us improve our ability to inform others more effectively.\n* intuitive: 직관적인 ** fallacious: 오류가 있는",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["informed", "easier", "acceptance", "less", "rationality"],
+      "answer": 5,
+      "points": 3,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Notably, young animals of many species have a special status, a leeway period granted by older members of the group. This break from the hierarchy is called \"puppy license\" by the behaviorists who see it in dogs, but it's a feature of family dynamics in a range of species. Older animals will ① overlook, or gently correct, an inappropriate display of dominance as long as the offender is young enough not to know better. Puppy license also ② covers play: older dogs seem to enjoy puppy playfulness, and may encourage young dogs by wrestling more gently, barking more softly, and sometimes letting the puppies win. As soon as that young dog hits a certain point in adolescence, however, its puppy license ③ extends. Behaviors that were lightheartedly tolerated just a few days before are now met with adult pushback. Although the dog is still young and may lack experience, it is ④ challenged and treated like an adult. In the human world and in the dog world, as juveniles mature into wildhood and their puppy licenses are no longer ⑤ valid, a tolerant world becomes irritated and intolerant.\n* leeway: 자유 ** tolerate: 용인하다 *** juvenile: 청소년",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Surely one reason that copies have lost their sense of human connection, abundance, and intimate relation is that modern technology has made copying so easy. The methods of copying available to us have never been more powerfully ① abundant. This seems true even as a sense of loss has attended our ever more powerful means to ② reproduce what we care about. Walter Benjamin has famously formulated this loss as an \"aura\": that which is ③ lost in mechanical reproduction. The aura of a work of art, he suggests, cannot be copied by mechanical technology. By around 1900, he writes, \"technical reproduction had reached a standard that not only permitted it to reproduce all transmitted works of art and thus to cause the most profound change in their impact upon the public.\" The ④ ability to copy mechanically \"substituted a plurality of copies for a unique existence,\" Benjamin argued. In addition to transforming art and the public's relation to it, Benjamin asserted that mechanical reproduction has the power to rend traditions by interfering with the authority of objects \"embedded in the fabric of tradition.\" This ⑤ devotion to tradition was twofold and concerned the presence of objects, Benjamin believed.\n* rend: 분열시키다, 찢다 ** embed: 깊이 새겨두다",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Because we are attuned to the world by being-in-a-mood, the world is disclosed to us through our moods but it also influences these moods. This is ① relevant to the claim that mood is 'scaffolded' by the environment, where an interaction with the environment is necessary for the creation of affective states. In one type of affective scaffolding, one can 'experientially ② incorporate parts of the world' in the sense that when one undergoes certain moods, one experiences certain aspects of the world as part of oneself. In this case, the way that the world appears is ③ directly dependent upon the way we are attuned to it through mood. To give an example 'when I am melancholic it is not just that I feel as though the world is grey. Rather, when I am melancholic the world is grey.' Such a state presupposes the ④ presence of a distinction between what is out there and what is in here. The boundaries between ourselves and the external world seem to disappear such that the mood one is in ⑤ determines which features of the environment will matter and in what way.\n* scaffold: (발판을) 만들다",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Gaining an audience for your writing involves not just finding a voice but ensuring that voice resonates with your intended readers. Entrepreneurs understand the importance of building a brand that makes them memorable and distinct from their competitors, drawing customers to their products or services. They achieve this by ① pinpointing their target audience, crafting a unique value proposition, and shaping a recognizable identity. While scholars might initially find these entrepreneurial concepts ② alien, they actually engage in similar practices when they set themselves apart in their academic writing. Consider the typical literature review and motivation section of a scholarly article ― the aim is to highlight ③ gaps in existing research and position oneself as the one who will address these overlooked areas. The challenge, as Labaree suggests, is not just in developing innovative ideas but in ④ cultivating a distinctive voice that makes readers think, \"Ah, this sounds like [the author].\" It's about balancing the expression of your ideas with the development of a unique voice that leaves a ⑤ temporary impression on your audience.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Although we'd never admit it, partly because we're unlikely to be aware of it, most of our purchase decisions are driven by unconscious cues. For example, car studies have found that consumers tend to purchase cars they ① emotionally relate to — ones that represent their lifestyle and personality. They then look for data to ② justify their decisions. Car specs are important, but not to inspire someone to purchase a particular car; it's vice versa: they're used to validate a car that's already been ③ chosen. Through all five senses, we're exposed to millions of bits of information and stimuli every second. Obviously we can't attend to all of it. We therefore focus ④ consciously on what's new, threatening, and especially interesting, and on problems that need to be solved. The rest — which represents 99.99 percent of the information we receive — gets sent to \"internal processing,\" formally known as our unconscious mind and colloquially known as things like gut reactions, cravings, habits, and impulses. The unconscious mind may be hidden from us, but that doesn't diminish its power. The fact that people generally — and mistakenly — believe that they make decisions logically and consciously only ⑤ decreases its influence.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "What is soft-path river engineering? One way to visualize its spirit is to liken it to a footpath in the forest. Suppose a tree falls across a footpath. A soft-path response would be simply to redirect the trail around the fallen tree. A more interventionist response would be to ① remove the tree and restore the original route. A still more interventionist response might be to straighten and pave the path to insert it more ② permanently in the landscape. The true high-modernist step would, of course, be to ③ create a superhighway that removes the landscape and bulldozes straight through all obstacles in the topography. Soft-path engineering has the unique advantage of intellectual ④ modesty with respect to what we actually know about river movement and its environmental effects. In contrast to hard-path engineering, soft-path engineering accepts variability in the river's movement as ⑤ insignificant until proven otherwise. Backwaters, short-lived wetlands, braids and channels, swamps ― all undesirable to hard-path engineering ― are presumed by soft-path engineers to be ecologically important.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Information is an important ingredient for good decision-making. And so, a variety of guardrails ①exist that shape what information is available. For instance, in the United States, corporate disclosure laws ②limit what a company's executives can share publicly and when. Share too much information and you risk being fined. In other contexts, the reverse is true, and one is ③forbidden to make public certain information. Pharmaceutical companies need to disclose possible side effects for the drugs they manufacture and the food industry needs to put nutritional labels on most of their products. Sometimes, such a l'obligation d'information, as the French call it poetically, may apply to a company's clients. Insurance policies are an example. The insured is typically under a duty to ④disclose material facts that affect the risk to the insurer. In a similar way, the state itself makes available a wide variety of information to help individuals make better decisions. Laws are made ⑤public so that citizens can obey them, at least in democratic states. Public registers, such as for corporations or land-ownership, help people decide whether to engage in a business transaction.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    }
+  ]
+}

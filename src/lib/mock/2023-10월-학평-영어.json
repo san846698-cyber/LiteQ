@@ -1,0 +1,381 @@
+{
+  "exam": "2023학년도 10월 고3 학력평가",
+  "subject": "영어",
+  "source": "전국연합학력평가",
+  "questions": [
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "We hope this notice finds you in good health and high spirits. We are writing to inform you that a package was delivered to the Rosehill Apartment Complex on October 9th, specifically addressed to your home. However, despite multiple attempts to deliver the package to you, it has remained unclaimed at our front desk for an extended period. As the management office, it is our responsibility to ensure the safekeeping of all delivered items and help deliver them quickly to the right residents. Therefore, we kindly request that you visit the management office during our office hours to claim your package. We genuinely appreciate your cooperation in this matter.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "관리 사무실 공사 일정을 알리려고",
+        "배달된 물품을 찾아갈 것을 요청하려고",
+        "잘못 찾아간 물품의 반납을 부탁하려고",
+        "배달 물품의 도난 방지 조치를 설명하려고",
+        "관리 사무실 운영 시간 변경을 공지하려고"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "I hurried to the bus terminal to return home for Christmas. As soon as I arrived at the terminal, I saw my bus pulling away. I called out and ran after the bus, but it was too late. I felt a wave of disappointment wash over me as I realized that I would have to wait three hours for the next bus. I must have been visibly upset because a woman came over, took my arm, and led me to the street. She called a taxi and gave the driver a five-dollar bill. She told him to take me to the ferry terminal, because the bus made a stop there before heading out onto the highway. She also wished me a Merry Christmas, and all I could do was smile. I couldn't believe what she had done for me, a complete stranger!",
+      "question": "다음 글에 드러난 'I'의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "frustrated → touched",
+        "jealous → proud",
+        "thrilled → doubtful",
+        "calm → regretful",
+        "indifferent → sympathetic"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "The chemists Hans Ebel, Claus Bliefert, and William Russey note: \"It goes without saying that scientists need to be skillful readers. Extensive reading is the principal key to expanding one's knowledge and keeping up with developments in a discipline. However, what is often overlooked here is that scientists are also obliged to be skillful writers. Only the researcher who is competent in the art of written communication can play an active and effective role in contributing to science.\" From the perspective of readability, moreover, scientists should always write with a reader-centered mentality; even in the act of writing they must be mindful of the act of reading. It would be beneficial for them to understand how readers read in order to improve their writing.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "과학자는 독자와 만나는 기회를 자주 가져야 한다.",
+        "과학자는 독자의 관점에서 글을 쓸 줄 알아야 한다.",
+        "과학자는 다양한 의견에 개방적인 태도를 가져야 한다.",
+        "과학자는 자기 연구 분야 이외의 책도 많이 읽어야 한다.",
+        "과학자는 연구 결과가 사회에 미치는 영향을 인식해야 한다."
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 21,
+      "type": "함축 의미",
+      "passage": "Physicians and other natural scientists test their theories using controlled experiments. Macroeconomists, however, have no laboratories and little ability to run economy-wide experiments of any kind. Granted, they can study different economies around the world, but each economy is unique, so comparisons are tricky. Controlled experiments also provide the natural sciences with something seldom available to economists — the chance, or serendipitous, discovery (such as penicillin). Macroeconomists studying the U.S. economy have only one patient, so they can't introduce particular policies in a variety of alternative settings. You can't squeeze economies into a test tube. Cries of \"Eureka!\" are seldom heard from macroeconomists. An economy consisting of hundreds of millions of individual actors is a complicated thing. As Nobel Prize-winning physicist Murray Gell-Mann once observed, \"Think how hard physics would be if particles could think.\"",
+      "question": "밑줄 친 squeeze economies into a test tube가 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "choices": [
+        "admit economists' contributions to the natural sciences",
+        "conduct controlled experiments on the economy",
+        "employ complex economic theories",
+        "share test results with other scientists",
+        "collect economic data over a long period of time"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Imagine a movie where nothing but terrible things happen. But, in the end, everything works out. Everything is resolved. A sufficiently happy ending can change the meaning of all the previous events. They can all be viewed as worthwhile, given that ending. Now imagine another movie. A lot of things are happening. They're all exciting and interesting. But there are a lot of them. Ninety minutes in, you start to worry. \"This is a great movie,\" you think, \"but there are a lot of things going on. I sure hope the filmmaker can pull it all together.\" But that doesn't happen. Instead, the story ends, suddenly, unresolved, or something facile and clichéd occurs. You leave deeply annoyed and unsatisfied — failing to notice that you were fully engaged and enjoying the movie almost the whole time you were in the theatre. The present can change the past, and the future can change the present.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "결말에 따라 이전 상황에 대한 인식이 달라진다.",
+        "익숙하지 않은 이야기는 대중의 사랑을 받기 어렵다.",
+        "흥행에 성공한 영화가 항상 작품성이 뛰어난 것은 아니다.",
+        "상황에 대한 집단의 평가는 개인의 평가에 영향을 끼친다.",
+        "같은 영화를 반복적으로 보는 것이 영화에 대한 이해를 높인다."
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Just as today some jobs are better than others, so would they have been in early societies with their blossoming towns and eventually cities, with some roles more dangerous and some having more plentiful access to food or other resources. The archeological record shows that soon after the appearance of towns, agriculture, and surpluses, some burials start to look different from others. Some individuals are buried with more precious goods (metals, weapons, and maybe even art), some are in group graves and some by themselves, and still others don't even seem to be buried at all. The bones from the burials start to show us differences as well — chemical and isotope analyses of teeth and long bones reveal that some members of groups were getting more protein or minerals than others; some have more evidence of diseases and greater physical injuries from their labors. Early on these differences are small, but by 5,000 to 7,000 years ago they are becoming quite pronounced.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "the evidence of social inequality found in ancient burials",
+        "scientific efforts to preserve ancient remains",
+        "attempts to overcome inequality in history",
+        "cultural differences in the concept of better jobs",
+        "ancient agricultural methods passed down to the present"
+      ],
+      "answer": 1,
+      "points": 3
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "When you break up with a partner or close friend, the natural response (after having a good cry, obviously) is to blame yourself. You wonder what you did wrong and what you might have done differently. Bonds can help us reach a more balanced perspective; there are some bonds that were simply never meant to last, even if they played an essential role in your evolution to this point. Perhaps the most valuable thing is to know that seeing bonds break doesn't have to break us. In chemistry, by definition, a change in the atomic bonding is not just the end of one state, but the beginning of another: creating the space for new bonding potential. The same is true for us as humans. It might take a cup of warm milk to reset us and give us comfort after a relationship has broken down. But however many bonds we see come apart, we will always retain one of our most human abilities: to connect afresh, find new friends and love again.",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": [
+        "Relationships: The Older, The Better",
+        "A Break in a Bond: A New Beginning",
+        "Shared Experiences Make Strong Bonds",
+        "A Friend in Need, A Friend Indeed",
+        "Two Heads Are Better Than One"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 25,
+      "type": "도표",
+      "passage": "The above graph shows the nap length and the number of nap days per year by age group. ① As people get older, the nap length consistently decreases, but that is not the case with the number of nap days per year. ② The 18 to 24 age group, which has the longest nap length, naps over 30 minutes longer than the 55 and older age group, which has the shortest nap length. ③ As for the number of nap days per year, the 55 and older age group has the most days, 135.7 days, whereas the 25 to 34 age group has the fewest days, 84.8 days. ④ The 35 to 44 age group is ranked third in the nap length, and second in the number of nap days per year. ⑤ The nap length and the number of nap days per year of the 45 to 54 age group are lower than those of the 35 to 44 age group.",
+      "question": "다음 도표의 내용과 일치하지 않는 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 26,
+      "type": "내용 일치/불일치",
+      "passage": "Ann Bancroft was born in Minnesota, U.S. Bancroft grew up in rural Minnesota in what she described as a family of risk takers. Although she struggled with a learning disability, she graduated from St. Paul Academy and became a physical education teacher. Bancroft resigned her teaching position in 1986 in order to participate in the Will Steger International Polar Expedition. The group departed from Ellesmere Island on March 6, and after 56 days, she and five other team members arrived at the North Pole by dogsled. She thus became the first woman to reach the North Pole by sled and on foot. In November 1992, she led three other women on the American Women's Expedition to Antarctica. It took them 67 days to reach the South Pole on skis and Bancroft became the first woman to have stood at both poles.",
+      "question": "Ann Bancroft에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "choices": [
+        "Minnesota의 시골에서 자랐다.",
+        "St. Paul Academy를 졸업하고 체육 교사가 되었다.",
+        "1986년에 교직을 그만두었다.",
+        "Ellesmere섬에서 출발한 지 56일 후에 북극에 도달했다.",
+        "세 명의 남자 대원과 남극까지 스키를 타고 갔다."
+      ],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "2023 Greenfield City Run\nAre you eager for the race that can awaken the running spirit within you? Maybe the Greenfield City Run is best for you.\n∙ When: Sunday, November 5\n  - Assembly time is 9:00 a.m.\n  - Start time is 9:30 a.m.\n∙ Where: Riverside Park\n∙ Races: 2km, 5km, 10km (The 2km race is only for kids.)\n∙ Registration\n  - Registration starts on October 16.\n  - The registration fees depend on the date you sign up.\n    $30: October 16 - November 4 / $40: November 5\n  - Register online at www.finishrace.com.\n∙ Activities\n  - Coffee and Cookie Fair & Outdoor Charity Bazaar\nFor more information, call (516) 703-1737.",
+      "question": "2023 Greenfield City Run에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": [
+        "집합 시간은 오전 9시이다.",
+        "2km 종목은 아이들만 참가할 수 있다.",
+        "등록은 10월 16일부터 시작된다.",
+        "날짜와 상관없이 등록비는 동일하다.",
+        "야외 자선 바자회가 있다."
+      ],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "Bluehill Apple Picking\nTake home a bag full of apples fresh from the orchard. This year, unfortunately, apple pie eating contests will not be held due to time constraints.\n∙ Date: Saturday, October 21, 2023\n∙ Time\n  - Departure: 8:15 a.m. for pre-trip meeting\n    Buses leave at 8:30 a.m. SHARP!\n  - Return: Approximately 7:00 p.m.\n∙ Price: $20 per person\n  (transportation included, meals not included)\n∙ Pre-registration is required at www.blueapple.com.\n  - 12 years and under must be accompanied by adults.",
+      "question": "Bluehill Apple Picking에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": [
+        "애플파이 먹기 대회가 열릴 예정이다.",
+        "버스는 오전 8시 15분에 출발한다.",
+        "참가비에 식사가 포함되어 있다.",
+        "사전 등록은 필요 없다.",
+        "12세 이하는 성인이 동반해야 한다."
+      ],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "Dr. Joseph Bell was a professor of medicine at the University of Edinburgh. His students were amazed by his astonishing powers of observation. He seemed able to determine what patients did for a living, or what illness ①they might have, simply by glancing in their direction. One time he concluded that a patient ②had walked across a golf course on the way to the doctor, simply by looking at his shoes. One of Bell's students was particularly impressed with his teacher's abilities. He filled up notebooks with examples of ③what he called Bell's \"eerie trick of spotting details.\" The student eventually went into practice himself outside London. When business was slow he filled his spare moments by writing stories. He took Dr. Bell's powers of perception, and gave them to a character of his own making — a character who made the young doctor, Arthur Conan Doyle, ④famous around the world. And so the professor who made even the most complex diagnosis seem \"elementary\" ⑤becoming the inspiration for fiction's greatest detective, Sherlock Holmes.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Technology has historically distinguished the way music is produced. In a live jazz concert a bass player can provide the audience with a ten-minute jam session but is ①unable to do so if making a record. Time and space limits on early discs made this liberalized performance style impossible. Often, pieces would be separated into a number of discs leading to a ②lack of continuity. In addition to length, musicians had to take into account how the machinery recorded and absorbed their sound. Especially in the early days of recording, human voices as well as instruments were often distorted once recorded. To prevent such distortion, it was up to the musician to ③alter the sound to accommodate the recording technology that was just coming into existence. Jazz musicians and orchestras almost molded their works around recording parameters. Many musicians were ④resistant to the limitations and benefits of technology and created their records accordingly. The recording limitations began to filter into stage performance. Musicians were restricted to three-minute songs in the recording studio and they soon ⑤kept their songs to that length on stage too.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "There's reason to worry that an eyes-on-the-prize mentality could be a mistake. Lots of research shows that we tend to be overconfident about how easy it is to be self-disciplined. This is why so many of us optimistically buy expensive gym memberships when paying per-visit fees would be cheaper, register for online classes we'll never complete, and purchase family-size chips on discount to trim our monthly snack budget, only to consume every last crumb in a single sitting. We think \"future me\" will be able to make good choices, but too often \"present me\" gives in to temptation. People have a remarkable ability to ______ their own failures. Even when we flounder again and again, many of us manage to maintain a rosy optimism about our ability to do better next time rather than learning from our past mistakes. We cling to fresh starts and other reasons to stay upbeat, which may help us get out of bed in the morning but can prevent us from approaching change in the smartest possible way.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "criticize",
+        "remind",
+        "ignore",
+        "detect",
+        "overestimate"
+      ],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "The way we perceive the colors of the rainbow, and the universe in general, is influenced by the words we use to describe them. This is not limited to visual perception but also applies to smell, taste, touch, our perception of time and countless other human experiences. A wine or Scotch connoisseur, for example, has a much richer vocabulary at their disposal to describe the fullness, finish, flavors and aroma of the drink, which in turn improves their ability to recognize and remember subtle differences of which a non-expert may be unaware. Similarly, a chef or perfumer has at their disposal labels for flavors and smells that allow them to perceive, differentiate among, prepare and remember subtle variations. The labels that we have at our disposal influence how we see the world around us. Regardless of where you place the limits of linguistic effects on cognition, there is evidence that at least some of the things that we perceive and remember differ depending on ______.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "where we purchase them",
+        "how expensive they are",
+        "what labels we use",
+        "how persuasive ads are",
+        "who makes the products"
+      ],
+      "answer": 3,
+      "points": 3
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "A connection with ancestors, especially remote ones, is useful for getting a wide-angled, philosophical view of life. Whereas our immediate ancestors are notably skilled at helping us with the \"little pictures,\" namely the particular, the trees — say, a problem with a boss — our remote ones are best for seeing the \"Big Picture,\" namely the general, the forest — say, the meaning of our job. As modern people rush around blowing small problems out of proportion, thus contributing to a global anxiety epidemic, ancestral spirits have a broader perspective that can ______. When it comes to a trivial problem, for example, they'll just tell us, \"This too will pass.\" They appreciate how rapidly and often things change. According to American anthropologist Richard Katz, for instance, Fijians say that from the ancestral viewpoint whatever looks unfortunate may turn out to be fortunate after all: \"What may seem to be a horrible outcome ... is seen in another light by the ancestors.\" The ancestors, it might be said, keep their heads when everyone around them is losing theirs.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "calm the disquieted soul",
+        "boost cooperation in the community",
+        "make us stick to the specific details",
+        "result in a waste of time",
+        "complicate situations"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "One of the criticisms of Stoicism by modern translators and teachers is the amount of repetition. Marcus Aurelius, for example, has been dismissed by academics as not being original because his writing resembles that of other, earlier Stoics. This criticism misses the point. Even before Marcus's time, Seneca was well aware that there was a lot of borrowing and overlap among the philosophers. That's because real philosophers weren't concerned with authorship, but only what worked. More important, they believed that what was said mattered less than what was done. And this is true now as it was then. You're welcome to take all of the words of the great philosophers and use them to your own liking (they're dead; they don't mind). Feel free to make adjustments and improvements as you like. Adapt them to the real conditions of the real world. The way to prove that you truly understand what you speak and write, that you truly are original, is to ______.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "put them into practice",
+        "keep your writings to yourself",
+        "combine oral and written traditions",
+        "compare philosophical theories",
+        "avoid borrowing them"
+      ],
+      "answer": 1,
+      "points": 3
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "Several common themes were found in the highly creative individuals regarding their early experiences and education. In early childhood their families accorded them a great deal of respect and allowed them to explore on their own and develop a strong sense of personal autonomy. ① There was also a lack of extreme emotional closeness with parents. ② There was little evidence of intensely negative experiences; for example there was, relative to the times in which they lived, very little physical punishment for transgressions. ③ Nor, on the positive side, was there evidence of extremely intense bonds of the sort that can smother independence. ④ There was more competition among brothers and sisters for parental love in nuclear families than in extended families. ⑤ On balance, for those who would grow up to be highly creative, relationships with parents were relatively easy and, in later life, pleasant and friendly rather than intensely intimate.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Shakespeare wrote, \"What's in a name? That which we call a rose by any other name would smell as sweet.\"\n\n(A) Take the word bridge. In German, bridge (die brücke) is a feminine noun; in Spanish, bridge (el puente) is a masculine noun. Boroditsky found that when asked to describe a bridge, native German speakers used words like beautiful, elegant, slender. When native Spanish speakers were asked the same question, they used words like strong, sturdy, towering.\n\n(B) According to Stanford University psychology professor Lera Boroditsky, that's not necessarily so. Focusing on the grammatical gender differences between German and Spanish, Boroditsky's work indicates that the gender our language assigns to a given noun influences us to subconsciously give that noun characteristics of the grammatical gender.\n\n(C) This worked the other way around as well. The word key is masculine in German and feminine in Spanish. When asked to describe a key, native German speakers used words like jagged, heavy, hard, metal. Spanish speakers used words like intricate, golden, lovely.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": [
+        "(A)-(C)-(B)",
+        "(B)-(A)-(C)",
+        "(B)-(C)-(A)",
+        "(C)-(A)-(B)",
+        "(C)-(B)-(A)"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Our perception always involves some imagination. It is more similar to painting than to photography. And, according to the confirmation effect, we blindly trust the reality we construct.\n\n(A) You will see that the majority of us are quite ignorant about what lies around us. This is not so puzzling. The most extraordinary fact is that we completely disregard this ignorance.\n\n(B) This is best witnessed in visual illusions, which we perceive with full confidence, as if there were no doubt that we are portraying reality faithfully. One interesting way of discovering this — in a simple game that can be played at any moment — is the following.\n\n(C) Whenever you are with another person, ask him or her to close their eyes, and start asking questions about what is nearby — not very particular details but the most striking elements of the scene. What is the color of the wall? Is there a table in the room? Does that man have a beard?",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": [
+        "(A)-(C)-(B)",
+        "(B)-(A)-(C)",
+        "(B)-(C)-(A)",
+        "(C)-(A)-(B)",
+        "(C)-(B)-(A)"
+      ],
+      "answer": 3,
+      "points": 3
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "But when students were given \"worked-examples\" (such as pre-solved problems) placed between problems to solve, studying the worked-examples freed up cognitive resources that allowed students to see the key features of the problem and to analyze the steps and reasons behind problem-solving moves.",
+      "passage": "How can we help students manage cognitive load as they learn to perform complex tasks? One method that has proved effective in research studies is to support some aspects of a complex task while students perform the entire task. ( ① ) For example, Swelter and Cooper demonstrated this with students learning to solve problems in a variety of quantitative fields from statistics to physics. ( ② ) They found that when students were given typical word problems, it was possible for them to solve the problems without actually learning much. ( ③ ) This is because the problems themselves were sufficiently demanding that students had no cognitive resources available to learn from what they did. ( ④ ) The researchers found this improved students' performance on subsequent problem solving. ( ⑤ ) This result, called the worked-example effect, is one example of a process called scaffolding, by which instructors temporarily relieve some of the cognitive load so that students can focus on particular dimensions of learning.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3
+    },
+    {
+      "number": 39,
+      "type": "문장 삽입",
+      "insertSentence": "In contrast, the other major advocate of utilitarianism, John Stuart Mill, argued for a more qualitative approach, assuming that there can be different subjective levels of pleasure.",
+      "passage": "Utilitarian ethics argues that all action should be directed toward achieving the greatest total amount of happiness for the largest number of people. ( ① ) Utilitarian ethics assumes that all actions can be evaluated in terms of their moral worth, and so the desirability of an action is determined by its resulting hedonistic consequences. ( ② ) This is a consequentialist creed, assuming that the moral value and desirability of an action can be determined from its likely outcomes. ( ③ ) Jeremy Bentham suggested that the value of hedonistic outcomes can be quantitatively assessed, so that the value of consequent pleasure can be derived by multiplying its intensity and its duration. ( ④ ) Higher-quality pleasures are more desirable than lower-quality pleasures. ( ⑤ ) Less sophisticated creatures (like pigs!) have an easier access to the simpler pleasures, but more sophisticated creatures like humans have the capacity to access higher pleasures and should be motivated to seek those.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "Music has no past; it exists only at the moment when it happens, and no two performances are identical. This is music's greatest asset because it brings out the essential 'now' without implications of a past and a potential future. Thus, Stravinsky pointed out that only through music are we able to 'realize the present.' Musical 'meaning' cannot be separated from the act of presentation. However, the necessity of presenting music — making it present here and now, without which it will not be music at all — does not sit easily with a concept of education that rests mainly upon received factual knowledge and which, by tradition, uses the past to make sense of the present. If we want music to have a role in general education, it would seem logical to acknowledge this difference and give prominence to activities that will involve all pupils working directly with music. Yet, in spite of numerous attempts to develop a more musical music curriculum for the majority of school pupils, the emphasis is still on pupils absorbing factual information about music.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nMusic's quality of being in the present is (A) in formal music education, where delivering factual knowledge is (B).",
+      "choices": [
+        "(A) overlooked — (B) prioritized",
+        "(A) overlooked — (B) restricted",
+        "(A) dismissed — (B) disregarded",
+        "(A) achieved — (B) treasured",
+        "(A) achieved — (B) challenged"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 41,
+      "type": "장문 - 제목",
+      "passage": "The domination of nature is a familiar trope in environmental ethics and environmental political theory. Its history is tied more broadly to the rise of modern science, philosophy, and politics. The effort to understand the causal relations that govern the physical world so as to intervene in these relations in ways that could, as Francis Bacon put it, \"ameliorate the human condition,\" marked the beginning of modernity in the West. For a long time, the \"domination of nature\" referred to this effort to understand and (a)control the non-human environment, and it was seen as a clearly good thing. This effort made (b)possible new technologies and rising economic prosperity, promised an end to many forms of human suffering, and demonstrated the triumph of reason over ignorance and superstition. Its costs began to be (c)invisible with industrialization in the nineteenth century, which generated obvious environmental damage and caused among many people a sense of alienation from the land and the more-than-human communities composing it. One sees a growing (d)unease about these costs in novels of the era such as Mary Shelley's Frankenstein (1818), in poems like Wordsworth's \"Michael\" (1800) and later Whitman's Leaves of Grass (1855), and in the early nature writing of Thoreau's Walden (1854). Yet systematic, critical analysis of the domination of nature as a problem came into its own only with the environmental studies movement in the 1970s. Since then, the trope has come to have a broadly (e)negative meaning, with the domination of nature being viewed as harmful and illegitimate, as well as dangerous to human interests.",
+      "question": "윗글의 제목으로 가장 적절한 것은?",
+      "choices": [
+        "Changing Perspectives on the Domination of Nature",
+        "Science Starts from a Desire for Knowledge",
+        "Ethics Is Central to Every Discipline",
+        "Nature in Literature Is Not Real",
+        "Is Going Green Really Green?"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 42,
+      "type": "장문 - 어휘",
+      "passage": "(41번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nIn a peaceful town surrounded by rolling hills, there lived a kind-hearted young woman named Emily. She had a strong desire to make a difference in the world, yet often felt that her efforts were insignificant. One day, Emily crossed paths with Martha, an elderly lady known for (a)her sour mood and tendency to keep to herself. Curiosity sparked within Emily, prompting her to initiate a conversation with Martha.\n\n(B)\nThe event showcased the great works of many local artists, with a special surprise awaiting Martha. Emily had carefully prepared a section dedicated to Martha's paintings, hoping to unveil it to her and the community. The day of the exhibition arrived, and the townspeople eagerly gathered, excited to witness the artistic wonders of their community. Emily anxiously awaited Martha's arrival, wondering how Martha would react to the surprise (b)she had planned. Martha finally entered the exhibition hall, and her eyes filled with tears as she stood in front of her own artworks.\n\n(C)\nMartha slowly made her way through the section dedicated to (c)her paintings, examining each piece with a mix of nostalgia and longing. The crowd watched in silence, their hearts touched by Martha's emotional response. As Martha reached the last painting, she turned to Emily with a bright smile, tears still shining in her eyes. \"Emily, you've given me back a part of myself that I thought was lost forever,\" Martha whispered, (d)her voice shaking with gratitude. \"I had forgotten the joy that art once brought me, but you've reminded me of its power.\"\n\n(D)\nDespite Martha's initial resistance, Emily persistently reached out to her, sharing stories and expressing genuine interest in (e)her life. Through their conversations, Emily discovered that Martha had once been a famous painter. However, she had lost her passion for art due to personal hardships. Deeply moved by her sorrow, Emily resolved to help revive Martha's creative spirit. So, she organized an art exhibition in the town's community center.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": [
+        "(B)-(D)-(C)",
+        "(C)-(B)-(D)",
+        "(C)-(D)-(B)",
+        "(D)-(B)-(C)",
+        "(D)-(C)-(B)"
+      ],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": [
+        "Emily는 호기심이 생겨 Martha와 대화를 시작하게 되었다.",
+        "미술 전시회에서는 Martha의 작품만 전시했다.",
+        "마을 사람들은 Martha의 반응을 보고 마음이 뭉클했다.",
+        "Martha는 마지막 그림에 이르러 Emily를 향해 미소를 지었다.",
+        "Martha는 개인적인 역경 때문에 미술에 대한 열정을 잃었다."
+      ],
+      "answer": 2,
+      "points": 2
+    }
+  ]
+}

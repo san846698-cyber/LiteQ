@@ -1,0 +1,812 @@
+{
+  "type": "글의 목적",
+  "typeNumber": 18,
+  "model": "sonnet",
+  "version": "v2",
+  "totalGenerated": 25,
+  "pass": 25,
+  "warn": 0,
+  "fail": 0,
+  "questions": [
+    {
+      "id": "v2-18-01",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "easy",
+      "passage": "Dear Mr. Holloway,\nMy name is Grace Simmons, and I am the branch manager at Riverside Public Library. I am writing to remind you that you currently have two borrowed items — Foundations of Digital Photography and a DVD titled Life in the Tropics — that are now overdue. These items were due to be returned by October 5th, and we have not yet received them. Our library charges a late fee of $0.25 per day per item, and these fees have been accumulating on your account. We kindly request that you return the borrowed items as soon as possible to avoid further charges. If you are unable to visit in person, you may also use our 24-hour drop-off box located at the library entrance. Should you have any questions, please contact us at 555-0133. We appreciate your continued support of our library.\nSincerely,\nGrace Simmons",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "연체된 도서 및 DVD 반납을 요청하려고",
+        "도서관 연체료 납부 방법을 안내하려고",
+        "신규 대출 서비스 이용 절차를 설명하려고",
+        "24시간 반납함 설치 계획을 공지하려고",
+        "도서관 회원 등록을 권유하려고"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I am writing to remind you that you currently have two borrowed items... that are now overdue.'라고 쓰는 이유를 밝히며, 'We kindly request that you return the borrowed items as soon as possible'라고 반납을 직접 요청하고 있다. 연체 중인 도서와 DVD를 빨리 반납해 달라는 것이 핵심 목적이다.",
+        "wrong": {
+          "2": "② 연체료($0.25/일)가 언급되지만, 이는 반납을 촉구하는 근거로 제시된 것이지 연체료 납부 방법을 안내하려는 것이 아니다.",
+          "3": "③ 신규 대출 서비스와 관련된 내용은 지문 어디에도 없다.",
+          "4": "④ 24시간 반납함이 언급되지만, 이는 방문이 어려울 경우를 위한 대안을 안내하는 것이지 새로운 반납함 설치를 공지하는 것이 아니다.",
+          "5": "⑤ 도서관 맥락에서 회원 등록을 연상할 수 있지만, 지문에는 회원 가입 권유 내용이 전혀 없다."
+        },
+        "key_point": "배경 정보(연체료 안내, 반납함 위치)에 혼동되지 말고, 필자가 독자에게 직접 요구하는 행동('return the borrowed items')이 글의 목적임을 파악해야 한다."
+      },
+      "self_check": {
+        "reasoning": "The writer explicitly states 'I am writing to remind you' about overdue items and says 'We kindly request that you return the borrowed items as soon as possible.' The primary purpose is to request the return of overdue library materials. Choice 2 uses 'late fee' from the passage but misidentifies the purpose as explaining how to pay fees. Choice 3 is unrelated to the passage. Choice 4 distorts the mention of the 24-hour drop-off box (mentioned as an option, not a new announcement). Choice 5 uses 'library' context but invents a membership purpose.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-02",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "easy",
+      "passage": "Dear Volunteers,\nThank you for your ongoing dedication to the Clearwater Animal Shelter. We truly appreciate the time and energy each of you gives to our animals. I am writing to let you know that our regular weekend cleaning shift has been rescheduled. Due to scheduled renovations to the main kennel area, the Saturday morning session previously set for November 9th will now take place on Sunday, November 10th, from 9:00 a.m. to 12:00 p.m. All tasks will remain the same — feeding, cleaning enclosures, and socializing the animals. If this new time does not work for you, please notify us by November 6th so that we can arrange a replacement volunteer. We apologize for the inconvenience and thank you for your flexibility.\nWarm regards,\nSophia Grant\nVolunteer Coordinator",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "동물 보호소 자원봉사자 모집 방법을 안내하려고",
+        "자원봉사 청소 일정의 변경을 알리려고",
+        "케넬 구역 리모델링 공사 계획을 설명하려고",
+        "자원봉사자 교육 프로그램 참가를 독려하려고",
+        "보호소 동물의 입양 절차를 홍보하려고"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I am writing to let you know that our regular weekend cleaning shift has been rescheduled.'라고 직접 목적을 밝히며, 토요일 오전 일정이 일요일 오전으로 변경되었음을 구체적으로 알리고 있다.",
+        "wrong": {
+          "1": "① 'volunteer(자원봉사자)'가 반복 등장하지만, 새 자원봉사자 모집에 관한 내용이 아니라 기존 봉사자들에게 일정 변경을 알리는 글이다.",
+          "3": "③ 'renovations to the main kennel area(케넬 구역 리모델링)'가 일정 변경의 이유로 언급되지만, 리모델링 계획 자체를 설명하려는 것이 목적이 아니다.",
+          "4": "④ 자원봉사자 교육 프로그램은 지문에 전혀 언급되지 않는다.",
+          "5": "⑤ 동물 보호소 맥락이지만, 입양 절차와 관련된 내용은 없다."
+        },
+        "key_point": "변경 이유(리모델링)를 글의 목적으로 오해하지 말 것. 'I am writing to let you know that...' 이후에 오는 핵심 정보(일정 변경)가 글의 목적이다."
+      },
+      "self_check": {
+        "reasoning": "The writer states 'I am writing to let you know that our regular weekend cleaning shift has been rescheduled.' The core purpose is informing volunteers about a schedule change. Choice 1 uses 'volunteer' but fabricates a recruitment purpose. Choice 3 picks up on 'renovations to the main kennel area' (mentioned as the reason, not the purpose). Choice 4 uses 'volunteer' context but invents a training program. Choice 5 is unrelated to the passage.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-03",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "easy",
+      "passage": "Dear Residents,\nWe are pleased to inform you that Maplewood Condominium Complex will be launching a new online parking reservation system starting December 1st. Under the new system, all residents who wish to use the covered guest parking spaces must make a reservation through our community app at least 24 hours in advance. This change is designed to reduce disputes over parking availability and ensure fair access for all residents. Unregistered vehicles found in the reserved guest spaces without a confirmed booking will be subject to towing at the owner's expense. Please download the Maplewood Community App and complete your account setup before December 1st. Detailed instructions are available on the community bulletin board. Thank you for your cooperation.\nRegards,\nMaplewood Management Office",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "주차장 시설 확충 계획을 설명하려고",
+        "무단 주차 차량 견인 기준을 강화하려고",
+        "새로운 주차 예약 시스템 도입을 안내하려고",
+        "커뮤니티 앱의 기술적 오류 수정을 공지하려고",
+        "입주민 주차 규칙 위반 사례를 공유하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "첫 문장에서 'We are pleased to inform you that Maplewood Condominium Complex will be launching a new online parking reservation system starting December 1st.'라고 바로 목적을 밝히고 있다. 이후 내용은 새 시스템의 이용 방법과 주의 사항을 설명하는 것이다.",
+        "wrong": {
+          "1": "① 'parking(주차)'이 핵심 소재이지만, 주차장 시설을 새로 짓거나 확장한다는 내용이 아니라 예약 시스템 도입에 관한 내용이다.",
+          "2": "② 'towing(견인)'이 언급되지만, 이는 예약 없이 주차했을 때의 결과를 알리는 것이지 견인 기준 강화를 주된 목적으로 공지하는 것이 아니다.",
+          "4": "④ 커뮤니티 앱이 등장하지만, 기술적 오류가 아닌 새 시스템 이용을 위해 앱을 다운받으라는 안내이다.",
+          "5": "⑤ 주차 규칙 위반 사례 공유는 지문에 없는 내용이다."
+        },
+        "key_point": "글 첫 문장의 'We are pleased to inform you that...'는 공지 글에서 가장 직접적으로 목적을 드러내는 표현이다. 이 뒤에 오는 내용이 곧 글의 목적이다."
+      },
+      "self_check": {
+        "reasoning": "The opening sentence directly states the purpose: 'We are pleased to inform you that Maplewood Condominium Complex will be launching a new online parking reservation system.' The entire letter explains this new system. Choice 1 uses 'parking' but fabricates a facility expansion plan. Choice 2 picks up on 'towing' mentioned as a consequence but elevates it to the main purpose. Choice 4 mentions the community app but inverts the situation (the app is new, not buggy). Choice 5 is unrelated to the passage.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-04",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "easy",
+      "passage": "Dear Ms. Caldwell,\nI am reaching out on behalf of the Northfield Children's Hospital Foundation. Each year, our foundation hosts the Lights for Little Lives gala to raise funds for children in critical care who cannot afford treatment. This year's event will be held on the evening of February 14th at the Grand Pemberton Hotel. Proceeds from the gala support our pediatric emergency fund, which helped over 400 families last year alone. We would be truly honored to have you join us for what promises to be a memorable evening of music, dining, and heartfelt stories from families who have benefited from the fund. Tickets are priced at $150 per person and can be purchased through our foundation website. We hope to see you there and greatly value your continued generosity.\nWith gratitude,\nOliver Nash\nFoundation Events Director",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "소아과 병원 건립 기금 모금의 필요성을 설명하려고",
+        "갈라 행사의 자원봉사자 참가 신청을 받으려고",
+        "지난 갈라 행사의 기부금 사용 내역을 보고하려고",
+        "자선 갈라 행사에 참석해 줄 것을 초대하려고",
+        "재단 웹사이트의 회원 가입 방법을 안내하려고"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'We would be truly honored to have you join us'라고 초대 의사를 밝히고, 행사 날짜(2월 14일), 장소(Grand Pemberton Hotel), 티켓 가격($150)을 구체적으로 제공하여 Caldwell 씨가 갈라 행사에 참석하도록 초대하고 있다.",
+        "wrong": {
+          "1": "① 소아과 응급 기금의 필요성이 언급되지만, 이는 행사의 취지를 설명하는 배경이지 새 병원 건립 기금의 필요성을 설명하는 것이 아니다.",
+          "2": "② 행사 맥락에서 자원봉사자 모집을 연상할 수 있지만, 지문에는 자원봉사 신청 관련 내용이 없다.",
+          "3": "③ '지난해 400가족 이상을 도왔다'는 내용은 행사 참석을 권유하기 위한 배경 설명이지 기부금 사용 내역을 보고하는 것이 아니다.",
+          "5": "⑤ 재단 웹사이트가 티켓 구매 경로로 언급되지만, 웹사이트 회원 가입 방법을 안내하려는 것이 아니다."
+        },
+        "key_point": "초대장 형식의 글에서는 행사 일시, 장소, 참가 방법이 제시되면 '~에 참석을 초대하려고'가 목적임을 확인할 수 있다."
+      },
+      "self_check": {
+        "reasoning": "The writer says 'We would be truly honored to have you join us' and provides date, venue, and ticket purchase information — all indicating an invitation to attend the event. Choice 1 uses 'fund' and 'children's hospital' but misidentifies the purpose as explaining the need for a hospital construction fund. Choice 2 uses 'event' context but fabricates a volunteer recruitment purpose. Choice 3 mentions 'helped over 400 families' from the passage but misidentifies this background detail as a financial report. Choice 5 uses 'foundation website' from the passage but fabricates a membership registration purpose.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-05",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "easy",
+      "passage": "Dear Team,\nI am delighted to announce the launch of our new employee wellness initiative, the Vitality Program, beginning January 6th. As part of our ongoing commitment to your health and well-being, the company has partnered with FitCore Gym to offer all full-time employees a free six-month gym membership. Additionally, we will be hosting weekly mindfulness sessions every Tuesday from 12:00 to 12:45 p.m. in the second-floor meeting room. To enroll in the Vitality Program, please visit the HR portal and complete the registration form by December 20th. We encourage everyone to take advantage of this opportunity to prioritize their physical and mental health. Should you have any questions, please reach out to the HR department directly.\nBest wishes,\nMargaret Liu\nHead of Human Resources",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "직원 건강검진 결과 확인 방법을 설명하려고",
+        "FitCore 헬스장의 신규 지점 개설을 홍보하려고",
+        "마음 챙김 세션의 강사 모집 공고를 내려고",
+        "직원 복지 포털의 기술적 오류를 공지하려고",
+        "새로운 직원 웰니스 프로그램 시작을 알리려고"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I am delighted to announce the launch of our new employee wellness initiative, the Vitality Program.'이라고 첫 문장에서 목적을 직접 밝히고 있다. 무료 헬스장 회원권과 마음 챙김 세션 등 프로그램 세부 사항을 안내하는 것이 전체 내용이다.",
+        "wrong": {
+          "1": "① 직원 건강이 주제이지만, 건강검진 결과 확인 방법을 설명하는 내용은 없다.",
+          "2": "② 'FitCore Gym'이 파트너로 언급되지만, 헬스장의 신규 지점 개설을 홍보하는 것이 아니라 직원 무료 회원권 제공을 알리는 것이다.",
+          "3": "③ 마음 챙김 세션이 프로그램의 일부로 소개되지만, 강사를 모집한다는 내용은 없다.",
+          "4": "④ HR 포털이 등록 수단으로 언급되지만, 기술적 오류와 관련된 내용은 전혀 없다."
+        },
+        "key_point": "'I am delighted to announce...'는 새로운 사항을 발표할 때 쓰는 전형적인 표현이다. 이 뒤의 내용이 바로 글의 목적이다."
+      },
+      "self_check": {
+        "reasoning": "The writer explicitly says 'I am delighted to announce the launch of our new employee wellness initiative, the Vitality Program.' The entire message introduces the program and its benefits. Choice 1 uses 'health' context but fabricates a health check result purpose. Choice 2 picks up on 'FitCore Gym' mentioned as the partner but fabricates a branch opening promotion. Choice 3 uses 'mindfulness sessions' from the passage but fabricates an instructor recruitment purpose. Choice 4 mentions the HR portal but inverts the situation (the portal is where you register, not broken).",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-06",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "easy",
+      "passage": "Dear Museum Visitors,\nThe Hartwell Science Museum is thrilled to offer a hands-on robotics workshop as part of our summer programming. The workshop, titled Build and Code: Introduction to Robotics, is open to participants aged 10 to 16 and will run on three consecutive Saturdays — August 3rd, 10th, and 17th — from 10:00 a.m. to 2:00 p.m. each day. Participants will learn to assemble basic robot kits and program simple movement sequences using block-based coding software. All materials will be provided. Spaces are limited to 20 participants per session to ensure a quality learning experience. To reserve your spot, please visit our website at www.hartwellmuseum.org/workshops or call us at 555-0177. Early registration is strongly encouraged as sessions tend to fill quickly.\nSincerely,\nHartwell Science Museum Education Team",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "로봇공학 여름 워크숍 참가 등록을 안내하려고",
+        "박물관의 여름 방학 무료 입장 혜택을 공지하려고",
+        "로봇 조립 대회 수상 결과를 발표하려고",
+        "박물관 자원봉사 교육 일정을 알리려고",
+        "블록 코딩 소프트웨어의 사용법을 설명하려고"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "글 말미의 'To reserve your spot, please visit our website... Early registration is strongly encouraged'는 독자에게 워크숍 등록을 유도하는 핵심 행동 요청이다. 날짜·시간·대상 연령·참가 인원 등 등록에 필요한 모든 정보를 체계적으로 안내하고 있다.",
+        "wrong": {
+          "2": "② 'museum(박물관)'과 'summer(여름)'가 등장하지만, 무료 입장 혜택 관련 내용은 없다.",
+          "3": "③ 'robot(로봇)'과 관련 있어 보이지만, 대회 수상 결과 발표가 아니라 워크숍 참가를 안내하는 글이다.",
+          "4": "④ 박물관 자원봉사 교육 일정은 지문에 언급되지 않는다.",
+          "5": "⑤ 'block-based coding software'가 활동 내용으로 잠깐 등장하지만, 소프트웨어 사용법을 설명하려는 것이 아니라 워크숍에서 배울 내용을 소개하는 것이다."
+        },
+        "key_point": "글에서 날짜, 장소, 등록 방법이 함께 나오면 해당 활동 '참가 안내'가 목적임을 쉽게 파악할 수 있다."
+      },
+      "self_check": {
+        "reasoning": "The passage describes the robotics workshop and ends with 'To reserve your spot, please visit our website' — clearly guiding the reader on how to register. The entire message is designed to invite and guide registration. Choice 2 uses 'museum' and 'summer' but fabricates a free admission benefit. Choice 3 uses 'robot' from the passage but inverts the situation to a competition result announcement. Choice 4 uses 'museum' context but fabricates a volunteer training schedule. Choice 5 uses 'block-based coding software' mentioned in passing but elevates it to the main purpose.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-07",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "easy",
+      "passage": "Dear Adopters and Supporters,\nWe are writing to inform you of a change to our upcoming Paws & Hearts Pet Adoption Day event. As you may know, the event was originally scheduled for this Saturday, March 15th, at Greendale Community Park. However, due to an unexpected forecast of heavy rain and thunderstorms for the weekend, we have made the decision to postpone the event to ensure the safety and comfort of both the animals and our visitors. The new date for Paws & Hearts Pet Adoption Day is Saturday, March 22nd, at the same location and time. All animals that were scheduled to be present will still be available for adoption on the new date. We apologize for any inconvenience this may cause and appreciate your understanding.\nWith warm regards,\nValerie Brooks\nEvent Coordinator, Happy Tails Rescue",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "악천후 시 동물 보호 방법에 대해 조언하려고",
+        "반려동물 입양 행사의 연기 사실을 알리려고",
+        "야외 행사장의 안전 규칙 준수를 요청하려고",
+        "새로운 반려동물 입양 절차를 홍보하려고",
+        "커뮤니티 공원의 시설 개선 공사를 공지하려고"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "첫 문장에서 'We are writing to inform you of a change to our upcoming Paws & Hearts Pet Adoption Day event.'라고 목적을 밝히며, 3월 15일로 예정된 행사가 폭우 예보로 인해 3월 22일로 연기되었음을 구체적으로 알리고 있다.",
+        "wrong": {
+          "1": "① '폭우와 뇌우 예보(heavy rain and thunderstorms)'가 연기 이유로 언급되지만, 악천후 시 동물 보호 방법을 조언하는 글이 아니다.",
+          "3": "③ 'safety(안전)'가 언급되지만, 야외 행사장 안전 규칙 준수를 요청하는 내용이 아니다. 안전은 연기 이유를 설명하기 위해 쓰인 단어이다.",
+          "4": "④ 'adoption(입양)'이 등장하지만, 새로운 입양 절차를 홍보하는 것이 아니라 기존 행사의 날짜 변경을 알리는 글이다.",
+          "5": "⑤ 'Greendale Community Park'이 장소로 언급되지만, 공원 시설 공사와 관련된 내용은 없다."
+        },
+        "key_point": "일정 변경 공지 글에서는 기존 날짜와 새 날짜가 함께 제시되면 '행사 연기/변경 안내'가 목적임을 바로 파악할 수 있다."
+      },
+      "self_check": {
+        "reasoning": "The opening sentence clearly states 'We are writing to inform you of a change to our upcoming Paws & Hearts Pet Adoption Day event,' and the letter explains the event is postponed from March 15th to March 22nd. Choice 1 picks up on 'heavy rain' and 'animals' but fabricates an animal care advice purpose. Choice 3 uses 'safety' from the passage but fabricates a rules compliance request. Choice 4 uses 'adoption' from the passage but misidentifies the purpose as promoting new adoption procedures. Choice 5 distorts 'Greendale Community Park' into a park renovation notice.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-08",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "easy",
+      "passage": "Dear Members,\nWe regret to inform you that the Pinewood Recreation Center's indoor swimming pool and gymnasium will be temporarily closed from Monday, April 7th through Friday, April 18th. This closure is necessary to allow our maintenance team to complete essential upgrades to the ventilation system and resurface the pool floor. These improvements will significantly enhance air quality and swimmer safety. We understand that this is an inconvenience, and we sincerely apologize for the disruption to your fitness routine. During the closure period, members will receive a two-week credit on their next monthly billing statement. Full access to all other facilities, including the yoga studio and tennis courts, will remain available. We look forward to welcoming you back to the improved facilities.\nThank you for your patience,\nPinewood Recreation Center Management",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "수영장 리모델링 디자인 의견 수렴을 요청하려고",
+        "수영장 회원 등록 절차의 변경을 안내하려고",
+        "수영장 및 체육관의 임시 폐쇄를 공지하려고",
+        "환기 시스템 업그레이드 비용 분담을 설명하려고",
+        "회원 요금 인상 계획과 이유를 알리려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "첫 문장에서 'We regret to inform you that the Pinewood Recreation Center's indoor swimming pool and gymnasium will be temporarily closed from Monday, April 7th through Friday, April 18th.'라고 임시 폐쇄를 직접 공지하고 있다. 폐쇄 이유(환기 시스템 업그레이드, 바닥 재포장)와 기간이 명확히 제시된다.",
+        "wrong": {
+          "1": "① 'pool(수영장)'과 'remodeling(리모델링)'을 연상할 수 있지만, 디자인 의견 수렴과 관련된 내용은 없다.",
+          "2": "② 'member registration(회원 등록)' 절차 변경은 지문에 없는 내용이다.",
+          "4": "④ '환기 시스템 업그레이드'가 폐쇄 이유로 언급되지만, 그 비용을 회원들과 분담하자는 내용이 아니다.",
+          "5": "⑤ 'billing statement(청구서)'가 언급되지만, 이는 요금 인상이 아니라 폐쇄 기간 동안 2주 크레딧을 제공한다는 보상 안내이다."
+        },
+        "key_point": "'We regret to inform you that...'는 불편한 소식을 알릴 때 쓰는 표현이다. 이 뒤에 오는 내용(임시 폐쇄)이 글의 핵심 목적이다."
+      },
+      "self_check": {
+        "reasoning": "The opening directly says 'We regret to inform you that the Pinewood Recreation Center's indoor swimming pool and gymnasium will be temporarily closed.' This is a clear closure announcement. Choice 1 uses 'pool' and 'remodeling' from the passage but fabricates a design consultation purpose. Choice 2 uses 'member registration' context but fabricates a procedure change. Choice 4 picks up on 'ventilation system' from the passage but elevates the maintenance reason into a cost-sharing explanation. Choice 5 uses 'members' and 'billing' from the passage but misidentifies the billing credit as a fee increase announcement.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-09",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Building Management,\nI am writing to bring a persistent noise issue to your attention. My name is Samuel Crawford, and I reside in Unit 4B of the Ashford Tower. For the past three weeks, I have been regularly disturbed by loud music and gatherings coming from the unit directly above mine, Unit 5B, especially between 11 p.m. and 2 a.m. on weekday nights. The noise has been severe enough to prevent me from sleeping and has begun affecting my performance at work. I have already attempted to speak with the resident of Unit 5B directly, but there has been no improvement. I respectfully request that building management intervene and remind the resident of the applicable noise policy as outlined in our tenancy agreement. I would appreciate a prompt response to this matter.\nSincerely,\nSamuel Crawford",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "입주민 의무 사항이 담긴 임대 계약서 사본을 요청하려고",
+        "층간 소음 방지를 위한 건물 시설 개선을 건의하려고",
+        "건물 관리 사무소의 민원 처리 절차에 항의하려고",
+        "위층 거주자의 소음 문제에 관리소의 개입을 요청하려고",
+        "소음 규정 위반으로 인한 퇴거 처리를 촉구하려고"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I respectfully request that building management intervene and remind the resident of the applicable noise policy as outlined in our tenancy agreement.'라고 핵심 요청을 명시하고 있다. 3주 동안 지속된 소음 문제를 스스로 해결하려 시도했지만 실패했고, 이제 관리소에 개입을 요청하는 것이 목적이다.",
+        "wrong": {
+          "1": "① 'tenancy agreement(임대 계약서)'가 언급되지만, 계약서 사본을 요청하는 것이 아니라 계약서에 명시된 소음 정책을 위층 입주민에게 상기시켜 달라는 것이다.",
+          "2": "② 'noise(소음)'와 'building(건물)'이 공통으로 등장하지만, 건물 시설 개선을 건의하는 내용이 아니라 특정 입주민의 행동에 관리소가 개입해 달라는 요청이다.",
+          "3": "③ 관리 사무소에 보내는 글이지만, 민원 처리 절차에 항의하는 것이 아니라 새로운 민원을 제기하는 것이다.",
+          "5": "⑤ 소음 정책 위반이 암시되지만, 퇴거 처리를 요청하는 내용은 없다. 필자가 요청하는 것은 관리소의 개입과 소음 정책 안내이다."
+        },
+        "key_point": "오답지 ①②③⑤는 모두 지문의 일부 단어를 활용하지만 필자가 직접 요청하는 행동('intervene')을 과장하거나 왜곡하고 있다. 핵심 요청 동사에 집중해야 한다."
+      },
+      "self_check": {
+        "reasoning": "The writer explicitly says 'I respectfully request that building management intervene and remind the resident of the applicable noise policy.' The purpose is to get management involved in the noise dispute. Choice 1 uses 'tenancy agreement' mentioned in the passage but fabricates a request for a document copy. Choice 2 uses 'noise' and 'building' but fabricates a facility improvement suggestion rather than an intervention request. Choice 3 uses 'management' but fabricates a complaint about the complaint process itself. Choice 5 picks up on 'noise policy' and 'violation' implied in the passage but escalates to an eviction demand, which is not stated.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-10",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Ms. Yun,\nI came across your profile on the Global Learners Network and was impressed by your teaching career in Seoul and your passion for language education. My name is Thomas Bell, and I am a secondary school English teacher based in Edinburgh, Scotland. I have long been interested in connecting with educators who share my commitment to language exchange and cross-cultural understanding. I would like to propose a regular language exchange partnership between us. The arrangement I have in mind would involve weekly video sessions of about 30 minutes, where we could alternate between practicing Korean and English, while also sharing insights about our respective educational systems. I believe this kind of connection would benefit both of us greatly. I look forward to hearing whether you would be open to this idea.\nBest regards,\nThomas Bell",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "글로벌 학습 네트워크 가입 방법을 문의하려고",
+        "한국 중등 교육 시스템에 대한 정보를 요청하려고",
+        "교환학생 프로그램 참가자를 모집하려고",
+        "영어 교육 관련 강연 제안을 거절하려고",
+        "언어 교환 파트너십을 제안하려고"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I would like to propose a regular language exchange partnership between us.'라고 직접 목적을 밝히며, 매주 30분 화상 통화로 한국어·영어를 번갈아 연습하자는 구체적인 제안을 담고 있다.",
+        "wrong": {
+          "1": "① 'Global Learners Network'에서 상대방 프로필을 발견했다고 언급하지만, 네트워크 가입 방법을 묻는 것이 아니다.",
+          "2": "② '각자의 교육 시스템에 대한 통찰 공유'가 교류의 부가적 혜택으로 언급되지만, 한국 교육 정보를 요청하는 것이 주목적이 아니다.",
+          "3": "③ 'language exchange(언어 교환)'와 'exchange student(교환학생)'는 다른 개념이다. 교환학생 모집과 관련된 내용은 없다.",
+          "4": "④ 'proposal(제안)'이라는 개념이 등장하지만, 거절이 아니라 제안하는 글이다."
+        },
+        "key_point": "앞부분의 칭찬과 자기소개는 제안을 거절당하지 않기 위한 공손한 도입부이다. 'I would like to propose...'가 나오는 순간이 글의 목적이 드러나는 핵심 문장이다."
+      },
+      "self_check": {
+        "reasoning": "The writer states 'I would like to propose a regular language exchange partnership between us' and describes the arrangement in detail. The entire letter builds toward this proposal. Choice 1 uses 'Global Learners Network' from the passage but fabricates a membership inquiry. Choice 2 uses 'educational systems' mentioned as a benefit of the exchange but misidentifies it as the main purpose. Choice 3 uses 'language' and 'exchange' keywords but fabricates an exchange student recruitment. Choice 4 uses 'teaching' and 'proposal' contexts but incorrectly identifies the purpose as a rejection.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-11",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Ms. Peterson,\nMy name is Dr. Aaron Wolfe, and I am the lead organizer for the upcoming International Symposium on Climate Resilience, to be held at Stanford University on September 18th and 19th. I am writing to request the loan of two high-definition projection screens and a wireless audio system from the AV Equipment Services department. Our venue, the Keller Hall Conference Center, does not have built-in audiovisual equipment sufficient for an audience of approximately 400 attendees. We require the screens to be set up by 7:30 a.m. on September 18th. Our technical team will be on-site throughout the event to handle operations. If there are any availability concerns or required forms, please let me know at your earliest convenience. I greatly appreciate your assistance.\nRespectfully,\nDr. Aaron Wolfe",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "행사 진행을 위한 시청각 장비 대여를 요청하려고",
+        "심포지엄 발표 일정 변경 사항을 알리려고",
+        "컨퍼런스 센터 대관 비용 정책을 문의하려고",
+        "외부 기술 지원 팀 고용 절차를 안내하려고",
+        "기후 변화 심포지엄의 연사 초청 제안을 거절하려고"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I am writing to request the loan of two high-definition projection screens and a wireless audio system from the AV Equipment Services department.'라고 정확히 목적을 밝히고 있다. 행사장에 시청각 장비가 없어서 대여를 요청하는 것이 글의 핵심이다.",
+        "wrong": {
+          "2": "② 심포지엄 날짜가 언급되지만, 발표 일정 변경을 알리는 글이 아니다.",
+          "3": "③ 'Keller Hall Conference Center'가 등장하지만, 대관 비용 문의가 아니라 장비 대여 요청이다.",
+          "4": "④ 'technical team'이 현장에 있을 것이라고 언급되지만, 이는 장비를 직접 운영하겠다는 부가 설명이지 외부 기술 지원 팀 고용 절차를 안내하는 것이 아니다.",
+          "5": "⑤ '기후 회복력 심포지엄'이 주제이지만, 연사 초청을 거절하는 내용이 아니라 장비를 빌리려는 요청이다."
+        },
+        "key_point": "'I am writing to request...' 다음에 요청 내용이 직접 나온다. 행사 이름이나 장소 같은 배경 정보에 혼동되지 않도록 한다."
+      },
+      "self_check": {
+        "reasoning": "The writer says 'I am writing to request the loan of two high-definition projection screens and a wireless audio system.' This is an explicit equipment borrowing request. Choice 2 uses 'symposium' from the passage but fabricates a schedule change. Choice 3 uses 'conference center' from the passage but fabricates a venue booking inquiry. Choice 4 uses 'technical team' from the passage but fabricates a hiring procedure. Choice 5 uses 'climate' and 'symposium' from the passage but fabricates a speaker invitation decline.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-12",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Scholarship Committee,\nI am writing to respectfully request an extension to my current Greenwood Academic Excellence Scholarship. My name is Nadia Osei, and I am a second-year student in the Department of Environmental Science at Greenwood University. My scholarship is scheduled to expire at the end of this academic year. However, due to a medical leave of absence I took in the spring semester following a diagnosis of mononucleosis, I was unable to complete two required courses. As a result, I will need to stay enrolled for one additional semester to fulfill the remaining graduation requirements. I have included supporting documentation from the University Health Services. I am committed to completing my degree and maintaining the academic standards your scholarship requires. I sincerely hope the committee will consider my circumstances.\nYours faithfully,\nNadia Osei",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "휴학으로 인한 학점 이수 계획 변경을 승인받으려고",
+        "의료 진단서에 근거한 장학금 연장을 요청하려고",
+        "환경과학과의 졸업 요건 완화를 건의하려고",
+        "다음 학년도 장학금 신규 지원 절차를 문의하려고",
+        "의료 서비스 이용 비용 지원을 요청하려고"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I am writing to respectfully request an extension to my current Greenwood Academic Excellence Scholarship.'이라고 첫 문장에서 바로 목적을 밝히고 있다. 단핵구증(mononucleosis) 진단으로 인한 병가가 이유이며, 의료 증빙 서류도 첨부했다고 명시되어 있다.",
+        "wrong": {
+          "1": "① '병가로 인한 수업 미이수'가 언급되지만, 학점 이수 계획 변경 승인을 요청하는 것이 아니라 장학금 연장을 요청하는 것이다.",
+          "3": "③ '환경과학과'와 '졸업 요건'이 등장하지만, 졸업 요건 완화를 건의하는 것이 아니라 요건을 충족하기 위해 한 학기 더 필요하다는 설명이다.",
+          "4": "④ '장학금'이 주제이지만, 신규 장학금 신청 절차를 묻는 것이 아니라 기존 장학금의 연장을 요청하는 것이다.",
+          "5": "⑤ '의료'와 관련이 있지만, 의료비 지원 요청이 아니라 장학금 연장의 사유로 의료 기록을 제출한 것이다."
+        },
+        "key_point": "오답지들은 지문의 단어(병가, 졸업 요건, 장학금)를 조합해 그럴듯한 선지를 만든다. 항상 필자의 핵심 요청('request an extension to my scholarship')으로 돌아가야 한다."
+      },
+      "self_check": {
+        "reasoning": "The writer says 'I am writing to respectfully request an extension to my current Greenwood Academic Excellence Scholarship' and provides medical documentation as justification. Choice 1 uses 'leave of absence' and 'course completion plan' from the passage but misidentifies the purpose as seeking approval for an academic plan change. Choice 3 uses 'Environmental Science' and 'graduation requirements' from the passage but fabricates a policy relaxation request. Choice 4 uses 'scholarship' from the passage but misidentifies it as an inquiry about new applications. Choice 5 uses 'medical' context but fabricates a healthcare cost support request.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-13",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Guests,\nWe want to sincerely thank you for your continued loyalty to the Harborview Grand Hotel. As we strive to deliver an exceptional stay experience, we want to make you aware of some temporary changes you may encounter during your upcoming visit. Our East Wing, which houses floors 6 through 10 and the Garden Terrace restaurant, is currently undergoing a comprehensive renovation to upgrade guest room interiors and dining facilities. We expect this work to be completed by the end of November. Rooms in the West Wing and all primary amenities, including the main restaurant, fitness center, and spa, remain fully operational. We appreciate your understanding during this period of improvement and have arranged a 15% discount on your stay as a token of our appreciation. Should you need to discuss your reservation, please contact our front desk at any time.\nWarm regards,\nJennifer Walsh\nGeneral Manager, Harborview Grand Hotel",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "호텔 개인정보 보호 방침의 변경 사항을 고지하려고",
+        "새로운 스파 및 레스토랑 시설을 홍보하려고",
+        "리모델링 공사로 인한 불편 사항을 안내하고 양해를 구하려고",
+        "게스트 객실 등급 업그레이드 신청 방법을 설명하려고",
+        "호텔 예약 취소 및 환불 정책을 공지하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'we want to make you aware of some temporary changes you may encounter during your upcoming visit.'라고 밝히며 동쪽 윙 리모델링으로 인한 불편(레스토랑 이용 불가, 일부 객실 제한)을 안내하고, 15% 할인으로 양해를 구하고 있다.",
+        "wrong": {
+          "1": "① '호텔'이 등장하지만, 개인정보 보호 방침과 관련된 내용은 없다.",
+          "2": "② '스파'와 '레스토랑'이 언급되지만, 이 시설들이 리모델링 중에도 정상 운영 중임을 알리는 것이지 새 시설을 홍보하는 것이 아니다.",
+          "4": "④ 'upgrade(업그레이드)'라는 단어가 등장하지만, 이는 객실 인테리어 개선 공사를 의미하는 것이지 게스트가 신청할 수 있는 객실 업그레이드 서비스를 설명하는 것이 아니다.",
+          "5": "⑤ 'reservation(예약)'이 잠깐 언급되지만, 이는 불편 사항이 있을 경우 프런트에 연락하라는 안내이지 취소 및 환불 정책 공지가 아니다."
+        },
+        "key_point": "호텔 공사 관련 안내 글에서는 불편 사항 고지 + 보상(할인) 제공이 함께 나오는 것이 전형적인 패턴이다. 이를 '홍보' 또는 '신시설 소개'로 오해하지 않도록 한다."
+      },
+      "self_check": {
+        "reasoning": "The letter informs guests about renovation-related changes ('temporary changes you may encounter') and apologizes with a discount. The primary purpose is to inform and seek understanding for the inconvenience. Choice 1 uses 'hotel' but fabricates a privacy policy purpose. Choice 2 picks up on 'spa' and 'restaurant' but misidentifies them as newly promoted facilities rather than ones still operating during renovation. Choice 4 picks up on 'upgrade' used to describe the renovation, not a guest room upgrade service. Choice 5 uses 'reservation' from the passage but elevates a minor mention into a cancellation policy announcement.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-14",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Professor Lin,\nMy name is Dr. Rachel Foster, and I am a researcher at the Institute for Behavioral Neuroscience at the University of Bristol. I have closely followed your recent publications on decision-making under uncertainty, and I believe our work shares a significant common ground. I am currently leading a three-year research project investigating how cognitive biases influence financial risk-taking, and I feel that a collaboration with your laboratory would greatly strengthen both of our research programs. Specifically, I would propose conducting a joint study using your neuroimaging facilities alongside our behavioral testing battery. I believe the combined methodology could yield results neither team could achieve independently. I would welcome the opportunity to discuss this further at your convenience.\nBest regards,\nDr. Rachel Foster",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "신경영상 장비 이용 절차에 대한 정보를 요청하려고",
+        "재정적 위험 감수에 관한 논문 게재를 부탁하려고",
+        "행동 신경과학 연구소의 채용 공고를 안내하려고",
+        "공동 연구 협력을 제안하려고",
+        "진행 중인 연구의 예비 결과를 공유하려고"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I would propose conducting a joint study using your neuroimaging facilities alongside our behavioral testing battery.'라고 공동 연구 수행을 제안하고 있다. 앞부분에서 상대방 연구에 대한 관심과 공통점을 언급한 것은 제안을 설득력 있게 만들기 위한 도입부이다.",
+        "wrong": {
+          "1": "① 'neuroimaging facilities(신경영상 장비)'가 공동 연구 수단으로 언급되지만, 장비 이용 절차를 묻는 것이 아니라 함께 활용하자는 제안이다.",
+          "2": "② '재정적 위험 감수'는 연구 주제이지, 논문 게재를 부탁하는 내용이 아니다.",
+          "3": "③ '연구소'가 등장하지만, 채용 공고와 관련된 내용은 없다.",
+          "5": "⑤ '진행 중인 연구'가 언급되지만, 그 결과를 공유하는 것이 아니라 협력을 통해 더 좋은 결과를 얻자고 제안하는 것이다."
+        },
+        "key_point": "학술 협력 제안 편지는 상대방 연구 칭찬 → 자기 연구 소개 → 협력 제안 순서로 진행된다. 뒷부분에 나오는 'I would propose...'가 글의 핵심 목적이다."
+      },
+      "self_check": {
+        "reasoning": "The writer says 'I would propose conducting a joint study' and the entire letter builds up to this collaboration proposal. Choice 1 picks up on 'neuroimaging facilities' mentioned as part of the proposed collaboration, not the purpose of the letter. Choice 2 uses 'financial risk-taking' and 'paper' context but fabricates a journal submission request. Choice 3 uses 'research institute' context but fabricates a job posting. Choice 5 uses 'research project' but misidentifies the purpose as sharing results rather than proposing collaboration.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-15",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Valued Subscriber,\nThank you for being a member of StreamVault. We want to make sure you are fully informed about an upcoming change to our subscription cancellation policy, which will take effect on May 1st. Under the current policy, subscribers may cancel their plan at any time with immediate effect and receive a prorated refund for the unused portion of the billing period. Beginning May 1st, cancellations submitted after the 5th of any given month will not take effect until the end of that billing cycle, and no prorated refunds will be issued for that period. Cancellations submitted on or before the 5th will continue to receive a prorated refund as before. If you wish to cancel before the new policy takes effect, you may do so through your account settings. We appreciate your understanding as we update our terms of service.\nThe StreamVault Team",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "신규 구독 플랜의 요금 인상 계획을 공지하려고",
+        "구독 서비스의 기술적 오류 수정 사항을 알리려고",
+        "계정 보안 정책의 변경을 통보하려고",
+        "프리미엄 구독 혜택 업그레이드를 홍보하려고",
+        "구독 취소 정책의 변경 사항을 안내하려고"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'We want to make sure you are fully informed about an upcoming change to our subscription cancellation policy.'라고 글의 목적을 직접 밝히고 있다. 5월 1일부터 달라지는 취소 규정(5일 이후 취소 시 환불 불가)을 상세히 설명하는 것이 전체 내용이다.",
+        "wrong": {
+          "1": "① 'subscription(구독)'이 주제이지만, 요금 인상과 관련된 내용은 없다. 취소 정책 변경에 관한 내용이다.",
+          "2": "② 서비스 관련 공지처럼 보이지만, 기술적 오류 수정이 아닌 이용 약관(취소 정책) 변경에 관한 안내이다.",
+          "3": "③ '정책 변경'이라는 개념은 맞지만, 계정 보안이 아닌 취소 정책에 관한 변경이다.",
+          "4": "④ 'subscription(구독)'과 'upgrade(업그레이드)'가 연상되지만, 혜택을 홍보하는 것이 아니라 구독 취소 규정이 불리하게 바뀜을 알리는 글이다."
+        },
+        "key_point": "구독 서비스 공지에서 '정책 변경'이 주제일 때, 어떤 정책이 바뀌는지(취소 정책 vs 요금 정책 vs 보안 정책)를 정확히 구분해야 한다."
+      },
+      "self_check": {
+        "reasoning": "The letter explicitly states its purpose: 'We want to make sure you are fully informed about an upcoming change to our subscription cancellation policy.' The entire message describes the new cancellation rules. Choice 1 uses 'subscription' from the passage but fabricates a price increase. Choice 2 uses 'service' context but fabricates a bug fix notice. Choice 3 uses 'policy change' as a concept but applies it to account security instead of cancellations. Choice 4 uses 'subscription' and 'upgrade' from the passage but misidentifies the purpose as premium plan promotion.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-16",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Photography Contest Participants,\nWe are writing with an important update regarding the Midlands Regional Photography Contest. We have received tremendous interest in this year's competition, with a record number of participants submitting entries in the first two weeks alone. Given this overwhelming response, and following requests from several participants who encountered technical difficulties with our online submission portal, we have decided to extend the submission deadline by ten days. The new deadline for all entries is now November 25th at 11:59 p.m. Please note that all previously submitted entries remain valid and no resubmission is required. Additional details about the judging criteria and finalist announcement timeline remain unchanged. We look forward to reviewing your work and wish you the best of luck.\nSincerely,\nThe Midlands Photography Contest Committee",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "사진 대회 제출 마감일 연장을 공지하려고",
+        "온라인 제출 포털의 기술적 오류를 사과하려고",
+        "사진 대회 심사 기준의 변경을 안내하려고",
+        "대회 수상작의 전시 일정을 공유하려고",
+        "이전에 제출된 출품작의 재제출을 요청하려고"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'we have decided to extend the submission deadline by ten days'라고 핵심 공지를 밝히며, 새 마감일이 11월 25일 오후 11시 59분임을 안내하고 있다. 이것이 글의 주된 목적이다.",
+        "wrong": {
+          "2": "② '온라인 제출 포털 기술 오류'가 마감 연장 이유 중 하나로 언급되지만, 오류 사과가 글의 주된 목적이 아니다.",
+          "3": "③ '심사 기준'이 언급되지만, 변경되지 않았다고('remain unchanged') 명시되어 있으므로 오답이다.",
+          "4": "④ '최종 후보 발표 일정'이 언급되지만, 이 역시 변경 없음을 알리는 것이지 전시 일정을 공유하는 것이 아니다.",
+          "5": "⑤ 지문에서 'no resubmission is required'라고 명시적으로 재제출이 필요 없다고 하므로 내용과 정반대의 오답이다."
+        },
+        "key_point": "오답지 ⑤처럼 지문 내용과 정반대의 선지가 나올 수 있다. 지문을 정확히 읽으면 틀릴 수 없는 함정이다."
+      },
+      "self_check": {
+        "reasoning": "The letter says 'we have decided to extend the submission deadline by ten days' and provides the new deadline. This is the primary announcement. Choice 2 picks up on 'technical difficulties with our online submission portal' mentioned as one reason for the extension, but the apology for the error is not the main purpose. Choice 3 picks up on 'judging criteria' but explicitly states they are 'unchanged.' Choice 4 uses 'finalist announcement' from the passage but fabricates an exhibition schedule. Choice 5 directly contradicts the passage which says 'no resubmission is required.'",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-17",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Adopters of Introduction to Economics (4th edition),\nWe are writing to notify you of an important correction to Chapter 7 of the textbook, specifically in the section on Supply and Demand Elasticity. On page 214, Table 7.3 contains an error in the price elasticity calculations for consumer goods categories B and C. The values shown in columns three and four have been inadvertently swapped. The corrected table is available for download from the publisher's website at www.meridianpress.com/corrections. A printed correction slip will also be included in all new copies of the fourth edition going forward. We sincerely apologize for any confusion this may have caused in your classroom. Updated digital instructor resources will be uploaded to the same page by the end of next week.\nBest regards,\nMeredith Cole\nEditorial Director, Meridian Press",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "경제학 교재 4판의 신규 채택 학교를 모집하려고",
+        "교재 7장의 표에서 발견된 오류와 수정을 알리려고",
+        "온라인 교수 자료의 저작권 정책을 공지하려고",
+        "가격 탄력성 개념의 수업 활용법을 안내하려고",
+        "교재 개정판 출판 일정의 연기를 통보하려고"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'We are writing to notify you of an important correction to Chapter 7 of the textbook'이라고 명시하며, 214페이지 표 7.3에서 3·4열 값이 뒤바뀐 오류를 구체적으로 설명하고 수정본 다운로드 링크를 안내하고 있다.",
+        "wrong": {
+          "1": "① '교재 4판'이 등장하지만, 신규 채택 학교 모집 관련 내용이 전혀 없다.",
+          "3": "③ '디지털 교수 자료'가 언급되지만, 저작권 정책이 아니라 수정된 자료를 업로드하겠다는 안내이다.",
+          "4": "④ '가격 탄력성'은 오류가 있는 표의 주제이지, 이 개념의 수업 활용법을 안내하는 것이 아니다.",
+          "5": "⑤ '출판사'와 '판(edition)'이 등장하지만, 개정판 출판 일정 연기와 관련된 내용은 없다."
+        },
+        "key_point": "오류 수정 공지 글에서는 어디서(7장 214페이지), 어떤 오류가(3·4열 값 뒤바뀜), 어떻게 수정되는지를 중심으로 읽는 것이 핵심이다."
+      },
+      "self_check": {
+        "reasoning": "The letter says 'We are writing to notify you of an important correction to Chapter 7 of the textbook' and details the specific error (swapped values in Table 7.3). Choice 1 uses 'textbook' and '4th edition' from the passage but fabricates a school recruitment purpose. Choice 3 uses 'digital instructor resources' mentioned in the passage but fabricates a copyright policy notice. Choice 4 uses 'price elasticity' from the passage but fabricates a teaching methodology guide. Choice 5 uses 'edition' and 'publisher' from the passage but fabricates a publication delay notice.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-18",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Ms. Okafor,\nI am writing on behalf of the Venture Forward Business Incubator. Having reviewed your application and business proposal for GreenTech Solutions, we were genuinely impressed by your vision for sustainable packaging alternatives and your detailed market analysis. We would like to invite you to participate in our six-month mentorship program, which pairs emerging entrepreneurs with experienced industry leaders. As a participant, you would receive bi-weekly one-on-one coaching sessions, access to our network of investors and partners, and dedicated workspace at our facility. The program begins on March 1st, and enrollment must be confirmed by February 10th. We believe that with the right guidance, your initiative has excellent potential for growth. We look forward to hearing from you.\nSincerely,\nNathan Reeves\nProgram Director, Venture Forward",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "지속 가능한 포장 대안 관련 설문 조사에 참여를 요청하려고",
+        "비즈니스 인큐베이터 투자 유치 행사에 초대하려고",
+        "멘토십 프로그램 참가를 제안하고 초대하려고",
+        "사업 계획서 재제출 기한 연장을 통보하려고",
+        "창업 지원 대출 프로그램의 이용 자격을 안내하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'We would like to invite you to participate in our six-month mentorship program'이라고 직접 초대 의사를 밝히며, 프로그램 혜택(코칭, 투자자 네트워크, 전용 업무 공간)과 등록 마감일(2월 10일)을 안내하고 있다.",
+        "wrong": {
+          "1": "① '지속 가능한 포장 대안'은 Okafor 씨의 사업 아이디어로 등장하지만, 설문 조사 참여 요청과 관련이 없다.",
+          "2": "② '투자자'가 멘토십 프로그램 네트워크의 일부로 언급되지만, 투자 유치 행사 초대가 아니라 멘토십 프로그램 참가 초대이다.",
+          "4": "④ '사업 계획서'가 심사 배경으로 언급되지만, 재제출을 요청하는 내용이 아니라 프로그램 합격 후 초대하는 내용이다.",
+          "5": "⑤ '창업 지원'과 관련 있어 보이지만, 대출 프로그램 자격 안내가 아닌 멘토십 참가 초대이다."
+        },
+        "key_point": "칭찬(지원서 검토 결과 인상적이었다)으로 시작하는 글은 뒤에 좋은 소식(초대, 합격 통보 등)이 이어지는 패턴이다. 칭찬은 도입부일 뿐이다."
+      },
+      "self_check": {
+        "reasoning": "The letter clearly says 'We would like to invite you to participate in our six-month mentorship program.' The entire letter is structured as an invitation to join this specific program. Choice 1 uses 'sustainable packaging' from the passage but fabricates a survey participation request. Choice 2 uses 'investors' mentioned as part of the mentorship network but fabricates an investment event invitation. Choice 4 uses 'business proposal' and 'deadline' from the passage but fabricates a resubmission deadline extension. Choice 5 uses 'startup' context but fabricates a loan program eligibility notice.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-19",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Oakdale Citizens,\nThe Oakdale Environmental Alliance is pleased to announce our annual Riverside Cleanup Initiative, and we warmly invite you to be part of it. This year's event will take place on Sunday, April 20th, from 8:00 a.m. to 1:00 p.m. along the Silverton River Trail from Junction Point to Briar Bridge. Volunteers will work in teams to collect litter, remove invasive plant species, and restore native planting zones. All necessary equipment, including gloves, bags, and tools, will be provided on-site. Light refreshments will be available throughout the event. To register, please visit our website or call us at 555-0210 by April 14th. This is a wonderful opportunity to make a tangible difference in our local environment and connect with fellow community members who care about our natural spaces.\nWith appreciation,\nLucy Harmon\nOakdale Environmental Alliance Coordinator",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "강변 생태 복원 사업의 예산 승인을 요청하려고",
+        "외래 식물종 제거 작업의 위험성을 경고하려고",
+        "환경 단체의 후원금 기부를 요청하려고",
+        "강변 환경 정화 행사 참가를 안내하려고",
+        "자연환경 보호 관련 지역 정책 개선을 촉구하려고"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'we warmly invite you to be part of it'이라고 밝히며, 행사 일시(4월 20일), 장소(Silverton River Trail), 등록 방법(웹사이트 또는 전화, 4월 14일까지)을 구체적으로 안내하여 독자의 참가를 유도하고 있다.",
+        "wrong": {
+          "1": "① '강변 생태 복원'이 활동 내용으로 나오지만, 예산 승인을 요청하는 내용이 아니다.",
+          "2": "② '외래 식물종 제거'가 활동 중 하나로 언급되지만, 그 위험성을 경고하는 글이 아니다.",
+          "3": "③ 'Environmental Alliance'가 등장하지만, 기부 요청 내용은 전혀 없다.",
+          "5": "⑤ 환경 보호가 주제이지만, 지역 정책 개선을 촉구하는 내용이 아니라 행사 참가를 권유하는 글이다."
+        },
+        "key_point": "등록 마감일과 연락처가 함께 제시되면, 독자에게 특정 행동(참가 등록)을 유도하는 것이 글의 목적임을 나타낸다."
+      },
+      "self_check": {
+        "reasoning": "The letter says 'we warmly invite you to be part of it' and provides registration details for the cleanup event. The purpose is to inform and invite participation. Choice 1 uses 'river restoration' from the passage but fabricates a budget approval request. Choice 2 uses 'invasive plant species removal' from the passage but fabricates a safety warning. Choice 3 uses 'environmental alliance' context but fabricates a donation request. Choice 5 uses 'environment' context but fabricates a policy improvement demand.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-20",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "standard",
+      "passage": "Dear Colleagues,\nI am writing to let you all know that after 22 wonderful years at Beckett & Associates, our beloved colleague Margaret Threlfall will be retiring at the end of this month. Margaret joined us as a junior analyst in 2002 and has grown into one of the most respected senior partners in the firm's history. Her dedication, expertise, and warm personality have been an irreplaceable part of our workplace culture. To celebrate Margaret's remarkable career, we will be holding a farewell gathering on Friday, March 28th, from 5:30 to 8:00 p.m. in the Founders' Lounge on the 12th floor. Light catering will be provided. Please RSVP to events@beckett.com by March 24th so we can plan accordingly. We hope to see you all there to give Margaret the send-off she truly deserves.\nBest,\nThe Events Committee",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "회사의 새로운 시니어 파트너 채용 공고를 알리려고",
+        "마가렛 씨의 업무 성과 보고서를 공유하려고",
+        "회사 창립 기념 행사 일정을 공지하려고",
+        "은퇴 기념 행사 장소 변경을 안내하려고",
+        "동료의 은퇴를 축하하는 송별 모임에 참석을 권유하려고"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'we will be holding a farewell gathering on Friday, March 28th'라고 송별 모임을 공지하며 'Please RSVP to events@beckett.com by March 24th'라고 참석 여부 회신을 요청하고 있다. 마가렛의 은퇴를 축하하는 자리에 동료들을 초대하는 것이 목적이다.",
+        "wrong": {
+          "1": "① 마가렛이 시니어 파트너로 성장했다는 내용이 있지만, 그 자리에 새 직원을 채용한다는 내용은 없다.",
+          "2": "② 마가렛의 경력이 언급되지만, 이는 그녀의 업적을 기리는 맥락이지 업무 성과 보고서를 공유하는 것이 아니다.",
+          "3": "③ 행사 장소가 'Founders' Lounge'이지만, 이는 장소 이름일 뿐 회사 창립 기념 행사와 관련이 없다.",
+          "4": "④ 장소와 날짜가 언급되지만, 이미 고지된 행사 장소 변경이 아니라 새롭게 행사를 공지하는 것이다."
+        },
+        "key_point": "RSVP 요청은 행사 참석을 권유하는 글의 전형적인 마무리 표현이다. RSVP가 보이면 '참석 초대'가 목적임을 확인하면 된다."
+      },
+      "self_check": {
+        "reasoning": "The letter announces Margaret's retirement and invites colleagues to 'a farewell gathering,' with an RSVP request — clearly inviting attendance at the send-off party. Choice 1 uses 'senior partner' from the passage but fabricates a recruitment announcement. Choice 2 uses 'Margaret' and 'career' from the passage but fabricates a performance report. Choice 3 picks up on 'Founders' Lounge' but misidentifies the venue name as indicating a company founding anniversary. Choice 4 uses 'farewell event' and 'venue' from the passage but fabricates a location change notice.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-21",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "hard",
+      "passage": "To the Board of Directors,\nI am writing as a representative of the Eastbrook Parents and Teachers Association to formally register our objection to the district's proposed implementation of mandatory standardized testing for students in grades one through three. While we recognize the district's intention to track academic progress at an early stage, the research on developmental psychology consistently indicates that high-stakes assessments administered to children aged six to nine produce measurable increases in anxiety and can distort instructional priorities away from holistic learning. The teachers in our schools have already voiced concerns that the 14-week test preparation period would eliminate time dedicated to arts, physical education, and social development activities. We strongly urge the board to commission an independent review of the evidence before proceeding. We would welcome the opportunity to present our documented concerns at the next scheduled board meeting.\nRespectfully,\nElizabeth Moore\nEBPTA Chair",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "저학년 표준화 시험 도입 계획에 반대 의견을 표명하려고",
+        "초등 저학년의 학습 성과 측정 방법을 제안하려고",
+        "교사들의 시험 준비 지도 역량 강화를 요청하려고",
+        "교육구의 예술 및 체육 교육 예산 삭감에 항의하려고",
+        "학부모 참여를 통한 교육 정책 수립 절차를 안내하려고"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'formally register our objection to the district's proposed implementation of mandatory standardized testing for students in grades one through three'라고 반대 의사를 공식적으로 표명하고 있다. 발달심리학 연구와 교사들의 우려를 근거로 제시하며 독립적 검토를 강력히 촉구하고 있다.",
+        "wrong": {
+          "2": "② '학습 성과 추적'이 교육구의 의도로 언급되지만, 필자는 시험 대신 대안 측정 방법을 제안하는 것이 아니라 시험 자체에 반대하고 있다.",
+          "3": "③ '교사들'이 우려를 표명했다는 내용이 있지만, 교사 역량 강화를 요청하는 글이 아니다.",
+          "4": "④ '예술, 체육, 사회성 발달 활동 시간이 없어진다'는 부작용이 언급되지만, 이는 시험 반대의 근거일 뿐 예산 삭감에 항의하는 것이 목적이 아니다.",
+          "5": "⑤ 이사회 회의에서 의견을 발표하고 싶다고 하지만, 이는 반대 의견 표명의 연장이지 교육 정책 수립 절차를 안내하는 것이 아니다."
+        },
+        "key_point": "어려운 유형에서는 반대 이유(예술·체육 시간 감소)를 목적으로 오해하기 쉽다. 필자가 최종적으로 요구하는 것('objection to... standardized testing', 'urge the board to commission a review')에 집중해야 한다."
+      },
+      "self_check": {
+        "reasoning": "The letter says 'formally register our objection to the district's proposed implementation of mandatory standardized testing for students in grades one through three.' The entire letter argues against this policy. Choice 2 uses 'academic progress' from the passage but misidentifies the letter as proposing alternative assessment methods (the letter opposes testing, not proposes alternatives). Choice 3 uses 'teachers' and 'test preparation' from the passage but fabricates a teacher training request. Choice 4 uses 'arts, physical education' mentioned as collateral damage, but elevates this background detail to the main purpose. Choice 5 uses 'board meeting' and 'parents' from the passage but fabricates a procedural guidance purpose.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-22",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "hard",
+      "passage": "Dear Ms. Hartfield,\nThank you again for the wonderful tour of Dunmore Botanical Garden last Tuesday. As I mentioned during our visit, the rare orchid collection in the Conservatory Wing was particularly striking. I am reaching out on behalf of the Natural Heritage Photography Society, whose members frequently document endangered plant species for conservation archives. I believe Dunmore's collection would be an extraordinarily valuable subject for our upcoming documentation project. I would like to formally inquire whether it would be possible to arrange an after-hours photography session for a small group of our members — no more than six — within the Conservatory Wing. We would, of course, ensure that no flash equipment is used and that all conservation protocols are strictly followed. I hope this might be something we could arrange at your convenience.\nKind regards,\nAlbert Swann",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "희귀 난초 컬렉션의 기증 가능 여부를 문의하려고",
+        "보존 구역에서의 촬영 허가를 요청하려고",
+        "식물원의 멸종위기 식물 보호 활동을 홍보하려고",
+        "자연유산사진학회의 신규 회원 모집을 안내하려고",
+        "지난주 식물원 방문 경험에 감사를 전하려고"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "필자의 핵심 요청은 'I would like to formally inquire whether it would be possible to arrange an after-hours photography session... within the Conservatory Wing.'이다. 앞의 감사 인사와 난초 컬렉션 칭찬은 거절당하지 않기 위한 공손한 도입부이며, 실제 목적은 촬영 허가를 구하는 것이다.",
+        "wrong": {
+          "1": "① '희귀 난초 컬렉션'이 촬영 대상으로 언급되지만, 기증 가능 여부를 묻는 것이 아니라 촬영 허가를 요청하는 것이다.",
+          "3": "③ '멸종위기 식물 기록'이 활동 목적으로 언급되지만, 식물원의 보호 활동을 홍보하는 것이 아니다.",
+          "4": "④ '자연유산사진학회'가 등장하지만, 신규 회원 모집과는 관련이 없다.",
+          "5": "⑤ 감사 인사로 편지가 시작되어 감사가 목적인 것처럼 보이지만, 이는 촬영 허가 요청을 위한 공손한 서두이다. 글 전체에서 필자가 원하는 것은 촬영 허가이다."
+        },
+        "key_point": "어려운 유형에서는 공손한 도입부(감사, 칭찬)가 글의 목적처럼 보일 수 있다. 본론에서 'I would like to formally inquire/request...'가 등장하는 순간이 진짜 목적이다."
+      },
+      "self_check": {
+        "reasoning": "The core purpose is 'I would like to formally inquire whether it would be possible to arrange an after-hours photography session' — a request for permission to photograph in the conservatory. The letter opens with thanks and admiration to set a polite tone, but these are rhetorical strategies, not the main purpose. Choice 1 uses 'rare orchid collection' from the passage but misidentifies the purpose as inquiring about donation. Choice 3 uses 'endangered plant species' from the passage but fabricates a conservation promotion purpose. Choice 4 uses 'Natural Heritage Photography Society' but fabricates a membership recruitment purpose. Choice 5 uses the opening thank-you statement and elevates it to the main purpose, but this is a polite framing device for the real request. This question is challenging because the thank-you opener could mislead readers.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-23",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "hard",
+      "passage": "Dear Dr. Mensah,\nI was delighted to learn of your interest in applying for the Heritage Conservation Research Grant. Applications for this cycle are now open, and I want to ensure you have the information needed to submit a competitive proposal. The grant prioritizes projects that bridge academic research and community preservation practice, with particular interest in underrepresented cultural heritage sites in sub-Saharan Africa and Southeast Asia. Applicants are strongly advised to emphasize the participatory aspect of their methodology — specifically, how local communities are involved as active collaborators, not merely as subjects of study. Letter of intent submissions are due by April 15th, and full proposals follow by June 1st. I am happy to review a draft of your letter of intent before submission if that would be helpful.\nWith best wishes,\nCaroline Ashby\nGrant Program Officer",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "연구 프로젝트의 예비 결과를 위원회에 보고하려고",
+        "문화유산 보존 활동에 대한 지역사회의 참여를 독려하려고",
+        "연구 보조금 신청을 위한 제안서 작성 방향을 안내하려고",
+        "학술 연구와 지역사회 협력 모델의 성공 사례를 소개하려고",
+        "지역사회 참여 방법론 관련 학술 컨퍼런스에 초청하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I want to ensure you have the information needed to submit a competitive proposal.'이라고 목적을 밝히며, 보조금 우선 지원 분야(사하라 이남 아프리카, 동남아시아 문화유산), 강조해야 할 방법론(지역사회 참여), 제출 마감일(4월 15일, 6월 1일)을 안내하고 있다.",
+        "wrong": {
+          "1": "① '연구 프로젝트'가 언급되지만, 예비 결과를 보고하는 것이 아니라 보조금 신청 방법을 안내하는 것이다.",
+          "2": "② '지역사회 참여'를 강조하라고 조언하지만, 이는 경쟁력 있는 제안서 작성을 위한 팁이지 지역사회 참여를 독려하는 것이 목적이 아니다.",
+          "4": "④ '학술 연구와 지역사회 협력'이 보조금 우선 분야로 언급되지만, 성공 사례를 소개하는 글이 아니다.",
+          "5": "⑤ '참여 방법론'이 제안서 작성 팁으로 나오지만, 학술 컨퍼런스 초청과는 관련이 없다."
+        },
+        "key_point": "어려운 유형에서 글의 전반에 걸쳐 조언이 제공될 때, '무엇을 위한 조언인지(보조금 신청 제안서 작성)'가 글의 목적이다. 조언 내용(지역사회 참여 강조)이 목적이 되지 않도록 주의해야 한다."
+      },
+      "self_check": {
+        "reasoning": "The letter provides specific guidance on what the grant prioritizes, what applicants should emphasize, and the submission timeline — all to help Dr. Mensah submit a competitive grant proposal. Choice 1 uses 'research project' but fabricates a results reporting purpose. Choice 2 uses 'community participation' from the passage but elevates advisory content to the main purpose. Choice 4 uses 'academic research' and 'community collaboration model' from the passage but fabricates a case study introduction. Choice 5 uses 'participatory methodology' context but fabricates a conference invitation. This is challenging because the letter's advisory content could make readers think it is about promoting community participation rather than guiding a grant application.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-24",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "hard",
+      "passage": "Dear Mr. Nakamura,\nI am reaching out as Director of Procurement at Fairfield Medical Supplies. As you are our primary supplier for surgical-grade nitrile gloves, I want to make you aware of a situation that may affect your production planning. Due to a recent regulatory update issued by the National Medical Products Authority, our current inventory of nitrile gloves — approximately 840,000 units — cannot be distributed to hospitals until each production batch has received updated compliance certification. We anticipate that the re-certification process will take between six and ten weeks. I am therefore writing to ask that you hold any pending shipments scheduled for the next two months, as warehouse storage capacity on our end is currently at its limit. Please acknowledge receipt of this letter and confirm whether the shipment pause is logistically feasible on your end.\nSincerely,\nDorothy Klein",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "규제 기관의 새로운 의료기기 인증 절차를 설명하려고",
+        "공급업체의 생산 라인 품질 결함에 항의하려고",
+        "창고 시설 확충을 위한 추가 예산 지원을 요청하려고",
+        "규정 재인증 기간 동안 예정된 배송의 보류를 요청하려고",
+        "수술용 장갑의 병원 납품 계약 조건 변경을 통보하려고"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I am therefore writing to ask that you hold any pending shipments scheduled for the next two months'라고 배송 보류를 직접 요청하고 있다. 규제 재인증이라는 복잡한 배경 설명이 길게 이어지지만, 핵심은 이 배경 때문에 발생한 구체적 요청(배송 보류)이다.",
+        "wrong": {
+          "1": "① 재인증 절차가 상세히 설명되지만, 이는 배송 보류 요청의 배경이지 새 인증 절차 자체를 설명하려는 것이 아니다.",
+          "2": "② '공급업체'와 '니트릴 장갑'이 등장하지만, 품질 결함에 항의하는 내용이 없다. 규제 변경으로 인한 재인증 문제이다.",
+          "3": "③ '창고 보관 용량이 한계에 달했다'가 배송 보류 이유 중 하나로 언급되지만, 창고 확충 예산을 요청하는 글이 아니다.",
+          "5": "⑤ '납품'과 관련 있지만, 계약 조건을 변경하겠다는 통보가 아니라 일시적 배송 보류를 요청하는 것이다."
+        },
+        "key_point": "어려운 지문일수록 배경 설명이 길고 복잡하다. 'I am therefore writing to ask that...'처럼 결론 문장에 집중해야 한다. 배경(재인증 문제)을 목적으로 착각하는 것이 이 문제의 함정이다."
+      },
+      "self_check": {
+        "reasoning": "The writer says 'I am therefore writing to ask that you hold any pending shipments scheduled for the next two months.' This is the core request — to pause shipments. The regulatory re-certification issue is context, not the purpose. Choice 1 uses 're-certification' and 'regulatory update' from the passage but elevates background context to the main purpose. Choice 2 uses 'supplier' and 'nitrile gloves' from the passage but fabricates a quality complaint. Choice 3 uses 'warehouse storage capacity' mentioned as the reason but fabricates a budget request. Choice 5 uses 'contract' and 'delivery' context but misidentifies the purpose as a contract amendment notice. This is challenging because the regulatory context is described in detail, making readers potentially identify the purpose as explaining the new regulation rather than the actual shipment pause request.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-18-25",
+      "number": 18,
+      "type": "글의 목적",
+      "difficulty": "hard",
+      "passage": "Dear Ms. Lindqvist,\nThank you for submitting your manuscript, 'Linguistic Ambiguity in Early Modern Legal Texts,' to the Journal of Historical Linguistics. The editorial board found your archival research to be thorough and your central argument — that contractual ambiguity in seventeenth-century English documents reflects deliberate rhetorical strategy rather than drafting imprecision — to be stimulating and well-supported. However, before we can move forward, we would ask that you substantially revise the discussion section of Chapter 4. Specifically, the comparative analysis with French notarial documents currently lacks sufficient primary source citations, and the conclusions drawn from that comparison therefore appear overstated given the available evidence. We would also suggest tightening the theoretical framework discussion in Chapter 2. A revised manuscript should be resubmitted within ninety days. We look forward to reconsidering your work.\nSincerely,\nProfessor Henrik Baum\nEditor-in-Chief, Journal of Historical Linguistics",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "학술지에 제출된 논문의 최종 게재 수락을 통보하려고",
+        "17세기 법률 문서의 언어적 특징에 관한 연구를 소개하려고",
+        "학술 심사 위원회의 구성 변경을 알리려고",
+        "원고 제출 형식 기준의 위반 사항을 지적하려고",
+        "논문 재심을 위한 수정 사항을 전달하려고"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "편집 위원회는 연구를 긍정적으로 평가하면서도 'we would ask that you substantially revise the discussion section of Chapter 4'라고 4장 수정을 요구하고, '90일 이내 재제출'을 요청하고 있다. 칭찬으로 시작하지만 실제 목적은 수정 사항 전달과 재심 요청이다.",
+        "wrong": {
+          "1": "① 칭찬으로 시작하기 때문에 게재 수락처럼 보이지만, 'However' 이후에 수정 요구가 이어지므로 수락이 아니다. 내용과 정반대의 오답이다.",
+          "2": "② '17세기 영어 법률 문서의 언어적 모호성'이 논문 주제로 등장하지만, 연구를 소개하는 것이 아니라 수정을 요구하는 편집장의 편지이다.",
+          "3": "③ '편집 위원회'가 언급되지만, 위원회 구성 변경과 관련된 내용이 없다.",
+          "4": "④ '1차 자료 인용 부족(lacks sufficient primary source citations)'이 문제로 지적되지만, 이는 내용상의 부족함이지 제출 형식 기준 위반이 아니다."
+        },
+        "key_point": "칭찬으로 시작하는 글은 'However' 또는 'but' 이후가 진짜 목적인 경우가 많다. 게재 수락(①)처럼 보이는 함정에 빠지지 않으려면 전환어 이후 내용을 반드시 확인해야 한다."
+      },
+      "self_check": {
+        "reasoning": "The letter says the editorial board found the work stimulating but asks for 'substantial revision' of Chapter 4 (citing insufficient primary sources) and Chapter 2, with resubmission within ninety days. The primary purpose is to communicate required revisions for resubmission. Choice 1 directly contradicts the passage (the paper is not accepted; revision is required). Choice 2 uses '17th-century legal documents' from the passage but misidentifies research content as the purpose. Choice 3 uses 'editorial board' from the passage but fabricates a committee composition change. Choice 4 uses 'manuscript submission' and 'citations' from the passage but fabricates a formatting violation (the issue is inadequate primary sources, not format). This is challenging because the letter begins with praise, potentially misleading readers into thinking the purpose is acceptance notification.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,1220 @@
+{
+  "type": "요약문",
+  "typeNumber": 40,
+  "version": "v2",
+  "totalCount": 25,
+  "difficultyBreakdown": {
+    "easy": 8,
+    "standard": 12,
+    "challenging": 5
+  },
+  "answerDistribution": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5
+  },
+  "questions": [
+    {
+      "id": "v2-40-01",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "easy",
+      "passage": "The placebo effect has long puzzled medical researchers. When patients are given an inert substance and told it is an effective treatment, a significant proportion of them report genuine improvements in their symptoms — improvements that can sometimes be measured objectively. For many years, scientists assumed the effect would vanish once patients learned they were receiving a placebo. Recent studies, however, have challenged this assumption. In a series of clinical trials, patients suffering from chronic lower back pain were openly told that they were taking sugar pills with no active ingredients, yet they still reported meaningful pain relief compared to a control group receiving no treatment at all. This \"open-label\" placebo effect suggests that the mere act of engaging in a treatment ritual, combined with a doctor's attention and care, can mobilize the body's own healing mechanisms regardless of the patient's conscious belief in the substance. The mind, it seems, does not need to be deceived to generate a therapeutic response.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nThe placebo effect can produce (A) health improvements even when patients are fully (B) of receiving an inactive treatment, suggesting the body's healing responses can be activated through the treatment ritual itself.",
+      "choices": [
+        "(A) genuine — (B) aware",
+        "(A) marginal — (B) unaware",
+        "(A) genuine — (B) suspicious",
+        "(A) delayed — (B) ignorant",
+        "(A) imaginary — (B) convinced"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) genuine — 지문의 \"genuine improvements in their symptoms — improvements that can sometimes be measured objectively\"가 효과가 '실제적임'을 직접 뒷받침한다. (B) aware — \"patients were openly told that they were taking sugar pills\"와 \"the mind does not need to be deceived\"가 환자가 플라시보임을 '알면서도' 효과가 나타남을 보여준다.",
+        "wrong": [
+          "(A) marginal이 오답 — 지문은 'meaningful pain relief(유의미한 통증 완화)'라고 서술하므로 'marginal(미미한)'은 과소평가다. (B) unaware도 오답 — open-label 연구는 환자가 알고 있는 상태이므로 'unaware(모르는)'는 정반대다.",
+          "(B) suspicious가 오답 — 지문은 환자가 의심하는 것이 아니라 사실을 '공개적으로 고지받은(openly told)' 상태임을 강조한다.",
+          "(A) delayed가 오답 — 지문에는 효과 발현 지연에 대한 언급이 없다. (B) ignorant도 오답 — 환자는 플라시보임을 알고 있으므로 'ignorant(모르는)'는 틀렸다.",
+          "(A) imaginary가 오답 — 지문은 개선 효과가 'objectively measured(객관적으로 측정 가능)'하다고 명시한다. (B) convinced도 오답 — open-label 연구의 핵심은 약효를 확신하지 않아도 효과가 나타난다는 것이다."
+        ],
+        "key_point": "(A)의 핵심 근거: 지문의 'genuine improvements ... objectively measured'. (B)의 핵심 근거: open-label 설계—환자가 플라시보임을 알아도(aware) 효과가 발생한다는 역설이 지문 전체의 주제다."
+      },
+      "self_check": {
+        "correct_pair": "(A) genuine — (B) aware",
+        "A_justification": "'genuine' matches 'real improvements measured objectively'; the effect is not marginal or imaginary",
+        "B_justification": "'aware' is the key finding — open-label placebo works even when patients KNOW they're getting a placebo",
+        "distractor_analysis": {
+          "choice_2": "(A) 'marginal' understates the 'meaningful relief'; (B) 'unaware' contradicts the open-label design",
+          "choice_3": "(A) fits but (B) 'suspicious' does not capture the open disclosure described",
+          "choice_4": "(A) 'delayed' is not mentioned; (B) 'ignorant' contradicts open-label",
+          "choice_5": "(A) 'imaginary' contradicts 'objectively measured'; (B) 'convinced' is opposite to the open-label finding"
+        },
+        "summary_faithfulness": "Accurately captures both the genuineness of the effect and the paradox of conscious awareness not negating it",
+        "korean_explanation": {
+          "correct": "(A) genuine — 지문의 \"genuine improvements in their symptoms — improvements that can sometimes be measured objectively\"가 효과가 '실제적임'을 직접 뒷받침한다. (B) aware — \"patients were openly told that they were taking sugar pills\"와 \"the mind does not need to be deceived\"가 환자가 플라시보임을 '알면서도' 효과가 나타남을 보여준다.",
+          "wrong": {
+            "choice_2": "(A) marginal이 오답 — 지문은 'meaningful pain relief(유의미한 통증 완화)'라고 서술하므로 'marginal(미미한)'은 과소평가다. (B) unaware도 오답 — open-label 연구는 환자가 알고 있는 상태이므로 'unaware(모르는)'는 정반대다.",
+            "choice_3": "(B) suspicious가 오답 — 지문은 환자가 의심하는 것이 아니라 사실을 '공개적으로 고지받은(openly told)' 상태임을 강조한다.",
+            "choice_4": "(A) delayed가 오답 — 지문에는 효과 발현 지연에 대한 언급이 없다. (B) ignorant도 오답 — 환자는 플라시보임을 알고 있으므로 'ignorant(모르는)'는 틀렸다.",
+            "choice_5": "(A) imaginary가 오답 — 지문은 개선 효과가 'objectively measured(객관적으로 측정 가능)'하다고 명시한다. (B) convinced도 오답 — open-label 연구의 핵심은 약효를 확신하지 않아도 효과가 나타난다는 것이다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-02",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "easy",
+      "passage": "Most people rate their own driving ability as above average — a statistical impossibility given that half of all drivers must, by definition, be below average. This tendency to overestimate one's own competence relative to others is known as the Dunning-Kruger effect, and it manifests across a remarkably wide range of skills and domains. What makes this cognitive bias particularly problematic is that the very skills needed to accurately evaluate one's performance are the same skills that are lacking in poor performers. A person who knows little about grammar, for instance, also lacks the grammatical knowledge required to recognize the errors in their own writing. Conversely, highly skilled individuals often underestimate their abilities, assuming that tasks they find easy must also be easy for others. The result is a paradox: those who know the least tend to be the most confident, while those who know the most are frequently the most uncertain about the extent of their knowledge.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nThe Dunning-Kruger effect describes how low-skilled individuals tend to (A) their abilities while experts tend to (B) theirs, because accurate self-evaluation depends on the very competence one lacks.",
+      "choices": [
+        "(A) overrate — (B) doubt",
+        "(A) underrate — (B) overestimate",
+        "(A) overrate — (B) celebrate",
+        "(A) acknowledge — (B) exaggerate",
+        "(A) conceal — (B) undervalue"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) overrate — 지문의 \"tendency to overestimate one's own competence\"와 운전 실력을 '평균 이상'이라 자평하는 통계적 불가능 예시가 미숙련자가 자신을 '과대평가'함을 뒷받침한다. (B) doubt — \"highly skilled individuals often underestimate their abilities\"와 \"those who know the most are frequently the most uncertain\"이 전문가가 자신의 능력을 '의심'한다는 근거다.",
+        "wrong": [
+          "(A) underrate가 오답 — 지문은 미숙련자가 자신을 과소평가하는 것이 아니라 'overestimate(과대평가)'한다고 명시한다.",
+          "(B) celebrate가 오답 — 지문은 전문가가 자신의 능력을 'underestimate(과소평가)'하고 'uncertain(불확실해한다)'고 하므로 '축하한다'는 의미와 거리가 멀다.",
+          "(A) acknowledge가 오답 — 지문의 핵심은 미숙련자가 자신의 한계를 인정하지 '못한다'는 것이다.",
+          "(A) conceal이 오답 — 던닝-크루거 효과는 의도적 은폐가 아니라 인지 편향, 즉 스스로 인식하지 못하는 과대평가다."
+        ],
+        "key_point": "(A): 미숙련자는 'overrate' — 지문 직접 인용: \"overestimate one's own competence\". (B): 전문가는 'doubt' — 지문 직접 인용: \"the most uncertain about the extent of their knowledge\"."
+      },
+      "self_check": {
+        "correct_pair": "(A) overrate — (B) doubt",
+        "A_justification": "'overrate' directly matches 'overestimate one's own competence' for poor performers",
+        "B_justification": "'doubt' captures how skilled people 'underestimate their abilities' and are 'the most uncertain'",
+        "distractor_analysis": {
+          "choice_2": "(A) 'underrate' is the opposite for low-skilled people",
+          "choice_3": "(A) fits but (B) 'celebrate' does not reflect the uncertainty/underestimation of experts",
+          "choice_4": "(A) 'acknowledge' contradicts the bias — low-skilled people fail to acknowledge their limits",
+          "choice_5": "(A) 'conceal' implies deliberate hiding, not a cognitive bias"
+        },
+        "summary_faithfulness": "Captures both directions of the paradox: overconfidence in the unskilled and self-doubt in the skilled",
+        "korean_explanation": {
+          "correct": "(A) overrate — 지문의 \"tendency to overestimate one's own competence\"와 운전 실력을 '평균 이상'이라 자평하는 통계적 불가능 예시가 미숙련자가 자신을 '과대평가'함을 뒷받침한다. (B) doubt — \"highly skilled individuals often underestimate their abilities\"와 \"those who know the most are frequently the most uncertain\"이 전문가가 자신의 능력을 '의심'한다는 근거다.",
+          "wrong": {
+            "choice_2": "(A) underrate가 오답 — 지문은 미숙련자가 자신을 과소평가하는 것이 아니라 'overestimate(과대평가)'한다고 명시한다.",
+            "choice_3": "(B) celebrate가 오답 — 지문은 전문가가 자신의 능력을 'underestimate(과소평가)'하고 'uncertain(불확실해한다)'고 하므로 '축하한다'는 의미와 거리가 멀다.",
+            "choice_4": "(A) acknowledge가 오답 — 지문의 핵심은 미숙련자가 자신의 한계를 인정하지 '못한다'는 것이다.",
+            "choice_5": "(A) conceal이 오답 — 던닝-크루거 효과는 의도적 은폐가 아니라 인지 편향, 즉 스스로 인식하지 못하는 과대평가다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-03",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "easy",
+      "passage": "Laughter is one of the most universal forms of human expression, appearing across all known cultures. While it is commonly associated with humor, research suggests that humor accounts for only a small fraction of laughter in everyday social interactions. Most laughter, studies show, occurs not in response to jokes but during ordinary conversation, frequently following unexceptional remarks such as \"I have to go now\" or \"I see what you mean.\" This pattern has led psychologists to propose that laughter functions primarily as a social signal rather than a purely humorous response. By laughing, people signal their approval, warmth, and willingness to engage with the person they are talking to. Laughter synchronizes emotional states between individuals, creating a sense of shared experience and mutual understanding. Groups that laugh together tend to report higher levels of trust and cohesion. In this light, laughter can be understood as a form of vocal grooming — a way of reinforcing social bonds much as primates reinforce bonds through physical grooming.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nRather than being merely a response to humor, laughter serves primarily as a (A) tool that (B) social bonds by signaling warmth and creating shared emotional experiences.",
+      "choices": [
+        "(A) communicative — (B) dissolves",
+        "(A) defensive — (B) weakens",
+        "(A) communicative — (B) strengthens",
+        "(A) instinctive — (B) complicates",
+        "(A) voluntary — (B) replaces"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) communicative — 지문의 \"laughter functions primarily as a social signal\"과 \"vocal grooming\"이 웃음이 '의사소통' 도구임을 뒷받침한다. (B) strengthens — \"reinforcing social bonds\"와 \"Groups that laugh together tend to report higher levels of trust and cohesion\"이 사회적 유대를 '강화'한다는 근거다.",
+        "wrong": [
+          "(B) dissolves가 오답 — 지문은 웃음이 유대를 '해소'하는 것이 아니라 'reinforcing(강화)'한다고 명시한다.",
+          "(A) defensive가 오답 — 지문 어디에도 웃음을 방어적 기능으로 설명하는 내용이 없다.",
+          "(A) instinctive가 오답 — 지문은 웃음의 본능적 기원이 아닌 '사회적 기능'을 논한다. (B) complicates도 오답 — 지문은 웃음이 신뢰와 결속을 높인다고 서술한다.",
+          "(B) replaces가 오답 — 지문은 웃음이 다른 무언가를 대체한다고 언급하지 않는다."
+        ],
+        "key_point": "(A): 'social signal'·'vocal grooming' → communicative. (B): 'reinforcing social bonds'·'higher trust and cohesion' → strengthens."
+      },
+      "self_check": {
+        "correct_pair": "(A) communicative — (B) strengthens",
+        "A_justification": "'communicative' accurately captures 'social signal' and 'vocal grooming' — laughter as a form of social communication",
+        "B_justification": "'strengthens' directly reflects 'reinforcing social bonds' and 'higher trust and cohesion'",
+        "distractor_analysis": {
+          "choice_1": "(A) fits but (B) 'dissolves' is opposite — laughter reinforces, not dissolves bonds",
+          "choice_2": "(A) 'defensive' is not mentioned in the passage",
+          "choice_4": "(A) 'instinctive' addresses origin not function; (B) 'complicates' contradicts the cohesion described",
+          "choice_5": "(A) 'voluntary' is not the function described; (B) 'replaces' is not supported"
+        },
+        "summary_faithfulness": "Correctly identifies laughter as communication and its bond-strengthening function",
+        "korean_explanation": {
+          "correct": "(A) communicative — 지문의 \"laughter functions primarily as a social signal\"과 \"vocal grooming\"이 웃음이 '의사소통' 도구임을 뒷받침한다. (B) strengthens — \"reinforcing social bonds\"와 \"Groups that laugh together tend to report higher levels of trust and cohesion\"이 사회적 유대를 '강화'한다는 근거다.",
+          "wrong": {
+            "choice_1": "(B) dissolves가 오답 — 지문은 웃음이 유대를 '해소'하는 것이 아니라 'reinforcing(강화)'한다고 명시한다.",
+            "choice_2": "(A) defensive가 오답 — 지문 어디에도 웃음을 방어적 기능으로 설명하는 내용이 없다.",
+            "choice_4": "(A) instinctive가 오답 — 지문은 웃음의 본능적 기원이 아닌 '사회적 기능'을 논한다. (B) complicates도 오답 — 지문은 웃음이 신뢰와 결속을 높인다고 서술한다.",
+            "choice_5": "(B) replaces가 오답 — 지문은 웃음이 다른 무언가를 대체한다고 언급하지 않는다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-04",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "easy",
+      "passage": "Psychologists have long noted that the more familiar we become with a stimulus — whether a word, a face, a melody, or an abstract shape — the more positively we tend to evaluate it, even in the absence of any conscious recognition that we have encountered it before. This tendency, known as the mere exposure effect, has been demonstrated in hundreds of experimental studies spanning multiple cultures and sensory modalities. In one classic experiment, participants were briefly shown a series of Chinese characters at speeds too fast for conscious recognition. When later asked to rate their liking of the same characters alongside new ones, they consistently rated the previously seen characters more favorably, despite reporting no memory of having seen them. The effect appears to operate below the level of conscious awareness, suggesting that familiarity itself — independent of any rational evaluation — is sufficient to generate a preference. Advertisers and politicians have long exploited this finding: simply repeating an image or a name, even without accompanying positive content, can increase the public's favorable response.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nThe mere exposure effect shows that repeated (A) to a stimulus, even without conscious awareness, is enough to generate a (B) attitude toward it.",
+      "choices": [
+        "(A) exposure — (B) negative",
+        "(A) resistance — (B) neutral",
+        "(A) adaptation — (B) critical",
+        "(A) exposure — (B) favorable",
+        "(A) reaction — (B) ambivalent"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) exposure — 'mere exposure effect'라는 명칭 자체와 \"the more familiar we become with a stimulus\"가 반복 '노출'이 핵심 변수임을 보여준다. (B) favorable — 지문의 \"the more positively we tend to evaluate it\"와 \"rated the previously seen characters more favorably\"가 '호의적' 태도가 형성됨을 직접 뒷받침한다.",
+        "wrong": [
+          "(B) negative가 오답 — 지문은 반복 노출이 '부정적'이 아니라 긍정적 태도를 만든다고 일관되게 서술한다.",
+          "(A) resistance가 오답 — 지문에서 자극에 대한 '저항'은 언급되지 않으며, 핵심 메커니즘은 노출 그 자체다.",
+          "(A) adaptation이 오답 — 적응은 관련 개념이지만, 단순 반복 노출이 핵심이며 지문에서 'adaptation'이라는 개념을 직접 다루지 않는다.",
+          "(A) reaction이 오답 — 막연한 '반응'보다 구체적으로 '노출'이 핵심 개념이다. (B) ambivalent도 오답 — 지문은 명확히 긍정적 선호가 생긴다고 하므로 '양가적' 태도와 모순된다."
+        ],
+        "key_point": "(A): 'mere exposure effect' — 핵심 변수는 반복 노출(exposure). (B): 지문 직접 인용 \"rated ... more favorably\" → favorable."
+      },
+      "self_check": {
+        "correct_pair": "(A) exposure — (B) favorable",
+        "A_justification": "'exposure' is the core variable in the mere exposure effect — repeated encounters with a stimulus",
+        "B_justification": "'favorable' directly matches 'evaluate it more positively' and 'increase favorable response'",
+        "distractor_analysis": {
+          "choice_1": "(A) fits but (B) 'negative' is the opposite of the described effect",
+          "choice_2": "(A) 'resistance' is not the mechanism described",
+          "choice_3": "(A) 'adaptation' is related but misses the key mechanism of mere repeated encounter",
+          "choice_5": "(A) 'reaction' is vague and does not capture the key concept; (B) 'ambivalent' contradicts the clear positive preference"
+        },
+        "summary_faithfulness": "Directly captures the core mechanism and outcome of the mere exposure effect",
+        "korean_explanation": {
+          "correct": "(A) exposure — 'mere exposure effect'라는 명칭 자체와 \"the more familiar we become with a stimulus\"가 반복 '노출'이 핵심 변수임을 보여준다. (B) favorable — 지문의 \"the more positively we tend to evaluate it\"와 \"rated the previously seen characters more favorably\"가 '호의적' 태도가 형성됨을 직접 뒷받침한다.",
+          "wrong": {
+            "choice_1": "(B) negative가 오답 — 지문은 반복 노출이 '부정적'이 아니라 긍정적 태도를 만든다고 일관되게 서술한다.",
+            "choice_2": "(A) resistance가 오답 — 지문에서 자극에 대한 '저항'은 언급되지 않으며, 핵심 메커니즘은 노출 그 자체다.",
+            "choice_3": "(A) adaptation이 오답 — 적응은 관련 개념이지만, 단순 반복 노출이 핵심이며 지문에서 'adaptation'이라는 개념을 직접 다루지 않는다.",
+            "choice_5": "(A) reaction이 오답 — 막연한 '반응'보다 구체적으로 '노출'이 핵심 개념이다. (B) ambivalent도 오답 — 지문은 명확히 긍정적 선호가 생긴다고 하므로 '양가적' 태도와 모순된다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-05",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "easy",
+      "passage": "When people witness an emergency in the presence of a large crowd, they are statistically less likely to intervene than if they are the sole observer. In a now-famous series of experiments, psychologists John Darley and Bibb Latané staged an apparent epileptic seizure and varied the number of bystanders present. They found that 85% of participants who believed they were the only witness attempted to help, compared to just 31% when five other bystanders were present. This phenomenon, known as the bystander effect, operates through two related mechanisms. First, individuals in a crowd experience diffusion of responsibility: they assume that someone else will take action, so they personally feel less obligated to do so. Second, when people see that others around them are not reacting, they interpret the situation as less serious than it might actually be, a process called pluralistic ignorance. Together, these mechanisms can transform a crowd from a source of help into an obstacle to it, paradoxically making victims less safe when more people are around.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nThe bystander effect reveals that a larger crowd can actually (A) the likelihood of someone receiving help, as individuals (B) responsibility and misread others' inaction as a sign that intervention is unnecessary.",
+      "choices": [
+        "(A) guarantee — (B) share",
+        "(A) increase — (B) accept",
+        "(A) reduce — (B) distribute",
+        "(A) evaluate — (B) transfer",
+        "(A) reduce — (B) reject"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) reduce — 지문의 \"less likely to intervene\"와 실험 결과(목격자 1명: 85% 도움, 5명: 31%)가 군중이 많을수록 도움 가능성이 '감소'함을 직접 보여준다. (B) distribute — 지문의 핵심 메커니즘인 \"diffusion of responsibility(책임감 분산)\"가 책임이 여러 사람에게 '분산'된다는 의미의 distribute를 뒷받침한다.",
+        "wrong": [
+          "(A) guarantee가 오답 — 지문은 군중이 많을수록 도움이 '보장'되는 것이 아니라 오히려 줄어든다고 한다.",
+          "(A) increase가 오답 — 지문의 방관자 효과 실험 결과와 정반대다.",
+          "(A) evaluate가 오답 — 지문은 도움 가능성 감소를 다루며 '평가'와는 관련이 없다.",
+          "(B) reject가 오답 — 지문은 개인이 책임을 능동적으로 '거부'하는 것이 아니라 수동적으로 분산·희석되는 'diffusion(확산)'임을 강조한다."
+        ],
+        "key_point": "(A): 방관자 효과의 역설 — 더 많은 사람 → 도움 가능성 reduce. (B): 핵심 메커니즘 'diffusion of responsibility' → distribute."
+      },
+      "self_check": {
+        "correct_pair": "(A) reduce — (B) distribute",
+        "A_justification": "'reduce' captures the paradox — more bystanders means less help likelihood",
+        "B_justification": "'distribute' captures 'diffusion of responsibility' — spreading responsibility across many people so each feels less obligated",
+        "distractor_analysis": {
+          "choice_1": "(A) 'guarantee' is opposite to the bystander effect; (B) 'share' is partially right but misses the diluting effect",
+          "choice_2": "(A) 'increase' contradicts the bystander effect finding",
+          "choice_4": "(A) 'evaluate' does not capture the reduction in help likelihood",
+          "choice_5": "(A) fits but (B) 'reject' implies active refusal rather than passive diffusion"
+        },
+        "summary_faithfulness": "Accurately captures both the counterintuitive outcome and the two mechanisms of the bystander effect",
+        "korean_explanation": {
+          "correct": "(A) reduce — 지문의 \"less likely to intervene\"와 실험 결과(목격자 1명: 85% 도움, 5명: 31%)가 군중이 많을수록 도움 가능성이 '감소'함을 직접 보여준다. (B) distribute — 지문의 핵심 메커니즘인 \"diffusion of responsibility(책임감 분산)\"가 책임이 여러 사람에게 '분산'된다는 의미의 distribute를 뒷받침한다.",
+          "wrong": {
+            "choice_1": "(A) guarantee가 오답 — 지문은 군중이 많을수록 도움이 '보장'되는 것이 아니라 오히려 줄어든다고 한다.",
+            "choice_2": "(A) increase가 오답 — 지문의 방관자 효과 실험 결과와 정반대다.",
+            "choice_4": "(A) evaluate가 오답 — 지문은 도움 가능성 감소를 다루며 '평가'와는 관련이 없다.",
+            "choice_5": "(B) reject가 오답 — 지문은 개인이 책임을 능동적으로 '거부'하는 것이 아니라 수동적으로 분산·희석되는 'diffusion(확산)'임을 강조한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-06",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "easy",
+      "passage": "Many people pride themselves on their ability to multitask, juggling phone calls, emails, and in-person conversations simultaneously. However, decades of cognitive research tell a different story. The human brain, studies consistently show, is not designed to process multiple demanding tasks at the same time. What we call multitasking is, in reality, a process of rapid task-switching: the brain toggles between activities, and each switch carries a cognitive cost. This cost — often called the \"switch cost\" — manifests as slower reaction times, higher error rates, and reduced depth of processing. In one study, participants who multitasked during a learning session retained significantly less information than those who focused on a single task. The performance gap widened under more cognitively demanding conditions. Ironically, self-described frequent multitaskers performed worst of all on laboratory tests of multitasking ability, suggesting that habitual task-switching may itself impair the very cognitive skills it is assumed to develop.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nContrary to popular belief, multitasking involves (A) switching between tasks rather than true simultaneous processing, which (B) performance by increasing errors and reducing information retention.",
+      "choices": [
+        "(A) gradual — (B) stabilizes",
+        "(A) rapid — (B) impairs",
+        "(A) deliberate — (B) improves",
+        "(A) unconscious — (B) maintains",
+        "(A) rapid — (B) diversifies"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) rapid — 지문의 \"a process of rapid task-switching\"이 멀티태스킹의 실제 본질이 '신속한' 전환임을 직접 명시한다. (B) impairs — \"slower reaction times, higher error rates, and reduced depth of processing\"과 \"retained significantly less information\"이 수행 능력이 '저하'됨을 뒷받침한다.",
+        "wrong": [
+          "(A) gradual이 오답 — 지문은 'rapid(신속한)' 전환이라고 명시한다. (B) stabilizes도 오답 — 지문은 수행 능력이 안정되는 것이 아니라 저하된다고 한다.",
+          "(B) improves가 오답 — 연구 결과는 멀티태스킹이 수행 능력을 향상시키는 것이 아니라 오히려 손상시킨다고 일관되게 보여준다.",
+          "(B) maintains가 오답 — 지문은 수행 능력이 유지되는 것이 아니라 저하된다고 명시한다.",
+          "(B) diversifies가 오답 — 지문의 결론은 수행 능력 손상이며, 다양성과는 관련이 없다."
+        ],
+        "key_point": "(A): 지문 직접 인용 \"a process of rapid task-switching\" → rapid. (B): 오류율·반응 시간·정보 유지 모두 저하 → impairs."
+      },
+      "self_check": {
+        "correct_pair": "(A) rapid — (B) impairs",
+        "A_justification": "'rapid' matches 'rapid task-switching' described as the true nature of multitasking",
+        "B_justification": "'impairs' captures 'slower reaction times, higher error rates, reduced retention'",
+        "distractor_analysis": {
+          "choice_1": "(A) 'gradual' contradicts 'rapid'; (B) 'stabilizes' contradicts the performance costs described",
+          "choice_3": "(A) 'deliberate' misses the speed aspect; (B) 'improves' directly contradicts the research findings",
+          "choice_4": "(A) 'unconscious' is not the key point; (B) 'maintains' understates — performance decreases",
+          "choice_5": "(A) fits but (B) 'diversifies' is irrelevant to the passage's conclusion about performance costs"
+        },
+        "summary_faithfulness": "Captures both the true mechanism of multitasking and its negative effect on performance",
+        "korean_explanation": {
+          "correct": "(A) rapid — 지문의 \"a process of rapid task-switching\"이 멀티태스킹의 실제 본질이 '신속한' 전환임을 직접 명시한다. (B) impairs — \"slower reaction times, higher error rates, and reduced depth of processing\"과 \"retained significantly less information\"이 수행 능력이 '저하'됨을 뒷받침한다.",
+          "wrong": {
+            "choice_1": "(A) gradual이 오답 — 지문은 'rapid(신속한)' 전환이라고 명시한다. (B) stabilizes도 오답 — 지문은 수행 능력이 안정되는 것이 아니라 저하된다고 한다.",
+            "choice_3": "(B) improves가 오답 — 연구 결과는 멀티태스킹이 수행 능력을 향상시키는 것이 아니라 오히려 손상시킨다고 일관되게 보여준다.",
+            "choice_4": "(B) maintains가 오답 — 지문은 수행 능력이 유지되는 것이 아니라 저하된다고 명시한다.",
+            "choice_5": "(B) diversifies가 오답 — 지문의 결론은 수행 능력 손상이며, 다양성과는 관련이 없다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-07",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "easy",
+      "passage": "Nostalgia — the bittersweet longing for the past — was once classified as a psychological disorder. Swiss physician Johannes Hofer coined the term in 1688 to describe the debilitating homesickness suffered by Swiss mercenaries stationed far from their mountain villages. For the next three centuries, nostalgia was largely viewed as a symptom of weakness or mental instability. Modern psychology, however, has dramatically revised this assessment. A growing body of research indicates that nostalgic reflection serves important psychological functions. When people engage in nostalgic thinking, they tend to experience increased feelings of social connectedness, perceiving their relationships as more meaningful and their lives as more purposeful. Studies have also found that nostalgia acts as a buffer against loneliness: participants induced to feel nostalgic reported feeling less alone and more secure in their sense of self. Rather than pulling people away from the present, nostalgia appears to provide the emotional resources needed to face current challenges with greater confidence and optimism.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nOnce regarded as a sign of psychological (A), nostalgia is now understood to be a (B) resource that enhances feelings of connection and helps people cope with present difficulties.",
+      "choices": [
+        "(A) strength — (B) harmful",
+        "(A) weakness — (B) valuable",
+        "(A) growth — (B) outdated",
+        "(A) weakness — (B) unreliable",
+        "(A) maturity — (B) temporary"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) weakness — 지문의 역사적 관점인 \"symptom of weakness or mental instability\"가 향수가 심리적 '약함'의 징표로 여겨졌음을 직접 명시한다. (B) valuable — \"serves important psychological functions\", \"buffer against loneliness\", \"provide the emotional resources needed to face current challenges\"가 현대 심리학이 향수를 '가치 있는' 자원으로 재평가함을 뒷받침한다.",
+        "wrong": [
+          "(A) strength가 오답 — 지문이 묘사하는 역사적 관점은 향수를 'weakness(약함)'로 봤지 'strength(강함)'로 본 것이 아니다.",
+          "(A) growth가 오답 — 역사적으로 향수는 성장이나 발달과 관련지어진 것이 아니라 병리적 약함으로 분류됐다.",
+          "(B) unreliable이 오답 — 지문의 현대적 재평가는 향수가 심리적으로 '가치 있는' 기능을 수행한다는 긍정적 내용이므로 '신뢰할 수 없다'는 의미와 모순된다.",
+          "(A) maturity가 오답 — 지문의 역사적 병리화는 성숙도와 무관하며, 심리적 불안정의 증상으로 보았다는 것이 핵심이다."
+        ],
+        "key_point": "(A): 역사적 시각 — \"symptom of weakness or mental instability\" → weakness. (B): 현대 재평가 — \"serves important psychological functions\"·\"emotional resources\" → valuable."
+      },
+      "self_check": {
+        "correct_pair": "(A) weakness — (B) valuable",
+        "A_justification": "'weakness' matches 'symptom of weakness or mental instability' from the historical view",
+        "B_justification": "'valuable' captures the modern finding that nostalgia is a psychological resource with positive functions",
+        "distractor_analysis": {
+          "choice_1": "(A) 'strength' contradicts the historical view being described",
+          "choice_3": "(A) 'growth' is not the historical characterization",
+          "choice_4": "(A) fits but (B) 'unreliable' contradicts the passage's positive reassessment",
+          "choice_5": "(A) 'maturity' is unrelated to the historical pathologizing of nostalgia"
+        },
+        "summary_faithfulness": "Captures the reversal from historical condemnation to modern recognition of nostalgia's psychological value",
+        "korean_explanation": {
+          "correct": "(A) weakness — 지문의 역사적 관점인 \"symptom of weakness or mental instability\"가 향수가 심리적 '약함'의 징표로 여겨졌음을 직접 명시한다. (B) valuable — \"serves important psychological functions\", \"buffer against loneliness\", \"provide the emotional resources needed to face current challenges\"가 현대 심리학이 향수를 '가치 있는' 자원으로 재평가함을 뒷받침한다.",
+          "wrong": {
+            "choice_1": "(A) strength가 오답 — 지문이 묘사하는 역사적 관점은 향수를 'weakness(약함)'로 봤지 'strength(강함)'로 본 것이 아니다.",
+            "choice_3": "(A) growth가 오답 — 역사적으로 향수는 성장이나 발달과 관련지어진 것이 아니라 병리적 약함으로 분류됐다.",
+            "choice_4": "(B) unreliable이 오답 — 지문의 현대적 재평가는 향수가 심리적으로 '가치 있는' 기능을 수행한다는 긍정적 내용이므로 '신뢰할 수 없다'는 의미와 모순된다.",
+            "choice_5": "(A) maturity가 오답 — 지문의 역사적 병리화는 성숙도와 무관하며, 심리적 불안정의 증상으로 보았다는 것이 핵심이다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-08",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "easy",
+      "passage": "Body language plays a decisive but often underappreciated role in negotiation. Research in organizational psychology suggests that negotiators who adopt expansive, open postures — leaning forward, maintaining eye contact, and using deliberate hand gestures — are perceived as more confident and authoritative by their counterparts. These perceptions, in turn, influence the concessions that parties are willing to make. In a series of simulated salary negotiations, participants who were instructed to maintain open body posture secured outcomes that were, on average, 16% more favorable than those who adopted closed, self-protective postures. Intriguingly, the effect operates not only on others but on the negotiator themselves: adopting a dominant posture triggers hormonal changes — specifically, increases in testosterone and decreases in cortisol — that increase the individual's own willingness to take risks and assert their position. The body, it appears, does not merely reflect confidence but actively generates it, creating a feedback loop between physical stance and psychological state.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nIn negotiations, expansive body postures not only (A) others' perceptions of a negotiator's authority but also (B) the negotiator's own confidence by triggering hormonal changes.",
+      "choices": [
+        "(A) shape — (B) boost",
+        "(A) shape — (B) undermine",
+        "(A) reveal — (B) reduce",
+        "(A) distort — (B) suppress",
+        "(A) limit — (B) transfer"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) shape — 지문의 \"are perceived as more confident and authoritative\"와 협상 결과가 평균 16% 유리했다는 실험 결과가 자세가 상대방의 인식을 '형성(shape)'함을 보여준다. (B) boost — \"triggers hormonal changes — increases in testosterone and decreases in cortisol — that increase the individual's own willingness\"와 \"actively generates it(confidence)\"가 자신감이 '높아짐(boost)'을 뒷받침한다.",
+        "wrong": [
+          "(B) undermine이 오답 — 지문은 호르몬 변화가 자신감을 '높인다'고 서술하므로 '약화시킨다'는 의미의 undermine은 정반대다.",
+          "(A) reveal이 오답 — 자세는 이미 존재하는 인식을 드러내는 것이 아니라 새롭게 '형성'한다. (B) reduce도 오답 — 지문은 자신감이 감소하는 것이 아니라 증가한다고 명시한다.",
+          "(A) distort가 오답 — 지문은 자세가 인식을 '왜곡'하는 것이 아니라 형성(shape)한다고 서술한다. (B) suppress도 오답 — 지문은 자신감이 억제되는 것이 아니라 생성됨을 강조한다.",
+          "(A) limit이 오답 — 지문은 자세가 상대방의 인식을 '제한'하는 것이 아니라 적극적으로 형성한다고 한다. (B) transfer도 오답 — 자신감은 외부에서 전달받는 것이 아니라 자세를 통해 스스로 생성된다."
+        ],
+        "key_point": "(A): 자세 → 상대 인식 shape. (B): 호르몬 변화(테스토스테론↑·코르티솔↓) → 자신감 boost. 두 방향 모두 확장 자세의 효과다."
+      },
+      "self_check": {
+        "correct_pair": "(A) shape — (B) boost",
+        "A_justification": "'shape' captures how posture influences how others perceive a negotiator — it forms/constructs that perception",
+        "B_justification": "'boost' accurately reflects the hormonal changes that 'increase the individual's own willingness' and 'generate confidence'",
+        "distractor_analysis": {
+          "choice_2": "(A) fits but (B) 'undermine' is the opposite of the effect described",
+          "choice_3": "(A) 'reveal' means to uncover existing perceptions, not actively form them; (B) 'reduce' contradicts the confidence increase",
+          "choice_4": "(A) 'distort' has a negative connotation not supported; (B) 'suppress' is opposite",
+          "choice_5": "(A) 'limit' contradicts 'shape/influence'; (B) 'transfer' does not match the self-generated confidence"
+        },
+        "summary_faithfulness": "Captures both the interpersonal and intrapersonal effects of expansive body posture in negotiations",
+        "korean_explanation": {
+          "correct": "(A) shape — 지문의 \"are perceived as more confident and authoritative\"와 협상 결과가 평균 16% 유리했다는 실험 결과가 자세가 상대방의 인식을 '형성(shape)'함을 보여준다. (B) boost — \"triggers hormonal changes — increases in testosterone and decreases in cortisol — that increase the individual's own willingness\"와 \"actively generates it(confidence)\"가 자신감이 '높아짐(boost)'을 뒷받침한다.",
+          "wrong": {
+            "choice_2": "(B) undermine이 오답 — 지문은 호르몬 변화가 자신감을 '높인다'고 서술하므로 '약화시킨다'는 의미의 undermine은 정반대다.",
+            "choice_3": "(A) reveal이 오답 — 자세는 이미 존재하는 인식을 드러내는 것이 아니라 새롭게 '형성'한다. (B) reduce도 오답 — 지문은 자신감이 감소하는 것이 아니라 증가한다고 명시한다.",
+            "choice_4": "(A) distort가 오답 — 지문은 자세가 인식을 '왜곡'하는 것이 아니라 형성(shape)한다고 서술한다. (B) suppress도 오답 — 지문은 자신감이 억제되는 것이 아니라 생성됨을 강조한다.",
+            "choice_5": "(A) limit이 오답 — 지문은 자세가 상대방의 인식을 '제한'하는 것이 아니라 적극적으로 형성한다고 한다. (B) transfer도 오답 — 자신감은 외부에서 전달받는 것이 아니라 자세를 통해 스스로 생성된다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-09",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "One of the most persistent challenges in scientific research is the tendency of investigators to unconsciously favor evidence that supports their existing hypotheses while discounting or overlooking data that contradicts them. This cognitive bias, known as confirmation bias, operates at every stage of the research process. In the design phase, researchers may choose measurement instruments or experimental conditions that are more sensitive to expected outcomes. During data collection, anomalous results may be attributed to equipment failure or human error and discarded. In the interpretation phase, patterns consistent with the hypothesis receive disproportionate attention. Peer review, which is supposed to serve as a corrective mechanism, is not immune: reviewers who share a researcher's theoretical commitments are more likely to approve a paper for publication. The consequent distortion of the scientific literature — often called publication bias — means that the published record systematically overstates the strength and consistency of evidence for prevailing theories, leaving scientists with an inflated confidence in claims that may, upon broader examination, be far weaker than they appear.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nConfirmation bias (A) the research process at every stage, causing the published scientific record to (B) the actual evidential strength of prevailing theories.",
+      "choices": [
+        "(A) corrects — (B) accurately represent",
+        "(A) distorts — (B) exaggerate",
+        "(A) streamlines — (B) underestimate",
+        "(A) distorts — (B) challenge",
+        "(A) reflects — (B) undermine"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) distorts — 지문의 \"distortion of the scientific literature\"와 연구의 모든 단계(설계·수집·해석·동료 심사)에서 편향이 작동한다는 설명이 확증 편향이 과학적 과정을 '왜곡'함을 직접 뒷받침한다. (B) exaggerate — 지문의 \"systematically overstates the strength and consistency of evidence\"와 \"inflated confidence\"가 출판 기록이 이론의 증거 강도를 '과장'함을 명시한다.",
+        "wrong": [
+          "(A) corrects가 오답 — 지문은 동료 심사조차 편향을 교정하지 못한다고 명시하므로 'corrects(교정한다)'는 정반대다.",
+          "(A) streamlines가 오답 — 지문은 연구 과정이 효율화되는 것이 아니라 편향으로 왜곡됨을 서술한다. (B) underestimate도 오답 — 지문은 'overstates(과장)'이라 하므로 '과소평가'는 반대다.",
+          "(B) challenge가 오답 — 출판 기록은 이론에 도전하는 것이 아니라 오히려 기존 이론의 증거를 과장하여 뒷받침한다.",
+          "(A) reflects가 오답 — 중립적 '반영'이 아니라 능동적 '왜곡'이 핵심이다. (B) undermine도 오답 — 지문은 기록이 이론을 약화하는 것이 아니라 과장하여 강화함을 서술한다."
+        ],
+        "key_point": "(A): 지문 직접 인용 \"distortion of the scientific literature\" → distorts. (B): \"systematically overstates\" → exaggerate."
+      },
+      "self_check": {
+        "correct_pair": "(A) distorts — (B) exaggerate",
+        "A_justification": "'distorts' is directly supported by 'distortion of the scientific literature' and bias at every stage",
+        "B_justification": "'exaggerate' matches 'systematically overstates the strength' and 'inflated confidence'",
+        "distractor_analysis": {
+          "choice_1": "(A) 'corrects' is the opposite; the passage says peer review also fails to correct bias",
+          "choice_3": "(A) 'streamlines' implies efficiency not distortion; (B) 'underestimate' is opposite to 'overstates'",
+          "choice_4": "(A) fits but (B) 'challenge' implies the record questions theories, opposite to the passage",
+          "choice_5": "(A) 'reflects' is neutral, not capturing the active distortion; (B) 'undermine' is opposite"
+        },
+        "summary_faithfulness": "Accurately condenses both the pervasive nature of confirmation bias and its effect on the literature",
+        "korean_explanation": {
+          "correct": "(A) distorts — 지문의 \"distortion of the scientific literature\"와 연구의 모든 단계(설계·수집·해석·동료 심사)에서 편향이 작동한다는 설명이 확증 편향이 과학적 과정을 '왜곡'함을 직접 뒷받침한다. (B) exaggerate — 지문의 \"systematically overstates the strength and consistency of evidence\"와 \"inflated confidence\"가 출판 기록이 이론의 증거 강도를 '과장'함을 명시한다.",
+          "wrong": {
+            "choice_1": "(A) corrects가 오답 — 지문은 동료 심사조차 편향을 교정하지 못한다고 명시하므로 'corrects(교정한다)'는 정반대다.",
+            "choice_3": "(A) streamlines가 오답 — 지문은 연구 과정이 효율화되는 것이 아니라 편향으로 왜곡됨을 서술한다. (B) underestimate도 오답 — 지문은 'overstates(과장)'이라 하므로 '과소평가'는 반대다.",
+            "choice_4": "(B) challenge가 오답 — 출판 기록은 이론에 도전하는 것이 아니라 오히려 기존 이론의 증거를 과장하여 뒷받침한다.",
+            "choice_5": "(A) reflects가 오답 — 중립적 '반영'이 아니라 능동적 '왜곡'이 핵심이다. (B) undermine도 오답 — 지문은 기록이 이론을 약화하는 것이 아니라 과장하여 강화함을 서술한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-10",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "Planned obsolescence refers to the deliberate design of products with a limited lifespan, ensuring that consumers must replace them sooner than they otherwise would. The strategy, widely adopted by manufacturers from the 1950s onward, takes two principal forms. Functional obsolescence occurs when a product is engineered to break down or malfunction after a predetermined period. Psychological obsolescence, by contrast, does not depend on physical failure; instead, manufacturers release cosmetically updated versions of functional products — a slightly different shape, a new color range, or a redesigned interface — to make existing models feel outdated and undesirable. Critics argue that both forms of planned obsolescence generate enormous volumes of waste, contributing significantly to the environmental burden of consumer culture. Proponents counter that the strategy stimulates innovation and economic growth by continuously creating demand. What is undeniable is that planned obsolescence has fundamentally altered the relationship between consumers and the objects they own, transforming possession from a long-term investment into a temporary arrangement.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nPlanned obsolescence, whether achieved through engineering products to (A) or through cosmetic updates that induce dissatisfaction, has reshaped consumer culture while raising serious (B) concerns.",
+      "choices": [
+        "(A) improve — (B) financial",
+        "(A) last — (B) aesthetic",
+        "(A) fail — (B) environmental",
+        "(A) fail — (B) regulatory",
+        "(A) evolve — (B) social"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) fail — 지문의 기능적 노후화 설명인 \"engineered to break down or malfunction after a predetermined period\"가 제품이 '고장 나도록' 설계된다는 근거다. (B) environmental — 지문의 비판 내용 \"generate enormous volumes of waste, contributing significantly to the environmental burden\"이 '환경적' 우려를 직접 뒷받침한다.",
+        "wrong": [
+          "(A) improve가 오답 — 계획된 노후화는 제품 개선이 아니라 의도적 수명 제한을 목적으로 한다.",
+          "(A) last가 오답 — 지문은 제품이 오래가도록 설계하는 것이 아니라 일정 기간 후 고장 나도록 설계함을 명시한다.",
+          "(B) regulatory가 오답 — 지문의 비판은 환경 부담에 집중되어 있으며 규제 문제를 주요 우려 사항으로 제시하지 않는다.",
+          "(A) evolve가 오답 — 지문은 제품이 '발전'하도록 설계된 것이 아니라 의도적으로 고장 나도록 설계됨을 핵심으로 한다."
+        ],
+        "key_point": "(A): 기능적 노후화 = 'break down or malfunction after a predetermined period' → fail. (B): 비판의 핵심 = 'environmental burden'·'enormous volumes of waste' → environmental."
+      },
+      "self_check": {
+        "correct_pair": "(A) fail — (B) environmental",
+        "A_justification": "'fail' directly reflects 'engineered to break down or malfunction after a predetermined period'",
+        "B_justification": "'environmental' matches 'enormous volumes of waste' and 'environmental burden of consumer culture'",
+        "distractor_analysis": {
+          "choice_1": "(A) 'improve' contradicts the deliberate failure mechanism",
+          "choice_2": "(A) 'last' is the opposite of the intended premature breakdown",
+          "choice_4": "(A) fits but (B) 'regulatory' is not the focus of the criticism in the passage",
+          "choice_5": "(A) 'evolve' does not capture the deliberate failure; (B) 'social' is too vague"
+        },
+        "summary_faithfulness": "Captures both types of obsolescence and the environmental critique",
+        "korean_explanation": {
+          "correct": "(A) fail — 지문의 기능적 노후화 설명인 \"engineered to break down or malfunction after a predetermined period\"가 제품이 '고장 나도록' 설계된다는 근거다. (B) environmental — 지문의 비판 내용 \"generate enormous volumes of waste, contributing significantly to the environmental burden\"이 '환경적' 우려를 직접 뒷받침한다.",
+          "wrong": {
+            "choice_1": "(A) improve가 오답 — 계획된 노후화는 제품 개선이 아니라 의도적 수명 제한을 목적으로 한다.",
+            "choice_2": "(A) last가 오답 — 지문은 제품이 오래가도록 설계하는 것이 아니라 일정 기간 후 고장 나도록 설계함을 명시한다.",
+            "choice_4": "(B) regulatory가 오답 — 지문의 비판은 환경 부담에 집중되어 있으며 규제 문제를 주요 우려 사항으로 제시하지 않는다.",
+            "choice_5": "(A) evolve가 오답 — 지문은 제품이 '발전'하도록 설계된 것이 아니라 의도적으로 고장 나도록 설계됨을 핵심으로 한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-11",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "Social media platforms were initially celebrated as tools of democratization, offering citizens direct access to information and enabling grassroots political organization. Over the past decade, however, a growing body of research has documented a troubling side effect: algorithmic curation of content appears to intensify political polarization. Because platforms are designed to maximize user engagement, and because content that provokes strong emotional reactions — particularly outrage and indignation — generates more clicks and shares, recommendation algorithms systematically expose users to material that reinforces and inflames their existing political beliefs. The result is the formation of what scholars call \"filter bubbles\" or \"echo chambers,\" in which users are insulated from perspectives that challenge their own. Experimental studies have confirmed that extended use of algorithmically curated social media is associated with more extreme political positions and reduced willingness to consider opposing viewpoints. The architecture of connection, it seems, has become an architecture of division.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nSocial media algorithms, by prioritizing emotionally (A) content, tend to trap users in echo chambers where their existing views are continuously (B), thereby deepening political divisions.",
+      "choices": [
+        "(A) neutral — (B) questioned",
+        "(A) provocative — (B) reinforced",
+        "(A) educational — (B) expanded",
+        "(A) balanced — (B) moderated",
+        "(A) provocative — (B) eliminated"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) provocative — 지문의 \"content that provokes strong emotional reactions — particularly outrage and indignation\"이 알고리즘이 '자극적인' 콘텐츠를 우선시함을 직접 보여준다. (B) reinforced — 지문의 \"reinforces and inflames their existing political beliefs\"가 기존 견해가 지속적으로 '강화'됨을 명시한다.",
+        "wrong": [
+          "(A) neutral이 오답 — 지문은 알고리즘이 중립적 콘텐츠가 아니라 감정적 반응을 유발하는 콘텐츠를 최적화함을 명시한다.",
+          "(A) educational이 오답 — 알고리즘의 최적화 목표는 사용자 참여(engagement)이며, 지문에서 교육적 목적은 언급되지 않는다.",
+          "(A) balanced가 오답 — 에코 챔버는 본질적으로 편향된 정보 환경이므로 '균형 잡힌' 콘텐츠와 반대된다.",
+          "(B) eliminated가 오답 — 지문은 기존 견해가 제거되는 것이 아니라 오히려 'reinforces and inflames(강화·부추김)'된다고 명시한다."
+        ],
+        "key_point": "(A): 알고리즘 최적화 대상 = 'outrage and indignation' → provocative. (B): 에코챔버 결과 = 'reinforces and inflames existing beliefs' → reinforced."
+      },
+      "self_check": {
+        "correct_pair": "(A) provocative — (B) reinforced",
+        "A_justification": "'provocative' matches 'content that provokes strong emotional reactions — outrage and indignation'",
+        "B_justification": "'reinforced' directly reflects 'reinforces and inflames their existing political beliefs'",
+        "distractor_analysis": {
+          "choice_1": "(A) 'neutral' contradicts the emotional, outrage-generating content described",
+          "choice_3": "(A) 'educational' is the opposite of the algorithm's actual optimization target",
+          "choice_4": "(A) 'balanced' contradicts the one-sided nature of echo chambers",
+          "choice_5": "(A) fits but (B) 'eliminated' is opposite — views are amplified not eliminated"
+        },
+        "summary_faithfulness": "Accurately captures the mechanism (provocative content) and outcome (reinforced views, deeper division)",
+        "korean_explanation": {
+          "correct": "(A) provocative — 지문의 \"content that provokes strong emotional reactions — particularly outrage and indignation\"이 알고리즘이 '자극적인' 콘텐츠를 우선시함을 직접 보여준다. (B) reinforced — 지문의 \"reinforces and inflames their existing political beliefs\"가 기존 견해가 지속적으로 '강화'됨을 명시한다.",
+          "wrong": {
+            "choice_1": "(A) neutral이 오답 — 지문은 알고리즘이 중립적 콘텐츠가 아니라 감정적 반응을 유발하는 콘텐츠를 최적화함을 명시한다.",
+            "choice_3": "(A) educational이 오답 — 알고리즘의 최적화 목표는 사용자 참여(engagement)이며, 지문에서 교육적 목적은 언급되지 않는다.",
+            "choice_4": "(A) balanced가 오답 — 에코 챔버는 본질적으로 편향된 정보 환경이므로 '균형 잡힌' 콘텐츠와 반대된다.",
+            "choice_5": "(B) eliminated가 오답 — 지문은 기존 견해가 제거되는 것이 아니라 오히려 'reinforces and inflames(강화·부추김)'된다고 명시한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-12",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "Bilingual speakers do not simply maintain two separate language systems that they alternate between; rather, both languages are perpetually active in the mind, competing for selection with every utterance. The practice of switching between languages mid-conversation, known as code-switching, was long dismissed by educators as a sign of linguistic deficiency — evidence that the speaker lacked full mastery of either language. Linguists now understand code-switching very differently. Far from being a failure of competence, code-switching is a highly sophisticated communicative strategy that draws simultaneously on the resources of both languages to achieve effects that would be difficult or impossible in either language alone. Bilinguals switch codes to signal group identity, to express nuances that one language captures better than the other, to soften or intensify an utterance, or simply to fill lexical gaps. Studies have demonstrated that proficient bilinguals code-switch more, not less, than those who are less fluent, suggesting that the practice requires and demonstrates a high level of linguistic control rather than a lack thereof.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nCode-switching, once dismissed as a mark of linguistic (A), is now recognized as a (B) skill that allows bilinguals to exploit the full communicative potential of both languages.",
+      "choices": [
+        "(A) sophistication — (B) redundant",
+        "(A) diversity — (B) unnecessary",
+        "(A) incompetence — (B) sophisticated",
+        "(A) incompetence — (B) problematic",
+        "(A) flexibility — (B) limited"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) incompetence — 지문의 과거 인식인 \"sign of linguistic deficiency — evidence that the speaker lacked full mastery of either language\"가 코드 전환이 언어적 '무능'의 표시로 여겨졌음을 직접 뒷받침한다. (B) sophisticated — 지문의 현재 이해인 \"highly sophisticated communicative strategy\"가 코드 전환이 '정교한' 기술임을 직접 명시한다.",
+        "wrong": [
+          "(A) sophistication이 오답 — 지문에서 코드 전환이 과거에 '무시당한(dismissed)' 이유는 정교함이 아닌 언어적 결함 때문이었다.",
+          "(A) diversity가 오답 — 과거의 부정적 평가는 다양성이 아닌 언어 결핍(linguistic deficiency)과 관련된 것이었다. (B) unnecessary도 오답 — 지문의 현대적 재평가는 코드 전환이 효과적이고 가치 있는 전략임을 강조한다.",
+          "(B) problematic이 오답 — 지문의 현재 관점은 코드 전환이 문제적이 아니라 'highly sophisticated(매우 정교한)' 전략임을 강조한다.",
+          "(A) flexibility가 오답 — 지문에서 코드 전환이 과거에 무시당한 이유는 유연성 때문이 아니라 능력 부족으로 보였기 때문이다. (B) limited도 오답 — 지문은 코드 전환이 두 언어의 '모든 의사소통 잠재력'을 활용한다고 서술한다."
+        ],
+        "key_point": "(A): 과거 부정적 시각 = 'linguistic deficiency' → incompetence. (B): 현대 재평가 = 'highly sophisticated communicative strategy' → sophisticated."
+      },
+      "self_check": {
+        "correct_pair": "(A) incompetence — (B) sophisticated",
+        "A_justification": "'incompetence' matches 'linguistic deficiency' and lacking 'full mastery of either language' — the old negative view",
+        "B_justification": "'sophisticated' directly echoes 'highly sophisticated communicative strategy' in the passage",
+        "distractor_analysis": {
+          "choice_1": "(A) 'sophistication' is the new view, not what it was 'dismissed as'",
+          "choice_2": "(A) 'diversity' does not capture the dismissive view; (B) 'unnecessary' contradicts the positive reassessment",
+          "choice_4": "(A) fits but (B) 'problematic' perpetuates the old view, not the new understanding",
+          "choice_5": "(A) 'flexibility' is a positive trait not matching 'dismissed'; (B) 'limited' contradicts 'full communicative potential'"
+        },
+        "summary_faithfulness": "Captures the reversal from negative to positive interpretation of code-switching",
+        "korean_explanation": {
+          "correct": "(A) incompetence — 지문의 과거 인식인 \"sign of linguistic deficiency — evidence that the speaker lacked full mastery of either language\"가 코드 전환이 언어적 '무능'의 표시로 여겨졌음을 직접 뒷받침한다. (B) sophisticated — 지문의 현재 이해인 \"highly sophisticated communicative strategy\"가 코드 전환이 '정교한' 기술임을 직접 명시한다.",
+          "wrong": {
+            "choice_1": "(A) sophistication이 오답 — 지문에서 코드 전환이 과거에 '무시당한(dismissed)' 이유는 정교함이 아닌 언어적 결함 때문이었다.",
+            "choice_2": "(A) diversity가 오답 — 과거의 부정적 평가는 다양성이 아닌 언어 결핍(linguistic deficiency)과 관련된 것이었다. (B) unnecessary도 오답 — 지문의 현대적 재평가는 코드 전환이 효과적이고 가치 있는 전략임을 강조한다.",
+            "choice_4": "(B) problematic이 오답 — 지문의 현재 관점은 코드 전환이 문제적이 아니라 'highly sophisticated(매우 정교한)' 전략임을 강조한다.",
+            "choice_5": "(A) flexibility가 오답 — 지문에서 코드 전환이 과거에 무시당한 이유는 유연성 때문이 아니라 능력 부족으로 보였기 때문이다. (B) limited도 오답 — 지문은 코드 전환이 두 언어의 '모든 의사소통 잠재력'을 활용한다고 서술한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-13",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "When astronomers in the 1970s mapped the rotation speeds of stars at different distances from the centers of galaxies, they discovered something that Newtonian mechanics could not explain. According to gravitational theory, stars at the outer edges of a galaxy should orbit more slowly than those near the center, just as the outer planets in our solar system orbit the Sun more slowly than the inner ones. Instead, measurements showed that stars throughout a galaxy rotate at roughly the same speed regardless of their distance from the center — and in many cases, the outer stars were moving faster than theory predicted. The only consistent explanation for this behavior was the presence of a vast, invisible mass distributed throughout and around galaxies. Scientists named this hypothetical substance dark matter. Despite decades of effort, no one has directly detected a dark matter particle. Yet the gravitational anomalies that first suggested its existence have been observed in galaxy after galaxy, making dark matter one of the most compelling and persistent mysteries in modern astrophysics.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nThe (A) rotation speeds of stars at the outer edges of galaxies, which contradict standard gravitational predictions, have led scientists to (B) an invisible mass known as dark matter, even though it has never been directly detected.",
+      "choices": [
+        "(A) expected — (B) dismiss",
+        "(A) decreasing — (B) eliminate",
+        "(A) unexpected — (B) doubt",
+        "(A) uniform — (B) deny",
+        "(A) unexpected — (B) propose"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) unexpected — 지문의 \"something that Newtonian mechanics could not explain\"과 \"outer stars were moving faster than theory predicted\"가 관측 속도가 '예상치 못한' 것이었음을 뒷받침한다. (B) propose — 지문의 \"The only consistent explanation for this behavior was the presence of a vast, invisible mass\"와 \"Scientists named this hypothetical substance dark matter\"가 과학자들이 암흑 물질을 '제안'했음을 보여준다.",
+        "wrong": [
+          "(A) expected가 오답 — 지문은 외부 별들의 속도가 이론적 예측과 달랐음을 명시하므로 '예상된' 것과 정반대다.",
+          "(A) decreasing이 오답 — 이론적으로는 속도가 감소해야 했지만(decreasing이 예상), 실제로는 그렇지 않았다. 이는 관측된 결과가 아니라 예측된 결과다. (B) eliminate도 오답 — 과학자들은 암흑 물질 가설을 제거한 것이 아니라 제안했다.",
+          "(B) doubt가 오답 — 지문은 과학자들이 암흑 물질의 존재를 의심한 것이 아니라 이를 설명 가설로 '제안'했음을 서술한다.",
+          "(A) uniform이 오답 — 관측 결과가 균일한 속도라는 점은 일부 맞지만, 핵심은 그 속도가 이론보다 '예상 외로 빠른(unexpectedly fast)' 것이었다는 점이다."
+        ],
+        "key_point": "(A): 별들의 속도 = 'Newtonian mechanics could not explain' → unexpected. (B): 과학자들의 반응 = 'hypothetical substance dark matter' → propose."
+      },
+      "self_check": {
+        "correct_pair": "(A) unexpected — (B) propose",
+        "A_justification": "'unexpected' captures that outer stars move faster than predicted — contrary to Newtonian expectations",
+        "B_justification": "'propose' correctly reflects that scientists inferred/hypothesized dark matter to explain the anomaly",
+        "distractor_analysis": {
+          "choice_1": "(A) 'expected' is the opposite — the speeds were anomalous, not expected",
+          "choice_2": "(A) 'decreasing' is actually what was expected but not observed; (B) 'eliminate' contradicts scientists accepting dark matter",
+          "choice_3": "(A) fits but (B) 'doubt' contradicts the passage — scientists proposed dark matter, not doubted it",
+          "choice_4": "(A) 'uniform' is partially accurate but misses the key point that speeds were unexpectedly high; (B) 'deny' contradicts the scientific consensus"
+        },
+        "summary_faithfulness": "Captures the anomaly and the scientific response of proposing dark matter",
+        "korean_explanation": {
+          "correct": "(A) unexpected — 지문의 \"something that Newtonian mechanics could not explain\"과 \"outer stars were moving faster than theory predicted\"가 관측 속도가 '예상치 못한' 것이었음을 뒷받침한다. (B) propose — 지문의 \"The only consistent explanation for this behavior was the presence of a vast, invisible mass\"와 \"Scientists named this hypothetical substance dark matter\"가 과학자들이 암흑 물질을 '제안'했음을 보여준다.",
+          "wrong": {
+            "choice_1": "(A) expected가 오답 — 지문은 외부 별들의 속도가 이론적 예측과 달랐음을 명시하므로 '예상된' 것과 정반대다.",
+            "choice_2": "(A) decreasing이 오답 — 이론적으로는 속도가 감소해야 했지만(decreasing이 예상), 실제로는 그렇지 않았다. 이는 관측된 결과가 아니라 예측된 결과다. (B) eliminate도 오답 — 과학자들은 암흑 물질 가설을 제거한 것이 아니라 제안했다.",
+            "choice_3": "(B) doubt가 오답 — 지문은 과학자들이 암흑 물질의 존재를 의심한 것이 아니라 이를 설명 가설로 '제안'했음을 서술한다.",
+            "choice_4": "(A) uniform이 오답 — 관측 결과가 균일한 속도라는 점은 일부 맞지만, 핵심은 그 속도가 이론보다 '예상 외로 빠른(unexpectedly fast)' 것이었다는 점이다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-14",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "The ocean has long served as a sink for human waste, but the recent accumulation of plastic debris presents a challenge unlike any before it. Unlike organic matter, most plastics do not biodegrade; instead, they break down into progressively smaller fragments through exposure to ultraviolet radiation and mechanical abrasion. These microplastics — defined as particles smaller than five millimeters — are now found in virtually every marine environment, from surface waters to deep-sea sediments and polar ice. Microplastics are ingested by a wide range of marine organisms, from zooplankton to large fish and marine mammals. Because plastics adsorb persistent organic pollutants from surrounding seawater, organisms that consume them may be exposed to concentrated doses of toxic chemicals. The particles travel up the food chain, accumulating in progressively higher concentrations — a process known as biomagnification. Studies detecting microplastics in commercially sold seafood, drinking water, and even human blood have raised urgent questions about the long-term health implications for human populations.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nMicroplastics, which (A) in marine environments and travel up the food chain through biomagnification, pose a growing (B) to both marine ecosystems and human health.",
+      "choices": [
+        "(A) dissolve — (B) solution",
+        "(A) disappear — (B) benefit",
+        "(A) circulate — (B) advantage",
+        "(A) accumulate — (B) threat",
+        "(A) accumulate — (B) curiosity"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) accumulate — 지문의 \"accumulating in progressively higher concentrations\"와 플라스틱이 생분해되지 않고 해양 전역에서 발견된다는 내용이 미세 플라스틱이 해양 환경에 '축적'됨을 직접 보여준다. (B) threat — 지문의 \"raised urgent questions about the long-term health implications\"와 먹이사슬을 통한 독성 화학물질 노출이 해양 생태계와 인간 건강에 대한 '위협'임을 뒷받침한다.",
+        "wrong": [
+          "(A) dissolve가 오답 — 지문은 플라스틱이 '생분해되지 않는다(do not biodegrade)'고 명시하므로 dissolve는 모순된다.",
+          "(A) disappear가 오답 — 지문은 미세 플라스틱이 사라지는 것이 아니라 오히려 축적됨을 강조한다. (B) benefit도 오답 — 지문은 미세 플라스틱을 위협으로 다룬다.",
+          "(B) advantage가 오답 — 지문은 미세 플라스틱의 이점이 아닌 위험성을 서술한다.",
+          "(B) curiosity가 오답 — 지문은 \"urgent questions(긴급한 의문)\"를 제기한다고 하여 심각한 위협으로 다루므로, 단순한 '호기심'은 심각성을 심하게 과소평가한다."
+        ],
+        "key_point": "(A): 생분해 불가+생물 농축 = 'accumulating in progressively higher concentrations' → accumulate. (B): 인체·생태계 영향 = 'urgent questions about long-term health implications' → threat."
+      },
+      "self_check": {
+        "correct_pair": "(A) accumulate — (B) threat",
+        "A_justification": "'accumulate' matches both the physical buildup described and the 'accumulating in progressively higher concentrations' of biomagnification",
+        "B_justification": "'threat' captures 'urgent questions about long-term health implications' and the danger to marine organisms",
+        "distractor_analysis": {
+          "choice_1": "(A) 'dissolve' contradicts the passage — plastics do not biodegrade",
+          "choice_2": "(A) 'disappear' is directly contradicted; (B) 'benefit' is opposite",
+          "choice_3": "(A) 'circulate' is partially true but misses the buildup aspect; (B) 'advantage' is opposite",
+          "choice_5": "(A) fits but (B) 'curiosity' understates the urgency and danger described"
+        },
+        "summary_faithfulness": "Accurately condenses the persistence, bioaccumulation, and dual threat of microplastics",
+        "korean_explanation": {
+          "correct": "(A) accumulate — 지문의 \"accumulating in progressively higher concentrations\"와 플라스틱이 생분해되지 않고 해양 전역에서 발견된다는 내용이 미세 플라스틱이 해양 환경에 '축적'됨을 직접 보여준다. (B) threat — 지문의 \"raised urgent questions about the long-term health implications\"와 먹이사슬을 통한 독성 화학물질 노출이 해양 생태계와 인간 건강에 대한 '위협'임을 뒷받침한다.",
+          "wrong": {
+            "choice_1": "(A) dissolve가 오답 — 지문은 플라스틱이 '생분해되지 않는다(do not biodegrade)'고 명시하므로 dissolve는 모순된다.",
+            "choice_2": "(A) disappear가 오답 — 지문은 미세 플라스틱이 사라지는 것이 아니라 오히려 축적됨을 강조한다. (B) benefit도 오답 — 지문은 미세 플라스틱을 위협으로 다룬다.",
+            "choice_3": "(B) advantage가 오답 — 지문은 미세 플라스틱의 이점이 아닌 위험성을 서술한다.",
+            "choice_5": "(B) curiosity가 오답 — 지문은 \"urgent questions(긴급한 의문)\"를 제기한다고 하여 심각한 위협으로 다루므로, 단순한 '호기심'은 심각성을 심하게 과소평가한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-15",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "Flow is a state of intense psychological absorption in a challenging activity, first described by psychologist Mihaly Csikszentmihalyi. During flow, individuals report a complete loss of self-consciousness, a distortion of time perception, and an intrinsic sense of enjoyment that is independent of external rewards. The state arises at the intersection of high challenge and high skill: tasks that are too easy produce boredom, while tasks that are too difficult produce anxiety. Flow occurs in the narrow band where the demands of a task and the capabilities of the performer are evenly matched. Research has consistently linked flow experiences to higher levels of creative output, improved learning outcomes, and greater overall well-being. Importantly, flow is self-reinforcing: the positive affect associated with the state motivates individuals to engage again in the activities that trigger it, gradually building their skills and seeking progressively greater challenges. This dynamic is particularly evident in skilled musicians, athletes, and programmers, who report flow as a central source of professional satisfaction.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nFlow, which occurs when a task's (A) matches one's skill level, is a self-sustaining state that promotes creativity and well-being by (B) further engagement through the intrinsic enjoyment it provides.",
+      "choices": [
+        "(A) difficulty — (B) discouraging",
+        "(A) simplicity — (B) eliminating",
+        "(A) novelty — (B) preventing",
+        "(A) reward — (B) replacing",
+        "(A) difficulty — (B) encouraging"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) difficulty — 지문의 \"The state arises at the intersection of high challenge and high skill\"과 \"the demands of a task and the capabilities of the performer are evenly matched\"가 과제의 '난이도(difficulty)'가 기술 수준과 일치해야 함을 뒷받침한다. (B) encouraging — 지문의 \"flow is self-reinforcing: the positive affect ... motivates individuals to engage again\"이 몰입이 추가 참여를 '독려(encourage)'하는 자기강화 특성을 가짐을 보여준다.",
+        "wrong": [
+          "(B) discouraging이 오답 — 지문은 몰입이 참여를 '방해'하는 것이 아니라 'motivates ... to engage again(다시 참여하도록 동기 부여)'한다고 명시한다.",
+          "(A) simplicity가 오답 — 지문은 몰입이 너무 쉬운 과제가 아닌 '높은 도전(high challenge)'이 기술과 일치할 때 발생한다고 명시한다.",
+          "(A) novelty가 오답 — 지문에서 몰입의 핵심 조건은 새로움이 아닌 도전-기술 수준의 균형이다.",
+          "(A) reward가 오답 — 지문은 몰입이 \"independent of external rewards(외적 보상과 무관하다)\"고 명시하므로, reward는 몰입 발생 조건이 아니다."
+        ],
+        "key_point": "(A): 몰입 발생 조건 = '도전(difficulty)'과 기술의 균형. (B): 몰입의 자기강화 = 'motivates individuals to engage again' → encouraging."
+      },
+      "self_check": {
+        "correct_pair": "(A) difficulty — (B) encouraging",
+        "A_justification": "'difficulty' (i.e., level of challenge) must match skill for flow to occur — directly from the passage",
+        "B_justification": "'encouraging' captures the self-reinforcing nature — flow 'motivates individuals to engage again'",
+        "distractor_analysis": {
+          "choice_1": "(A) fits but (B) 'discouraging' is the opposite of the self-reinforcing positive cycle described",
+          "choice_2": "(A) 'simplicity' contradicts flow requiring high challenge",
+          "choice_3": "(A) 'novelty' is not the key matching variable described",
+          "choice_4": "(A) 'reward' is explicitly excluded — flow is independent of external rewards"
+        },
+        "summary_faithfulness": "Captures the challenge-skill match condition and the self-reinforcing motivational cycle of flow",
+        "korean_explanation": {
+          "correct": "(A) difficulty — 지문의 \"The state arises at the intersection of high challenge and high skill\"과 \"the demands of a task and the capabilities of the performer are evenly matched\"가 과제의 '난이도(difficulty)'가 기술 수준과 일치해야 함을 뒷받침한다. (B) encouraging — 지문의 \"flow is self-reinforcing: the positive affect ... motivates individuals to engage again\"이 몰입이 추가 참여를 '독려(encourage)'하는 자기강화 특성을 가짐을 보여준다.",
+          "wrong": {
+            "choice_1": "(B) discouraging이 오답 — 지문은 몰입이 참여를 '방해'하는 것이 아니라 'motivates ... to engage again(다시 참여하도록 동기 부여)'한다고 명시한다.",
+            "choice_2": "(A) simplicity가 오답 — 지문은 몰입이 너무 쉬운 과제가 아닌 '높은 도전(high challenge)'이 기술과 일치할 때 발생한다고 명시한다.",
+            "choice_3": "(A) novelty가 오답 — 지문에서 몰입의 핵심 조건은 새로움이 아닌 도전-기술 수준의 균형이다.",
+            "choice_4": "(A) reward가 오답 — 지문은 몰입이 \"independent of external rewards(외적 보상과 무관하다)\"고 명시하므로, reward는 몰입 발생 조건이 아니다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-16",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "Proprioception — the body's internal sense of its own position and movement — is so fundamental to skilled physical action that most people are entirely unaware of its existence until it is disrupted. Unlike the five classical senses, proprioception does not involve specialized external receptors; instead, it relies on millions of sensory neurons embedded in muscles, tendons, and joints that continuously relay information about the body's configuration to the brain. Learning a new physical skill such as riding a bicycle or playing the piano is, at its core, a process of training the proprioceptive system. In the early stages, movements are slow and require conscious attention. With practice, the brain builds an accurate internal model of the body's dynamics, and movements that once demanded deliberate effort become automatic. This automatization frees conscious attention for higher-level aspects of performance. The proprioceptive system is also highly adaptable: it recalibrates rapidly in response to changes in the body, such as growth during adolescence, the wearing of prosthetic limbs, or even the donning of a new pair of shoes with a different heel height.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nProprioception, the body's internal positioning sense, is central to (A) a physical skill, as practice allows movements to become (B), freeing attention for more complex aspects of performance.",
+      "choices": [
+        "(A) avoiding — (B) deliberate",
+        "(A) observing — (B) conscious",
+        "(A) abandoning — (B) effortful",
+        "(A) acquiring — (B) irregular",
+        "(A) acquiring — (B) automatic"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) acquiring — 지문의 \"Learning a new physical skill such as riding a bicycle or playing the piano\"가 자기수용감각이 신체 기술을 '습득'하는 과정의 핵심임을 뒷받침한다. (B) automatic — 지문의 \"movements that once demanded deliberate effort become automatic\"이 연습을 통해 동작이 '자동화'됨을 직접 명시한다.",
+        "wrong": [
+          "(A) avoiding가 오답 — 지문은 기술을 '회피'하는 것이 아니라 습득하는 과정을 다룬다. (B) deliberate도 오답 — 지문에서 의식적·신중한 노력은 초기 단계의 특징이며, 학습의 결과가 아니다.",
+          "(A) observing이 오답 — 기술을 '관찰'하는 것은 자기수용감각을 통한 기술 습득과 다른 개념이다. (B) conscious도 오답 — 의식적 주의는 초기 단계의 특징이며, 연습 후 달성되는 상태는 자동화다.",
+          "(A) abandoning이 오답 — 지문은 기술을 포기하는 것이 아니라 습득하는 과정을 서술한다.",
+          "(B) irregular가 오답 — 지문은 연습을 통해 동작이 'automatic(자동화)'된다고 하므로, '불규칙한' 동작은 지문 내용과 모순된다."
+        ],
+        "key_point": "(A): 'Learning a new physical skill' → acquiring. (B): 연습의 결과 = 'movements ... become automatic' → automatic."
+      },
+      "self_check": {
+        "correct_pair": "(A) acquiring — (B) automatic",
+        "A_justification": "'acquiring' matches 'learning a new physical skill' — the process of gaining skill",
+        "B_justification": "'automatic' directly mirrors 'movements that once demanded deliberate effort become automatic'",
+        "distractor_analysis": {
+          "choice_1": "(A) 'avoiding' is opposite to the learning/acquiring described",
+          "choice_2": "(A) 'observing' does not capture skill acquisition; (B) 'conscious' is the starting state, not the endpoint",
+          "choice_3": "(A) 'abandoning' is opposite; (B) 'effortful' is the starting condition not the learned outcome",
+          "choice_4": "(A) fits but (B) 'irregular' contradicts the smooth, automatic movements described"
+        },
+        "summary_faithfulness": "Accurately captures proprioception's role in skill acquisition and the automatization that results from practice",
+        "korean_explanation": {
+          "correct": "(A) acquiring — 지문의 \"Learning a new physical skill such as riding a bicycle or playing the piano\"가 자기수용감각이 신체 기술을 '습득'하는 과정의 핵심임을 뒷받침한다. (B) automatic — 지문의 \"movements that once demanded deliberate effort become automatic\"이 연습을 통해 동작이 '자동화'됨을 직접 명시한다.",
+          "wrong": {
+            "choice_1": "(A) avoiding가 오답 — 지문은 기술을 '회피'하는 것이 아니라 습득하는 과정을 다룬다. (B) deliberate도 오답 — 지문에서 의식적·신중한 노력은 초기 단계의 특징이며, 학습의 결과가 아니다.",
+            "choice_2": "(A) observing이 오답 — 기술을 '관찰'하는 것은 자기수용감각을 통한 기술 습득과 다른 개념이다. (B) conscious도 오답 — 의식적 주의는 초기 단계의 특징이며, 연습 후 달성되는 상태는 자동화다.",
+            "choice_3": "(A) abandoning이 오답 — 지문은 기술을 포기하는 것이 아니라 습득하는 과정을 서술한다.",
+            "choice_4": "(B) irregular가 오답 — 지문은 연습을 통해 동작이 'automatic(자동화)'된다고 하므로, '불규칙한' 동작은 지문 내용과 모순된다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-17",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "Economists have long struggled to quantify the value of biodiversity, largely because ecosystems provide services that lie entirely outside conventional market frameworks. A forest, for instance, simultaneously sequesters carbon, regulates local rainfall patterns, filters water, prevents soil erosion, houses pollinators essential to agriculture, and provides a genetic library of organisms that may yield future medicines. None of these functions carries a market price, yet their combined value to human well-being is immense. When natural habitats are converted to agricultural land or urban development, these services are lost — often permanently — but their loss rarely appears in economic calculations because they were never assigned a monetary value in the first place. Ecologists and environmental economists have developed a variety of methods to estimate these so-called \"ecosystem services,\" including willingness-to-pay surveys, replacement cost analysis, and the hedonic pricing of properties adjacent to green spaces. Despite the imperfection of these methods, the consensus finding is unambiguous: the economic benefits provided by intact ecosystems far exceed the short-term financial gains from their destruction.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nBecause biodiversity provides vital ecosystem services that are largely (A) by conventional markets, their loss through habitat destruction tends to be (B) in economic decision-making.",
+      "choices": [
+        "(A) overvalued — (B) highlighted",
+        "(A) regulated — (B) exaggerated",
+        "(A) unpriced — (B) overlooked",
+        "(A) unpriced — (B) celebrated",
+        "(A) acknowledged — (B) integrated"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) unpriced — 지문의 \"None of these functions carries a market price\"가 생태계 서비스가 기존 시장에서 '가격이 매겨지지 않음(unpriced)'을 직접 뒷받침한다. (B) overlooked — 지문의 \"their loss rarely appears in economic calculations because they were never assigned a monetary value\"가 생물 다양성 손실이 경제적 의사결정에서 '간과됨(overlooked)'을 명시한다.",
+        "wrong": [
+          "(A) overvalued가 오답 — 지문은 생태계 서비스에 시장 가격 자체가 없다고 하므로 '과대평가'는 상황과 맞지 않는다.",
+          "(A) regulated가 오답 — 지문의 핵심 문제는 시장 규제가 아니라 가격 책정 자체가 되지 않는다는 점이다.",
+          "(B) celebrated가 오답 — 지문은 생태계 손실이 '축하'받는 것이 아니라 경제 계산에서 사실상 무시된다고 서술한다.",
+          "(A) acknowledged가 오답 — 지문은 이러한 서비스가 기존 시장 체계에서 '인정'받지 못한다는 것을 강조한다."
+        ],
+        "key_point": "(A): 'None of these functions carries a market price' → unpriced. (B): 'their loss rarely appears in economic calculations' → overlooked."
+      },
+      "self_check": {
+        "correct_pair": "(A) unpriced — (B) overlooked",
+        "A_justification": "'unpriced' matches 'none of these functions carries a market price' — they are outside market frameworks",
+        "B_justification": "'overlooked' matches 'their loss rarely appears in economic calculations' — it is ignored because it was never valued",
+        "distractor_analysis": {
+          "choice_1": "(A) 'overvalued' is the opposite — they have no market price at all",
+          "choice_2": "(A) 'regulated' is not the issue described",
+          "choice_4": "(A) fits but (B) 'celebrated' is opposite — the loss is ignored, not celebrated",
+          "choice_5": "(A) 'acknowledged' contradicts the passage — the services are not acknowledged in market frameworks"
+        },
+        "summary_faithfulness": "Accurately captures both the pricing gap and the resulting neglect in economic decision-making",
+        "korean_explanation": {
+          "correct": "(A) unpriced — 지문의 \"None of these functions carries a market price\"가 생태계 서비스가 기존 시장에서 '가격이 매겨지지 않음(unpriced)'을 직접 뒷받침한다. (B) overlooked — 지문의 \"their loss rarely appears in economic calculations because they were never assigned a monetary value\"가 생물 다양성 손실이 경제적 의사결정에서 '간과됨(overlooked)'을 명시한다.",
+          "wrong": {
+            "choice_1": "(A) overvalued가 오답 — 지문은 생태계 서비스에 시장 가격 자체가 없다고 하므로 '과대평가'는 상황과 맞지 않는다.",
+            "choice_2": "(A) regulated가 오답 — 지문의 핵심 문제는 시장 규제가 아니라 가격 책정 자체가 되지 않는다는 점이다.",
+            "choice_4": "(B) celebrated가 오답 — 지문은 생태계 손실이 '축하'받는 것이 아니라 경제 계산에서 사실상 무시된다고 서술한다.",
+            "choice_5": "(A) acknowledged가 오답 — 지문은 이러한 서비스가 기존 시장 체계에서 '인정'받지 못한다는 것을 강조한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-18",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "Researchers investigating how different cultures experience time have found striking variations in temporal orientation and time management practices. In many Western industrialized societies, time is conceptualized as a linear, finite resource — something that can be spent, wasted, saved, or lost. This metaphor of time as money shapes everyday behaviors from scheduling appointments in fifteen-minute increments to viewing punctuality as a moral virtue. In contrast, many cultures in Latin America, the Middle East, and sub-Saharan Africa operate on what anthropologists call \"polychronic\" time: multiple activities and social obligations are attended to simultaneously, schedules are treated as flexible rather than binding, and relationships are prioritized over adherence to clocks. Neither approach is inherently superior; each reflects the values of the culture that produced it. Problems arise primarily when individuals operating on different temporal frameworks must collaborate, as mismatches in time perception can generate mutual frustration, misattributions of rudeness, and breakdowns in communication.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nCultural differences in the (A) of time — whether linear and rigid or flexible and relational — can become a source of (B) when people from different temporal frameworks interact.",
+      "choices": [
+        "(A) measurement — (B) cooperation",
+        "(A) management — (B) innovation",
+        "(A) perception — (B) harmony",
+        "(A) perception — (B) conflict",
+        "(A) scarcity — (B) productivity"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) perception — 지문 전체가 시간을 어떻게 '인식(perceive)'하고 개념화하는지를 다루며, 단선적 자원 개념과 다중 활동 동시 처리 방식의 차이가 핵심이다. (B) conflict — 지문의 \"Problems arise primarily when individuals operating on different temporal frameworks must collaborate, as mismatches ... can generate mutual frustration, misattributions of rudeness, and breakdowns in communication\"이 서로 다른 시간 인식 체계 충돌이 '갈등'을 유발함을 직접 뒷받침한다.",
+        "wrong": [
+          "(A) measurement가 오답 — 지문은 단순한 시간 '측정'이 아니라 시간을 개념화하고 경험하는 문화적 방식 전반을 다룬다.",
+          "(B) innovation이 오답 — 지문은 서로 다른 시간 체계를 가진 사람들의 협업 시 문제를 다루며 혁신은 언급되지 않는다.",
+          "(B) harmony가 오답 — 지문은 서로 다른 시간 체계가 만날 때 조화가 아니라 'mutual frustration(상호 좌절)'과 'breakdowns in communication(소통 단절)'이 생긴다고 명시한다.",
+          "(A) scarcity가 오답 — 시간을 희소한 자원으로 보는 것은 서구 산업화 사회의 관점일 뿐, 지문이 다루는 모든 문화에 해당하지 않는다."
+        ],
+        "key_point": "(A): 지문 전체 주제 = 시간에 대한 문화적 개념화·경험 → perception. (B): 체계 충돌 시 결과 = 'mutual frustration'·'breakdowns in communication' → conflict."
+      },
+      "self_check": {
+        "correct_pair": "(A) perception — (B) conflict",
+        "A_justification": "'perception' accurately captures the cultural conceptualization/experience of time discussed throughout",
+        "B_justification": "'conflict' matches 'mutual frustration, misattributions of rudeness, and breakdowns in communication'",
+        "distractor_analysis": {
+          "choice_1": "(A) 'measurement' is too narrow — the passage discusses conceptualization not just measurement",
+          "choice_2": "(A) 'management' is one aspect but not the full scope; (B) 'innovation' is not mentioned",
+          "choice_3": "(A) fits but (B) 'harmony' is the opposite — mismatches cause problems",
+          "choice_5": "(A) 'scarcity' applies only to the Western view; (B) 'productivity' is not the focus"
+        },
+        "summary_faithfulness": "Captures the cross-cultural dimension and the problematic outcome of temporal framework mismatches",
+        "korean_explanation": {
+          "correct": "(A) perception — 지문 전체가 시간을 어떻게 '인식(perceive)'하고 개념화하는지를 다루며, 단선적 자원 개념과 다중 활동 동시 처리 방식의 차이가 핵심이다. (B) conflict — 지문의 \"Problems arise primarily when individuals operating on different temporal frameworks must collaborate, as mismatches ... can generate mutual frustration, misattributions of rudeness, and breakdowns in communication\"이 서로 다른 시간 인식 체계 충돌이 '갈등'을 유발함을 직접 뒷받침한다.",
+          "wrong": {
+            "choice_1": "(A) measurement가 오답 — 지문은 단순한 시간 '측정'이 아니라 시간을 개념화하고 경험하는 문화적 방식 전반을 다룬다.",
+            "choice_2": "(B) innovation이 오답 — 지문은 서로 다른 시간 체계를 가진 사람들의 협업 시 문제를 다루며 혁신은 언급되지 않는다.",
+            "choice_3": "(B) harmony가 오답 — 지문은 서로 다른 시간 체계가 만날 때 조화가 아니라 'mutual frustration(상호 좌절)'과 'breakdowns in communication(소통 단절)'이 생긴다고 명시한다.",
+            "choice_5": "(A) scarcity가 오답 — 시간을 희소한 자원으로 보는 것은 서구 산업화 사회의 관점일 뿐, 지문이 다루는 모든 문화에 해당하지 않는다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-19",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "The acoustic properties of a space profoundly influence the behavior and emotional states of its occupants, often in ways they do not consciously notice. Research in environmental psychology has shown that high levels of ambient noise in open-plan offices reduce not only workers' ability to concentrate but also their willingness to communicate with colleagues, as the effort required for intelligible speech increases. Cafeterias designed with highly reverberant surfaces that amplify noise create a sense of urgency that causes diners to eat faster and leave sooner. By contrast, spaces with carefully managed acoustics — moderate reverberation times, sound-absorbing surfaces, and strategic barriers to noise — foster more deliberate behavior and promote longer, more satisfying social interactions. Hospitals that have incorporated acoustic design into patient ward planning have reported reductions in patient stress, faster recovery times, and lower staff turnover. These findings suggest that architects who attend to the sonic environment of a building are, in effect, designing not only the physical experience of space but also the quality of the human interactions that occur within it.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nThe acoustic environment of a space can significantly (A) the behavior and well-being of its users, suggesting that thoughtful acoustic design can (B) both individual concentration and social interaction.",
+      "choices": [
+        "(A) reflect — (B) complicate",
+        "(A) isolate — (B) replace",
+        "(A) define — (B) restrict",
+        "(A) shape — (B) eliminate",
+        "(A) shape — (B) enhance"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) shape — 지문의 \"profoundly influence the behavior and emotional states\"와 건축가가 음향 환경을 통해 사실상 행동을 '설계'한다는 결론이 음향이 행동을 '형성(shape)'함을 뒷받침한다. (B) enhance — 지문의 \"foster more deliberate behavior and promote longer, more satisfying social interactions\"과 병원에서의 환자 스트레스 감소·회복 촉진 사례가 음향 설계가 집중력과 사회적 상호작용을 '향상(enhance)'시킴을 보여준다.",
+        "wrong": [
+          "(A) reflect가 오답 — 음향이 행동을 '반영'하는 것이 아니라 행동에 능동적으로 영향을 '미친다(influence)'는 것이 핵심이다. (B) complicate도 오답 — 지문은 의도적인 음향 설계가 행동을 복잡하게 만드는 것이 아니라 향상시킨다고 서술한다.",
+          "(A) isolate가 오답 — 음향의 영향은 특정 측면에 국한된 '격리'가 아닌 행동과 감정 전반에 대한 '형성'이다.",
+          "(B) restrict가 오답 — 지문은 음향 설계가 사회적 상호작용과 집중력을 '제한'하는 것이 아니라 촉진·향상시킴을 강조한다.",
+          "(B) eliminate가 오답 — 지문은 음향 설계가 집중력이나 사회적 상호작용을 '제거'한다는 내용을 지지하지 않는다."
+        ],
+        "key_point": "(A): 음향 → 행동·감정 'profoundly influence' → shape. (B): 적절한 음향 설계 → 'more satisfying social interactions'·회복 속도 → enhance."
+      },
+      "self_check": {
+        "correct_pair": "(A) shape — (B) enhance",
+        "A_justification": "'shape' captures that acoustics 'influence behavior and emotional states' and 'design behavior'",
+        "B_justification": "'enhance' reflects 'foster more deliberate behavior and promote more satisfying social interactions' and recovery benefits",
+        "distractor_analysis": {
+          "choice_1": "(A) 'reflect' is passive — acoustics actively influence behavior; (B) 'complicate' contradicts the positive outcomes described",
+          "choice_2": "(A) 'isolate' is too narrow; (B) 'replace' makes no sense in context",
+          "choice_3": "(A) 'define' is less precise than 'shape'; (B) 'restrict' contradicts the beneficial outcomes",
+          "choice_4": "(A) fits but (B) 'eliminate' is too extreme and not supported"
+        },
+        "summary_faithfulness": "Captures both the influence of acoustic environments and the positive potential of deliberate acoustic design",
+        "korean_explanation": {
+          "correct": "(A) shape — 지문의 \"profoundly influence the behavior and emotional states\"와 건축가가 음향 환경을 통해 사실상 행동을 '설계'한다는 결론이 음향이 행동을 '형성(shape)'함을 뒷받침한다. (B) enhance — 지문의 \"foster more deliberate behavior and promote longer, more satisfying social interactions\"과 병원에서의 환자 스트레스 감소·회복 촉진 사례가 음향 설계가 집중력과 사회적 상호작용을 '향상(enhance)'시킴을 보여준다.",
+          "wrong": {
+            "choice_1": "(A) reflect가 오답 — 음향이 행동을 '반영'하는 것이 아니라 행동에 능동적으로 영향을 '미친다(influence)'는 것이 핵심이다. (B) complicate도 오답 — 지문은 의도적인 음향 설계가 행동을 복잡하게 만드는 것이 아니라 향상시킨다고 서술한다.",
+            "choice_2": "(A) isolate가 오답 — 음향의 영향은 특정 측면에 국한된 '격리'가 아닌 행동과 감정 전반에 대한 '형성'이다.",
+            "choice_3": "(B) restrict가 오답 — 지문은 음향 설계가 사회적 상호작용과 집중력을 '제한'하는 것이 아니라 촉진·향상시킴을 강조한다.",
+            "choice_4": "(B) eliminate가 오답 — 지문은 음향 설계가 집중력이나 사회적 상호작용을 '제거'한다는 내용을 지지하지 않는다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-20",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "standard",
+      "passage": "The story a society tells about its past is never a neutral record of events. Collective memory — the shared version of history that a community accepts as its own — is actively constructed and maintained through monuments, textbooks, commemorations, and national holidays. Historians have observed that collective memories tend to emphasize episodes of heroism, sacrifice, and victimhood while suppressing or minimizing events that are ambiguous, shameful, or morally complicated. The process of selection and omission is not merely innocent simplification; it serves the political function of creating a sense of common identity and shared destiny among citizens who have never met. This is why revisions to school history curricula are so politically charged: changing the story a society tells about itself threatens the emotional foundations of national cohesion. Conversely, societies that have undergone processes of historical reckoning — acknowledging past atrocities rather than erasing them — have generally produced more complex, but arguably more durable, forms of collective identity that can accommodate internal diversity rather than demanding uniformity.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nCollective memory is a (A) construction that reinforces national identity by selectively emphasizing certain historical narratives, yet societies that (B) their past honestly tend to build more resilient and inclusive forms of identity.",
+      "choices": [
+        "(A) random — (B) celebrate",
+        "(A) selective — (B) ignore",
+        "(A) objective — (B) rewrite",
+        "(A) selective — (B) confront",
+        "(A) permanent — (B) distort"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "(A) selective — 지문의 \"process of selection and omission\"과 집단 기억이 영웅주의·희생은 강조하고 불명예스러운 사건은 억압한다는 내용이 집단 기억이 '선택적(selective)'임을 직접 뒷받침한다. (B) confront — 지문의 \"societies that have undergone processes of historical reckoning — acknowledging past atrocities rather than erasing them\"이 과거를 '직면(confront)'하는 사회가 더 지속적인 정체성을 형성함을 보여준다.",
+        "wrong": [
+          "(A) random이 오답 — 지문은 집단 기억의 형성이 무작위가 아니라 의도적인 '선택과 생략'의 과정임을 강조한다.",
+          "(B) ignore가 오답 — 지문은 과거를 '무시'하는 것이 아니라 'acknowledging(인정)'하고 직면하는 사회가 더 강한 정체성을 형성한다고 서술한다.",
+          "(A) objective가 오답 — 지문의 첫 문장인 \"never a neutral record of events\"가 집단 기억이 객관적이지 않음을 직접 부정한다.",
+          "(B) distort가 오답 — 지문은 역사를 왜곡하는 것이 아니라 '직면(reckoning)'하는 사회가 더 탄력적 정체성을 구축한다고 서술한다."
+        ],
+        "key_point": "(A): 집단 기억의 본질 = 'selection and omission' → selective. (B): 건강한 정체성 형성법 = 'historical reckoning — acknowledging past atrocities' → confront."
+      },
+      "self_check": {
+        "correct_pair": "(A) selective — (B) confront",
+        "A_justification": "'selective' directly mirrors 'selection and omission' and the emphasis/suppression pattern described",
+        "B_justification": "'confront' matches 'historical reckoning — acknowledging past atrocities rather than erasing them'",
+        "distractor_analysis": {
+          "choice_1": "(A) 'random' contradicts the deliberate selection described",
+          "choice_2": "(A) fits but (B) 'ignore' is the opposite of 'acknowledging past atrocities'",
+          "choice_3": "(A) 'objective' is directly contradicted — the passage says collective memory is not neutral",
+          "choice_5": "(A) 'permanent' is not the key characteristic described; (B) 'distort' is what societies that fail to reckon do"
+        },
+        "summary_faithfulness": "Captures both the selective nature of collective memory and the benefit of honest historical confrontation",
+        "korean_explanation": {
+          "correct": "(A) selective — 지문의 \"process of selection and omission\"과 집단 기억이 영웅주의·희생은 강조하고 불명예스러운 사건은 억압한다는 내용이 집단 기억이 '선택적(selective)'임을 직접 뒷받침한다. (B) confront — 지문의 \"societies that have undergone processes of historical reckoning — acknowledging past atrocities rather than erasing them\"이 과거를 '직면(confront)'하는 사회가 더 지속적인 정체성을 형성함을 보여준다.",
+          "wrong": {
+            "choice_1": "(A) random이 오답 — 지문은 집단 기억의 형성이 무작위가 아니라 의도적인 '선택과 생략'의 과정임을 강조한다.",
+            "choice_2": "(B) ignore가 오답 — 지문은 과거를 '무시'하는 것이 아니라 'acknowledging(인정)'하고 직면하는 사회가 더 강한 정체성을 형성한다고 서술한다.",
+            "choice_3": "(A) objective가 오답 — 지문의 첫 문장인 \"never a neutral record of events\"가 집단 기억이 객관적이지 않음을 직접 부정한다.",
+            "choice_5": "(B) distort가 오답 — 지문은 역사를 왜곡하는 것이 아니라 '직면(reckoning)'하는 사회가 더 탄력적 정체성을 구축한다고 서술한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-21",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "challenging",
+      "passage": "Epigenetics has overturned one of the central assumptions of classical genetics: that an organism's phenotype is determined solely by its genotype. Epigenetic mechanisms — including DNA methylation, histone modification, and non-coding RNA regulation — do not alter the DNA sequence itself but do control whether individual genes are expressed or silenced. These regulatory layers are sensitive to environmental inputs: diet, stress, exposure to toxins, and even social experience can leave lasting marks on the epigenome that alter gene expression patterns. What makes epigenetics particularly significant is the evidence that some epigenetic modifications are heritable — that is, they can be passed from parent to offspring across multiple generations without any change in the underlying DNA sequence. Studies in mice have shown that specific fears and metabolic predispositions induced by environmental stimuli in one generation can manifest in the grandchildren of the original animals, even when those grandchildren were raised in completely different conditions. These findings challenge the strict separation between inherited genetic endowment and acquired environmental influence that has defined biology since the Modern Synthesis of the mid-twentieth century.\n* phenotype: 표현형 ** genotype: 유전형 *** histone: 히스톤(DNA를 감고 있는 단백질)",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nEpigenetics demonstrates that environmental factors can (A) gene expression without altering the DNA sequence, and that such modifications may be (B) across generations, blurring the boundary between inherited and acquired traits.",
+      "choices": [
+        "(A) stabilize — (B) lost",
+        "(A) eliminate — (B) replicated",
+        "(A) modify — (B) randomized",
+        "(A) modify — (B) transmitted",
+        "(A) determine — (B) suppressed"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "(A) modify — 지문의 후성유전 메커니즘 설명인 \"control whether individual genes are expressed or silenced\"가 환경 요인이 유전자 발현을 'DNA 서열 변경 없이 조절(modify)'함을 직접 뒷받침한다. (B) transmitted — 지문의 \"some epigenetic modifications are heritable — they can be passed from parent to offspring across multiple generations\"와 쥐 실험에서 세대 간 전달이 확인되었다는 내용이 변형이 세대 간으로 '전달(transmitted)'됨을 명시한다.",
+        "wrong": [
+          "(A) stabilize가 오답 — 후성유전은 유전자 발현을 안정화하는 것이 아니라 환경에 따라 동적으로 변화시킨다. (B) lost도 오답 — 지문은 후성유전적 변형이 사라지는 것이 아니라 세대를 넘어 유전됨을 강조한다.",
+          "(A) eliminate가 오답 — 후성유전 메커니즘은 유전자를 '제거'하는 것이 아니라 발현 여부를 조절한다.",
+          "(B) randomized가 오답 — 지문의 쥐 실험 결과는 후성유전적 변형이 무작위가 아니라 일관된 패턴으로 세대 간에 전달됨을 보여준다.",
+          "(A) determine이 오답 — 후성유전은 유전자 발현을 완전히 '결정'하는 것이 아니라 조절·변조한다. (B) suppressed도 오답 — 지문은 변형이 억제되는 것이 아니라 세대 간으로 유전됨을 서술한다."
+        ],
+        "key_point": "(A): DNA 서열 변화 없이 발현 조절 = 'control whether genes are expressed or silenced' → modify. (B): 세대 간 전달 = 'heritable ... passed from parent to offspring across multiple generations' → transmitted."
+      },
+      "self_check": {
+        "correct_pair": "(A) modify — (B) transmitted",
+        "A_justification": "'modify' accurately captures 'control whether individual genes are expressed or silenced' — epigenetics modifies expression, not sequence",
+        "B_justification": "'transmitted' captures the heritable nature — modifications 'passed from parent to offspring across multiple generations'",
+        "distractor_analysis": {
+          "choice_1": "(A) 'stabilize' contradicts the dynamic alteration described; (B) 'lost' contradicts transgenerational inheritance",
+          "choice_2": "(A) 'eliminate' overstates — genes are regulated, not destroyed; (B) 'replicated' could be confused with DNA copying, not inheritance",
+          "choice_3": "(A) fits but (B) 'randomized' contradicts the evidence of consistent, heritable modifications",
+          "choice_5": "(A) 'determine' misrepresents the relationship — epigenetics modulates, not solely determines; (B) 'suppressed' contradicts inheritance"
+        },
+        "summary_faithfulness": "Precisely captures the two key claims: environmental modification of gene expression and transgenerational heritability",
+        "korean_explanation": {
+          "correct": "(A) modify — 지문의 후성유전 메커니즘 설명인 \"control whether individual genes are expressed or silenced\"가 환경 요인이 유전자 발현을 'DNA 서열 변경 없이 조절(modify)'함을 직접 뒷받침한다. (B) transmitted — 지문의 \"some epigenetic modifications are heritable — they can be passed from parent to offspring across multiple generations\"와 쥐 실험에서 세대 간 전달이 확인되었다는 내용이 변형이 세대 간으로 '전달(transmitted)'됨을 명시한다.",
+          "wrong": {
+            "choice_1": "(A) stabilize가 오답 — 후성유전은 유전자 발현을 안정화하는 것이 아니라 환경에 따라 동적으로 변화시킨다. (B) lost도 오답 — 지문은 후성유전적 변형이 사라지는 것이 아니라 세대를 넘어 유전됨을 강조한다.",
+            "choice_2": "(A) eliminate가 오답 — 후성유전 메커니즘은 유전자를 '제거'하는 것이 아니라 발현 여부를 조절한다.",
+            "choice_3": "(B) randomized가 오답 — 지문의 쥐 실험 결과는 후성유전적 변형이 무작위가 아니라 일관된 패턴으로 세대 간에 전달됨을 보여준다.",
+            "choice_5": "(A) determine이 오답 — 후성유전은 유전자 발현을 완전히 '결정'하는 것이 아니라 조절·변조한다. (B) suppressed도 오답 — 지문은 변형이 억제되는 것이 아니라 세대 간으로 유전됨을 서술한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-22",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "challenging",
+      "passage": "Quantum mechanics describes subatomic particles in terms of wave functions — mathematical objects that encode the probabilities of finding a particle in various states when measured. Prior to measurement, a particle does not occupy a definite state; instead, it exists in a superposition of multiple possible states simultaneously. The act of measurement itself forces the wave function to \"collapse\" to one definite outcome. This feature of quantum theory, which has been experimentally confirmed with extraordinary precision, raises a philosophically troubling question: what constitutes a measurement? Some interpretations hold that measurement requires a conscious observer, a view that most physicists find unacceptable. The Copenhagen interpretation, the most widely taught, sidesteps the issue by treating the boundary between quantum system and measuring apparatus as a pragmatic rather than a fundamental divide. The Many-Worlds interpretation, developed by Hugh Everett III, resolves the collapse problem by proposing that every possible measurement outcome is realized in a separate branch of a constantly proliferating universe. Each interpretation preserves the predictive accuracy of quantum mechanics while offering radically different accounts of what measurement ultimately means for the nature of physical reality.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nWhile quantum mechanics' predictive power is (A) established, the meaning of measurement — which collapses a particle from superposition to a definite state — remains (B) debated across competing interpretations.",
+      "choices": [
+        "(A) firmly — (B) philosophically",
+        "(A) weakly — (B) rarely",
+        "(A) gradually — (B) scientifically",
+        "(A) firmly — (B) empirically",
+        "(A) tentatively — (B) broadly"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "(A) firmly — 지문의 \"experimentally confirmed with extraordinary precision\"이 양자역학의 예측력이 '확고히(firmly)' 확립되어 있음을 직접 뒷받침한다. (B) philosophically — 지문의 \"raises a philosophically troubling question\"과 측정의 의미가 '물리적 실재의 본질'에 대한 서로 다른 해석들 사이에서 여전히 논쟁 중이라는 내용이 논쟁이 '철학적으로(philosophically)' 이루어짐을 명시한다.",
+        "wrong": [
+          "(A) weakly가 오답 — 지문은 양자역학의 예측력이 'extraordinary precision(탁월한 정밀도)'으로 실험적으로 확인되었다고 명시한다.",
+          "(A) gradually가 오답 — 양자역학의 예측 정확성은 점진적으로 확립된 것이 아니라 현재 확고히 검증된 사실이다.",
+          "(B) empirically가 오답 — 지문은 모든 해석이 동일한 경험적 예측을 보존한다고 명시하므로 논쟁은 경험적인 것이 아니라 철학적·해석적이다.",
+          "(A) tentatively가 오답 — 지문은 양자역학의 예측력을 조심스럽게 받아들이는 것이 아니라 확고히 확립된 것으로 서술한다."
+        ],
+        "key_point": "(A): 예측력 = 'experimentally confirmed with extraordinary precision' → firmly. (B): 해석 논쟁의 성격 = 'philosophically troubling question'·'nature of physical reality' → philosophically."
+      },
+      "self_check": {
+        "correct_pair": "(A) firmly — (B) philosophically",
+        "A_justification": "'firmly' reflects 'experimentally confirmed with extraordinary precision' — there is no doubt about predictive accuracy",
+        "B_justification": "'philosophically' captures 'raises a philosophically troubling question' and the debate among interpretations about what measurement means for 'the nature of physical reality'",
+        "distractor_analysis": {
+          "choice_2": "(A) 'weakly' contradicts the extraordinary experimental precision",
+          "choice_3": "(A) 'gradually' does not describe the established experimental status",
+          "choice_4": "(A) fits but (B) 'empirically' contradicts the passage — the different interpretations preserve the same empirical predictions; the debate is philosophical/interpretive not empirical",
+          "choice_5": "(A) 'tentatively' contradicts 'extraordinary precision'; (B) 'broadly' is vague"
+        },
+        "summary_faithfulness": "Captures the key tension: unquestioned predictive success vs. unresolved philosophical interpretation of measurement",
+        "korean_explanation": {
+          "correct": "(A) firmly — 지문의 \"experimentally confirmed with extraordinary precision\"이 양자역학의 예측력이 '확고히(firmly)' 확립되어 있음을 직접 뒷받침한다. (B) philosophically — 지문의 \"raises a philosophically troubling question\"과 측정의 의미가 '물리적 실재의 본질'에 대한 서로 다른 해석들 사이에서 여전히 논쟁 중이라는 내용이 논쟁이 '철학적으로(philosophically)' 이루어짐을 명시한다.",
+          "wrong": {
+            "choice_2": "(A) weakly가 오답 — 지문은 양자역학의 예측력이 'extraordinary precision(탁월한 정밀도)'으로 실험적으로 확인되었다고 명시한다.",
+            "choice_3": "(A) gradually가 오답 — 양자역학의 예측 정확성은 점진적으로 확립된 것이 아니라 현재 확고히 검증된 사실이다.",
+            "choice_4": "(B) empirically가 오답 — 지문은 모든 해석이 동일한 경험적 예측을 보존한다고 명시하므로 논쟁은 경험적인 것이 아니라 철학적·해석적이다.",
+            "choice_5": "(A) tentatively가 오답 — 지문은 양자역학의 예측력을 조심스럽게 받아들이는 것이 아니라 확고히 확립된 것으로 서술한다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-23",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "challenging",
+      "passage": "The hypothesis of linguistic relativity, associated most closely with Benjamin Lee Whorf, proposes that the language one speaks does not merely reflect thought but actively shapes it — that the categories and distinctions encoded in a language influence the cognitive processes of its speakers. In its strong form, the hypothesis claims that certain thoughts are impossible without the linguistic structures to express them. Most linguists today reject the strong version, citing the ability of speakers to acquire entirely new conceptual frameworks when learning a second language. However, a weaker form of the hypothesis has received substantial empirical support. Speakers of languages that use absolute spatial directions (north, south, east, west) rather than relative ones (left, right, in front of, behind) show reliably superior spatial orientation skills, consistently pointing toward distant landmarks even in unfamiliar environments. Speakers of languages with a single term covering both blue and green perceive the boundary between the two colors differently from speakers of languages that mark the distinction lexically. These findings suggest that while language does not imprison thought, it does calibrate the default pathways through which habitual thinking tends to travel.\n* lexically: 어휘적으로",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nAlthough the strong claim that language (A) thought is largely rejected, evidence suggests that linguistic structures do (B) certain cognitive tendencies, such as spatial reasoning and color perception.",
+      "choices": [
+        "(A) mirrors — (B) suppress",
+        "(A) simplifies — (B) eliminate",
+        "(A) determines — (B) replace",
+        "(A) reflects — (B) damage",
+        "(A) determines — (B) influence"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "(A) determines — 지문에서 부정되는 강한 주장은 \"certain thoughts are impossible without the linguistic structures to express them\"으로, 언어가 사고를 '결정(determine)'한다는 것이다. (B) influence — 지문이 지지하는 약한 버전은 언어가 사고를 가두지는 않지만 \"calibrate the default pathways through which habitual thinking tends to travel\"한다는 것으로, 인지적 성향에 '영향(influence)'을 미침을 보여준다.",
+        "wrong": [
+          "(A) mirrors가 오답 — '언어가 사고를 반영한다'는 것은 워프 가설이 반박하는 표준적 비-워프 관점이다. (B) suppress도 오답 — 지문은 언어가 인지 성향을 억압하는 것이 아니라 방향을 조율(calibrate)한다고 서술한다.",
+          "(A) simplifies가 오답 — 지문에서 부정되는 강한 주장은 언어의 '단순화' 역할이 아닌 사고의 '결정' 역할이다.",
+          "(B) replace가 오답 — 약한 버전의 가설은 언어가 사고를 '대체'하는 것이 아니라 기본 경로를 '조율'하는 데 그친다.",
+          "(A) reflects가 오답 — '언어가 사고를 반영한다'는 것은 워프 가설이 도전하는 관점이지, 가설 자체의 주장이 아니다."
+        ],
+        "key_point": "(A): 거부된 강한 주장 = 'certain thoughts are impossible' → determines. (B): 지지된 약한 주장 = 'calibrate the default pathways' → influence."
+      },
+      "self_check": {
+        "correct_pair": "(A) determines — (B) influence",
+        "A_justification": "'determines' captures the strong Whorfian claim — that language makes certain thoughts 'impossible' — which is rejected",
+        "B_justification": "'influence' appropriately reflects the weaker, supported version — language 'calibrates default pathways,' shaping but not imprisoning thought",
+        "distractor_analysis": {
+          "choice_1": "(A) 'mirrors' is actually the opposite of the Whorfian claim — it's the non-Whorfian view; (B) 'suppress' contradicts the positive influence described",
+          "choice_2": "(A) 'simplifies' is not the strong claim being discussed; (B) 'eliminate' overstates the weaker version",
+          "choice_3": "(A) fits but (B) 'replace' implies language substitutes thought, which is too strong for the weak hypothesis",
+          "choice_4": "(A) 'reflects' is the standard view being challenged, not the hypothesis being discussed; (B) 'damage' is not supported"
+        },
+        "summary_faithfulness": "Accurately distinguishes the rejected strong claim from the supported weak claim about language and cognition",
+        "korean_explanation": {
+          "correct": "(A) determines — 지문에서 부정되는 강한 주장은 \"certain thoughts are impossible without the linguistic structures to express them\"으로, 언어가 사고를 '결정(determine)'한다는 것이다. (B) influence — 지문이 지지하는 약한 버전은 언어가 사고를 가두지는 않지만 \"calibrate the default pathways through which habitual thinking tends to travel\"한다는 것으로, 인지적 성향에 '영향(influence)'을 미침을 보여준다.",
+          "wrong": {
+            "choice_1": "(A) mirrors가 오답 — '언어가 사고를 반영한다'는 것은 워프 가설이 반박하는 표준적 비-워프 관점이다. (B) suppress도 오답 — 지문은 언어가 인지 성향을 억압하는 것이 아니라 방향을 조율(calibrate)한다고 서술한다.",
+            "choice_2": "(A) simplifies가 오답 — 지문에서 부정되는 강한 주장은 언어의 '단순화' 역할이 아닌 사고의 '결정' 역할이다.",
+            "choice_3": "(B) replace가 오답 — 약한 버전의 가설은 언어가 사고를 '대체'하는 것이 아니라 기본 경로를 '조율'하는 데 그친다.",
+            "choice_4": "(A) reflects가 오답 — '언어가 사고를 반영한다'는 것은 워프 가설이 도전하는 관점이지, 가설 자체의 주장이 아니다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-24",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "challenging",
+      "passage": "Regulatory capture is the process by which a regulatory agency, created to act in the public interest, becomes dominated by the very industry it was established to oversee and comes to act in that industry's interests rather than the public's. The phenomenon was first formally analyzed by economist George Stigler in the 1970s, who argued that regulation is typically sought by and designed for the benefit of industry rather than consumers. Capture occurs through several mechanisms. Regulated industries possess far superior information about their own operations than regulators, creating an asymmetry that agencies often rely on industry insiders to bridge — insiders who bring with them the priorities and assumptions of the industry. The \"revolving door\" between industry and regulatory agencies means that regulators frequently move into lucrative industry positions after leaving public service, creating incentives to maintain cooperative rather than adversarial relationships with those they supervise. Concentrated industry interests — focused on maximizing profit from a specific regulatory outcome — are typically better organized and better funded than diffuse public interests in safety and competition, giving them disproportionate influence over rule-making and enforcement.\n* lucrative: 돈이 되는",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nRegulatory capture occurs when agencies meant to (A) the public from industry abuse instead come to serve industry interests, driven by information asymmetry, career incentives, and the (B) influence of organized industry groups.",
+      "choices": [
+        "(A) protect — (B) disproportionate",
+        "(A) benefit — (B) minimal",
+        "(A) regulate — (B) declining",
+        "(A) protect — (B) diminishing",
+        "(A) educate — (B) disproportionate"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "(A) protect — 지문의 \"created to act in the public interest\"와 규제 기관이 산업을 '감독(oversee)'하도록 설립되었다는 내용이 공공을 '보호(protect)'하는 것이 본래 사명임을 뒷받침한다. (B) disproportionate — 지문의 \"giving them disproportionate influence over rule-making and enforcement\"가 산업계의 영향력이 '불균형적으로(disproportionate)' 크다는 근거를 직접 제공한다.",
+        "wrong": [
+          "(A) benefit이 오답 — 규제 기관의 사명은 단순히 공공에 '이익'을 주는 것이 아니라 구체적으로 산업의 남용으로부터 공공을 '보호'하는 것이다. (B) minimal도 오답 — 지문은 산업계의 영향력이 미미한 것이 아니라 'disproportionate(불균형적으로 강하다)'고 명시한다.",
+          "(A) regulate가 오답 — 지문이 강조하는 것은 단순한 규제 기능이 아니라 공익 '보호'라는 구체적 사명이다. (B) declining도 오답 — 지문은 산업계 영향력이 줄어드는 것이 아니라 오히려 'disproportionate'하게 강력하다고 서술한다.",
+          "(B) diminishing이 오답 — 지문은 산업계의 영향력이 감소하는 것이 아니라 지나치게 강하다(disproportionate)고 명시한다.",
+          "(A) educate가 오답 — 지문 어디에도 규제 기관의 사명이 교육이라는 내용은 없다."
+        ],
+        "key_point": "(A): 규제 기관의 본래 사명 = 'act in the public interest' → protect. (B): 산업계 영향력의 특성 = 'disproportionate influence over rule-making and enforcement' → disproportionate."
+      },
+      "self_check": {
+        "correct_pair": "(A) protect — (B) disproportionate",
+        "A_justification": "'protect' captures the agency's intended mandate — 'act in the public interest' against the industry it oversees",
+        "B_justification": "'disproportionate' directly mirrors 'disproportionate influence over rule-making and enforcement'",
+        "distractor_analysis": {
+          "choice_2": "(A) 'benefit' is vague and misses the protective mandate; (B) 'minimal' contradicts 'disproportionate influence'",
+          "choice_3": "(A) 'regulate' is too generic — the passage specifies the protective public interest mandate; (B) 'declining' is not supported",
+          "choice_4": "(A) fits but (B) 'diminishing' contradicts the strong influence of industry described",
+          "choice_5": "(A) 'educate' is not the mandate described for regulatory agencies"
+        },
+        "summary_faithfulness": "Accurately captures the intended vs. actual function of captured agencies and the mechanism of industry's outsized influence",
+        "korean_explanation": {
+          "correct": "(A) protect — 지문의 \"created to act in the public interest\"와 규제 기관이 산업을 '감독(oversee)'하도록 설립되었다는 내용이 공공을 '보호(protect)'하는 것이 본래 사명임을 뒷받침한다. (B) disproportionate — 지문의 \"giving them disproportionate influence over rule-making and enforcement\"가 산업계의 영향력이 '불균형적으로(disproportionate)' 크다는 근거를 직접 제공한다.",
+          "wrong": {
+            "choice_2": "(A) benefit이 오답 — 규제 기관의 사명은 단순히 공공에 '이익'을 주는 것이 아니라 구체적으로 산업의 남용으로부터 공공을 '보호'하는 것이다. (B) minimal도 오답 — 지문은 산업계의 영향력이 미미한 것이 아니라 'disproportionate(불균형적으로 강하다)'고 명시한다.",
+            "choice_3": "(A) regulate가 오답 — 지문이 강조하는 것은 단순한 규제 기능이 아니라 공익 '보호'라는 구체적 사명이다. (B) declining도 오답 — 지문은 산업계 영향력이 줄어드는 것이 아니라 오히려 'disproportionate'하게 강력하다고 서술한다.",
+            "choice_4": "(B) diminishing이 오답 — 지문은 산업계의 영향력이 감소하는 것이 아니라 지나치게 강하다(disproportionate)고 명시한다.",
+            "choice_5": "(A) educate가 오답 — 지문 어디에도 규제 기관의 사명이 교육이라는 내용은 없다."
+          }
+        }
+      }
+    },
+    {
+      "id": "v2-40-25",
+      "number": 40,
+      "type": "요약문",
+      "difficulty": "challenging",
+      "passage": "CRISPR-Cas9 technology has given scientists the ability to edit the genomes of living organisms with a precision and efficiency that was unimaginable a generation ago. By using a guide RNA to direct the Cas9 enzyme to a specific genomic location, researchers can cut, delete, or replace segments of DNA in virtually any cell type. The therapeutic potential of the technology is immense: early clinical trials have demonstrated durable remissions in patients with previously untreatable blood disorders, and researchers are actively exploring CRISPR-based treatments for cancers, genetic blindness, and infectious disease. However, the same capabilities that make CRISPR therapeutically promising also make it ethically perilous. When edits are made in somatic cells — those that constitute the body's tissues but are not passed on to descendants — the ethical concerns, while real, are broadly analogous to those raised by conventional drug treatments. Edits to germline cells — eggs, sperm, or early-stage embryos — are fundamentally different because they are heritable: every cell in any resulting individual will carry the modification, and it may be passed on indefinitely through subsequent generations. Critics argue that germline editing in humans crosses a qualitative boundary, creating not only unforeseen risks but also a potential avenue toward genetic enhancement that raises profound questions of equity and consent.\n* somatic: 체세포의 ** germline: 생식세포계열의",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nWhile CRISPR therapy in somatic cells raises (A) ethical concerns similar to conventional treatments, germline editing is far more (B) because its effects are inherited by all future generations.",
+      "choices": [
+        "(A) unprecedented — (B) straightforward",
+        "(A) manageable — (B) contentious",
+        "(A) negligible — (B) predictable",
+        "(A) manageable — (B) routine",
+        "(A) pressing — (B) temporary"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "(A) manageable — 지문의 체세포 편집 윤리 평가인 \"broadly analogous to those raised by conventional drug treatments\"가 윤리적 우려가 '다룰 수 있는 수준(manageable)'임을 뒷받침한다. (B) contentious — 지문의 생식세포 편집 평가인 \"crosses a qualitative boundary\", \"unforeseen risks\", \"profound questions of equity and consent\"가 생식세포 편집이 깊이 '논쟁적(contentious)'임을 직접 명시한다.",
+        "wrong": [
+          "(A) unprecedented가 오답 — 지문은 체세포 편집의 윤리적 우려가 기존 약물 치료와 '유사(analogous)'하다고 하므로 '전례 없는'은 모순된다. (B) straightforward도 오답 — 지문은 생식세포 편집이 심각한 윤리적 복잡성을 수반한다고 서술한다.",
+          "(A) negligible이 오답 — 지문은 체세포 편집의 우려가 'real(실재한다)'고 명시하므로 '무시해도 좋을' 수준이라는 표현은 과소평가다. (B) predictable도 오답 — 지문은 생식세포 편집이 'unforeseen risks(예측 불가능한 위험)'을 만든다고 명시한다.",
+          "(B) routine이 오답 — 지문은 생식세포 편집이 'qualitative boundary(질적 경계)'를 넘는 전례 없는 문제임을 강조하므로 '일상적'이라는 표현은 심각성을 심하게 과소평가한다.",
+          "(A) pressing이 오답 — 지문은 체세포 편집의 우려가 기존 치료와 유사한 수준이라 하므로, 'pressing(긴박한)'은 과도한 표현이다. (B) temporary도 오답 — 생식세포 편집의 핵심적 문제는 그 효과가 'heritable(유전 가능)하고 indefinitely(무한히)' 전달된다는 점이므로 '일시적'은 정반대다."
+        ],
+        "key_point": "(A): 체세포 편집 = 'broadly analogous to conventional drug treatments' → manageable. (B): 생식세포 편집 = 'qualitative boundary'·'unforeseen risks'·'profound questions' → contentious."
+      },
+      "self_check": {
+        "correct_pair": "(A) manageable — (B) contentious",
+        "A_justification": "'manageable' captures 'broadly analogous to those raised by conventional drug treatments' — somatic concerns exist but are within familiar ethical territory",
+        "B_justification": "'contentious' reflects the 'qualitative boundary,' 'unforeseen risks,' 'profound questions of equity and consent' — germline editing is deeply disputed",
+        "distractor_analysis": {
+          "choice_1": "(A) 'unprecedented' contradicts 'analogous to conventional treatments'; (B) 'straightforward' contradicts the profound ethical complexity described",
+          "choice_3": "(A) 'negligible' overstates the minimization — the text says 'real' concerns; (B) 'predictable' contradicts 'unforeseen risks'",
+          "choice_4": "(A) fits but (B) 'routine' dramatically understates the gravity of heritable germline modification",
+          "choice_5": "(A) 'pressing' overstates the somatic case relative to the passage; (B) 'temporary' is the opposite of 'heritable' and 'indefinitely'"
+        },
+        "summary_faithfulness": "Precisely captures the ethical asymmetry between somatic and germline CRISPR editing based on heritability",
+        "korean_explanation": {
+          "correct": "(A) manageable — 지문의 체세포 편집 윤리 평가인 \"broadly analogous to those raised by conventional drug treatments\"가 윤리적 우려가 '다룰 수 있는 수준(manageable)'임을 뒷받침한다. (B) contentious — 지문의 생식세포 편집 평가인 \"crosses a qualitative boundary\", \"unforeseen risks\", \"profound questions of equity and consent\"가 생식세포 편집이 깊이 '논쟁적(contentious)'임을 직접 명시한다.",
+          "wrong": {
+            "choice_1": "(A) unprecedented가 오답 — 지문은 체세포 편집의 윤리적 우려가 기존 약물 치료와 '유사(analogous)'하다고 하므로 '전례 없는'은 모순된다. (B) straightforward도 오답 — 지문은 생식세포 편집이 심각한 윤리적 복잡성을 수반한다고 서술한다.",
+            "choice_3": "(A) negligible이 오답 — 지문은 체세포 편집의 우려가 'real(실재한다)'고 명시하므로 '무시해도 좋을' 수준이라는 표현은 과소평가다. (B) predictable도 오답 — 지문은 생식세포 편집이 'unforeseen risks(예측 불가능한 위험)'을 만든다고 명시한다.",
+            "choice_4": "(B) routine이 오답 — 지문은 생식세포 편집이 'qualitative boundary(질적 경계)'를 넘는 전례 없는 문제임을 강조하므로 '일상적'이라는 표현은 심각성을 심하게 과소평가한다.",
+            "choice_5": "(A) pressing이 오답 — 지문은 체세포 편집의 우려가 기존 치료와 유사한 수준이라 하므로, 'pressing(긴박한)'은 과도한 표현이다. (B) temporary도 오답 — 생식세포 편집의 핵심적 문제는 그 효과가 'heritable(유전 가능)하고 indefinitely(무한히)' 전달된다는 점이므로 '일시적'은 정반대다."
+          }
+        }
+      }
+    }
+  ]
+}

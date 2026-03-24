@@ -1,0 +1,511 @@
+{
+  "type": "빈칸 추론 (단어/구)",
+  "typeNumbers": [31, 32],
+  "totalCount": 36,
+  "questions": [
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "The quest for knowledge in the material world is a never-ending pursuit, but the quest does not mean that a thoroughly schooled person is an educated person or that an educated person is a wise person. We are too often blinded by our ignorance of our ignorance, and our pursuit of knowledge is no guarantee of wisdom. Hence, we are prone to becoming the blind leading the blind because our overemphasis on competition in nearly everything makes looking good more important than being good. Although our ignorance is undeniably vast, it is from the vastness of this selfsame ignorance that our sense of wonder grows. But, when we do not know we are ignorant, we do not know enough to even question, let alone investigate, our ignorance. No one can teach another person anything. All one can do with and for someone else is to facilitate learning by helping the person to ______________.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["find their role in teamwork", "learn from others' successes and failures", "make the most of technology for learning", "obtain knowledge from wonderful experts", "discover the wonder of their ignorance"],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "Lewis-Williams believes that the religious view of hunter groups was a contract between the hunter and the hunted. 'The powers of the underworld allowed people to kill animals, provided people responded in certain ritual ways.' This is borne out in the San. Like other shamanistic societies, they have admiring practices between human hunters and their prey, suffused with taboos derived from extensive natural knowledge. These practices suggest that honouring may be one method of softening the disquiet of killing. It should be said that this disquiet needn't arise because there is something fundamentally wrong with a human killing another animal, but simply because we are aware of doing the killing. We make sound guesses that the pain and desire for life we feel have a counterpart in the animal we kill. As predators, this can create problems for us. One way to smooth those edges, then, is to ______________.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["view that prey with respect", "domesticate those animals", "develop tools for hunting", "avoid supernatural beliefs", "worship our ancestors' spirits"],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "Although a balance or harmony between partners clearly develops over time in a relationship, it is also a factor in initial attraction. To the extent that two people share similar verbal and nonverbal habits in a first meeting, they will be more comfortable with one another. Fast-paced individuals talk and move quickly, whereas slow-paced individuals have a different tempo. In the case of contrasting styles, individuals may be less interested in pursuing a relationship. Individuals with similar styles, however, are more comfortable and find that they just seem to \"click\" with one another. Thus, ______________ may provide a selection filter for the initiation of a relationship.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["information deficit", "cultural adaptability", "meaning negotiation", "behavioral coordination", "unconditional acceptance"],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "Animals arguably make art. The male bowerbirds of New Guinea and Australia dedicate huge fractions of their time and energy to creating elaborate structures from twigs, flowers, berries, beetle wings, and even colorful trash. What's most amazing about the towers and \"bowers\" they construct is that they aren't stereotyped like a beehive or hummingbird nest. Each one is different. Many researchers suggest these displays are used by the females to gauge the cognitive abilities of her potential mates, but Darwin thought that she was actually attracted to their beauty. In other words, the bowers ______________; they are appreciated by the females for their own sake. A 2013 study looked at whether bowerbirds that did better on cognitive tests were more successful at attracting mates. They were not, suggesting whatever the females are looking for, it isn't a straightforward indicator of cognitive ability.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["block any possibility of reproduction", "aren't simply signals of mate quality", "hardly sustain their forms long enough", "don't let the mating competition overheat", "can be a direct indicator of aggressiveness"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "People have always needed to eat, and they always will. Rising emphasis on self-expression values does not put an end to material desires. But prevailing economic orientations are gradually being reshaped. People who work in the knowledge sector continue to seek high salaries, but they place equal or greater emphasis on doing stimulating work. Consumption is becoming progressively less determined by the need for sustenance and the practical use of the goods consumed. People still eat, but a growing component of food's value is determined by its ______________ aspects. People pay a premium to eat exotic cuisines that provide an interesting experience or that symbolize a distinctive life-style.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["quantitative", "nonmaterial", "nutritional", "invariable", "economic"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "In labor-sharing groups, people contribute labor to other people on a regular basis or on an irregular basis. Labor sharing groups are part of what has been called a \"moral economy\" since no one keeps formal records on how much any family puts in or takes out. Instead, accounting is ______________. The group has a sense of moral community based on years of trust and sharing. In a certain community of North America, labor sharing is a major economic factor of social cohesion. When a family needs a new barn, a barn-raising party is called. Many families show up to help. Later, when another family needs help, they call on the same people.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["legally established", "regularly reported", "socially regulated", "manually calculated", "carefully documented"],
+      "answer": 3,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸추론",
+      "passage": "Learning is constructive, not destructive. This means we don't __________ mental models — we simply expand upon them. To understand what I mean, think back to your childhood. There was likely a time when you believed in Santa Claus; your mental model accepted him and your predictions accounted for his existence. At some point, however, you came to recognize he was fictitious and you updated your mental model accordingly. At that moment, you didn't suddenly forget everything about Santa Claus. To this day, you can still recognize him, speak of him and embrace young children's belief in him. In other words, you didn't destroy your old mental model, you simply added new information to it. By building upon old mental models we are able to maintain ties to the past, foster a deeper understanding of concepts and develop an ever-expanding pool of information to draw upon in order to continually adapt to an ever-evolving world.\n* fictitious: 가상의",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["replace", "imagine", "predict", "analyze", "imitate"],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸추론",
+      "passage": "A commonality between conceptual and computer art was __________. Conceptual artists decoupled the relationship between the art object and artist by mitigating all personal signs of invention. The artist became detached from the idea of personalized draftsmanship by installing a predetermined system — a type of instruction for another to follow. That way there was, as Sol LeWitt states, no \"dependence on the skill of the artist as a craftsman.\" Effectively any person could carry out the instructions. The same process was at work in computer art, where artists devised a predetermined drawing algorithm for the computer automaton to carry out the instruction. The human agent initiated the conceptual form, and a machine actuated it. Likewise, the computer artwork lacked any autographic mark, trace of spontaneity, or artistic authenticity. The plotter arm would replace the human arm in the production process.\n* mitigate: 완화하다 ** actuate: 작동시키다\n*** plotter: 플로터(데이터를 도면화하는 출력 장치)",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "the suppression of authorial presence",
+        "the rejection of meaningless repetition",
+        "the elevation of ordinary objects to art",
+        "the preference of simplicity to elaboration",
+        "the tendency of artists to work in collaboration"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸",
+      "passage": "In the post-World War II years after 1945, unparalleled economic growth fueled a building boom and a massive migration from the central cities to the new suburban areas. The suburbs were far more dependent on the automobile, signaling the shift from primary dependence on public transportation to private cars. Soon this led to the construction of better highways and freeways and the decline and even loss of public transportation. With all of these changes came a ____________ of leisure. As more people owned their own homes, with more space inside and lovely yards outside, their recreation and leisure time was increasingly centered around the home or, at most, the neighborhood. One major activity of this home-based leisure was watching television. No longer did one have to ride the trolly to the theater to watch a movie; similar entertainment was available for free and more conveniently from television.\n* unparalleled: 유례없는",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "downfall",
+        "uniformity",
+        "restoration",
+        "privatization",
+        "customization"
+      ],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸",
+      "passage": "Many people create and share pictures and videos on the Internet. The difficulty is finding what you want. Typically, people want to search using words (rather than, say, example sketches). Because most pictures don't come with words attached, it is natural to try and build tagging systems that tag images with relevant words. The underlying machinery is straightforward ― we apply image classification and object detection methods and tag the image with the output words. But tags aren't ____________. It matters who is doing what, and tags don't capture this. For example, tagging a picture of a cat in the street with the object categories \"cat\", \"street\", \"trash can\" and \"fish bones\" leaves out the information that the cat is pulling the fish bones out of an open trash can on the street.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "a set of words that allow users to identify an individual object",
+        "a comprehensive description of what is happening in an image",
+        "a reliable resource for categorizing information by pictures",
+        "a primary means of organizing a sequential order of words",
+        "a useful filter for sorting similar but not identical images"
+      ],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "There's reason to worry that an eyes-on-the-prize mentality could be a mistake. Lots of research shows that we tend to be overconfident about how easy it is to be self-disciplined. This is why so many of us optimistically buy expensive gym memberships when paying per-visit fees would be cheaper, register for online classes we'll never complete, and purchase family-size chips on discount to trim our monthly snack budget, only to consume every last crumb in a single sitting. We think \"future me\" will be able to make good choices, but too often \"present me\" gives in to temptation. People have a remarkable ability to ______ their own failures. Even when we flounder again and again, many of us manage to maintain a rosy optimism about our ability to do better next time rather than learning from our past mistakes. We cling to fresh starts and other reasons to stay upbeat, which may help us get out of bed in the morning but can prevent us from approaching change in the smartest possible way.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "criticize",
+        "remind",
+        "ignore",
+        "detect",
+        "overestimate"
+      ],
+      "answer": 3,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "The way we perceive the colors of the rainbow, and the universe in general, is influenced by the words we use to describe them. This is not limited to visual perception but also applies to smell, taste, touch, our perception of time and countless other human experiences. A wine or Scotch connoisseur, for example, has a much richer vocabulary at their disposal to describe the fullness, finish, flavors and aroma of the drink, which in turn improves their ability to recognize and remember subtle differences of which a non-expert may be unaware. Similarly, a chef or perfumer has at their disposal labels for flavors and smells that allow them to perceive, differentiate among, prepare and remember subtle variations. The labels that we have at our disposal influence how we see the world around us. Regardless of where you place the limits of linguistic effects on cognition, there is evidence that at least some of the things that we perceive and remember differ depending on ______.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "where we purchase them",
+        "how expensive they are",
+        "what labels we use",
+        "how persuasive ads are",
+        "who makes the products"
+      ],
+      "answer": 3,
+      "points": 3,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "From about ages eight through sixteen, our manual dexterity has strengthened through continually improving eye hand coordination. There is considerable improvement in handwriting skills. We gain mastery over the mechanics of language. We also gradually eliminate the logical gaps in our stories — characteristic of our earlier stage of perception — as intense preoccupation with the whole vision gives way to preoccupation with correctness. As a result, our writing and oral storying become increasingly conventional and literal, with an accompanying ____________ of the spontaneity and originality that characterized our earlier efforts. At this stage our vocabulary is firmly grounded. We use words everyone else uses. We have little need to invent metaphors to communicate. By now we know that a star is \"a hot gaseous mass floating in space\" in contrast to our innocent stage, when we noticed, \"Look that star is like a flower without a stem!\"",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "loss",
+        "sense",
+        "increase",
+        "recovery",
+        "demonstration"
+      ],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "The commonsense understanding of the moral status of altruistic acts conforms to how most of us think about our responsibilities toward others. We tend to get offended when someone else or society determines for us how much of what we have should be given away; we are adults and should have the right to make such decisions for ourselves. Yet, when interviewed, altruists known for making the largest sacrifices — and bringing about the greatest benefits to their recipients — assert just the opposite. They insist that they ____________. Organ donors, and everyday citizens who risk their own lives to save others in mortal danger are remarkably consistent in their explicit denials that they have done anything deserving of high praise as well as in their assurance that anyone in their shoes should have done exactly the same thing. To be sure, it seems that the more altruistic someone is, the more they are likely to insist that they have done no more than all of us would be expected to do, lest we shirk our basic moral obligation to humanity.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "had absolutely no choice but to act as they did",
+        "should have been rewarded financially",
+        "regretted making such decisions",
+        "deserved others' appreciation in return",
+        "found the moral obligations inapplicable in risky situations"
+      ],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "As colors came to take on meanings and cultural significance within societies, attempts were made to ______ their use. The most extreme example of this phenomenon was the sumptuary laws. While these were passed in ancient Greece and Rome, and examples can be found in ancient China and Japan, they found their fullest expressions in Europe from the mid‑twelfth century, before slowly disappearing in the early modern period. Such laws could touch on anything from diet to dress and furnishings, and sought to enforce social boundaries by encoding the social classes into a clear visual system: the peasants, in other words, should eat and dress like peasants; craftsmen should eat and dress like craftsmen. Color was a vital signifier in this social language ― dull, earthy colors like russet were explicitly confined to the poorest rural peasants, while bright ones like scarlet were the preserve of a select few.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["export", "restrict", "conceal", "liberate", "tolerate"],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "John Douglas Pettigrew, a professor of psychology at the University of Queensland, found that the brain manages the external world by dividing it into separate regions, the peripersonal and the extrapersonal ― basically, near and far. Peripersonal space includes whatever is in arm's reach; things you can control right now by using your hands. This is the world of what's real, right now. Extrapersonal space refers to everything else ― whatever you can't touch unless you move beyond your arm's reach, whether it's three feet or three million miles away. This is the realm of possibility. With those definitions in place, another fact follows, obvious but useful: any interaction in the extrapersonal space must occur in the future. Or, to put it another way, ______. For instance, if you're in the mood for a peach, but the closest one is sitting in a bin at the corner market, you can't enjoy it now. You can only enjoy it in the future, after you go get it.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["distance is linked to time", "the past is out of your reach", "what is going to happen happens", "time doesn't flow in one direction", "our brain is attracted to near objects"],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "When trying to establish what is meant by digital preservation, the first question that must be addressed is: what are you actually trying to preserve? This is clear in the analog environment where the information content is inextricably fixed to the physical medium. In the digital environment, the medium is not part of the ______. A bit stream looks the same to a computer regardless of the media it is read from. A physical carrier is necessary, but as long as the source media can be read, bit-perfect copies can be made cheaply and easily on other devices, making the preservation of the original carrier of diminishing importance. As the physical media that carry digital information are quite delicate relative to most analog media, it is expected that digital information will necessarily need to be migrated from one physical carrier to another as part of the ongoing preservation process. It is not the media itself but the information on the media that needs to be preserved.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["platform", "storage", "message", "challenge", "transformation"],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "Creativity is commonly defined as the production of ideas that are both novel (original, new) and useful (appropriate, feasible). Ideas that are original but not useful are irrelevant, and ideas that are useful but not original are unremarkable. While this definition is widely used in research, an important aspect of creativity is often ignored: Generating creative ideas rarely is the final goal. Rather, to successfully solve problems or innovate requires one or a few good ideas that really work, and work better than previous approaches. This requires that people evaluate the products of their own or each other's imagination, and choose those ideas that seem promising enough to develop further, and abandon those that are unlikely to be successful. Thus, being creative ______.  In fact, the ability to generate creative ideas is essentially useless if these ideas subsequently die a silent death.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["does not stop with idea generation", "rarely originates from practical ideas", "is often regarded as a shortcut to innovation", "frequently gives way to unanticipated success", "brings out tension between novelty and relevancy"],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "Motivation doesn't have to be accidental. For example, you don't have to wait for hours until a certain song that picks up your spirits comes on the radio. You can control what songs you hear. If there are certain songs that always lift you up, make a mix of those songs and have it ready to play in your car. Go through all of your music and create a \"greatest motivational hits\" playlist for yourself. Use the movies, too. How many times do you leave a movie feeling inspired and ready to take on the world? Whenever that happens, put the name of the movie in a special notebook that you might label \"the right buttons.\" Six months to a year later, you can watch the movie and get the same inspired feeling. Most movies that inspire us are even better the second time around. You have much more control over your environment than you realize. You can begin ________________ yourself consciously to be more and more focused and motivated.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "isolating",
+        "denying",
+        "programming",
+        "silencing",
+        "questioning"
+      ],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "We are ________________ than we are of visual ones. We notice and dislike breaks in audio, defects in audio, and static in audio. A bit less so for things on the visual side. For example, if a video has some scan lines in it, within a short period, you will start to ignore them. If the visual signal streams in 1080 instead of 4k, eventually you'll get used to it. However, if there is static in the audio, you will want to shut it off rather than endure the whole program. Or if the audio continues to drop out, you also will barely be able to tolerate it. In fact, probably more than any other aspect of filmmaking, it is via the audio that people determine silently to themselves, \"Good, professional quality\" or \"low-budget student production\" as soon as the film begins. These reactions are not just from seasoned filmmakers and educators, but the instinctual, natural reaction of all audiences.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "less aware of the sound techniques in film",
+        "less forgiving of technical sound mistakes",
+        "more forgetful of auditory experiences",
+        "less desirous of sound effects",
+        "more in need of hearing aids"
+      ],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "There has been a lot of discussion on why moths are attracted to light. The consensus seems to hold that moths are not so much attracted to lights as they are ______ by them. The light becomes a sensory overload that disorients the insects and sends them into a holding pattern. A hypothesis called the Mach band theory suggests that moths see a dark area around a light source and head for it to escape the light. Another theory suggests that moths perceive the light coming from a source as a diffuse halo with a dark spot in the center. The moths, attempting to escape the light, fly toward that imagined \"portal,\" bringing them closer to the source. As they approach the light, their reference point changes and they circle the light hopelessly trying to reach the portal. Everyone is familiar with moths circling their porch lights. Their flight appears to have no purpose, but they are, it is believed, trying to escape the pull of the light.\n* moth: 나방 ** consensus: 합의 *** diffuse: 널리 퍼진",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["warmed", "trapped", "targeted", "protected", "rejected"],
+      "answer": 2,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "One of the factors determining the use of technologies of communication will be the kinds of investments made in equipment and personnel; who makes them, and what they expect in return. There is no guarantee that the investment will necessarily be in forms of communication that ______. Because the ownership of investment funds tends to be in the hands of commercial organisations, the modernisation of communications infrastructure only takes place on the basis of potential profitability. Take, for example, the installation of fibre-optic communications cable across the African continent. A number of African nations are involved in the development but its operational structures will be oriented to those who can pay for access. Many states that might wish to use it for education and information may not only find it too expensive but also simply unavailable to them. There can be no doubt that the development has been led by investment opportunity rather than community demand.\n* fibre-optic: 광섬유의",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "require minimal cost and effort to maintain",
+        "are most appropriate for the majority of people",
+        "are in line with current standards and global norms",
+        "employ some of the most advanced technologies",
+        "promote the commercial interests of companies"
+      ],
+      "answer": 2,
+      "points": 3,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "After we make some amount of scientific and technological progress, does further progress get easier or harder? Intuitively, it seems like it could go either way because there are two competing effects. On the one hand, we \"stand on the shoulders of giants\": previous discoveries can make future progress easier. On the other hand, we \"pick the low-hanging fruit\": we make the easy discoveries first, so those that remain are more difficult. You can only invent the wheel once, and once you have, it's harder to find a similarly important invention. Though both of these effects are important, when we look at the data it's the latter effect that __________. Overall, past progress makes future progress harder. It's easy to see this qualitatively by looking at the history of innovation. Consider physics. In 1905, his \"miracle year,\" Albert Einstein revolutionized physics, describing the photoelectric effect, Brownian motion, the theory of special relativity, and his famous equation, E=mc². He was twenty-six at the time and did all this while working as a patent clerk. Compared to Einstein's day, progress in physics is now much harder to achieve.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "predominates",
+        "scatters",
+        "varies",
+        "vanishes",
+        "fades"
+      ],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "Behavior is, for the most part, a product of genes and brain neuropathways. Consider the elegant chemistry at work when living organisms move, think, behave, and act. Certainly, the environment is a factor here because it can influence how we act. An analogy would illustrate this adequately. Think of the environment as gasoline, and our body as the engine. Truly, the engine does not run without the gasoline, but all the intricate parts of the engine are the product of physical architecture, designed and assembled for a reactive purpose long before the gasoline is injected. Inject more gas and the engine accelerates, less, and it slows. The same is true for an organism. Behavior is a response to the environment. We have 'free will,' but the ultimate characteristic of that response can only act with respect to the architecture of our genes and our brain. In other words, the environment can, effectively, accelerate or slow down a potential behavior, but the engine for that behavior __________; therefore, the environment is but a catalyst.\n* analogy: 유사점 ** intricate: 복잡한 *** catalyst: 촉매, 기폭제",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "malfunctions even with correct input",
+        "is already built and functional",
+        "tends to shut down periodically",
+        "runs in an unpredictable manner",
+        "is subject to change without notice"
+      ],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "According to philosopher Habermas, the public sphere is 'the sphere of private people come together as a public'. Habermas's basic praise of the private sphere contradicts that of the ancients. It is not a realm of mere particularity; it harbours its own universals. It is in fact equal in value to the public sphere. As Habermas explains, 'the public sphere has a complementary relation to this private sphere, from which the public, as the bearers of the public sphere, is recruited'. Habermas pictures the private sphere as the waiting room in which people develop the consciousness that enables them to step out in public. This involves self-confidence, critical faculties, opinion and will-formation, and so on. It is in the private sphere, especially the privacy of one's own home, that one is able to find one's very identity, to achieve existential meaning and a personal conception of the good. It is the lifeworld out of which the public sphere is generated, enabling defects in the economic and political systems to be confronted. Privacy thus _______ persons for the public sphere, for rational-critical interaction in street meetings or on social media.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "censors",
+        "qualifies",
+        "misleads",
+        "compares",
+        "intimidates"
+      ],
+      "answer": 2,
+      "points": 3,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "There is a view of culture that rejects the idea that culture can be owned. This view is exemplified by Xuanzang, the Chinese traveler who went to India and brought back Buddhist manuscripts. It was embraced by Arab and Persian scholars who translated Greek philosophy. It was practiced by countless scribes, teachers, and artists who found inspiration far outside their local culture. Culture, for these figures, is made not only from the resources of one community but also from encounters with other cultures. It is crafted not only from the lived experience of individuals but also from borrowed forms and ideas that help individuals understand and articulate their experience in new ways. When seen through the lens of culture as property, these figures might appear to be unwelcome visitors, appropriators, even thieves. But they pursued their work with humility and dedication because they understood instinctively that _______; they knew that false ideas of property and ownership impose limits and constraints, leading to impoverished forms of expression.\n* appropriator: 도용하는 사람",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "culture evolves through circulation",
+        "borrowing undermines cultural identity",
+        "culture belongs to the people born into it",
+        "ownership of culture ensures its preservation",
+        "cultural boundaries promote artistic originality"
+      ],
+      "answer": 1,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸",
+      "passage": "Life is insecure and human well-being is fragile. If we are honest with ourselves, we realize that, despite our best efforts, we often cannot control the vicissitudes of human existence. We go through life in fear and trembling, fearing what may happen, while hoping for the best. Most of us get anxious in the face of an indeterminate or ambiguous situation. We don't handle uncertainty very well. We are easily tempted to settle for quick \"solutions,\" in order to eliminate our anxiety and doubt, even though these quick fixes may not, in the long run, actually be adequate solutions. It is natural, therefore, and even somewhat necessary, for us to seek ____________ in a sea of change and indeterminacy. We want a fixed star to guide us on our journey through hazardous waters. If only we could have knowledge of what is fixed, unchanging, and ultimately reliable, then, we assume, that would be knowledge most worth having.\n* vicissitude: 우여곡절",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "reputation",
+        "stability",
+        "fluidity",
+        "challenge",
+        "interdependency"
+      ],
+      "answer": 2,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸",
+      "passage": "In one of the most famous passages of Being and Nothingness, \"The Look,\" Jean-Paul Sartre describes the peculiar vulnerability that develops when someone goes from seeing (being a self with a perspective on the world) to being seen (having to confront the perspective of another on one's self). He illustrates it with the example of someone looking through a keyhole who suddenly finds himself caught by someone watching him. The look of the other is always unnerving, Sartre argues, not only because we momentarily recognize ourselves in it through our imagination of their judgment of us but also because we don't. We can always step back, challenge our perception of others' perceptions of ourselves, or explain them away — but we don't know what these perceptions really are. Others have the distinctive power of making us feel judged in ways we cannot fully control. Social life is all about the fear that accompanies our awareness that we can never ______________. We can only guess.\n* peculiar: 특유의 ** vulnerability: 취약성",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": [
+        "access what the other sees",
+        "be certain of the best choice",
+        "fully comprehend social consensus",
+        "know what others' weaknesses are",
+        "fail to judge the validity of our view"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "The human psychology and education communities (as well as some animal researchers!) have been against referring to \"teaching\" when describing social learning in animals, mainly because teaching implies a level of ______ on the part of the model that is difficult to measure in animals. Nonetheless, there has been a movement within the animal cognition community to say that animals can, in fact, teach one another. For example, skilled ants engage in a behavior called tandem running, in which they touch their bodies to the body of a novice ant as they lay down chemical trails, presumably to assist the newcomer with route learning. Killer whales also repeat the same seal hunting technique in front of their offspring, sometimes without even killing the seal, leading researchers to ask why they would repeatedly catch and release a seal if they were not planning to eat it. Considering the amount of energy they'd have to expend, there would need to be a good reason, and that reason might be teaching.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "comfort",
+        "courage",
+        "frustration",
+        "inventiveness",
+        "intentionality"
+      ],
+      "answer": 5,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "Writers often give us the impression that they have described the faces of their characters, when in fact they have simply given you an outline to fill in. Of Esch, the most important character in Hermann Broch's masterpiece The Sleepwalkers, we learn only that he has big teeth. Even so, we don't feel as if his face is a dentate blankness. Most often, we mistake being told what effect someone's appearance has for an account of that appearance. The poet Mallarmé's advice ― Peindre non la chose, mais l'effet qu'elle produit ('Paint not the thing itself but the effect it produces') sounds like a self-denying ordinance. Actually it is a rather clever way out of an intractable problem. When, in one of his novels, Evelyn Waugh says of a new character, that 'he had just the kind of appearance one would expect a young man of his type to have' and nothing else, you still feel as if you ______.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "have been told exactly what he looks like",
+        "have become a member of his social group",
+        "already know what will happen to him in the story",
+        "have been given precise details about his behavior",
+        "recognize the core characteristics of his personality"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸",
+      "passage": "No matter how astoundingly well written, all characters lack the complexity, the detailed history, the ambivalence and the sheer volume of details that your own life has. It is your life that makes your work in the role distinct and individual. Bring your life to the table! By examining the character and the events of the play, and both comparing them to and understanding them through your own life, you personalize the role. By personalizing the role, you deepen your interest and desire to perform this particular part. You know full well that the greater your interest in a task, the better you do it. Once you have fully examined the circumstances in the text, find similar situations in your past. If not precisely similar in event, you can abstract the nature of the circumstance. You may not have killed, but you have been driven to do harm. This simple understanding of the moment in your own terms bonds you consciously and subconsciously with the part. ______________ will sometimes provide you with what you might \"do,\" and doing that often reclaims and releases in you the original emotion. The performance of the role is your own life examined in the light of the circumstances and central themes of the play.\n* ambivalence: 양면 가치 ** sheer: 엄청난",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "Parallel experiences",
+        "Underlying themes",
+        "Emotional struggles",
+        "Complex storylines",
+        "Audience feedback"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸",
+      "passage": "In history, power stems only partially from knowing the truth. It also stems from the ability to ______________. Suppose you want to make an atom bomb. To succeed, you obviously need some accurate knowledge of physics. But you also need lots of people to mine uranium ore, build nuclear reactors and provide food for the construction workers, miners and physicists. The Manhattan Project directly employed about 130,000 people, with millions more working to sustain them. Robert Oppenheimer could devote himself to his equations because he relied on thousands of miners to extract uranium at the Eldorado mine in northern Canada and the Shinkolobwe mine in the Belgian Congo — not to mention the farmers who grew potatoes for his lunch. If you want to make an atom bomb, you must find a way to make millions of people cooperate.\n* ore: 광석 ** reactor: 원자로",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "maintain social order among a large number of people",
+        "focus on personality rather than skill and experience",
+        "acknowledge one's limitation through reflection",
+        "prioritize group needs over individual needs",
+        "recognize people's hidden potential"
+      ],
+      "answer": 1,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "We know that animals have evolved a variety of patterns to manipulate the perceptions of their predators to afford themselves a modicum of safety. Greater Bower birds utilize ______________ in the mating domain. Males construct a bower; its function is to provide an arena in which males display to females standing in an avenue that leads up to the bower. The males decorate the avenue with a variety of objects, such as stones and shells. But they do not do so in a chaotic manner. The larger objects are placed closer to the bower and the smaller objects farther away. This creates a forced perspective the opposite of the Cinderella Castle; the bower appears smaller than it actually is. Endler and his colleagues suggested that the male courting in the bower now appears larger and thus more attractive to the female. Data on male mating success collected in the wild supports their hypothesis.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "genetic variations",
+        "perceptual biases",
+        "vocal attractiveness",
+        "decorating skills",
+        "locational advantages"
+      ],
+      "answer": 2,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "Although empathy is widely praised by scholars and public figures, not everyone is an empathy booster. Critics of empathy argue that empathy will not save us from interpersonal and intergroup conflict. In fact, they argue, empathy makes such conflicts worse. These critics maintain that empathy can be exhausting and lead to burnout, insensitivity to suffering, or worse. They argue that we tend to empathize strongly with our in-group and resist empathizing with out-groups, and even enjoy the suffering of out-groups in competitive or threatening contexts. Thus, the prescription for more empathy ______________. Empathy, they argue, can further entrench conflict and force us into an us vs. them mentality. Finally, even when we try to empathize with others who are dissimilar from us or in unfamiliar contexts, sometimes we are unable to accurately empathize with their experiences, causing further misunderstandings and frustration. Critics of empathy argue that we should give up on empathy and employ other tools in pursuit of social harmony, e.g., rational compassion or moral emotions like fear, anger, and shame.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "underestimates the invisible conflicts possible within a group",
+        "is triggered by the need for solutions to emotional conflicts",
+        "is often counterproductive in cases of conflict",
+        "functions as a facilitator in the resolution of social disharmony",
+        "raises questions about negative attitudes toward social disharmony"
+      ],
+      "answer": 3,
+      "points": 3,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 31,
+      "type": "빈칸",
+      "passage": "As a general rule, when the individuals of a population encounter a new environmental stress, some individuals in the population will die prematurely and some individuals will survive. If the reason for their survival (such as a slightly enhanced ability or trait) can be passed on to their offspring (that is, it's genetically encoded), then the next generation should be better able to withstand the newly encountered environmental stress, and the population overall will be less susceptible to it. Therefore, the key to the ability of a population to survive by adaptation lies in the ______________ with which the next generation, the more resistant generation, is produced by the survivors of this generation. It follows that those species capable of producing a new generation very quickly should be better able to respond to a stress very quickly. Those species that require more time for reproduction will be slower to adapt to the stress because of the additional time needed for them to produce stress-tolerant offspring.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "rapidity",
+        "precision",
+        "simplicity",
+        "consistency",
+        "randomness"
+      ],
+      "answer": 1,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 32,
+      "type": "빈칸",
+      "passage": "The digital age has brought remarkable advancements in communication. A message that might have taken weeks to deliver by mail can now be sent in seconds. Yet, in this shift toward efficiency, we've lost something essential: the richness of face-to-face interaction. Think about it — when you communicate through a text or email, you're missing out on nonverbal cues like facial expressions, tone of voice, and body language. These elements carry emotional weight, helping us to interpret meaning and intent. Without them, our understanding of others' emotions is often incomplete, leading to confusion and frustration. Take, for instance, a short reply to an email: \"Okay.\" Depending on the context, the sender's intention might be neutral, annoyed, or even sarcastic. But without vocal inflections or facial expressions to guide us, we are left guessing. This is why digital communication requires heightened emotional awareness — not only to express ourselves effectively but also to decode ______________.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "the source materials we refer to",
+        "the specific subject being personified",
+        "the grammatical structures in a speech",
+        "the emotions behind the words we receive",
+        "the newly-coined words used in the digital era"
+      ],
+      "answer": 4,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    }
+  ]
+}

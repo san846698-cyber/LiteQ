@@ -1,0 +1,187 @@
+{
+  "type": "요지",
+  "typeNumber": 22,
+  "totalCount": 18,
+  "questions": [
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "When you experience affect without knowing the cause, you are more likely to treat affect as information about the world, rather than your experience of the world. The psychologist Gerald L. Clore has spent decades performing clever experiments to better understand how people make decisions every day based on gut feelings. This phenomenon is called affective realism, because we experience supposed facts about the world that are created in part by our feelings. For example, people report more happiness and life satisfaction on sunny days, but only when they are not explicitly asked about the weather. When you apply for a job or college or medical school, make sure you interview on a sunny day, because interviewers tend to rate applicants more negatively when it is rainy. And the next time a good friend snaps at you, remember affective realism. Maybe your friend is irritated with you, but perhaps she didn't sleep well last night, or maybe it's just lunchtime.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["직감에 따른 판단이 더 좋은 결과로 이어지는 경우가 많다.", "외부적 환경이 우리의 감정과 판단에 미치는 영향은 크지 않다.", "우리는 자신도 모르게 감정의 영향을 받아서 현실을 판단한다.", "상대방의 반응이 평소와 다를 때에는 자신을 되돌아봐야 한다.", "상대방에 관한 배경지식을 통해 그 사람을 더 잘 이해하게 된다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "We can imagine natural numbers as whole objects, things our hunter-gatherer brains can work with. On the other hand, partial numbers — decimals, fractions, percentages, and ratios — simply don't register as real to our minds. We may be able to work with them for a given time when we're in math mode, but if we're asked questions at other times, we tend to have trouble grasping the concept. Any time we give our audience figures that aren't natural numbers, the message is unlikely to make sense to them. Use natural numbers whenever you can to make your message real. For numbers less than 1, you can use a strategy to make things start to show up as natural numbers. If you find that 0.2% of people have a certain trait, using \"1 out of 500\" makes this abstract percentage into a real thing.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["근사치를 사용하면 정보를 신속하게 처리할 수 있다.", "복잡한 계산에서 단위를 통일하는 것이 혼동을 방지한다.", "수학 기호의 사용이 효과적인 정보 전달을 가능하게 한다.", "자연수로 수치가 표현될 때 메시지가 실재적으로 전달된다.", "메시지에 소수 표현을 포함하는 것은 내용의 신뢰도를 높여 준다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "When it comes to the Internet, it just pays to be a little paranoid. Given the level of anonymity with all that resides on the Internet, it's sensible to question the validity of any data that you may receive. By design, we set up challenges in which the individual must validate how they know us by presenting scenarios, names or acquaintances, or evidence. Once we have received that information and it has gone through a cognitive validation, we accept that person as more trustworthy. All this happens in a matter of minutes but is a natural defense mechanism that we perform in the real world. However, in the virtual world, we have a tendency to be less defensive, as there appears to be no physical threat to our well-being.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["가상 세계 특유의 익명성 때문에 표현의 자유가 남용되기도 한다.", "인터넷 정보의 신뢰도를 검증하는 기술은 점진적으로 향상되고 있다.", "가상 세계에서는 현실 세계와 달리 자유로운 정보 공유가 가능하다.", "안전한 인터넷 환경 구축을 위해 보안 프로그램을 설치하는 것이 좋다.", "방어 기제가 덜 작동하는 가상 세계에서는 신중한 정보 검증이 중요하다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "In order to be successful and equitable, ecosystem management must be linked to poverty reduction. Urban infrastructure projects need to address the trade-offs between conservation, livelihoods, and equitable distribution of resources. Historically there has been tension when conservation models that create protected areas are perceived as inaccessible to communities. Often, these models are implemented at the expense of poor and marginalized residents and users of resources from the areas. Social, economic, and environmental development programs have become obstacles to sustainable development because there is no balance between the need to protect ecosystem services and the desire to use resources to address community needs. Communities need to be allowed to identify and negotiate their own options and to increase their flexibility to cope with unexpected change.\n* equitable: 공평한",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["무분별한 도시 개발은 사회적 양극화를 심화한다.", "도시 기반 시설 확충 시 안정적인 재정 지원이 중요하다.", "인근 지역 간의 긴밀한 협력은 생태계 보존의 기반이 된다.", "자원의 순환과 공정한 배분은 지속가능한 발전의 필수조건이다.", "생태계 관리 시 빈곤층을 포함한 지역사회의 요구를 고려할 필요가 있다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "The need to assimilate values and lifestyle of the host culture has become a growing conflict. Multiculturalists suggest that there should be a model of partial assimilation in which immigrants retain some of their customs, beliefs, and language. There is pressure to conform rather than to maintain their cultural identities, however, and these conflicts are greatly determined by the community to which one migrates. These experiences are not new; many Europeans experienced exclusion and poverty during the first two waves of immigration in the 19th and 20th centuries. Eventually, these immigrants transformed this country with significant changes that included enlightenment and acceptance of diversity. People of color, however, continue to struggle for acceptance. Once again, the challenge is to recognize that other cultures think and act differently and that they have the right to do so. Perhaps, in the not too distant future, immigrants will no longer be strangers among us.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["이민자 고유의 정체성을 유지할 권리에 대한 공동체의 인식이 필요하다.", "이민자의 적응을 돕기 위해 그들의 요구를 반영한 정책 수립이 중요하다.", "이민자는 미래 사회의 긍정적 변화에 핵심적 역할을 수행할 수 있다.", "다문화 사회의 안정을 위해서는 국제적 차원의 지속적인 협력이 요구된다.", "문화적 동화는 장기적이고 체계적인 과정을 통해 점진적으로 이루어진다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Imagine a movie where nothing but terrible things happen. But, in the end, everything works out. Everything is resolved. A sufficiently happy ending can change the meaning of all the previous events. They can all be viewed as worthwhile, given that ending. Now imagine another movie. A lot of things are happening. They're all exciting and interesting. But there are a lot of them. Ninety minutes in, you start to worry. \"This is a great movie,\" you think, \"but there are a lot of things going on. I sure hope the filmmaker can pull it all together.\" But that doesn't happen. Instead, the story ends, suddenly, unresolved, or something facile and clichéd occurs. You leave deeply annoyed and unsatisfied — failing to notice that you were fully engaged and enjoying the movie almost the whole time you were in the theatre. The present can change the past, and the future can change the present.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["결말에 따라 이전 상황에 대한 인식이 달라진다.", "익숙하지 않은 이야기는 대중의 사랑을 받기 어렵다.", "흥행에 성공한 영화가 항상 작품성이 뛰어난 것은 아니다.", "상황에 대한 집단의 평가는 개인의 평가에 영향을 끼친다.", "같은 영화를 반복적으로 보는 것이 영화에 대한 이해를 높인다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Though it may seem extreme, a multilingual can quite literally feel differently about people, events or things when using one language versus another. The likelihood of being rattled by curse words or taboo words changes across native and second languages. Speakers of multiple languages not only report feeling different, but their bodies have different physiological reactions and their minds make different emotionally driven decisions across languages. The exact relationship between positive and negative emotions and language varies across people. For some, the second language carries more positive connotations because it is associated with freedom, opportunity, financial well-being and escape from persecution, whereas the native language is associated with poverty and hardship. For others, the opposite is true — the second language is associated with post-immigration challenges, discrimination and lack of close relationships, whereas the native language is associated with family, friends and parental love. And many are somewhere in between, having a mix of positive and negative experiences associated with each language.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["다중 언어 환경은 모국어 학습 발달을 지연시킨다.", "모국어 실력이 뛰어날수록 외국어를 습득하는 속도가 빠르다.", "다중 언어 사용자는 사용하는 언어에 따라 다르게 느끼고 반응한다.", "부정적인 어휘가 긍정적인 어휘보다 감정에 미치는 영향이 크다.", "긍정적인 감정을 나타내는 어휘량이 문화권마다 다르다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Most opposition to wilderness preservation doesn't come from environmentalists but from corporate interests and developers. When wild places are designated as wilderness, they are closed to most commercial activities and residential or infrastructure development. There is thus frequently an economic cost to wilderness preservation. Some critics claim that when wilderness and economic interests clash, economic interests should normally prevail. This argument, even if it is sound, won't exclude all wilderness preservation efforts, because some wilderness areas have little economic value. But a deeper problem with the argument is that it views nature from a human‑focused and excessively economic point of view. Allowing economic considerations to outweigh all other forms of value is inconsistent with the biocentric reasons that support wilderness preservation. Thus, while it certainly makes sense to weigh the economic costs of wilderness protection, especially when such costs are high, the biocentric values underlying wilderness preservation exclude viewing economic considerations as the most important.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["야생 보호 구역 보존의 생명 중심적 가치는 경제적 고려에 우선한다.", "자연과의 공존을 고려한 상업 활동이 기업에 경제적 이익을 가져다준다.", "야생 보호에 있어 우선적으로 고려하는 가치는 문화에 따라 다양하다.", "야생 보호는 경제적 가치와 상관없이 모든 생물에 똑같이 적용된다.", "야생의 보호와 회복을 위한 비용 부담은 공동체 모두의 몫이다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "In both the ancient hunter-gatherer band and our intimate speech communities today, the diffusion of speech shaped values. The fact that everyone was going to be able to speak and listen had to be accommodated ethically, and it was via a rough egalitarianism. In terms of communications, people were equal and therefore it was believed they should be equal, or at least relatively so. By this code, ancient Big Men were not allowed to act controllingly and modern office managers are not allowed to silence anyone at will. Moreover, equal access to speech and hearing promoted the notion that property should be held in common, that goods and food in particular should be shared, and that everyone had a duty to take care of everyone else. This was probably more true among hunter-gatherers than it is in the modern family, circle of friends, or workplace. But even in these cases we believe that sharing and mutual aid are right and proper. Remember, if you bring something, you should bring enough for everyone.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["수렵인과 현대인은 언어에 대한 유사한 가치를 가지고 있다.", "인간은 언어를 사용하여 자원을 보다 효율적으로 배분해 왔다.", "현대 사회는 고대 수렵 사회보다 평등한 체계에 의해 운영된다.", "인간 의사소통의 평등성은 공유와 공조 가치 기반을 형성했다.", "인간은 의사소통을 통해 자원을 공유하는 평등한 사회를 건설했다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "The relevance of science in understanding organizational behavior can start with asking this question: Why do good managers make bad decisions? Too often managers make mistakes when it comes to fostering conditions that inspire positive outcomes in the workplace, such as performance, satisfaction, team cohesion, and ethical behavior. Why does this happen? Part of the reason is that rather than relying on a clearly validated set of scientific discoveries, managers use less reliable sources of insight such as gut feel, intuition, the latest trend, what a highly paid consultant might say, or what is being done in another company. Like most of us, managers tend to rely on their own strengths and experiences when making choices about how to get the best from others. But what works for one manager may not work for another. In the absence of a scientific approach, managers tend to make mistakes, offer ill-conceived incentives, misinterpret employee behavior, and fail to account for the many possible explanations for why employees might perform poorly.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["직원들의 성과에 대한 다양한 평가 기준이 필요하다.", "성공적인 관리자는 실패로부터 교훈을 이끌어 낸다.", "직원 간의 목표 공유가 조직을 결속하는 데 효과적이다.", "조직 문화의 혁신적 변화를 위해서는 관리자의 경험에 의한 직관이 중요하다.", "조직 행동 이해에서 관리자가 과학적 접근법을 활용하지 않으면 잘못된 판단을 할 수 있다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Even though there is good reason to consider a dog a sentient being capable of making choices and plans ― so that we might suppose 'it could have conceived of acting otherwise' ― we're unlikely to think it is wicked and immoral for attacking a child. Moral responsibility is not some universal concept like entropy or temperature ― something that applies equally, and can be measured similarly, everywhere in the cosmos. It is a notion developed specifically for human use, no more or less than languages are. While sentience and volition are aspects of mind and agency, morals are cultural tools developed to influence social behaviour: to cultivate the desirable and discourage the harmful. They are learnt, not given at birth. It's possible, indeed likely, that we are born with a predisposition to cooperate with others ― but only within human society do we come to understand this as moral behaviour.\n* sentient: 지각력이 있는 ** volition: 의지",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["도덕성은 자신의 선택에 대해 책임을 진다는 개념이다.", "동물과 인간을 구별하는 중요한 특징은 분별력과 언어이다.", "도덕성은 학습되는 문화적 도구로서 인간 사회에만 나타난다.", "동물과 인간은 공통적으로 다른 개체와 협력하는 경향이 있다.", "문화적 도구로서의 도덕성은 개체의 의사 결정에 영향을 미친다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Technical, book knowledge consists of \"formulated rules which are, or may be, deliberately learned.\" Practical knowledge, on the other hand, cannot be taught or learned but only transmitted and acquired. It exists only in practice. When we talk about practical knowledge, we tend to use bodily metaphors. We say that somebody has a touch for doing some activity — an ability to hit the right piano key with just enough force and pace. We say that somebody has a feel for the game, an intuition for how events are going to unfold, an awareness of when you should plow ahead with a problem and when you should put it aside before coming back to it. When the expert is using her practical knowledge, she isn't thinking more; she is thinking less. She has built up a repertoire of skills through habit and has thereby extended the number of tasks she can perform without conscious awareness. This sort of knowledge is built up through experience, and it is passed along through shared experience.\n* intuition: 직감, 직관 ** plow ahead: 밀고 나가다",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["실용적 지식은 실행과 경험을 통해 체득되고 전수된다.", "직감에 의한 판단이 옳아 보여도 심사숙고의 과정은 필요하다.", "기술적 지식을 완전히 이해해야만 이를 실제로 적용할 수 있다.", "상황에 맞게 행동하게 하는 실용적 지식은 타고나는 능력이다.", "실용적 지식과 기술적 지식의 균형 있는 학습이 중요하다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Good narrative writing is often as much technique as it is talent, sometimes more. The best narrative nonfiction writers often turn to time-honored tools of fiction writers for effect: plot and pacing, character and drama, and, yes, suspense. And they understand that a good story just can't spread out in all directions like a serving of spaghetti. The story needs form, shape, a structure designed to pull the reader from start to finish. \"The craftsmanship of the writer is no less beautiful than that of the cabinet maker or the builder of temples or fine violins,\" writes Jon Franklin. Yes, this may sound grandiose, but the emphasis on craftsmanship is pure pragmatism: a knowledge of the basic structures that narrative science writers use to build an effective story. I think of this approach as journalistic architecture. Once a writer has the story blueprints in hand, so to speak, then he or she can decide which structure best fits the facts of the story — and where to slot them into place.\n* grandiose: 거창한 ** pragmatism: 실용주의",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["모든 위대한 작가는 천부적인 감각과 솜씨를 타고난다.", "다양한 문장 구조를 사용하면 독자의 관심을 끌 수 있다.", "글의 완성도를 높이려면 준비에 오랜 시간을 들여야 한다.", "다양한 장르의 글을 많이 읽으면 작문 실력을 키울 수 있다.", "좋은 논픽션을 쓸 때 기술적 접근과 구조적 설계가 필요하다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Whether or not an observation is evidence for a person depends crucially on what the person is bringing to the table in terms of background knowledge. The physician sees the Koplik spots as Koplik spots and thereby gains evidence for her belief that the patient is coming down with the measles. I, a non-expert, see the same spots, but I do not see them as Koplik spots. Thus, they are not evidence for me, because they don't provide me with good reasons for believing that I am confronted with a case of the measles. Only observations that are seen as this or that can be evidence for (or against) some hypothesis. Another way of putting the same point is this: During the processing of sensory stimuli, we bring — often automatically — various categories, background knowledge, and similar things, to bear. Thus, categorized observations are what constitutes evidence. Some might worry that we are overintellectualizing evidence. However, it seems to us that in the empirical sciences, unconceptualized experiences hardly ever play a role as evidence.\n* Koplik spot: (홍역의 진단 근거가 되는) 코플릭 반점 ** measles: 홍역 *** empirical: 경험주의의",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["개념적 이해보다 감각적 경험이 더 중요한 증거가 된다.", "동일한 관찰 결과가 반복될수록 증거로서 더 유의미해진다.", "개인의 관찰은 집단적 합의가 있어야 증거로 간주될 수 있다.", "관찰 과정에서 주관적 요소를 배제해야 증거로서 신뢰성을 갖는다.", "관찰이 배경지식을 바탕으로 개념화되었을 때 증거가 될 수 있다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Information and meaning are, clearly, not the same thing. The former refers to uninterpreted data or sensory states whose probability in a certain situation can be easily measured; the latter refers to the interpretation of the data or sensory states, including the special kinds of nuances and values that the information entails, or is intended to have, in the given situation. This applies to any type of information, from alarm signals to sophisticated statements. Take, for instance, a coin-tossing game in which it is decided that throwing three heads in a row constitutes a win. If a certain player ends up consistently with the desired outcome, defeating all who challenge that player, then we tend to interpret the outcome either as the work of Fortune, or else as clever and undetectable cheating on the part of the winning player. Interpretation is at the core of everything we do, think about, and feel.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["우리는 정보를 해석함으로써 의미를 만들어 낸다.", "우리는 경험적 확률에 근거하여 미래를 예측한다.", "정보의 양이 너무 많으면 정확한 분석이 어려워진다.", "정보의 진위 여부를 판단할 때 출처 확인이 필수이다.", "정보 해석에 개인의 감정이 개입되면 의미가 왜곡된다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Making your marketing fun for customers is what makes them tell other people about you. This is the basis of viral marketing — the word of mouth that ultimately generates more business than all the advertising campaigns put together. Humor is good, but something that encourages customers to pass on messages to friends, business colleagues, family, and indeed anyone else will result in stronger customers' perception of your brand and increased awareness of what your company is all about. The message need not be too serious, either, or indeed be an overt marketing plug. Just passing the brand name along, and having it associated with something entertaining and fun, is quite sufficient. Your other marketing promotions will fill in the gaps, and anyway no single promotion will ever cover all the communication you want it to — the best you can hope for is that one communication will sensitize the customers to receiving a later one.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["즐거움을 주는 마케팅은 입소문을 통해 브랜드와 기업에 대한 인식을 향상시킨다.", "경쟁사의 마케팅 전략을 분석하는 것은 기업 경쟁력 강화에 도움이 된다.", "브랜드 이미지 제고를 위해 일관된 메시지를 전달하는 것이 중요하다.", "고객의 피드백을 충실히 반영하여 제품의 질을 개선할 필요가 있다.", "유머에 의존한 마케팅은 브랜드 이미지를 손상시킬 위험이 있다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "One reason that people participate in social media is because it builds social relations. We increase our social capital when we successfully engage in social media. Social capital describes the networks of relationships we have that are built on mutuality and sharing of identity, understanding, norms and values. We build ties that may pay off with a job lead or a letter of recommendation. We reinforce our identities through our online presentation in a personal blog or our profile. \"The premise behind the notion of social capital is rather simple and straightforward: investment in social relations with expected returns,\" noted sociologist Nan Lin. Lin's work stresses that it is who you know as much as what you know that shapes our experience in society. With new media, our reach of connecting is all the greater, expanding our \"who you know\" to greater and greater lengths.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["소셜 미디어를 통한 관계망의 확장은 중요한 사회적 자본이 된다.", "사회적 규범과 가치를 공유하는 것이 인간관계 형성의 기반이다.", "뉴 미디어의 등장은 사회적 자본 형성의 방식을 변화시킨다.", "다양한 인적 자본 구축은 소셜 미디어 활동에 필수적이다.", "사회적 경험은 인격 함양과 세계관 확장에 도움이 된다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Our yearning for belonging is so hardwired that we often try to acquire it by any means possible, including trying to fit in and working hard for approval and acceptance. Not only are these efforts hollow substitutes for belonging, but they are the greatest barriers to belonging. When we work to fit in and be accepted, our \"belonging\" is unstable. If we do or say something that's true to who we are but outside the expectations or rules of the group, we risk everything. If people don't really know who we are and what we believe or think, there's no true belonging. Because we can feel belonging only if we have the courage to share our most authentic selves with people, our sense of belonging can never be greater than our level of self-acceptance. We can never truly belong if we are betraying ourselves, our ideals, or our values in the process. That is why it's a mistake to think that belonging is passive and simply about joining or \"going along\" with others. It's not.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": ["자신을 있는 그대로 드러내 보일 때 진정한 소속감을 느낄 수 있다.", "타인의 기대에서 벗어날 때 비로소 진정한 자아를 실현할 수 있다.", "속하려는 집단과 자신의 성향이 잘 맞는지 살펴볼 필요가 있다.", "때로는 개인의 선호가 집단의 목표에 충분히 반영되지 않는다.", "타인의 비판을 인정할 수 있을 때 자기 수용이 가능해진다."],
+      "answer": 1,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    }
+  ]
+}

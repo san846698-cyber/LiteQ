@@ -1,0 +1,87 @@
+{
+  "model": "opus",
+  "type": "문장 삽입",
+  "typeNumber": 38,
+  "generated": [
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "This is because the very architectural features that amplified the human voice also amplified every other sound produced within the performance space, with no mechanism for selective filtering.",
+      "passage": "The ancient Greeks demonstrated a remarkably sophisticated understanding of acoustics in their open-air theaters, yet their designs introduced an inherent problem that performers could never fully overcome. ( ① ) A subtle vocal inflection intended for dramatic emphasis might be swallowed by ambient noise, while an incidental cough or stumbled syllable could ring with startling clarity across the entire amphitheater. ( ② ) The semicircular arrangement of stone seating, carefully angled to reflect sound waves toward the audience, was optimized for volume rather than precision. ( ③) Engineers had exploited the natural phenomenon of acoustic diffraction, whereby sound waves bend around obstacles and spread into shadowed regions, but this same principle applied indiscriminately to all sound sources. ( ④ ) This unpredictability forced actors to develop highly stylized, exaggerated modes of performance that compensated for the acoustic environment rather than relying on naturalistic speech. ( ⑤ ) Masks with built-in megaphone-like mouthpieces became essential tools, not merely for character identification but for imposing some measure of vocal control over an inherently uncontrollable soundscape.\n* diffraction: 회절 ** amphitheater: 원형 극장",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ① is correct because the opening sentence introduces a problem ('inherent problem that performers could never fully overcome') and the insert sentence explains the cause with 'This is because.' The sentence after ① then provides the specific consequence: subtle inflections lost while incidental sounds are amplified. The logical chain is: problem stated → cause explained (insert) → specific manifestations → architectural details → performer adaptations.",
+        "distractor_analysis": "Position ② would place the causal explanation after the consequences have already been described, breaking the cause-effect order. Position ③ would interrupt the explanation of seating arrangement and diffraction. Position ④ would insert the cause after diffraction has already been explained as the mechanism, making it redundant. Position ⑤ would place the explanation after the performers' response, too late in the logical progression.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "Yet this illumination comes at a considerable metabolic cost, meaning that the organisms producing it must derive a survival benefit substantial enough to justify the energy expenditure.",
+      "passage": "In the perpetual darkness of the deep ocean, bioluminescence serves as a primary medium of communication, predation, and defense. More than seventy percent of deep-sea organisms are estimated to produce light through chemical reactions involving luciferin and the enzyme luciferase. ( ① ) Some species, like the anglerfish, use bioluminescent lures to attract prey directly into their jaws, while others emit sudden flashes to startle predators and create an opportunity to escape. ( ② ) Researchers have found that deep-sea shrimp invest nearly fifteen percent of their total energy budget in maintaining their light-producing organs — a figure comparable to the proportion of energy that mammals allocate to brain function. ( ③ ) This suggests that natural selection has imposed intense pressure favoring bioluminescent capability, even at the expense of other physiological processes. ( ④ ) Perhaps most remarkably, certain squid have evolved the ability to modulate both the wavelength and intensity of their emissions in real time, producing complex signaling patterns that function as a form of deep-sea language. ( ⑤ ) The sheer diversity of these bioluminescent strategies underscores how central light production has become to survival in an environment defined by its absence.\n* luciferin: 루시페린 ** luciferase: 루시페라아제(발광 효소)",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ② is correct because sentences before ② describe the prevalence and diverse functions of bioluminescence (anglerfish lures, startle flashes). The insert sentence pivots with 'Yet' to introduce metabolic cost, stating organisms must gain enough survival benefit to justify it. The sentence after ② provides the concrete evidence: shrimp investing 15% of energy budget, comparable to mammalian brain costs. This is followed by the evolutionary conclusion. The flow is: functions described → cost introduced (insert) → specific cost data → evolutionary implication → further examples of sophistication.",
+        "distractor_analysis": "Position ① would interrupt the list of specific bioluminescent functions before any examples are given. Position ③ would place the general cost claim after the specific evidence, reversing the logical from-general-to-specific order. Position ④ would separate the evolutionary conclusion from its evidence. Position ⑤ would place the cost observation after the passage has moved on to discussing diversity of strategies.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "Crucially, this tendency to mentally simulate alternatives is not evenly distributed across all outcomes — people are far more likely to undo events that are exceptional rather than routine.",
+      "passage": "Counterfactual thinking — the mental process of imagining how events could have turned out differently — plays a powerful role in shaping our emotional responses to outcomes. When we narrowly miss a flight by two minutes, we feel far more regret than when we miss it by two hours, even though the practical consequence is identical. ( ① ) This asymmetry arises because the closeness of the alternative outcome makes it psychologically vivid and easy to simulate. ( ② ) Kahneman and Tversky demonstrated that Olympic bronze medalists often report greater satisfaction than silver medalists, precisely because silver medalists more readily imagine having won gold. ( ③ ) A traveler who takes an unusual route and encounters a traffic accident feels more distress than one who meets the same accident on a habitual route, because the deviation from routine makes the counterfactual — 'if only I had taken my usual path' — almost irresistible. ( ④ ) Each unchosen path becomes a mental reference point against which the actual outcome is unconsciously evaluated. ( ⑤ ) This asymmetry between exceptional and routine events has profound implications for risk assessment, legal judgments of negligence, and even how insurance claims are emotionally processed by those involved.\n* counterfactual: 반사실적",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ③ is correct because sentences ①-② establish counterfactual thinking and the 'closeness' factor (flight example, bronze vs silver medalists). The insert introduces a new refinement: the exceptional-vs-routine distinction. 'This tendency to mentally simulate alternatives' refers back to the counterfactual thinking described above, and 'not evenly distributed' signals a new dimension. The sentence after ③ (the traveler example) perfectly illustrates this exceptional-vs-routine principle — the unusual route triggers stronger counterfactual thinking than the habitual route. The final sentence explicitly references this 'asymmetry between exceptional and routine events.'",
+        "distractor_analysis": "Position ① would interrupt the explanation of the closeness asymmetry before it is complete. Position ② would break the connection between 'psychologically vivid' explanation and the bronze/silver medalist evidence of vividness. Position ④ would place the general principle after its illustrating example, reversing the logic. Position ⑤ would insert it after the concluding observation, where a new principle introduction is out of place.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "What makes this disruption particularly insidious is that the effects are largely invisible above ground, where the crop may appear to be thriving even as the subterranean ecosystem that sustains it is collapsing.",
+      "passage": "Beneath every agricultural field lies a vast network of fungal filaments, bacterial colonies, and microscopic organisms that collectively form the soil microbiome — an ecosystem as complex as any tropical rainforest. Industrial monoculture, however, systematically dismantles this underground community. ( ① ) When a single crop species is planted year after year, it deposits the same narrow range of chemical compounds into the soil through its root exudates, selectively nourishing only those microorganisms that metabolize those specific substances. ( ② ) The resulting decline in microbial diversity weakens the soil's capacity to suppress pathogens, cycle nutrients, and retain moisture — functions that farmers then attempt to replace with synthetic fertilizers and pesticides. ( ③ ) These chemical substitutes may maintain yields in the short term but further accelerate the degradation of microbial networks in a destructive feedback loop. ( ④ ) By the time visible symptoms of soil degradation emerge — compaction, erosion, declining yields — the microbial networks that originally held the system together may be damaged beyond any practical possibility of restoration within a single human generation. ( ⑤ ) This temporal mismatch between cause and consequence is one reason why the true costs of monoculture agriculture have been so chronically underestimated.\n* exudate: 삼출물 ** pathogen: 병원균",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ④ is correct because sentences ①-③ describe the mechanism of monoculture damage: narrow root exudates → microbial diversity decline → chemical substitutes accelerating degradation. The insert sentence explains why 'this disruption' is 'particularly insidious': it is invisible above ground. This logically bridges the underground destruction described in ①-③ to the sentence after ④, which describes visible symptoms finally emerging. The progression is: underground damage mechanism → damage is invisible (insert) → by the time visible symptoms emerge, it is too late → temporal mismatch explains underestimation.",
+        "distractor_analysis": "Position ① would introduce 'this disruption' before the mechanism of disruption is explained. Position ② breaks the causal chain from narrow exudates to microbial diversity decline. Position ③ interrupts the connection between weakened soil functions and the chemical substitutes that replace them. Position ⑤ places the 'invisible above ground' observation after visible symptoms have already been described, creating a logical contradiction.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "Schwartz termed this phenomenon 'the paradox of choice,' arguing that in a world of ever-expanding options, the cognitive burden of choosing may ultimately outweigh the material benefits of variety.",
+      "passage": "Classical economic theory holds that expanding the number of available options should always benefit consumers by increasing the likelihood that they find something closely matching their preferences. ( ① ) This assumption was challenged when researchers demonstrated that an abundance of choices can lead to decision paralysis and diminished well-being. ( ② ) In one landmark study, shoppers presented with twenty-four varieties of jam were far less likely to make a purchase than those offered only six, even though the larger selection objectively contained more appealing options. ( ③ ) Those who did choose from the larger set also reported significantly lower satisfaction with their selection afterward, not because the chosen jam was inferior but because each rejected alternative became a mental reference point against which the chosen option was unconsciously compared. ( ④ ) The more such reference points exist, the more opportunities there are for the consumer to second-guess their decision, transforming what should have been a pleasant experience into an exhausting exercise in self-doubt. ( ⑤ ) Since then, this framework has reshaped how product designers, policymakers, and digital platform architects approach the question of how much choice is truly beneficial.\n* paralysis: 마비",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ⑤ is correct because sentences ①-④ build the evidence: classical theory challenged → jam study (purchase rates) → lower satisfaction with mechanism explained → escalating self-doubt. The insert sentence provides the conceptual label and theoretical conclusion: Schwartz names this 'the paradox of choice' and articulates the general principle. The sentence after ⑤ ('Since then, this framework') refers to the named framework just introduced, showing how it has influenced design and policy. The insert must come after all evidence is presented and before the discussion of the concept's broader influence.",
+        "distractor_analysis": "Position ① would name the paradox before any evidence is presented. Position ② would introduce the label before the jam study that constitutes its primary evidence. Position ③ would interrupt the jam study's two key findings (purchase rates and satisfaction). Position ④ would place the theoretical conclusion before the self-doubt mechanism is fully described, and 'Since then, this framework' would awkwardly follow the mechanism description rather than the naming of the framework.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

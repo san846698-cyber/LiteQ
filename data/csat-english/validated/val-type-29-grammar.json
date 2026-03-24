@@ -1,0 +1,267 @@
+{
+  "type": "어법",
+  "typeNumber": 29,
+  "validated": [
+    {
+      "questionIndex": 0,
+      "topic": "Language and Thought (Sapir-Whorf Hypothesis)",
+      "grammarAnalysis": {
+        "①_shapes": {
+          "given_form": "shapes",
+          "subject": "language (singular)",
+          "analysis": "3인칭 단수 현재 동사. 주어 'language'가 단수이므로 'shapes'는 올바른 수 일치.",
+          "verdict": "correct"
+        },
+        "②_were_shown": {
+          "given_form": "were shown",
+          "subject": "speakers (plural)",
+          "analysis": "복수 주어 'speakers'에 대한 수동태 과거. 연구자들이 화자들에게 보여줬으므로 수동태가 적절하고, 복수 일치도 올바름.",
+          "verdict": "correct"
+        },
+        "③_extends": {
+          "given_form": "extends",
+          "subject": "The implications of this finding",
+          "analysis": "핵심 주어는 'implications'(복수). 전치사구 'of this finding'은 수식어에 불과. 복수 주어에 단수 동사 'extends'를 사용한 주어-동사 수 불일치 오류. 'extend'로 수정 필요.",
+          "verdict": "WRONG — should be 'extend'"
+        },
+        "④_speaking": {
+          "given_form": "speaking",
+          "analysis": "현재분사가 'people'을 수식하는 축약 관계절 (= people who speak). 문법적으로 정확.",
+          "verdict": "correct"
+        },
+        "⑤_conducted": {
+          "given_form": "conducted",
+          "analysis": "과거분사가 'studies'를 수식하는 축약 관계절 (= studies that were conducted). 문법적으로 정확.",
+          "verdict": "correct"
+        }
+      },
+      "providedAnswer": 3,
+      "validatedAnswer": 3,
+      "answerMatch": true,
+      "evaluation": {
+        "정답유일성": 5,
+        "정답유일성_comment": "③만 유일한 오류. 나머지 4개는 모두 문법적으로 완벽.",
+        "오답타당성": 5,
+        "오답타당성_comment": "주어-동사 수 일치 오류로, 전치사구에 의한 주어 착시는 수능 어법 문제의 전형적 출제 포인트. 수정이 명확함(extends → extend).",
+        "지문자연스러움": 5,
+        "지문자연스러움_comment": "사피어-워프 가설에 관한 학술적 지문. 논리 전개가 자연스럽고 어휘 수준이 수능에 적합.",
+        "난이도적절성": 4,
+        "난이도적절성_comment": "전치사구에 의한 주어-동사 수 일치 착시는 중상 난이도. 다만 'implications'가 명확한 복수형이라 상위권 학생에겐 다소 쉬울 수 있음.",
+        "선지균형": 4,
+        "선지균형_comment": "주어-동사 수 일치(①②③), 분사 용법(④⑤) 등 다양한 어법 포인트를 테스트. 다만 ④⑤가 둘 다 분사로 약간 유사."
+      },
+      "verdict": "PASS"
+    },
+    {
+      "questionIndex": 1,
+      "topic": "Scientific Discovery and Serendipity (Fleming's Penicillin)",
+      "grammarAnalysis": {
+        "①_that": {
+          "given_form": "that",
+          "analysis": "관계대명사 'that'이 선행사 'accidents'(사물)를 수식하는 제한적 관계절을 도입. 문법적으로 정확.",
+          "verdict": "correct"
+        },
+        "②_had_killed": {
+          "given_form": "had killed",
+          "analysis": "대과거(past perfect). 곰팡이가 박테리아를 죽인 사건이 Fleming이 알아챈 시점보다 먼저 발생했으므로 시제 적절.",
+          "verdict": "correct"
+        },
+        "③_what": {
+          "given_form": "what",
+          "analysis": "명사절을 이끄는 관계대명사 what (= that which). 'pursue'의 목적어로 기능. 선행사가 없으므로 'what'이 적절.",
+          "verdict": "correct"
+        },
+        "④_ignore": {
+          "given_form": "ignore",
+          "analysis": "'The ability to recognize... rather than ignore them' — 'rather than' 뒤에 원형 부정사가 와서 앞의 'to recognize'와 병렬. 문법적으로 정확.",
+          "verdict": "correct"
+        },
+        "⑤_referring": {
+          "given_form": "referring",
+          "analysis": "'sometimes referring to as'는 비문. 원래 구문은 'referred to as ~' (수동: ~라고 불리는). 주어 'This quality'가 불리는 대상이므로 과거분사 'referred'가 필요. 현재분사 'referring'은 능동의미로 부적절.",
+          "verdict": "WRONG — should be 'referred'"
+        }
+      },
+      "providedAnswer": 5,
+      "validatedAnswer": 5,
+      "answerMatch": true,
+      "evaluation": {
+        "정답유일성": 5,
+        "정답유일성_comment": "⑤만 유일한 오류. 나머지는 모두 정확.",
+        "오답타당성": 5,
+        "오답타당성_comment": "능동 분사(referring)와 수동 분사(referred)의 혼동은 수능에서 자주 출제되는 핵심 포인트. 'refer to A as B' 구문의 수동형에 대한 이해가 필요.",
+        "지문자연스러움": 5,
+        "지문자연스러움_comment": "플레밍과 페니실린 발견을 소재로 한 학술 에세이. 논리 전개가 명확하고 자연스러움.",
+        "난이도적절성": 4,
+        "난이도적절성_comment": "분사의 능동/수동 구별은 중상 난이도. ④의 'rather than + 원형부정사' 구문이 좋은 함정 역할.",
+        "선지균형": 5,
+        "선지균형_comment": "관계대명사(①③), 시제(②), 병렬구조(④), 분사(⑤) 등 다양한 어법 포인트를 균형 있게 배치."
+      },
+      "verdict": "PASS"
+    },
+    {
+      "questionIndex": 2,
+      "topic": "Urban Farming and Community Benefits",
+      "grammarAnalysis": {
+        "①_increasingly": {
+          "given_form": "increasingly",
+          "analysis": "부사 'increasingly'가 동사구 'turning'을 수식. 부사가 동사를 수식하므로 정확.",
+          "verdict": "correct"
+        },
+        "②_who": {
+          "given_form": "who",
+          "analysis": "관계대명사 'who'가 선행사 'residents'(사람)를 수식. 제한적 관계절을 적절히 도입.",
+          "verdict": "correct"
+        },
+        "③_whose": {
+          "given_form": "whose",
+          "analysis": "소유격 관계대명사. 'a city whose economic decline' = 'the economic decline of the city'. 소유 관계를 정확히 표현.",
+          "verdict": "correct"
+        },
+        "④_grown": {
+          "given_form": "grown",
+          "analysis": "과거분사가 'vegetables'를 수식하는 축약 관계절 (= vegetables that are grown). 채소는 재배되는 대상이므로 수동 의미의 과거분사 적절.",
+          "verdict": "correct"
+        },
+        "⑤_lowering": {
+          "given_form": "lowering",
+          "analysis": "주어 'urban agriculture'에 대한 본동사가 필요한 위치. 현재분사 'lowering'은 정형동사가 아니므로 문장에 술어가 없게 됨. 3인칭 단수 현재 'lowers'로 수정 필요.",
+          "verdict": "WRONG — should be 'lowers'"
+        }
+      },
+      "providedAnswer": 5,
+      "validatedAnswer": 5,
+      "answerMatch": true,
+      "evaluation": {
+        "정답유일성": 5,
+        "정답유일성_comment": "⑤만 유일한 오류. 정형동사 vs 분사 오류가 명확.",
+        "오답타당성": 5,
+        "오답타당성_comment": "분사(lowering)를 정형동사(lowers) 자리에 쓴 오류는 수능 빈출 포인트. 'by reducing...' 전치사구 뒤에 주절 동사가 와야 하는 구조를 파악해야 함.",
+        "지문자연스러움": 5,
+        "지문자연스러움_comment": "도시 농업의 사회적·환경적 효과에 관한 지문. Detroit 사례를 포함한 구체적 서술이 자연스러움.",
+        "난이도적절성": 4,
+        "난이도적절성_comment": "분사 vs 정형동사 구별은 수능에서 자주 출제되는 포인트로 중간 난이도. 'by reducing...' 부사구가 삽입되어 주어와 동사 사이가 멀어진 점이 난이도를 높임.",
+        "선지균형": 4,
+        "선지균형_comment": "부사(①), 관계대명사(②③), 과거분사(④), 분사/동사(⑤) 등 다양하나, 정답이 5번에 연속 편중되는 경향이 있음."
+      },
+      "verdict": "PASS"
+    },
+    {
+      "questionIndex": 3,
+      "topic": "Sleep Deprivation and Its Effects",
+      "grammarAnalysis": {
+        "①_which": {
+          "given_form": "which",
+          "analysis": "'during which'는 전치사+관계대명사 구문으로 선행사 'process'를 수식. 'during'과 'which'의 결합이 적절.",
+          "verdict": "correct"
+        },
+        "②_remain": {
+          "given_form": "remain",
+          "analysis": "주어 'the precise mechanisms'(복수). 'by which sleep accomplishes these tasks'는 삽입된 관계절. 복수 동사 'remain'이 적절.",
+          "verdict": "correct"
+        },
+        "③_are": {
+          "given_form": "are",
+          "analysis": "주어 'individuals'(복수)에 대한 복수 동사 'are'. 수 일치 정확.",
+          "verdict": "correct"
+        },
+        "④_estimated": {
+          "given_form": "estimated",
+          "analysis": "주어 'a report'(단수)에 대한 과거시제 정형동사. 보고서가 추정한 것이므로 능동태 과거 적절.",
+          "verdict": "correct"
+        },
+        "⑤_encouraged": {
+          "given_form": "encouraged",
+          "analysis": "분사구문 위치. 주절 'modern society continues to treat sleep as...'의 결과/부대상황을 나타내는 분사구문이 필요. 주어 'modern society'가 능동적으로 문화를 조장하므로 현재분사 'encouraging'이 적절. 과거분사 'encouraged'는 수동 의미가 되어 부적절.",
+          "verdict": "WRONG — should be 'encouraging'"
+        }
+      },
+      "providedAnswer": 5,
+      "validatedAnswer": 5,
+      "answerMatch": true,
+      "evaluation": {
+        "정답유일성": 5,
+        "정답유일성_comment": "⑤만 유일한 오류. 분사구문의 능동/수동 선택이 핵심.",
+        "오답타당성": 5,
+        "오답타당성_comment": "현재분사(encouraging)와 과거분사(encouraged)의 능동/수동 구별. 주어가 문화를 '조장하는' 주체이므로 능동 분사가 필요한 논리가 명확.",
+        "지문자연스러움": 5,
+        "지문자연스러움_comment": "수면 부족의 건강·경제적 영향에 관한 학술 지문. 통계와 논거가 잘 구성됨.",
+        "난이도적절성": 4,
+        "난이도적절성_comment": "분사구문의 능동/수동은 중상 난이도. 콤마 뒤에 분사구문이 오는 패턴을 인식해야 함.",
+        "선지균형": 4,
+        "선지균형_comment": "전치사+관계대명사(①), 수 일치(②③), 시제(④), 분사(⑤). 다양하나 정답이 또다시 ⑤."
+      },
+      "verdict": "PASS"
+    },
+    {
+      "questionIndex": 4,
+      "topic": "Relationship Between Music and Mathematics",
+      "grammarAnalysis": {
+        "①_known": {
+          "given_form": "known",
+          "analysis": "과거분사가 동격으로 'Pythagoras'를 수식 (= who is known for). 수동 의미 적절.",
+          "verdict": "correct"
+        },
+        "②_divided": {
+          "given_form": "divided",
+          "analysis": "과거분사가 'string'을 수식 (= a string that is divided). 현이 나누어지는 것이므로 수동 의미의 과거분사 적절.",
+          "verdict": "correct"
+        },
+        "③_perform": {
+          "given_form": "perform",
+          "analysis": "주어 'children'(복수). 관계절 'who receive formal music instruction'이 삽입. 복수 동사 'perform' 적절.",
+          "verdict": "correct"
+        },
+        "④_that": {
+          "given_form": "that",
+          "analysis": "관계대명사 'that'이 선행사 'skills'를 수식하는 제한적 관계절 도입. 'demand'의 목적어 역할. 적절.",
+          "verdict": "correct"
+        },
+        "⑤_remain": {
+          "given_form": "remain",
+          "analysis": "주어는 'Whether A or whether B' 명사절 전체. 명사절이 주어일 때 단수 취급 (하나의 문제/질문을 나타냄). 따라서 단수 동사 'remains'가 필요. 'remain'은 복수 동사로 부적절.",
+          "verdict": "WRONG — should be 'remains'"
+        }
+      },
+      "providedAnswer": 5,
+      "validatedAnswer": 5,
+      "answerMatch": true,
+      "evaluation": {
+        "정답유일성": 5,
+        "정답유일성_comment": "⑤만 유일한 오류. Whether 명사절의 단수 취급은 명확한 문법 규칙.",
+        "오답타당성": 5,
+        "오답타당성_comment": "Whether A or B 구조가 명사절 내부에 있을 때 주어가 복수처럼 보이는 착시를 이용한 고급 출제. 수능 고난도 문제에 적합.",
+        "지문자연스러움": 5,
+        "지문자연스러움_comment": "음악과 수학의 관계에 관한 학술 에세이. 피타고라스부터 현대 연구까지 논리적 흐름이 우수.",
+        "난이도적절성": 5,
+        "난이도적절성_comment": "Whether 명사절 주어의 수 일치는 상위 난이도. 3점 배점에 적합한 고난도 문항. 'A or B'가 복수로 보이는 착시가 매우 효과적.",
+        "선지균형": 5,
+        "선지균형_comment": "과거분사(①②), 수 일치(③⑤), 관계대명사(④) 등 다양. 특히 ①②가 둘 다 분사이지만 하나는 동격, 하나는 수식어로 용법이 다름."
+      },
+      "verdict": "PASS"
+    }
+  ],
+  "summary": {
+    "totalQuestions": 5,
+    "allAnswersCorrect": true,
+    "passCount": 5,
+    "failCount": 0,
+    "averageScores": {
+      "정답유일성": 5.0,
+      "오답타당성": 5.0,
+      "지문자연스러움": 5.0,
+      "난이도적절성": 4.2,
+      "선지균형": 4.4
+    },
+    "overallAverage": 4.72,
+    "concerns": [
+      "정답 편중: 5문제 중 4문제의 정답이 ⑤번. 실전에서는 정답 분포가 더 고르게 되어야 함. 문제 1만 ③번이고 나머지는 모두 ⑤번.",
+      "어법 포인트 반복: 분사 vs 정형동사 / 분사의 능동-수동 오류가 3문제(Q2, Q3, Q4)에서 반복됨. 더 다양한 어법 포인트 출제 필요."
+    ],
+    "recommendations": [
+      "정답을 ①~④에도 분배하여 정답 균형을 맞출 것",
+      "관계대명사 오류(which vs where 등), to부정사 vs 동명사, 가정법 등 다양한 어법 포인트를 오답으로 설계할 것",
+      "문제 3, 4의 오류 유형이 유사하므로 하나를 다른 어법 포인트로 교체 권장"
+    ]
+  }
+}

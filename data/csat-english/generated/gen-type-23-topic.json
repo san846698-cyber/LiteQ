@@ -1,0 +1,204 @@
+{
+  "type": "주제",
+  "typeNumber": 23,
+  "analysis": {
+    "totalAnalyzed": 15,
+    "passageCharacteristics": {
+      "wordCount": "150-220 words",
+      "register": "academic/expository prose",
+      "structure": "single cohesive argument with supporting examples or evidence",
+      "topicDomains": ["social science", "natural science", "philosophy of science", "psychology", "cultural studies", "education", "technology and society"],
+      "rhetoricalPatterns": ["claim + evidence", "contrast/comparison to highlight main point", "phenomenon + explanation", "problem + consequence"]
+    },
+    "choiceCharacteristics": {
+      "format": "English noun phrases (typically 5-12 words)",
+      "correctAnswer": "captures the central thesis/argument of the entire passage",
+      "distractorTypes": [
+        "partially correct but too narrow (covers only one detail)",
+        "related topic but different claim/direction",
+        "uses key vocabulary from the passage but misrepresents the argument",
+        "plausible topic in the same domain but not discussed",
+        "opposite or contradictory claim to the passage's argument"
+      ]
+    },
+    "answerDistribution": "answers spread across positions 1-5; no fixed position bias",
+    "points": "3점 (higher difficulty)"
+  },
+  "generated": [
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "When people evaluate the risk of a particular hazard, they tend to rely heavily on how easily examples of that hazard come to mind. Psychologists call this the availability heuristic. If a plane crash has been in the news recently, people will temporarily overestimate the danger of flying, even though the statistical probability of a crash has not changed. Conversely, risks that are not vivid or memorable — such as the gradual health effects of prolonged sitting or chronic air pollution — are systematically underestimated. This cognitive bias has significant implications for public policy. Governments often allocate resources in response to public fear rather than objective risk assessments, directing funding toward dramatic but rare threats while neglecting slow-building crises that claim far more lives. The challenge, then, is not simply to inform people about actual probabilities but to design communication strategies that make less visible dangers emotionally compelling enough to override the availability heuristic and prompt appropriate action.\n* heuristic: 어림법",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "influence of memorable events on people's perception of risk",
+        "strategies for reducing anxiety caused by media coverage",
+        "reasons why governments fail to prevent natural disasters",
+        "importance of statistical literacy in everyday decision making",
+        "psychological effects of prolonged exposure to negative news"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "①번이 정답입니다. 글의 핵심 주장은 가용성 휴리스틱(availability heuristic)으로 인해 기억에 생생한 사건이 위험 인식을 왜곡한다는 것입니다. 지문에서 \"If a plane crash has been in the news recently, people will temporarily overestimate the danger of flying\"이라고 직접 언급하며, 이 인지 편향이 공공 정책에까지 영향을 미친다고 논합니다. ①번 'influence of memorable events on people's perception of risk'는 이 중심 논지를 정확히 포착합니다.",
+        "wrong_1": "②번은 오답입니다. 지문은 미디어 보도가 유발하는 불안을 줄이는 전략을 다루지 않습니다. 미디어(뉴스)는 가용성 휴리스틱을 작동시키는 촉발 요인으로 잠깐 언급될 뿐이며, 불안 감소는 글의 주제가 아닙니다.",
+        "wrong_2": "③번은 오답입니다. 정부가 자연재해를 예방하지 못하는 이유는 지문에서 다루지 않습니다. 지문은 자연재해가 아닌 모든 종류의 위험에 대한 인지 편향을 논하며, 정부의 실패보다 인간의 인지 메커니즘에 초점을 맞춥니다.",
+        "wrong_3": "④번은 오답입니다. 통계적 이해력(statistical literacy)은 지문과 간접적으로 관련될 수 있으나, 지문은 정보 제공만으로는 부족하며 인지 편향 자체를 극복해야 한다고 주장합니다. 즉, 문제는 정보 부족이 아니라 인지 편향이라는 점을 강조합니다.",
+        "wrong_4": "⑤번은 오답입니다. 부정적인 뉴스에 장기간 노출될 때의 심리적 영향은 지문의 주제가 아닙니다. 뉴스는 가용성을 높이는 예시로만 언급되며, 뉴스 노출로 인한 심리적 피해는 전혀 논의되지 않습니다.",
+        "key_point": "가용성 휴리스틱(availability heuristic): 쉽게 떠올릴 수 있는 사례일수록 위험을 과대평가하고, 그렇지 않으면 과소평가하는 인지 편향. 이 편향이 공공 정책 자원 배분에까지 영향을 미친다는 것이 핵심입니다. 정답은 'memorable events'(기억에 남는 사건)와 'perception of risk'(위험 인식)라는 두 핵심어를 담고 있어야 합니다."
+      },
+      "self_check": {
+        "passage_word_count": 168,
+        "main_argument": "People misjudge risk based on how easily examples come to mind (availability heuristic), leading to distorted public policy priorities.",
+        "correct_choice_justification": "Choice 1 directly captures the central thesis: memorable/available events distort risk perception.",
+        "distractor_analysis": {
+          "choice_2": "Mentions media but focuses on anxiety reduction, not the cognitive bias mechanism discussed.",
+          "choice_3": "Too narrow; the passage discusses all hazards, not just natural disasters, and the focus is cognition, not government failure.",
+          "choice_4": "Statistical literacy is tangentially related but the passage argues the problem goes beyond information — it is about cognitive bias.",
+          "choice_5": "Negative news is mentioned only as a trigger; the passage's subject is risk perception, not psychological harm from news."
+        },
+        "difficulty_check": "Appropriate for 3점. The passage requires understanding of a psychological concept and its policy implications. Distractors use passage vocabulary plausibly."
+      }
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Ecosystems do not maintain themselves in a fixed, unchanging state. Rather, they exist in a condition of dynamic equilibrium, constantly adjusting to disturbances such as storms, fires, and disease outbreaks. What makes ecosystems resilient is not the absence of disruption but the presence of diversity. When a particular species declines, others with overlapping ecological roles can compensate, preventing the system from collapsing. This principle, known as functional redundancy, acts as a form of biological insurance. However, as human activity reduces biodiversity — through habitat destruction, pollution, and overexploitation — the number of species capable of fulfilling backup roles diminishes. The ecosystem may appear healthy on the surface, continuing to function as before, but it has lost its capacity to absorb future shocks. Scientists compare this to removing rivets from an airplane wing: the wing holds together after the first few are removed, but at some unpredictable point, removing one more rivet causes catastrophic failure.\n* redundancy: 중복",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "necessity of controlling natural disturbances in ecosystems",
+        "role of biodiversity as a buffer against ecosystem collapse",
+        "impact of climate change on the balance of food chains",
+        "methods of restoring damaged ecosystems through reforestation",
+        "differences between natural and human-caused ecological disruptions"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "②번이 정답입니다. 지문은 생물 다양성이 기능적 중복성(functional redundancy)을 통해 생태계가 교란을 흡수하게 해주는 '생물학적 보험' 역할을 한다고 주장합니다. \"What makes ecosystems resilient is not the absence of disruption but the presence of diversity\"라는 핵심 문장이 이를 직접 뒷받침합니다. ②번 'role of biodiversity as a buffer against ecosystem collapse'는 이 중심 논지를 정확히 표현합니다.",
+        "wrong_1": "①번은 오답입니다. 지문은 폭풍, 화재 같은 자연 교란을 통제해야 한다고 주장하지 않습니다. 오히려 교란은 자연스러운 것이며, 문제는 교란이 아니라 생물 다양성 감소라고 명시합니다.",
+        "wrong_2": "③번은 오답입니다. 기후 변화와 먹이사슬 균형은 지문에서 전혀 언급되지 않습니다. 지문은 기후 변화가 아닌 서식지 파괴, 오염, 남획으로 인한 생물 다양성 손실을 다룹니다.",
+        "wrong_3": "④번은 오답입니다. 산림 재조성을 통한 생태계 복원 방법은 지문에서 제시되지 않습니다. 지문은 생태계 손상의 원인과 결과를 분석할 뿐, 처방적 해결책을 제시하지 않습니다.",
+        "wrong_4": "⑤번은 오답입니다. 지문은 자연 교란과 인위적 교란의 차이를 비교하지 않습니다. 지문의 요점은 어떤 종류의 교란이든 생물 다양성이 충분하면 생태계가 회복할 수 있다는 것입니다.",
+        "key_point": "기능적 중복성(functional redundancy): 생태적 역할이 겹치는 여러 종이 존재할 때 한 종이 줄어도 다른 종이 보완하여 생태계를 유지합니다. 생물 다양성이 감소하면 이 '보험' 기능이 사라져 생태계가 언젠가 갑자기 붕괴할 수 있다는 것이 핵심 메시지입니다(리벳 비유)."
+      },
+      "self_check": {
+        "passage_word_count": 170,
+        "main_argument": "Biodiversity provides functional redundancy that allows ecosystems to absorb disturbances; losing species undermines this resilience even if the ecosystem appears fine.",
+        "correct_choice_justification": "Choice 2 captures the core: biodiversity serves as a protective buffer preventing ecosystem collapse.",
+        "distractor_analysis": {
+          "choice_1": "Contradicts the passage, which states disturbances are natural and not the problem — loss of diversity is.",
+          "choice_3": "Climate change is not discussed; the passage focuses on biodiversity loss, not a specific environmental threat.",
+          "choice_4": "Restoration methods are never mentioned; the passage is diagnostic, not prescriptive.",
+          "choice_5": "The passage does not compare types of disruptions; it argues that biodiversity loss reduces resilience to any disruption."
+        },
+        "difficulty_check": "Suitable for 3점. Requires understanding the abstract concept of functional redundancy and the rivet analogy. Distractors address related ecological topics."
+      }
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Translating a literary work is often described as an impossible task, yet translations continue to be produced and read by millions. The paradox arises because translation is not merely a linguistic exercise but a cultural negotiation. A translator must decide what to preserve and what to sacrifice: should a Japanese haiku retain its strict syllable count in English, even if the meaning shifts, or should the meaning be prioritized at the expense of form? Every such decision reflects the translator's interpretation of what matters most in the original. In this sense, no translation is neutral; each one is a reading, shaped by the translator's cultural background, aesthetic preferences, and assumptions about the target audience. Rather than diminishing the value of translated literature, this subjectivity enriches it. Multiple translations of the same work can coexist, each illuminating different facets of the original that a single version could never capture. Translation, then, is less a mirror than a prism, refracting the source text into new and sometimes unexpected forms of meaning.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "limitations of machine translation in capturing literary nuance",
+        "creative and interpretive nature of literary translation",
+        "importance of preserving original sentence structures in translation",
+        "reasons for the growing demand for translated literature worldwide",
+        "challenges of maintaining cultural accuracy in foreign language education"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "②번이 정답입니다. 지문은 문학 번역이 단순한 언어 변환이 아니라 '문화적 협상(cultural negotiation)'이자 창의적·해석적 행위임을 논합니다. \"no translation is neutral; each one is a reading\"이라는 핵심 문장과 마지막의 '프리즘' 비유가 이를 뒷받침합니다. ②번 'creative and interpretive nature of literary translation'은 이 중심 논지를 정확히 포착합니다.",
+        "wrong_1": "①번은 오답입니다. 지문은 기계 번역을 전혀 언급하지 않습니다. 지문의 논의는 문화적 결정을 내리는 인간 번역가에 관한 것입니다.",
+        "wrong_2": "③번은 오답입니다. 지문은 원문의 문장 구조를 보존하는 것이 중요하다고 주장하지 않습니다. 오히려 형식(음절 수 등)을 희생할 수도 있다고 말하며, 이는 ③번의 주장과 정반대입니다.",
+        "wrong_3": "④번은 오답입니다. 번역 문학에 대한 수요가 증가하는 이유는 지문의 주제가 아닙니다. 지문은 번역 수요가 아니라 번역 행위의 본질적 성격을 다룹니다.",
+        "wrong_4": "⑤번은 오답입니다. 외국어 교육에서의 문화적 정확성은 지문에서 논의되지 않습니다. 지문은 외국어 교육이 아닌 문학 번역의 특수한 창의적 과정을 다룹니다.",
+        "key_point": "번역은 '거울'이 아닌 '프리즘': 원문을 그대로 반영하는 것이 아니라 번역가의 문화적 배경과 해석을 통해 새로운 의미를 굴절시킵니다. 이 주관성이 번역 문학의 가치를 떨어뜨리는 것이 아니라 오히려 풍요롭게 한다는 것이 핵심 주장입니다."
+      },
+      "self_check": {
+        "passage_word_count": 182,
+        "main_argument": "Literary translation is inherently subjective and interpretive, and this subjectivity enriches rather than diminishes translated works.",
+        "correct_choice_justification": "Choice 2 accurately identifies the passage's central claim: translation is a creative, interpretive act, not a mechanical one.",
+        "distractor_analysis": {
+          "choice_1": "Machine translation is never mentioned; the passage discusses human translators making cultural decisions.",
+          "choice_3": "Contradicts the passage, which argues that form may be sacrificed; this choice presents preservation as important.",
+          "choice_4": "Demand for translations is not the subject; the passage discusses the nature of the translation process itself.",
+          "choice_5": "Foreign language education is an unrelated domain; the passage concerns literary translation specifically."
+        },
+        "difficulty_check": "Good 3점 level. The passage uses abstract concepts (prism metaphor, cultural negotiation) and the correct answer requires synthesizing the full argument rather than picking up a single detail."
+      }
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Throughout history, societies have defined adulthood through clearly marked transitions — ceremonies, rites of passage, or specific legal thresholds such as the right to vote or marry. In contemporary Western societies, however, the boundary between adolescence and adulthood has become increasingly blurred. Young people today often reach biological maturity years before they achieve financial independence or settle into stable careers. Sociologists refer to this extended in-between phase as \"emerging adulthood,\" a period characterized by identity exploration, instability, and a focus on the self. While some view this prolonged transition as a privilege made possible by economic prosperity, others argue it reflects structural barriers — rising housing costs, student debt, and a precarious job market — that prevent young people from assuming adult roles even when they wish to. The consequence is a generation that feels neither fully adolescent nor fully adult, navigating a social landscape that offers few clear markers of when the transition is complete.\n* precarious: 불안정한",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "declining significance of traditional ceremonies in modern culture",
+        "economic factors contributing to rising youth unemployment rates",
+        "the blurring boundary between adolescence and adulthood in modern society",
+        "psychological benefits of extending the transition period to adulthood",
+        "effects of financial independence on the formation of personal identity"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "③번이 정답입니다. 지문은 현대 서구 사회에서 청소년기와 성인기의 경계가 점점 모호해지고 있다는 사회학적 현상('emerging adulthood')을 중심 주제로 다룹니다. \"the boundary between adolescence and adulthood has become increasingly blurred\"라는 핵심 문장과 마지막 문장의 요약이 이를 뒷받침합니다. ③번은 이 현상을 정확히 포착합니다.",
+        "wrong_1": "①번은 오답입니다. 전통 의례의 쇠퇴는 지문의 주제가 아닙니다. 성인식과 법적 기준 등의 의례는 역사적 맥락으로만 언급되며, 그것의 감소 자체를 논하지는 않습니다.",
+        "wrong_2": "②번은 오답입니다. 청년 실업률 상승의 경제적 요인은 지문의 부수적 내용입니다. 경제적 장벽(주거비, 학자금 부채, 불안정한 고용 시장)은 '성인기 지연' 현상의 여러 원인 중 하나로 언급될 뿐, 지문의 핵심 주제는 성인기와 청소년기 경계의 모호화 현상 자체입니다.",
+        "wrong_3": "④번은 오답입니다. 지문은 전환 기간 연장의 심리적 이점을 주장하지 않습니다. 오히려 이 현상을 특권으로 보는 시각과 구조적 장벽으로 보는 시각을 모두 제시하며, 심리적 혜택이 있다고 단언하지 않습니다.",
+        "wrong_4": "⑤번은 오답입니다. 재정적 독립이 개인 정체성 형성에 미치는 영향은 지문의 한 측면에 불과합니다. 지문의 전체 논지는 청소년기와 성인기 사이 경계 자체의 불분명함에 관한 것입니다.",
+        "key_point": "'Emerging adulthood'(신흥 성인기): 생물학적 성숙은 이루었지만 사회경제적 독립은 아직 이루지 못한 확장된 중간 단계. 이 현상은 특권일 수도, 구조적 장벽의 결과일 수도 있으며, 결국 '나는 어른인가?'라는 정체성의 혼란으로 이어집니다."
+      },
+      "self_check": {
+        "passage_word_count": 175,
+        "main_argument": "The transition to adulthood has become ambiguous in modern Western societies due to a gap between biological maturity and socioeconomic independence.",
+        "correct_choice_justification": "Choice 3 captures the central topic: the increasingly unclear boundary between adolescence and adulthood in contemporary society.",
+        "distractor_analysis": {
+          "choice_1": "Ceremonies are mentioned only as historical context; the passage is about the current blurring of life stages, not ceremonial decline.",
+          "choice_2": "Too narrow; economic barriers are one contributing factor discussed, but the passage's subject is the broader phenomenon of delayed adulthood.",
+          "choice_4": "The passage does not argue there are psychological benefits; it presents both privilege and structural barrier perspectives.",
+          "choice_5": "Financial independence is mentioned as one element but the passage is about the overall ambiguity of the adolescence-adulthood boundary."
+        },
+        "difficulty_check": "Appropriate 3점 difficulty. The passage presents a nuanced sociological argument with competing interpretations. Distractors isolate sub-points that could mislead hasty readers."
+      }
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Most people assume that experts make better decisions than novices because they possess more knowledge. While this is partly true, research in cognitive science suggests that the real advantage of expertise lies not in the quantity of knowledge but in how that knowledge is organized. Expert chess players, for example, do not evaluate more possible moves than amateurs; instead, they recognize meaningful patterns on the board almost instantly, allowing them to focus their analysis on the most promising options. Similarly, experienced physicians do not run through every possible diagnosis when examining a patient. They rely on mental templates — clusters of symptoms and conditions they have encountered before — to narrow the possibilities quickly. This pattern-based reasoning is efficient but not infallible. Experts can be led astray when a situation superficially resembles a familiar pattern but differs in critical ways. Their very fluency in recognizing patterns can make them less likely to slow down and question their initial assessment, a phenomenon sometimes called the \"expertise trap.\"\n* infallible: 절대 틀리지 않는",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "advantages of structured training programs for developing expertise",
+        "pattern recognition as both the strength and weakness of expert judgment",
+        "reasons why novices sometimes outperform experts in decision making",
+        "importance of accumulating extensive knowledge for professional success",
+        "ways to minimize diagnostic errors in the medical field"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "②번이 정답입니다. 지문은 전문가의 패턴 인식 능력이 의사 결정을 빠르고 효율적으로 만드는 강점임과 동시에, 친숙한 패턴처럼 보이지만 실제로는 다른 상황에서 오류를 낳는 약점('expertise trap')이기도 하다는 양면성을 논합니다. \"This pattern-based reasoning is efficient but not infallible\"이라는 문장이 이 이중성을 압축합니다. ②번은 이 핵심 논지를 정확히 포착합니다.",
+        "wrong_1": "①번은 오답입니다. 전문성을 기르기 위한 구조적 훈련 프로그램은 지문에서 전혀 언급되지 않습니다. 지문은 전문성을 어떻게 개발하는지가 아니라, 전문성이 인지적으로 어떻게 작동하는지를 설명합니다.",
+        "wrong_2": "③번은 오답입니다. 지문은 초보자가 전문가를 능가하는 경우가 있다고 주장하지 않습니다. 특정 상황에서 전문가가 오류를 범할 수 있다는 것이지, 초보자가 더 낫다는 주장이 아닙니다.",
+        "wrong_3": "④번은 오답입니다. 지식의 양(quantity)을 쌓는 것이 전문성의 핵심이라는 주장은 지문이 명시적으로 반박하는 상식적 오해입니다. 지문은 \"the real advantage of expertise lies not in the quantity of knowledge but in how that knowledge is organized\"라고 직접 반론합니다.",
+        "wrong_4": "⑤번은 오답입니다. 의료 분야의 진단 오류 최소화 방법은 지문의 주제가 아닙니다. 의사는 패턴 인식 메커니즘을 설명하는 하나의 예시일 뿐이며, 지문의 논지는 의학을 넘어 전문성 일반에 적용됩니다.",
+        "key_point": "'Expertise trap'(전문성의 함정): 전문가는 패턴 인식 덕분에 빠르고 효율적으로 판단하지만, 표면적으로 익숙한 패턴처럼 보이지만 실제로는 다른 상황에서 초기 판단을 의심하지 않고 오류를 범할 수 있습니다. 강점과 약점이 같은 메커니즘에서 비롯된다는 점이 핵심입니다."
+      },
+      "self_check": {
+        "passage_word_count": 178,
+        "main_argument": "Expert advantage comes from pattern recognition rather than sheer knowledge volume, but this same mechanism can also cause errors when situations deceptively resemble known patterns.",
+        "correct_choice_justification": "Choice 2 captures the dual nature discussed: pattern recognition is both what makes experts effective and what can lead them astray (the 'expertise trap').",
+        "distractor_analysis": {
+          "choice_1": "Training programs are never discussed; the passage explains how expertise works cognitively, not how it is developed.",
+          "choice_3": "The passage does not claim novices outperform experts; it says experts can err in specific situations.",
+          "choice_4": "Directly contradicts the passage's thesis that knowledge organization, not quantity, is the key advantage.",
+          "choice_5": "Medical diagnosis is used as one example, but the passage's argument applies to expertise in general, not just medicine."
+        },
+        "difficulty_check": "Strong 3점 level. The passage builds a two-part argument (strength + weakness) and the correct answer must capture both. Choice 4 is a tempting distractor since it reflects the common assumption the passage explicitly refutes."
+      }
+    }
+  ]
+}

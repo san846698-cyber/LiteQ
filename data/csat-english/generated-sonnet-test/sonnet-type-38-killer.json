@@ -1,0 +1,112 @@
+{
+  "model": "sonnet",
+  "type": "문장 삽입",
+  "typeNumber": 38,
+  "generated": [
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "Yet this very constraint, paradoxically, became the engine of innovation: composers were forced to develop harmonic and contrapuntal techniques far beyond what free improvisation would have demanded.",
+      "passage": "The history of Western musical notation is inseparable from the history of institutional constraint. In medieval monasteries, plainchant was memorized and transmitted orally, leaving no need for written scores. ( ① ) It was only when polyphony — the simultaneous sounding of independent melodic lines — began to develop in the ninth century that the limits of human memory forced clerics to devise a system of written symbols. ( ② ) Early neumes indicated only the general contour of melodic movement, offering the singer a visual reminder rather than a precise prescription. ( ③ ) The gradual move toward a staff system pinned each note to an exact pitch, and with that precision came an unexpected rigidity: performers could no longer easily ornament or alter phrases spontaneously without departing from what was written. ( ④ ) By the Renaissance, composers exploited this rigidity deliberately, constructing intricate canons and fugues whose complexity would have been impossible to hold in memory and could only be composed by reasoning on paper. ( ⑤ ) The written score had thus transformed from a mnemonic aid into an autonomous compositional space, a technology that thought alongside its users.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ④ is the only valid insertion point. The sentence opens with 'Yet this very constraint' — the antecedent 'constraint' refers directly to the 'unexpected rigidity' introduced at the end of sentence ③ (the staff system's rigidity preventing spontaneous ornamentation). The causal connector 'became the engine of innovation' then explains the consequence: composers developed advanced harmonic and contrapuntal techniques. Sentence ⑤ ('By the Renaissance, composers exploited this rigidity deliberately') is the direct follow-on, confirming that the inserted sentence bridges the problem (rigidity) to its productive exploitation.",
+        "distractor_analysis": {
+          "position_1": "Rejected. The passage has not yet introduced any constraint; it is still describing the oral transmission era. 'Yet this very constraint' has no antecedent here.",
+          "position_2": "Rejected. At this point only neumes have been introduced. No rigidity or constraint has been named, so the paradox framing is incoherent.",
+          "position_3": "Rejected. Early neumes are described as imprecise reminders, the opposite of the tight constraint the insert sentence presupposes.",
+          "position_5": "Rejected. The sentence after ⑤ would then say 'The written score had thus transformed from a mnemonic aid into an autonomous compositional space' — but if the insert comes here, there is no intermediate development to justify 'thus'. Moreover, sentence ⑤ already makes the causal leap the insert is meant to set up."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "This asymmetry matters because the legal system, unlike a market, cannot simply discount rare edge cases — a rule that produces catastrophically unjust outcomes even one percent of the time may still be an unacceptable rule.",
+      "passage": "Philosophers of law have long debated whether legal reasoning is fundamentally backward-looking or forward-looking. The backward-looking view holds that judges should derive decisions from the accumulated body of precedent, applying established principles to new facts. ( ① ) Proponents argue that this method guarantees predictability: litigants know in advance what rules govern their disputes, and the law acquires the stability necessary for economic and social planning. ( ② ) Critics of this view, however, point out that precedent is inevitably shaped by the kinds of cases that historically reached appellate courts, which were not randomly drawn from the full population of disputes but skewed toward wealthy parties who could afford to litigate. ( ③ ) Forward-looking theorists counter that judges should therefore weigh the probable consequences of a ruling across all the future cases it will govern, not just the case before them. ( ④ ) Opponents of forward-looking adjudication reply that courts lack the empirical tools to forecast societal consequences reliably; a legislature can commission studies and revise statutes, but a judge must decide today with imperfect information. ( ⑤ ) The debate thus turns not only on the nature of justice but on a deeper question about the institutional competence of courts versus legislatures.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ③ is the only valid insertion point. The preceding sentence (②) establishes that precedent was 'skewed toward wealthy parties' — a critique revealing that the backward-looking model has a systematic sampling bias. The insert sentence responds directly to this implied tension: 'This asymmetry' refers to the skew just described, and the sentence explains why this asymmetry is uniquely problematic in law (unlike markets, law cannot simply discount rare injustices). The sentence following position ③ then pivots to the forward-looking theorists who draw a practical conclusion from precisely this critique — creating a tight logical chain: skewed sampling (②) → why skew is legally unacceptable (insert) → therefore weigh future consequences (forward-looking response, sentence ④).",
+        "distractor_analysis": {
+          "position_1": "Rejected. No asymmetry has been identified yet; the text is still presenting the backward-looking view affirmatively.",
+          "position_2": "Rejected. 'This asymmetry' would require an antecedent asymmetry, but sentence ② only introduces predictability as a benefit — no asymmetry or skew has been named yet.",
+          "position_4": "Rejected. At this point the forward-looking view has just been stated; the insert's reference to a 'legal system that cannot discount edge cases' would disrupt the flow by re-introducing a backward-looking concern mid-rebuttal, with no coherent 'asymmetry' antecedent in the immediately preceding sentence.",
+          "position_5": "Rejected. Sentence ⑤ synthesises the entire debate. Inserting before it an asymmetry claim would introduce a new thread after the debate has already been framed as resolved, breaking the concluding logic."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "Crucially, however, the very act of labelling a phenomenon speeds its disappearance, because once named it attracts regulatory and market attention that dissolves the arbitrage opportunity.",
+      "passage": "Financial economics has a peculiar relationship with the phenomena it studies. In physics, naming a law — Boyle's, Ohm's, Newton's — does not alter the behaviour of gases, circuits, or planets. ( ① ) Markets, however, are composed of agents who read and respond to the theories produced about them, a reflexivity first systematically analysed by George Soros under the term 'fallibility'. ( ② ) When academic researchers identify an anomaly — say, that small-capitalisation stocks earn excess returns in January — traders immediately attempt to exploit it. ( ③ ) The resulting buying pressure in late December pushes up prices until the excess return is eliminated, a process economists call 'arbitrage'. ( ④ ) This self-undermining quality means that financial economics must perpetually chase a moving target: the map changes the territory it describes. ( ⑤ ) Critics argue this makes finance fundamentally unlike a natural science, while defenders counter that the same feedback loops create their own stable, predictable patterns amenable to scientific study.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ③ is the only valid insertion point. The sentence before it (②) describes what happens when researchers identify an anomaly — traders try to exploit it. The insert sentence begins with 'Crucially, however, the very act of labelling a phenomenon' — 'labelling' refers directly to the 'identify' action in sentence ②, and 'speeds its disappearance' explains a causal mechanism. The following sentence then describes the mechanism in concrete terms: buying pressure in late December eliminates the excess return ('arbitrage'). Without the insert, sentence ③ introduces the arbitrage elimination process but the insert's explanation of why naming accelerates disappearance is the logical bridge. Position ④ would place the insert after the arbitrage explanation, which would reverse the logical order (mechanism before its general principle).",
+        "distractor_analysis": {
+          "position_1": "Rejected. The insert uses 'a phenomenon' referring to a named financial anomaly, but at position ① no anomaly has yet been introduced — only a contrast between physics and markets is being set up.",
+          "position_2": "Rejected. At this point reflexivity has just been named but no specific anomaly or labelling event has been described. 'The very act of labelling a phenomenon' requires a concrete precedent.",
+          "position_4": "Rejected. The arbitrage process has already been fully described before position ④, so inserting a sentence about why labelling 'speeds disappearance' would be redundant and out of sequence — the disappearance mechanism has already been illustrated.",
+          "position_5": "Rejected. Position ⑤ comes after the synthesis claim ('self-undermining quality') in sentence ④; inserting a mechanism explanation here would undercut the rhetorical escalation toward the critics-vs-defenders conclusion."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "What made this shift possible was not merely better instruments but a reconceptualisation of the observer's role: instead of a passive recorder of nature's given order, the scientist became an active intervener who produces phenomena that would never occur without deliberate manipulation.",
+      "passage": "The distinction between observation and experiment is older than the terminology used to express it. Ancient natural philosophers catalogued celestial regularities, tidal patterns, and anatomical features through systematic watching, trusting that nature, undisturbed, would reveal its own structure. ( ① ) Galileo's inclined-plane studies mark a recognisable turning point: rather than wait for falling bodies to present themselves, he constrained their motion to make it measurable. ( ② ) Francis Bacon articulated the philosophical basis for this approach, insisting that nature reveals more under 'vexation' — deliberate interference — than in its resting state. ( ③ ) Nineteenth-century laboratory science institutionalised the practice, building controlled environments where variables could be isolated, manipulated, and reproduced at will. ( ④ ) Critics, notably Goethe in his colour theory, objected that artificially produced phenomena were artefacts of the method rather than authentic expressions of nature, and therefore philosophically suspect. ( ⑤ ) The debate between these two visions of what science is for — faithful description versus creative intervention — has never been fully resolved and resurfaces in contemporary disputes over the status of computer simulations as scientific evidence.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ③ is the only valid insertion point. The passage traces a historical arc: (①) ancient passive observation → (②) Galileo's constrained experiment → (③) Bacon's philosophical articulation. The insert sentence explains 'what made this shift possible' — 'this shift' refers to the move from passive watching to active intervention introduced through Galileo (②) and named by Bacon (③). The insert functions as an explicit conceptual synthesis between the two historical examples before it and the institutionalisation described after it. The pronoun 'this shift' has no coherent antecedent before position ③; at position ④, the institutionalisation is already stated so the insert would be explaining what caused something already fully described.",
+        "distractor_analysis": {
+          "position_1": "Rejected. At position ① the shift has not yet occurred — ancient philosophy is still being described as passive. 'This shift' has no antecedent.",
+          "position_2": "Rejected. Only Galileo's specific practice has been introduced; Bacon's philosophical conceptualisation, which directly names the reconceptualisation of the observer's role, has not appeared yet. The insert presupposes both examples.",
+          "position_4": "Rejected. By position ④, the institutionalisation of experimental science is already being described as a fait accompli; inserting the 'what made this shift possible' explanation retroactively undermines the forward momentum of the historical narrative.",
+          "position_5": "Rejected. Position ⑤ moves into Goethe's critique; inserting an explanatory synthesis here breaks the adversarial structure and introduces a mismatched causal claim just as the passage turns to criticism."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "hard",
+      "insertSentence": "In this respect, the gaze of the tourist and the gaze of the anthropologist converge at an uncomfortable point: both depend on a subject population that consents to being observed, yet neither can fully acknowledge that consent as the source of the knowledge produced.",
+      "passage": "Tourism studies scholars have increasingly questioned the neutrality of 'the tourist gaze', a concept developed by John Urry to describe how tourists visually consume landscapes and peoples as objects of leisure. ( ① ) Urry's original framework drew implicitly on Foucault's analysis of the medical gaze, suggesting that looking is never innocent but always structured by power relations and prior discourse. ( ② ) Subsequent critics pointed out that Urry's account privileges the perspective of the Western tourist and largely ignores the agency of those being looked at, who may perform, resist, or strategically manipulate the expectations of visitors. ( ③ ) This recognition has led some researchers to propose a 'mutual gaze' framework, in which both the visitor and the visited are understood as co-producers of the touristic encounter rather than as active subject and passive object. ( ④ ) Yet even within this more symmetrical account, a structural tension persists: the economic incentives that make host communities perform their culture for visitors create a form of staged authenticity, to use Dean MacCannell's term, in which what appears most genuine has in fact been most carefully curated for external consumption. ( ⑤ ) Resolving this tension may require abandoning the metaphor of the gaze entirely in favour of frameworks that foreground exchange, negotiation, and the ongoing transformation of both parties through encounter.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "Position ④ is the only valid insertion point. The sentence before it (③) introduces the 'mutual gaze' framework where both visitor and visited are 'co-producers'. The insert sentence begins 'In this respect' — referring directly to the mutual gaze framework — and draws a comparison between the tourist's gaze and the anthropologist's gaze, identifying an uncomfortable shared dependency on observed consent. This functions as a deepening critique of the mutual gaze framework. The sentence after position ④ then continues with 'Yet even within this more symmetrical account, a structural tension persists' — this 'yet' contrastive pivot works precisely because the insert has just offered the convergence claim, which is immediately qualified by the staged authenticity problem. Without the insert, the 'yet' in sentence ⑤ has insufficient adversarial footing.",
+        "distractor_analysis": {
+          "position_1": "Rejected. The anthropologist/tourist convergence presupposes both Urry's gaze concept and its critique; at position ① only the basic concept has been introduced with no development of its problems.",
+          "position_2": "Rejected. At position ② the Foucaultian power-relations angle is being introduced. The insert's comparative claim about consent requires the subsequent recognition of the observed subjects' agency (sentence ②) to have already been established.",
+          "position_3": "Rejected. At this point the agency critique has just been stated but the mutual gaze framework has not yet been proposed. 'In this respect' requires the mutual gaze framing as its antecedent — otherwise 'both depend on a subject population that consents' is introduced before the theoretical context that makes consent analytically relevant.",
+          "position_5": "Rejected. Position ⑤ begins the conclusion ('Resolving this tension may require abandoning the metaphor'). The insert is an analytical deepening, not a resolution; placing it here would interrupt the pivot from problem to proposed solution and create a logical reversal."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

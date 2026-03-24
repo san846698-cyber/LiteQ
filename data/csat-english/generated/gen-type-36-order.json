@@ -1,0 +1,172 @@
+{
+  "type": "순서 배열",
+  "typeNumber": 36,
+  "analysis": {
+    "totalSamples": 36,
+    "answerDistribution": {
+      "1": 1,
+      "2": 5,
+      "3": 8,
+      "4": 8,
+      "5": 5
+    },
+    "choicesFormat": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+    "structuralPatterns": [
+      "Opening sentence introduces a topic or concept",
+      "Each paragraph (A)(B)(C) contains 2-4 sentences",
+      "Discourse markers (However, In contrast, For example, This, Therefore, Nevertheless) signal logical connections",
+      "Pronoun references (this, these, such, they, it) link back to previously mentioned concepts",
+      "Contrast pairs (on the other hand, however, in contrast) create clear pivot points",
+      "Demonstrative references (this process, such systems, these findings) anchor paragraph order",
+      "Topics are drawn from academic disciplines: psychology, philosophy, biology, linguistics, technology, sociology"
+    ],
+    "difficultyDistribution": {
+      "2points": 18,
+      "3points": 18
+    },
+    "keyOrderingClues": [
+      "Pronoun antecedents must appear before the pronoun",
+      "Examples follow general statements",
+      "Contrasting ideas use discourse markers that require prior context",
+      "Temporal or logical sequences (first...then...finally) enforce order",
+      "Concluding statements summarize or evaluate previously presented ideas"
+    ]
+  },
+  "generated": [
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "The concept of cognitive load refers to the total amount of mental effort being used in working memory at any given time.\n\n(A) For instance, a student trying to learn a new mathematical concept while simultaneously decoding unfamiliar vocabulary in a foreign-language textbook faces an enormous cognitive burden. The brain simply cannot process both tasks with equal effectiveness.\n\n(B) This is why experienced teachers break complex topics into smaller, manageable units and introduce new information gradually. By reducing unnecessary cognitive load, they free up mental resources that learners can devote to understanding and retaining the core material.\n\n(C) When too many demands are placed on working memory at once, the brain struggles to process information effectively, and learning suffers as a result. This overload is especially problematic when learners must deal with multiple unfamiliar elements simultaneously.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "정답 순서: (C)-(A)-(B). 연결 근거 — ① (C)의 'When too many demands are placed on working memory'는 주어진 문장의 인지 부하 개념을 직접 이어받고, (C) 두 번째 문장의 'This overload(이 과부하)'는 바로 앞 문장을 지칭하는 지시어입니다. ② (A)는 'For instance(예를 들어)'로 시작하여 (C) 마지막에 언급된 '여러 낯선 요소를 동시에 처리하는 문제'를 구체적 사례로 예시합니다. ③ (B)는 'This is why(이것이 바로 ~한 이유다)'로 (C)와 (A)가 제시한 문제·사례 전체를 전제하는 인과 결론이므로 반드시 마지막에 위치합니다.",
+        "wrong": {
+          "1": "(A)-(C)-(B): (A)의 'For instance'는 예시 담화 표지로, 먼저 일반적 주장((C))이 선행해야 합니다. (A)가 첫 번째가 되면 예시할 대상이 없습니다.",
+          "2": "(B)-(A)-(C): (B)의 'This is why'는 문제 상황과 사례 모두를 전제해야 하므로 첫 번째에 올 수 없습니다.",
+          "3": "(B)-(C)-(A): (B)가 먼저 오면 'This is why'의 선행 맥락이 부재하며, 결론이 근거보다 앞에 오는 역순입니다.",
+          "5": "(C)-(B)-(A): (B)의 결론이 (A)의 구체적 사례보다 먼저 오므로 일반 주장(C) → 결론(B) → 예시(A) 순서가 되어 논리적 흐름이 어색합니다."
+        },
+        "key_point": "담화 표지 확인 순서: (C)의 지시어 'This overload' → (A)의 예시 표지 'For instance' → (B)의 인과 결론 표지 'This is why'. 인과 결론 담화 표지가 있는 단락은 항상 마지막에 위치합니다."
+      },
+      "self_check": {
+        "correct_order": "(C)-(A)-(B)",
+        "reasoning": "Opening defines cognitive load. (C) follows directly: 'When too many demands are placed on working memory' elaborates on the concept just introduced, and 'This overload' in C's second sentence refers back to the overload described in C's first sentence. (A) then provides a specific example ('For instance') of the simultaneous processing problem mentioned at the end of (C) ('multiple unfamiliar elements simultaneously'). (B) concludes with 'This is why,' which requires the preceding problem/example context from (C) and (A), and offers the solution (breaking topics into smaller units).",
+        "discourse_markers": ["When (C - logical consequence)", "This overload (C - demonstrative reference to prior sentence)", "For instance (A - exemplification of C)", "This is why (B - causal conclusion referencing C+A)"],
+        "pronoun_chain": "'working memory' (opening) → 'too many demands...working memory' (C) → 'multiple unfamiliar elements simultaneously' (C) → 'both tasks' (A) → 'This is why' (B) → 'they/learners' (B)",
+        "distractor_elimination": "B cannot come first because 'This is why' requires prior context. A cannot come first because 'For instance' requires a general claim to exemplify. Only C can follow the opening directly by elaborating on what happens when cognitive load is exceeded.",
+        "explanation_ko": "주어진 문장은 인지 부하(cognitive load) 개념을 정의한다. (C)는 'When too many demands are placed on working memory'로 주어진 문장의 내용을 직접 이어받고, 두 번째 문장의 'This overload(이 과부하)'는 바로 앞 문장에서 설명된 과부하를 지칭하는 지시어이다. (A)는 'For instance(예를 들어)'로 시작하여 (C) 마지막에 언급된 '여러 낯선 요소를 동시에 처리하는 문제'를 구체적인 사례로 예시한다. (B)는 'This is why(이것이 바로 ~한 이유다)'로 시작하는데, 이 인과 표지는 (C)와 (A)가 제시한 문제·사례 맥락을 전제해야 하므로 반드시 마지막에 위치한다. 핵심 연결 근거: ① (C)의 'This overload' → 지시어(앞 문장 과부하 지칭) ② (A)의 'For instance' → 예시 담화 표지((C) 내용 예시) ③ (B)의 'This is why' → 인과 결론 담화 표지((C)+(A) 전체 맥락 결론)"
+      }
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Misinformation spreads rapidly in the digital age, and researchers have been trying to understand why people share false stories online.\n\n(A) However, subsequent research revealed that the picture is more complicated. People do not simply believe everything they encounter; rather, the speed at which social media operates often prevents them from pausing to evaluate the accuracy of a claim before sharing it.\n\n(B) In other words, the problem is not necessarily one of gullibility but of attention. When researchers prompted users to think about accuracy before sharing, the rate of misinformation sharing dropped significantly. This finding suggests that simple interventions could meaningfully reduce the spread of false information.\n\n(C) Early studies suggested that individuals share misinformation primarily because they lack the critical thinking skills needed to distinguish fact from fiction. According to this view, the solution would be to improve media literacy through education.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "정답 순서: (C)-(A)-(B). 연결 근거 — ① (C)는 'Early studies(초기 연구들)'라는 시간적 표지로 초기 관점을 제시하며 'According to this view'로 그 관점을 지칭합니다. ② (A)는 'However, subsequent research revealed(그러나 후속 연구는 밝혔다)'로 시작해 (C)의 초기 연구와 대조를 이루는 역접 담화 표지이며, (C)가 선행하지 않으면 대조 대상이 없습니다. ③ (B)는 'In other words(다시 말해서)'로 (A)의 핵심 주장을 재진술하고 실험 근거와 결론을 제시하므로 마지막에 위치합니다.",
+        "wrong": {
+          "1": "(A)-(C)-(B): (A)의 'However, subsequent research'는 대조할 '초기 연구'((C))가 선행해야 합니다. (A)가 첫 번째가 되면 대조 대상이 없습니다.",
+          "2": "(B)-(A)-(C): (B)의 'In other words'는 (A)의 내용을 재진술하는 표지이므로 (A) 없이 첫 번째에 올 수 없습니다.",
+          "3": "(B)-(C)-(A): (B)가 첫 번째가 되면 재진술할 선행 내용이 없고, (C)의 초기 연구 뒤에 (A)의 역접이 와야 하는 논리 순서와도 맞지 않습니다.",
+          "5": "(C)-(B)-(A): (B)의 'In other words'가 (A) 앞에 오면 재진술할 (A)의 내용이 아직 제시되지 않은 상태가 됩니다."
+        },
+        "key_point": "시간적 담화 표지 'Early studies' → 역접 표지 'However, subsequent research' → 재진술 표지 'In other words' 순서를 파악하면 (C)→(A)→(B) 순서가 확정됩니다."
+      },
+      "self_check": {
+        "correct_order": "(C)-(A)-(B)",
+        "reasoning": "Opening introduces the problem of misinformation. (C) follows by presenting 'Early studies' and their explanation ('lack critical thinking skills'), ending with a proposed solution (media literacy). (A) begins with 'However, subsequent research revealed' — a clear chronological and contrastive marker that must follow an earlier finding, i.e., (C). (A) offers the revised explanation (speed of social media prevents evaluation). (B) opens with 'In other words,' summarizing the insight from (A) ('not gullibility but attention'), then presents the experimental evidence ('When researchers prompted users...') and concludes with the implication.",
+        "discourse_markers": ["Early studies (C - temporal marker, sets up initial view)", "According to this view (C - refers to the early studies)", "However, subsequent research (A - contrasts with C's early studies)", "rather (A - corrective contrast)", "In other words (B - restatement of A's point)", "This finding (B - refers to experimental result in B)"],
+        "pronoun_chain": "'researchers' (opening) → 'individuals' (C) → 'this view' (C) → 'subsequent research' (A) → 'them' (A, referring to people) → 'the problem' (B) → 'researchers' (B) → 'This finding' (B)",
+        "distractor_elimination": "A cannot come first because 'However, subsequent research' requires a prior finding to contrast with. B cannot come first because 'In other words' requires a preceding statement to paraphrase. Only C can follow the opening by presenting the initial research perspective.",
+        "explanation_ko": "주어진 문장은 허위 정보 확산 문제를 제기한다. (C)는 'Early studies(초기 연구들)'라는 시간적 표지로 초기 관점을 제시한다. (A)는 'However, subsequent research revealed(그러나 후속 연구는 밝혔다)'로 시작하여 (C)의 초기 연구와 대조를 이루는 역접 담화 표지이며, (C)가 선행하지 않으면 대조 대상이 없어 사용 불가하다. 또한 'rather(오히려)'로 수정 대조를 추가한다. (B)는 'In other words(다시 말해서)'로 시작하여 (A)의 핵심 주장을 재진술하고, 'This finding(이 발견)'은 (B) 자체 실험 결과를 지칭하는 지시어이다. 핵심 연결 근거: ① (A)의 'However, subsequent research' → 역접 담화 표지((C)의 초기 연구와 대조 필수) ② (B)의 'In other words' → 재진술 담화 표지((A)의 내용 전제 필수) ③ (C)의 'According to this view' → 지시어('Early studies'의 관점 지칭)"
+      }
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Architecture is often described as frozen music, a phrase that captures the idea that buildings, like musical compositions, embody rhythm, harmony, and proportion.\n\n(A) Nevertheless, these structural necessities do not prevent architects from expressing artistic vision. Throughout history, architects have found creative ways to reconcile engineering constraints with aesthetic ambitions, producing structures that are both functional and deeply moving.\n\n(B) The analogy, however, has its limits. Unlike a piece of music, which unfolds over time and exists purely as a sequence of sounds, a building must obey the laws of physics. It must bear weight, resist wind, and withstand the forces of nature.\n\n(C) Consider, for example, the Gothic cathedrals of medieval Europe. Their soaring pointed arches and flying buttresses were not merely decorative choices but ingenious engineering solutions that allowed walls to be thinner and windows to be larger, flooding interiors with light.\n\n* buttress: 부벽(건물 벽을 지탱하는 구조물)",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "정답 순서: (B)-(A)-(C). 연결 근거 — ① (B)의 'The analogy, however, has its limits'에서 'The analogy(이 유추)'는 주어진 문장의 '얼어붙은 음악' 비유를 직접 지칭하는 지시어이며 'however'는 역접 표지입니다. ② (A)는 'Nevertheless(그럼에도 불구하고)'라는 양보 표지로 (B)의 물리적 제약을 인정하면서 반전시키고, 'these structural necessities(이러한 구조적 필요)'는 (B)에서 언급된 하중·바람 저항 등을 가리키는 지시어입니다. ③ (C)는 'Consider, for example(예를 들어)'로 (A)의 주장(제약과 미적 포부의 조화)을 고딕 성당이라는 구체적 사례로 예시합니다.",
+        "wrong": {
+          "1": "(A)-(C)-(B): (A)의 'these structural necessities'는 (B)에서 설명된 물리적 제약을 지칭하므로 (B) 없이 첫 번째에 올 수 없습니다.",
+          "3": "(B)-(C)-(A): (C)의 'Consider, for example'은 (A)의 조화 주장을 예시해야 하는데, (A)가 (C) 뒤에 오면 역순이 됩니다.",
+          "4": "(C)-(A)-(B): (C)의 예시가 일반 주장((A)) 없이 먼저 오면 맥락이 없고, (B)의 'The analogy'가 주어진 문장과 직접 연결되어야 하므로 (B)는 항상 주어진 문장 바로 뒤에 위치해야 합니다.",
+          "5": "(C)-(B)-(A): (B)가 (C) 뒤에 오면 'The analogy'의 지시 대상인 주어진 문장과의 직접 연결이 끊기며 흐름이 어색해집니다."
+        },
+        "key_point": "지시어 'The analogy'는 주어진 문장의 비유를 직접 가리키므로 (B)가 반드시 첫 번째입니다. 이후 'these structural necessities(지시어) → for example(예시 표지)' 순서로 연결됩니다."
+      },
+      "self_check": {
+        "correct_order": "(B)-(A)-(C)",
+        "reasoning": "Opening introduces the 'frozen music' analogy. (B) must follow immediately because 'The analogy, however, has its limits' directly refers to the analogy in the opening sentence, then explains the physical constraints of buildings. (A) begins with 'Nevertheless, these structural necessities' — 'these structural necessities' can only refer to the physical demands described in (B) (bearing weight, resisting wind). (A) claims architects reconcile constraints with aesthetics. (C) then provides a concrete example ('Consider, for example') of this reconciliation — Gothic cathedrals whose structural innovations (arches, buttresses) served both engineering and aesthetic purposes.",
+        "discourse_markers": ["however (B - contrasts with opening analogy)", "Nevertheless (A - concessive, acknowledges B's point but pivots)", "these structural necessities (A - demonstrative referring to B)", "Consider, for example (C - exemplifies A's claim)"],
+        "pronoun_chain": "'frozen music' (opening) → 'The analogy' (B) → 'It' (B, referring to a building) → 'these structural necessities' (A) → 'architects' (A) → 'Their' (C, referring to Gothic cathedrals)",
+        "distractor_elimination": "B must follow the opening because 'The analogy' directly refers to the 'frozen music' metaphor. A cannot come first because 'these structural necessities' has no antecedent without B. C cannot come first because 'Consider, for example' needs a general claim to exemplify.",
+        "explanation_ko": "주어진 문장은 건축을 '얼어붙은 음악'에 비유하는 유추(analogy)를 소개한다. (B)는 'The analogy, however, has its limits(그러나 이 유추에는 한계가 있다)'로 시작하는데, 'The analogy(이 유추)'는 주어진 문장의 비유를 직접 지칭하는 지시어이며, 'however'는 역접 담화 표지이다. (A)는 'Nevertheless(그럼에도 불구하고)'라는 양보 담화 표지로 (B)의 물리적 제약 논점을 인정하면서 반전시키고, 'these structural necessities(이러한 구조적 필요)'는 (B)에서 언급된 하중·바람 저항 등의 필요를 가리키는 지시어이다. (C)는 'Consider, for example(예를 들어)'로 (A)의 주장을 구체적 사례(고딕 성당)로 예시한다. 핵심 연결 근거: ① (B)의 'The analogy' → 지시어(주어진 문장의 비유 직접 지칭) ② (A)의 'these structural necessities' → 지시어((B)의 물리적 제약 지칭) ③ (A)의 'Nevertheless' → 양보 역접 담화 표지 ④ (C)의 'for example' → 예시 담화 표지((A) 주장 예시)"
+      }
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Psychologists have long recognized that human decision-making is influenced not only by the objective value of an outcome but also by how that outcome is presented.\n\n(A) For example, people tend to choose a medical treatment described as having a \"90 percent survival rate\" over one described as having a \"10 percent mortality rate,\" even though the two descriptions are mathematically identical. The emotional impact of the word \"mortality\" triggers a stronger aversion response than the neutral word \"survival.\"\n\n(B) These findings have profound implications for fields ranging from public health communication to marketing. By understanding how framing shapes choices, policymakers can present information in ways that guide people toward better decisions without restricting their freedom to choose.\n\n(C) This phenomenon, known as the framing effect, demonstrates that the way choices are worded or framed can dramatically alter people's preferences. Positive framing tends to make options seem more attractive, while negative framing highlights potential losses and activates risk-averse behavior.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "정답 순서: (C)-(A)-(B). 연결 근거 — ① (C)의 'This phenomenon(이 현상)'은 주어진 문장에서 묘사된 현상을 지칭하는 지시어이며 동시에 'framing effect(프레이밍 효과)'라는 이름을 처음으로 부여합니다. ② (A)는 'For example(예를 들어)'로 (C)에서 정의한 긍정적·부정적 프레이밍 개념을 생존율/사망률 사례로 구체화합니다. ③ (B)는 'These findings(이러한 발견들)'로 (C)와 (A) 전체를 포괄해 지칭하고 실용적 함의를 도출하는 결론 역할을 합니다.",
+        "wrong": {
+          "1": "(A)-(C)-(B): (A)의 'For example'은 정의된 개념((C)의 framing effect)을 예시해야 합니다. (C) 없이 (A)가 먼저 오면 예시할 일반 주장이 없습니다.",
+          "2": "(B)-(A)-(C): (B)의 'These findings'는 (C)와 (A) 모두의 내용을 전제해야 하므로 첫 번째에 올 수 없습니다.",
+          "3": "(B)-(C)-(A): (B)가 첫 번째가 되면 지칭할 'findings'가 아직 제시되지 않은 상태입니다.",
+          "5": "(C)-(B)-(A): (B)의 'These findings'가 (A)의 구체적 사례보다 먼저 나오면 발견 내용이 충분히 제시되기 전에 결론이 도출되는 역순이 됩니다."
+        },
+        "key_point": "지시어 'This phenomenon'은 주어진 문장의 현상을 지칭하므로 (C)가 첫 번째, 예시 표지 'For example'이 있는 (A)가 두 번째, 총괄 지시어 'These findings'가 있는 (B)가 마지막입니다."
+      },
+      "self_check": {
+        "correct_order": "(C)-(A)-(B)",
+        "reasoning": "Opening states that presentation affects decision-making. (C) follows by naming 'This phenomenon' (referring to what the opening described) as the 'framing effect' and explaining positive vs. negative framing. (A) then provides a specific example ('For example') of the framing effect with the survival/mortality rate case, illustrating negative framing's aversion effect. (B) concludes with 'These findings,' which refers to the phenomenon described in (C) and exemplified in (A), and discusses practical implications for public health and marketing.",
+        "discourse_markers": ["This phenomenon (C - demonstrative referring to opening)", "Positive framing / negative framing (C - defines key terms)", "For example (A - exemplifies C's claims)", "These findings (B - summarizes C+A and draws implications)"],
+        "pronoun_chain": "'decision-making' (opening) → 'This phenomenon' (C) → 'people's preferences' (C) → 'people' (A) → 'the two descriptions' (A) → 'These findings' (B) → 'policymakers' (B)",
+        "distractor_elimination": "A cannot come first because 'For example' requires a general claim to exemplify. B cannot come first because 'These findings' requires prior research findings. Only C can follow the opening by naming and defining the phenomenon introduced.",
+        "explanation_ko": "주어진 문장은 결과가 제시되는 방식이 의사 결정에 영향을 미친다고 설명한다. (C)는 'This phenomenon(이 현상)'으로 시작하는데, 이는 주어진 문장에서 묘사된 현상을 지칭하는 지시어이며 동시에 'framing effect(프레이밍 효과)'라는 이름을 처음으로 부여한다. (A)는 'For example(예를 들어)'로 (C)에서 정의한 긍정적·부정적 프레이밍 개념을 생존율/사망률 사례로 구체화하는 예시 담화 표지이다. (B)는 'These findings(이러한 발견들)'로 (C)와 (A) 전체를 포괄하여 지칭하고, 실용적 함의를 도출하는 결론 역할을 한다. 핵심 연결 근거: ① (C)의 'This phenomenon' → 지시어(주어진 문장의 현상 지칭 및 명명) ② (A)의 'For example' → 예시 담화 표지((C) 내용 예시) ③ (B)의 'These findings' → 지시어((C)+(A) 전체 요약)"
+      }
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Ecologists have observed that biodiversity tends to be highest in regions where environmental conditions are neither too harsh nor too stable.\n\n(A) These periodic upheavals prevent any single species from monopolizing resources, thereby allowing a wider variety of organisms to coexist. If disturbances are too frequent or too severe, however, only the hardiest species survive, and diversity drops once again.\n\n(B) This idea, known as the intermediate disturbance hypothesis, suggests that moderate levels of environmental disruption actually promote species richness. In perfectly stable environments, a few highly competitive species tend to dominate and exclude weaker competitors over time.\n\n(C) In contrast, environments that experience occasional disturbances — such as storms, fires, or floods — are periodically \"reset,\" clearing space and resources that would otherwise be monopolized by dominant species.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "정답 순서: (B)-(C)-(A). 연결 근거 — ① (B)의 'This idea(이 생각)'는 주어진 문장의 관찰 내용을 지칭하는 지시어이며 '중간 교란 가설'이라는 명칭을 부여하고, 안정적 환경에서 소수 종이 지배한다는 설명으로 끝납니다. ② (C)는 'In contrast(반대로)'라는 대조 담화 표지로 (B)의 안정적 환경 시나리오와 대비하여 교란이 있는 환경을 묘사합니다. ③ (A)는 'These periodic upheavals(이러한 주기적 격변들)'로 (C)에서 언급된 폭풍·화재·홍수를 지칭하는 지시어로 시작하고, 'however'로 과도한 교란에 대한 단서를 추가합니다.",
+        "wrong": {
+          "1": "(A)-(C)-(B): (A)의 'These periodic upheavals'는 (C)에서 언급된 교란 사례들을 지칭하므로 (C) 없이 첫 번째에 올 수 없습니다.",
+          "2": "(B)-(A)-(C): (A)의 'These periodic upheavals'가 지칭하는 교란 사례((C)의 storms, fires, floods)가 (A) 앞에 제시되어야 합니다. (C) 없이 (A)가 바로 오면 지시 대상이 없습니다.",
+          "4": "(C)-(A)-(B): (C)의 'In contrast'는 (B)에서 설명된 안정적 환경 시나리오와 대조해야 합니다. (B) 없이 (C)가 먼저 오면 대조 대상이 없습니다.",
+          "5": "(C)-(B)-(A): (C)의 대조 표지 'In contrast'가 (B)의 안정적 환경 설명 없이 사용될 수 없어 흐름이 어색합니다."
+        },
+        "key_point": "지시어 'This idea'는 주어진 문장을 지칭하므로 (B)가 첫 번째, 대조 표지 'In contrast'가 있는 (C)가 두 번째((B)의 안정적 환경과 대조), 지시어 'These periodic upheavals'가 있는 (A)가 마지막((C)의 교란 사례 지칭)입니다."
+      },
+      "self_check": {
+        "correct_order": "(B)-(C)-(A)",
+        "reasoning": "Opening states biodiversity is highest where conditions are neither too harsh nor too stable. (B) follows by naming 'This idea' as the 'intermediate disturbance hypothesis' and explaining what happens in stable environments (few species dominate). (C) begins with 'In contrast' — contrasting with the stable environments described at the end of (B) — and describes what happens with occasional disturbances. (A) opens with 'These periodic upheavals,' referring to the storms, fires, and floods mentioned in (C), explains why they promote diversity, then closes the argument with the caveat about excessive disturbance.",
+        "discourse_markers": ["This idea (B - demonstrative referring to opening)", "In contrast (C - contrasts with B's stable environments)", "These periodic upheavals (A - demonstrative referring to C's disturbances)", "however (A - introduces caveat about excessive disturbance)"],
+        "pronoun_chain": "'biodiversity' (opening) → 'This idea' (B) → 'species richness' (B) → 'a few highly competitive species' (B) → 'environments that experience occasional disturbances' (C) → 'dominant species' (C) → 'These periodic upheavals' (A) → 'any single species' (A)",
+        "distractor_elimination": "A cannot come first because 'These periodic upheavals' requires prior mention of disturbances. C cannot come first because 'In contrast' requires a prior scenario to contrast with (B's stable environments). Only B can follow the opening by naming and defining the hypothesis.",
+        "explanation_ko": "주어진 문장은 생물 다양성이 환경 조건이 너무 가혹하지도 안정적이지도 않을 때 가장 높다고 설명한다. (B)는 'This idea(이 생각)'로 주어진 문장의 내용을 지칭하는 지시어를 사용하여 '중간 교란 가설'이라고 명명하고, 안정적 환경에서는 소수 종이 지배한다고 설명한다. (C)는 'In contrast(반대로)'라는 대조 담화 표지로 (B)의 안정적 환경 시나리오와 대비하여 교란이 있는 환경을 묘사한다. (A)는 'These periodic upheavals(이러한 주기적 격변들)'로 (C)에서 언급된 폭풍·화재·홍수를 지칭하는 지시어로 시작하고, 'however(그러나)'로 과도한 교란에 대한 단서를 추가한다. 핵심 연결 근거: ① (B)의 'This idea' → 지시어(주어진 문장의 관찰 지칭 및 명명) ② (C)의 'In contrast' → 대조 담화 표지((B)의 안정적 환경과 대조 필수) ③ (A)의 'These periodic upheavals' → 지시어((C)의 교란 사례 지칭)"
+      }
+    }
+  ]
+}

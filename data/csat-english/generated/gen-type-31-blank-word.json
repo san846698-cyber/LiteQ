@@ -1,0 +1,145 @@
+{
+  "type": "빈칸 추론 (단어/구)",
+  "typeNumber": 31,
+  "analysis": {
+    "totalSampled": 36,
+    "passageLength": "150-250 words, academic/expository prose",
+    "blankPosition": "Typically near the end of the passage (final 1-3 sentences), occasionally mid-passage at a logical pivot point",
+    "blankContent": "The blank captures the passage's core thesis, a key concept, or a logical conclusion that the entire argument builds toward",
+    "argumentStructure": "Passages build a sustained argument through examples, contrasts, or analogies, then converge on the blank as the capstone idea",
+    "choiceDesign": {
+      "format": "Single words or short phrases (1-5 words), all grammatically parallel",
+      "distractorStrategy": "Distractors are semantically related to the passage topic but miss the specific logical thread; they often reflect surface-level associations or partial truths",
+      "correctAnswer": "The correct choice precisely captures the logical entailment of the full argument, not just one sentence"
+    },
+    "topicDomains": "Psychology, philosophy, biology, sociology, technology, education, art — always grounded in a clear argumentative claim",
+    "difficultyMechanisms": "Requires synthesizing the whole passage's logic, not just local sentence comprehension; distractors exploit common misconceptions or partial readings"
+  },
+  "generated": [
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "Many people assume that the best way to learn a new skill is through repetitive practice of the same task. However, research in cognitive science suggests that this approach, known as blocked practice, may actually produce less durable learning than a technique called interleaving. In interleaving, learners alternate between different types of problems or skills during a single practice session. Although this method feels more difficult and learners often believe they are performing worse, studies consistently show that interleaved practice leads to superior long-term retention and transfer. The reason lies in the fact that interleaving forces the brain to continually retrieve different strategies and discriminate between problem types, strengthening the neural pathways involved in decision-making. Blocked practice, by contrast, allows learners to fall into a rhythm that requires minimal cognitive effort. The paradox, then, is that the very ______________ of interleaved practice is what makes it so effective as a learning strategy.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["simplicity", "popularity", "difficulty", "predictability", "familiarity"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "정답: ③ difficulty\n빈칸 바로 앞에 'The paradox, then, is that the very ___'라는 구조가 나옵니다. 지문 전체가 '인터리빙이 더 어렵게 느껴지지만(feels more difficult) 오히려 장기 기억과 전이에 더 효과적'이라는 역설을 설명하고 있습니다. 인터리빙은 뇌가 끊임없이 다른 전략을 인출하고 문제 유형을 구별하도록 강제하여 인지적 노력이 많이 들지만, 바로 그 '어려움(difficulty)'이 학습 효과를 높이는 핵심 원인입니다. 따라서 빈칸에는 역설의 핵심인 'difficulty'가 들어가야 합니다.",
+        "wrong": {
+          "1": "① simplicity — 지문은 인터리빙이 더 어렵다고 명시하므로 '단순함'은 지문 내용과 정면으로 모순됩니다.",
+          "2": "② popularity — 인터리빙의 인기에 대한 언급은 지문 어디에도 없으며, 역설 구조와도 무관합니다.",
+          "4": "④ predictability — 인터리빙은 다양한 유형을 번갈아 연습하므로 '예측 가능성'과는 반대 성격입니다. 오히려 블록 연습이 예측 가능한 리듬에 빠지게 한다고 설명합니다.",
+          "5": "⑤ familiarity — 인터리빙은 익숙하지 않은 방식으로 학습하는 것이므로 '친숙함'은 인터리빙의 특성과 반대입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'paradox(역설)' 같은 논리 신호어가 나오면, 빈칸에는 부정적으로 보이지만 긍정적 결과를 낳는 요소가 들어갑니다. 지문에서 반복적으로 강조된 '어렵게 느껴진다'는 표현이 빈칸의 단서입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage establishes that interleaving feels harder but produces better results; the blank must capture the quality that feels negative yet drives effectiveness — 'difficulty' is the only choice that fits this paradox.",
+        "distractor_validity": "simplicity (contradicts the passage), popularity (not discussed), predictability (opposite of interleaving's nature), familiarity (opposite of what interleaving provides) — all plausible topic words but logically excluded.",
+        "answer_uniqueness": "Only 'difficulty' aligns with 'feels more difficult,' 'requires continual retrieval,' and the paradox structure.",
+        "passage_word_count": 168
+      }
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "Urban planners have long debated the ideal structure of cities. One influential idea is that cities should be designed around a clear separation of functions — residential zones here, commercial districts there, industrial areas elsewhere. This zoning approach, championed by modernist planners in the mid-twentieth century, promised order and efficiency. Yet the most vibrant and economically resilient neighborhoods tend to be those that reject this neat division. Jane Jacobs, the urbanist writer, argued that mixing different uses within the same area — shops below apartments, offices beside parks — generates the constant foot traffic and casual surveillance that keep streets safe and businesses thriving. When a neighborhood serves only one function, it becomes deserted at certain hours, losing the human presence that sustains community life. In other words, urban vitality depends not on the ______________ of functions but on their overlap and interaction.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["expansion", "separation", "regulation", "evaluation", "coordination"],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "정답: ② separation\n빈칸이 포함된 마지막 문장의 구조는 'not on the ___ of functions but on their overlap and interaction'입니다. 'not A but B' 대조 구문에서 B가 'overlap and interaction(중첩과 상호작용)'이므로, A에는 이와 반대되는 개념이 와야 합니다. 지문 초반에 도시를 기능별로 '분리(separation of functions)'하는 용도지역제를 소개한 뒤, Jane Jacobs의 주장을 통해 다양한 용도를 혼합하는 것이 도시 활력의 핵심이라고 논증합니다. 따라서 빈칸에는 지문의 중심 대조축인 'separation'이 들어갑니다.",
+        "wrong": {
+          "1": "① expansion — '확장'은 지문에서 논의되는 대조(분리 vs. 혼합)와 무관한 개념입니다.",
+          "3": "③ regulation — '규제'는 도시 계획과 관련될 수 있으나, 'overlap and interaction'과 대비되는 개념이 아닙니다.",
+          "4": "④ evaluation — '평가'는 지문의 논점과 전혀 관계가 없습니다.",
+          "5": "⑤ coordination — '조정/협력'은 오히려 긍정적 의미로, 'but on their overlap'과 대조가 되지 않습니다. 조정은 혼합과 유사한 방향이므로 빈칸의 반대 위치에 올 수 없습니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'not A but B' 구문이 나오면 A와 B는 반드시 대조 관계입니다. B가 주어져 있으면 그 반대 개념을 지문에서 찾아 A에 넣으세요. 이 지문에서는 'overlap/interaction'의 반대인 'separation'이 핵심 대조어입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage contrasts 'separation of functions' (zoning) with 'mixing different uses' (overlap/interaction). The blank completes a restatement of the thesis: vitality depends not on X but on overlap — X must be 'separation.'",
+        "distractor_validity": "expansion (not the issue debated), regulation (tangentially related but not the contrast), evaluation (irrelevant), coordination (too positive — contradicts 'but on their overlap').",
+        "answer_uniqueness": "Only 'separation' directly opposes 'overlap and interaction' and echoes the passage's central contrast.",
+        "passage_word_count": 175
+      }
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "When we encounter someone who holds a belief we find irrational, our first instinct is often to present them with facts and logical arguments. We assume that if people only had the right information, they would naturally change their minds. This assumption, sometimes called the information deficit model, has been repeatedly challenged by psychological research. Studies show that when people are confronted with evidence that contradicts their deeply held beliefs, they frequently become more entrenched in those beliefs rather than abandoning them. This puzzling reaction occurs because belief systems are not merely collections of facts but are intertwined with personal identity, social belonging, and emotional investment. Attacking a person's belief with data can feel like an attack on who they are. Consequently, persuasion that aims solely at correcting factual errors often ______________, reinforcing the very convictions it seeks to overturn.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["backfires", "succeeds", "clarifies", "compromises", "disappears"],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "정답: ① backfires\n빈칸 뒤에 'reinforcing the very convictions it seeks to overturn(뒤집으려는 바로 그 신념을 강화하면서)'이라는 결과절이 있습니다. 이는 설득이 의도한 것과 정반대의 결과를 낳았다는 뜻입니다. 지문은 '정보 결핍 모델(information deficit model)'을 소개한 뒤, 사실로 신념을 공격하면 사람들이 오히려 더 견고하게 기존 신념에 매달린다(become more entrenched)는 연구 결과를 제시합니다. 'backfire'는 '역효과를 내다'라는 뜻으로, 의도와 반대 결과가 나오는 상황을 정확히 표현합니다.",
+        "wrong": {
+          "2": "② succeeds — '성공한다'는 지문의 핵심 주장(사실 기반 설득이 실패한다)과 정면으로 모순됩니다.",
+          "3": "③ clarifies — '명확히 한다'는 신념 강화/역효과와 무관합니다. 지문은 설득이 상황을 명확하게 만든다고 말하지 않습니다.",
+          "4": "④ compromises — '타협하다/손상시키다'는 협상이나 약화를 암시하지만, 지문은 신념이 약해지는 것이 아니라 오히려 강화된다고 합니다.",
+          "5": "⑤ disappears — '사라진다'는 설득 시도의 결과를 설명하지 못합니다. 설득이 사라지는 것이 아니라 역효과를 낸다는 것이 핵심입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸 뒤의 분사구문이나 부연 설명은 빈칸의 의미를 직접적으로 정의해줍니다. 여기서 'reinforcing the very convictions it seeks to overturn'이 빈칸 단어의 뜻을 풀어 설명하는 역할을 합니다. 이런 동격/부연 구조를 놓치지 마세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage describes how fact-based persuasion produces the opposite of its intended effect — people become more entrenched. The blank must capture this reversal. 'Backfires' means producing the opposite result, matching 'reinforcing the very convictions it seeks to overturn.'",
+        "distractor_validity": "succeeds (direct opposite of the argument), clarifies (not supported — the issue is belief entrenchment), compromises (implies negotiation, not reversal), disappears (doesn't describe the outcome of failed persuasion).",
+        "answer_uniqueness": "'Backfires' is the only word meaning 'produces the opposite of the intended result.' The term no longer appears elsewhere in the passage, requiring genuine inference.",
+        "passage_word_count": 165
+      }
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "In traditional economic theory, scarcity drives value. The rarer a resource, the more people are willing to pay for it. However, in the digital economy, a curious reversal has taken place. Consider a social media platform: the more users it has, the more valuable it becomes to each individual user, because there are more people to connect with, more content to consume, and more reasons to stay. This is known as a network effect — the value of the product increases as the number of its users grows. Unlike a barrel of oil, which can be consumed only once, a digital network becomes richer with every additional participant. In this environment, companies often give away their product for free precisely because ______________ is a more powerful source of value than exclusivity. The traditional logic of scarcity gives way to an economy where the most widely shared goods become the most valuable ones.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["affordability", "innovation", "abundance", "simplicity", "reliability"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "정답: ③ abundance\n빈칸은 '___ is a more powerful source of value than exclusivity'라는 구문에 있습니다. 'exclusivity(배타성/희소성)'보다 더 강력한 가치의 원천이 무엇인지를 묻고 있습니다. 지문은 전통 경제학의 '희소성 → 가치' 논리를 소개한 뒤, 디지털 경제에서는 네트워크 효과에 의해 사용자가 많을수록 가치가 증가한다는 역전 현상을 설명합니다. 마지막 문장에서 '가장 널리 공유된 재화가 가장 가치 있다(most widely shared goods become the most valuable)'고 결론짓습니다. 'abundance(풍부함)'는 exclusivity의 정확한 반대 개념이며, 네트워크 효과의 핵심 논리를 담고 있습니다.",
+        "wrong": {
+          "1": "① affordability — '저렴함'은 가격에 관한 개념이지, 희소성 vs. 풍부함의 대조축이 아닙니다. 기업이 무료로 제품을 제공하는 이유는 싸서가 아니라 널리 퍼뜨리기 위해서입니다.",
+          "2": "② innovation — '혁신'은 디지털 경제와 관련될 수 있으나, exclusivity와의 대조 관계가 성립하지 않습니다.",
+          "4": "④ simplicity — '단순함'은 지문에서 논의되는 가치 창출 메커니즘과 무관합니다.",
+          "5": "⑤ reliability — '신뢰성'은 네트워크 효과나 희소성/풍부함 대조와 관련이 없습니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'more X than Y' 또는 'not X but Y' 같은 비교/대조 구문에서 한쪽이 주어지면, 빈칸에는 반드시 그 반대편 개념이 옵니다. 여기서 'exclusivity'가 주어졌으므로 그 반의어인 'abundance'를 지문의 논리 흐름(네트워크 효과 → 널리 공유될수록 가치 상승)에서 도출해야 합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage contrasts scarcity-driven value (traditional) with network-effect-driven value (digital), where more users = more value. The blank needs a word that opposes 'exclusivity' and captures the idea that widespread availability creates value. 'Abundance' fits.",
+        "distractor_validity": "affordability (about price, not quantity/spread), innovation (not the contrast being drawn), simplicity (unrelated axis), reliability (not discussed).",
+        "answer_uniqueness": "Only 'abundance' directly opposes 'exclusivity' and aligns with 'most widely shared goods become the most valuable.'",
+        "passage_word_count": 172
+      }
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "Historians often speak of great leaders as if they single-handedly shaped the course of events. We attribute the outcome of wars to generals, the rise of nations to monarchs, and scientific revolutions to lone geniuses. This narrative, sometimes called the Great Man theory of history, is deeply appealing because it simplifies the bewildering complexity of historical change into a comprehensible story with a clear protagonist. Yet when we examine the evidence more carefully, we find that these celebrated individuals were embedded in dense networks of collaborators, advisors, and ordinary workers whose contributions were essential but went unrecorded. Einstein relied on conversations with fellow physicists; Napoleon depended on the logistical expertise of his officers. The achievements we attribute to individuals were in reality ______________ efforts, and our tendency to credit a single person reflects not the truth of how progress happens but rather our psychological preference for simple, heroic narratives.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["competitive", "spontaneous", "collective", "independent", "theoretical"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "정답: ③ collective\n빈칸은 'The achievements we attribute to individuals were in reality ___ efforts'에 있습니다. 지문은 '위인 이론(Great Man theory)'을 소개한 뒤, 실제로는 유명 인물들이 '협력자, 조언자, 일반 노동자들의 밀접한 네트워크(dense networks of collaborators, advisors, and ordinary workers)' 속에 있었다고 반박합니다. 아인슈타인은 동료 물리학자들과의 대화에, 나폴레옹은 장교들의 병참 전문성에 의존했습니다. 따라서 개인에게 귀속시키는 업적들은 실제로는 '집단적(collective)' 노력이었다는 것이 지문의 결론입니다.",
+        "wrong": {
+          "1": "① competitive — '경쟁적'은 협력자들 간의 관계를 경쟁으로 보는 것인데, 지문은 경쟁이 아닌 협력을 강조합니다.",
+          "2": "② spontaneous — '자발적/즉흥적'은 노력의 시간적 성격에 관한 것으로, 개인 vs. 집단의 대조와 무관합니다.",
+          "4": "④ independent — '독립적'은 지문의 주장과 정반대입니다. 지문은 업적이 독립적이 아니라 상호의존적이었다고 주장합니다.",
+          "5": "⑤ theoretical — '이론적'은 개인/집단 대조와 전혀 관련이 없는 개념입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'in reality(실제로는)'와 같은 전환 표현은 앞에서 제시한 통념의 반대 내용이 온다는 신호입니다. 앞에서 '개인의 업적'이라는 통념을 세웠으므로, 빈칸에는 그 반대인 '집단적(collective)'이 와야 합니다. 지문의 구체적 사례(아인슈타인, 나폴레옹)가 이를 뒷받침합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues against the Great Man theory by showing that achievements attributed to individuals actually depended on networks of collaborators. The blank must express that these were group/shared efforts. 'Collective' is the precise fit.",
+        "distractor_validity": "competitive (implies rivalry, not collaboration), spontaneous (about timing, not attribution), independent (contradicts the argument), theoretical (unrelated to the individual-vs-group contrast).",
+        "answer_uniqueness": "Only 'collective' captures the idea of 'dense networks of collaborators' whose contributions were essential, contrasting with the false attribution to individuals.",
+        "passage_word_count": 177
+      }
+    }
+  ]
+}

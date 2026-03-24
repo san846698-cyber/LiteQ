@@ -1,0 +1,820 @@
+{
+  "type": "주장",
+  "typeNumber": 20,
+  "version": "v2",
+  "generatedCount": 25,
+  "difficultyDistribution": {
+    "easy": 8,
+    "standard": 12,
+    "challenging": 5
+  },
+  "answerPositionDistribution": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5
+  },
+  "questions": [
+    {
+      "id": "v2-20-01",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "easy",
+      "passage": "Many people believe that the best way to become a skilled public speaker is to memorise a speech word for word. They assume that knowing exactly what to say will eliminate the anxiety of forgetting. However, this approach often backfires. When speakers focus too heavily on recalling each exact word, they lose connection with their audience and sound robotic. Research in communication studies suggests that audiences respond far more positively to speakers who are present, flexible, and genuinely engaged than to those who deliver a perfectly memorised script. The most effective public speakers do not memorise every word; instead, they internalise the structure and key messages of their speech. They then allow the words to flow naturally in the moment, adjusting their language to the audience's reactions. Rather than trying to reproduce a rehearsed performance, speakers should concentrate on thoroughly understanding what they want to communicate and trust themselves to express it authentically.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "연설문을 달달 외우는 대신 내용을 완전히 이해한 뒤 자연스럽게 표현해야 한다.",
+        "공개 연설 전 불안감을 줄이기 위해 충분한 심리 훈련을 받아야 한다.",
+        "청중의 반응에 맞춰 연설 내용을 즉흥적으로 창작하는 능력을 길러야 한다.",
+        "효과적인 연설을 위해 발표 자료의 시각적 구성을 철저히 준비해야 한다.",
+        "커뮤니케이션 기술 향상을 위해 다양한 청중 앞에서 자주 연습해야 한다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'speakers should concentrate on thoroughly understanding what they want to communicate and trust themselves to express it authentically.' — 암기 대신 내용 이해 후 자연스러운 표현을 주장함.",
+        "wrong": {
+          "2": "② 불안 해소를 위한 심리 훈련을 주장하는 내용은 지문에 없으며, 이는 필자가 비판하는 암기 접근법과 다른 해결책임.",
+          "3": "③ '즉흥적 창작'은 지문이 말하는 '구조와 핵심 메시지를 내재화한 후 자연스럽게 표현'과 다름. 지문은 즉흥 창작이 아닌 이해 기반 표현을 권장함.",
+          "4": "④ 시각 자료 준비는 지문에 전혀 언급되지 않음.",
+          "5": "⑤ 다양한 청중 앞에서 연습하라는 내용은 지문에 없음."
+        },
+        "key_point": "필자의 핵심은 '암기(memorise) 대신 이해(understanding) 후 자연스러운 표현(authentically)'임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues against word-for-word memorisation and instead advocates internalising structure and key messages, then expressing them naturally. Choice 1 captures this exactly.",
+        "distractor_analysis": "Choice 2 focuses on psychological training to reduce anxiety — a related but different solution not advocated. Choice 3 distorts by suggesting improvised creation rather than internalised delivery. Choice 4 introduces visual materials, never mentioned. Choice 5 suggests frequent practice before diverse audiences, not the main argument.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-02",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "easy",
+      "passage": "It is widely assumed that reading more news keeps citizens better informed and therefore more capable of making sound decisions. However, researchers who study information consumption have found a troubling pattern: exposure to a high volume of news, particularly negative or alarming content, tends to increase anxiety and feelings of helplessness rather than empowerment. When people are flooded with crises and problems they cannot personally resolve, they frequently experience what psychologists call compassion fatigue, retreating into passivity rather than action. The antidote is not ignorance but selectivity. Rather than consuming news continuously throughout the day, people should be deliberate about when, what, and how much news they take in. Setting defined times for checking reliable sources and actively limiting the total intake allows individuals to stay genuinely informed without being overwhelmed. Curated, purposeful news consumption is more likely to produce engaged, capable citizens than indiscriminate, excessive consumption.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "뉴스 매체는 부정적 보도 비율을 낮추고 해결책 중심 기사를 늘려야 한다.",
+        "뉴스를 선별적으로 소비하여 정보는 유지하되 과부하를 피해야 한다.",
+        "신뢰할 수 있는 출처를 검증하기 위해 미디어 리터러시 교육을 강화해야 한다.",
+        "시민들은 공동체 문제 해결에 직접 참여하는 방식으로 무력감을 극복해야 한다.",
+        "뉴스 소비 습관을 파악하기 위해 자신의 미디어 이용 패턴을 정기적으로 점검해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'people should be deliberate about when, what, and how much news they take in' / 'Curated, purposeful news consumption is more likely to produce engaged, capable citizens than indiscriminate, excessive consumption.' — 선별적·의식적 뉴스 소비를 주장함.",
+        "wrong": {
+          "1": "① 책임을 뉴스 매체에 돌려 콘텐츠를 바꾸라고 하는 것은 지문의 주장과 다름. 필자는 소비자의 선별적 소비를 주장함.",
+          "3": "③ 미디어 리터러시 교육 강화는 지문에 언급되지 않으며, 신뢰할 수 있는 출처 확인은 수단으로 잠깐 언급될 뿐임.",
+          "4": "④ 공동체 참여로 무력감을 극복하라는 내용은 지문에 없음.",
+          "5": "⑤ 자신의 미디어 이용 패턴을 점검하라는 내용은 지문에 없으며, '선별적으로 소비하라'는 주장과 다른 방향임."
+        },
+        "key_point": "필자의 해결책은 '뉴스 무지(ignorance)'가 아닌 '선별성(selectivity)'임 — 'The antidote is not ignorance but selectivity.'"
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage recommends deliberate and selective news consumption — setting defined times and limiting total intake — rather than indiscriminate consumption. Choice 2 captures this: consume news selectively, maintaining information while avoiding overload.",
+        "distractor_analysis": "Choice 1 places responsibility on media outlets to change content. Choice 3 shifts focus to media literacy education. Choice 4 addresses overcoming helplessness through direct community participation. Choice 5 is about periodically monitoring personal media habits for self-awareness, not the prescriptive selectivity the passage advocates.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-03",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "easy",
+      "passage": "Modern workplaces are often designed for maximum efficiency, with open-plan offices and constant connectivity ensuring that employees are always reachable. While this may seem productive, it has a significant downside: employees rarely have time for genuine creative thinking. Creativity does not emerge on demand during scheduled brainstorming sessions; it arises during moments of mental rest, when the brain's default mode network processes information below the level of conscious attention. Studies show that people generate more original ideas after periods of deliberate disengagement from work — a walk, a quiet lunch, or simply staring out of the window. Organisations that care about innovation should therefore not merely tolerate but actively encourage their employees to take regular breaks away from screens and tasks. These moments of apparent inactivity are not wasted time; they are the conditions under which the most creative thinking occurs.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "개방형 사무실 구조를 바꿔 직원들이 집중할 수 있는 독립 공간을 확보해야 한다.",
+        "창의적 사고를 위해 브레인스토밍 세션을 더 자주, 체계적으로 운영해야 한다.",
+        "조직은 직원들이 창의성 발현을 위해 정기적으로 휴식을 취하도록 적극 장려해야 한다.",
+        "혁신을 촉진하려면 직원들에게 자율적으로 프로젝트를 선택할 권한을 부여해야 한다.",
+        "업무 생산성 향상을 위해 디지털 기기 사용 시간을 체계적으로 관리해야 한다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Organisations that care about innovation should therefore not merely tolerate but actively encourage their employees to take regular breaks away from screens and tasks.' — 조직이 정기 휴식을 적극 장려해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 사무실 구조 변경은 지문에 언급되지 않으며, 개방형 사무실 문제는 배경으로만 제시됨.",
+          "2": "② 지문은 'creativity does not emerge... during scheduled brainstorming sessions'라며 브레인스토밍 세션 강화를 직접 반박함.",
+          "4": "④ 프로젝트 선택 자율권은 지문에 언급되지 않음.",
+          "5": "⑤ 디지털 기기 사용 시간 관리는 지문의 생산성 향상이 아닌 창의성을 위한 휴식과 다른 맥락임."
+        },
+        "key_point": "지문이 'scheduled brainstorming sessions'을 명시적으로 부정하므로 ②가 오답임을 확인할 수 있음."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that organisations should actively encourage employees to take regular breaks because that is when creative thinking actually occurs. Choice 3 directly captures this.",
+        "distractor_analysis": "Choice 1 focuses on restructuring office design for concentration. Choice 2 contradicts the passage by suggesting more scheduled brainstorming sessions. Choice 4 introduces autonomous project selection, unmentioned. Choice 5 frames the issue as managing digital device time for productivity.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-04",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "easy",
+      "passage": "In competitive sports, coaches and athletes spend enormous effort perfecting physical technique and strategy. Yet sports psychologists argue that one of the most underinvested areas in athletic development is mental rehearsal — the practice of vividly imagining oneself executing skills successfully before actually performing them. Brain imaging studies reveal that when athletes mentally rehearse a movement, the same neural pathways activate as when they physically perform it. This means that mental rehearsal genuinely trains the nervous system, not just the mind. Elite performers in fields from gymnastics to golf consistently report using mental rehearsal as a core component of their preparation. Despite this evidence, many athletes and coaches still treat mental rehearsal as a secondary tool, pulling it out only before major competitions. It should instead be embedded in daily training routines alongside physical practice. Athletes who integrate mental rehearsal consistently will gain a measurable competitive advantage.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "스포츠 심리학자를 훈련 팀에 포함시켜 선수의 정신 건강을 지원해야 한다.",
+        "선수들이 경기 전 긴장을 효과적으로 해소할 수 있도록 루틴을 확립해야 한다.",
+        "코치는 신체 기술 훈련만큼 전략 분석에도 충분한 시간을 투자해야 한다.",
+        "정신적 리허설을 일상적 훈련에 통합하여 경기력을 향상시켜야 한다.",
+        "엘리트 선수들의 훈련 방식을 표준화하여 잠재력 있는 신진 선수를 체계적으로 육성해야 한다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'It should instead be embedded in daily training routines alongside physical practice.' / 'Athletes who integrate mental rehearsal consistently will gain a measurable competitive advantage.' — 정신적 리허설을 일상 훈련에 통합해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 스포츠 심리학자 채용은 지문에 언급되지 않으며, 정신 건강이 아닌 경기력 향상을 위한 정신 리허설을 다룸.",
+          "2": "② 경기 전 긴장 해소 루틴은 지문의 주제(일상 훈련에서의 정신 리허설)와 다름.",
+          "3": "③ 전략 분석 투자는 지문에 언급되지 않음.",
+          "5": "⑤ 훈련 방식 표준화 및 신진 선수 육성은 지문에 없는 내용임."
+        },
+        "key_point": "지문은 정신 리허설이 '주요 대회 전에만' 쓰이는 현실을 비판하고 '매일 훈련 루틴에 통합'할 것을 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage's central claim is that mental rehearsal should be embedded in daily training routines (not just used before major competitions) because it genuinely trains the nervous system. Choice 4 captures this: integrate mental rehearsal into daily training to improve performance.",
+        "distractor_analysis": "Choice 1 focuses on including sports psychologists for mental health. Choice 2 is about pre-competition routines to reduce nerves. Choice 3 advocates more time on strategy analysis. Choice 5 introduces standardisation of elite training for developing new talent.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-05",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "easy",
+      "passage": "Environmental education is taught in schools primarily as a science subject, focusing on ecosystems, climate data, and biodiversity statistics. This scientific grounding is valuable, but it alone rarely motivates students to change their behaviour or develop a lasting commitment to environmental stewardship. Research on environmental psychology suggests that what actually drives people to care for nature is not factual knowledge but emotional connection — a sense of personal relationship with the natural world built through direct experience. Children who regularly spend time outdoors in natural settings develop stronger environmental values and are more likely to become active environmental advocates as adults. Schools should therefore supplement classroom science with regular, structured opportunities for students to experience nature directly: field visits, outdoor learning activities, and time for unstructured exploration in natural spaces. Building emotional bonds with nature is the foundation that facts alone cannot provide.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "환경 문제의 심각성을 알리기 위해 과학적 통계와 데이터를 더 효과적으로 전달해야 한다.",
+        "학교 교육과정에서 환경 과학 수업의 비중을 늘려 학생들의 지식 기반을 강화해야 한다.",
+        "환경 정책 수립 시 청소년의 의견을 적극 반영하여 참여 의식을 높여야 한다.",
+        "기후 변화 대응을 위한 개인의 실천 방법을 구체적으로 교육해야 한다.",
+        "학생들이 자연을 직접 경험할 기회를 제공하여 환경에 대한 정서적 유대감을 형성해야 한다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Schools should therefore supplement classroom science with regular, structured opportunities for students to experience nature directly' / 'Building emotional bonds with nature is the foundation that facts alone cannot provide.' — 직접 경험을 통한 정서적 유대감 형성이 핵심 주장임.",
+        "wrong": {
+          "1": "① 과학적 통계와 데이터를 더 효과적으로 전달하라는 것은 지문이 'it alone rarely motivates'라며 비판하는 접근법임.",
+          "2": "② 환경 과학 수업 비중 증가는 지문이 비판하는 '지식 중심' 접근법을 강화하는 것이어서 틀림.",
+          "3": "③ 청소년의 정책 참여는 지문에 언급되지 않음.",
+          "4": "④ 기후 변화 대응 실천 교육은 지문의 주제(정서적 유대감)보다 구체적 행동 교육에 초점을 맞추어 다름."
+        },
+        "key_point": "지문은 '사실 지식(factual knowledge)'이 아닌 '직접 경험(direct experience)을 통한 정서적 연결'이 환경 보호 행동을 이끈다고 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that emotional connection to nature — built through direct experience — drives stewardship more effectively than factual knowledge, and schools should provide direct nature experiences. Choice 5 captures this.",
+        "distractor_analysis": "Choice 1 advocates better communication of scientific data, which the passage says is insufficient. Choice 2 calls for increasing science curriculum time, contradicting the passage's argument that science alone is not enough. Choice 3 focuses on youth participation in policy-making, unmentioned. Choice 4 narrows to teaching specific personal actions against climate change.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-06",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "easy",
+      "passage": "Many people think that the key to healthy eating is willpower — simply choosing salads over burgers through the force of determination. Nutritionists and behavioural scientists, however, point to a different factor: environment. What we eat is powerfully shaped by what food is visible, accessible, and convenient in our surroundings. Studies show that people eat more fruit when it is placed on the kitchen counter, and consume less unhealthy food when it is stored out of sight. Conversely, the mere presence of tempting foods on a desk or coffee table significantly increases consumption, regardless of an individual's stated intentions. Rather than relying on willpower, which is a limited and unreliable resource, people should focus on deliberately designing their food environment. By making healthy options the default choice — easy to see, easy to reach, and ready to eat — individuals can improve their diet with far less mental effort than willpower-based approaches demand.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "건강한 식사를 위해 의지력보다 식품 환경을 의식적으로 설계해야 한다.",
+        "올바른 식습관을 형성하기 위해 어릴 때부터 영양 교육을 시작해야 한다.",
+        "건강한 음식 선택을 위해 식품 성분표를 읽고 이해하는 습관을 길러야 한다.",
+        "가공식품 소비를 줄이기 위해 식품 업계의 마케팅 관행을 규제해야 한다.",
+        "체계적인 식단 계획을 세워 충동적인 음식 선택을 예방해야 한다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'people should focus on deliberately designing their food environment' / 'By making healthy options the default choice... individuals can improve their diet with far less mental effort.' — 의지력 대신 식품 환경을 설계하라는 것이 핵심 주장임.",
+        "wrong": {
+          "2": "② 영양 교육은 지문에 언급되지 않으며, 지문의 주제는 지식이 아닌 환경 설계임.",
+          "3": "③ 식품 성분표 읽기는 의지력 기반 접근법의 일종으로 지문이 비판하는 방향임.",
+          "4": "④ 식품 업계 마케팅 규제는 지문에 언급되지 않음.",
+          "5": "⑤ 식단 계획 세우기는 의지력 기반 접근법으로 지문이 'willpower-based approaches'를 비판하는 것과 상충함."
+        },
+        "key_point": "핵심은 '의지력(willpower)'을 믿지 말고 '환경(environment) 설계'에 집중하라는 것임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that rather than relying on willpower, people should deliberately design their food environment to make healthy choices the default. Choice 1 directly captures this.",
+        "distractor_analysis": "Choice 2 shifts to early nutrition education. Choice 3 advocates reading nutrition labels. Choice 4 calls for regulating food industry marketing. Choice 5 proposes systematic meal planning — a willpower-based strategy the passage rejects.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-07",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "easy",
+      "passage": "In an era when digital communication dominates, many organisations assume that internal memos, emails, and messaging apps are sufficient for keeping teams aligned. What these channels cannot provide, however, is the rich, spontaneous exchange of ideas that occurs in genuine face-to-face conversation. Body language, tone of voice, and the ability to ask immediate follow-up questions all contribute to a depth of understanding that text cannot replicate. Remote and hybrid work have made the default mode of communication asynchronous and written, meaning that subtle misunderstandings accumulate over time. Teams that exclusively rely on digital communication report higher rates of misalignment, lower creativity, and weaker interpersonal trust. While digital tools are indispensable for routine coordination, organisations must preserve regular in-person or real-time interactions — structured team meetings and informal gatherings alike — to maintain the quality of communication that complex collaborative work demands.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "디지털 소통 도구의 기능을 개선하여 비언어적 신호도 전달할 수 있게 해야 한다.",
+        "복잡한 협업을 위해 디지털 도구와 함께 정기적인 대면 소통을 유지해야 한다.",
+        "원격 근무의 생산성을 높이기 위해 비동기 커뮤니케이션 규칙을 명확히 정해야 한다.",
+        "팀의 신뢰를 구축하기 위해 업무 외 친목 활동에 투자를 늘려야 한다.",
+        "내부 소통 오류를 줄이기 위해 문서화 기준과 검토 절차를 강화해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'organisations must preserve regular in-person or real-time interactions... to maintain the quality of communication that complex collaborative work demands.' — 디지털 도구는 유지하되 정기적 대면 소통을 병행해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 디지털 도구의 기능 개선은 지문의 주장과 다름. 지문은 디지털 도구의 한계를 인정하며 대면 소통의 필요성을 주장함.",
+          "3": "③ 비동기 커뮤니케이션 규칙 수립은 지문이 비판하는 비동기 소통 방식을 더 강화하는 것임.",
+          "4": "④ 친목 활동 투자는 지문에서 'informal gatherings'로 일부 언급되나, 이것이 주된 주장은 아님.",
+          "5": "⑤ 문서화 기준 강화는 디지털·텍스트 기반 소통을 더 강화하는 방향으로 지문의 주장과 다름."
+        },
+        "key_point": "지문은 디지털 도구를 부정하지 않고('indispensable for routine coordination') 대면 소통을 '함께' 유지해야 한다고 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that while digital tools are indispensable for routine coordination, organisations must preserve regular in-person or real-time interactions for complex collaborative work. Choice 2 captures this.",
+        "distractor_analysis": "Choice 1 suggests improving digital tools to convey non-verbal cues — the passage accepts digital tools' limitations rather than advocating their improvement. Choice 3 focuses on defining asynchronous rules for remote productivity. Choice 4 advocates investing in social activities for trust-building, a narrower suggestion. Choice 5 proposes strengthening documentation standards.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-08",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "easy",
+      "passage": "A growing number of schools have introduced grading policies that allow students to resubmit assignments or retake tests until they achieve a satisfactory score. Critics argue that this approach lowers standards and fails to prepare students for a world where second chances are not always available. Proponents, however, point to a fundamental insight from learning science: the first attempt at a challenging task is rarely the point of mastery; it is the point of diagnosis. Identifying where understanding breaks down, then reengaging with the material to correct those gaps, is precisely how durable learning is built. Penalising students permanently for early struggles rewards speed over understanding and discourages the kind of persistence that genuine competence requires. Schools should adopt assessment policies that reflect the true nature of learning — an iterative process — by allowing students multiple opportunities to demonstrate mastery rather than capturing performance at a single moment.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "학습의 본질적 특성을 반영하여 학생들이 숙달을 증명할 기회를 여러 번 주어야 한다.",
+        "학생의 초기 실수에 대한 감점 기준을 명확히 하여 평가의 공정성을 높여야 한다.",
+        "재도전 기회를 허용하기 전에 학생이 충분히 노력했는지를 먼저 검토해야 한다.",
+        "학교는 실전과 유사한 환경을 조성하여 학생들이 첫 시도에서 최선을 다하도록 해야 한다.",
+        "교사는 재제출된 과제를 신속히 채점하여 학생에게 즉각적인 피드백을 줘야 한다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Schools should adopt assessment policies that reflect the true nature of learning — an iterative process — by allowing students multiple opportunities to demonstrate mastery rather than capturing performance at a single moment.' — 학습의 반복적 특성을 반영해 여러 번의 기회를 주어야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "2": "② 초기 실수에 대한 감점 기준 명확화는 지문이 'Penalising students permanently for early struggles'를 비판하는 것과 정반대임.",
+          "3": "③ 재도전 전 노력 검토는 지문에 없는 내용으로, 지문은 무조건적인 복수 기회 제공을 지지함.",
+          "4": "④ 첫 시도에서 최선을 다하도록 실전 환경 조성은 지문이 비판하는 '단일 시점 평가' 접근법임.",
+          "5": "⑤ 신속한 채점과 즉각 피드백은 지문의 주된 주장(복수 기회 부여)과 다른 세부 사항임."
+        },
+        "key_point": "지문의 핵심은 '학습은 반복적 과정(iterative process)'이므로 '단일 시점 평가'가 아닌 '복수의 숙달 증명 기회'를 주어야 한다는 것임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues learning is an iterative process and schools should allow multiple opportunities to demonstrate mastery rather than judging at a single moment. Choice 1 directly captures this central claim.",
+        "distractor_analysis": "Choice 2 focuses on making grading criteria clear for penalising early mistakes, contradicting the passage. Choice 3 introduces an effort-verification prerequisite not in the passage. Choice 4 argues for real-world simulation where students do their best on first attempts — the opposite approach. Choice 5 narrows to teacher grading speed for quick feedback, a logistical detail.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-09",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "The rise of algorithmic recommendation systems has transformed how people discover music, films, books, and news. These systems are extraordinarily good at predicting what a user will like based on past behaviour, serving up content that feels consistently satisfying. The problem is that a diet of perfectly predicted preferences narrows rather than expands the mind. When we only encounter what we already enjoy, we lose the productive discomfort of engaging with the unfamiliar — the slight friction that prompts us to reexamine our assumptions, develop new tastes, and discover dimensions of the world we did not know existed. Algorithmic efficiency is not the same as cultural or intellectual growth. Users of recommendation platforms should therefore consciously introduce randomness and variety into their consumption habits, deliberately seeking out content that falls outside their comfort zone. The capacity to be surprised and challenged by unfamiliar material is not an inconvenience to be engineered away; it is a precondition for genuine intellectual development.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "추천 알고리즘의 정확도를 높이기 위해 사용자 선호 데이터를 더 정교하게 수집해야 한다.",
+        "플랫폼 기업은 다양한 콘텐츠가 균등하게 노출되도록 알고리즘 편향을 수정해야 한다.",
+        "디지털 플랫폼 이용 시간을 제한하여 알고리즘이 미치는 영향력을 줄여야 한다.",
+        "지적 성장을 위해 자신의 취향 밖에 있는 콘텐츠를 의식적으로 찾아 소비해야 한다.",
+        "미디어 기업은 개인화 추천의 투명성을 높여 사용자가 알고리즘을 이해하도록 해야 한다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Users of recommendation platforms should therefore consciously introduce randomness and variety into their consumption habits, deliberately seeking out content that falls outside their comfort zone.' — 사용자 스스로 취향 밖 콘텐츠를 의식적으로 찾아야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 알고리즘 정확도 향상은 지문이 비판하는 '취향 예측의 정확성'을 더 강화하는 방향으로 주장과 반대임.",
+          "2": "② 플랫폼 기업의 알고리즘 편향 수정은 책임을 기업에 돌리는 것으로, 지문은 사용자의 의식적 행동을 주장함.",
+          "3": "③ 플랫폼 이용 시간 제한은 지문의 주장(다양한 콘텐츠 소비)과 다른 해결책임.",
+          "5": "⑤ 알고리즘 투명성 향상은 지문에 언급되지 않으며, 기업의 책임을 다루는 것으로 사용자의 의식적 선택과 다름."
+        },
+        "key_point": "필자는 책임을 기업(알고리즘)이 아닌 '사용자(users)'에게 두고, 스스로 취향 밖을 탐색하라고 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues users should consciously introduce variety and seek content outside their comfort zone for genuine intellectual development. Choice 4 (the 4th option) directly captures this: for intellectual growth, consciously seek and consume content outside one's taste preferences.",
+        "distractor_analysis": "Choice 1 advocates better data collection for algorithm accuracy — the opposite direction. Choice 2 places responsibility on platform companies to fix algorithmic bias. Choice 3 focuses on limiting time on digital platforms to reduce algorithmic influence, a different strategy. Choice 5 calls for media companies to increase personalisation transparency.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-10",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "Historians have long debated how best to present the past to the public. One recurring controversy involves the display of morally troubling objects — weapons used in atrocities, instruments of torture, artefacts looted from colonised peoples. Some argue that such objects should be removed from display to avoid glorifying or normalising violence and injustice. Others contend that removal is a form of erasure that prevents future generations from confronting the full reality of historical wrongdoing. The more defensible position is neither uncritical display nor suppression, but contextualised presentation. Museums have a responsibility to show difficult objects alongside rigorous historical interpretation — explaining what each object represents, who suffered because of it, and what social conditions made such suffering possible. This approach neither sanitises the past nor allows objects to speak in a vacuum, but uses them as catalysts for the critical reflection that genuine historical understanding requires.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "역사적 불의를 상기시키는 유물은 피해자 공동체의 동의 없이 전시해서는 안 된다.",
+        "역사 교육에서 과거의 부도덕한 사건을 정직하게 다루는 교육 방침을 마련해야 한다.",
+        "약탈 문화재는 원소유국에 반환하여 올바른 역사 인식을 회복해야 한다.",
+        "박물관은 도덕적으로 불편한 유물을 철저한 역사적 해설과 함께 전시해야 한다.",
+        "역사 기관은 불편한 진실을 공론화하여 사회적 치유와 화해를 도모해야 한다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Museums have a responsibility to show difficult objects alongside rigorous historical interpretation — explaining what each object represents, who suffered because of it, and what social conditions made such suffering possible.' — 박물관이 불편한 유물을 철저한 역사적 해설과 함께 전시해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 피해자 공동체의 동의는 지문에 언급되지 않음.",
+          "2": "② 학교 역사 교육 방침은 지문의 주제(박물관 전시)와 다른 맥락임.",
+          "3": "③ 약탈 문화재 반환은 지문에서 일부 사례로만 언급되며, 반환이 주된 주장은 아님.",
+          "5": "⑤ 사회적 치유와 화해는 지문의 목적(비판적 성찰을 위한 역사 이해)을 넘어선 것으로 지문에 명시되지 않음."
+        },
+        "key_point": "필자는 '철거도 무비판적 전시도 아닌(neither... nor)' 제3의 방안인 '맥락화된 전시(contextualised presentation)'를 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues museums should neither uncritically display nor suppress difficult objects, but present them with rigorous historical interpretation. Choice 4 directly captures this: museums should exhibit morally uncomfortable artefacts alongside thorough historical commentary.",
+        "distractor_analysis": "Choice 1 introduces victim community consent, not discussed. Choice 2 shifts context to school history education policy. Choice 3 focuses on returning looted artefacts, a different issue. Choice 5 frames the goal as social healing and reconciliation, going beyond the passage's argument about contextualised display.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-11",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "Sleep deprivation has become so normalised in many professional cultures that pulling all-nighters or surviving on five hours is worn as a badge of dedication. This cultural glorification of sleeplessness is, according to neuroscientists, profoundly self-defeating. During sleep, the brain consolidates memories, clears metabolic waste, repairs neural connections, and regulates the emotional circuits that govern decision-making and impulse control. When sleep is consistently cut short, all of these functions are compromised, and the cognitive deficits accumulate in ways that the sleep-deprived individual typically cannot accurately perceive. Research has repeatedly demonstrated that most people are far more impaired than they feel after consecutive nights of insufficient sleep. High performers who want to protect their cognitive ability, creativity, and emotional stability should therefore treat adequate sleep not as laziness but as a non-negotiable component of professional excellence.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "수면 부족을 헌신의 표시로 여기는 직장 문화를 바꾸기 위한 제도적 노력이 필요하다.",
+        "최적의 인지 기능을 위해 수면의 양보다 질을 높이는 방법을 찾아야 한다.",
+        "뇌의 기억 강화 및 정서 조절 기능을 위해 낮잠을 일과에 포함시켜야 한다.",
+        "감정 조절 능력 향상을 위해 명상 등 수면 외 회복 활동도 병행해야 한다.",
+        "우수한 성과를 내려면 충분한 수면을 전문적 탁월함의 필수 요소로 삼아야 한다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'High performers who want to protect their cognitive ability, creativity, and emotional stability should therefore treat adequate sleep not as laziness but as a non-negotiable component of professional excellence.' — 충분한 수면을 전문적 탁월함의 필수 요소로 여겨야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 제도적 노력으로 직장 문화를 바꾸라는 것은 더 광범위한 시스템 변화를 요구하는 것으로, 지문은 개인이 수면을 중시해야 한다고 주장함.",
+          "2": "② 수면의 양보다 질을 높이라는 내용은 지문에 없으며, 지문은 '충분한 수면(adequate sleep)'의 양을 강조함.",
+          "3": "③ 낮잠 포함은 지문에 언급되지 않음.",
+          "4": "④ 명상 등 수면 외 회복 활동은 지문에 없는 내용임."
+        },
+        "key_point": "필자는 수면을 '게으름'이 아닌 '전문적 탁월함의 필수 요소(non-negotiable component of professional excellence)'로 재정의할 것을 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues high performers should treat adequate sleep as a non-negotiable component of professional excellence. Choice 5 captures this directly.",
+        "distractor_analysis": "Choice 1 calls for institutional efforts to change workplace culture — a broader systemic recommendation. Choice 2 shifts focus from quantity to quality of sleep, a distinction the passage does not make. Choice 3 advocates including naps in daily routines, not suggested. Choice 4 introduces meditation and other non-sleep recovery activities.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-12",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "When companies face pressure to demonstrate corporate social responsibility, many respond by launching highly visible charity campaigns or issuing sustainability reports that describe ambitious environmental goals. These communications serve a genuine public relations function, but they can also function as a distraction from more substantive changes in how the company actually operates. An organisation can sponsor a tree-planting event and simultaneously maintain supply chains that generate significant deforestation. It can publish an equality statement while internal pay data reveals persistent gender gaps. Genuine corporate responsibility does not lie in the visibility of commitments but in measurable changes to core business operations. Companies should therefore shift their focus from communicative CSR — the art of appearing responsible — to operational CSR, embedding social and environmental standards directly into procurement, production, employment, and governance practices where the actual impact occurs.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "기업의 사회적 책임 활동의 효과를 높이기 위해 외부 검증 기관이 성과를 감사해야 한다.",
+        "소비자는 기업의 지속가능성 보고서를 비판적으로 검토하는 역량을 갖춰야 한다.",
+        "기업은 사회 공헌 활동을 국제 표준에 맞게 체계화하여 투명성을 높여야 한다.",
+        "정부는 기업의 CSR 이행 여부를 법적으로 강제하는 규정을 도입해야 한다.",
+        "기업은 홍보 중심의 CSR보다 핵심 사업 운영에 사회·환경 기준을 내재화해야 한다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Companies should therefore shift their focus from communicative CSR — the art of appearing responsible — to operational CSR, embedding social and environmental standards directly into procurement, production, employment, and governance practices.' — 홍보성 CSR이 아닌 운영 내재화 CSR로 전환해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 외부 검증 기관의 감사는 지문에 언급되지 않음.",
+          "2": "② 소비자의 비판적 검토는 지문에 없는 내용으로 책임 주체가 다름.",
+          "3": "③ 국제 표준에 맞는 체계화는 지문이 비판하는 '가시적 홍보' 활동의 체계화일 수 있어 주장과 다름.",
+          "4": "④ 정부의 법적 강제 규정 도입은 지문에 없는 외부 규제 접근법임."
+        },
+        "key_point": "필자는 '보이는 CSR(communicative CSR)'과 '실질적 CSR(operational CSR)'을 구분하며, 후자로의 전환을 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues companies should move from communicative CSR (appearing responsible) to operational CSR (embedding standards into core operations). Choice 5 directly captures this.",
+        "distractor_analysis": "Choice 1 calls for external auditing bodies. Choice 2 shifts responsibility to consumers. Choice 3 focuses on systematising charity activities for transparency. Choice 4 proposes government legislation to mandate CSR compliance.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-13",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "The concept of expertise carries a common misunderstanding: that experts are simply people who know more facts than non-experts. In reality, what distinguishes expert from novice performance is less the volume of stored information than the quality of the mental structures used to organise and access it. Experts in any field — chess, medicine, engineering — perceive problems as meaningful patterns rather than collections of independent elements, allowing them to recognise relevant features quickly and apply appropriate solutions almost automatically. This insight has important implications for education. Teaching that merely deposits facts into students' minds without building the conceptual frameworks that give those facts meaning is pedagogically inefficient. Educators should prioritise the development of robust mental schemas over the transmission of isolated information. When students acquire well-structured knowledge frameworks, their capacity to learn new information in the domain accelerates dramatically, because new facts have a ready home in an organised mental architecture.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "효과적인 교육을 위해 교사는 학생의 기존 지식 수준을 정확히 진단해야 한다.",
+        "전문가를 양성하기 위해 문제 패턴 인식 훈련을 별도 교과목으로 개설해야 한다.",
+        "교육자는 사실 전달보다 개념적 틀을 형성하는 데 우선순위를 두어야 한다.",
+        "학습자는 새로운 분야를 배울 때 기본 개념부터 단계적으로 습득해야 한다.",
+        "전문성 향상을 위해 다양한 분야의 지식을 교차 학습하는 기회를 늘려야 한다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Educators should prioritise the development of robust mental schemas over the transmission of isolated information.' — 고립된 정보 전달보다 개념적 틀(mental schemas) 형성을 우선해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 학생의 기존 지식 수준 진단은 지문에 언급되지 않음.",
+          "2": "② 문제 패턴 인식 훈련을 별도 교과목으로 개설하라는 것은 지문의 주장(전반적 교육 우선순위 변화)보다 좁은 제안임.",
+          "4": "④ 기본 개념부터 단계적 습득은 지문의 주장(mental schemas 형성 우선)과 다른 학습 전략임.",
+          "5": "⑤ 교차 학습 기회 확대는 지문에 언급되지 않음."
+        },
+        "key_point": "핵심은 '사실 전달(transmission of isolated information)'보다 '개념 틀 형성(mental schemas)'을 우선하라는 것임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues educators should prioritise building robust mental schemas (conceptual frameworks) over transmitting isolated facts. Choice 3 directly captures this.",
+        "distractor_analysis": "Choice 1 focuses on diagnosing students' existing knowledge levels, an assessment approach. Choice 2 proposes a separate course for pattern recognition training, narrower than the passage's claim. Choice 4 advises learners to learn basics in sequence, a study strategy unrelated. Choice 5 advocates cross-domain learning, not discussed.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-14",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "The global spread of English as a lingua franca has prompted some linguists to express concern about the fate of smaller languages. Others dismiss this concern as nostalgic sentimentalism, arguing that language shift is a natural process and that speakers freely choose dominant languages for practical reasons. Neither extreme captures the full picture. What is clear from sociolinguistic research is that language diversity is not merely a cultural curiosity but a repository of unique cognitive tools, ecological knowledge, and ways of conceptualising reality that cannot be recovered once lost. Each language encodes distinctions and relationships that speakers of other languages must approximate, sometimes imperfectly. Governments and international organisations should therefore implement active policies to support multilingualism — funding minority language education, digitising endangered language archives, and creating institutional spaces where minority languages can function in public life — before the window for meaningful preservation closes.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "세계 공용어로서 영어의 위상을 높이기 위해 국제 기구의 언어 정책을 표준화해야 한다.",
+        "언어 다양성의 실질적 가치를 인정하여 소수 언어 보전을 위한 적극적 정책을 시행해야 한다.",
+        "언어 전환을 자연스러운 현상으로 받아들이고 이중 언어 교육에 집중해야 한다.",
+        "소수 언어의 디지털 아카이브 구축에 우선적으로 재원을 배분해야 한다.",
+        "민족 간 언어 분쟁을 예방하기 위해 지역 공용어 제도를 법적으로 정비해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Governments and international organisations should therefore implement active policies to support multilingualism... before the window for meaningful preservation closes.' — 언어 다양성의 가치를 인정하고 소수 언어 보전을 위한 적극적 정책을 실행해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 영어의 위상을 높이는 정책 표준화는 지문이 우려하는 '소수 언어의 소멸'을 가속화하는 방향으로 정반대임.",
+          "3": "③ '언어 전환을 자연스러운 현상으로 받아들이라'는 것은 지문이 비판하는 두 극단 중 하나임.",
+          "4": "④ 디지털 아카이브 구축에만 집중하는 것은 지문에서 제안하는 여러 방법 중 하나일 뿐이며, 전체 주장을 포괄하지 못함.",
+          "5": "⑤ 민족 간 언어 분쟁 예방은 지문에 없는 주제임."
+        },
+        "key_point": "지문은 '자연스러운 언어 전환'을 비판하고, 언어 다양성의 인지적·생태적 가치를 근거로 적극적 보전 정책을 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues language diversity has genuine cognitive and epistemic value, and governments and international organisations should implement active policies to support multilingualism and preserve minority languages. Choice 2 captures this.",
+        "distractor_analysis": "Choice 1 calls for standardising policies to strengthen English — the opposite direction. Choice 3 accepts language shift as natural and focuses on bilingual education, contradicting active preservation. Choice 4 narrows solely to digital archiving as the priority. Choice 5 addresses inter-ethnic language disputes through regional language systems, not discussed.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-15",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "In most educational systems, the dominant mode of assessment is the written test: students sit quietly, recall information independently, and are graded individually. This model has the virtue of standardisation, but it systematically undervalues skills that are increasingly important in modern economies — collaborative problem-solving, oral communication, the ability to synthesise information from multiple sources under time pressure. Students who excel at written recall may struggle in real professional environments that reward different competencies, while students who possess those competencies may receive grades that underrepresent their actual capabilities. If education is to prepare students for the demands of contemporary work and civic life, assessment systems must expand beyond the solitary written test to include collaborative projects, oral defences, portfolio evaluations, and performance-based tasks that reflect the full range of human ability.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "지식 암기보다 비판적 사고를 측정하기 위해 서술형 문항의 비중을 높여야 한다.",
+        "협업 및 구두 소통 능력을 평가하기 위해 시험 감독 방식을 대폭 개선해야 한다.",
+        "현대 사회가 요구하는 역량을 반영하여 평가 방식을 다양화해야 한다.",
+        "학생 개인의 능력을 정확히 측정하기 위해 표준화 시험의 공정성을 높여야 한다.",
+        "직업 세계의 변화에 발맞추기 위해 학교 교육과정에 실습 비중을 늘려야 한다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'assessment systems must expand beyond the solitary written test to include collaborative projects, oral defences, portfolio evaluations, and performance-based tasks that reflect the full range of human ability.' — 현대 사회의 역량을 반영하여 평가 방식을 다양화해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 서술형 문항 비중 확대는 여전히 '서면 시험' 패러다임 내에 있어 지문이 비판하는 '문어 시험 중심'에서 크게 벗어나지 않음.",
+          "2": "② 시험 감독 방식 개선은 지문에 없는 내용이며, 평가 방식 자체의 다양화와 다름.",
+          "4": "④ 표준화 시험의 공정성 향상은 지문이 비판하는 평가 방식을 정당화하는 방향임.",
+          "5": "⑤ 교육과정의 실습 비중 확대는 평가(assessment) 방식 변화가 아닌 교육과정(curriculum) 변화임."
+        },
+        "key_point": "지문의 핵심은 '단일 서면 시험'을 넘어 협업·구두·포트폴리오·수행 평가 등으로 '평가 방식을 다양화'해야 한다는 것임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues assessment systems must expand beyond solitary written tests to include collaborative, oral, portfolio, and performance-based evaluations reflecting competencies needed in modern work and civic life. Choice 3 captures this: diversify assessment methods to reflect competencies demanded by modern society.",
+        "distractor_analysis": "Choice 1 focuses on increasing essay questions — still within the written test paradigm the passage argues against. Choice 2 addresses improving exam supervision methods, too narrow and procedural. Choice 4 argues for improving fairness of standardised tests, contradicting the passage's argument. Choice 5 focuses on increasing practical training in the curriculum, a curriculum rather than assessment issue.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-16",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "Modern medicine has become extraordinarily good at treating acute illness and injury — the broken bone, the bacterial infection, the cardiac emergency. What it struggles with is the dramatically different challenge of chronic conditions: diabetes, hypertension, depression, and obesity, which together account for the majority of illness and healthcare expenditure in wealthy nations. These conditions share a critical feature: they are significantly shaped by sustained patterns of behaviour — diet, physical activity, stress management, sleep. Pharmaceutical interventions can manage symptoms but rarely address the underlying behavioural drivers. A healthcare system that deploys its resources primarily toward curative care while neglecting prevention and behavioural support is financially unsustainable and clinically insufficient. Health systems should rebalance investment toward preventive care and lifestyle medicine, empowering patients to make the sustained behavioural changes that pharmaceutical treatment alone cannot achieve.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "의료 시스템은 만성질환 관리를 위해 예방과 생활 습관 의학에 투자를 재조정해야 한다.",
+        "제약 산업은 만성질환의 행동적 원인을 표적으로 하는 신약 개발에 집중해야 한다.",
+        "개인의 건강 관리 책임을 강화하기 위해 의료보험 가입 조건을 개편해야 한다.",
+        "급성 질환과 만성 질환의 특성 차이를 반영하여 의료진 교육 과정을 분리해야 한다.",
+        "만성질환 예방을 위해 식품 및 음료 산업에 대한 정부 규제를 강화해야 한다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Health systems should rebalance investment toward preventive care and lifestyle medicine, empowering patients to make the sustained behavioural changes that pharmaceutical treatment alone cannot achieve.' — 의료 시스템이 치료 중심에서 예방·생활 습관 의학 중심으로 투자를 재조정해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "2": "② 제약 산업의 신약 개발 방향은 지문에 없는 내용이며, 지문은 'pharmaceutical interventions... rarely address the underlying behavioural drivers'라며 약물 중심 접근의 한계를 지적함.",
+          "3": "③ 의료보험 가입 조건 개편은 지문에 언급되지 않음.",
+          "4": "④ 의료진 교육과정 분리는 지문에 없는 내용임.",
+          "5": "⑤ 식품·음료 산업 규제는 지문에 언급되지 않으며, 지문은 의료 시스템 내부의 투자 재조정을 주장함."
+        },
+        "key_point": "지문의 핵심은 '치료(curative) 중심'에서 '예방(preventive)·생활습관 의학(lifestyle medicine)' 중심으로 의료 투자를 재조정해야 한다는 것임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues health systems should rebalance investment toward preventive care and lifestyle medicine rather than primarily curative care. Choice 1 directly captures this.",
+        "distractor_analysis": "Choice 2 redirects responsibility to pharmaceutical industry. Choice 3 focuses on reforming health insurance conditions. Choice 4 argues for separating medical training for acute vs. chronic conditions. Choice 5 calls for government regulation of food and beverage industries.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-17",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "In the discourse on poverty and social mobility, there is a tendency to attribute economic hardship primarily to individual choices — poor financial decisions, insufficient effort, or a lack of aspiration. This narrative is psychologically comfortable for those who have succeeded, as it preserves the belief that success is purely self-determined. However, a substantial body of sociological and economic research demonstrates that a person's socioeconomic trajectory is shaped far more powerfully by the circumstances of birth — neighbourhood quality, access to quality schooling, family stability, and social networks — than by individual agency alone. When structural barriers are ignored and every outcome is attributed to personal responsibility, policies designed to address those barriers become politically harder to justify. Societies that wish to offer genuine opportunities for mobility must acknowledge structural inequality and invest in equalising the conditions that determine whether individual effort can actually translate into advancement.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "개인의 경제적 성공을 위해 금융 교육과 기업가 정신 함양을 체계적으로 지원해야 한다.",
+        "사회적 이동성을 높이기 위해 구조적 불평등을 인정하고 출발 조건을 평등하게 하는 데 투자해야 한다.",
+        "빈곤 문제 해결을 위해 사회 보장 제도보다 취업 기회 확대 정책을 우선해야 한다.",
+        "경제적 불평등 연구에서 개인의 행위성과 구조적 요인을 동등하게 다루어야 한다.",
+        "사회 계층 이동을 촉진하기 위해 교육 시스템의 선발 기준을 능력 위주로 개편해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Societies that wish to offer genuine opportunities for mobility must acknowledge structural inequality and invest in equalising the conditions that determine whether individual effort can actually translate into advancement.' — 구조적 불평등을 인정하고 출발 조건의 평등화에 투자해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 금융 교육과 기업가 정신 함양은 지문이 비판하는 '개인 책임' 서사를 강화하는 접근법임.",
+          "3": "③ 취업 기회 확대 우선 정책은 지문에 없는 특정 정책 방향임.",
+          "4": "④ 연구에서 두 요인을 동등하게 다루라는 것은 학문적 방법론 주장으로, 지문의 실질적 정책 주장과 다름.",
+          "5": "⑤ 능력 위주 선발 기준 개편은 개인의 능력·노력을 강조하는 것으로 지문이 비판하는 개인 책임 서사와 유사함."
+        },
+        "key_point": "지문의 핵심은 '개인 책임' 서사에서 '구조적 불평등' 인정으로 전환하여, 출발 조건의 평등화에 투자해야 한다는 것임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues societies wishing to offer genuine mobility must acknowledge structural inequality and invest in equalising conditions that determine whether effort translates into advancement. Choice 2 directly captures this.",
+        "distractor_analysis": "Choice 1 focuses on financial education and entrepreneurship — the individual-agency narrative the passage critiques. Choice 3 prioritises job creation over social security, a specific policy direction not argued. Choice 4 calls for equal treatment of individual agency and structural factors in research — an academic methodological claim. Choice 5 focuses on merit-based education reform, reinforcing individual achievement narratives.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-18",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "The design of urban transportation systems typically prioritises throughput — moving the greatest number of people the greatest distance in the shortest time. By this metric, high-speed rail and expressways are triumphs of engineering. But transportation systems also shape the texture of daily life in ways that throughput metrics cannot capture. Streets designed exclusively for vehicular speed become hostile environments for pedestrians, cyclists, and residents. They fragment communities, generate noise, and eliminate the social activity that has historically made streets the living room of urban neighbourhoods. Cities that have reclaimed street space from cars — converting lanes to cycle tracks, widening pavements, and creating car-free zones — consistently report not only improved air quality and lower accident rates but greater economic vitality and social cohesion. Urban planners should therefore design streets not merely as conduits for traffic but as shared social spaces that support the full range of human activities.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "교통 시스템의 효율성을 유지하면서도 자전거와 보행자를 위한 전용 구역을 확보해야 한다.",
+        "도시 교통망 설계 시 탄소 배출 감소를 최우선 목표로 삼아야 한다.",
+        "대중교통 이용을 장려하기 위해 자가용 이용에 따른 세금과 비용을 높여야 한다.",
+        "도시 계획가는 교통 흐름뿐 아니라 다양한 인간 활동을 지원하는 공유 공간으로 거리를 설계해야 한다.",
+        "보행자 친화적 도시를 위해 상업 지구와 주거 지구 간 도로 설계 기준을 차별화해야 한다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Urban planners should therefore design streets not merely as conduits for traffic but as shared social spaces that support the full range of human activities.' — 거리를 교통 통로가 아닌 다양한 인간 활동을 지원하는 공유 공간으로 설계해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① '교통 시스템 효율성을 유지하면서' 전용 구역을 확보하라는 것은 지문의 주장(효율성 패러다임 자체를 넘어서야 함)보다 좁은 기술적 제안임.",
+          "2": "② 탄소 배출 감소를 최우선으로 삼으라는 것은 지문에 없는 주장이며, 지문은 사회적 공간으로서의 거리에 초점을 맞춤.",
+          "3": "③ 자가용 이용 비용 증대는 지문에 없는 재정 정책 접근법임.",
+          "5": "⑤ 지구별 도로 설계 기준 차별화는 지문에 없는 내용임."
+        },
+        "key_point": "필자의 핵심은 '처리량(throughput)' 중심 설계에서 '다양한 인간 활동을 지원하는 공유 사회 공간'으로 거리 설계 패러다임을 바꿔야 한다는 것임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues urban planners should design streets not merely as traffic conduits but as shared social spaces supporting the full range of human activities. Choice 4 (the 4th option) directly captures this.",
+        "distractor_analysis": "Choice 1 focuses on securing dedicated zones while maintaining traffic efficiency — a narrower technical recommendation. Choice 2 argues for prioritising carbon emission reduction. Choice 3 advocates financial disincentives for car use. Choice 5 differentiates road design standards between commercial and residential districts, a specific regulatory idea.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-19",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "Scientific journals have long operated on the principle that peer review guarantees the reliability of published findings. In practice, however, traditional peer review is severely limited by the small number of reviewers who evaluate each manuscript — typically two or three — and by the absence of systematic checks on the raw data underlying conclusions. The replication crisis, in which large proportions of published findings in psychology, medicine, and other fields have failed to reproduce under independent testing, has exposed these limitations starkly. The scientific community must respond to this credibility challenge not merely by advocating for replication studies — which remain underfunded and unpublished — but by structurally reforming the publication system. Journals should require authors to deposit raw data, analysis code, and pre-registered hypotheses in open repositories before publication, creating a transparent evidentiary record that allows the scientific community to verify and build upon findings with confidence.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "학술 저널은 동료 심사자 수를 늘려 연구 결과의 검증 수준을 높여야 한다.",
+        "과학 공동체는 재현 연구에 대한 자금 지원과 출판 기회를 대폭 확대해야 한다.",
+        "과학자들은 연구 가설을 미리 등록하고 원시 데이터를 공개 저장소에 공유해야 한다.",
+        "대학은 연구자 평가 기준에서 논문 출판 수보다 연구의 재현 가능성을 중시해야 한다.",
+        "연구 자금 지원 기관은 신뢰성 위기를 해결하기 위해 반복 연구 전담 예산을 신설해야 한다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Journals should require authors to deposit raw data, analysis code, and pre-registered hypotheses in open repositories before publication.' — 연구자들이 원시 데이터, 분석 코드, 사전 등록된 가설을 공개 저장소에 공유해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 심사자 수 증가는 지문이 '제한적'이라고 언급하는 동료 심사 시스템의 한계를 대증 요법으로 다루는 것이며, 지문의 구조적 개혁 주장과 다름.",
+          "2": "② 재현 연구 지원 확대는 지문에서 'not merely by advocating for replication studies'라며 충분하지 않다고 명시함.",
+          "4": "④ 대학의 연구자 평가 기준 변경은 지문의 주장(출판 시스템 개혁)과 다른 기관 차원의 변화임.",
+          "5": "⑤ 재현 연구 전담 예산 신설은 관련이 있으나, 지문이 'not merely'로 부족하다고 언급한 방향과 유사함."
+        },
+        "key_point": "지문의 구체적 처방은 'raw data, analysis code, pre-registered hypotheses를 출판 전 공개 저장소에 제출'하라는 출판 시스템의 구조적 개혁임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage's specific structural reform recommendation is that journals should require authors to deposit raw data, analysis code, and pre-registered hypotheses in open repositories before publication. Choice 3 (the 3rd option) captures this: scientists should pre-register research hypotheses and share raw data in open repositories.",
+        "distractor_analysis": "Choice 1 suggests increasing the number of peer reviewers, noted as a limitation but not the solution. Choice 2 advocates more funding and publication of replication studies — the passage says this alone is insufficient. Choice 4 suggests universities change researcher evaluation criteria, beyond the publication system reform the passage advocates. Choice 5 proposes dedicated replication research budgets, related but not the specific recommendation made.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-20",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "standard",
+      "passage": "Many urban residents feel disconnected from the agricultural systems that produce their food. Supermarkets present food as a clean, packaged product, severed from any visible connection to soil, labour, seasons, or geography. This disconnect has consequences that extend beyond mere ignorance. When people do not understand how food is produced, they are less likely to make consumption choices that reward sustainable farming, less likely to support agricultural policies that protect farmland, and less able to appreciate the precariousness of food systems that depend on complex global supply chains. Bridging this gap requires more than food labelling reform or documentary films. It requires structured opportunities for urban populations to engage directly with food production: community gardens, farm visits, school programmes that connect curriculum to seasonal growing, and urban farming initiatives that bring agricultural practice into the city. Reconnecting urban residents to food production is a prerequisite for building food-literate, food-resilient communities.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "지속 가능한 농업을 지원하기 위해 친환경 농산물에 대한 보조금 정책을 강화해야 한다.",
+        "식품 공급망의 취약성을 해결하기 위해 지역 식량 자급률을 높이는 정책을 추진해야 한다.",
+        "식품 라벨에 원산지 및 생산 방식을 더욱 투명하게 표기하도록 법적 기준을 강화해야 한다.",
+        "학교 교육에서 식생활 교육의 비중을 높여 학생들의 올바른 식품 선택 능력을 키워야 한다.",
+        "도시 주민들이 식량 생산을 직접 경험할 수 있는 기회를 마련하여 농업과의 연결을 회복해야 한다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'It requires structured opportunities for urban populations to engage directly with food production' / 'Reconnecting urban residents to food production is a prerequisite for building food-literate, food-resilient communities.' — 도시 주민이 식량 생산을 직접 경험할 기회를 마련해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 친환경 농산물 보조금은 지문에 언급되지 않음.",
+          "2": "② 지역 식량 자급률 향상은 지문에 없는 공급망 정책임.",
+          "3": "③ 식품 라벨 기준 강화는 지문이 'more than food labelling reform'이라며 부족하다고 명시한 접근법임.",
+          "4": "④ 학교 식생활 교육의 비중 확대는 지문의 더 넓은 주장(직접 경험 기회 마련)의 일부에 불과하며, 전체 주장을 포괄하지 못함."
+        },
+        "key_point": "지문은 '라벨 개혁이나 다큐멘터리 영화'를 명시적으로 부족하다고 하며, 직접 경험(community gardens, farm visits 등)을 통한 연결 회복을 주장함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues bridging the disconnect between urban residents and food production requires structured direct engagement with food production. Choice 5 captures this: create opportunities for urban residents to directly experience food production to reconnect with agriculture.",
+        "distractor_analysis": "Choice 1 focuses on subsidy policies for eco-friendly farming. Choice 2 addresses food security through local food self-sufficiency rates. Choice 3 advocates stronger food labelling standards — the passage explicitly says labelling reform is insufficient. Choice 4 narrows to increasing food education in schools for healthy food choices.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-21",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "challenging",
+      "passage": "The concept of cognitive load — the total amount of mental effort being used in working memory — has been studied extensively in educational psychology, yet its practical implications for instructional design are frequently misapplied. Teachers and instructional designers often assume that streamlining learning materials by removing complexity is always beneficial, since reduced complexity lowers extraneous cognitive load. This is true when the complexity being removed is irrelevant to the learning objective. However, when complexity is intrinsic to the material — when it represents the genuine interconnectedness of concepts that students must understand — removing it does not simplify learning; it impoverishes it. Students who are shielded from intrinsic complexity may acquire procedural fluency but lack the conceptual depth to transfer their knowledge to novel problems. Instructional designers should therefore distinguish carefully between extraneous complexity, which should be eliminated, and intrinsic complexity, which should be preserved and scaffolded rather than avoided.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "교수 설계자는 불필요한 복잡성과 본질적 복잡성을 구별하여 후자는 보존하며 지원해야 한다.",
+        "인지 부하 이론을 수업 설계에 적용할 때 학습자의 작업 기억 용량 차이를 반드시 고려해야 한다.",
+        "절차적 유창성보다 개념적 이해를 우선하기 위해 암기 중심 평가를 지양해야 한다.",
+        "새로운 문제로의 전이를 높이기 위해 학습 초기에 다양한 유형의 사례를 노출시켜야 한다.",
+        "학습 자료의 복잡성을 단계적으로 높여 학생이 점진적으로 인지 부하를 감당할 수 있게 해야 한다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Instructional designers should therefore distinguish carefully between extraneous complexity, which should be eliminated, and intrinsic complexity, which should be preserved and scaffolded rather than avoided.' — 외재적 복잡성과 본질적 복잡성을 구별하여, 본질적 복잡성은 보존·지원해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "2": "② 학습자의 작업 기억 용량 차이 고려는 지문에 언급되지 않음.",
+          "3": "③ 암기 중심 평가 지양은 지문의 주장(복잡성 구별)과 관련은 있으나 지문이 직접 주장하는 바가 아님.",
+          "4": "④ 학습 초기에 다양한 사례 노출은 지문에 없는 교수법 제안임.",
+          "5": "⑤ 복잡성을 단계적으로 높이는 것은 지문의 주장(본질적 복잡성 보존)과 유사해 보이나, 지문은 단계적 증가가 아닌 구별과 보존을 주장함."
+        },
+        "key_point": "지문의 핵심 구별: 'extraneous complexity(외재적 복잡성) → 제거' vs 'intrinsic complexity(본질적 복잡성) → 보존·지원(scaffolded)'."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage's core recommendation is that instructional designers should distinguish between extraneous complexity (eliminate it) and intrinsic complexity (preserve and scaffold it). Choice 1 directly captures this nuanced claim.",
+        "distractor_analysis": "Choice 2 introduces individual differences in working memory capacity — related to cognitive load theory but not the passage's argument. Choice 3 advocates against memorisation-focused assessment, a valid idea but not what the passage argues. Choice 4 recommends exposing diverse problem types early for transfer — evidence-based but not the passage's claim. Choice 5 advocates gradual complexity increases for progressive load management, a related but distinct scaffolding approach.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-22",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "challenging",
+      "passage": "The dominant model of scientific communication assumes that public understanding of science can be improved by simply providing accurate information more clearly and accessibly — a model sometimes called the 'deficit model' because it frames public scepticism of science as a knowledge deficit to be filled. Decades of science communication research have undermined this assumption. Studies consistently show that increasing factual knowledge does not reliably reduce scepticism about contested scientific topics such as climate change, genetically modified organisms, or vaccination. In some cases, higher scientific literacy correlates with greater polarisation, as individuals apply their knowledge selectively to reinforce prior commitments. What actually shapes public trust in scientific institutions is not information volume but perceived values alignment: whether people believe that scientists share their fundamental values and act in their interests. Science communicators who wish to build genuine public trust must therefore move beyond information delivery to engage authentically with the values, concerns, and lived experiences of the communities they are trying to reach.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "과학적 회의주의를 줄이려면 과학적 사실을 더 명확하고 접근하기 쉽게 전달해야 한다.",
+        "과학 커뮤니케이터는 정보 전달을 넘어 대중의 가치관과 우려를 진정성 있게 다루어야 한다.",
+        "과학 리터러시 교육을 통해 사람들이 정보를 선택적으로 활용하는 편향을 줄여야 한다.",
+        "과학 기관은 의사 결정 과정의 투명성을 높여 대중이 정책의 근거를 이해하도록 해야 한다.",
+        "논란이 되는 과학적 주제에 대해 언론은 다양한 전문가 의견을 균형 있게 보도해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Science communicators who wish to build genuine public trust must therefore move beyond information delivery to engage authentically with the values, concerns, and lived experiences of the communities they are trying to reach.' — 정보 전달을 넘어 대중의 가치관과 우려를 진정성 있게 다루어야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① '더 명확하고 접근하기 쉽게 전달'은 지문이 비판하는 'deficit model'의 접근법 그 자체임.",
+          "3": "③ 과학 리터러시 교육으로 편향을 줄이라는 것은 지문이 'higher scientific literacy correlates with greater polarisation'이라며 반박하는 방향임.",
+          "4": "④ 과학 기관의 의사결정 투명성 향상은 관련이 있으나 지문의 핵심(가치 정렬)과 다른 구조적 접근임.",
+          "5": "⑤ 언론의 균형 보도는 지문에 언급되지 않음."
+        },
+        "key_point": "지문의 핵심은 '정보량'이 아닌 '가치 정렬(perceived values alignment)'이 신뢰를 형성하므로, 가치·우려·삶의 경험을 진정성 있게 다루어야 한다는 것임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that building genuine public trust requires moving beyond information delivery to authentically engage with the values, concerns, and lived experiences of communities. Choice 2 captures this: science communicators should go beyond information delivery to genuinely address the public's values and concerns.",
+        "distractor_analysis": "Choice 1 describes the deficit model the passage explicitly criticises. Choice 3 proposes scientific literacy education to reduce selective bias, but the passage notes higher scientific literacy can increase polarisation. Choice 4 focuses on improving transparency of scientific decision-making — a related but distinct institutional strategy. Choice 5 concerns balanced media reporting, a media practice not discussed.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-23",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "challenging",
+      "passage": "There is a well-documented tension in democratic theory between the principle of majority rule and the protection of minority rights. The standard resolution is constitutional entrenchment: placing certain rights beyond the reach of simple majority legislation. Critics of this approach argue that it is antidemocratic — that courts empowered to strike down legislation are effectively legislating from the bench, substituting the values of a small, unelected judiciary for the preferences of the voting public. This critique has merit, but it overstates the democratic legitimacy of bare majority decisions. Democracy is not merely a procedure for aggregating preferences; it is a system committed to a substantive vision of equal citizenship. When majoritarian decisions systematically disadvantage minorities in ways that undermine their full participation in public life, they violate the foundational commitment of democracy itself. Robust protection of minority rights through independent judicial review is therefore not a contradiction of democratic values but a prerequisite for their genuine realisation.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "사법부 독립성을 보장하기 위해 헌법재판관 임명 절차를 대중의 참여 방식으로 개혁해야 한다.",
+        "민주주의 원칙과 소수자 권리의 충돌을 해소하기 위해 다수결 요건을 강화해야 한다.",
+        "독립적 사법 심사를 통한 소수자 권리의 강력한 보호는 민주주의 가치 실현의 전제 조건이다.",
+        "헌법에 열거되지 않은 새로운 소수자 권리를 인정하기 위해 입법부의 역할을 확대해야 한다.",
+        "민주적 정당성을 위해 사법부는 다수결 입법에 개입하기보다 민의를 존중해야 한다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Robust protection of minority rights through independent judicial review is therefore not a contradiction of democratic values but a prerequisite for their genuine realisation.' — 독립적 사법 심사를 통한 소수자 권리 보호가 민주주의 가치 실현의 전제 조건이라는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 헌법재판관 임명 절차 개혁은 지문에 언급되지 않음.",
+          "2": "② 다수결 요건 강화는 지문에서 다루는 사법 심사 접근법과 다른 메커니즘임.",
+          "4": "④ 입법부 역할 확대는 지문이 지지하는 사법 심사(judicial review) 방향과 반대임.",
+          "5": "⑤ '사법부가 다수결 입법에 개입하지 말아야 한다'는 것은 지문이 비판하는 입장 그 자체임."
+        },
+        "key_point": "지문의 핵심: 민주주의는 단순한 다수결 절차가 아니라 '평등한 시민권(equal citizenship)'의 실질적 비전이므로, 독립적 사법 심사를 통한 소수자 보호가 민주주의의 '전제 조건(prerequisite)'임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that robust protection of minority rights through independent judicial review is not a contradiction of democratic values but a prerequisite for their genuine realisation. Choice 3 directly captures this central argument.",
+        "distractor_analysis": "Choice 1 proposes reforming judicial appointment procedures to involve public participation, a procedural reform not the passage's argument. Choice 2 suggests strengthening majority vote requirements, a different mechanism. Choice 4 advocates expanding the legislature's role to recognise new minority rights, unrelated to judicial review. Choice 5 argues the judiciary should respect popular will rather than intervening — the opposite of the passage's claim.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-24",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "challenging",
+      "passage": "Philanthropic foundations have grown dramatically in scale and influence over recent decades, with the largest now directing billions of dollars annually toward global challenges including health, education, poverty, and climate. Proponents argue that this private capital fills critical gaps left by governments constrained by political cycles and voter preferences. Sceptics, however, raise a deeper concern: that concentrated philanthropic power undermines democratic accountability. When a small number of extraordinarily wealthy individuals can effectively set global health agendas, determine which educational models are scaled, or shape climate policy, the decisions that affect billions of people are made without those people's participation or meaningful consent. This is a structural problem, not a matter of individual philanthropists' intentions. To address it, philanthropic foundations operating at global scale should be subject to substantially greater transparency requirements and to multi-stakeholder governance structures that give affected communities a genuine voice in decisions about their futures.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "민간 자본의 글로벌 문제 해결 기여를 인정하되, 정부 지원을 대체하지 않도록 역할을 제한해야 한다.",
+        "자선 재단은 자원 배분의 효율성을 높이기 위해 국제기구와의 협력 체계를 강화해야 한다.",
+        "극도의 부의 집중이 민주주의에 미치는 영향을 차단하기 위해 누진세 체계를 강화해야 한다.",
+        "글로벌 차원에서 운영되는 자선 재단은 투명성 강화와 영향받는 지역 사회의 의사결정 참여를 보장해야 한다.",
+        "대규모 자선 활동의 민주적 정당성 확보를 위해 국제법 차원의 규제 틀을 마련해야 한다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'philanthropic foundations operating at global scale should be subject to substantially greater transparency requirements and to multi-stakeholder governance structures that give affected communities a genuine voice in decisions about their futures.' — 글로벌 자선 재단에 투명성 강화와 영향받는 지역사회의 다중 이해관계자 거버넌스를 요구해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 정부 지원을 대체하지 않도록 역할을 제한하라는 것은 지문의 주장(거버넌스 구조 개혁)과 다른 접근법임.",
+          "2": "② 국제기구와의 협력 강화는 지문에 언급되지 않음.",
+          "3": "③ 누진세 체계 강화는 지문에 없는 세금 정책으로, 지문은 재단 내부 거버넌스 개혁을 주장함.",
+          "5": "⑤ 국제법 차원의 규제 틀은 지문이 주장하는 내부 다중 이해관계자 거버넌스와 다른 외부 규제 접근법임."
+        },
+        "key_point": "지문의 핵심은 '의도의 문제가 아닌 구조적 문제(structural problem)'이므로, 투명성 강화 및 영향받는 지역사회에 '실질적 목소리(genuine voice)'를 주는 다중 이해관계자 거버넌스가 해법임."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that philanthropic foundations at global scale should face greater transparency requirements and multi-stakeholder governance giving affected communities a genuine voice. Choice 4 (the 4th option) captures this precisely: globally operating philanthropic foundations should ensure transparency and participation of affected communities in decision-making.",
+        "distractor_analysis": "Choice 1 accepts private capital's contribution but advocates limiting its role so it does not replace government support — not the passage's argument. Choice 2 calls for stronger cooperation with international organisations for resource allocation efficiency. Choice 3 advocates progressive taxation to counter extreme wealth concentration — a different structural remedy. Choice 5 proposes international law regulations — the passage advocates internal governance reform (multi-stakeholder), not external international law.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-20-25",
+      "number": 20,
+      "type": "주장",
+      "difficulty": "challenging",
+      "passage": "In the philosophy of language, there is an influential position known as semantic externalism: the view that the meaning of words is not entirely determined by what is in the speaker's head but depends partly on the physical environment and social community in which the speaker is embedded. A celebrated thought experiment illustrates this: imagine an Earth and a Twin Earth identical in every experiential respect, except that what the inhabitants of Twin Earth call 'water' is not H₂O but a chemically distinct substance, XYZ. Despite the perfect experiential similarity, semantic externalists argue that 'water' means H₂O on Earth and XYZ on Twin Earth, because meaning is anchored to the actual substance in the speaker's environment, not to internal mental representations. This has significant implications for how we think about expertise, communication, and the transmission of knowledge across generations. Those who work across cultural and linguistic boundaries should resist the assumption that shared vocabulary guarantees shared understanding, attending instead to the material and social contexts that anchor the meanings of the words they use.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "언어 간 번역의 정확성을 높이기 위해 단어의 물리적 지시 대상을 명확히 규정해야 한다.",
+        "의미 외재주의의 이론적 함의를 검증하기 위해 다양한 언어 공동체를 대상으로 비교 연구를 해야 한다.",
+        "전문 지식의 세대 간 전수 효율을 높이기 위해 언어 교육에 문화적 맥락을 반드시 포함해야 한다.",
+        "의사소통 오류를 최소화하기 위해 기술 분야에서 사용되는 핵심 용어를 국제적으로 표준화해야 한다.",
+        "문화적·언어적 경계를 넘나들 때 같은 어휘가 동일한 이해를 보장하지 않음을 유의하고 맥락을 살펴야 한다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "핵심 주장 문장: 'Those who work across cultural and linguistic boundaries should resist the assumption that shared vocabulary guarantees shared understanding, attending instead to the material and social contexts that anchor the meanings of the words they use.' — 문화·언어적 경계를 넘을 때 같은 어휘가 같은 이해를 보장하지 않으므로 맥락을 주의해야 한다는 것이 핵심 주장임.",
+        "wrong": {
+          "1": "① 물리적 지시 대상을 명확히 규정하라는 것은 기술적 해결책으로, 지문의 주장(맥락 주의)과 다름. 오히려 의미 외재주의는 맥락이 고정 규정보다 복잡함을 시사함.",
+          "2": "② 비교 연구는 학술적 연구 제안으로, 지문의 실천적 주장과 다름.",
+          "3": "③ 언어 교육에 문화적 맥락 포함은 관련이 있으나, 지문은 '교육'이 아닌 실제 문화·언어 경계를 넘나드는 사람들의 실천적 주의를 주장함.",
+          "4": "④ 기술 용어의 국제적 표준화는 지문의 통찰(의미는 맥락에 정박함, not standardisable)과 정반대 방향임."
+        },
+        "key_point": "Twin Earth 사고 실험의 함의: 'shared vocabulary ≠ shared understanding'이므로, 맥락(material and social contexts)을 살펴야 함."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage's concluding recommendation is that those working across cultural and linguistic boundaries should resist assuming shared vocabulary guarantees shared understanding, and should attend to material and social contexts. Choice 5 captures this precisely.",
+        "distractor_analysis": "Choice 1 focuses on specifying physical referents to improve translation accuracy — a technical linguistic recommendation not the passage's main point. Choice 2 calls for comparative research on semantic externalism — an academic research agenda, not a practical prescriptive claim. Choice 3 advocates including cultural context in language education for knowledge transmission — a related but narrower educational recommendation. Choice 4 proposes international standardisation of technical terminology — the opposite of the passage's insight that meaning is contextually anchored, not standardisable.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

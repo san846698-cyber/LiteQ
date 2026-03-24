@@ -1,0 +1,870 @@
+{
+  "type": "빈칸 추론 (단어/구)",
+  "typeNumber": 31,
+  "version": "v2",
+  "totalCount": 25,
+  "difficultyBreakdown": {
+    "easy": 8,
+    "standard": 12,
+    "challenging": 5
+  },
+  "answerDistribution": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5
+  },
+  "questions": [
+    {
+      "id": "v2-31-01",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "easy",
+      "passage": "In many cultures, the act of gift-giving appears on the surface to be entirely selfless — a pure transfer of resources from one person to another. Anthropologists, however, have long noted that gifts rarely operate outside a system of mutual indebtedness. When someone receives a gift, they typically feel compelled to give one in return, often of comparable or greater value. The pioneering work of Marcel Mauss showed that gift exchange in traditional societies was governed by three duties: the duty to give, the duty to receive, and the duty to reciprocate. Refusing any of these duties carries social consequences, signaling disrespect or hostility. Even in contemporary societies, the discomfort we feel when we cannot repay a generous gesture — or when someone gives us something we did not expect — reveals the same underlying logic. Gift-giving, in this light, is not merely generosity but a form of ______________ that binds individuals to one another through networks of mutual debt.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "obligation",
+        "isolation",
+        "deception",
+        "productivity",
+        "competition"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "정답: ① obligation\n빈칸은 'Gift-giving is not merely generosity but a form of ___ that binds individuals through networks of mutual debt'에 있습니다. 지문은 선물이 표면적으로는 이타적이지만, 실제로는 '상호 채무(mutual indebtedness)' 체계 안에서 작동한다고 설명합니다. Marcel Mauss의 세 가지 의무(주는 의무, 받는 의무, 보답하는 의무)와 보답하지 못할 때 느끼는 불편함이 핵심 근거입니다. 이 모든 요소가 가리키는 것은 '의무(obligation)' — 선물 교환이 사람들을 상호 채무의 네트워크로 묶는 의무의 한 형태라는 결론입니다.",
+        "wrong": {
+          "2": "② isolation — '고립'은 선물이 사람들을 연결한다는 지문 내용과 정반대입니다.",
+          "3": "③ deception — '속임수'는 지문의 논점이 아닙니다. 선물의 본질이 속임수라는 주장은 어디에도 없습니다.",
+          "4": "④ productivity — '생산성'은 경제적 생산과 관련된 개념으로, 상호 채무와 사회적 유대라는 지문의 핵심 논리와 맞지 않습니다.",
+          "5": "⑤ competition — '경쟁'은 부분적으로 그럴듯하지만, 지문은 선물이 경쟁이 아닌 유대(binds)를 만든다고 강조합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'not merely A but B' 구문에서 B(빈칸)는 A(generosity)를 넘어서는 더 본질적인 개념입니다. 지문 전체에서 반복되는 핵심어(duties, mutual indebtedness, compelled, binds)를 종합하여 하나의 개념으로 압축하세요."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that gift-giving is governed by mutual indebtedness and three duties that create social bonds. The blank needs a word that captures 'binding through mutual debt.' 'Obligation' is the precise fit — it names the binding force behind all three duties Mauss identified.",
+        "answer_not_in_passage": "'Obligation' does NOT appear anywhere in the revised passage. 'Reciprocal obligation' has been replaced with 'mutual indebtedness' to ensure the answer word is absent from the passage text, requiring genuine synthesis.",
+        "distractor_validity": "isolation (opposite — gifts connect people), deception (not the argument's focus), productivity (economic frame not supported), competition (partially plausible but gifts here create bonds, not rivalry).",
+        "synthesis_required": "Student must synthesize Mauss's three duties + 'mutual indebtedness' framing + discomfort at not repaying + 'binds through mutual debt' → conclude that gift exchange is a form of 'obligation.'",
+        "word_count": 212
+      }
+    },
+    {
+      "id": "v2-31-02",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "easy",
+      "passage": "The story of how scientific facts come to be accepted is rarely as straightforward as the popular image of the lone genius with a sudden insight. Thomas Kuhn's influential account of scientific revolutions revealed that science operates within conceptual structures he called paradigms — shared sets of assumptions, methods, and exemplary problems that define what counts as a legitimate question and what counts as an acceptable answer. Scientists working within a paradigm do not simply test their ideas against reality in a neutral way; they interpret observations through the lens of the paradigm they have already accepted. Anomalies that contradict the paradigm are often dismissed, explained away, or simply ignored until they accumulate to the point where the existing structure can no longer hold. What looks like progress, then, is sometimes better described as a shift in the collective ______________ that determines how evidence is interpreted and what problems scientists even choose to pursue.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "funding",
+        "framework",
+        "vocabulary",
+        "curiosity",
+        "rivalry"
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage describes paradigms as shared frameworks that determine interpretation of evidence and choice of problems. The blank summarizes this concept at the end. 'Framework' is the correct synthesis — it echoes 'paradigm' without using the word itself.",
+        "answer_not_in_passage": "'Framework' does NOT appear in the revised passage. The passage uses 'conceptual structures' and 'existing structure' instead, ensuring the answer word must be inferred rather than recalled from the passage.",
+        "distractor_validity": "funding (external factor not discussed), vocabulary (tangential — Kuhn mentions language but this passage focuses on assumptions/methods), curiosity (motivation, not an interpretive structure), rivalry (competition between scientists is not Kuhn's argument here).",
+        "synthesis_required": "Student must understand that 'paradigm' = shared framework governing interpretation → 'framework' is the blank's answer.",
+        "word_count": 207
+      },
+      "explanations": {
+        "correct": "정답: ② framework\n빈칸은 'a shift in the collective ___ that determines how evidence is interpreted'에 있습니다. 지문은 Thomas Kuhn의 패러다임 개념을 설명합니다 — 과학자들이 공유하는 가정, 방법, 모범 문제들의 집합인 '개념적 구조(conceptual structures)'가 무엇이 정당한 질문이고 수용 가능한 답인지를 결정합니다. 빈칸은 이 패러다임을 다른 단어로 요약해야 하며, 'framework(틀/체계)'가 정확히 그 역할을 합니다.",
+        "wrong": {
+          "1": "① funding — '자금'은 과학 연구와 관련될 수 있지만, 지문에서 논의되는 인식론적 구조와는 무관합니다.",
+          "3": "③ vocabulary — '어휘'는 Kuhn의 논의와 간접적으로 관련되지만, 이 지문은 가정/방법에 초점을 맞추고 있으며 언어 자체를 다루지 않습니다.",
+          "4": "④ curiosity — '호기심'은 동기에 관한 것이지, 증거를 해석하는 구조적 틀이 아닙니다.",
+          "5": "⑤ rivalry — '경쟁'은 과학자 간 경쟁을 암시하지만, Kuhn의 논점은 경쟁이 아니라 해석 틀의 전환입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 지문에서 특정 학술 개념(여기서는 paradigm)을 상세히 설명한 뒤, 결론부에서 같은 개념을 다른 단어로 바꿔 표현하는 경우가 많습니다. 핵심 개념의 동의어/유의어 전환 능력이 필요합니다."
+      }
+    },
+    {
+      "id": "v2-31-03",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "easy",
+      "passage": "Sleep is often treated as a passive state — the body's way of powering down when there is nothing productive to do. But decades of research in neuroscience have overturned this view entirely. During sleep, the brain is not resting; it is actively engaged in consolidating the day's experiences into long-term memory. Studies show that people who sleep shortly after learning new information retain it far better than those who stay awake. More remarkably, the brain appears to replay the neural patterns associated with newly acquired knowledge during the rapid eye movement phase, effectively rehearsing what was learned. Sleep also plays a critical role in clearing metabolic waste products from the brain through the glymphatic system — a function that is almost entirely suppressed during waking hours. Far from being an interruption to cognitive life, sleep is ______________ to optimal mental performance, not merely its absence of activity.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "irrelevant",
+        "opposed",
+        "essential",
+        "secondary",
+        "peripheral"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage builds from 'passive' misconception → active memory consolidation + replay + waste clearance → 'far from interruption.' The blank completes a reversal statement: sleep IS ______________ to optimal performance. 'Essential' is the strongest and most precise fit.",
+        "answer_not_in_passage": "'Essential' does not appear anywhere in the passage.",
+        "distractor_validity": "irrelevant (contradicts the entire argument), opposed (a passive/active contrast, not 'opposed to' performance), secondary (undermines the central claim), peripheral (same problem as secondary).",
+        "synthesis_required": "All three functions (memory consolidation, neural replay, waste clearance) must be weighed together to conclude sleep is 'essential' — no single sentence gives this away.",
+        "word_count": 200
+      },
+      "explanations": {
+        "correct": "정답: ③ essential\n빈칸은 'sleep is ___ to optimal mental performance'에 있습니다. 지문은 수면이 '수동적 상태'라는 통념을 뒤집으며 세 가지 핵심 기능을 제시합니다: (1) 기억 공고화, (2) REM 수면 중 신경 패턴 재생(rehearsal), (3) 글림프 시스템을 통한 대사 노폐물 제거. 'Far from being an interruption(방해가 아니라)'이라는 전환 구문이 빈칸의 방향을 결정합니다. 수면은 인지 기능에 '필수적(essential)'이라는 것이 논리적 결론입니다.",
+        "wrong": {
+          "1": "① irrelevant — '무관한'은 지문의 전체 논증(수면이 뇌 기능에 핵심적)과 정면으로 모순됩니다.",
+          "2": "② opposed — '반대되는'은 수면과 인지 수행이 대립한다는 뜻인데, 지문은 수면이 인지를 돕는다고 주장합니다.",
+          "4": "④ secondary — '부차적인'은 수면의 중요성을 축소하는 것으로, 지문이 강조하는 핵심적 역할과 맞지 않습니다.",
+          "5": "⑤ peripheral — '주변적인'도 secondary와 마찬가지로 수면의 역할을 과소평가합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'Far from being X, it is Y' 구문은 통념(X)을 뒤집고 실제(Y)를 제시하는 강력한 대조 구조입니다. X가 '방해/중단'이면 Y는 그 반대인 '필수적'이 되어야 합니다."
+      }
+    },
+    {
+      "id": "v2-31-04",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "easy",
+      "passage": "When we think about the rules governing social behavior, we often focus on formal laws — written codes that governments enforce through courts and police. But a great deal of human conduct is regulated not by formal law but by informal social norms that carry no legal penalty. Someone who cuts in line, fails to hold a door, or speaks too loudly in a library faces no legal consequence, yet social disapproval can be swift and powerful. Sociologists have noted that informal norms are often more effective at regulating daily life than formal laws, precisely because they are enforced by everyone rather than by a dedicated authority. A neighbor's disapproving glance can change behavior more immediately than the threat of a fine. These informal mechanisms operate through a distributed system of low-level sanctions — embarrassment, exclusion, and reputation damage — that together make conformity the path of least resistance. In this sense, social norms function as a form of ______________ governance that shapes behavior from below rather than from above.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "passive",
+        "aggressive",
+        "bureaucratic",
+        "temporary",
+        "decentralized"
+      ],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage contrasts formal law (centralized authority) with informal norms enforced 'by everyone' through 'distributed system of low-level sanctions' — 'from below rather than from above.' The blank needs a word that captures distributed/non-hierarchical. 'Decentralized' is the precise fit.",
+        "answer_not_in_passage": "'Decentralized' does not appear in the passage.",
+        "distractor_validity": "passive (norms are active enforcement), aggressive (sanctions are low-level, not aggressive), bureaucratic (implies formal hierarchy — the opposite), temporary (nothing about time is the contrast).",
+        "synthesis_required": "'Distributed system' + 'enforced by everyone' + 'from below rather than above' → must synthesize to 'decentralized.'",
+        "word_count": 218
+      },
+      "explanations": {
+        "correct": "정답: ⑤ decentralized\n빈칸은 'social norms function as a form of ___ governance that shapes behavior from below rather than from above'에 있습니다. 지문은 공식 법률(formal laws)과 비공식 사회 규범(informal norms)을 대조합니다. 법률은 전담 기관(courts, police)이 집행하지만, 사회 규범은 '모든 사람에 의해(by everyone)' 집행되는 '분산된 시스템(distributed system)'입니다. 이웃의 비난하는 시선, 당혹감, 배제, 평판 손상 등이 그 수단입니다. 'from below rather than from above(위에서가 아니라 아래에서)'라는 표현이 결정적 단서이며, 이를 한 단어로 압축하면 'decentralized(분권화된)'입니다.",
+        "wrong": {
+          "1": "① passive — 사회 규범은 적극적으로 행동을 규제하므로 '수동적'이라는 표현은 맞지 않습니다.",
+          "2": "② aggressive — 제재 수단이 '낮은 수준(low-level)'이라고 명시되어 있으므로 '공격적'은 적절하지 않습니다.",
+          "3": "③ bureaucratic — '관료적'은 공식적 위계질서를 암시하는데, 이는 지문이 대조하고 있는 공식 법률 쪽의 특성입니다.",
+          "4": "④ temporary — '일시적'은 시간에 관한 개념으로, 지문의 중심 대조(중앙집권 vs. 분권)와 무관합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸 문장에서 'from below rather than from above'처럼 방향성을 명시하는 표현은 빈칸의 의미를 직접 정의합니다. 이런 부연 설명을 한 단어로 압축하는 연습이 중요합니다."
+      }
+    },
+    {
+      "id": "v2-31-05",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "easy",
+      "passage": "The experience of listening to music involves far more than the passive reception of sound waves. Psychologists studying music and emotion have found that listeners do not merely perceive emotions in music — they actively feel them. This might seem puzzling because music, unlike a sad film, depicts no actual loss or suffering. One influential explanation proposes that music triggers physiological responses — changes in heart rate, breathing, and skin conductance — that are the same responses the body produces when experiencing genuine emotion. Another account emphasizes the social history of musical forms: minor keys and slow tempos have been paired with mourning rituals across cultures for so long that the associations have become deeply automatic. Whether the mechanism is physiological or associative, the result is that music has a remarkable power to ______________ emotional states in listeners without depicting any real-world event.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "induce",
+        "eliminate",
+        "document",
+        "delay",
+        "suppress"
+      ],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage argues music actively makes listeners feel emotions through physiological and associative mechanisms. The blank describes music's 'remarkable power to ___ emotional states.' 'Induce' means to bring about/cause, which is exactly the conclusion of both accounts described.",
+        "answer_not_in_passage": "'Induce' does not appear in the passage.",
+        "distractor_validity": "eliminate (opposite — music creates, not removes), document (music doesn't record emotions), delay (nothing about timing), suppress (opposite of the argument).",
+        "synthesis_required": "Both the physiological account (triggers responses) and associative account (automatic associations produce emotion) lead to the same conclusion: music causes/induces emotional states.",
+        "word_count": 196
+      },
+      "explanations": {
+        "correct": "정답: ① induce\n빈칸은 'music has a remarkable power to ___ emotional states in listeners'에 있습니다. 지문은 음악이 감정을 일으키는 두 가지 메커니즘을 제시합니다: (1) 생리적 반응 유발(심박수, 호흡, 피부전도도 변화), (2) 문화적 연상(단조+느린 템포 = 애도). 두 설명 모두 음악이 실제 감정 상태를 '만들어낸다'는 결론으로 수렴합니다. 'induce(유발하다/일으키다)'는 외부 자극이 내부 상태를 야기한다는 뜻으로, 두 메커니즘의 공통 결론을 정확히 표현합니다.",
+        "wrong": {
+          "2": "② eliminate — '제거하다'는 음악이 감정을 만들어낸다는 지문과 정반대입니다.",
+          "3": "③ document — '기록하다'는 음악이 감정을 문서화한다는 뜻인데, 음악은 감정을 기록하는 것이 아니라 느끼게 합니다.",
+          "4": "④ delay — '지연시키다'는 시간적 개념으로, 감정 유발이라는 지문의 핵심과 무관합니다.",
+          "5": "⑤ suppress — '억제하다'는 감정을 활발하게 느끼게 한다는 지문 내용과 반대입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 두 가지 이상의 설명이 병렬로 제시된 뒤 'Whether A or B, the result is that...'으로 수렴하면, 빈칸에는 두 설명의 공통 결론이 들어갑니다. 개별 설명이 아니라 공통분모를 찾으세요."
+      }
+    },
+    {
+      "id": "v2-31-06",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "The conventional picture of evolution presents natural selection as a process of brutal competition — species locked in permanent struggle, with only the fittest surviving to reproduce. While competition is undeniably part of the story, biologists have increasingly recognized that cooperation plays an equally fundamental role. The phenomenon of mutualism, in which two species evolve in ways that benefit each other, is widespread across the natural world. Mycorrhizal fungi form networks with plant roots, exchanging minerals for sugars in an arrangement that neither party could replicate alone. Cleaner fish remove parasites from larger fish that could easily eat them but do not. Even within single organisms, what we experience as 'the self' is in fact a community: human cells are outnumbered by microbial cells, and mitochondria — the energy-producing organelles in each cell — were once free-living bacteria that entered into a permanent alliance with their hosts. Evolution, then, is as much about ______________ as it is about competition.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "symbiosis",
+        "isolation",
+        "hierarchy",
+        "extinction",
+        "variation"
+      ],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage systematically challenges the competition-only view of evolution by providing three examples of mutual benefit (mycorrhizal fungi, cleaner fish, mitochondria). The blank must name the principle these all exemplify as an equal counterpart to competition. 'Symbiosis' captures mutually beneficial cooperation between species/entities.",
+        "answer_not_in_passage": "'Symbiosis' does not appear in the passage (the word 'mutualism' is used, but not 'symbiosis').",
+        "distractor_validity": "isolation (the opposite of the described relationships), hierarchy (some relationships involve size differences but the argument is about cooperation, not ranking), extinction (not discussed), variation (a mechanism of evolution but not the cooperative principle being argued).",
+        "synthesis_required": "Must connect all three examples (fungi-plants, cleaner fish, mitochondria) through the concept of mutual benefit and match it to the word that best contrasts with 'competition.'",
+        "word_count": 222
+      },
+      "explanations": {
+        "correct": "정답: ① symbiosis\n빈칸은 'Evolution is as much about ___ as it is about competition'에 있습니다. 지문은 진화가 경쟁만이 아니라 협력도 근본적이라고 주장하며 세 가지 상호 이익 사례를 제시합니다: (1) 균근 곰팡이와 식물(미네랄 ↔ 당), (2) 청소 물고기와 큰 물고기(기생충 제거 ↔ 안전), (3) 미토콘드리아(한때 독립 세균 → 숙주와 영구 동맹). 이 모두가 서로 다른 종이 상호 이익을 위해 함께 사는 관계, 즉 'symbiosis(공생)'의 사례입니다.",
+        "wrong": {
+          "2": "② isolation — '고립'은 지문에서 설명하는 상호 관계와 정반대 개념입니다.",
+          "3": "③ hierarchy — '위계'는 일부 관계에서 크기 차이가 있지만, 지문의 논점은 순위가 아니라 협력입니다.",
+          "4": "④ extinction — '멸종'은 지문에서 논의되지 않으며, 경쟁과 대비되는 긍정적 원리가 아닙니다.",
+          "5": "⑤ variation — '변이'는 진화의 메커니즘이지만, 경쟁과 대비되는 '협력적 원리'가 아닙니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'as much about A as about B' 구문에서 B(competition)가 주어지면, A에는 B와 대등하지만 다른 원리가 옵니다. 지문의 세 가지 구체적 사례가 모두 가리키는 공통 개념을 추출하세요."
+      }
+    },
+    {
+      "id": "v2-31-07",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "Philosophers of language have long debated whether the meaning of a word resides in the word itself, in the mind of the speaker, or in the world to which it refers. The externalist position, associated with Hilary Putnam and Saul Kripke, argues that meaning is not fully in the head. In a famous thought experiment, Putnam asked us to imagine a distant planet — Twin Earth — identical to our own in every way, except that the liquid the inhabitants call 'water' is not H₂O but a chemically different substance, XYZ, that looks, tastes, and behaves exactly like water. Putnam's claim was that, despite the perfect functional similarity, the word 'water' on Earth and on Twin Earth mean different things because they refer to different substances. What this reveals is that linguistic meaning is partly determined by the ______________ to which terms refer, not solely by the mental states or intentions of the speaker.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "traditions",
+        "emotions",
+        "sounds",
+        "habits",
+        "entities"
+      ],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage argues meaning is determined externally by what terms refer to in the world (H₂O vs. XYZ = different referents). The blank completes 'meaning is partly determined by the ______________ to which terms refer.' 'Entities' is the correct abstraction for real-world things/substances that words pick out.",
+        "answer_not_in_passage": "'Entities' does not appear in the passage.",
+        "distractor_validity": "traditions (cultural practice, not what words refer to), emotions (internalist, the opposite of externalism), sounds (phonetic form, not referent), habits (behavioral, not semantic).",
+        "synthesis_required": "Must understand Putnam's twin-earth argument: water ≠ XYZ despite identical function → meaning tracks real-world stuff → 'entities' (substances/things) in the world determine meaning.",
+        "word_count": 210
+      },
+      "explanations": {
+        "correct": "정답: ⑤ entities\n빈칸은 'meaning is partly determined by the ___ to which terms refer'에 있습니다. 지문은 Putnam의 쌍둥이 지구 사고실험을 통해 외재주의(externalism)를 설명합니다. 지구의 '물'은 H₂O를, 쌍둥이 지구의 '물'은 XYZ를 지칭하며, 기능적으로 동일해도 의미가 다릅니다. 이는 언어적 의미가 화자의 내적 상태가 아니라 단어가 실제 세계에서 가리키는 대상에 의해 결정된다는 것을 보여줍니다. 'entities(실체/대상)'는 단어가 지시하는 실제 세계의 물질/사물을 포괄적으로 나타내는 추상적 용어입니다.",
+        "wrong": {
+          "1": "① traditions — '전통'은 문화적 관습에 관한 것으로, 단어가 지시하는 실제 대상과는 다른 범주입니다.",
+          "2": "② emotions — '감정'은 내재주의적 관점이며, 지문이 주장하는 외재주의와 정반대입니다.",
+          "3": "③ sounds — '소리'는 단어의 음성적 형태를 의미하며, 단어가 가리키는 지시 대상이 아닙니다.",
+          "4": "④ habits — '습관'은 행동적 개념으로, 의미론적 지시 관계와 무관합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 철학적 사고실험이 제시되면, 그 실험이 증명하려는 결론이 빈칸의 핵심입니다. 쌍둥이 지구 실험의 결론은 '의미는 외부 지시체에 의해 결정된다'이며, 빈칸에는 그 지시체를 나타내는 추상어가 옵니다."
+      }
+    },
+    {
+      "id": "v2-31-08",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "The question of how to measure the health of an economy seems straightforward: look at Gross Domestic Product, the total monetary value of goods and services produced within a country in a year. For decades, GDP growth was treated as the primary indicator of national success. Yet critics have pointed out that GDP is blind to a range of outcomes that most people would consider essential to well-being. It rises when a natural disaster strikes because of the spending on reconstruction, but falls silent on the environmental destruction. It counts cigarette sales and medical bills equally with education and clean water infrastructure. It does not measure inequality: an economy in which one person earns everything while millions earn nothing can show impressive GDP growth. Most fundamentally, GDP measures activity — the volume of economic transactions — but says nothing about whether those transactions actually improve human ______________ or ecological health.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "efficiency",
+        "welfare",
+        "productivity",
+        "mobility",
+        "competitiveness"
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage lists what GDP misses: environmental destruction, inequality, whether transactions 'actually improve' outcomes for people. The blank needs a word capturing 'people's lives being better.' 'Welfare' (human welfare / well-being) is the precise fit, pairing with 'ecological health' as the two dimensions GDP ignores.",
+        "answer_not_in_passage": "'Welfare' does not appear in the passage ('well-being' appears once in a different sentence).",
+        "distractor_validity": "efficiency (how well resources are used — not the dimension of lives being better), productivity (output per unit — a GDP-adjacent metric, not the contrast), mobility (social movement, not the argument's focus), competitiveness (national/market comparison, not human outcomes).",
+        "synthesis_required": "Must integrate: GDP is blind to well-being, inequality, ecological harm → what GDP doesn't measure about people = 'welfare.'",
+        "word_count": 214
+      },
+      "explanations": {
+        "correct": "정답: ② welfare\n빈칸은 'GDP says nothing about whether those transactions actually improve human ___ or ecological health'에 있습니다. 지문은 GDP의 한계를 체계적으로 나열합니다: 자연재해 시 재건 지출로 상승, 담배와 의료비도 교육과 동일하게 계산, 불평등 무시. GDP는 경제 활동의 '양'을 측정할 뿐 그 거래가 실제로 사람들의 삶을 개선하는지는 말해주지 않습니다. 'human welfare(인간 복지)'는 'ecological health(생태적 건강)'과 병렬로 GDP가 측정하지 못하는 두 차원을 나타내며, '삶이 실제로 나아지는가'를 포괄하는 정확한 표현입니다.",
+        "wrong": {
+          "1": "① efficiency — '효율성'은 자원 활용의 효율에 관한 것으로, GDP가 놓치는 '삶의 질' 차원이 아닙니다.",
+          "3": "③ productivity — '생산성'은 GDP와 유사한 경제적 지표로, GDP의 한계를 보완하는 개념이 될 수 없습니다.",
+          "4": "④ mobility — '이동성/유동성'은 사회적 이동에 관한 것으로, 지문의 핵심 논점이 아닙니다.",
+          "5": "⑤ competitiveness — '경쟁력'은 국가/시장 간 비교 개념으로, 인간의 삶이 나아지는가와는 다른 축입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸이 병렬 구조('human ___ or ecological health')에 있으면, 빈칸 단어는 병렬 항목과 같은 범주여야 합니다. 'ecological health'와 대등한 인간 차원의 개념 = 'welfare'입니다."
+      }
+    },
+    {
+      "id": "v2-31-09",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "When archaeologists first discovered elaborate cave paintings in France and Spain, they were struck by the sophistication of the imagery — horses in motion, bison rendered with dimensional shading, human hands stenciled against stone. For much of the twentieth century, scholars assumed these works were created by specialized shamans or ritual specialists during ceremonially charged moments. Recent research has complicated this picture. Analysis of handprints found alongside the paintings reveals a wide range of hand sizes, suggesting that children and individuals of varying ages participated in their creation. Furthermore, experimental archaeology has shown that producing the pigments and scaffolding necessary to reach high cave ceilings required organized division of labor across many individuals. The evidence points not to solitary visionaries but to a broadly ______________ creative practice embedded in community life.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "competitive",
+        "accidental",
+        "ritualistic",
+        "spontaneous",
+        "shared"
+      ],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage challenges the specialist-shaman theory by showing: children participated (diverse ages), pigment production required organized division of labor across many individuals. The blank must express that cave art was a community/group activity — 'shared' is the precise fit.",
+        "answer_not_in_passage": "'Shared' does not appear in this specific predicate position in the passage.",
+        "distractor_validity": "competitive (nothing about competition among creators), accidental (opposite of organized labor), ritualistic (partially plausible, but the argument challenges the ritual-specialist reading, so this is a designed trap), spontaneous (contradicts 'organized division of labor').",
+        "synthesis_required": "Must combine: diverse hand sizes (children + varying ages) + organized division of labor → not solitary specialists → broadly 'shared' creative practice.",
+        "word_count": 202
+      },
+      "explanations": {
+        "correct": "정답: ⑤ shared\n빈칸은 'not to solitary visionaries but to a broadly ___ creative practice embedded in community life'에 있습니다. 지문은 동굴 벽화가 전문 샤먼의 독자적 작업이라는 기존 가설을 반박합니다. 핵심 증거: (1) 손자국 분석 결과 어린이를 포함한 다양한 연령대가 참여, (2) 안료 제작과 비계 설치에 조직적 분업이 필요. 이 두 근거 모두 벽화 제작이 '개인의 비전'이 아니라 공동체에 내재된 '공유된(shared)' 창작 활동이었음을 가리킵니다.",
+        "wrong": {
+          "1": "① competitive — '경쟁적'은 창작자들 간 경쟁을 암시하지만, 지문은 협력적 분업을 강조합니다.",
+          "2": "② accidental — '우연한'은 조직적 분업(organized division of labor)이라는 지문 내용과 모순됩니다.",
+          "3": "③ ritualistic — '의례적'은 매력적인 오답이지만, 지문은 바로 '의례 전문가(ritual specialists)' 가설을 반박하고 있으므로 이것을 선택하면 지문의 논점을 놓친 것입니다.",
+          "4": "④ spontaneous — '자발적/즉흥적'은 '조직적 분업'과 모순됩니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'not A but B' 구문에서 A(solitary visionaries)의 반대가 B(빈칸)입니다. 또한 ③ ritualistic처럼 지문에서 이미 반박된 개념을 오답으로 배치하는 함정에 주의하세요."
+      }
+    },
+    {
+      "id": "v2-31-10",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "Among the most important and underappreciated contributions of institutional economics is its insistence that markets do not arise naturally from human nature alone. Markets require a dense web of supporting institutions: property rights that are reliably enforced, contract law that courts will uphold, standards of measurement that both parties trust, and norms of honesty that reduce the cost of monitoring every transaction. Where these institutions are absent or unreliable, exchange becomes prohibitively costly, investment does not occur, and economic development stalls. The economist Douglass North argued that the primary reason some countries are rich and others poor is not differences in natural resources or even differences in the intelligence or work ethic of their populations, but differences in the quality of their institutions. Prosperity, in other words, is fundamentally an institutional ______________, not simply a natural endowment.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "coincidence",
+        "illusion",
+        "tradition",
+        "constraint",
+        "achievement"
+      ],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage argues prosperity depends on built institutional infrastructure (property rights, contract law, measurement, honesty norms) — not natural resources or innate traits. 'Achievement' captures that prosperity is something constructed/earned through institutional development, contrasting with 'natural endowment.'",
+        "answer_not_in_passage": "'Achievement' does not appear in the passage.",
+        "distractor_validity": "coincidence (implies luck, but North's argument is systematic), illusion (the passage affirms prosperity is real, just institutionally grounded), tradition (partially relevant but misses the active-construction meaning needed), constraint (the passage presents institutions as enablers, not limiters).",
+        "synthesis_required": "Must understand that 'not a natural endowment' → must be something built/achieved → 'institutional achievement.'",
+        "word_count": 205
+      },
+      "explanations": {
+        "correct": "정답: ⑤ achievement\n빈칸은 'Prosperity is fundamentally an institutional ___, not simply a natural endowment'에 있습니다. 지문은 시장이 자연적으로 발생하지 않으며, 재산권, 계약법, 측정 표준, 정직성 규범 등 제도적 인프라가 필요하다고 주장합니다. Douglass North는 부유한 나라와 가난한 나라의 차이가 천연자원이나 지능이 아니라 제도의 질에 있다고 했습니다. 번영은 자연적으로 주어진 것(natural endowment)이 아니라 제도를 통해 구축/달성된 것이므로, 'achievement(성취)'가 정확한 대조어입니다.",
+        "wrong": {
+          "1": "① coincidence — '우연의 일치'는 North의 주장이 체계적이라는 점과 맞지 않습니다. 제도와 번영의 관계는 우연이 아닙니다.",
+          "2": "② illusion — '환상'은 번영이 실재하지 않는다는 뜻인데, 지문은 번영이 실재하되 그 원인이 제도적이라고 주장합니다.",
+          "3": "③ tradition — '전통'은 부분적으로 관련되지만, 제도를 적극적으로 구축/달성한다는 능동적 의미가 부족합니다.",
+          "4": "④ constraint — '제약'은 제도를 제한 요인으로 보는 것인데, 지문은 제도를 번영의 가능 요인(enabler)으로 제시합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'not X but Y' 또는 'A, not simply B' 구문에서 B(natural endowment = 자연적으로 주어진 것)가 제시되면, A(빈칸)에는 '의도적으로 만들어진/달성된 것'이라는 반대 개념이 와야 합니다."
+      }
+    },
+    {
+      "id": "v2-31-11",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "The way historians write about the past is never a neutral window onto events. Every historical account involves selection — some events are included, others omitted; some actors are centered, others pushed to the margins. Feminist historians of the 1970s and 1980s drew attention to the fact that conventional history had been largely a history of men in public life — wars, politics, diplomacy — while the experiences of women, domestic workers, and enslaved people were rendered invisible or treated as peripheral. Their intervention was not merely to add these groups to an existing story but to challenge the assumption that the existing story was complete or objective. History, they argued, is always written from a particular vantage point, and the vantage point shapes what counts as significant. This means that historical knowledge is always ______________, shaped by the position, assumptions, and values of the historian who produces it.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "universal",
+        "permanent",
+        "redundant",
+        "situated",
+        "fictional"
+      ],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage argues historical knowledge is always written from a 'particular vantage point' that shapes significance. 'Situated' means produced from a specific position/context — exactly what is described. The blank completes the thesis statement.",
+        "answer_not_in_passage": "'Situated' does not appear in the passage.",
+        "distractor_validity": "universal (the argument is that history is NOT universal), permanent (about durability, not positionality), redundant (implies repetition — irrelevant), fictional (the argument is about perspective, not fabrication — this is a designed trap for careless readers).",
+        "synthesis_required": "Must connect: 'particular vantage point' + 'shaped by position, assumptions, values of the historian' → knowledge is position-dependent → 'situated.'",
+        "word_count": 208
+      },
+      "explanations": {
+        "correct": "정답: ④ situated\n빈칸은 'historical knowledge is always ___, shaped by the position, assumptions, and values of the historian'에 있습니다. 지문은 역사 서술이 중립적 창이 아니라 항상 선택과 관점이 개입된다고 주장합니다. 페미니스트 역사학자들은 기존 역사가 남성/공적 영역 중심이었음을 지적하며, 역사는 항상 '특정 관점(particular vantage point)'에서 쓰인다고 주장했습니다. 'situated(위치한/맥락 의존적)'는 지식이 특정 입장/맥락에서 생산된다는 뜻으로, 이 논증을 정확히 요약합니다.",
+        "wrong": {
+          "1": "① universal — '보편적'은 지문의 주장과 정반대입니다. 역사적 지식은 보편적이 아니라 관점에 따라 달라진다는 것이 핵심입니다.",
+          "2": "② permanent — '영구적'은 지식의 지속성에 관한 것으로, 관점 의존성과는 다른 축입니다.",
+          "3": "③ redundant — '불필요한/중복된'은 반복에 관한 개념으로, 지문의 논점과 무관합니다.",
+          "5": "⑤ fictional — '허구적'은 매력적인 함정이지만, 지문은 역사가 허구라는 것이 아니라 관점에 의존한다고 주장합니다. 관점 의존성 ≠ 허구성입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸 뒤에 오는 동격/부연 구문('shaped by the position, assumptions, and values')이 빈칸 단어의 정의를 직접 제공합니다. 이 부연 설명을 학술적 용어 하나로 압축하는 것이 핵심입니다."
+      }
+    },
+    {
+      "id": "v2-31-12",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "When scientists attempt to explain a phenomenon to the public, they frequently resort to analogies — comparing the unfamiliar to the familiar. Physicists describe electrons 'orbiting' atomic nuclei like planets around the sun; biologists describe the cell membrane as a 'gatekeeper.' These analogies are undeniably useful: they provide intuitive entry points for non-specialists and can inspire new lines of research by suggesting structural similarities across domains. Yet analogies carry a hidden risk. Because an analogy highlights the ways in which two things are similar, it simultaneously conceals the ways in which they differ. The planetary model of the atom, for instance, led many students — and even some researchers — to mistakenly attribute continuous trajectories to electrons, when quantum mechanics describes something far stranger and fundamentally discontinuous. The power of analogical reasoning, therefore, lies not in its accuracy but in its ______________, which must be balanced against the distortions it inevitably introduces.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "accessibility",
+        "precision",
+        "neutrality",
+        "complexity",
+        "authority"
+      ],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage presents two sides of analogies: they provide 'intuitive entry points' and inspire research (useful), but they conceal differences and cause misunderstanding (risky). The blank is about analogies' power — specifically the positive side that must be balanced against distortion. 'Accessibility' captures 'intuitive entry points for non-specialists.'",
+        "answer_not_in_passage": "'Accessibility' does not appear in the passage.",
+        "distractor_validity": "precision (the passage says analogies are NOT precise — they conceal differences), neutrality (analogies are not neutral — they highlight certain features), complexity (analogies simplify, not complexify), authority (not discussed).",
+        "synthesis_required": "Must identify that the passage's praise of analogies centers on making the unfamiliar accessible to non-specialists → 'accessibility' is what is 'balanced against distortions.'",
+        "word_count": 215
+      },
+      "explanations": {
+        "correct": "정답: ① accessibility\n빈칸은 'The power of analogical reasoning lies not in its accuracy but in its ___, which must be balanced against the distortions'에 있습니다. 지문은 유추의 양면성을 다룹니다. 장점: 비전문가에게 '직관적 진입점(intuitive entry points)'을 제공하고 새 연구를 촉발. 단점: 유사점을 부각하면서 차이점을 은폐하여 왜곡을 야기. 빈칸은 유추의 힘이 '정확성이 아니라' 무엇에 있는지를 묻습니다. 비전문가가 쉽게 접근할 수 있게 해주는 것 = 'accessibility(접근성)'입니다.",
+        "wrong": {
+          "2": "② precision — '정밀함'은 지문이 유추가 정밀하지 않다고 명시적으로 말하고 있어 (차이점을 은폐) 적합하지 않습니다. 'not in its accuracy'와 같은 맥락입니다.",
+          "3": "③ neutrality — '중립성'은 유추가 특정 유사점을 부각시킨다는 점에서 중립적이지 않습니다.",
+          "4": "④ complexity — '복잡성'은 유추의 역할과 반대입니다. 유추는 복잡한 것을 단순화하는 도구입니다.",
+          "5": "⑤ authority — '권위'는 지문에서 논의되지 않는 개념입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'not A but B' 구문에서 A(accuracy)가 부정되면 B(빈칸)는 A와 다른 차원의 장점입니다. 지문에서 유추의 긍정적 측면으로 언급된 'intuitive entry points for non-specialists'를 한 단어로 압축하면 'accessibility'입니다."
+      }
+    },
+    {
+      "id": "v2-31-13",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "Trust is one of the most peculiar and indispensable features of social life. It requires making oneself vulnerable to another person on the basis of expectations about their future behavior — expectations that cannot be guaranteed in advance. An economist might wonder why rational individuals would ever trust one another: if both parties are self-interested, each has an incentive to defect from cooperative arrangements when the opportunity arises. Yet trust is pervasive in human societies, even among strangers. The sociologist Niklas Luhmann proposed that trust functions as a mechanism for ______________ the complexity of social life. Because we cannot monitor every person's intentions at every moment, we adopt the working assumption that others will behave consistently and predictably. This assumption allows us to act without having to calculate every possible contingency — it simplifies the world enough that coordinated action becomes possible.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "amplifying",
+        "creating",
+        "eliminating",
+        "reducing",
+        "disguising"
+      ],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "Luhmann's argument is that trust 'simplifies the world' — we assume consistent behavior so we don't calculate every contingency. The blank describes what trust does to complexity. 'Reducing' (complexity) fits precisely with 'simplifies' and 'without having to calculate every possible contingency.'",
+        "answer_not_in_passage": "'Reducing' in this specific collocation does not appear in the passage.",
+        "distractor_validity": "amplifying (opposite of simplifying), creating (trust responds to existing complexity, doesn't create it), eliminating (too strong — trust manages, not eliminates complexity), disguising (implies deception, which contradicts the functional/adaptive framing).",
+        "synthesis_required": "Must connect: 'cannot monitor every person' (complexity exists) → trust = working assumption → allows acting without calculating every contingency → trust 'reduces' complexity.",
+        "word_count": 198
+      },
+      "explanations": {
+        "correct": "정답: ④ reducing\n빈칸은 'trust functions as a mechanism for ___ the complexity of social life'에 있습니다. Luhmann에 따르면 우리는 모든 사람의 의도를 매 순간 감시할 수 없기 때문에, 다른 사람이 일관되고 예측 가능하게 행동할 것이라는 '작업 가정(working assumption)'을 채택합니다. 이를 통해 모든 가능한 상황을 계산하지 않고도 행동할 수 있으며, 세상을 '단순화(simplifies)'합니다. 신뢰가 복잡성을 '줄이는(reducing)' 메커니즘이라는 것이 핵심입니다.",
+        "wrong": {
+          "1": "① amplifying — '증폭하다'는 'simplifies the world'라는 지문 내용과 정반대입니다.",
+          "2": "② creating — '만들다'는 신뢰가 복잡성을 만든다는 뜻인데, 신뢰는 이미 존재하는 복잡성에 대응하는 메커니즘입니다.",
+          "3": "③ eliminating — '제거하다'는 너무 강한 표현입니다. 신뢰는 복잡성을 완전히 없애는 것이 아니라 관리 가능한 수준으로 줄입니다.",
+          "5": "⑤ disguising — '위장하다'는 속임수를 암시하는데, 지문은 신뢰를 기능적/적응적 메커니즘으로 설명합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸 문장 이후에 나오는 부연 설명이 빈칸의 의미를 구체적으로 풀어줍니다. 'simplifies the world enough that coordinated action becomes possible'이 '___ the complexity'를 직접 설명합니다. 특히 ③처럼 방향은 맞지만 정도가 과한 선지를 구별하는 것이 중요합니다."
+      }
+    },
+    {
+      "id": "v2-31-14",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "In the philosophy of perception, one of the oldest puzzles concerns the relationship between what we sense and what we experience. When you look at a tomato in ordinary light, you experience it as red and round. But if the lighting changes, the wavelengths reaching your eye change too — yet you still see the tomato as red. This phenomenon, called color constancy, reveals that the visual system does not simply register physical inputs; it actively corrects for known distortions in the environment. Cognitive scientists have extended this observation to argue that all perception is, in a sense, constructive. The brain does not function like a camera that passively records the world; it functions more like a detective, combining fragmentary sensory inputs with prior knowledge and contextual expectations to generate the most plausible ______________ of what is out there.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "interpretation",
+        "rejection",
+        "elimination",
+        "imitation",
+        "contradiction"
+      ],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage argues perception is 'constructive' — the brain acts like a detective combining sensory input + prior knowledge + context to generate a conclusion about the world. 'Interpretation' is the act of making sense of fragmentary evidence, matching the detective metaphor precisely.",
+        "answer_not_in_passage": "'Interpretation' does not appear in the passage.",
+        "distractor_validity": "rejection (the brain doesn't reject inputs — it integrates them), elimination (same problem), imitation (copying, not constructive inference), contradiction (the brain resolves, not contradicts, sensory ambiguity).",
+        "synthesis_required": "Must connect color constancy (active correction) + constructive perception + detective metaphor (combining fragments + prior knowledge) → generating an 'interpretation' of reality.",
+        "word_count": 205
+      },
+      "explanations": {
+        "correct": "정답: ① interpretation\n빈칸은 'the brain combines fragmentary sensory inputs with prior knowledge and contextual expectations to generate the most plausible ___ of what is out there'에 있습니다. 지문은 지각이 카메라처럼 수동적 기록이 아니라 탐정처럼 능동적 구성이라고 주장합니다. 색 항상성(color constancy) 사례를 통해 시각 시스템이 환경의 왜곡을 적극적으로 보정함을 보여줍니다. 단편적 감각 입력 + 사전 지식 + 맥락적 기대를 결합하여 '가장 그럴듯한' 결론을 생성하는 것 — 이는 곧 'interpretation(해석)'입니다.",
+        "wrong": {
+          "2": "② rejection — '거부'는 뇌가 입력을 거부한다는 뜻인데, 지문은 뇌가 입력을 통합한다고 설명합니다.",
+          "3": "③ elimination — '제거'도 rejection과 같은 문제입니다. 뇌는 감각 입력을 제거하지 않고 조합합니다.",
+          "4": "④ imitation — '모방'은 복사를 의미하지만, 지문은 지각이 수동적 복사가 아닌 능동적 구성이라고 주장합니다.",
+          "5": "⑤ contradiction — '모순'은 뇌가 감각적 모호성을 해결한다는 지문과 맞지 않습니다. 뇌는 모순을 만들지 않고 해소합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 비유(여기서는 '탐정')가 사용되면 그 비유의 핵심 행위가 빈칸의 단서입니다. 탐정의 핵심 행위 = 단서를 조합하여 사건을 해석하는 것 → 'interpretation'입니다."
+      }
+    },
+    {
+      "id": "v2-31-15",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "For much of modern history, the dominant theory of the mind held that human beings are essentially rational agents who form beliefs by weighing evidence and adjusting their views in response to new information. This picture underlies classical economics, with its model of the utility-maximizing consumer, and much of political theory, with its deliberating citizen. The behavioral revolution in economics and psychology, spearheaded by Daniel Kahneman and Amos Tversky, challenged this assumption decisively. Their research showed that human judgment is systematically distorted by a range of cognitive shortcuts, or heuristics, that evolved to solve the practical problems of ancestral environments but that produce predictable errors in modern contexts. People assess probability through the lens of how easily an example comes to mind, not by calculating base rates. They hold on to losses more than they value equivalent gains. They are swayed by how a choice is framed rather than by the underlying options. Rationality, in other words, is not a default human trait but an ______________ that requires effort and deliberate practice to achieve.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "outcome",
+        "instinct",
+        "illusion",
+        "aspiration",
+        "obstacle"
+      ],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage argues rationality is not a default (contradicts classical assumption). The behavioral evidence shows systematic biases. The blank must express that rationality is something we aim for but must work to achieve — an 'aspiration' that requires effort and deliberate practice.",
+        "answer_not_in_passage": "'Aspiration' does not appear in the passage.",
+        "distractor_validity": "outcome (neutral — doesn't capture the effortful, goal-directed quality), instinct (the opposite — instincts produce the biases), illusion (implies rationality doesn't exist — too strong; the passage says it requires effort, not that it's impossible), obstacle (rationality is the goal, not the barrier).",
+        "synthesis_required": "Must synthesize: classical view wrong + behavioral biases are default + BUT the blank is paired with 'requires effort and deliberate practice to achieve' → rationality is a goal/aspiration, not natural.",
+        "word_count": 228
+      },
+      "explanations": {
+        "correct": "정답: ④ aspiration\n빈칸은 'Rationality is not a default human trait but an ___ that requires effort and deliberate practice to achieve'에 있습니다. 지문은 고전적 합리성 가정(인간은 본래 합리적)을 Kahneman과 Tversky의 행동 혁명으로 반박합니다. 인간은 체계적 편향(가용성 휴리스틱, 손실 회피, 프레이밍 효과)에 지배되며, 합리성은 기본값이 아닙니다. 그러나 빈칸 뒤의 'requires effort and deliberate practice to achieve'가 결정적 단서입니다 — 합리성은 불가능하지 않고, 노력으로 달성해야 하는 '열망/목표(aspiration)'입니다.",
+        "wrong": {
+          "1": "① outcome — '결과'는 중립적 표현으로, '노력으로 달성해야 하는 목표'라는 능동적 의미가 부족합니다.",
+          "2": "② instinct — '본능'은 정반대입니다. 지문은 본능적인 것은 편향이며, 합리성은 본능이 아니라고 주장합니다.",
+          "3": "③ illusion — '환상'은 합리성이 아예 존재하지 않는다는 뜻인데, 지문은 '노력으로 달성 가능'하다고 하므로 너무 극단적입니다.",
+          "5": "⑤ obstacle — '장애물'은 합리성이 방해물이라는 뜻인데, 합리성은 목표이지 장벽이 아닙니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸 뒤에 관계절('that requires effort and deliberate practice to achieve')이 오면, 이 관계절이 빈칸 단어의 속성을 직접 규정합니다. '노력과 의도적 연습이 필요한 것'에 해당하는 단어를 선지에서 찾으세요."
+      }
+    },
+    {
+      "id": "v2-31-16",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "The ecological concept of a keystone species refers to an organism whose effect on its environment is disproportionately large relative to its abundance. The classic example is the sea otter along the Pacific coast of North America. Otters prey on sea urchins; sea urchins, in turn, consume kelp. When otters were hunted to near-extinction in the eighteenth and nineteenth centuries, sea urchin populations exploded, kelp forests were devastated, and the entire suite of species that depended on those forests collapsed with them. When otter populations recovered, the forests grew back. The otter did not simply occupy a niche; it actively ______________ the ecosystem by keeping urchin populations in check, which allowed kelp to flourish, which provided habitat for hundreds of other species. Remove a keystone species, and the structure of the entire community may unravel.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "abandoned",
+        "isolated",
+        "disrupted",
+        "regulated",
+        "imitated"
+      ],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage shows otters 'kept urchin populations in check' → kelp flourished → habitat for hundreds of species. The blank describes what the otter did to the ecosystem: it maintained/controlled it. 'Regulated' is the precise fit — keeping populations in check is a regulatory function.",
+        "answer_not_in_passage": "'Regulated' does not appear in this specific position in the passage.",
+        "distractor_validity": "abandoned (opposite — otters actively maintain the system), isolated (does not describe the otter's ecological role), disrupted (opposite — the otter's absence causes disruption, not its presence), imitated (irrelevant).",
+        "synthesis_required": "Must connect: urchin predation → kelp recovery → dependent species → 'by keeping urchin populations in check' = regulatory function → 'regulated' the ecosystem.",
+        "word_count": 206
+      },
+      "explanations": {
+        "correct": "정답: ④ regulated\n빈칸은 'The otter actively ___ the ecosystem by keeping urchin populations in check'에 있습니다. 지문은 핵심종(keystone species)으로서의 해달을 설명합니다. 해달 → 성게 포식 → 성게 개체수 억제 → 켈프 숲 번성 → 수백 종의 서식지 제공이라는 연쇄 효과가 핵심입니다. 해달이 없어지자 성게 폭증 → 켈프 숲 파괴 → 전체 생태계 붕괴. 해달이 돌아오자 숲이 회복. 이 과정은 해달이 생태계를 '조절(regulated)'하는 것 — 개체수를 억제하여 전체 균형을 유지하는 기능입니다.",
+        "wrong": {
+          "1": "① abandoned — '버렸다'는 해달이 적극적으로 시스템을 유지한다는 지문과 정반대입니다.",
+          "2": "② isolated — '고립시켰다'는 해달의 생태적 역할을 설명하지 못합니다.",
+          "3": "③ disrupted — '교란했다'는 해달의 부재가 교란을 일으킨다는 것이지, 존재가 교란하는 것이 아닙니다. 주의: 해달의 존재 = 안정, 부재 = 교란입니다.",
+          "5": "⑤ imitated — '모방했다'는 생태적 조절 기능과 무관한 개념입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸 뒤 'by ~ing' 구문이 빈칸의 구체적 방법을 설명합니다. 'by keeping urchin populations in check(성게 개체수를 억제함으로써)'가 빈칸 행위의 실체를 알려줍니다. 개체수 억제 = 조절(regulation)입니다."
+      }
+    },
+    {
+      "id": "v2-31-17",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "standard",
+      "passage": "The modern conception of childhood as a protected, innocent phase of life, clearly demarcated from adulthood and requiring special institutional care, is a relatively recent historical invention. Philippe Ariès, in his landmark study of medieval imagery, argued that pre-modern European societies did not recognize childhood as a distinct life stage. Children in medieval paintings appear as small adults, dressed in adult clothing, participating in adult occupations. The institutions we associate with childhood — prolonged formal schooling, age-graded classrooms, children's literature — did not emerge until the seventeenth and eighteenth centuries, alongside the rise of the bourgeois family and print culture. This historical perspective does not mean that pre-modern parents loved their children less; rather, it suggests that the experience of growing up is not a natural biological given but is ______________ by the cultural and economic conditions of the society in which it occurs.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "rejected",
+        "shaped",
+        "undermined",
+        "accelerated",
+        "eliminated"
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage argues childhood is historically and culturally variable (not natural/universal). Ariès's evidence: medieval imagery, late emergence of childhood institutions. Conclusion: growing up is not a biological given but is ___ by cultural and economic conditions. 'Shaped' is the precise fit — culture molds the experience.",
+        "answer_not_in_passage": "'Shaped' in this specific final-sentence position does not appear in the passage.",
+        "distractor_validity": "rejected (too strong — conditions don't reject growing up), undermined (implies damage, not variation), accelerated (about speed, not form), eliminated (too strong and factually wrong).",
+        "synthesis_required": "Must understand: childhood is historically constructed + varies with cultural/economic context → experience of growing up is 'shaped' by those conditions.",
+        "word_count": 218
+      },
+      "explanations": {
+        "correct": "정답: ② shaped\n빈칸은 'the experience of growing up is not a natural biological given but is ___ by the cultural and economic conditions'에 있습니다. 지문은 '어린 시절'이라는 개념이 비교적 최근의 역사적 발명이라고 주장합니다. Philippe Aries의 연구에 따르면 중세 유럽에서는 어린이가 작은 성인으로 취급되었고, 연령별 학급, 아동문학 등은 17-18세기에야 등장했습니다. 결론: 성장의 경험은 자연적/생물학적으로 주어진 것이 아니라 문화적/경제적 조건에 의해 '형성된(shaped)' 것입니다.",
+        "wrong": {
+          "1": "① rejected — '거부된'은 너무 강한 표현입니다. 문화가 성장 경험을 거부하는 것이 아니라 형성합니다.",
+          "3": "③ undermined — '약화된'은 손상을 암시하지만, 지문은 문화가 경험을 해치는 것이 아니라 다르게 만든다고 합니다.",
+          "4": "④ accelerated — '가속된'은 속도에 관한 것으로, 문화가 경험의 형태를 결정한다는 논점과 무관합니다.",
+          "5": "⑤ eliminated — '제거된'은 사실적으로 불가능하며, 지문의 논증과도 맞지 않습니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 'not A but B' 구문에서 A가 'natural biological given(자연적으로 주어진 것)'이면, B는 '외부 요인에 의해 형성된 것'이어야 합니다. 선지 중 '중립적 변형'을 나타내는 단어와 '부정적 변형(rejected, undermined, eliminated)'을 구별하세요."
+      }
+    },
+    {
+      "id": "v2-31-18",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "challenging",
+      "passage": "For decades, philosophers and psychologists have debated whether free will — the capacity to have acted otherwise in any given situation — is compatible with a deterministic universe in which every event is causally necessitated by prior events. Compatibilists argue that this apparent conflict dissolves once we understand what freedom actually requires. A free action, they contend, is not one that is uncaused, but one that is caused by the right kinds of things — specifically, by the agent's own desires, values, and reasoning processes, rather than by external compulsion or internal pathology. When someone acts under coercion or in the grip of addiction, their action is unfree not because it is determined, but because the determining causes bypass their authentic ______________ processes. Freedom, for the compatibilist, is a matter of what determines your actions, not whether your actions are determined.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "physical",
+        "deliberative",
+        "social",
+        "emotional",
+        "automatic"
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "Compatibilism: free action = caused by own desires, values, and reasoning. Unfree action = caused by compulsion/pathology that bypasses authentic self-guidance. The blank completes 'bypass their authentic ______________ processes.' The context is 'desires, values, and reasoning' — the process of thinking through and deciding → 'deliberative.'",
+        "answer_not_in_passage": "'Deliberative' does not appear in the passage.",
+        "distractor_validity": "physical (describes bodily processes, not reasoning/agency), social (external factors, not the internal reasoning the passage specifies), emotional (emotions are mentioned implicitly via desires, but the argument is about reasoning/decision-making processes), automatic (the opposite — automatic processes bypass deliberation).",
+        "synthesis_required": "Must connect: free = caused by 'own desires, values, and reasoning' → the 'authentic processes' being bypassed by coercion are reasoning/deliberation → 'deliberative.'",
+        "word_count": 213
+      },
+      "explanations": {
+        "correct": "정답: ② deliberative\n빈칸은 'the determining causes bypass their authentic ___ processes'에 있습니다. 양립론(compatibilism)에 따르면 자유로운 행위는 '비원인적'인 것이 아니라 '올바른 종류의 원인' — 즉 행위자 자신의 욕구, 가치, 추론 과정(desires, values, and reasoning processes)에 의해 야기된 것입니다. 강제나 중독 하에서의 행위가 부자유한 이유는 결정 원인이 이러한 '진정한 숙고(deliberative) 과정'을 우회하기 때문입니다. 'deliberative(숙고적)'는 욕구, 가치, 추론을 통한 의사결정 과정을 포괄하는 정확한 표현입니다.",
+        "wrong": {
+          "1": "① physical — '신체적'은 몸의 과정을 의미하지만, 지문이 강조하는 것은 욕구/가치/추론이라는 정신적 과정입니다.",
+          "3": "③ social — '사회적'은 외적 요인인데, 지문은 내적 추론 과정이 핵심이라고 합니다.",
+          "4": "④ emotional — '감정적'은 욕구와 간접적으로 관련되지만, 지문의 논증은 추론/의사결정 전체 과정에 초점을 맞추고 있습니다.",
+          "5": "⑤ automatic — '자동적'은 정반대입니다. 자동적 과정이 숙고를 우회하는 것이 부자유의 원인이므로, 우회당하는 과정은 '자동적'이 아니라 '숙고적'이어야 합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 철학 지문에서 핵심 개념을 풀어쓴 뒤(desires, values, reasoning processes) 마지막에 이를 하나의 형용사로 압축해야 할 때, 나열된 요소들의 공통분모를 찾으세요. 욕구+가치+추론 = 숙고(deliberation)의 구성 요소입니다."
+      }
+    },
+    {
+      "id": "v2-31-19",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "challenging",
+      "passage": "The phenomenon of moral luck, introduced to contemporary philosophy by Thomas Nagel and Bernard Williams, poses a profound challenge to our ordinary practices of moral assessment. We typically hold people responsible for their choices and their outcomes only insofar as those choices and outcomes were within their control. Yet in practice, the moral judgments we make — and the guilt and credit we assign — are influenced by factors that are entirely beyond the agent's control. Consider two equally reckless drivers who run red lights in identical circumstances: one happens to hit a pedestrian who stepped off the curb, the other drives through an empty intersection. We tend to hold the first driver significantly more culpable, despite the fact that the only difference between them is a matter of luck — the presence of a pedestrian. Nagel argued that this intuition, while psychologically irresistible, reveals a deep ______________ in our moral thinking: we cannot consistently hold that only what is within our control matters, because our judgments routinely violate this principle.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "advancement",
+        "consensus",
+        "redundancy",
+        "incoherence",
+        "resilience"
+      ],
+      "answer": 4,
+      "points": 3,
+      "self_check": {
+        "logical_flow": "The passage shows moral luck creates a contradiction: we say only controllable matters, but we judge based on uncontrollable luck. Nagel's conclusion is that this reveals a problem in our moral thinking — not an advancement or consensus, but a failure of consistency. 'Incoherence' captures this internal contradiction/inconsistency.",
+        "answer_not_in_passage": "'Incoherence' does not appear in the passage.",
+        "distractor_validity": "advancement (implies progress — the opposite of what Nagel is arguing), consensus (implies agreement — the passage reveals disagreement/inconsistency), redundancy (implies repetition, not contradiction), resilience (implies strength — the opposite of the problem Nagel identifies).",
+        "synthesis_required": "Must understand: (1) the control principle = only what's in your control matters morally, (2) moral luck cases violate this, (3) our intuitions nonetheless track luck → we cannot consistently apply our own stated principle → 'incoherence' in moral thinking.",
+        "word_count": 225
+      },
+      "explanations": {
+        "correct": "정답: ④ incoherence\n빈칸은 'this intuition reveals a deep ___ in our moral thinking'에 있습니다. 지문은 도덕적 운(moral luck)의 역설을 제시합니다. 우리는 '통제 가능한 것만 도덕적으로 중요하다'는 원칙을 가지고 있지만, 실제 판단에서는 운(보행자의 존재 여부)에 따라 책임을 다르게 부과합니다. 동일하게 무모한 두 운전자에게 다른 도덕적 평가를 내리는 것입니다. Nagel은 이것이 우리 도덕적 사고의 '비일관성(incoherence)' — 원칙과 실제 판단 사이의 내적 모순 — 을 드러낸다고 주장합니다.",
+        "wrong": {
+          "1": "① advancement — '발전'은 Nagel이 문제를 제기하는 맥락에 맞지 않습니다. 이것은 도덕적 사고의 진보가 아니라 결함을 지적하는 것입니다.",
+          "2": "② consensus — '합의'는 동의를 암시하지만, 지문은 우리 내부의 비일관성/불일치를 보여줍니다.",
+          "3": "③ redundancy — '중복/불필요'는 반복에 관한 개념으로, 원칙과 판단의 모순과는 무관합니다.",
+          "5": "⑤ resilience — '회복력'은 강점을 암시하지만, Nagel이 지적하는 것은 도덕적 사고의 약점/결함입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 지문이 '우리는 원칙 X를 가지고 있지만, 실제로는 원칙 X를 위반한다'는 구조를 보이면, 이는 '비일관성(incoherence/inconsistency)'을 가리킵니다. 원칙과 실천의 괴리가 핵심 논점입니다."
+      }
+    },
+    {
+      "id": "v2-31-20",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "challenging",
+      "passage": "Narrative identity theory, developed by the philosopher Paul Ricoeur and the psychologist Dan McAdams, proposes that personal identity is not a fixed essence that persists unchanged through time but a story that a person constructs about themselves over the course of a life. We create coherence out of the fragmented, sometimes contradictory experiences of living by imposing a narrative structure — beginnings, turning points, character arcs — on what is in fact a continuous and open-ended process. This story is not merely retrospective; it also projects forward, shaping the choices we make and the person we aspire to become. Crucially, the narrative is never completed and is always susceptible to revision. A new experience, a different relationship, or a therapeutic encounter can prompt us to reinterpret earlier chapters, casting earlier events in a new light and thereby changing what kind of person we understand ourselves to be. Identity, on this account, is less a possession than an ongoing ______________ — a work always in progress.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "transaction",
+        "regression",
+        "composition",
+        "obligation",
+        "illusion"
+      ],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "logical_flow": "The passage presents identity as a narrative being actively constructed, revised, and projected forward — 'a work always in progress.' The blank needs a word capturing the active, creative, ongoing process of making/building the narrative self. 'Composition' (as in composing a story/work) fits perfectly.",
+        "answer_not_in_passage": "'Composition' does not appear in the passage.",
+        "distractor_validity": "transaction (implies exchange between parties — identity is not a transaction), regression (backward movement — the passage emphasizes ongoing forward construction), obligation (duty-framing not supported), illusion (the passage treats narrative identity as real/functional, not illusory).",
+        "synthesis_required": "Must synthesize: identity = story constructed over life + not fixed + open to revision + 'work always in progress' → the process of creating this story = 'composition.'",
+        "word_count": 218
+      },
+      "explanations": {
+        "correct": "정답: ③ composition\n빈칸은 'Identity is less a possession than an ongoing ___ — a work always in progress'에 있습니다. 서사 정체성 이론에 따르면, 정체성은 고정된 본질이 아니라 삶의 과정에서 구성하는 '이야기'입니다. 서사 구조(시작, 전환점, 캐릭터 아크)를 부여하고, 미래로 투사하며, 항상 수정 가능합니다. 'composition(작곡/작문/구성)'은 이야기를 능동적으로 만들어가는 창작 과정을 의미하며, 'a work always in progress(항상 진행 중인 작업)'라는 동격 표현과 완벽하게 일치합니다.",
+        "wrong": {
+          "1": "① transaction — '거래'는 당사자 간 교환을 암시하지만, 정체성은 자기 자신에 대한 이야기이지 타인과의 거래가 아닙니다.",
+          "2": "② regression — '퇴행'은 뒤로 가는 움직임인데, 지문은 정체성이 앞으로 투사되고 계속 구성된다고 합니다.",
+          "4": "④ obligation — '의무'는 당위적 프레임인데, 지문은 정체성 구성을 의무가 아닌 자연스러운 과정으로 설명합니다.",
+          "5": "⑤ illusion — '환상'은 서사 정체성이 허구라는 뜻인데, 지문은 이를 실제적/기능적인 것으로 다룹니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸 뒤의 대시(—) 이후 동격 표현('a work always in progress')이 빈칸의 의미를 직접 정의합니다. '항상 진행 중인 작업'을 나타내는 명사 = composition(구성/창작)입니다."
+      }
+    },
+    {
+      "id": "v2-31-21",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "challenging",
+      "passage": "The concept of risk is deceptively simple. In formal decision theory, risk is defined as the product of the probability of an event and the magnitude of its consequences. Yet research in cognitive psychology and anthropology has consistently shown that people's actual responses to risk deviate sharply from this formula. We are far more averse to losses than to equivalent gains — the prospect of losing one hundred dollars causes roughly twice the psychological distress as the prospect of gaining one hundred dollars causes pleasure. We overestimate the probability of dramatic, memorable events such as plane crashes while underestimating the probability of mundane but statistically more common causes of death such as falls or heart disease. Perhaps most significantly, our risk assessments are deeply influenced by the degree to which a hazard is ______________ — risks that are invisible, unfamiliar, or felt to lie outside our personal control provoke far greater dread than equally dangerous but visible and voluntary ones, regardless of their actual probability.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "calculable",
+        "avoidable",
+        "contested",
+        "preventable",
+        "uncontrollable"
+      ],
+      "answer": 5,
+      "points": 3,
+      "self_check": {
+        "logical_flow": "The blank describes a dimension of risk that increases dread: 'invisible, unfamiliar, or felt to lie outside our personal control.' The passage's final clause directly defines the blank's meaning: 'felt to lie outside our personal control.' 'Uncontrollable' is the precise synthesis of these descriptors.",
+        "answer_not_in_passage": "'Uncontrollable' as a standalone adjective in this subject position does not appear in the passage. The passage says 'outside our personal control' in a subordinate clause.",
+        "distractor_validity": "calculable (the formal model the passage is challenging — this is a trap for surface readers), avoidable (partly overlaps with controllability but misses the 'invisible/unfamiliar' dimension), contested (implies disagreement about the risk, not personal control), preventable (about prevention, not the control dimension of dread).",
+        "synthesis_required": "Must synthesize all three dread-amplifying features (invisible + unfamiliar + outside personal control) and identify 'uncontrollable' as the umbrella term, distinguishing it from 'voluntary and controllable' risks mentioned at the end.",
+        "word_count": 223
+      },
+      "explanations": {
+        "correct": "정답: ⑤ uncontrollable\n빈칸은 'risk assessments are deeply influenced by the degree to which a hazard is ___'에 있습니다. 빈칸 바로 뒤에 대시(—) 이후 정의가 나옵니다: 'invisible, unfamiliar, or felt to lie outside our personal control.' 이 세 특성의 공통분모이자 핵심은 '통제 불가능성'입니다. 또한 마지막 부분에서 'equally dangerous but visible and voluntary ones'과 대조되는데, voluntary(자발적)의 반대가 uncontrollable(통제 불가능한)입니다.",
+        "wrong": {
+          "1": "① calculable — '계산 가능한'은 지문이 도전하고 있는 형식적 위험 이론(확률 × 결과)의 관점이므로, 오히려 지문이 반박하는 개념입니다.",
+          "2": "② avoidable — '회피 가능한'은 통제 가능성과 부분적으로 겹치지만, 'invisible/unfamiliar' 차원을 포괄하지 못합니다.",
+          "3": "③ contested — '논쟁적'은 위험에 대한 사회적 의견 불일치를 암시하지만, 지문의 논점은 개인적 통제감입니다.",
+          "4": "④ preventable — '예방 가능한'은 예방에 관한 것으로, 공포를 유발하는 통제 불가능성과는 다른 개념입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸 직후에 대시(—)로 연결된 설명구가 오면, 그 설명이 빈칸의 정의입니다. 여러 특성이 나열되면 그 공통 상위 개념을 찾으세요. invisible + unfamiliar + outside personal control의 공통분모 = uncontrollable."
+      }
+    },
+    {
+      "id": "v2-31-22",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "challenging",
+      "passage": "In the study of how knowledge spreads across generations, researchers have identified a fundamental asymmetry between two modes of cultural transmission. The first mode, which we may call surface replication, involves an observer watching a skilled practitioner and reproducing the visible form of their behavior without necessarily grasping the underlying logic. This approach is fast and efficient but fragile — small disruptions in the chain of transmission can corrupt or lose the practice entirely, because no one in the chain understands why the behavior works. The second mode is principled reconstruction: a learner understands the functional principles well enough to derive the behavior independently, even after disruptions. Reconstruction is slower and requires more cognitive investment, but the knowledge it encodes is robust to noise and can recover from partial loss. Human cultural evolution appears to have grown more reliant on reconstruction as practices grew more complex, because at higher levels of complexity, ______________ without comprehension leads to the gradual accumulation of errors that no individual practitioner can detect or correct.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "innovation",
+        "cooperation",
+        "mimicry",
+        "observation",
+        "documentation"
+      ],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "logical_flow": "The passage contrasts surface replication (fast, fragile, no understanding of why) vs. principled reconstruction (slow, robust, principle-based). The blank completes the explanation of why reconstruction grew more important at higher complexity: ______________ 'without comprehension' causes error accumulation. 'Mimicry' is a synonym for surface replication — copying visible behavior without understanding — and does NOT appear elsewhere in the passage.",
+        "answer_not_in_passage": "'Mimicry' does NOT appear anywhere else in the passage. The passage uses 'surface replication' and 'reproducing' instead.",
+        "distractor_validity": "innovation (creating new things — opposite of surface copying), cooperation (joint effort — not what the passage is about), observation (only watching, not yet reproducing), documentation (recording in writing — unrelated to the transmission mechanism described).",
+        "synthesis_required": "Must understand: surface replication = copying form without understanding why → at high complexity this fails → 'mimicry without comprehension' leads to error accumulation. Must recognize 'mimicry' as the failure mode being described, not a synonym for 'observation' or 'documentation.'",
+        "word_count": 218
+      },
+      "explanations": {
+        "correct": "정답: ③ mimicry\n빈칸은 '___ without comprehension leads to the gradual accumulation of errors'에 있습니다. 지문은 문화 전수의 두 가지 방식을 대조합니다: (1) 표면 복제(surface replication) — 보이는 행동을 이해 없이 따라함, 빠르지만 깨지기 쉬움, (2) 원리적 재구성(principled reconstruction) — 기능 원리를 이해하여 독립적으로 도출, 느리지만 견고함. 복잡성이 높아지면 이해 없는 복제는 오류가 누적됩니다. 'mimicry(모방)'는 surface replication의 동의어로, '이해 없이 겉모습만 따라하는 것'을 정확히 표현합니다.",
+        "wrong": {
+          "1": "① innovation — '혁신'은 새로운 것을 만드는 것으로, 표면적 복제(기존 행동을 따라하는 것)와 반대 개념입니다.",
+          "2": "② cooperation — '협력'은 공동 작업에 관한 것으로, 지문이 다루는 전수 메커니즘과 무관합니다.",
+          "4": "④ observation — '관찰'은 보는 것에 그치지만, 지문에서 문제가 되는 것은 관찰 후 이해 없이 재현하는 행위입니다.",
+          "5": "⑤ documentation — '기록'은 문서화를 의미하며, 행동 복제라는 전수 메커니즘과 다른 범주입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 지문에서 특정 개념을 상세히 설명(surface replication = 이해 없이 겉모습 재현)한 뒤, 결론부에서 동의어로 바꿔 빈칸에 넣는 패턴입니다. 설명된 개념의 핵심 특성을 파악하고 동의어를 찾으세요."
+      }
+    },
+    {
+      "id": "v2-31-23",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "easy",
+      "passage": "One of the most striking features of human language is its ______________ — the property that allows speakers to produce and understand sentences they have never encountered before. A child who learns the words 'purple,' 'cloud,' and 'dance' and the grammatical rules of their language can, without ever having heard the phrase, immediately understand 'the purple clouds danced overhead.' The philosopher Noam Chomsky made this observation central to his theory of generative grammar, arguing that the brain contains a mental grammar — a finite set of rules capable of generating an infinite number of grammatical sentences. This is what distinguishes language from simple memorized repertoires: a parrot that has learned two hundred phrases has a repertoire, not a grammar. The grammar allows its user to go beyond the examples they were taught, combining and recombining elements to communicate thoughts that are genuinely new.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "ambiguity",
+        "productivity",
+        "rhythm",
+        "universality",
+        "simplicity"
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage describes language's ability to produce/understand novel sentences (never-heard-before) from finite rules → infinite output. This is the property called 'productivity' (or 'generativity') in linguistics. The passage illustrates it, and the blank names the property.",
+        "answer_not_in_passage": "'Productivity' does not appear in the passage.",
+        "distractor_validity": "ambiguity (about multiple meanings, not infinite generation), rhythm (phonological/prosodic, not generative), universality (about all humans having language, not about infinite generation), simplicity (the opposite of what generative grammar produces).",
+        "synthesis_required": "Must integrate: (a) never-heard sentences understood immediately, (b) finite rules → infinite sentences, (c) grammar vs. repertoire distinction → all point to the property of 'productivity.'",
+        "word_count": 195
+      },
+      "explanations": {
+        "correct": "정답: ② productivity\n빈칸은 문장 첫머리에 있습니다: 'One of the most striking features of human language is its ___.' 빈칸 뒤에 대시로 연결된 정의가 바로 나옵니다: 'the property that allows speakers to produce and understand sentences they have never encountered before.' 유한한 규칙으로 무한한 문법적 문장을 생성할 수 있는 능력 — 이것이 언어학에서 'productivity(생산성)'라 불리는 속성입니다. 앵무새의 200개 문구(repertoire)와 대조되는 문법(grammar)의 핵심 특성입니다.",
+        "wrong": {
+          "1": "① ambiguity — '모호성'은 하나의 문장이 여러 의미를 가지는 것으로, 무한 생성 능력과는 다른 언어적 속성입니다.",
+          "3": "③ rhythm — '리듬'은 음운/운율적 특성으로, 새로운 문장을 생성하는 능력과 무관합니다.",
+          "4": "④ universality — '보편성'은 모든 인간이 언어를 가진다는 특성이지, 무한 생성 능력이 아닙니다.",
+          "5": "⑤ simplicity — '단순성'은 생성 문법이 만드는 결과(무한한 복잡성)와 반대입니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 빈칸이 문장 시작 부분에 있고 바로 뒤에 대시(—)로 정의가 이어지면, 그 정의를 정확히 읽고 해당 개념의 학술적 명칭을 찾아야 합니다. '한 번도 들어본 적 없는 문장을 생성/이해하는 능력' = productivity."
+      }
+    },
+    {
+      "id": "v2-31-24",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "easy",
+      "passage": "In game theory, a Nash equilibrium describes a situation in which no individual player can improve their outcome by changing their strategy, given the strategies of all other players. Once a Nash equilibrium is reached, the system becomes ______________ — each player's best response to everyone else's choice is to maintain their current strategy. This concept illuminates a wide range of social phenomena. Traffic patterns, pricing strategies among competing firms, and even the evolution of social conventions can all be analyzed as equilibria in which individuals, each acting in their own interest, arrive at a stable configuration from which no one has an incentive to deviate. Perhaps the most famous example is the Prisoner's Dilemma, in which two prisoners, unable to communicate, each choose to confess rather than cooperate, reaching an equilibrium that is worse for both than mutual silence would have been. Nash equilibria can thus be stable without being optimal — a fact with important implications for understanding why collectively harmful patterns of behavior persist.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "competitive",
+        "unstable",
+        "self-reinforcing",
+        "unpredictable",
+        "progressive"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "Nash equilibrium: no player benefits from changing strategy given others' strategies → each player's best response is to maintain their strategy → the configuration sustains itself. 'Self-reinforcing' captures this: each player's rational response maintains the equilibrium, making it stable through mutual reinforcement.",
+        "answer_not_in_passage": "'Self-reinforcing' does not appear in the passage.",
+        "distractor_validity": "competitive (competition is present but the equilibrium concept is about stability, not rivalry), unstable (the opposite — Nash equilibrium is a stable configuration), unpredictable (Nash equilibria are predictable by definition), progressive (implies improvement — but Nash equilibria can be collectively suboptimal).",
+        "synthesis_required": "Must connect: no player benefits from changing + each player's best response is to maintain → the equilibrium sustains itself through mutual best-responses → 'self-reinforcing.'",
+        "word_count": 218
+      },
+      "explanations": {
+        "correct": "정답: ③ self-reinforcing\n빈칸은 'Once a Nash equilibrium is reached, the system becomes ___'에 있습니다. 내쉬 균형의 정의: 다른 모든 플레이어의 전략이 주어졌을 때, 어떤 개별 플레이어도 전략을 바꿔서 이득을 볼 수 없는 상태. 각 플레이어의 최선 대응이 현재 전략을 유지하는 것이므로, 시스템은 상호 최선 대응을 통해 스스로를 유지합니다. 'self-reinforcing(자기 강화적)'은 각 참여자의 합리적 반응이 균형을 유지/강화하는 이 특성을 정확히 표현합니다.",
+        "wrong": {
+          "1": "① competitive — '경쟁적'은 경쟁이 존재하지만, 내쉬 균형의 핵심은 안정성이지 경쟁 자체가 아닙니다.",
+          "2": "② unstable — '불안정한'은 정반대입니다. 내쉬 균형은 안정적 상태(이탈 유인이 없음)의 정의입니다.",
+          "4": "④ unpredictable — '예측 불가능한'은 내쉬 균형과 모순됩니다. 균형 상태는 정의상 예측 가능합니다.",
+          "5": "⑤ progressive — '진보적'은 개선을 암시하지만, 지문 끝에서 내쉬 균형이 '최적이 아닐 수 있다(stable without being optimal)'고 명시합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 학술 개념의 정의가 빈칸 앞뒤에 풀어져 있을 때, 그 정의의 핵심 속성을 한 단어로 압축해야 합니다. '누구도 이탈하면 손해 → 모두 유지 → 시스템 자체가 유지됨' = self-reinforcing."
+      }
+    },
+    {
+      "id": "v2-31-25",
+      "number": 31,
+      "type": "빈칸 추론",
+      "difficulty": "easy",
+      "passage": "Public health campaigns that aim to change behavior — encouraging people to exercise, eat healthier foods, or quit smoking — typically rely on information and rational persuasion. The assumption is that people behave unhealthily because they lack knowledge, and that providing accurate information about risks will lead them to make better choices. Decades of research, however, suggest that information alone rarely produces lasting behavior change. A smoker who is fully aware that cigarettes cause lung cancer does not necessarily quit. A person who knows the nutritional value of vegetables does not necessarily eat them. What seems to matter far more than information is the social and physical environment in which choices are made. When healthy food is more convenient, cheaper, and socially normal in someone's immediate surroundings, healthy behavior becomes the path of least resistance. This suggests that sustainable behavior change depends less on changing minds than on ______________ the environments that quietly shape what people actually do.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "ignoring",
+        "recording",
+        "redesigning",
+        "publicizing",
+        "protecting"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "logical_flow": "The passage argues information is insufficient and what matters is 'the social and physical environment in which choices are made.' The solution (healthy food more convenient/cheaper/socially normal) is a description of changed environments. The blank completes 'depends on ______________ the environments' — changing them = redesigning.",
+        "answer_not_in_passage": "'Redesigning' does not appear in the passage.",
+        "distractor_validity": "ignoring (opposite — the argument is to change environments, not ignore them), recording (documenting doesn't change behavior), publicizing (information-based, which the passage has already argued is insufficient), protecting (preserving existing environment contradicts the argument for change).",
+        "synthesis_required": "Must connect: information insufficient → environment determines behavior → to change behavior → must change environments → 'redesigning' the environments.",
+        "word_count": 210
+      },
+      "explanations": {
+        "correct": "정답: ③ redesigning\n빈칸은 'sustainable behavior change depends less on changing minds than on ___ the environments'에 있습니다. 지문은 공중보건 캠페인의 '정보 제공 → 행동 변화' 가정을 반박합니다. 흡연자가 폐암 위험을 알아도 끊지 않고, 영양 정보를 알아도 채소를 먹지 않습니다. 중요한 것은 정보가 아니라 '선택이 이루어지는 사회적·물리적 환경'입니다. 건강한 음식이 더 편리하고, 싸고, 사회적으로 일반적이면 건강한 행동이 저항이 가장 적은 경로가 됩니다. 따라서 환경을 '재설계(redesigning)'하는 것이 지속 가능한 행동 변화의 핵심입니다.",
+        "wrong": {
+          "1": "① ignoring — '무시하다'는 환경을 변화시키자는 주장과 정반대입니다.",
+          "2": "② recording — '기록하다'는 환경을 문서화하는 것이지 변화시키는 것이 아닙니다.",
+          "4": "④ publicizing — '홍보하다'는 정보 기반 접근법인데, 지문은 정보만으로는 불충분하다고 이미 논증했습니다.",
+          "5": "⑤ protecting — '보호하다'는 기존 환경을 유지하는 것인데, 지문은 환경을 바꿔야 한다고 주장합니다."
+        },
+        "key_point": "빈칸 추론 핵심 전략: 지문이 특정 접근법(정보 제공)을 먼저 반박한 뒤 대안을 제시하면, 빈칸에는 그 대안의 핵심 행위가 옵니다. 오답 중 ④처럼 이미 반박된 접근법과 같은 범주에 속하는 선지는 함정입니다."
+      }
+    }
+  ]
+}

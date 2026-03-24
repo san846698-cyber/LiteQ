@@ -1,0 +1,113 @@
+{
+  "type": "주장",
+  "typeNumber": 20,
+  "model": "sonnet",
+  "analysis": {
+    "passagePattern": "150-220 words. Opens with an observation or widely-held assumption, introduces a tension or counterintuitive insight, builds support through examples or evidence, and closes with the author's prescriptive recommendation. Tone is advisory and moderately formal. Topics span psychology, science, technology, health, creativity, finance, and communication.",
+    "questionPattern": "Always identical stem: '다음 글에서 필자가 주장하는 바로 가장 적절한 것은?' The task is to identify the single main prescriptive claim the author makes, not a supporting detail.",
+    "answerDesign": "The correct answer is a paraphrase (not a literal translation) of the passage's concluding recommendation. It is specific enough to be distinguishable but broad enough to capture the entire argument. It typically contains an imperative nuance (해야 한다 / 해야 / -해라). Answer positions are distributed across all five slots to prevent patterning.",
+    "distractorPattern": "Four distractors occupy the same topic domain but are wrong in one of these ways: (1) too narrow — captures only a supporting detail; (2) too broad — generalises beyond the passage's scope; (3) correct domain but wrong direction — e.g. 'rely more on X' when the passage says 'rely less on X'; (4) adjacent topic — plausible given the domain but not actually discussed; (5) opposite stance — states the inverse of the author's position."
+  },
+  "generated": [
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "We often assume that the best way to help a struggling student is to give them the answer or to simplify the task until it is within easy reach. Yet research on learning consistently shows the opposite: productive struggle — the effortful process of wrestling with a challenge just beyond one's current ability — is one of the most powerful drivers of deep understanding. When students are handed solutions too quickly, they are deprived of the cognitive work that builds lasting knowledge. The discomfort of not knowing, and the persistence required to push through it, activates the kind of mental processing that mere passive reception cannot replicate. Educators, therefore, should resist the impulse to rescue students at the first sign of difficulty. Instead, they should design tasks that are appropriately demanding and provide supportive prompts that guide thinking without removing the challenge. A classroom culture that normalises struggle as a healthy and expected part of learning will ultimately produce more capable, self-directed learners than one that prizes quick, effortless answers.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "교사는 학생이 어려움을 느낄 때 즉시 해답을 제공해야 한다.",
+        "학생의 깊은 이해를 위해 적절히 도전적인 과제와 씨름하도록 해야 한다.",
+        "교육 현장에서 학생의 자존감 보호를 최우선 가치로 삼아야 한다.",
+        "효과적인 학습을 위해 교사는 개별 학생의 수준을 정기적으로 평가해야 한다.",
+        "학습 동기 유발을 위해 경쟁적인 교실 환경을 적극 조성해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The passage's central recommendation is that educators should let students struggle productively with appropriately difficult tasks rather than rushing to rescue them. Choice 2 captures this by pairing '적절히 도전적인 과제' (appropriately demanding tasks) with '씨름하도록 해야 한다' (should be made to wrestle with), which maps directly to the author's prescription without quoting the text literally.",
+        "distractor_analysis": "Choice 1 is the opposite of the author's stance — giving answers immediately is exactly what the author argues against. Choice 3 introduces 'self-esteem' (자존감), which is not discussed in the passage. Choice 4 is a related but distinct idea (regular assessment of level) not argued for in the passage. Choice 5 introduces competitive environments, an adjacent educational idea absent from the text.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Urban planners and architects have long debated whether green spaces in cities are a luxury or a necessity. The evidence now leans decisively toward necessity. Studies in multiple countries show that access to parks and tree-lined streets measurably reduces residents' stress hormones, lowers rates of anxiety and depression, and even improves attention spans in children. Yet in many fast-growing cities, green areas are among the first casualties of development pressure, replaced by roads and buildings that generate short-term economic returns. This trade-off is short-sighted. The long-term public health costs of eliminating urban nature — including higher healthcare expenditure and reduced worker productivity — far outweigh the immediate gains from densification. City governments should therefore treat urban greenery not as an optional aesthetic feature but as critical infrastructure, integrating nature into development plans from the earliest stages and protecting existing green corridors from commercial encroachment.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "도시 개발 속도를 늦추기 위해 정부는 건축 허가 절차를 강화해야 한다.",
+        "도시 녹지 공간의 경제적 가치를 측정하는 표준 지표를 개발해야 한다.",
+        "시 정부는 도시 녹지를 필수 기반시설로 간주하고 개발 계획에 통합해야 한다.",
+        "공원 설계 시 지역 주민의 의견을 적극 반영하여 활용도를 높여야 한다.",
+        "도심 내 녹지 확충을 위해 민간 기업의 사회적 책임 투자를 유도해야 한다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The passage explicitly argues that city governments should treat urban greenery as 'critical infrastructure' and integrate it into development plans. Choice 3 paraphrases exactly this: '필수 기반시설로 간주하고 개발 계획에 통합해야 한다'. The word '필수 기반시설' directly mirrors 'critical infrastructure', satisfying the paraphrase requirement without verbatim copying.",
+        "distractor_analysis": "Choice 1 is related (urban development) but focuses on slowing construction permits, which is not the author's recommendation. Choice 2 is plausibly related but shifts focus to creating measurement indices, not argued for. Choice 4 narrows the focus to park design and community input, a supporting idea not the main claim. Choice 5 shifts agency to private corporations and CSR investment, which the passage does not discuss.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "In professional settings, feedback is often treated as a managerial obligation — something delivered during annual reviews in carefully measured doses. This approach, however well-intentioned, renders feedback too infrequent and too distant from the actions it addresses to produce meaningful improvement. Human memory is reconstructive; we do not replay events like video recordings but rebuild them, and with each passing week the details that make feedback actionable fade. If feedback is to change behaviour, it must be delivered as close as possible to the moment the relevant behaviour occurred. Managers who wait for a scheduled review to share observations are not being kind — they are being ineffective. A culture of continuous, in-the-moment feedback, delivered respectfully and specifically, allows employees to make real-time corrections and fosters a growth mindset far more effectively than any annual performance ritual.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "관리자는 직원의 성과를 정확히 평가하기 위해 정기 검토 제도를 유지해야 한다.",
+        "직원의 성장을 위해 피드백은 해당 행동이 일어난 직후 즉각적으로 제공해야 한다.",
+        "효과적인 피드백을 위해 관리자는 직원과의 신뢰 관계를 먼저 구축해야 한다.",
+        "직원 스스로 자신의 행동을 돌아볼 수 있도록 자기 평가 기회를 늘려야 한다.",
+        "조직 문화 개선을 위해 피드백 내용을 팀 전체가 공유하는 시스템을 도입해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The passage's core argument is that feedback must be given immediately after the relevant behaviour, not saved for periodic reviews. Choice 2 captures this with '해당 행동이 일어난 직후 즉각적으로 제공해야 한다' (should be provided immediately after the relevant behaviour occurs), paraphrasing the passage's prescription precisely.",
+        "distractor_analysis": "Choice 1 contradicts the author, who argues against waiting for scheduled reviews. Choice 3 introduces trust-building as a prerequisite, an idea not present in the passage. Choice 4 shifts focus to self-evaluation by employees, which is a different mechanism. Choice 5 proposes team-wide sharing systems, an idea not discussed in the passage.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "There is a popular belief that talented individuals succeed because of innate gifts they were born with, and that those without such gifts are therefore destined to fall short regardless of effort. This narrative is not only factually questionable but actively harmful. Psychologists who study expertise have repeatedly found that world-class performance in virtually every domain — from chess to surgery to music — is overwhelmingly the product of thousands of hours of deliberate, purposeful practice rather than of talent alone. When people attribute success exclusively to inborn ability, they are more likely to give up at the first setback, interpreting failure as evidence of permanent deficiency rather than as a signal to adjust strategy and try again. We should therefore move away from talent-centred explanations of achievement and instead emphasise the role of sustained, intentional effort, so that learners develop the perseverance necessary to improve over the long term.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "선천적 재능보다 지속적이고 의도적인 노력이 성취의 핵심임을 강조해야 한다.",
+        "실패를 경험한 학습자에게 즉각적인 심리 상담을 제공해야 한다.",
+        "뛰어난 재능을 조기에 발견하기 위한 체계적인 평가 시스템을 마련해야 한다.",
+        "전문가 수준에 도달하기 위해 필요한 연습 시간의 기준을 명확히 제시해야 한다.",
+        "각자의 강점과 약점을 파악하여 개인 맞춤형 학습 전략을 수립해야 한다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that society should move away from talent-centred explanations and instead highlight sustained, intentional effort. Choice 1 directly paraphrases this: '선천적 재능보다 지속적이고 의도적인 노력이 성취의 핵심임을 강조해야 한다' (we should emphasise that sustained, intentional effort is the core of achievement over innate talent). This captures both the comparative framing and the prescriptive tone.",
+        "distractor_analysis": "Choice 2 narrows the focus to psychological counselling after failure — a supportive action not advocated in the passage. Choice 3 is the opposite of the author's stance, promoting early talent detection. Choice 4 focuses on specifying practice-hour standards, a detail not the main argument. Choice 5 shifts to personalised learning strategy design, a plausible educational idea but absent from the text.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Data privacy regulations around the world now require companies to obtain explicit consent before collecting personal information, yet most consent forms remain impenetrably complex — dense walls of legal text that users instinctively click through without reading. The result is consent that is nominal rather than genuine: users have technically agreed, but without any real understanding of what they have permitted. This gap between formal consent and meaningful understanding is not a minor procedural problem; it is a fundamental erosion of the autonomy that privacy laws were designed to protect. Companies should not treat consent forms as legal shields designed to minimise liability but as genuine communication tools. They are obliged to present privacy information in plain, accessible language, with summaries that allow ordinary users to make informed decisions about their own data. Meaningful consent requires comprehensible communication, and organisations that obscure this process are undermining the very rights they claim to respect.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "기업은 개인정보 수집을 최소화하기 위해 데이터 관리 시스템을 재설계해야 한다.",
+        "이용자가 자신의 데이터 사용에 진정으로 동의하도록 동의서를 이해하기 쉽게 작성해야 한다.",
+        "개인정보 보호법의 실효성을 높이기 위해 위반 기업에 대한 제재를 강화해야 한다.",
+        "이용자는 개인정보 제공에 동의하기 전에 해당 기업의 신뢰도를 충분히 검토해야 한다.",
+        "정부는 기업이 준수해야 하는 통일된 개인정보 동의 양식을 법으로 규정해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The passage's main claim is that companies must write consent forms in plain, understandable language so that users can genuinely understand and agree to data usage. Choice 2 paraphrases this: '이용자가 자신의 데이터 사용에 진정으로 동의하도록 동의서를 이해하기 쉽게 작성해야 한다' (consent forms should be written clearly so that users can genuinely agree to their data usage). The word '진정으로' (genuinely) mirrors the passage's contrast between nominal and real consent.",
+        "distractor_analysis": "Choice 1 focuses on redesigning data collection systems to minimise data gathered — a different recommendation not made in the passage. Choice 3 calls for stronger penalties for violations, a regulatory approach not argued for. Choice 4 places responsibility on the user to vet companies before consenting — the passage places responsibility on the company. Choice 5 proposes government-mandated standardised forms, a legislative solution not discussed in the passage.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

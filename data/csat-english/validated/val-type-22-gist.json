@@ -1,0 +1,86 @@
+{
+  "type": "요지",
+  "typeNumber": 22,
+  "summary": {
+    "pass": 5,
+    "warn": 0,
+    "fail": 0
+  },
+  "validations": [
+    {
+      "questionIndex": 0,
+      "myAnswer": 1,
+      "providedAnswer": 1,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 4,
+        "난이도적절성": 4,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": null
+    },
+    {
+      "questionIndex": 1,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null
+    },
+    {
+      "questionIndex": 2,
+      "myAnswer": 2,
+      "providedAnswer": 2,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 4,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": null
+    },
+    {
+      "questionIndex": 3,
+      "myAnswer": 2,
+      "providedAnswer": 2,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 4,
+        "지문자연스러움": 4,
+        "난이도적절성": 3,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": "[수정됨] 정답 선지를 '단일 형태의 시험으로는 학생이 지닌 능력의 전체 모습을 파악하기 어렵다'로 패러프레이즈. 지문 마지막 문장의 직역이 아닌 추론이 필요한 형태로 변경됨. 난이도 적절성 향상."
+    },
+    {
+      "questionIndex": 4,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 4,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": null
+    }
+  ]
+}

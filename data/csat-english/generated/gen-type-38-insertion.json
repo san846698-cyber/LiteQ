@@ -1,0 +1,148 @@
+{
+  "type": "문장 삽입",
+  "typeNumber": 38,
+  "analysis": {
+    "totalSourceQuestions": 36,
+    "keyPatterns": {
+      "discourseMarkers": "Inserted sentences frequently begin with contrastive markers (However, But, Yet, In contrast) or consequential markers (As a result, Thus). These create logical links that pin the sentence to exactly one position.",
+      "pronounAnchoring": "The inserted sentence or the sentence immediately after it often contains pronouns (this, these, they, it, such) that require a specific antecedent, making the correct position unambiguous.",
+      "logicalGap": "The correct position is always where removing the inserted sentence creates a noticeable logical gap — a missing contrast, a missing cause, or a dangling pronoun reference.",
+      "topicFlow": "Passages typically present a general claim, develop it, and the inserted sentence either qualifies, contrasts, or extends a specific point mid-passage.",
+      "answerDistribution": "Position 4 is the most common answer (~35%), followed by positions 3 and 5. Positions 1 and 2 are less frequent but occur.",
+      "sentenceLength": "Inserted sentences are typically 15-35 words, complex enough to carry a discourse marker and a content-bearing clause."
+    },
+    "generationStrategy": "Each generated question uses (1) a clear discourse marker or logical connector in the inserted sentence, (2) pronoun/demonstrative chains that anchor the sentence to one position, and (3) surrounding sentences that would create an incoherent flow if the inserted sentence were placed elsewhere."
+  },
+  "generated": [
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "Yet this very flexibility can become a liability when individuals lack the self-discipline to impose their own boundaries.",
+      "passage": "The rise of remote work has fundamentally altered the relationship between employees and their workplaces. Freed from the constraints of commuting and rigid office hours, workers can now design their schedules around personal productivity rhythms. ( ① ) Morning people can start early, while night owls can work late into the evening, potentially boosting overall output. ( ② ) Many companies have reported higher employee satisfaction since adopting flexible work policies. ( ③ ) Without the physical separation between office and home, the workday can bleed into personal time indefinitely. ( ④) Research from Stanford University found that remote workers who failed to set firm work-stop times experienced significantly higher rates of burnout than their office-based counterparts. ( ⑤ ) Ironically, the freedom that was supposed to improve work-life balance ended up eroding it for those who could not self-regulate.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 삽입 위치인 이유: 삽입 문장의 'Yet(그러나)'은 역접 연결어이고, 'this very flexibility(바로 이 유연성)'는 앞에서 설명된 유연한 일정 조율을 지칭합니다. ③ 앞까지는 재택근무의 긍정적 측면(유연한 시간, 높은 만족도)이 이어지고, ③ 뒤의 문장은 '사무실과 집의 물리적 구분 없이는 업무 시간이 개인 시간을 무한정 침범할 수 있다'고 서술하여 삽입 문장에서 언급한 '부채(liability)'의 구체적 예시를 제시합니다. ③이 긍정 → 부정 전환의 정확한 분기점입니다.",
+        "wrong": {
+          "1": "① 앞에 넣으면 유연성 설명이 끝나기 전에 역접이 등장해 'this very flexibility'가 가리킬 내용이 아직 충분히 제시되지 않았습니다.",
+          "2": "② 앞에 넣으면 유연한 일정과 회사 만족도 보고의 연결이 끊기며 긍정적 흐름이 완성되기 전에 부정이 도입됩니다.",
+          "4": "④ 앞에 넣으면 구체적 근거(스탠퍼드 연구) 뒤에 일반적 주장이 오는 역순이 되어 논리 흐름이 어색합니다.",
+          "5": "⑤ 앞에 넣으면 결론 이후에 삽입되어 'this very flexibility'의 지시 대상이 불분명해집니다."
+        },
+        "key_point": "삽입 문장의 역접 연결어 'Yet'과 지시어 'this very flexibility'가 핵심입니다. 긍정 내용이 충분히 축적된 직후, 그리고 부정적 사례(사무실-집 경계 소멸)가 시작되는 직전 위치(③)가 유일한 삽입 지점입니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage shifts from positive aspects of remote work (flexibility, satisfaction) to negative consequences (burnout, erosion of balance). The inserted sentence uses 'Yet' to introduce this contrast and mentions 'this very flexibility,' which refers to the flexible scheduling described in the sentences before ③. After ③, the passage discusses what happens 'without the physical separation' — a specific example of the liability mentioned in the inserted sentence. Placing it at ③ creates a perfect pivot from positive to negative.",
+        "distractor_analysis": "Position ① would interrupt the explanation of flexible scheduling before it is complete. Position ② would break the link between flexible schedules and company satisfaction reports. Position ④ would place the general claim after its specific evidence (Stanford study), reversing logical order. Position ⑤ would come after the conclusion, making 'this very flexibility' lack a clear referent in the immediate context.",
+        "answer_uniqueness": "confirmed",
+        "explanation_ko": "삽입 문장의 'Yet(그러나)'은 앞 내용과 대조를 이루는 역접 연결어이고, 'this very flexibility(바로 이 유연성)'는 앞에서 설명한 유연한 일정 조율을 지시하는 표현입니다. ③ 앞까지는 재택근무의 긍정적 측면(유연한 시간, 높은 만족도)이 이어지고, ③ 뒤의 문장은 '사무실과 집의 물리적 구분 없이는 업무 시간이 개인 시간을 무한정 침범할 수 있다'고 서술하여 삽입 문장에서 언급한 '부채(liability)'의 구체적 예시를 제시합니다. 따라서 ③이 긍정→부정 전환의 정확한 분기점입니다. ①에 넣으면 유연성 설명이 끝나기 전에 역접이 등장해 흐름이 어색하고, ②에 넣으면 유연한 일정과 회사 만족도 보고의 연결이 끊깁니다. ④에 넣으면 구체적 근거(스탠퍼드 연구) 뒤에 일반적 주장이 오는 역순이 되고, ⑤에 넣으면 결론 이후에 삽입되어 'this very flexibility'의 지시 대상이 불분명해집니다."
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "However, these same mechanisms that protect us from information overload can also prevent us from noticing important changes in our environment.",
+      "passage": "The human brain has evolved sophisticated filtering systems to manage the constant stream of sensory information it receives. ( ① ) Every second, millions of signals compete for our attention, from the hum of an air conditioner to the flicker of a screen in our peripheral vision. ( ② ) To cope with this deluge, the brain learns to suppress repetitive or predictable stimuli, a process known as habituation. ( ③ ) This is why we stop noticing the ticking of a clock after a few minutes or the feel of clothing on our skin shortly after dressing. ( ④ ) A factory worker, for instance, may become so accustomed to the sound of machinery that a subtle change in pitch — often an early warning sign of mechanical failure — goes entirely undetected. ( ⑤ ) In safety-critical industries, this phenomenon has been identified as a contributing factor in numerous preventable accidents.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④가 삽입 위치인 이유: 삽입 문장의 'However(그러나)'는 역접 연결어이고, 'these same mechanisms(바로 이 동일한 메커니즘)'는 앞에서 설명된 습관화(habituation) 과정을 가리키는 지시어입니다. ④ 앞 문장까지는 습관화의 긍정적 기능(시계 소리나 옷의 감촉을 인식하지 못하는 구체적 예시)이 충분히 서술됩니다. 삽입 문장은 이 메커니즘의 부정적 측면을 도입하고, ④ 뒤의 공장 노동자 예시가 '중요한 환경 변화를 놓친다'는 상황을 구체화합니다. 'these same mechanisms'의 선행 지시 대상이 완성된 ④ 위치가 유일하게 적합합니다.",
+        "wrong": {
+          "1": "① 앞에 넣으면 메커니즘 자체가 아직 소개되지 않아 'these same mechanisms'의 지시 대상이 없습니다.",
+          "2": "② 앞에 넣으면 감각 과부하 묘사 도중 역접이 등장해 습관화 개념이 아직 도입되지 않은 상태입니다.",
+          "3": "③ 앞에 넣으면 습관화 예시(시계, 옷)가 나오기 전이라 'these same mechanisms'가 충분한 맥락을 갖지 못합니다.",
+          "5": "⑤ 앞에 넣으면 이미 부정적 사례(공장 노동자)가 모두 제시된 후여서 'However'가 논리적으로 성립하지 않습니다."
+        },
+        "key_point": "지시어 'these same mechanisms'는 습관화(habituation) 과정의 긍정적 예시가 충분히 축적된 후에야 지시 대상이 완성됩니다. 역접 'However' 뒤에 공장 노동자 부정적 사례가 이어지므로 ④가 유일한 삽입 위치입니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before position ④, the passage explains how habituation works as a beneficial filtering mechanism (suppressing repetitive stimuli like clocks and clothing). The inserted sentence uses 'However' to introduce the downside of 'these same mechanisms,' directly referring to the habituation process just described. After ④, the factory worker example illustrates this downside — not noticing a dangerous change. The phrase 'these same mechanisms' requires the preceding explanation of habituation as its antecedent.",
+        "distractor_analysis": "Position ① would introduce the downside before the mechanisms are even described. Position ② is mid-description of the sensory deluge, before habituation is introduced by name. Position ③ comes before the concrete examples of habituation (clock, clothing), so 'these same mechanisms' would lack sufficient context. Position ⑤ follows a specific example and a conclusion about safety, making 'However' illogical since the negative aspect has already been fully developed.",
+        "answer_uniqueness": "confirmed",
+        "explanation_ko": "삽입 문장의 'However(그러나)'는 역접 연결어이고, 'these same mechanisms(바로 이 동일한 메커니즘)'는 앞에서 설명한 습관화(habituation) 과정을 가리키는 지시 표현입니다. ④ 앞 문장까지는 습관화의 긍정적 기능—시계 소리나 옷의 감촉을 더 이상 인식하지 못하는 것—이 구체적 예시와 함께 충분히 서술됩니다. 삽입 문장은 이 메커니즘의 부정적 측면을 도입하고, ④ 뒤의 공장 노동자 예시가 '중요한 환경 변화를 놓친다'는 구체적 상황으로 이어집니다. 따라서 'these same mechanisms'의 선행 지시 대상이 완성된 ④ 위치가 유일하게 적합합니다. ①에 넣으면 메커니즘 자체가 아직 소개되지 않아 지시 대상이 없고, ②에 넣으면 감각 과부하 묘사 도중 역접이 등장해 흐름이 깨집니다. ③에 넣으면 습관화 예시(시계, 옷)가 나오기 전이라 'these same mechanisms'가 충분한 맥락을 갖지 못하며, ⑤에 넣으면 이미 부정적 사례가 모두 제시된 후여서 'However'가 논리적으로 성립하지 않습니다."
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "In contrast, communities that embraced written legal codes experienced a different trajectory, one in which individual rights could be articulated and defended with greater precision.",
+      "passage": "In many early societies, law was primarily an oral tradition, passed down through generations by elders and community leaders. ( ① ) These oral legal systems relied heavily on collective memory and the authority of those entrusted with preserving them. ( ② ) Disputes were settled by appeals to precedent as remembered by the community's most respected members, and justice was inseparable from personal reputation and social standing. ( ③ ) The shift toward written law, however, did not occur uniformly across civilizations. ( ④ ) The Code of Hammurabi, dating to approximately 1754 BCE, is among the earliest known examples, and its detailed provisions reveal a society already grappling with the complexities of commerce, property, and family relations. ( ⑤ ) Written law thus marked not merely a technological change but a fundamental transformation in the relationship between the individual and the state.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④가 삽입 위치인 이유: 삽입 문장의 'In contrast(이와 대조적으로)'는 대조 연결어로, 앞서 묘사된 구두 법 전통 공동체와 성문법을 수용한 공동체를 대비시킵니다. ③ 위치의 문장은 '성문법으로의 전환이 문명 전반에 걸쳐 균일하게 이루어지지 않았다'고 밝혀 삽입 문장이 서술하는 '다른 궤도(different trajectory)'를 도입할 맥락을 제공합니다. ④ 뒤의 함무라비 법전 예시는 삽입 문장이 지칭하는 성문법 공동체의 구체적 사례로 자연스럽게 연결됩니다.",
+        "wrong": {
+          "1": "① 앞에 넣으면 구두법이 충분히 설명되기 전에 대조가 도입되어 'In contrast'의 대조 대상이 아직 형성되지 않았습니다.",
+          "2": "② 앞에 넣으면 구두 법 체계 묘사(집단적 기억, 권위)가 중단되어 흐름이 끊깁니다.",
+          "3": "③ 앞에 넣으면 성문법 전환을 언급하는 문장 직전이어서 'In contrast'의 대조 대상(구두법 전통)이 충분히 전개되지 않은 상태입니다.",
+          "5": "⑤ 앞에 넣으면 역사적 예시(함무라비 법전) 뒤에 등장해 '다른 궤도'를 소개하는 역할을 잃게 됩니다."
+        },
+        "key_point": "대조 연결어 'In contrast'는 구두법 공동체와 성문법 공동체를 대비합니다. 삽입 문장은 성문법 전환이 불균일하게 일어났다는 ③번 문장 뒤, 그리고 함무라비 법전 예시 앞에 위치해야 '다른 궤도'가 구체적 사례로 이어집니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage transitions from oral legal traditions (sentences before ③) to written law (sentence at ③ mentions 'the shift toward written law'). The inserted sentence uses 'In contrast' to oppose the oral tradition communities with those that 'embraced written legal codes,' and introduces 'a different trajectory.' This contrast logically follows the mention that the shift did not occur uniformly (③). After position ④, the Code of Hammurabi serves as a concrete example of these written legal codes, and ⑤ concludes with the broader significance.",
+        "distractor_analysis": "Position ① would introduce written law before oral law is fully described. Position ② interrupts the description of how oral legal systems function. Position ③ would precede the transition sentence about written law, making 'In contrast' premature. Position ⑤ follows a specific historical example rather than leading into it, and the concluding sentence about 'written law thus marked' would lose its logical connection.",
+        "answer_uniqueness": "confirmed",
+        "explanation_ko": "삽입 문장의 'In contrast(이와 대조적으로)'는 대조 연결어로, 앞서 묘사된 구두 법 전통 공동체와 성문법을 수용한 공동체를 대비시킵니다. ③ 위치의 문장은 '성문법으로의 전환이 문명 전반에 걸쳐 균일하게 이루어지지 않았다'고 밝혀, 삽입 문장이 서술하는 '다른 궤도(different trajectory)'를 도입할 맥락을 제공합니다. ④ 뒤의 함무라비 법전 예시는 삽입 문장이 지칭하는 성문법 공동체의 구체적 사례로 자연스럽게 연결됩니다. ①에 넣으면 구두법이 충분히 설명되기 전에 대조가 도입되어 흐름이 어색하고, ②에 넣으면 구두 법 체계 묘사가 중단됩니다. ③에 넣으면 성문법 전환을 언급하는 문장 직전이어서 'In contrast'의 대조 대상(구두법 전통)이 충분히 전개되지 않았고, ⑤에 넣으면 역사적 예시 뒤에 등장해 '다른 궤도'를 소개하는 역할을 잃게 됩니다."
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "This assumption, however, overlooks the fact that translation inevitably involves interpretation, and interpretation is shaped by the translator's own cultural framework.",
+      "passage": "The translation of literary works across languages is often regarded as a straightforward transfer of meaning from one linguistic system to another. ( ① ) Many readers trust that a translated novel conveys essentially the same story, themes, and emotional resonance as the original. ( ② ) Professional translators are expected to be invisible mediators, faithfully transmitting an author's voice without adding their own. ( ③ ) Consider, for example, the multiple English translations of Dostoevsky's novels, each of which presents a subtly different version of the Russian author's prose. ( ④ ) Some translators opt for literal fidelity, preserving the original sentence structures even when they feel awkward in English, while others prioritize readability, producing prose that flows naturally but may depart from the author's stylistic choices. ( ⑤ ) Each translation, therefore, is less a mirror of the original and more a new creative work in its own right.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 삽입 위치인 이유: 삽입 문장의 'This assumption(이 가정)'은 앞에서 축적된 통념—번역이 단순한 의미 전달이며 번역가는 보이지 않는 중개자라는 생각—을 지칭하는 지시어이고, 'however'는 그 통념에 반박을 가하는 역접 연결어입니다. ③ 앞의 두 문장이 '독자들은 번역된 소설이 원작과 동일하다고 믿는다'와 '번역가는 보이지 않는 중개자여야 한다'는 통념을 완성하므로, 'This assumption'의 지시 대상이 ③ 위치에서 비로소 온전히 형성됩니다. ③ 뒤의 도스토예프스키 예시('Consider, for example')는 삽입 문장이 제기한 반박을 구체적 증거로 뒷받침합니다.",
+        "wrong": {
+          "1": "① 앞에 넣으면 통념이 아직 완성되지 않아 'This assumption'의 지시 대상이 불충분합니다.",
+          "2": "② 앞에 넣으면 통념 축적(보이지 않는 중개자 개념)이 중단되어 지시 대상 형성이 미완성 상태입니다.",
+          "4": "④ 앞에 넣으면 구체적 사례(도스토예프스키) 뒤에 일반 반박 주장이 오는 역순이 됩니다.",
+          "5": "⑤ 앞에 넣으면 결론 이후에 삽입되어 'This assumption'이 너무 멀리 떨어진 선행 문맥을 지시하게 됩니다."
+        },
+        "key_point": "지시어 'This assumption'은 앞의 두 문장(같은 이야기를 전달한다 + 보이지 않는 중개자)이 모두 제시된 후에야 완전한 지시 대상을 갖습니다. 역접 'however' 뒤에 도스토예프스키 예시가 이어지므로 ③이 유일한 삽입 위치입니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before position ③, the passage describes the common assumption that translation is straightforward (①) and that translators are invisible mediators (②). The inserted sentence uses 'This assumption' to refer directly to these beliefs, and 'however' introduces the counter-argument that translation involves interpretation shaped by culture. After ③, the Dostoevsky example ('Consider, for example') provides concrete evidence supporting the claim that different translators produce different versions — directly illustrating how interpretation shapes translation.",
+        "distractor_analysis": "Position ① comes before the assumption is fully articulated (invisible mediators haven't been mentioned yet). Position ② would interrupt the buildup of the assumption being challenged. Position ④ would place the general counter-claim after its specific example (Dostoevsky), reversing the logical order. Position ⑤ would follow the detailed comparison of translation approaches, making 'This assumption' too distant from its referent.",
+        "answer_uniqueness": "confirmed",
+        "explanation_ko": "삽입 문장의 'This assumption(이 가정)'은 앞에서 축적된 통념—번역이 단순한 의미 전달이며 번역가는 보이지 않는 중개자라는 생각—을 지칭하는 지시어이고, 'however'는 그 통념에 반박을 가하는 역접 연결어입니다. ③ 앞의 두 문장이 '독자들은 번역된 소설이 원작과 동일하다고 믿는다'와 '번역가는 보이지 않는 중개자여야 한다'는 통념을 완성하기 때문에, 'This assumption'의 지시 대상이 ③ 위치에서 비로소 온전히 형성됩니다. ③ 뒤의 도스토예프스키 예시('Consider, for example')는 삽입 문장이 제기한 반박—해석이 번역에 개입한다—을 구체적 증거로 뒷받침합니다. ①에 넣으면 통념이 아직 완성되지 않아 'This assumption'의 지시 대상이 불충분하고, ②에 넣으면 통념 축적을 중단시킵니다. ④에 넣으면 구체적 사례(도스토예프스키) 뒤에 일반 주장이 오는 역순이 되고, ⑤에 넣으면 결론 이후에 삽입되어 'This assumption'이 너무 멀리 떨어진 선행 문맥을 지시하게 됩니다."
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "But these early attempts at conservation were driven less by ecological understanding than by the economic interests of the ruling classes who depended on forests for timber and hunting grounds.",
+      "passage": "The idea that nature requires deliberate protection is far older than most people realize. ( ① ) As early as the thirteenth century, European monarchs enacted laws restricting the felling of trees in royal forests. ( ② ) Similar regulations appeared in colonial India, where the British administration established forest reserves to secure supplies of teak for shipbuilding. ( ③ ) It was not until the late nineteenth century that a genuinely ecological perspective began to emerge. ( ④ ) Scientists such as George Perkins Marsh argued that the destruction of forests could have devastating consequences for watersheds, soil stability, and local climates — effects that extended far beyond any single industry's concerns. ( ⑤ ) This broader understanding of ecosystems laid the intellectual foundation for the modern environmental movement.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 삽입 위치인 이유: 삽입 문장의 'But(그러나)'은 역접 연결어이고, 'these early attempts at conservation(이러한 초기 보전 시도들)'은 앞서 제시된 두 역사적 사례—유럽 군주들의 벌목 제한(①)과 영국 식민지 인도의 삼림 보호구역(②)—를 함께 지칭하는 복수형 지시 표현입니다. ③ 바로 앞 문장이 두 번째 사례(식민지 인도)를 완성하므로, ③ 위치에서 비로소 복수 지시 대상이 완전히 형성됩니다. ③ 뒤의 문장 'It was not until the late nineteenth century that a genuinely ecological perspective began to emerge'에서 'genuinely(진정한)'는 삽입 문장이 말하는 경제적 동기(생태적 이해가 아닌)와 직접 대조를 이룹니다.",
+        "wrong": {
+          "1": "① 앞에 넣으면 구체적 사례가 하나도 제시되지 않아 'these early attempts'가 가리킬 대상이 없습니다.",
+          "2": "② 앞에 넣으면 첫 번째 사례(유럽 군주)만 제시된 상태로 복수형 'these early attempts'의 지시가 약합니다.",
+          "4": "④ 앞에 넣으면 생태학적 관점의 등장을 설명하는 흐름을 방해합니다.",
+          "5": "⑤ 앞에 넣으면 결론 이후에 과거를 되돌아보는 문장이 와서 글의 전진하는 흐름을 깨뜨립니다."
+        },
+        "key_point": "복수 지시어 'these early attempts'는 두 개의 역사적 사례(유럽 군주 + 식민지 인도)가 모두 제시된 후에야 온전한 지시 대상을 갖습니다. ③ 뒤 문장의 'genuinely'가 삽입 문장의 '생태적 이해 결여'와 직접 대조를 이루며 삽입 위치를 확증합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before position ③, the passage gives two historical examples of early conservation: European monarchs restricting tree felling (before ②) and British colonial forest reserves in India (before ③). The inserted sentence uses 'But' to reinterpret 'these early attempts at conservation' as economically rather than ecologically motivated, referring to both examples just given. After ③, the passage states 'It was not until the late nineteenth century that a genuinely ecological perspective began to emerge,' which logically follows the claim that earlier efforts lacked ecological understanding. The word 'genuinely' in the next sentence directly contrasts with the economic motivations described in the inserted sentence.",
+        "distractor_analysis": "Position ① would place the reinterpretation before any examples of early conservation have been given, so 'these early attempts' would have no referent. Position ② would come after only one example (European monarchs), missing the colonial India example that strengthens the pattern. Position ④ would interrupt the description of the ecological perspective that emerged later. Position ⑤ follows the conclusion about ecosystem understanding, making the backward-looking 'these early attempts' disruptive to the forward-looking conclusion.",
+        "answer_uniqueness": "confirmed",
+        "explanation_ko": "삽입 문장의 'But(그러나)'은 역접 연결어이고, 'these early attempts at conservation(이러한 초기 보전 시도들)'은 앞서 제시된 두 역사적 사례—유럽 군주들의 벌목 제한과 영국 식민지 인도의 삼림 보호구역 설치—를 함께 지칭하는 지시 표현입니다. ③ 바로 앞 문장이 두 번째 사례(식민지 인도)를 완성하므로, ③ 위치에서 비로소 'these early attempts'의 복수 지시 대상이 완전히 형성됩니다. ③ 뒤의 문장 '19세기 후반이 되어서야 비로소 진정한 생태학적 관점이 나타나기 시작했다'에서 'genuinely(진정한)'라는 단어는 삽입 문장이 말하는 경제적 동기—생태적 이해가 아닌—와 직접 대조를 이룹니다. ①에 넣으면 구체적 사례가 하나도 제시되지 않아 'these early attempts'가 가리킬 대상이 없고, ②에 넣으면 사례가 하나뿐이라 복수형 지시가 약합니다. ④에 넣으면 생태학적 관점의 등장을 설명하는 흐름을 방해하고, ⑤에 넣으면 결론 이후에 과거를 되돌아보는 문장이 와서 글의 전진하는 흐름을 깨뜨립니다."
+      }
+    }
+  ]
+}

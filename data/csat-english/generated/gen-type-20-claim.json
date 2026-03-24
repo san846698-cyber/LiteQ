@@ -1,0 +1,162 @@
+{
+  "type": "주장",
+  "typeNumber": 20,
+  "analysis": {
+    "passagePattern": "150-200 word argumentative English passage. Typically introduces a common belief or problem, then pivots (using 'however', 'but', 'instead', 'rather') to present the author's main claim. Often includes examples or evidence to support the argument. Vocabulary is accessible but academic.",
+    "questionPattern": "Fixed question stem: '다음 글에서 필자가 주장하는 바로 가장 적절한 것은?' No variation across all 18 items.",
+    "answerDesign": "The correct choice is a concise Korean sentence that captures the author's central argument — not a minor detail or implication. It uses precise paraphrasing of the passage's main thesis, avoiding direct translation of specific phrases.",
+    "distractorPattern": "Distractors are plausible Korean sentences that (1) focus on a supporting detail rather than the main claim, (2) subtly distort the claim by changing scope/direction, (3) introduce a related but unmentioned concept, or (4) state something partially true but not the author's main argument. All five choices share similar topic vocabulary to prevent elimination by topic alone."
+  },
+  "generated": [
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Many educators believe that students learn best when material is presented in their preferred learning style — visual, auditory, or kinesthetic. This idea is deeply embedded in teacher training programs and educational practice. However, decades of rigorous research have failed to support the learning styles hypothesis. Studies consistently show that matching instruction to a student's supposed learning style does not improve outcomes. What does improve learning is the use of varied instructional methods that engage multiple senses and require active processing. Rather than labeling students and limiting their exposure to one modality, teachers should employ diverse strategies — combining visuals, discussion, and hands-on activities — to help all students form richer, more durable memories. The evidence is clear: effective teaching is not about catering to individual preferences but about using the methods that cognitive science has shown to work for everyone.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "교사는 학습 유형에 맞춘 교육 대신 다양한 교수법을 활용해야 한다.",
+        "학생의 학습 유형을 파악하기 위한 정확한 진단 도구를 개발해야 한다.",
+        "교사 양성 과정에서 인지과학 관련 교과목의 비중을 늘려야 한다.",
+        "학생들이 자신의 학습 선호도를 스스로 인식하도록 지도해야 한다.",
+        "효과적인 수업을 위해 시각 자료의 활용 비율을 높여야 한다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'teachers should employ diverse strategies — combining visuals, discussion, and hands-on activities'라고 직접 주장하며, 학습 유형 가설이 연구로 입증되지 않았음을 근거로 다양한 교수법 활용을 촉구합니다. ①번은 이 핵심 주장을 정확히 담고 있습니다.",
+        "wrong": [
+          "②번: 학습 유형 진단 도구 개발을 제안합니다. 그러나 필자는 학습 유형 가설 자체를 연구가 뒷받침하지 못한다고 부정하므로, 진단 도구 개발은 필자의 입장과 정반대입니다.",
+          "③번: 교사 양성 과정에서 인지과학 교과목을 늘려야 한다고 합니다. 글에서 인지과학이 언급되기는 하지만, 이것은 주장을 뒷받침하는 근거일 뿐 필자가 직접 촉구하는 행동 방향이 아닙니다.",
+          "④번: 학생들이 자신의 학습 선호도를 인식하도록 지도해야 한다고 합니다. 이는 필자가 비판하는 '학습 유형' 개념을 오히려 강화하는 방향으로, 글의 논지에 반합니다.",
+          "⑤번: 시각 자료의 활용 비율을 높여야 한다고 합니다. 필자는 시각·청각·신체 활동 등 여러 감각을 결합하는 다양한 전략을 써야 한다고 주장하는데, 시각 한 가지만 강조하는 것은 부분적으로만 맞고 전체 주장과 어긋납니다."
+        ],
+        "key_point": "학습 유형(learning styles) 가설은 연구로 입증되지 않았으며, 효과적인 교육은 학생 개인의 선호에 맞추는 것이 아니라 다양한 감각과 능동적 처리를 자극하는 다채로운 교수법을 사용하는 것입니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that the learning styles hypothesis is unsupported by research and that teachers should use varied instructional methods engaging multiple senses rather than matching instruction to individual preferences. Choice 1 directly captures this main claim.",
+        "distractor_analysis": "Choice 2 suggests developing better diagnostic tools for learning styles, which contradicts the passage's dismissal of the concept. Choice 3 focuses on teacher training curriculum, a tangential point. Choice 4 supports the learning styles concept the passage rejects. Choice 5 overemphasizes one modality (visual) when the passage advocates for combining multiple modalities.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "In an age of constant notifications, many people pride themselves on their ability to multitask, believing they can handle several demands at once without any loss in quality. Neuroscience tells a different story. The human brain does not truly multitask; instead, it rapidly switches between tasks, and each switch carries a cognitive cost. Research shows that frequent task-switching leads to more errors, lower retention of information, and increased mental fatigue. What feels like efficiency is actually fragmented attention that undermines deep thinking and meaningful work. To produce our best output, we need sustained periods of undivided focus. This means deliberately structuring our work so that we tackle one important task at a time, silencing distractions rather than trying to juggle them. The gains from single-tasking are not marginal — they are transformative for both the quality of our work and our sense of accomplishment.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "업무 효율을 높이기 위해 작업 간 전환 속도를 향상시켜야 한다.",
+        "최상의 결과를 위해 한 번에 하나의 일에 집중하는 환경을 만들어야 한다.",
+        "디지털 기기의 알림 기능이 업무 생산성에 미치는 영향을 연구해야 한다.",
+        "정신적 피로를 줄이기 위해 규칙적인 휴식 시간을 확보해야 한다.",
+        "깊이 있는 사고를 위해 창의적인 업무와 단순 업무를 분리해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'we need sustained periods of undivided focus … tackle one important task at a time, silencing distractions'라고 주장하며, 멀티태스킹이 인지 비용을 초래한다는 신경과학적 근거를 제시합니다. ②번은 '한 번에 하나의 일에 집중하는 환경'이라는 핵심 주장을 정확히 담고 있습니다.",
+        "wrong": [
+          "①번: 작업 간 전환 속도를 향상시켜야 한다고 합니다. 그러나 필자는 작업 전환 자체가 인지 비용을 유발한다고 밝히며, 빠른 전환이 아니라 전환을 줄이는 것을 해결책으로 제시합니다.",
+          "③번: 알림 기능의 영향을 연구해야 한다고 합니다. 글은 연구 결과를 인용하여 행동 변화를 촉구하는 것이지, 추가 연구의 필요성을 주장하는 것이 아닙니다.",
+          "④번: 규칙적인 휴식으로 정신적 피로를 줄여야 한다고 합니다. 정신적 피로는 멀티태스킹의 결과로 언급되지만, 필자의 해결책은 휴식이 아니라 싱글태스킹을 통한 집중입니다.",
+          "⑤번: 창의적 업무와 단순 업무를 분리해야 한다고 합니다. 이는 글에서 전혀 언급되지 않은 업무 분류 방식으로, 필자의 주장과 무관합니다."
+        ],
+        "key_point": "인간 뇌는 진정한 멀티태스킹이 불가능하며, 작업 전환마다 인지 비용이 발생합니다. 최고의 결과를 위해서는 한 번에 하나의 과제에 온전히 집중하는 싱글태스킹 환경을 의도적으로 만들어야 합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that multitasking is an illusion — the brain switches tasks at a cognitive cost — and that we should focus on one task at a time with undivided attention. Choice 2 captures this: create an environment for single-tasking to achieve the best results.",
+        "distractor_analysis": "Choice 1 contradicts the passage by suggesting improving task-switching speed. Choice 3 narrows the scope to researching notifications rather than advocating for behavioral change. Choice 4 addresses mental fatigue through rest, not mentioned as the solution. Choice 5 introduces a work categorization idea not present in the passage.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "When communities face natural disasters, the immediate response tends to focus on physical infrastructure — rebuilding roads, restoring electricity, and repairing homes. While these efforts are undeniably important, they address only part of the picture. What is frequently neglected is the psychological toll that disasters take on survivors. Studies have found that rates of anxiety, depression, and post-traumatic stress disorder remain elevated for years after a disaster, particularly among children and the elderly. Without adequate mental health support, communities may physically recover yet remain emotionally broken. Disaster recovery plans must therefore allocate dedicated resources to psychological care from the very beginning, not as an afterthought once buildings are standing again. Integrating mental health professionals into early response teams and training community leaders in psychological first aid would ensure that emotional recovery proceeds alongside physical rebuilding.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "재난 복구 시 물리적 기반 시설의 복원을 최우선으로 해야 한다.",
+        "재난 피해 지역의 아동과 노인을 위한 전담 시설을 마련해야 한다.",
+        "재난 복구 계획에 처음부터 심리적 지원을 포함해야 한다.",
+        "지역 사회의 회복력을 높이기 위해 재난 예방 교육을 강화해야 한다.",
+        "재난 대응팀의 규모를 확대하여 신속한 현장 복구를 추진해야 한다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'Disaster recovery plans must therefore allocate dedicated resources to psychological care from the very beginning, not as an afterthought'라고 명시적으로 주장합니다. ③번은 '처음부터 심리적 지원을 포함해야 한다'는 이 핵심 주장을 그대로 담고 있습니다.",
+        "wrong": [
+          "①번: 물리적 기반 시설 복원을 최우선으로 해야 한다고 합니다. 필자는 물리적 복구만으로는 불충분하며, 심리적 지원이 함께 이루어져야 한다고 주장하므로 이는 글의 논지에 반합니다.",
+          "②번: 아동과 노인을 위한 전담 시설을 마련해야 한다고 합니다. 아동과 노인이 특히 취약하다는 점은 언급되지만, 이는 심리적 지원의 필요성을 뒷받침하는 세부 근거일 뿐 필자의 주된 주장이 아닙니다.",
+          "④번: 재난 예방 교육을 강화해야 한다고 합니다. 글은 재난 발생 후의 복구 과정에 관한 것으로, 예방 교육은 전혀 언급되지 않습니다.",
+          "⑤번: 대응팀의 규모를 확대하여 신속한 현장 복구를 추진해야 한다고 합니다. 필자는 물리적 복구의 신속화가 아니라 심리적 지원을 초기 단계부터 병행해야 한다고 주장합니다."
+        ],
+        "key_point": "재난 복구는 도로·전기·주거 등 물리적 인프라 재건에만 집중되는 경향이 있지만, 생존자들의 심리적 피해도 수년간 지속됩니다. 복구 계획은 처음부터 심리 지원 자원을 배정해야 합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage explicitly states that disaster recovery plans must allocate resources to psychological care 'from the very beginning, not as an afterthought.' Choice 3 directly captures this central argument: include psychological support in recovery plans from the start.",
+        "distractor_analysis": "Choice 1 contradicts the passage, which argues against prioritizing only physical infrastructure. Choice 2 focuses narrowly on facilities for children and elderly, a detail not the main claim. Choice 4 shifts to disaster prevention education, not discussed. Choice 5 focuses on expanding response team size for physical recovery, missing the psychological emphasis.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Parents naturally want to protect their children from failure, stepping in to solve problems before frustration sets in. Yet this well-intentioned approach may do more harm than good. Psychologists point out that when children are shielded from all difficulty, they miss opportunities to develop resilience, problem-solving skills, and emotional regulation. A child who has never experienced setbacks is poorly equipped to handle the inevitable challenges of adult life. Rather than removing every obstacle, parents should allow their children to struggle within safe boundaries and offer guidance only when truly needed. The role of a parent is not to pave a smooth path but to walk alongside the child as they learn to navigate a rough one. Experiencing manageable failure in childhood builds the inner strength that no amount of parental intervention can substitute for.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "아이의 자립심을 기르기 위해 조기에 독립적인 생활을 경험하게 해야 한다.",
+        "아이의 성장을 위해 적절한 실패를 경험하도록 허용해야 한다.",
+        "자녀의 정서 발달을 위해 부모와의 대화 시간을 충분히 확보해야 한다.",
+        "자녀 교육에서 부모의 역할보다 또래 관계의 중요성을 인식해야 한다.",
+        "아이가 좌절감을 느낄 때 즉각적인 심리 상담을 제공해야 한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'parents should allow their children to struggle within safe boundaries … Experiencing manageable failure in childhood builds the inner strength'라고 주장합니다. ②번은 '적절한 실패를 경험하도록 허용해야 한다'는 핵심 주장을 정확히 반영합니다.",
+        "wrong": [
+          "①번: 조기에 독립적인 생활을 경험하게 해야 한다고 합니다. 필자는 안전한 범위 안에서 어려움을 겪도록 허용하라고 하지, 조기 독립적 생활을 촉구하지는 않습니다. 범위와 방향이 다릅니다.",
+          "③번: 부모와의 대화 시간을 확보해야 한다고 합니다. 정서 발달은 글에서 다루지만, 부모-자녀 대화는 전혀 언급되지 않은 해결책입니다.",
+          "④번: 또래 관계의 중요성을 인식해야 한다고 합니다. 글은 부모의 과잉 보호에 관한 것으로, 또래 관계는 전혀 등장하지 않습니다.",
+          "⑤번: 좌절감을 느낄 때 즉각적인 심리 상담을 제공해야 한다고 합니다. 필자는 어려움을 느낄 때 즉시 개입하는 것이 문제라고 비판하므로, 이는 필자의 주장과 정반대 방향입니다."
+        ],
+        "key_point": "부모의 과잉 보호는 아이가 회복력·문제 해결력·감정 조절 능력을 키울 기회를 빼앗습니다. 부모는 모든 장애물을 없애는 대신 안전한 경계 안에서 아이가 적절히 실패하고 성장하도록 허용해야 합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that shielding children from all failure is harmful and that parents should allow children to struggle within safe boundaries, as manageable failure builds resilience. Choice 2 captures this: allow children to experience appropriate failure for their growth.",
+        "distractor_analysis": "Choice 1 distorts the claim by suggesting early independence, which is not the passage's point about experiencing failure within safe boundaries. Choice 3 introduces parent-child conversation, unmentioned in the passage. Choice 4 shifts focus to peer relationships, irrelevant to the argument. Choice 5 contradicts the passage by suggesting immediate intervention when frustration occurs.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "In most workplaces, meetings are the default response to any problem that arises. Need to make a decision? Schedule a meeting. Want to share an update? Call everyone together. But research on organizational productivity reveals that the majority of meetings fail to produce actionable outcomes. Employees frequently leave meetings unsure of what was decided or what their next steps should be. Meanwhile, the hours consumed by unnecessary gatherings reduce the time available for focused, productive work. The solution is not to eliminate meetings entirely but to adopt a more disciplined approach: require a clear agenda and defined objectives before any meeting is scheduled, limit attendance to only those whose input is essential, and set strict time boundaries. Organizations that have implemented such policies report not only fewer meetings but significantly better results from those that do take place.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "업무 효율을 위해 회의를 완전히 폐지하고 서면 소통으로 전환해야 한다.",
+        "회의 참석자 수를 늘려 다양한 의견이 반영되도록 해야 한다.",
+        "회의의 효과를 높이기 위해 명확한 목표와 체계적인 운영 방식을 갖춰야 한다.",
+        "조직의 생산성을 높이기 위해 의사 결정 권한을 분산해야 한다.",
+        "직원들의 업무 집중도를 높이기 위해 유연 근무제를 도입해야 한다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'require a clear agenda and defined objectives … limit attendance … set strict time boundaries'라는 구체적인 규율 있는 접근을 처방하며, 이것이 회의를 개선하는 해법이라고 주장합니다. ③번은 '명확한 목표와 체계적인 운영 방식'으로 이를 정확히 요약합니다.",
+        "wrong": [
+          "①번: 회의를 완전히 폐지해야 한다고 합니다. 그러나 필자는 'The solution is not to eliminate meetings entirely'라고 명시적으로 말하므로, 이는 글의 내용과 직접적으로 모순됩니다.",
+          "②번: 참석자 수를 늘려야 한다고 합니다. 필자는 정반대로 '핵심 인물만 참석시켜야 한다(limit attendance to only those whose input is essential)'고 주장합니다.",
+          "④번: 의사 결정 권한을 분산해야 한다고 합니다. 조직 생산성에 관한 내용이지만, 권한 분산은 글에서 전혀 언급되지 않은 개념입니다.",
+          "⑤번: 유연 근무제를 도입해야 한다고 합니다. 이는 집중 업무 시간 확보와 관련이 있을 수 있으나, 글에서 다루지 않는 별개의 제도입니다."
+        ],
+        "key_point": "대부분의 회의는 실행 가능한 결과를 내지 못하며 집중 업무 시간을 낭비합니다. 해결책은 회의 폐지가 아니라, 명확한 안건과 목표 설정, 참석자 제한, 엄격한 시간 관리를 통한 규율 있는 운영입니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that most meetings lack clear outcomes and waste time. The solution proposed is not eliminating meetings but adopting a disciplined approach with clear agendas, defined objectives, limited attendance, and strict time limits. Choice 3 captures this: meetings should have clear goals and systematic operation to be effective.",
+        "distractor_analysis": "Choice 1 goes too far — the passage explicitly says 'not to eliminate meetings entirely.' Choice 2 contradicts the passage, which advocates limiting attendance. Choice 4 introduces authority distribution, not discussed in the passage. Choice 5 brings up flexible work arrangements, an unrelated concept.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

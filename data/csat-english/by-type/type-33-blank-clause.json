@@ -1,0 +1,367 @@
+{
+  "type": "빈칸 추론 (절)",
+  "typeNumbers": [33, 34],
+  "totalCount": 36,
+  "questions": [
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "The empiricist philosopher John Locke argued that when the human being was first born, the mind was simply a blank slate — a tabula rasa — waiting to be written on by experience. Locke believed that our experience shapes who we are and who we become — and therefore he also believed that, given different experiences, human beings would have different characters. The influence of these ideas was profound, particularly for the new colonies in America, because these were conscious attempts to make a new start and to form a new society. The new society was to operate on a different basis from that of European culture, which was based on the feudal system in which people's place in society was almost entirely determined by birth. Locke's emphasis on the importance of experience in forming the human being provided ______________.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["foundations for reinforcing ties between European and colonial societies", "new opportunities for European societies to value their tradition", "an optimistic framework for those trying to form a different society", "an example of the role that nature plays in building character", "an access to expertise in the areas of philosophy and science"],
+      "answer": 3,
+      "points": 3,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "In A Theory of Adaptation, Linda Hutcheon argues that \"An adaptation is not vampiric: it does not draw the lifeblood from its source and leave it dying or dead, nor is it paler than the adapted work. It may, on the contrary, keep that prior work alive, giving it an afterlife it would never have had otherwise.\" The idea of an \"afterlife\" of texts, of seeing what comes before as an inspiration for what comes now, is keeping works \"alive.\" Adaptations for young adults, in particular, have the added benefit of engaging the young adult reader with both then and now, past and present. While this is true for adaptations in general, it is especially important for those written with young adults in mind. Such adaptations ______________ that might otherwise come across as old-fashioned or irrelevant.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["allow young readers to make personal connections with texts", "are nothing more than the combination of different styles", "break familiar patterns of the ancient heroic stories", "give a new spotlight to various literary theories", "encourage young writers to make plots original"],
+      "answer": 1,
+      "points": 3,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Running a business that sells goods and services to consumers requires getting to know the products they like. More than that, however, you want to ______________. In traditional or online sales, people are bound to favorably regard the vendor and product that they could easily inquire about and quickly acquire in good order. Using the product can increase or decrease their satisfaction. Traditional stores make the shopping experience pleasant by their displays and personal service. Internet retailers lead buyers to products they want through speedy searches and clicks. A new online selling method that can generate millions of dollars is livestream selling. Buyers say that the experience is so convenient, it is like talking to a friend.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["provide rare items that can draw others' eyes", "maximize the profit through competitive incentives", "link positive experiences to the products they purchase", "examine the current state of digital marketing technologies", "convince yourself the product is a must-have in their lives"],
+      "answer": 3,
+      "points": 3,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "In Hegel's philosophy, even though there is interaction and interrelation between the universal and the individual, ______________. For Hegel, individuals are not distinguished in terms of Reason. In Philosophy of Right Hegel stresses: \"A man, who acts perversely, exhibits particularity. The rational is the highway on which everyone travels, and no one is specially marked.\" Here, Hegel maintains that individuals can be differentiated from each other in terms of their acts but they are not differentiated with respect to reason. One might say that Hegel seems to focus on the individual like Aristotle but in reality, he subtly treats the universal as fundamental whereas Aristotle considers the individual as primary substance and universal as secondary substance.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["an individual stands alone apart from the universe", "the universal still has more priority than the individual", "universal truth cannot be the key to individual problems", "individuals can't deduce universal principles from reality itself", "every individual should have his or her own particular universe"],
+      "answer": 2,
+      "points": 3,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Whatever their differences, scientists and artists begin with the same question: can you and I see the same thing the same way? The scientific thinker looks for features of the thing that can be stripped of subjectivity — ideally, those aspects that can be quantified and whose values will thus never change from one observer to the next. In this way, he arrives at a reality independent of all observers. The artist, on the other hand, relies on the strength of her artistry to effect a marriage between her own subjectivity and that of her readers. The artist has sought the opposite of the scientist's observer-independent reality. She creates a reality dependent upon observers, indeed a reality in which ______________ in order for it to exist at all.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["human beings must participate", "objectivity should be maintained", "science and art need to harmonize", "readers remain distanced from the arts", "she is disengaged from her own subjectivity"],
+      "answer": 1,
+      "points": 3,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "One of the common themes of the Western philosophical tradition is the distinction between sensual perceptions and rational knowledge. Since Plato, the supremacy of rational reason is based on the assertion that it is able to extract true knowledge from experience. Perceptions are inherently unreliable because the senses are subject to errors and illusions. Only the rational discourse has the tools to overcome illusions and to point towards true knowledge. For instance, perception suggests that a figure in the distance is smaller than it really is. Yet, the application of logical reasoning will reveal that the figure only appears small because it obeys the laws of geometrical perspective. Nevertheless, even after the perspectival correction is applied and reason concludes that perception is misleading, the figure still appears small, and the truth of the matter is revealed ______________.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["as the outcome of blindly following sensual experience", "by moving away from the idea of perfect representation", "beyond the limit of where rational knowledge can approach", "through a variety of experiences rather than logical reasoning", "not in the perception of the figure but in its rational representation"],
+      "answer": 5,
+      "points": 3,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸추론",
+      "passage": "Innate behaviors used for finding food, such as grazing, scavenging, or hunting, are more dependent on learning than behaviors used to consume food. Mating, nesting, eating, and prey-killing behaviors tend to be governed more by instinct. The greater dependence on learning to find food makes animals in the wild __________. Behaviors used to kill or consume food can be the same in any environment. Ernst Mayr, an evolutionary biologist, called these different behavioral systems \"open\" or \"closed\" to the effects of experience. A lion hunting her prey is an example of an open system. The hunting female lion recognizes her prey from a distance and approaches it carefully. Charles Herrick, a neurobiologist, wrote, \"the details of the hunt vary every time she hunts. Therefore no combination of simple reflex arcs laid down in the nervous system will be adequate to meet the infinite variations of the requirements for obtaining food.\"\n* scavenge: 동물의 사체를 찾아 다니다\n** reflex arc: 반사궁(충격이 통과하여 반사를 형성하는 신경 경로)",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["less cooperative with others in their community", "less focused on monitoring predators' approaches", "more intelligent to build their natural surroundings", "more sensitive to visual information than any other stimuli", "more flexible and able to adapt to a variety of environments"],
+      "answer": 5,
+      "points": 3,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸추론",
+      "passage": "The revolution's victorious party can claim to have resolved the fundamental anomalies of the old paradigm and to have renewed the prospects for successful research governed by shared assumptions. Indeed, the new community typically rewrites the textbooks, and retells its own history, to reflect this point of view. But from the standpoint of the losers, or even of those who look on impartially, such rewritings might seem to mark change without any genuine claim to progress, because there is no neutral standard by which to assess the merits of the change. The resulting body of knowledge is in any case not cumulative, since much of what was previously known (or merely believed) had to be excluded without ever having been conclusively refuted. One likewise cannot plausibly talk about revolutionary reconstitutions of science as aiming toward truth, for similarly, there can be no __________. The available justification of scientific knowledge after revolutions, couched in new terms according to newly instituted standards, may well be sufficient, but perhaps only because these standards and terms are now inevitably our own.\n* anomaly: 변칙, 이례 ** refute: 반박하다\n*** plausibly: 그럴듯하게",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["official connection between scientists and policy makers", "impartial formulation of standards for its assessment", "incomplete terms to describe the reconstitutions", "easy process to learn about new scientific theories", "strong belief that scientific progress benefits everyone"],
+      "answer": 2,
+      "points": 3,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸",
+      "passage": "An invention or discovery that is too far ahead of its time is worthless; no one can follow. Ideally, an innovation opens up only the next step from what is known and invites the culture to move forward one hop. An overly futuristic, unconventional, or visionary invention can fail initially (it may lack essential not-yet-invented materials or a critical market or proper understanding) yet succeed later, when the ecology of supporting ideas catches up. Gregor Mendel's 1865 theories of genetic heredity were correct but ignored for 35 years. His sharp insights were not accepted because they did not explain the problems biologists had at the time, nor did his explanation operate by known mechanisms, so his discoveries were out of reach even for the early adopters. Decades later science faced the urgent questions that Mendel's discoveries could answer. Now his insights ____________. Within a few years of one another, three different scientists each independently rediscovered Mendel's forgotten work, which of course had been there all along.\n* ecology: 생태 환경 ** heredity: 유전",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["caught up to modern problems", "raised even more questions", "addressed past and current topics alike", "were only one step away", "regained acceptance of the public"],
+      "answer": 4,
+      "points": 3,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸",
+      "passage": "Prior to photography, ____________. While painters have always lifted particular places out of their 'dwelling' and transported them elsewhere, paintings were time-consuming to produce, relatively difficult to transport and one-of-a-kind. The multiplication of photographs especially took place with the introduction of the half-tone plate in the 1880s that made possible the mechanical reproduction of photographs in newspapers, periodicals, books and advertisements. Photography became coupled to consumer capitalism and the globe was now offered 'in limitless quantities, figures, landscapes, events which had not previously been utilised either at all, or only as pictures for one customer'. With capitalism's arrangement of the world as a 'department store', 'the proliferation and circulation of representations ... achieved a spectacular and virtually inescapable global magnitude'. Gradually photographs became cheap mass-produced objects that made the world visible, aesthetic and desirable. Experiences were 'democratised' by translating them into cheap images. Light, small and mass-produced photographs became dynamic vehicles for the spatiotemporal circulation of places.\n* proliferation: 확산 ** magnitude: (큰) 규모 *** aesthetic: 미적인",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["paintings alone connected with nature", "painting was the major form of art", "art held up a mirror to the world", "desire for travel was not strong", "places did not travel well"],
+      "answer": 5,
+      "points": 3,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "A connection with ancestors, especially remote ones, is useful for getting a wide-angled, philosophical view of life. Whereas our immediate ancestors are notably skilled at helping us with the \"little pictures,\" namely the particular, the trees — say, a problem with a boss — our remote ones are best for seeing the \"Big Picture,\" namely the general, the forest — say, the meaning of our job. As modern people rush around blowing small problems out of proportion, thus contributing to a global anxiety epidemic, ancestral spirits have a broader perspective that can ______. When it comes to a trivial problem, for example, they'll just tell us, \"This too will pass.\" They appreciate how rapidly and often things change. According to American anthropologist Richard Katz, for instance, Fijians say that from the ancestral viewpoint whatever looks unfortunate may turn out to be fortunate after all: \"What may seem to be a horrible outcome ... is seen in another light by the ancestors.\" The ancestors, it might be said, keep their heads when everyone around them is losing theirs.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["calm the disquieted soul", "boost cooperation in the community", "make us stick to the specific details", "result in a waste of time", "complicate situations"],
+      "answer": 1,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "One of the criticisms of Stoicism by modern translators and teachers is the amount of repetition. Marcus Aurelius, for example, has been dismissed by academics as not being original because his writing resembles that of other, earlier Stoics. This criticism misses the point. Even before Marcus's time, Seneca was well aware that there was a lot of borrowing and overlap among the philosophers. That's because real philosophers weren't concerned with authorship, but only what worked. More important, they believed that what was said mattered less than what was done. And this is true now as it was then. You're welcome to take all of the words of the great philosophers and use them to your own liking (they're dead; they don't mind). Feel free to make adjustments and improvements as you like. Adapt them to the real conditions of the real world. The way to prove that you truly understand what you speak and write, that you truly are original, is to ______.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["put them into practice", "keep your writings to yourself", "combine oral and written traditions", "compare philosophical theories", "avoid borrowing them"],
+      "answer": 1,
+      "points": 3,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Epictetus wrote, \"A man's master is he who is able to confirm or remove whatever that man seeks or shuns.\" If you depend on no one except yourself to satisfy your desires, you will have no master other than yourself and you will be free. Stoic philosophy was about that — taking charge of your life, learning to work on those things that are within your power to accomplish or change and not to waste energy on things you cannot. In particular, the Stoics warned against ____________. Often, Epictetus argued, it's not our circumstances that get us down but rather the judgments we make about them. Consider anger. We don't get angry at the rain if it spoils our picnic. That would be silly because we can't do anything about the rain. But we often do get angry if someone mistreats us. We usually can't control or change that person any more than we can stop the rain, so that is equally silly. More generally, it is just as pointless to tie our feelings of well-being to altering another individual's behavior as it is to tie them to the weather. Epictetus wrote, \"If it concerns anything not in our control, be prepared to say that it is nothing to you.\"",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["making an argument without enough evidence", "listening to others' opinions without judgment", "reacting emotionally to what is outside your control", "pretending to have comprehended when you have not", "rationalizing to yourself that the situation is out of control"],
+      "answer": 3,
+      "points": 3,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "Japanese used to have a color word, ao, that spanned both green and blue. In the modern language, however, ao has come to be restricted mostly to blue shades, and green is usually expressed by the word midori. When the first traffic lights were imported from the United States and installed in Japan in the 1930s, they were just as green as anywhere else. Nevertheless, in common parlance the go light was called ao shingoo, perhaps because the three primary colors on Japanese artists' palettes are traditionally aka (red), kiiro (yellow), and ao. The label ao for a green light did not appear so out of the ordinary at first, because of the remaining associations of the word ao with greenness. But over time, the difference between the green color and the dominant meaning of the word ao began to feel awkward. Nations that are less assertive might have opted for the solution of simply changing the official name of the go light to midori. Not so the Japanese. Rather than alter the name to fit reality, the Japanese government announced in 1973 that ____________: henceforth, go lights would be a color that better corresponded to the dominant meaning of ao.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["reality should be altered to fit the name", "language reflected what people had in mind", "the go light should follow the global standard", "the use of the word ao for go light would be banned", "they would not change the color of go light in any way"],
+      "answer": 1,
+      "points": 3,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Insect‑eating plants' unique strategies for catching live prey have long captured the public imagination. But even within this strange group, in which food‑trapping mechanisms have evolved multiple times independently, some unusual ones stand out. According to Ulrike Bauer, an evolutionary biologist, the visually striking pitcher plant Nepenthes gracilis, for example, can ______. This species' pitcher has a rigid, horizontal lid with an exposed underside that produces nectar, luring insects to land on it. When a raindrop strikes the lid's top, the lid jolts downward and throws any unsuspecting visitor into digestive juices below. Researchers used x‑ray scans to analyze cross sections of the pitchers when the lid is raised, lowered, and in a neutral position. Their results revealed a structural weak point in the pitcher's neck: when a raindrop hits the lid, the weak spot folds in and forces the lid to quickly move downward, similar to a diving board. The weak point makes the pitcher's body bend and bounce back in a specific, consistent way, so the lid rises back up without bouncing too far ― unlike a typical leaf's chaotic vibration when struck by rain.\n* pitcher: 주머니 모양의 잎 ** nectar: (식물의) 꿀 *** jolt: 덜컹거리다, 흔들리다",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["exploit external energy for a purpose", "hide itself with help of the environment", "coordinate with other plants to trap insects", "change its shape to absorb more rain water", "modify its hunting strategy on a regular basis"],
+      "answer": 1,
+      "points": 3,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "Many fish generate their own light in a biological firework display called bioluminescence. The lanternfish creates beams that sweep the sea like headlamps. The dragonfish produces wavelengths that only it can see, leaving its victims unaware of the approaching threat. In contrast, the anglerfish hopes its prey will notice and be lured toward its rod‑like bioluminescent barbel; its fierce jaws stay hidden in the shadows. Bioluminescence is also used to frustrate predators. A species from the spookfish family relies on a bellyful of symbiotic, glowing bacteria to save it from becoming a meal. It uses the same concept developed by the US Navy during World War II to make bomber aircraft difficult to see. Just as Project Yehudi designed planes with underwing spotlights, the fish's glowing belly conceals its silhouette against sunlight to hide it from watching eyes below. In this fish‑eat‑fish world, survival is ______.\n* barbel: (물고기의) 수염 ** symbiotic: 공생의",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["dependent upon communication within the same species", "a game of hide‑and‑seek that prioritizes the sense of sight", "up to the ability to detect the subtle dance of sound waves", "a competition to imitate the illumination of different species", "a war where wider vision means better chances to catch prey"],
+      "answer": 2,
+      "points": 3,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Because the environment plays a significant role in aiding meaningful internal processes, subjective experience and the environment act as a 'coupled system.' This coupled system can be seen as a complete cognitive system of its own. In this manner, subjective experience is extended into the external environment and vice versa; the external environment with its disciplinary objects such as institutional laws and equipment becomes mental institutions that ______. A subjectively held belief attains the status of objectivity when the belief is socially shared. That is, even if we are trained as hard-nosed health care rationalists, or no-nonsense bureaucrats, or data-driven scientists, research has shown that our decisions are influenced by various institutional practices. They include bureaucratic structures and procedures, the architectural design of health care institutions, the rules of evidence and the structure of allowable questions in a courtroom trial, the spatial arrangement of kindergartens and supermarkets, and a variety of conventions and practices designed to manipulate our emotions.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["affect our subjective experience and solutions", "serve as advocates for independent decision-making", "position social experience within the cognitive system", "comprise subjective interpretations of the environment", "facilitate the construction of our concept of subjectivity"],
+      "answer": 1,
+      "points": 3,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "Any attempt to model musical behavior or perception in a general way is filled with difficulties. With regard to models of perception, the question arises of whose perception we are trying to model — even if we confine ourselves to a particular culture and historical environment. Surely the perception of music varies greatly between listeners of different levels of training; indeed, a large part of music education is devoted to developing and enriching (and therefore likely changing) these listening processes. While this may be true, I am concerned here with fairly basic aspects of perception — particularly meter and key — which I believe are relatively consistent across listeners. Anecdotal evidence suggests, for example, that most people are able to ''find the beat'' in a typical folk song or classical piece. This is not to say that there is complete uniformity in this regard — there may be occasional disagreements, even among experts, as to how we hear the tonality or meter of a piece. But I believe ______.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["our devotion to narrowing these differences will emerge", "fundamental musical behaviors evolve within communities", "these varied perceptions enrich shared musical experiences", "the commonalities between us far outweigh the differences", "diversity rather than uniformity in musical processes counts"],
+      "answer": 4,
+      "points": 3,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Businesses are realizing that the way they operate and the impact they have on the environment greatly impacts their ability to maintain customers. Transitioning from a linear way of producing products to a circular one won't be necessary only from an environmental perspective, but from a social and economic perspective as well. To minimize the negative impact on the environment, businesses will need to adjust the relationship they have with customers to maximize the value of the products they create. Rather than businesses viewing success as the number of products made per year, they will instead base their bottom line on the number of products kept in use per year. Though waste certainly creates a demand for companies to continue selling new products, eliminating waste doesn't have to eliminate demand. By prolonging the ownership of a product rather than selling it, new business opportunities emerge in the world of maintenance and repair. Though eliminating waste minimizes the need for new products, it certainly increases the need to service existing products. The circular economy will demand that new business models focus on ________________.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["returning much of their profits back to society", "producing user-friendly items to meet customers' needs", "maintaining products rather than on making new products", "creating a new demand at the expense of the environment", "encouraging consumers to express their opinions frequently"],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "The term Mother Tree comes from forestry. It has been clear for centuries that tree parents play such an important role in raising their offspring that they can be compared to human parents. A mother tree identifies which neighboring seedlings are hers using her roots. She then, via delicate connections, supports the seedlings with a solution of sugar, a process similar to a human mother nursing her child. Shade provided by parents is another form of care, as it curbs the growth of youngsters living under their crowns. Without the shade and exposed to full sunlight, the young trees would shoot up and expand the width of their trunks so quickly they'd be exhausted after just a century or two. If, however, the young trees stand strong in the shadows for decades — or even centuries — they can live to a great age. Shade means less sunlight and therefore considerably less sugar. ________________, as generations of foresters have observed. To this day, they talk of what is known in German as erzieherischer Schatten or \"instructive shade.\"",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["One can pleasantly cool down under the shade of large trees", "The trees manage to extend their roots towards the water source", "The attempts to outgrow neighboring seedlings are likely to succeed", "Mother trees provide shade to accelerate the growth of their offspring", "The slow pace of life gently imposed by the mother tree is no accident"],
+      "answer": 5,
+      "points": 3,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "City quality is so crucial for optional activities that the extent of staying activities can often be used as a measuring stick for the quality of the city as well as of its space. Many pedestrians in a city are not necessarily an indication of good city quality ― many people walking around can often be a sign of insufficient transit options or long distances between the various functions in the city. Conversely, it can be claimed that a city in which many people are not walking often indicates good city quality. In a city like Rome, it is the large number of people standing or sitting in squares rather than walking that is conspicuous. And it's not due to necessity but rather that ______. It is hard to keep moving in city space with so many temptations to stay. In contrast are many new quarters and complexes that many people walk through but rarely stop or stay in.\n* pedestrian: 보행자 ** conspicuous: 눈에 띄는",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["the city quality is so inviting", "public spaces are already occupied", "public transportation is not available", "major tourist spots are within walking distance", "the city's administrative buildings are concentrated"],
+      "answer": 1,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "That people need other people is hardly news, but for Rousseau this dependence extended far beyond companionship or even love, into the very process of becoming human. Rousseau believed that people are not born but made, every individual a bundle of potentials whose realization requires the active involvement of other people. Self-development is a social process. Self-sufficiency is an impossible fantasy. Much of the time Rousseau wished passionately that it were not: Robinson Crusoe was a favorite book, and he yearned to be free from the pains and uncertainties of social life. But his writings document with extraordinary clarity ______. \"Our sweetest existence is relative and collective, and our true self is not entirely within us.\" And it is kindness ― which Rousseau analyzed under the rubric of pitié, which translates as \"pity\" but is much closer to \"sympathy\" as Hume and Smith defined it ― that is the key to this collective existence.\n* yearn: 갈망하다 ** rubric: 항목",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["the necessity of philosophical study to understand human nature", "the development of self-sufficiency through literary works", "the shaping of the individual by his emotional attachments", "the making of the self-reliant man through his struggles", "the difficulty of trusting other people wholeheartedly"],
+      "answer": 3,
+      "points": 3,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "The social-cognitive revolution at 1 year of age sets the stage for infants' second year of life, in which they begin to imitatively learn the use of all kinds of tools, artifacts, and symbols. For example, in a study by Meltzoff (1988), 14-month-old children observed an adult bend at the waist and touch its head to a panel, thus turning on a light. They followed suit. Infants engaged in this somewhat unusual and awkward behavior, even though it would have been easier and more natural for them simply to push the panel with their hand. One interpretation of this behavior is that infants understood that the adult had the goal of illuminating the light and then chose one means for doing so, from among other possible means, and if they had the same goal, they could choose the same means. Similarly, Carpenter et al. (1998) found that 16-month-old infants will imitatively learn from a complex behavioral sequence only those behaviors that appear intentional, ignoring those that appear accidental. Young children do not just imitate the limb movements of other persons, they attempt to __________. [3점]\n* social-cognitive: 사회 인지의 ** artifact: 인공물 *** limb: 팔다리",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은? [3점]",
+      "choices": ["avoid looking awkward in the eyes of family members", "reproduce other persons' intended actions in the world", "accept the value of chance incidents that turn out helpful", "behave in an unprecedented way that others have missed", "undermine any goal that does not coincide with their own"],
+      "answer": 2,
+      "points": 3,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "As an ideal of intellectual inquiry and a strategy for the advancement of knowledge, the scientific method is essentially a monument to the utility of error. Most of us gravitate toward trying to prove our beliefs, to the extent that we bother investigating their validity at all. But scientists gravitate toward falsification; as a community if not as individuals, they seek to disprove their beliefs. Thus, the defining feature of a hypothesis is that it has the potential to be proven wrong (which is why it must be both testable and tested), and the defining feature of a theory is that it hasn't been proven wrong yet. But the important part is that it can be — no matter how much evidence appears to confirm it, no matter how many experts endorse it, no matter how much popular support it enjoys. In fact, not only can any given theory be proven wrong; sooner or later, it probably will be. And when it is, the occasion will mark the success of science, not its failure. This was the crucial insight of the Scientific Revolution: that the advancement of knowledge depends on current theories __________.\n* endorse: 지지하다",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["holding true regardless of temporal and spatial constraints", "collapsing in the face of new insights and discoveries", "shifting according to scientists' pursuit of reputation", "being exposed to the public and enjoying popularity", "leaving no chance of error and failure"],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸",
+      "passage": "Perceived distance of objects that are far away from the observer is often assumed to be subject to some global limitation in the sense that the moon, the stars, and the sun are all perceived at the \"sky\": that is, at about the same distance. This observation is related to the idea that visual space is not open but ends at visible surfaces or, indeed, the sky. Uexküll and Kriszat (1934) suggested that this is realized as a hard limit, which they call the \"farthest plane.\" If an observed person or object would walk beyond this farthest plane, it would no longer be perceived as moving further away, but rather as shrinking in size. This observation is actually quite common; if looking down from a high tower, for example, cars or even houses on the ground below may appear as if they were toys: that is, shrunk, presumably because they are perceived at the distance of the farthest plane while subtending a visual angle that corresponds to a larger distance. The farthest plane would thus ______________.\n* subtend: ~에 대(對)하다",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["prove the boundless reach of visual space", "mark the limit of the perception of size constancy", "cause objects to look more vivid as they approach it", "allow objects to appear larger as they move beyond it", "provide a reference point for calculating the exact distance"],
+      "answer": 2,
+      "points": 3,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸",
+      "passage": "In both the arts and the sciences, an aesthetics of simplicity facilitates the precise communication of messages. Both are also fairly systematic. Although many people believe that art is by definition wild and intuitive, while only science is methodologically disciplined, there is a great deal of evidence — including from artists talking about their own practices — to suggest that art is often created methodically and systematically, and that frameworks and forms permit creativity to flow. Instead of being liberating, freedom without limits is almost paralysing, because without frameworks we end up in a vacuum in which our actions generate no response. As the Danish poet and filmmaker Jørgen Leth has put it many times, 'the rules of the game' are a prerequisite for artistic freedom. They provide a solid form or structure that enables the artist to make use of 'the gifts of chance' (to use Leth's expression), and in which a part of the world can be exhibited in a non-chaotic manner. In order to create beauty, ______________.\n* paralyse: 마비시키다 ** prerequisite: 전제 조건",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["the artist must restrict him or herself", "creative minds must maintain their originality", "the creator must trust his or her own instinct", "one must think outside the predefined framework", "the scientist must embrace the role of coincidence"],
+      "answer": 1,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "An expense that reinforces the honesty of a signal is its potential reputational cost. For example, a signal might be considered costly when there's a greater risk that a dishonest signaller will receive a penalty as a result. The most powerful signals in nature aren't directed one-to-one. The brightly coloured poison frog and the impressive tail of the peacock are for all to see. The more witnesses of a signal, the higher the risk is for a dishonest signaller. Interestingly, the arrival of digital communications (specifically targeted ads online), is limiting this reputational risk, theoretically reducing the impact of a communicator's signal. Writer Don Marti hypothesises that, in communications, \"targeting breaks signalling.\" This means that when you see an advertisement that's targeting you alone, it's more like a cold call than a public message. It doesn't carry the same credible information about the seller's intentions because it's free of reputational cost. It's maybe no surprise that deceptive sellers have far more success online than through more public communication channels. To build trust, often it's not just about seeing the message, it's knowing that _______.\n* cold call: 상품 등의 판매를 위한 임의의 권유 전화",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["it is clear and specific", "it is targeting your emotions", "other people have seen it too", "what it contains is consistent", "it perfectly meets one's needs"],
+      "answer": 3,
+      "points": 3,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "When someone recounts their story of some tragedy, the other responds with 'I feel for you. That happened to me.' Through identification, the object of the emotional response shifts from the other person to oneself. Such identification fails to count as empathy since it is not a genuine instance of sharing in the emotional response of the other (with temporarily activated concern for the other) but is a simple projection of the self onto the other. It is merely one's own — imagined or remembered — emotional response. To put this in other words, there is a forgetting that it is not you but the other who is in the situation. What happens in the case of empathy is an attempt to appreciate a situation from another's point of view _______. In other words, we attempt to consider what it is to experience such circumstances with a particular set of beliefs and desires that we take the other to hold (which may or may not overlap with our own).",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "choices": ["despite having no background knowledge of this", "by imagining how you would feel in the same situation", "with a focus on hiding our negative emotional response", "without losing sight of this being experienced by the other", "through finding the overlapping area between me and the other"],
+      "answer": 4,
+      "points": 3,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "When we narrow, we're redirecting all of our computing power to the handful of processes that matter. It's as if to help with our slow Wi-Fi, we disconnect our phone and tablet, just so that our video conference call won't lag. Narrowing also helps with goal attainment. It cuts out all of the other distractions and places the most important goal front and center. When we home in, we increase motivational intensity, reinforcing that what's in front of us is what we should be after. For a brief moment, the trade-off can be worthwhile, but when we ______, we start to miss cues and signals. We get locked in on one path without being able to step back and see a better route. When we're stuck narrowed in for too long, accidents go up and performance drops. We miss hearing alarms that signal there's a problem elsewhere.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["get distracted by too many sources", "rely too heavily on digital devices", "randomly switch between tasks", "remain zoomed in for too long", "fail to control our feelings"],
+      "answer": 4,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "One word is inextricably associated with geography: where. That is because geography starts from the premise that it matters where something takes place on Earth's surface. The key questions are not simply \"where\" questions, though; they are \"why there\" and \"so what\" questions. Getting to such questions means taking spatial arrangements, variations, and interconnections seriously. Engaging in even the simplest day-to-day activity requires some appreciation of spatial circumstances ― where to find food and services, how to get to work places, and the like. Moving up in scale, without some awareness of ______, it is difficult to make reasoned business or policy judgments, make sense of events, or grasp some of the basic forces shaping life on the planet. Locating a new store or public service requires taking into consideration population distributions, the location of roads and utilities, socio-economic patterns, and more. Understanding why and where migration happens requires consideration of the political organization of territory, the spatial consequences of discrimination, socio-economic patterns, and the layout of the physical environment.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["why cross-cultural conflicts will increase", "how phenomena are arranged on Earth's surface", "when the Earth's natural resources will be exhausted", "which places on Earth are damaged by climate change", "who has the authority to make decisions about territories"],
+      "answer": 2,
+      "points": 3,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸",
+      "passage": "The \"rosy view\" phenomenon tells us that tourists overestimate the happiness experienced during vacations. The actual experience is perceived less enjoyable than anticipated experience and recollected experience. Some researchers further analyzed future vacation choice by investigating how the anticipated, on-line (i.e., during vacation), and remembered vacation experience in terms of emotions, predicted the desire to take a similar vacation in the future. They found that not on-line or predicted experience, but remembered experience predicted the desire to repeat the vacation. Thus, a rosy memory — accurate or not — is a major determinant for future plans for vacation travel. More recent neurological research supports these empirical observations revealing that the area in the brain that gives humans the ability to imagine the future is the same area that ______________.\n* on-line: 진행 중인 ** empirical: 실험상의",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["recognizes new stimuli", "controls impulsive decisions", "allows recollection of the past", "anticipates dangerous situations", "stores repetitive behavioral patterns"],
+      "answer": 3,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸",
+      "passage": "It is typically considered important to make sure species do not go extinct, unless they are really nasty. Since most species are above the threshold, there is, according to this argument, not really much of a general problem. The focus is just on a specific subset of endangered species. But suppose that the unit is not a species (or not just a species), but ecosystems and their supporting habitats. Suppose within ecosystems everything depends upon ______________. Then it is the system that needs to stay above the threshold. In this case, while it is still necessary to protect species from falling below their particular thresholds, it is not sufficient just to do this. Sustainability now requires much more — preserving and enhancing ecosystems and habitats to a level sufficient to sustain the myriad of interrelated species. Weak sustainability suddenly becomes a much more serious and complex matter.\n* threshold: 임계점, 기준점 ** myriad: 무수히 많은 것",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["balance comes from chaos", "changes are naturally reversible", "one gains only when another loses", "what seems good is not always good", "everything depends upon everything else"],
+      "answer": 5,
+      "points": 3,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸",
+      "passage": "Our epistemic relation to self-determination is open to error and, thus, subjective. Turning oneself into an agent of a particular kind by conceiving of oneself as that type of agent does not suffice to make it the case that ______________. Just imagine someone who believes himself to be a natural born tango dancer. He has watched many videos about tango dancing and practices dancing by himself for many years. Having prepared himself for a glorious entrance on the international scene, he travels to Buenos Aires and shows up at Maldita Milonga to show his skills. Unbeknownst to him, though, his dancing (if dancing it be) does not even remotely resemble tango, and nothing he does on stage can be recognized as tango dancing. Hence, while he conceived of himself as a tango dancer and did many things in light of that self-conception (including buying a ticket to Buenos Aires, dressing up, consuming hours of tango videos, reading books about tango, learning Spanish, etc.), he failed at meeting some of the minimal norms of actually being a tango dancer at all.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["one downplays others' feedback", "one actually is that type of agent", "one's innate ability precedes mastery", "one is capable of setting priorities", "one fails to stick to one's goal"],
+      "answer": 2,
+      "points": 3,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸",
+      "passage": "What makes social attention distinct, and more far-reaching than many other forms of social connection, is that it can ______________. You can't have a relationship with a celebrity unless you know him and he knows you. But a celebrity can be the object of your social attention. And this kind of one-sided social attention isn't something trivial or secondary, but an enormous part of our lives. In tenth grade, you can spend most of your waking hours daydreaming about a high school senior you have a crush on. As an adult, you might find yourself having imaginary arguments in your head with a certain media personality. Think for a moment of the pantheon of strangers we have in our heads that we put our social attention on — from athletes we root for or jeer, to celebrities, to people whose struggle we encounter in the news. An enormous part of our social attention falls upon people who do not know us at all.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["focus exclusively on figures we admire", "depend on someone's in-person presence", "deepen our mutual relationship over time", "fade away without constant reinforcement", "live outside of the actual relationships we have"],
+      "answer": 5,
+      "points": 3,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Compared to other ecosystems, forests are relatively diverse, but this should not necessarily be ______________. Wetlands, meadows, and grasslands have a unique biota too, even if it is often not as rich as a forest biota. The ecological problems of this process have been described from a number of places such as Iceland, South Africa, and Australia, but the classic example of this comes from Scotland and northern England. Here the Forestry Commission has drained, fertilized, and fenced extensive areas of wetlands to facilitate turning them into forests. Increasing the extent of forests in Britain is certainly a desirable goal, and most of the Forestry Commission's efforts are directed toward sites that were forested before sheep and their keepers came to the island. However, ecologists frequently complain about the Commission's work because it is not restricted to former forest sites, because the forests established are usually composed of exotic trees, and because the wildlife threatened by this activity includes many uncommon species.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["grounds for investigating the value of forest expansion", "a basis for extending institutional aid to entire ecosystems", "taken as the reason for introducing exotic species to an ecosystem", "accepted as evidence for increasing ecological enrichment", "a justification for converting nonforests into forests"],
+      "answer": 5,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "When gathering the preferences of multiple agents into one collective choice, it is easily seen that certain cases ______________. For example, if there are two alternatives, a and b, and two agents such that one prefers a and the other one b, there is no deterministic way of selecting a single alternative without violating one of two basic fairness conditions known as anonymity and neutrality. Anonymity requires that the collective choice ought to be independent of the agents' identities whereas neutrality requires impartiality towards the alternatives. Allowing lotteries as social outcomes hence seems like a necessity for impartial collective choice. Indeed, most common \"deterministic\" social choice functions such as plurality rule are only deterministic as long as there is no tie, which is usually resolved by drawing a lot. The use of lotteries for the selection of officials interestingly goes back to the world's first democracy in Athens, where it was widely regarded as a principal characteristic of democracy, and has recently gained increasing attention in political science.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": ["call for randomization or other means of tiebreaking", "demonstrate how impartial selection could be invalidated", "necessitate deterministic systems of selecting voters blindly", "rely upon neutral agents to establish clear selection guidelines", "require understanding of the unpredictability inherent in democracy"],
+      "answer": 1,
+      "points": 3,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    }
+  ]
+}

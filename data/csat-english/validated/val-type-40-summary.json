@@ -1,0 +1,82 @@
+{
+  "type": "요약문",
+  "typeNumber": 40,
+  "validationSummary": {
+    "totalQuestions": 5,
+    "allCorrect": 5,
+    "flagged": 0,
+    "overallVerdict": "PASS"
+  },
+  "validated": [
+    {
+      "questionIndex": 1,
+      "generatedAnswer": 2,
+      "validatorAnswer": 2,
+      "match": true,
+      "verdict": "PASS",
+      "reasoning": {
+        "passage_core": "Digital information systems have fundamentally altered the elderly's traditional role as knowledge repositories, eroding their status and weakening intergenerational bonds.",
+        "A_analysis": "(A) requires a word meaning 'reduced/eroded.' 'diminished' accurately captures how digital access has lessened the elderly's role. 'reinforced' (1) and 'elevated' (4) are opposites; 'preserved' (3) contradicts the 'fundamentally altered' claim.",
+        "B_analysis": "(B) requires a word meaning 'eroded/frayed.' 'weakening' matches the passage's description of bonds that have 'weakened' and social fabric that has become 'frayed.' 'tightening' (5) is the opposite; 'severing' (4) is too extreme — the bonds weakened, not severed entirely.",
+        "correct_pair": "(A) diminished — (B) weakening",
+        "distractor_quality": "Well-constructed. Choice 5 is a strong distractor with correct (A) but opposite (B). Other distractors have clear (A) errors."
+      }
+    },
+    {
+      "questionIndex": 2,
+      "generatedAnswer": 4,
+      "validatorAnswer": 4,
+      "match": true,
+      "verdict": "PASS",
+      "reasoning": {
+        "passage_core": "Creativity flourishes under resource constraints; scarcity forces people to abandon conventional approaches and forge new, unconventional connections.",
+        "A_analysis": "(A) requires a word meaning 'limitation/shortage.' 'scarcity' (choices 2 and 4) fits. 'abundance' (1) and 'surplus' (5) are opposites of the passage's argument. 'distribution' (3) is irrelevant.",
+        "B_analysis": "(B) requires a word meaning 'unconventional/new.' 'novel' correctly captures the 'unconventional solutions' and 'new connections' described. 'conventional' (choice 2) is the direct opposite — the passage says constraints push AWAY from conventional. 'alternative' (5) is weaker and less precise.",
+        "correct_pair": "(A) scarcity — (B) novel",
+        "distractor_quality": "Excellent. Choice 2 is a clever trap with correct (A) but opposite (B). Choice 5 has opposite (A) but plausible (B)."
+      }
+    },
+    {
+      "questionIndex": 3,
+      "generatedAnswer": 2,
+      "validatorAnswer": 2,
+      "match": true,
+      "verdict": "PASS",
+      "reasoning": {
+        "passage_core": "Memory is not a faithful replay but a reconstructive process that reassembles fragments, making it susceptible to distortion from external influences such as question phrasing and post-event information.",
+        "A_analysis": "(A) requires a word describing how memory works. 'reconstructive' directly echoes the passage's explicit statement that memory 'operates more like a reconstruction than a replay.' 'mechanical' (3) contradicts this; 'selective' (1) captures only a partial aspect; 'creative' (4) overstates intentionality; 'involuntary' (5) addresses a different dimension.",
+        "B_analysis": "(B) requires a word for what memory is vulnerable to. 'distortion' precisely captures the 'subtle distortions,' misinformation effect, and altered recollections described. 'repetition' (1), 'reinforcement' (4), and 'suppression' (5) are unrelated to the vulnerability described.",
+        "correct_pair": "(A) reconstructive — (B) distortion",
+        "distractor_quality": "Solid. The correct answer uses passage-explicit vocabulary. Distractors are semantically adjacent but clearly wrong on close reading."
+      }
+    },
+    {
+      "questionIndex": 4,
+      "generatedAnswer": 2,
+      "validatorAnswer": 2,
+      "match": true,
+      "verdict": "PASS",
+      "reasoning": {
+        "passage_core": "Urban green spaces provide significant health benefits, especially for lower-income communities who lack private alternatives; removing these spaces widens existing health disparities along socioeconomic lines.",
+        "A_analysis": "(A) requires a word meaning 'widen/worsen.' 'intensify' correctly conveys the escalation of inequality. 'narrow' (1), 'eliminate' (4), and 'moderate' (5) all suggest reduction of inequality, which is the opposite. 'expose' (3) does not collocate naturally with 'inequalities' in this context.",
+        "B_analysis": "(B) requires a word describing the relevant social grouping. 'socioeconomic' precisely matches the passage's focus on 'lower-income communities' vs. those with access to 'private gardens or countryside retreats.' 'age' (1), 'cultural' (3), 'ethnic' (4) are not the dimension discussed.",
+        "correct_pair": "(A) intensify — (B) socioeconomic",
+        "distractor_quality": "Good. Distractors are clearly wrong, but the combination of correct (A) and (B) requires understanding both the direction of effect and the social dimension."
+      }
+    },
+    {
+      "questionIndex": 5,
+      "generatedAnswer": 1,
+      "validatorAnswer": 1,
+      "match": true,
+      "verdict": "PASS",
+      "reasoning": {
+        "passage_core": "The traditional view held that emotions obstruct rational thinking, but Damasio's research showed emotions are essential to decision-making by providing rapid evaluative signals.",
+        "A_analysis": "(A) must capture the traditional negative view of emotions. 'impede' (= hinder, obstruct) accurately reflects 'obstacles to rational decision-making.' 'enhance' (2) and 'supplement' (4) are too positive for the old view. 'reflect' (3) is neutral and misses the adversarial framing. 'distort' (5) is close but overstates.",
+        "B_analysis": "(B) must capture the research finding that emotions help decision-making. 'facilitate' (= make easier, enable) correctly reflects that emotions are 'an essential component' enabling 'far more efficient' navigation. 'complicate' (2), 'delay' (3), and 'undermine' (4) are all negative. 'simplify' (5) is too narrow.",
+        "correct_pair": "(A) impede — (B) facilitate",
+        "distractor_quality": "Well-designed. Choice 5 has a plausible (A) and partially plausible (B). The contrast structure of the summary sentence helps guide to the correct pair."
+      }
+    }
+  ]
+}

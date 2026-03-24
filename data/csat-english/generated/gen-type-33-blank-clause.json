@@ -1,0 +1,219 @@
+{
+  "type": "빈칸 추론 (절)",
+  "typeNumber": 33,
+  "analysis": {
+    "patternSummary": "Type 33 blank-clause questions present an academic passage (200-250 words) with a single blank requiring a clause or phrase that captures the passage's central argument. The blank typically appears near the end of the passage, serving as the logical conclusion or key thesis statement.",
+    "topicDomains": ["philosophy", "cognitive science", "ecology", "social theory", "epistemology", "perception", "linguistics", "art theory"],
+    "blankPlacement": "Usually in the final third of the passage — often the concluding sentence or a pivotal claim that the rest of the passage builds toward or away from.",
+    "choiceDesign": "Five clause-length options (8-15 words each). Only one logically completes the argument; distractors use related vocabulary but introduce logical mismatches, reversed causality, or irrelevant extensions.",
+    "difficultyMarkers": "Abstract/academic content, multi-step reasoning required, contrast or paradox structures, the correct answer often inverts an intuitive expectation.",
+    "passageStructure": "Typically: introduce concept → provide examples or evidence → present a contrast or complication → blank fills the key inference or conclusion."
+  },
+  "generated": [
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "The philosopher Hans-Georg Gadamer argued that understanding is never a purely passive reception of information but always involves what he called a \"fusion of horizons.\" Every interpreter brings a set of preconceptions — shaped by culture, education, and personal experience — to any act of reading or listening. Rather than being obstacles to understanding, these preconceptions are the very conditions that make understanding possible at all. Without them, the interpreter would have no framework within which to situate new information. However, Gadamer also insisted that genuine understanding requires more than simply projecting one's existing views onto a text. The interpreter must remain open to having those preconceptions challenged and revised by what the text actually says. This is why Gadamer described understanding as a dialogical process: the interpreter asks questions of the text, but the text also poses questions back. The result is neither a mere reproduction of the text's original meaning nor a simple expression of the interpreter's biases, but rather ______________. It is precisely this productive tension between the familiar and the foreign that transforms reading from mechanical decoding into genuine comprehension.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "a new understanding that neither party possessed beforehand",
+        "an exact replication of the author's intended message",
+        "a confirmation of the reader's initial assumptions about the text",
+        "a compromise that sacrifices accuracy for accessibility",
+        "a rejection of both perspectives in favor of an entirely novel one"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "논증 구조: 가다머는 이해를 '지평의 융합'으로 정의합니다. 해석자는 선입견을 가지고 텍스트에 접근하고(①), 텍스트는 그 선입견에 도전하며(②), 이 대화적 과정을 통해 양측 모두 이전에 갖고 있지 않았던 새로운 이해가 탄생합니다(③). 빈칸은 'neither A nor B, but rather ___' 구조에서 A(단순 재현)와 B(편견 표현)를 종합하는 제3의 결과 위치이므로, ① 'a new understanding that neither party possessed beforehand'가 이 융합의 결과를 정확히 포착합니다.",
+        "wrong": {
+          "2": "② '저자의 의도를 정확히 복제'는 글에서 이미 부정된 '단순한 재현(mere reproduction)'과 동일한 주장이므로 본문 논리와 정면 충돌합니다.",
+          "3": "③ '독자의 초기 가정을 확인'은 가다머가 강조한 '선입견이 수정되어야 한다'는 핵심 조건과 모순됩니다.",
+          "4": "④ '정확성을 접근성을 위해 희생하는 타협'은 본문에서 전혀 언급되지 않은 개념(희생, 타협)을 도입하며 논증과 무관합니다.",
+          "5": "⑤ '양쪽 관점 모두를 거부'는 가다머의 융합이 통합(integration)이지 폐기(rejection)가 아니라는 점에서 논리적으로 반대됩니다."
+        },
+        "key_point": "빈칸 앞에 'neither A nor B, but rather ___' 구조가 나오면, 정답은 A와 B를 종합하는 제3의 결과여야 합니다. 한쪽만 반복하거나 양쪽 모두 부정하는 선지는 오답입니다."
+      },
+      "explanation": {
+        "correct": "글의 논증 구조: 가다머는 이해를 '지평의 융합'으로 정의합니다. ① 해석자는 선입견을 가지고 텍스트에 접근하고 ② 텍스트는 그 선입견에 도전하며 ③ 이 대화적 과정을 통해 양측 모두 이전에 갖고 있지 않았던 새로운 이해가 탄생합니다. 빈칸은 '단순한 재현도 아니고 편견의 표현도 아닌' 것의 결론부에 위치하므로, 이 융합의 결과물을 요약하는 역할입니다. ①번 'a new understanding that neither party possessed beforehand'는 이 종합(synthesis)을 정확히 포착합니다.",
+        "wrong": {
+          "2": "②번 '저자의 의도를 정확히 복제'는 글에서 이미 부정된 '단순한 재현(mere reproduction)'과 동일한 주장이므로 본문 논리와 정면 충돌합니다.",
+          "3": "③번 '독자의 초기 가정을 확인'은 가다머가 강조한 '선입견이 수정되어야 한다'는 핵심 조건과 모순됩니다.",
+          "4": "④번 '정확성을 접근성을 위해 희생하는 타협'은 본문에서 전혀 언급되지 않은 개념(희생, 타협)을 도입하며 논증과 무관합니다.",
+          "5": "⑤번 '양쪽 관점 모두를 거부'는 가다머의 융합이 통합(integration)이지 폐기(rejection)가 아니라는 점에서 논리적으로 반대됩니다."
+        },
+        "key_point": "빈칸 앞에 'neither A nor B, but rather ___' 구조가 나오면, 정답은 A와 B를 종합하는 제3의 결과여야 합니다. 한쪽만 반복하거나 양쪽 모두 부정하는 선지는 오답입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage establishes that understanding is neither pure reception nor pure projection, but a dialogical 'fusion.' The blank must capture this synthesis — something genuinely new emerging from the encounter. Choice 1 correctly states this. Choice 2 contradicts the 'not mere reproduction' claim. Choice 3 contradicts the requirement for openness to revision. Choice 4 introduces 'sacrifice' which is unsupported. Choice 5 says 'rejection of both,' but Gadamer's fusion integrates rather than discards.",
+        "distractor_quality": "Each distractor uses plausible vocabulary (replication, assumptions, compromise, rejection) but misaligns with the dialogical/synthetic logic of the passage.",
+        "word_count": 213,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Behavioral economists have demonstrated that people evaluate outcomes not in absolute terms but relative to a reference point — typically their current situation or their expectations. This principle, known as reference dependence, has profound implications for how we experience gains and losses. A salary increase from $50,000 to $60,000, for instance, feels different depending on whether one expected to receive $55,000 or $65,000. The same objective outcome — $60,000 — is experienced as a windfall in one case and a disappointment in the other. What makes this phenomenon particularly consequential is that reference points are not fixed. They shift with experience, social comparison, and adaptation. A luxury that once felt extraordinary becomes, after repeated exposure, the new baseline against which future experiences are measured. This upward drift of reference points means that ______________. Each achievement recalibrates expectations, so that the satisfaction it provides is inherently temporary. Psychologists call this the \"hedonic treadmill\" — a metaphor suggesting that we are always running but never arriving at a stable state of contentment.\n* windfall: 뜻밖의 횡재 ** hedonic: 쾌락의",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "sustained happiness cannot be secured through accumulation alone",
+        "economic growth inevitably leads to greater social inequality",
+        "people become better at predicting their emotional responses over time",
+        "objective measures of well-being are more reliable than subjective ones",
+        "lowering one's expectations is the only path to lasting satisfaction"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "논증 구조: 사람들은 절대적 기준이 아닌 준거점(reference point)에 따라 결과를 평가하고(①), 준거점은 경험·비교·적응에 의해 계속 상승하며(②), 따라서 만족은 본질적으로 일시적입니다(③). 빈칸은 '준거점의 상향 이동(This upward drift of reference points)'이 가져오는 결론 위치이며, 빈칸 뒤 'Each achievement recalibrates expectations'가 정답 방향을 확증합니다. ① 'sustained happiness cannot be secured through accumulation alone'이 이 논리적 귀결을 정확히 요약합니다.",
+        "wrong": {
+          "2": "② '경제 성장이 불평등을 초래'는 준거점과 만족이라는 글의 주제와 완전히 다른 사회경제적 논점을 도입합니다.",
+          "3": "③ '사람들이 감정 반응 예측을 더 잘하게 된다'는 본문의 핵심 논지(준거점 상승으로 만족 예측 실패)와 정반대됩니다.",
+          "4": "④ '객관적 지표가 주관적 지표보다 더 신뢰할 만하다'는 본문에서 논의하지 않는 객관/주관 비교를 도입합니다.",
+          "5": "⑤ '기대치를 낮추는 것이 유일한 길'은 'only path'라는 극단적 처방으로, 글이 분석적 서술을 하고 있지 처방을 내리고 있지 않다는 점에서 부적절합니다."
+        },
+        "key_point": "빈칸 뒤에 나오는 'Each achievement recalibrates expectations'와 '쾌락의 쳇바퀴' 비유가 정답의 방향을 확인해줍니다. 빈칸 추론에서 빈칸 뒤 문장은 정답 검증의 핵심 단서입니다."
+      },
+      "explanation": {
+        "correct": "글의 논증 구조: ① 사람들은 절대적 기준이 아닌 준거점(reference point)에 따라 결과를 평가하고 ② 준거점은 경험·비교·적응에 의해 계속 상승하며 ③ 따라서 만족은 본질적으로 일시적입니다. 빈칸은 이 '준거점의 상향 이동'이 가져오는 결론 위치에 있으므로, '축적만으로는 지속적 행복을 확보할 수 없다'는 ①번이 논리적 귀결을 정확히 요약합니다.",
+        "wrong": {
+          "2": "②번 '경제 성장이 불평등을 초래'는 글의 주제(준거점과 만족)와 완전히 다른 사회경제적 논점을 도입합니다.",
+          "3": "③번 '사람들이 감정 반응 예측을 더 잘하게 된다'는 본문의 핵심 논지(현재 편향, 예측 실패)와 정반대됩니다.",
+          "4": "④번 '객관적 지표가 주관적 지표보다 더 신뢰할 만하다'는 본문에서 논의하지 않는 객관/주관 비교를 도입합니다.",
+          "5": "⑤번 '기대치를 낮추는 것이 유일한 길'은 'only path'라는 극단적 처방으로, 글이 분석적 서술을 하고 있지 처방을 내리고 있지 않다는 점에서 부적절합니다."
+        },
+        "key_point": "빈칸 뒤에 나오는 'Each achievement recalibrates expectations'와 '쾌락의 쳇바퀴' 비유가 정답의 방향을 확인해줍니다. 빈칸 추론에서 빈칸 뒤 문장은 정답 검증의 핵심 단서입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage explains that reference points shift upward with each gain, making each satisfaction temporary. The blank must capture the consequence of this upward drift. Choice 1 correctly states that mere accumulation cannot sustain happiness because the baseline keeps rising. Choice 2 introduces inequality, which is unrelated. Choice 3 contradicts the passage (people misjudge). Choice 4 introduces objective vs. subjective, not discussed. Choice 5 is too prescriptive ('only path') and not what the passage argues.",
+        "distractor_quality": "Distractors touch on related economic/psychological terms but diverge from the specific mechanism (shifting reference points → temporary satisfaction).",
+        "word_count": 209,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "In the philosophy of science, the concept of \"underdetermination\" poses a fundamental challenge to the idea that evidence alone can settle scientific debates. Underdetermination holds that for any body of evidence, there will always be multiple theories that can account for it equally well. Two rival theories may make identical predictions about observable phenomena while offering radically different explanations of the underlying mechanisms. If the evidence cannot distinguish between them, then something other than evidence must be doing the work when scientists choose one theory over another. Philosophers such as Thomas Kuhn and Paul Feyerabend argued that aesthetic values, institutional pressures, and cultural assumptions all play a role in theory selection. This does not mean that science is irrational or arbitrary, however. Rather, it suggests that ______________. The criteria scientists use — simplicity, elegance, explanatory scope, and coherence with existing knowledge — are themselves products of a community's evolving judgment about what counts as a good explanation, not timeless truths dictated by nature.\n* underdetermination: 과소결정",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "rationality in science extends beyond the purely empirical",
+        "scientific progress depends on eliminating all competing theories",
+        "the most elegant theory is always the most accurate one",
+        "evidence is ultimately irrelevant to the practice of science",
+        "cultural influences on science should be minimized wherever possible"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "논증 구조: 과소결정 원리에 따르면 동일한 증거를 설명하는 복수의 이론이 항상 존재하고(①), 이론 선택에는 미적 가치·제도적 압력·문화적 가정이 관여하지만(②), 이것이 과학을 비합리적으로 만드는 것은 아닙니다(③). 빈칸은 'This does not mean A, however. Rather, it suggests that ___' 구조에서 A(비합리적)를 부정한 뒤 균형 잡힌 대안을 채우는 위치입니다. ① '과학의 합리성은 순수 경험적 영역을 넘어선다'는 비경험적 요소도 합리성의 일부라는 통합적 결론을 정확히 제시합니다.",
+        "wrong": {
+          "2": "② '모든 경쟁 이론을 제거해야 발전한다'는 과소결정의 핵심(경쟁 이론은 제거 불가능)과 직접 모순됩니다.",
+          "3": "③ '가장 우아한 이론이 항상 가장 정확하다'는 글에서 언급된 '단순성, 우아함' 기준을 극단적 필연성으로 과장합니다.",
+          "4": "④ '증거가 궁극적으로 무관하다'는 글이 증거가 '필요하지만 불충분'하다고 말하는 것을 '무관'으로 왜곡합니다.",
+          "5": "⑤ '문화적 영향을 최소화해야 한다'는 글이 문화적 요소를 이론 선택의 자연스러운 일부로 수용하는 것과 정반대입니다."
+        },
+        "key_point": "'This does not mean A, however. Rather, it suggests that ___' 구조는 A를 부정한 뒤 균형 잡힌 대안을 제시합니다. 정답은 A(비합리적)도 아니고 극단적 반대도 아닌 중도적 종합이어야 합니다."
+      },
+      "explanation": {
+        "correct": "글의 논증 구조: ① 과소결정 원리에 따르면, 동일한 증거를 설명하는 복수의 이론이 항상 존재하고 ② 이론 선택에는 미적 가치, 제도적 압력, 문화적 가정이 관여하지만 ③ 이것이 과학을 비합리적으로 만드는 것은 아닙니다. 빈칸은 'Rather, it suggests that ___'로, ②와 ③을 조화시키는 역할입니다. ①번 '과학의 합리성은 순수 경험적 영역을 넘어선다'는 비경험적 요소도 합리성의 일부라는 통합적 결론을 정확히 제시합니다.",
+        "wrong": {
+          "2": "②번 '모든 경쟁 이론을 제거해야 발전한다'는 과소결정의 핵심(경쟁 이론은 제거 불가능)과 직접 모순됩니다.",
+          "3": "③번 '가장 우아한 이론이 항상 가장 정확하다'는 글에서 언급된 '단순성, 우아함' 기준을 극단적 필연성으로 과장합니다.",
+          "4": "④번 '증거가 궁극적으로 무관하다'는 글이 증거가 '필요하지만 불충분'하다고 말하는 것을 '무관'으로 왜곡합니다.",
+          "5": "⑤번 '문화적 영향을 최소화해야 한다'는 글이 문화적 요소를 이론 선택의 자연스러운 일부로 수용하는 것과 정반대입니다."
+        },
+        "key_point": "'This does not mean A, however. Rather, it suggests that ___' 구조는 A를 부정한 뒤 균형 잡힌 대안을 제시합니다. 정답은 A(비합리적)도 아니고 극단적 반대도 아닌 중도적 종합이어야 합니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage argues that evidence alone cannot decide between rival theories, and non-empirical factors (aesthetics, culture, institutional norms) play a role — but this does not make science irrational. The blank must reconcile these: rationality includes more than just evidence. Choice 1 captures this precisely. Choice 2 contradicts underdetermination. Choice 3 overstates the 'elegance' point. Choice 4 goes too far — the passage says evidence is necessary but insufficient. Choice 5 contradicts the passage's acceptance of cultural factors.",
+        "distractor_quality": "Each distractor takes one element of the passage and pushes it to an unsupported extreme, creating plausible but incorrect options.",
+        "word_count": 201,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "Anthropologist Robin Dunbar proposed that the size of a species' social group correlates with the size of its neocortex — the part of the brain responsible for complex thought. For humans, this \"social brain hypothesis\" predicts a natural group size of roughly 150 individuals, a figure now known as Dunbar's number. Beyond this threshold, the cognitive demands of maintaining meaningful relationships simply exceed our mental capacity. Throughout most of human history, communities rarely surpassed this limit. Villages, military companies, and early corporate divisions all tended to cluster around this number. The rise of modern cities and digital networks, however, has placed us in social environments vastly larger than anything our brains evolved to handle. We now routinely encounter thousands of faces, names, and social signals daily. Yet rather than expanding our capacity for deep connection, this surplus of social information appears to ______________. Studies consistently show that despite having hundreds of online contacts, people maintain the same small core of intimate relationships that they always have. The architecture of social media may change whom we know of, but it has not altered how many people we can truly know.\n* neocortex: 신피질",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "dilute our relationships without deepening any of them",
+        "push us to develop new cognitive strategies for bonding",
+        "eliminate the biological ceiling on our social capacities",
+        "make us more selective about forming offline connections",
+        "strengthen our ability to manage larger social networks"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "논증 구조: 던바의 수(약 150명)를 넘으면 인지 용량이 초과되고(①), 현대 도시와 디지털 네트워크는 이 한계를 훨씬 초과하는 환경을 만들었으며(②), 그러나 깊은 관계의 수는 변하지 않았습니다(③). 빈칸은 'Yet rather than expanding... this surplus appears to ___'로 사회적 정보 과잉의 부정적 결과를 서술하며, 빈칸 직후 'Studies consistently show that...intimate relationships...same small core'가 정답을 확증합니다. ① 'dilute our relationships without deepening any of them'이 넓어지기만 하고 깊어지지 않는 핵심 역설을 정확히 포착합니다.",
+        "wrong": {
+          "2": "② '새로운 인지 전략을 개발하게 만든다'는 긍정적 적응을 시사하지만, 글은 친밀한 관계 수가 변하지 않았다고 명시하여 이를 부정합니다.",
+          "3": "③ '사회적 능력의 생물학적 상한선을 제거한다'는 던바의 수라는 핵심 전제(인지 한계는 고정됨)와 정면 충돌합니다.",
+          "4": "④ '오프라인 연결에 더 선택적이 된다'는 본문에서 지지되지 않는 별도의 주장으로, 과잉의 결과로 논리적으로 도출되지 않습니다.",
+          "5": "⑤ '더 큰 소셜 네트워크를 관리하는 능력을 강화한다'는 긍정적 확장을 시사하며 본문의 논지와 반대입니다."
+        },
+        "key_point": "빈칸 직후 문장('Studies consistently show that...')이 정답의 방향을 확증합니다. 빈칸 추론에서 빈칸 뒤 문장은 정답 검증의 핵심 단서입니다."
+      },
+      "explanation": {
+        "correct": "글의 논증 구조: ① 던바의 수(약 150명)를 넘으면 인지 용량이 초과되고 ② 현대 도시와 디지털 네트워크는 이 한계를 훨씬 초과하는 환경을 만들었으며 ③ 그러나 깊은 관계의 수는 변하지 않았습니다. 빈칸은 'Yet rather than expanding... this surplus appears to ___'로, 사회적 정보 과잉의 부정적 결과를 서술하는 위치입니다. ①번 'dilute our relationships without deepening any of them'은 관계가 넓어지기만 하고 깊어지지는 않는다는 핵심 역설을 정확히 포착합니다.",
+        "wrong": {
+          "2": "②번 '새로운 인지 전략을 개발하게 만든다'는 긍정적 적응을 시사하지만, 글은 친밀한 관계 수가 변하지 않았다고 명시하여 이를 부정합니다.",
+          "3": "③번 '사회적 능력의 생물학적 상한선을 제거한다'는 던바의 수라는 핵심 전제(인지 한계는 고정됨)와 정면 충돌합니다.",
+          "4": "④번 '오프라인 연결에 더 선택적이 된다'는 본문에서 지지되지 않는 별도의 주장으로, 과잉의 결과로 논리적으로 도출되지 않습니다.",
+          "5": "⑤번 '더 큰 소셜 네트워크를 관리하는 능력을 강화한다'는 ②번과 마찬가지로 긍정적 확장을 시사하며 본문의 논지와 반대입니다."
+        },
+        "key_point": "빈칸 직후 문장('Studies consistently show that...')이 정답의 방향을 확증합니다. 빈칸 추론에서 빈칸 뒤 문장은 정답 검증의 핵심 단서입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage states that beyond Dunbar's number, our cognitive capacity is exceeded, and that modern environments vastly exceed it. The sentence after the blank confirms that intimate relationship counts remain unchanged despite hundreds of contacts. So the surplus 'dilutes without deepening.' Choice 1 matches. Choice 2 and 5 suggest positive expansion, contradicted by the evidence. Choice 3 contradicts the core thesis. Choice 4 ('more selective offline') is unsupported and doesn't follow from the surplus argument.",
+        "distractor_quality": "Choices 2, 3, and 5 tempt with optimistic interpretations that the passage explicitly refutes. Choice 4 is plausible but not supported by the passage's argument.",
+        "word_count": 218,
+        "single_answer_confirmed": true
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "In ecology, the \"intermediate disturbance hypothesis\" suggests that biodiversity is highest not in the most stable environments, nor in the most frequently disrupted ones, but at moderate levels of disturbance. A forest that never experiences fire or storm develops into a climax community dominated by a few highly competitive species that crowd out all others. Conversely, an environment subjected to constant catastrophic disruption never allows any species to establish itself long enough to build a complex community. It is the middle ground — occasional fires, periodic floods, intermittent grazing — that creates a mosaic of habitats at different stages of succession, each harboring different species. This principle carries an uncomfortable implication for conservation. Efforts to protect ecosystems by shielding them entirely from disturbance may, paradoxically, ______________. By preventing the periodic disruptions that reset competitive hierarchies and open new niches, well-intentioned preservation can allow dominant species to monopolize resources, gradually impoverishing the very biodiversity it sought to protect. True ecological stewardship, it turns out, sometimes requires the courage to let controlled destruction occur.\n* climax community: 극상 군집 ** mosaic: 모자이크, 복합체 *** niche: 생태적 지위",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "reduce the diversity they are designed to preserve",
+        "accelerate the natural process of ecological succession",
+        "expose vulnerable species to unprecedented levels of competition",
+        "create conditions identical to those of frequent catastrophic disruption",
+        "encourage dominant species to share resources with weaker ones"
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "논증 구조: 중간 교란 가설에 따르면 적당한 수준의 교란이 생물다양성을 극대화하고(①), 교란이 전혀 없으면 소수의 경쟁력 강한 종이 독점하며(②), 따라서 생태계를 교란으로부터 완전히 보호하는 것은 역설적 결과를 낳습니다(③). 빈칸은 'paradoxically'라는 역설 신호어와 함께 보호의 역효과를 서술하는 위치입니다. ① 'reduce the diversity they are designed to preserve'는 보존하려는 다양성을 오히려 감소시킨다는 역설을 정확히 표현합니다.",
+        "wrong": {
+          "2": "② '생태 천이의 자연적 과정을 가속화'는 천이(succession) 개념과 관련은 있지만, 핵심인 '다양성 감소의 역설'을 놓치고 과정만 언급합니다.",
+          "3": "③ '전례 없는 수준의 경쟁에 노출'은 경쟁이 '전례 없는(unprecedented)' 것이 아니라 단지 '억제되지 않는(unchecked)' 것이므로 부정확합니다.",
+          "4": "④ '잦은 재앙적 교란과 동일한 조건을 만든다'는 교란 제로와 교란 과잉을 동일시하는 것으로, 논리적으로 성립하지 않습니다.",
+          "5": "⑤ '우세 종이 약한 종과 자원을 공유하도록 장려'는 본문의 논지(우세 종이 자원을 독점)와 정반대입니다."
+        },
+        "key_point": "'paradoxically'는 빈칸의 내용이 직관에 반하는 역설임을 신호합니다. 보호 → 오히려 해로움이라는 반전 구조를 파악하면 정답이 보입니다."
+      },
+      "explanation": {
+        "correct": "글의 논증 구조: ① 중간 교란 가설에 따르면 적당한 수준의 교란이 생물다양성을 극대화하고 ② 교란이 전혀 없으면 소수의 경쟁력 강한 종이 독점하며 ③ 따라서 생태계를 교란으로부터 완전히 보호하는 것은 역설적 결과를 낳습니다. 빈칸은 이 '역설(paradoxically)'의 내용을 채우는 결론 위치입니다. ①번 'reduce the diversity they are designed to preserve'는 보존하려는 다양성을 오히려 감소시킨다는 역설을 정확히 표현합니다.",
+        "wrong": {
+          "2": "②번 '생태 천이의 자연적 과정을 가속화'는 천이(succession) 개념과 관련은 있지만, 핵심인 '다양성 감소의 역설'을 놓치고 과정만 언급합니다.",
+          "3": "③번 '전례 없는 수준의 경쟁에 노출'은 경쟁이 '전례 없는(unprecedented)' 것이 아니라 단지 '억제되지 않는(unchecked)' 것이므로 부정확합니다.",
+          "4": "④번 '잦은 재앙적 교란과 동일한 조건을 만든다'는 교란 제로와 교란 과잉을 동일시하는 것으로, 논리적으로 성립하지 않습니다.",
+          "5": "⑤번 '우세 종이 약한 종과 자원을 공유하도록 장려'는 본문의 논지(우세 종이 자원을 독점)와 정반대입니다."
+        },
+        "key_point": "'paradoxically'는 빈칸의 내용이 직관에 반하는 역설임을 신호합니다. 보호 → 오히려 해로움이라는 반전 구조를 파악하면 정답이 보입니다."
+      },
+      "self_check": {
+        "logical_flow": "The passage establishes that moderate disturbance maximizes biodiversity and total protection removes disturbance entirely. The sentence after the blank explains that preventing disruption lets dominants monopolize, impoverishing biodiversity. So shielding from disturbance 'reduces diversity it aims to preserve.' Choice 1 captures this paradox perfectly. Choice 2 ('accelerate succession') is partially related but misses the key point about diversity loss. Choice 3 introduces 'unprecedented competition' — the competition is not unprecedented, just unchecked. Choice 4 equates no disturbance with constant disturbance, which is illogical. Choice 5 contradicts the passage entirely.",
+        "distractor_quality": "Choice 2 is the strongest distractor as succession is mentioned, but it misses the evaluative paradox. Others are clearly off-target.",
+        "word_count": 203,
+        "single_answer_confirmed": true
+      }
+    }
+  ]
+}

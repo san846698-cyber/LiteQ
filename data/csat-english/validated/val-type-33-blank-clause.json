@@ -1,0 +1,99 @@
+{
+  "type": "빈칸 추론 (절)",
+  "typeNumber": 33,
+  "validatedAt": "2026-03-23",
+  "validator": "claude-opus-4-6",
+  "summary": {
+    "totalQuestions": 5,
+    "passed": 5,
+    "failed": 0,
+    "passRate": "100%"
+  },
+  "results": [
+    {
+      "questionIndex": 0,
+      "topic": "Gadamer's fusion of horizons",
+      "providedAnswer": 1,
+      "independentAnswer": 1,
+      "match": true,
+      "verdict": "PASS",
+      "score": {
+        "passage_quality": 5,
+        "blank_placement": 5,
+        "answer_clarity": 5,
+        "distractor_quality": 5,
+        "overall": 5
+      },
+      "reasoning": "The passage builds a clear argument: understanding is neither passive reception nor projection of biases, but a dialogical 'fusion of horizons.' The blank sits after 'but rather,' directly requiring the synthetic third option. Choice 1 ('a new understanding that neither party possessed beforehand') is the only option that captures this emergent synthesis. Choice 2 contradicts 'not mere reproduction,' Choice 3 contradicts 'openness to revision,' Choice 4 introduces unsupported 'sacrifice,' and Choice 5 says 'rejection of both' when the passage describes integration. Single-answer validity is strong.",
+      "notes": "Excellent CSAT-style question. The passage is academic but accessible, the blank placement forces genuine comprehension, and distractors are well-differentiated."
+    },
+    {
+      "questionIndex": 1,
+      "topic": "Reference dependence and the hedonic treadmill",
+      "providedAnswer": 1,
+      "independentAnswer": 1,
+      "match": true,
+      "verdict": "PASS",
+      "score": {
+        "passage_quality": 5,
+        "blank_placement": 5,
+        "answer_clarity": 5,
+        "distractor_quality": 4,
+        "overall": 5
+      },
+      "reasoning": "The passage establishes that reference points drift upward with each gain, making satisfaction inherently temporary. The blank must state the consequence of this upward drift. Choice 1 ('sustained happiness cannot be secured through accumulation alone') directly follows: if each gain resets the baseline, accumulation alone cannot sustain happiness. Choice 2 (inequality) is off-topic. Choice 3 (better predictions) contradicts the misprediction implied. Choice 4 (objective vs. subjective) is unrelated. Choice 5 ('lowering expectations is the only path') is too prescriptive and not argued in the passage. The hedonic treadmill sentence after the blank confirms the answer.",
+      "notes": "Strong question. Choice 5 could tempt students who see 'lowering expectations' as the logical inverse, but the passage makes no such prescriptive claim. Minor note: Choice 2 is somewhat easy to eliminate as it shifts to macro-economics."
+    },
+    {
+      "questionIndex": 2,
+      "topic": "Underdetermination in philosophy of science",
+      "providedAnswer": 1,
+      "independentAnswer": 1,
+      "match": true,
+      "verdict": "PASS",
+      "score": {
+        "passage_quality": 5,
+        "blank_placement": 5,
+        "answer_clarity": 5,
+        "distractor_quality": 5,
+        "overall": 5
+      },
+      "reasoning": "The passage argues: (1) evidence alone cannot decide between rival theories, (2) non-empirical factors (aesthetics, culture) influence theory choice, (3) but this is not irrational. The blank follows 'Rather, it suggests that ___' and must reconcile non-empirical influences with rationality. Choice 1 ('rationality in science extends beyond the purely empirical') does this precisely. The sentence after the blank confirms by listing criteria like simplicity and elegance as products of community judgment. Distractors each take one passage element to an unsupported extreme: Choice 2 (eliminate all competitors) contradicts underdetermination, Choice 3 (elegance = accuracy) overstates, Choice 4 (evidence irrelevant) goes too far, Choice 5 (minimize cultural influence) contradicts the argument.",
+      "notes": "Excellent question with genuinely challenging distractors. The logical structure mirrors real CSAT difficulty well."
+    },
+    {
+      "questionIndex": 3,
+      "topic": "Dunbar's number and social brain hypothesis",
+      "providedAnswer": 1,
+      "independentAnswer": 1,
+      "match": true,
+      "verdict": "PASS",
+      "score": {
+        "passage_quality": 5,
+        "blank_placement": 5,
+        "answer_clarity": 5,
+        "distractor_quality": 4,
+        "overall": 5
+      },
+      "reasoning": "The passage establishes a ~150-person cognitive limit, notes modern environments vastly exceed it, then uses 'Yet rather than expanding' to signal the blank will state a negative consequence. The post-blank evidence (people maintain the same small core despite hundreds of contacts) confirms the answer. Choice 1 ('dilute our relationships without deepening any of them') captures the spread-thin effect perfectly. Choices 2, 3, and 5 suggest positive adaptation the passage explicitly denies. Choice 4 ('more selective offline') is plausible but unsupported by the passage's argument structure.",
+      "notes": "Well-constructed. Choices 2, 3, 5 are perhaps too obviously optimistic given the 'Yet rather than' signal. Choice 4 is the best distractor."
+    },
+    {
+      "questionIndex": 4,
+      "topic": "Intermediate disturbance hypothesis in ecology",
+      "providedAnswer": 1,
+      "independentAnswer": 1,
+      "match": true,
+      "verdict": "PASS",
+      "score": {
+        "passage_quality": 5,
+        "blank_placement": 5,
+        "answer_clarity": 5,
+        "distractor_quality": 4,
+        "overall": 5
+      },
+      "reasoning": "The passage explains that moderate disturbance maximizes biodiversity, then states that total protection (zero disturbance) 'may, paradoxically, ___.' The post-blank sentence explicitly says prevention of disruption lets dominant species monopolize, 'impoverishing the very biodiversity it sought to protect.' Choice 1 ('reduce the diversity they are designed to preserve') captures this paradox exactly. Choice 2 ('accelerate succession') is the best distractor since succession is mentioned, but it misses the evaluative paradox and diversity loss. Choice 3 ('unprecedented competition') misstates the mechanism. Choice 4 equates no disturbance with constant disturbance, which is illogical. Choice 5 contradicts the entire passage.",
+      "notes": "The word 'paradoxically' is a strong contextual clue that pairs naturally with Choice 1. Choice 2 could benefit from being more tempting — consider rewording to include 'diversity' to increase difficulty."
+    }
+  ]
+}

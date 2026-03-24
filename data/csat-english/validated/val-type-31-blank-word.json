@@ -1,0 +1,91 @@
+{
+  "type": "빈칸 추론 (단어/구)",
+  "typeNumber": 31,
+  "summary": {
+    "pass": 5,
+    "warn": 0,
+    "fail": 0
+  },
+  "validations": [
+    {
+      "questionIndex": 0,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null,
+      "reasoning": "The passage explicitly builds the paradox that interleaving feels harder yet works better. 'Difficulty' is the only choice that fits the paradox structure. All distractors are cleanly excluded: 'simplicity' and 'predictability' contradict interleaving's nature, 'popularity' is never discussed, 'familiarity' is the opposite of what interleaving provides. Well-constructed question."
+    },
+    {
+      "questionIndex": 1,
+      "myAnswer": 2,
+      "providedAnswer": 2,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 4,
+        "지문자연스러움": 5,
+        "난이도적절성": 3,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": "Slightly easy for CSAT level. The word 'separation' appears earlier in the passage ('clear separation of functions'), making the blank nearly a direct recall rather than a synthesis task. Still valid but the difficulty is lower than typical Type 31.",
+      "reasoning": "The passage contrasts separation-based zoning with mixed-use overlap. The final sentence restates the thesis directly: 'not on the X but on their overlap and interaction.' Since 'separation' is the explicit antonym of 'overlap' and is used earlier in the passage, the answer is immediately obvious. Distractors are reasonable but 'coordination' could be slightly confusing since it implies working together, though it lacks the oppositional contrast needed."
+    },
+    {
+      "questionIndex": 2,
+      "myAnswer": 1,
+      "providedAnswer": 1,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 4,
+        "난이도적절성": 3,
+        "선지균형": 4
+      },
+      "verdict": "PASS",
+      "issues": "[수정됨] 지문에서 'backfire effect' 용어를 제거하고 'This puzzling reaction'으로 대체. 이제 빈칸의 'backfires'를 지문 맥락(beliefs become more entrenched, reinforcing convictions it seeks to overturn)에서 추론해야 함. 단어 매칭이 아닌 진정한 추론 능력 측정 가능.",
+      "reasoning": "수정된 지문은 더 이상 'backfire'라는 단어를 포함하지 않으므로, 학생은 '의도와 반대 결과를 낸다'는 논리를 파악한 후 'backfires'를 선택해야 함. Type 31의 핵심 역량인 종합 추론이 제대로 측정됨."
+    },
+    {
+      "questionIndex": 3,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 5,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null,
+      "reasoning": "Excellent question. The passage builds a clear contrast between scarcity-driven value (traditional economics) and network-effect-driven value (digital economy). The blank requires identifying the opposite of 'exclusivity' in context: widespread availability = abundance. All distractors are topically adjacent but logically excluded: 'affordability' is about price not spread, 'innovation' is not the axis of contrast, 'simplicity' and 'reliability' are irrelevant dimensions. Proper CSAT difficulty — requires full-passage synthesis."
+    },
+    {
+      "questionIndex": 4,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null,
+      "reasoning": "The passage argues against the Great Man theory by showing that celebrated individuals were embedded in 'dense networks of collaborators, advisors, and ordinary workers.' The blank requires recognizing that these were group efforts = 'collective.' Distractors are well-designed: 'independent' directly contradicts the argument, 'competitive' implies rivalry rather than collaboration, 'spontaneous' addresses timing not attribution, 'theoretical' is irrelevant. Strong question with clear logical path."
+    }
+  ]
+}

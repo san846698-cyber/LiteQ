@@ -1,0 +1,127 @@
+{
+  "type": "문장 삽입",
+  "typeNumber": 38,
+  "validationSummary": {
+    "totalQuestions": 5,
+    "passed": 5,
+    "failed": 0,
+    "passRate": "100%"
+  },
+  "validated": [
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "Yet this very flexibility can become a liability when individuals lack the self-discipline to impose their own boundaries.",
+      "passage": "The rise of remote work has fundamentally altered the relationship between employees and their workplaces. Freed from the constraints of commuting and rigid office hours, workers can now design their schedules around personal productivity rhythms. ( ① ) Morning people can start early, while night owls can work late into the evening, potentially boosting overall output. ( ② ) Many companies have reported higher employee satisfaction since adopting flexible work policies. ( ③ ) Without the physical separation between office and home, the workday can bleed into personal time indefinitely. ( ④) Research from Stanford University found that remote workers who failed to set firm work-stop times experienced significantly higher rates of burnout than their office-based counterparts. ( ⑤ ) Ironically, the freedom that was supposed to improve work-life balance ended up eroding it for those who could not self-regulate.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 3,
+        "match": true,
+        "reasoning": "The passage moves from positive aspects of remote work (flexible scheduling at ①, company satisfaction at ②) to negative consequences (workday bleeding into personal time, burnout study, irony of freedom). 'Yet' introduces a contrast, and 'this very flexibility' refers back to the schedule flexibility described before ③. Placing the sentence at ③ creates the pivotal shift from positive to negative. The sentence after ③ ('Without the physical separation...') then serves as a specific illustration of the liability just introduced.",
+        "anchorAnalysis": "'Yet' = contrastive marker requiring prior positive content. 'This very flexibility' = demonstrative anchored to the flexible scheduling discussion in sentences before ③. The subsequent sentence about workday bleeding into personal time logically follows as an example of the liability.",
+        "positionElimination": {
+          "①": "Interrupts the explanation of flexible scheduling before it is complete — night owls/morning people point not yet made.",
+          "②": "Breaks the link between flexible schedules and the company satisfaction report that follows.",
+          "④": "Places the general claim after its supporting evidence (Stanford study), reversing logical order.",
+          "⑤": "Comes after the concluding irony statement; 'this very flexibility' would lack an immediate antecedent."
+        },
+        "verdict": "PASS"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "However, these same mechanisms that protect us from information overload can also prevent us from noticing important changes in our environment.",
+      "passage": "The human brain has evolved sophisticated filtering systems to manage the constant stream of sensory information it receives. ( ① ) Every second, millions of signals compete for our attention, from the hum of an air conditioner to the flicker of a screen in our peripheral vision. ( ② ) To cope with this deluge, the brain learns to suppress repetitive or predictable stimuli, a process known as habituation. ( ③ ) This is why we stop noticing the ticking of a clock after a few minutes or the feel of clothing on our skin shortly after dressing. ( ④ ) A factory worker, for instance, may become so accustomed to the sound of machinery that a subtle change in pitch — often an early warning sign of mechanical failure — goes entirely undetected. ( ⑤ ) In safety-critical industries, this phenomenon has been identified as a contributing factor in numerous preventable accidents.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 4,
+        "match": true,
+        "reasoning": "Before ④, the passage fully explains habituation as a beneficial mechanism: definition (②), concrete benign examples like clocks and clothing (③). The inserted sentence uses 'However' to pivot and 'these same mechanisms' to refer to habituation. After ④, the factory worker example illustrates the dangerous downside — not noticing a pitch change in machinery. The inserted sentence serves as the bridge from 'habituation is useful' to 'habituation is dangerous.'",
+        "anchorAnalysis": "'However' = contrastive marker requiring preceding positive content about filtering. 'These same mechanisms' = demonstrative referring to habituation, which must be fully introduced and exemplified before this reference. 'Noticing important changes' foreshadows the factory worker example that follows.",
+        "positionElimination": {
+          "①": "Habituation has not been introduced yet; 'these same mechanisms' has no referent.",
+          "②": "Habituation has not been named or explained; only the sensory deluge is described.",
+          "③": "The benign examples (clock, clothing) have not yet been given, so the contrast lacks full weight.",
+          "⑤": "The negative consequences are already fully developed; 'However' would be illogical after the factory worker and safety conclusion."
+        },
+        "verdict": "PASS"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "In contrast, communities that embraced written legal codes experienced a different trajectory, one in which individual rights could be articulated and defended with greater precision.",
+      "passage": "In many early societies, law was primarily an oral tradition, passed down through generations by elders and community leaders. ( ① ) These oral legal systems relied heavily on collective memory and the authority of those entrusted with preserving them. ( ② ) Disputes were settled by appeals to precedent as remembered by the community's most respected members, and justice was inseparable from personal reputation and social standing. ( ③ ) The shift toward written law, however, did not occur uniformly across civilizations. ( ④ ) The Code of Hammurabi, dating to approximately 1754 BCE, is among the earliest known examples, and its detailed provisions reveal a society already grappling with the complexities of commerce, property, and family relations. ( ⑤ ) Written law thus marked not merely a technological change but a fundamental transformation in the relationship between the individual and the state.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 4,
+        "match": true,
+        "reasoning": "The passage describes oral law traditions (①-②), then at ③ notes the shift to written law was not uniform. The inserted sentence uses 'In contrast' to contrast communities with written codes against the oral-tradition communities just described. 'A different trajectory' follows naturally from the non-uniform shift mentioned at ③. After ④, the Code of Hammurabi serves as a concrete example of a community that embraced written legal codes, illustrating the 'different trajectory' and 'greater precision' in articulating rights.",
+        "anchorAnalysis": "'In contrast' = contrastive marker opposing oral-tradition communities. 'Communities that embraced written legal codes' connects to the transition sentence at ③ about the shift to written law. 'Individual rights could be articulated and defended with greater precision' is then exemplified by Hammurabi's detailed provisions.",
+        "positionElimination": {
+          "①": "Oral tradition has barely been introduced; no basis for contrast yet.",
+          "②": "Still mid-description of oral law systems; contrast is premature.",
+          "③": "Would precede the transition sentence about written law, making 'In contrast' awkward before the topic is introduced.",
+          "⑤": "Follows the Hammurabi example and the concluding statement; inserting a general contrast here disrupts the conclusion."
+        },
+        "verdict": "PASS"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "This assumption, however, overlooks the fact that translation inevitably involves interpretation, and interpretation is shaped by the translator's own cultural framework.",
+      "passage": "The translation of literary works across languages is often regarded as a straightforward transfer of meaning from one linguistic system to another. ( ① ) Many readers trust that a translated novel conveys essentially the same story, themes, and emotional resonance as the original. ( ② ) Professional translators are expected to be invisible mediators, faithfully transmitting an author's voice without adding their own. ( ③ ) Consider, for example, the multiple English translations of Dostoevsky's novels, each of which presents a subtly different version of the Russian author's prose. ( ④ ) Some translators opt for literal fidelity, preserving the original sentence structures even when they feel awkward in English, while others prioritize readability, producing prose that flows naturally but may depart from the author's stylistic choices. ( ⑤ ) Each translation, therefore, is less a mirror of the original and more a new creative work in its own right.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 3,
+        "match": true,
+        "reasoning": "Before ③, two aspects of the assumption are presented: translation as straightforward transfer (intro), readers trusting translations convey the same content (①), and translators expected to be invisible (②). 'This assumption' in the inserted sentence refers to this full cluster of beliefs. 'However' introduces the counter-argument that translation involves interpretation shaped by culture. After ③, 'Consider, for example' introduces the Dostoevsky example as direct evidence that different translators produce different versions — proving the inserted sentence's claim.",
+        "anchorAnalysis": "'This assumption' = demonstrative pronoun requiring a stated assumption as antecedent (straightforward transfer + invisible mediators). 'However' = contrastive marker pivoting from the naive view to the critical view. 'Consider, for example' after ③ signals that an illustrative example follows the general counter-claim.",
+        "positionElimination": {
+          "①": "The assumption is only partially stated (invisible mediators not yet mentioned); 'This assumption' feels premature.",
+          "②": "Interrupts the buildup of the assumption; the invisible mediators point hasn't been made yet.",
+          "④": "Places the general counter-claim after its specific example (Dostoevsky), reversing logical order from general to specific.",
+          "⑤": "Comes after the detailed comparison of translation approaches; 'This assumption' is too far from its referent and the passage is already concluding."
+        },
+        "verdict": "PASS"
+      }
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "But these early attempts at conservation were driven less by ecological understanding than by the economic interests of the ruling classes who depended on forests for timber and hunting grounds.",
+      "passage": "The idea that nature requires deliberate protection is far older than most people realize. ( ① ) As early as the thirteenth century, European monarchs enacted laws restricting the felling of trees in royal forests. ( ② ) Similar regulations appeared in colonial India, where the British administration established forest reserves to secure supplies of teak for shipbuilding. ( ③ ) It was not until the late nineteenth century that a genuinely ecological perspective began to emerge. ( ④ ) Scientists such as George Perkins Marsh argued that the destruction of forests could have devastating consequences for watersheds, soil stability, and local climates — effects that extended far beyond any single industry's concerns. ( ⑤ ) This broader understanding of ecosystems laid the intellectual foundation for the modern environmental movement.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 3,
+        "match": true,
+        "reasoning": "Before ③, two historical examples of early conservation are given: European monarchs restricting tree felling (①) and British colonial forest reserves in India (②). 'These early attempts' in the inserted sentence refers to both examples. 'But' reframes them as economically rather than ecologically motivated. After ③, 'It was not until the late nineteenth century that a genuinely ecological perspective began to emerge' — the word 'genuinely' directly contrasts with the economic motivations just described, creating a tight logical link.",
+        "anchorAnalysis": "'But' = contrastive marker reinterpreting the preceding examples. 'These early attempts at conservation' = demonstrative requiring multiple examples as antecedent (European monarchs + colonial India). 'Economic interests' + 'timber and hunting grounds' aligns with the specifics mentioned (royal forests, teak for shipbuilding). The subsequent 'genuinely ecological' directly presupposes that earlier efforts were NOT genuinely ecological.",
+        "positionElimination": {
+          "①": "'These early attempts' has no referent — no examples have been given yet.",
+          "②": "Only one example (European monarchs) has been given; the Indian example strengthens the pattern and should precede the reinterpretation.",
+          "④": "Would interrupt the description of the emerging ecological perspective; 'these early attempts' would awkwardly follow a sentence about the ecological turn.",
+          "⑤": "Comes after the conclusion about ecosystem understanding and the environmental movement; backward-looking 'these early attempts' would disrupt the forward-looking ending."
+        },
+        "verdict": "PASS"
+      }
+    }
+  ]
+}

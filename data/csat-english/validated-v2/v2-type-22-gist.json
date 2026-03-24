@@ -1,0 +1,540 @@
+{
+  "type": "요지",
+  "typeNumber": 22,
+  "version": "v2",
+  "totalCount": 25,
+  "difficultyBreakdown": {
+    "easy": 8,
+    "standard": 12,
+    "challenging": 5
+  },
+  "answerDistribution": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5
+  },
+  "questions": [
+    {
+      "id": "v2-22-01",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "easy",
+      "passage": "Giving feedback is one of the most valuable tools a manager or teacher has, yet most people do it poorly. Research by psychologist Carol Dweck shows that the kind of feedback we receive shapes not only our immediate performance but also our long-term attitudes toward effort and challenge. Feedback that praises intelligence — \"You're so smart\" — tends to make people afraid of failure, because failure would undermine the very trait being praised. In contrast, feedback that praises effort and process — \"You worked really hard on that\" — encourages persistence in the face of difficulty. When people believe their abilities can grow through effort, they adopt what Dweck calls a \"growth mindset,\" seeking out challenges rather than avoiding them. The language of feedback, therefore, is not a trivial matter: it determines whether people shrink from difficulty or lean into it.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "피드백의 내용과 방식이 사람의 노력 태도와 성장 마인드에 영향을 미친다.",
+        "지능보다 노력을 칭찬하는 문화는 팀 전체의 성과를 균등하게 높인다.",
+        "성장 마인드셋을 갖춘 학습자는 실패를 두려워하지 않는 경향이 있다.",
+        "교사와 관리자는 학습자의 지능 수준에 맞게 피드백을 조절해야 한다.",
+        "칭찬보다 건설적 비판이 장기적인 학습 성과에 더 효과적이다."
+      ],
+      "answer": 1,
+      "explanations": {
+        "correct": "지문은 Carol Dweck의 연구를 근거로, 지능을 칭찬하는 피드백은 실패 두려움을 키우고 노력·과정을 칭찬하는 피드백은 성장 마인드셋을 형성함을 보여준다. \"The language of feedback, therefore, is not a trivial matter: it determines whether people shrink from difficulty or lean into it\"라는 결론부가 핵심을 압축하며, 피드백의 방식이 노력 태도와 성장 마인드에 직접 영향을 미친다는 것이 요지이다.",
+        "wrong": [
+          "②는 지문에서 다루지 않는 내용이다. 지문은 팀 전체의 균등한 성과 향상을 논하지 않으며, 개인이 피드백 방식에 따라 어떻게 반응하는지에 초점을 맞춘다.",
+          "③은 지문의 세부 내용을 주요 주장으로 오해한 것이다. 성장 마인드셋 학습자의 특성은 언급되지만, 이는 피드백의 결과로 나타나는 한 속성일 뿐 글 전체의 핵심 주장이 아니다.",
+          "④는 지문의 내용과 상반된다. 지문은 학습자의 지능 수준에 맞게 피드백을 조절하라고 하지 않고, 지능이 아닌 노력과 과정을 칭찬해야 한다고 주장한다.",
+          "⑤는 지문이 다루는 구분과 다르다. 지문의 핵심 대비는 '칭찬 vs. 비판'이 아니라 '지능 칭찬 vs. 노력·과정 칭찬'이다. 건설적 비판의 효과는 전혀 논의되지 않는다."
+        ],
+        "key_point": "피드백의 언어가 핵심이다. 지능을 칭찬하면 실패 공포가 생기지만, 노력과 과정을 칭찬하면 성장 마인드셋이 형성되어 도전을 회피하지 않게 된다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "The type of feedback — praising intelligence vs. praising effort — determines whether people adopt a growth mindset and embrace challenges",
+        "lastSentenceCheck": "Last sentence: 'it determines whether people shrink from difficulty or lean into it.' Correct answer (choice 1) is NOT a direct translation — it paraphrases the full argument about feedback shaping effort attitudes and growth mindset.",
+        "answerUniqueness": "Choice 1 alone captures both the mechanism (feedback language) and the outcome (effort attitude + growth). Choice 3 is too narrow (only mentions fearlessness, not the feedback mechanism).",
+        "distractorAnalysis": {
+          "choice2": "Team-wide performance equalization is not discussed",
+          "choice3": "Describes a trait of growth mindset learners — a detail, not the main argument about feedback",
+          "choice4": "Contradicts passage — the point is about praising effort, not adjusting to intelligence level",
+          "choice5": "Criticism vs. praise is not the passage's distinction — effort praise vs. intelligence praise is"
+        },
+        "wordCount": 162,
+        "difficultyRating": "easy"
+      }
+    },
+    {
+      "id": "v2-22-02",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "easy",
+      "passage": "When people think about learning a new language, they often focus on grammar rules and vocabulary lists. Yet linguists and language teachers increasingly agree that exposure to authentic language — the kind spoken by native speakers in real contexts — is far more valuable than isolated drills. Stephen Krashen's influential input hypothesis proposes that language acquisition occurs when learners encounter messages that are slightly beyond their current level of competence, a condition he calls \"comprehensible input.\" Forced production before sufficient exposure can actually hinder acquisition by making learners self-conscious and prone to error avoidance. Real fluency develops gradually through meaningful interaction and extensive reading, not through the memorization of grammar tables. This suggests that the most effective language learning environments are those that prioritize rich, contextual input over rigid rule instruction.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "어휘력 향상을 위한 반복 암기 훈련이 언어 습득의 기초를 형성한다.",
+        "의미 있는 실제 언어 입력을 풍부하게 제공하는 환경이 언어 습득에 효과적이다.",
+        "문법 규칙의 체계적 학습이 외국어 의사소통 능력 향상에 필수적이다.",
+        "강제적 발화 연습은 오류에 대한 두려움을 줄여 유창성을 높인다.",
+        "언어 학습에서 학습자의 자신감 수준이 성취도를 결정하는 핵심 요인이다."
+      ],
+      "answer": 2,
+      "explanations": {
+        "correct": "Krashen의 '이해 가능한 입력(comprehensible input)' 가설을 중심으로, 지문은 실제 맥락에서의 풍부한 언어 노출이 문법 암기나 강제 발화보다 효과적임을 주장한다. 마지막 문장 \"the most effective language learning environments are those that prioritize rich, contextual input over rigid rule instruction\"이 요지를 직접 제시하며, 의미 있는 실제 언어 입력 중심 환경이 언어 습득에 효과적이라는 것이 답이다.",
+        "wrong": [
+          "①은 지문의 주장과 정반대이다. 지문은 반복 암기 훈련(isolated drills, memorization of grammar tables)이 효과적이지 않다고 비판하며, 실제 맥락 속 언어 노출을 대안으로 제시한다.",
+          "③은 지문과 상반된다. 지문은 \"rigid rule instruction\"이 \"rich, contextual input\"보다 덜 효과적이라고 명시하며, 문법 규칙의 체계적 학습이 필수적이라는 주장을 반박한다.",
+          "④는 지문의 내용과 정반대이다. 지문은 \"Forced production before sufficient exposure can actually hinder acquisition by making learners self-conscious and prone to error avoidance\"라고 명시하여 강제 발화가 오히려 습득을 방해한다고 말한다.",
+          "⑤는 지문에서 다루지 않는 내용이다. 학습자의 자신감이 성취도의 핵심 결정 요인이라는 주장은 지문 어디에도 등장하지 않으며, 글의 초점은 환경과 입력 방식에 있다."
+        ],
+        "key_point": "언어 습득은 문법 암기나 강제 발화가 아닌, Krashen의 '이해 가능한 입력'처럼 실제 맥락의 풍부한 언어 노출을 통해 자연스럽게 이루어진다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Authentic, contextual input (comprehensible input) drives language acquisition more effectively than grammar drills or forced production",
+        "lastSentenceCheck": "Last sentence: 'the most effective language learning environments are those that prioritize rich, contextual input over rigid rule instruction.' Choice 2 paraphrases this as 'providing rich authentic language input' — not a direct translation.",
+        "answerUniqueness": "Only choice 2 captures the core argument about input-rich environments being superior to rule-based instruction.",
+        "distractorAnalysis": {
+          "choice1": "Contradicts the passage — rote memorization is what the passage argues against",
+          "choice3": "Contradicts the passage — grammar-rule instruction is presented as less effective",
+          "choice4": "Directly contradicts the passage — forced production hinders acquisition",
+          "choice5": "Learner confidence is not the focus of the passage"
+        },
+        "wordCount": 151,
+        "difficultyRating": "easy"
+      }
+    },
+    {
+      "id": "v2-22-03",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "easy",
+      "passage": "Economists have long assumed that markets function best when participants act rationally in pursuit of self-interest. However, decades of research in behavioral economics have challenged this view by demonstrating that people routinely deviate from rational choice in predictable ways. One of the most robust findings is loss aversion: people feel the pain of losing something roughly twice as intensely as they feel the pleasure of gaining something equivalent. This asymmetry in emotional response to gains and losses profoundly affects everyday decisions, from investment choices to health behaviors. For example, framing a health intervention as preventing a loss produces significantly higher compliance than framing the same intervention as achieving a gain. Understanding how psychological factors distort supposedly rational decision-making has transformed fields from public policy to product design, allowing practitioners to craft choice environments — or \"nudges\" — that steer behavior in beneficial directions.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "합리적 선택을 방해하는 심리적 편향은 충분한 정보 제공을 통해 극복할 수 있다.",
+        "경제적 의사결정에서 개인의 자기이익 추구는 사회 전체의 후생을 극대화한다.",
+        "손실에 대한 감정적 반응은 개인의 성격에 따라 크게 다르게 나타난다.",
+        "손실 회피 성향 등 심리적 요인이 인간의 의사결정에 영향을 미치며, 이를 활용한 정책 설계가 가능하다.",
+        "행동경제학의 발전이 소비자 행동 예측의 정확성을 높여 주고 있다."
+      ],
+      "answer": 4,
+      "explanations": {
+        "correct": "지문은 손실 회피(loss aversion)를 핵심 사례로 들어, 심리적 요인이 합리적 의사결정을 체계적으로 왜곡함을 보여준다. \"framing a health intervention as preventing a loss produces significantly higher compliance\"가 구체적 근거이며, 마지막 문장에서 이 이해가 '넛지(nudges)'를 통한 정책 설계로 이어진다고 결론짓는다. 손실 회피 등 심리적 편향이 의사결정에 영향을 주며 이를 활용한 정책 설계가 가능하다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문에서 지지되지 않는 내용이다. 지문은 충분한 정보 제공이 심리적 편향을 극복하게 한다고 말하지 않는다. 오히려 넛지라는 환경 설계를 통해 편향을 활용하는 접근을 제안한다.",
+          "②는 지문이 반박하는 고전 경제학의 가정이다. 지문은 자기이익 추구의 합리성을 전제하는 시각에 도전하며, 사람들이 예측 가능한 방식으로 합리적 선택에서 벗어난다고 밝힌다.",
+          "③은 지문의 내용과 다르다. 지문은 손실 회피가 개인 성격에 따라 다르다고 말하지 않고, 오히려 \"one of the most robust findings\"라며 보편적이고 일관된 패턴임을 강조한다.",
+          "⑤는 지문의 핵심을 벗어난다. 지문은 소비자 행동 예측의 정확성보다 심리적 요인을 이해하고 이를 정책 설계(넛지)에 활용하는 실용적 가능성을 주된 결론으로 제시한다."
+        ],
+        "key_point": "손실 회피처럼 예측 가능한 심리적 편향이 의사결정을 왜곡하며, 이를 이해하면 넛지 같은 환경 설계를 통해 행동을 유익한 방향으로 유도하는 정책이 가능하다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Psychological factors (especially loss aversion) systematically distort rational decision-making, enabling nudge-based policy design",
+        "lastSentenceCheck": "Last sentence mentions 'nudges' that steer behavior. Choice 4 paraphrases the full argument — loss aversion and policy design — rather than translating the final sentence.",
+        "answerUniqueness": "Choice 4 integrates both the psychological mechanism and the policy application, matching the full scope of the passage.",
+        "distractorAnalysis": {
+          "choice1": "Information provision overcoming bias is not mentioned in the passage",
+          "choice2": "Contradicts the passage — rational self-interest maximizing welfare is the classical view the passage challenges",
+          "choice3": "Individual personality differences are not discussed",
+          "choice5": "Consumer behavior prediction accuracy is not the passage's focus"
+        },
+        "wordCount": 158,
+        "difficultyRating": "easy"
+      }
+    },
+    {
+      "id": "v2-22-04",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "standard",
+      "passage": "In recent decades, urban planners have grown increasingly interested in the concept of \"walkability\" — the degree to which a neighborhood is designed to support safe, comfortable, and convenient pedestrian movement. Research consistently links walkable neighborhoods to a range of social benefits beyond mere transportation efficiency. People who live in walkable areas report higher levels of trust in their neighbors and stronger feelings of community belonging, likely because regular incidental encounters on sidewalks and in local shops create the informal bonds that undergird social cohesion. By contrast, car-dependent suburbs, which minimize pedestrian infrastructure, tend to produce social isolation: residents drive directly from garage to destination, rarely engaging with their immediate environment. Rather than being a purely architectural concern, walkability is therefore a vehicle for community building, and its absence contributes to the fragmentation of social life in modern cities.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "보행 친화적 도시 설계가 교통 효율성 향상에 핵심적인 역할을 한다.",
+        "자동차 의존적 생활 방식이 개인의 신체 건강에 부정적 영향을 미친다.",
+        "도시의 보행 가능성은 주민 간 사회적 유대감 형성에 중요한 역할을 한다.",
+        "현대 도시 계획에서 보행자 인프라 구축을 위한 재정 지원이 필요하다.",
+        "도시 거주민의 이웃에 대한 신뢰 수준은 거주 기간에 비례한다."
+      ],
+      "answer": 3,
+      "explanations": {
+        "correct": "지문은 보행 가능한 동네 주민들이 이웃 신뢰도와 공동체 소속감이 높다는 점을 \"regular incidental encounters on sidewalks and in local shops create the informal bonds that undergird social cohesion\"으로 설명한다. 반면 자동차 의존 교외는 사회적 고립을 낳는다고 대비시키며, 결론부에서 \"walkability is therefore a vehicle for community building\"이라고 직접 밝힌다. 도시 보행 가능성이 사회적 유대감 형성에 핵심 역할을 한다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문이 명시적으로 부정하는 내용이다. 지문은 보행 가능성의 혜택이 \"beyond mere transportation efficiency\"라고 말하며, 교통 효율성이 핵심이 아님을 밝힌다.",
+          "②는 지문에서 다루지 않는 내용이다. 지문은 자동차 의존이 사회적 고립을 낳는다고 말할 뿐, 신체 건강에 대한 영향은 전혀 언급하지 않는다.",
+          "④는 지문에서 논의되지 않는다. 재정 지원이나 예산 배분에 대한 내용은 없으며, 글은 보행 가능성의 사회적 효과를 설명하는 데 집중한다.",
+          "⑤는 지문의 내용을 왜곡한 것이다. 지문은 거주 기간과 이웃 신뢰의 상관관계를 논하지 않는다. 신뢰는 거주 기간이 아닌 보행 중 일어나는 우연한 만남에서 비롯된다고 설명한다."
+        ],
+        "key_point": "보행 가능한 도시 설계는 단순한 교통 편의가 아니라, 주민들 간의 우연한 만남을 통해 사회적 유대와 공동체 결속을 형성하는 핵심 수단이다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Walkability is not just about transportation — it fosters social cohesion through incidental encounters, while car-dependent design leads to social fragmentation",
+        "lastSentenceCheck": "Last sentence: 'its absence contributes to the fragmentation of social life in modern cities.' Choice 3 paraphrases the positive side of the argument — walkability's role in social cohesion — not the final sentence directly.",
+        "answerUniqueness": "Choice 3 captures the passage's central argument about walkability and social bonds.",
+        "distractorAnalysis": {
+          "choice1": "Transportation efficiency is explicitly mentioned as 'beyond mere transportation efficiency' — not the main point",
+          "choice2": "Physical health is not mentioned",
+          "choice4": "Funding for infrastructure is not discussed",
+          "choice5": "Length of residence is never mentioned"
+        },
+        "wordCount": 157,
+        "difficultyRating": "standard"
+      }
+    },
+    {
+      "id": "v2-22-05",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "standard",
+      "passage": "Scientists who study animal behavior have long debated whether non-human animals possess the capacity for empathy. Mounting evidence suggests that many mammals experience something functionally equivalent to empathy: they respond to the distress of conspecifics with behavioral and physiological changes that mirror those seen in humans. Rats, for example, will work to free a trapped companion even when no personal reward is offered, and elephants engage in elaborate consolation behaviors toward distressed group members. Critics argue that these behaviors may be explained by simpler mechanisms such as emotional contagion or social learning rather than genuine empathy. Nevertheless, the practical distinction may matter less than previously assumed: whether or not the inner experience is identical to human empathy, the functional capacity to detect and respond to another's suffering appears to be far more widespread in the animal kingdom than classical behaviorism acknowledged.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "동물의 이타적 행동은 보상을 기대하는 전략적 협력의 결과이다.",
+        "포유류의 정서적 반응은 인간의 것과 본질적으로 동일하다.",
+        "동물 행동 연구에서 감정 전염과 공감을 구분하는 기준이 필요하다.",
+        "고전적 행동주의는 동물의 인지 능력을 과대평가했다는 비판을 받는다.",
+        "동물도 고통받는 동료에게 반응하는 공감과 유사한 기능적 능력을 지닌다."
+      ],
+      "answer": 5,
+      "explanations": {
+        "correct": "지문은 쥐가 보상 없이도 갇힌 동료를 구하고 코끼리가 위로 행동을 보이는 사례를 들어, 동물에게 공감과 기능적으로 동등한 능력이 있음을 제시한다. 마지막 문장 \"the functional capacity to detect and respond to another's suffering appears to be far more widespread in the animal kingdom than classical behaviorism acknowledged\"가 핵심을 직접 표현하며, 동물도 타자의 고통에 반응하는 공감 유사 기능적 능력을 지닌다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문의 내용과 정반대이다. 지문은 쥐가 \"even when no personal reward is offered\" 동료를 구한다고 명시한다. 보상 기대에 의한 전략적 협력이라는 설명은 지문에 의해 직접 반박된다.",
+          "②는 지문이 명시적으로 피하는 과도한 주장이다. 지문은 동물의 경험이 인간 공감과 \"functionally equivalent\"하다고만 말하며, \"identical\"(동일하다)이라는 표현은 사용하지 않는다.",
+          "③은 지문이 제기하되 주된 결론으로 삼지 않는 방법론적 문제이다. 비판론자들의 주장으로 감정 전염과 공감의 구분이 언급되지만, 지문은 그 구분이 실질적으로 덜 중요할 수 있다며 이를 넘어선다.",
+          "④는 지문의 내용을 잘못 파악한 것이다. 지문은 행동주의가 동물의 공감 능력을 '과소평가'했다고 말한다. '과대평가'가 아니라 '과소평가'가 정확한 표현이다."
+        ],
+        "key_point": "고전 행동주의의 생각보다 훨씬 많은 동물이 타자의 고통을 감지하고 반응하는 공감 유사 기능적 능력을 지니고 있으며, 그것이 '진짜' 공감인지는 부차적 문제이다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Regardless of whether it is 'true' empathy, the functional capacity to detect and respond to others' suffering is widely present in animals — more than behaviorism accepted",
+        "lastSentenceCheck": "Last sentence states the functional capacity is 'far more widespread than classical behaviorism acknowledged.' Choice 5 paraphrases the full argument — animals have empathy-like functional capacity — rather than directly translating the final clause.",
+        "answerUniqueness": "Choice 5 is the only option that captures both the functional empathy finding and its breadth across species.",
+        "distractorAnalysis": {
+          "choice1": "Contradicts the passage — rats helped companions with no reward offered",
+          "choice2": "Overstatement — the passage says 'functionally equivalent,' not 'identical'",
+          "choice3": "A methodological concern but not the main argument",
+          "choice4": "The passage says behaviorism under-acknowledged empathy, not overestimated cognition"
+        },
+        "wordCount": 160,
+        "difficultyRating": "standard"
+      }
+    },
+    {
+      "id": "v2-22-06",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "challenging",
+      "passage": "The history of science is often presented as a smooth, linear accumulation of facts, but philosopher Thomas Kuhn argued that scientific progress actually proceeds through revolutionary ruptures. Normal science, in Kuhn's framework, consists of puzzle-solving within an established paradigm — a shared set of assumptions, methods, and exemplary achievements that define what counts as a legitimate question and a valid answer. Scientists working within a paradigm rarely question its foundational commitments; instead, they refine and extend it. Anomalies — observations that resist explanation under the current paradigm — accumulate quietly until the weight of unresolved puzzles triggers a crisis. The crisis eventually gives way to a paradigm shift: a wholesale reconceptualization of the field that renders the previous framework not merely incomplete but, in a deep sense, incommensurable with the new one. Progress in science, then, is neither purely cumulative nor entirely rational in the conventional sense.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "과학적 이상 현상의 축적이 기존 패러다임에 대한 위기를 초래하고 혁명적 전환으로 이어진다.",
+        "과학의 진보는 지속적인 사실 축적이라는 통념과 달리 혁명적 단절을 통해 이루어진다.",
+        "정상 과학은 패러다임 내의 퍼즐 풀기에 집중하며 기초 전제를 거의 의문시하지 않는다.",
+        "새로운 패러다임과 이전 패러다임은 공약 불가능하여 완전한 비교 평가가 어렵다.",
+        "과학자 공동체 내의 사회적 합의가 새로운 패러다임 수용 과정에서 핵심 역할을 한다."
+      ],
+      "answer": 2,
+      "explanations": {
+        "correct": "Kuhn의 핵심 주장은 \"scientific progress actually proceeds through revolutionary ruptures\"이며, 지문은 정상 과학→이상 현상 축적→위기→패러다임 전환의 구조를 설명한 뒤 \"Progress in science, then, is neither purely cumulative nor entirely rational in the conventional sense\"라는 결론으로 마무리한다. 과학의 진보가 점진적 축적이 아닌 혁명적 단절을 통해 이루어진다는 것이 글의 핵심 주장이다.",
+        "wrong": [
+          "①은 지문의 한 단계(위기 유발 메커니즘)를 주요 주장으로 오해한 것이다. 이상 현상 축적이 위기를 낳는다는 내용은 Kuhn 논증의 중간 단계이지, 글 전체가 전달하고자 하는 최종 테제가 아니다.",
+          "③은 정상 과학을 설명하는 세부 내용이다. 패러다임 내 퍼즐 풀기는 Kuhn 이론의 구성 요소 중 하나이지만, 글의 핵심은 정상 과학의 특성 묘사가 아니라 혁명적 단절을 통한 과학 진보 테제이다.",
+          "④는 패러다임 전환의 한 특성(공약 불가능성)을 지나치게 부각한 것이다. 공약 불가능성은 지문에서 한 번 언급되는 세부 개념으로, 글 전체의 주된 주장이 아니다.",
+          "⑤는 지문에서 전혀 논의되지 않는 내용이다. 지문은 과학자 공동체의 사회적 합의나 수용 과정에 대한 사회학적 분석을 제공하지 않는다."
+        ],
+        "key_point": "Kuhn에 따르면 과학은 사실의 점진적 축적이 아니라, 이상 현상이 쌓여 위기를 일으키고 패러다임 전환이라는 혁명적 단절을 통해 진보한다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Kuhn's thesis: scientific progress is not linear accumulation but occurs through revolutionary paradigm shifts — ruptures rather than smooth increments",
+        "lastSentenceCheck": "Last sentence: 'Progress in science, then, is neither purely cumulative nor entirely rational in the conventional sense.' Choice 2 paraphrases the full Kuhnian argument about revolutionary discontinuity, not just this final sentence.",
+        "answerUniqueness": "Choice 2 captures the overarching claim (science progresses through revolutionary ruptures, not linear accumulation). Choices 1, 3, 4 are all true details from the passage but narrower.",
+        "distractorAnalysis": {
+          "choice1": "Describes the crisis mechanism — a step in the argument, not the main claim",
+          "choice3": "Describes normal science — a component, not the full thesis",
+          "choice4": "Incommensurability is a detail about paradigm shifts, not the central point",
+          "choice5": "Social consensus within communities is not discussed in the passage"
+        },
+        "wordCount": 162,
+        "difficultyRating": "challenging"
+      }
+    },
+    {
+      "id": "v2-22-07",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "standard",
+      "passage": "The relationship between poverty and cognitive performance has been studied extensively, with findings that challenge simple explanations. Sendhil Mullainathan and Eldar Shafir propose that scarcity — whether of money, time, or any other resource — itself imposes a cognitive burden. When people are preoccupied with urgent, unmet needs, mental bandwidth that would otherwise be available for planning, problem-solving, and self-control is consumed by the pressing concern at hand. This phenomenon, called the \"scarcity mindset,\" explains why poor financial decisions are not simply the result of poor character or lack of intelligence but are in part a predictable consequence of cognitive overload. Importantly, the scarcity mindset can be temporarily induced in wealthy individuals through experimental manipulations, producing comparable cognitive impairments. Addressing poverty, therefore, is not only a matter of providing material resources but also of reducing the cognitive tax that deprivation imposes.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "빈곤층이 나쁜 재정 결정을 내리는 것은 의지력 부족이 아닌 인지 과부하 때문이다.",
+        "결핍 상황에서의 인지 기능 저하는 부유층에게는 나타나지 않는 현상이다.",
+        "빈곤 해결을 위해서는 물질적 지원과 함께 인지적 부담을 줄이는 정책이 필요하다.",
+        "시간적 결핍은 금전적 결핍과 달리 인지 능력에 거의 영향을 미치지 않는다.",
+        "자기 통제력 강화 훈련이 빈곤층의 재정 결정 능력 향상에 효과적이다."
+      ],
+      "answer": 3,
+      "explanations": {
+        "correct": "지문은 '결핍 마인드셋(scarcity mindset)'이 인지적 대역폭을 소모하여 의사결정 능력을 저하시킨다고 설명한다. 결론부 \"Addressing poverty, therefore, is not only a matter of providing material resources but also of reducing the cognitive tax that deprivation imposes\"가 핵심을 직접 제시하며, 빈곤 해결에는 물질적 지원과 함께 인지적 부담 경감 정책이 필요하다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문의 중간 주장이지 최종 결론이 아니다. 인지 과부하가 나쁜 재정 결정의 원인이라는 내용은 맞지만, 지문은 이를 넘어 빈곤 해결 방식에 대한 정책적 함의(물질적+인지적 지원)를 최종 결론으로 제시한다.",
+          "②는 지문과 정반대이다. 지문은 \"the scarcity mindset can be temporarily induced in wealthy individuals through experimental manipulations, producing comparable cognitive impairments\"라고 명시하여 부유층도 결핍 마인드셋의 영향을 받을 수 있음을 밝힌다.",
+          "④는 지문의 내용과 상반된다. 지문은 결핍이 \"whether of money, time, or any other resource\"라고 명시하여 시간적 결핍도 인지 능력에 동일하게 영향을 미침을 분명히 한다.",
+          "⑤는 지문에서 지지되지 않는 내용이다. 지문은 빈곤층의 나쁜 결정이 의지력이나 자기통제력 부족이 아닌 인지 과부하의 결과라고 주장하며, 자기통제력 훈련을 해결책으로 제시하지 않는다."
+        ],
+        "key_point": "결핍은 인지 대역폭을 소모하는 '인지세(cognitive tax)'를 부과하므로, 빈곤 해결은 물질적 지원만으로 부족하며 인지적 부담을 줄이는 정책 설계가 함께 이루어져야 한다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Scarcity creates a cognitive tax (scarcity mindset) that explains poor decisions in poverty — therefore, addressing poverty requires reducing this cognitive burden, not just providing material resources",
+        "lastSentenceCheck": "Last sentence: 'Addressing poverty, therefore, is not only a matter of providing material resources but also of reducing the cognitive tax that deprivation imposes.' Choice 3 paraphrases this conclusion while incorporating the policy implication — it is NOT a direct translation.",
+        "answerUniqueness": "Choice 3 is the only option that captures the full practical conclusion about policy (material + cognitive relief). Choice 1 is a sub-point (explaining poor decisions), not the final conclusion.",
+        "distractorAnalysis": {
+          "choice1": "A supporting point, not the full conclusion — the passage goes further to prescriptive claims",
+          "choice2": "Directly contradicts the passage — wealthy individuals can be affected by experimentally induced scarcity",
+          "choice4": "Contradicts the passage — time scarcity is listed alongside financial scarcity as similarly imposing",
+          "choice5": "Self-control training is never mentioned; the passage argues cognitive load is the cause, not lack of self-control training"
+        },
+        "wordCount": 159,
+        "difficultyRating": "standard"
+      }
+    },
+    {
+      "id": "v2-22-08",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "easy",
+      "passage": "Music is often thought of as a purely aesthetic experience, but researchers have found that it serves deep social and biological functions. Evolutionary psychologists propose that music, like language, evolved as a mechanism for social bonding. Synchronizing movement to rhythm — as people do when dancing or marching together — triggers the release of endorphins and creates feelings of affiliation and trust among participants. This \"social bonding\" hypothesis is supported by cross-cultural evidence: virtually every known human society engages in communal music-making, suggesting that it fulfills a universal need. Mothers across cultures instinctively use lullabies to regulate infant emotions, and militaries have historically used marching music to coordinate soldiers and build unit cohesion. Far from being a luxury or mere entertainment, music appears to be a fundamental tool through which human communities establish and reinforce their bonds.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "문화권에 따라 음악이 수행하는 사회적 기능은 현저하게 다양하다.",
+        "음악 감상은 개인의 감정 조절 능력과 정서적 지능을 발달시킨다.",
+        "공동체의 결속을 위해 음악 교육을 강화하는 정책이 마련되어야 한다.",
+        "음악은 미적 쾌감을 넘어 사회적 유대를 형성하는 근본적인 기능을 수행한다.",
+        "진화론적 관점에서 음악과 언어는 동일한 생물학적 기원을 공유한다."
+      ],
+      "answer": 4,
+      "explanations": {
+        "correct": "지문은 음악이 단순한 미적 경험이 아니라 사회적 유대를 형성하는 진화적 기제임을 주장한다. 리듬 동조가 엔도르핀 분비와 소속감을 유발하고, 모든 문화권에서 공동 음악 활동이 존재한다는 범문화적 증거를 제시한다. 마지막 문장 \"music appears to be a fundamental tool through which human communities establish and reinforce their bonds\"가 요지를 압축하며, 음악이 미적 차원을 넘어 사회적 유대를 형성하는 근본 기능을 한다는 것이 답이다.",
+        "wrong": [
+          "①은 지문의 주장과 정반대이다. 지문은 사회적 유대 형성 기능이 \"virtually every known human society\"에서 나타나는 보편적 현상임을 강조한다. 문화권에 따른 다양성이 아니라 문화 횡단적 보편성이 핵심이다.",
+          "②는 지문에서 다루지 않는 내용이다. 지문은 개인의 감정 조절 능력이나 정서적 지능 발달에 대해 논하지 않는다. 자장가가 영아의 감정을 조절하는 사례는 언급되지만, 이는 음악의 사회적 기능을 예시하기 위한 것이다.",
+          "③은 지문에서 제안하지 않는 정책적 내용이다. 지문은 현상을 설명하고 음악의 기능을 분석할 뿐, 음악 교육 강화 정책을 권고하지 않는다.",
+          "⑤는 지문의 내용을 과도하게 확장한 것이다. 지문은 음악이 언어처럼 사회적 결속을 위해 진화했다고 제안하지만, 두 가지가 '동일한 생물학적 기원'을 공유한다고 명시하지는 않는다."
+        ],
+        "key_point": "음악은 사치나 오락이 아니라, 리듬 동조를 통한 엔도르핀 분비와 소속감 형성으로 인간 공동체의 사회적 유대를 구축하고 강화하는 근본적 도구이다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Music is not merely aesthetic — it is a fundamental social bonding mechanism with deep biological roots, universal across cultures",
+        "lastSentenceCheck": "Last sentence: 'music appears to be a fundamental tool through which human communities establish and reinforce their bonds.' Choice 4 paraphrases this as 'beyond aesthetic pleasure, music performs the fundamental function of forming social bonds' — not a direct translation.",
+        "answerUniqueness": "Choice 4 is the only option capturing both the 'beyond aesthetics' framing and the social bonding function.",
+        "distractorAnalysis": {
+          "choice1": "Contradicts the passage — cross-cultural universality (sameness) is emphasized, not diversity of function",
+          "choice2": "Individual emotional intelligence development is not discussed",
+          "choice3": "Policy recommendations are not made in the passage",
+          "choice5": "Shared biological origin of music and language is speculative — the passage proposes evolution for bonding but doesn't equate their origins"
+        },
+        "wordCount": 157,
+        "difficultyRating": "easy"
+      }
+    },
+    {
+      "id": "v2-22-09",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "standard",
+      "passage": "One of the most counterintuitive findings in psychology concerns the relationship between explanation and satisfaction. When people are asked to explain exactly how a complex mechanism — a zipper, a toilet, a helicopter — works, they consistently overestimate their prior understanding of it. This phenomenon, identified by psychologists Frank Keil and Leonid Rozenblit as the \"illusion of explanatory depth,\" reveals that humans confuse recognition of a device with genuine understanding of its inner workings. The illusion is particularly robust for functional objects whose overall purpose is clear even when the mechanism is opaque. Troublingly, a similar pattern extends beyond mechanical devices to political and social policies: people who feel confident supporting or opposing a policy often discover, when prompted to explain its causal mechanisms, that their knowledge is far shallower than they believed. This finding suggests that intellectual humility — recognizing the limits of one's own understanding — is more difficult and more important than it appears.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "인간은 복잡한 기계의 작동 원리를 시각화함으로써 이해를 깊이 발전시킨다.",
+        "사회적 정책에 대한 전문가의 설명이 일반 시민의 의견 형성에 지대한 영향을 준다.",
+        "자신이 모른다는 사실을 인지하는 지적 겸손이 중요하지만 실천하기 어렵다.",
+        "인과 관계에 대한 충분한 이해 없이 복잡한 정책을 지지하는 것은 위험하다.",
+        "인간은 자신이 사물의 작동 방식을 실제보다 더 잘 이해한다고 착각하는 경향이 있다."
+      ],
+      "answer": 5,
+      "explanations": {
+        "correct": "Keil과 Rozenblit이 밝힌 '설명 깊이의 착각(illusion of explanatory depth)'이 지문의 중심 개념이다. 지퍼, 변기, 헬리콥터 등 기계적 기기부터 정치·사회 정책까지, 인간은 인식(recognition)을 진정한 이해로 착각하는 경향이 있다. 지문 전반이 이 현상을 보여주며, 마지막 문장의 '지적 겸손' 권고는 이 핵심 발견에서 도출된 함의이다. 인간이 사물의 작동 방식을 실제보다 더 잘 안다고 착각한다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문의 내용과 정반대이다. 지문은 복잡한 기계를 설명하려 할 때 이해가 '깊어지는' 것이 아니라 오히려 자신의 무지가 드러난다고 말한다. 시각화를 통한 이해 발전은 지문에서 논의되지 않는다.",
+          "②는 지문에서 전혀 다루지 않는 내용이다. 전문가의 설명이 시민 의견에 미치는 영향은 논의되지 않으며, 글은 일반인 스스로가 정책에 대한 이해를 과대평가함을 밝힌다.",
+          "③은 지문의 규범적 결론(마지막 문장)을 주요 주장으로 삼은 것이다. 지적 겸손이 중요하다는 내용은 지문에 등장하지만, 이는 핵심 심리 현상(설명 깊이의 착각)에서 도출된 함의이지 글의 주된 발견이 아니다.",
+          "④는 지문에서 암시되지만 명시적 주장이 아닌 내용이다. 지문은 위험성을 경고하기보다 심리 현상을 기술하는 데 초점을 맞추며, 정책 지지의 위험성보다 착각 현상 자체가 핵심 주제이다."
+        ],
+        "key_point": "'설명 깊이의 착각'에 따르면, 인간은 기계나 정책의 작동 방식을 인식하는 것을 진정한 이해로 착각하여 자신의 지식을 실제보다 과대평가하는 경향이 있다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Humans suffer from the illusion of explanatory depth — they mistake recognition for understanding, overestimating how well they know how things work, including policies",
+        "lastSentenceCheck": "Last sentence: 'intellectual humility — recognizing the limits of one's own understanding — is more difficult and more important than it appears.' Choice 5 targets the core psychological finding (illusion of understanding) rather than the final normative recommendation, requiring inference about the main claim.",
+        "answerUniqueness": "Choice 5 captures the central empirical finding (illusion of understanding). Choice 3 is close but focuses on the normative conclusion (humility is important), while choice 5 correctly identifies the phenomenon driving that conclusion as the passage's main point.",
+        "distractorAnalysis": {
+          "choice1": "Visualization is not mentioned; the passage shows explanation reveals ignorance, not deepens understanding",
+          "choice2": "Expert influence on public opinion is not discussed",
+          "choice3": "This paraphrases the final sentence — important and close, but it is the prescriptive implication rather than the empirical finding that is the core topic",
+          "choice4": "Danger of uninformed policy support is implied but not the explicit main point — the passage is descriptive about the psychological phenomenon"
+        },
+        "wordCount": 167,
+        "difficultyRating": "standard"
+      }
+    },
+    {
+      "id": "v2-22-10",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "standard",
+      "passage": "Modern workplaces increasingly rely on team-based structures, yet research on group dynamics reveals a persistent problem: the uneven distribution of voice within teams. Studies show that high-status team members — those with seniority, technical expertise, or outgoing personalities — tend to speak disproportionately more, while lower-status members self-censor even when they hold critical information. This dynamic, sometimes called \"voice inequality,\" reduces the information available to the team as a whole and can lead to serious errors. Aviations safety researchers found that a significant proportion of preventable aircraft accidents occurred when junior crew members possessed crucial information but failed to speak up in the presence of senior captains. Structurally designed speaking opportunities — such as formal protocols requiring all members to voice assessments before a decision is finalized — can effectively counteract this tendency and improve both team decision quality and safety outcomes.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "팀 내 의견 불평등이 발생하는 근본 원인은 팀원들의 기술 수준 차이에 있다.",
+        "팀 리더는 의사소통 능력이 뛰어난 고위직 구성원을 우선 기용해야 한다.",
+        "팀에서 모든 구성원이 발언할 수 있는 구조적 장치가 의사결정의 질을 높인다.",
+        "항공 사고의 예방을 위해 조종사 간 위계를 줄이는 교육이 중요하다.",
+        "낮은 지위의 팀원이 자기 검열을 하는 것은 갈등을 피하려는 자연스러운 반응이다."
+      ],
+      "answer": 3,
+      "explanations": {
+        "correct": "지문은 '발언 불평등(voice inequality)'이 팀의 가용 정보를 줄이고 오류를 유발한다고 설명한다. 항공 사고 사례가 이를 뒷받침하며, 마지막 문장 \"Structurally designed speaking opportunities... can effectively counteract this tendency and improve both team decision quality and safety outcomes\"가 핵심 해결책을 제시한다. 모든 구성원이 발언할 수 있는 구조적 장치가 의사결정의 질을 높인다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문의 내용을 잘못 파악한 것이다. 지문은 발언 불평등의 원인을 기술 수준 차이가 아니라 지위(연공서열, 전문성, 외향성)와 심리적 자기 검열로 설명한다.",
+          "②는 지문이 문제로 제시하는 상황을 해결책으로 뒤집은 것이다. 지문은 고지위자가 발언을 독점하는 것이 문제라고 말하며, 고위직을 우선 기용하라는 권고와 정반대의 방향을 제시한다.",
+          "④는 지문의 사례를 주된 주장으로 오해한 것이다. 항공 사고는 발언 불평등의 위험을 보여주는 사례이지 글의 핵심 주제가 아니며, 조종사 위계 축소 교육은 지문에서 언급되지 않는다.",
+          "⑤는 지문이 부정하는 내용이다. 지문은 자기 검열을 갈등 회피의 자연스러운 반응으로 수용하지 않고, 구조적 장치로 극복해야 할 '문제'로 규정한다."
+        ],
+        "key_point": "팀 내 발언 불평등은 중요 정보를 차단하여 심각한 오류를 유발하므로, 전원 발언을 보장하는 공식적 절차와 같은 구조적 장치가 의사결정의 질을 높이는 데 필수적이다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Voice inequality in teams causes errors by suppressing critical information from lower-status members; structured speaking protocols can counteract this and improve decisions",
+        "lastSentenceCheck": "Last sentence describes structured speaking protocols improving decision quality and safety. Choice 3 paraphrases this conclusion — 'structural devices enabling all members to speak improves decision quality' — rather than translating it word-for-word.",
+        "answerUniqueness": "Choice 3 captures both the structural remedy and the outcome (decision quality). Others are too narrow or contradicted.",
+        "distractorAnalysis": {
+          "choice1": "The cause is status/personality, not skill difference",
+          "choice2": "Contradicts the passage — prioritizing high-status speakers is the problem the passage identifies",
+          "choice4": "Aviation is an example, not the main topic; hierarchy reduction training is not mentioned",
+          "choice5": "Self-censoring is described as a problem, not validated as natural"
+        },
+        "wordCount": 158,
+        "difficultyRating": "standard"
+      }
+    },
+    {
+      "id": "v2-22-11",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "easy",
+      "passage": "Archaeologists studying ancient diets have traditionally relied on analysis of food remains found at excavation sites. However, a new technique — stable isotope analysis of skeletal collagen — is revolutionizing the field by providing direct chemical evidence of what individuals ate over their lifetimes. The ratio of carbon and nitrogen isotopes preserved in bone collagen reflects the types of food an individual regularly consumed. A person whose diet was dominated by marine protein, for instance, will show distinct isotope signatures compared with someone who subsisted primarily on terrestrial plants. This method has overturned several previously accepted narratives about ancient food systems: populations once assumed to be entirely agricultural have been shown to have relied heavily on fish, and individuals buried with high-status grave goods have been found to have eaten surprisingly modest diets. By reading chemistry recorded in bone, scientists can now reconstruct ancient diets with far greater precision than excavated food remains alone allow.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "고고학적 발굴 현장에서 발견된 음식 유적은 고대 식단 연구의 핵심 자료이다.",
+        "안정 동위원소 분석법은 농경 사회와 어업 사회의 경계를 명확히 구분해 준다.",
+        "고대인의 매장 방식과 식단 사이의 상관관계를 밝히는 연구가 활발히 진행 중이다.",
+        "탄소와 질소 동위원소 비율이 개인의 식습관이 아닌 지역 환경을 반영한다.",
+        "뼈 콜라겐의 안정 동위원소 분석이 고대 식습관 연구의 정확성을 크게 향상시키고 있다."
+      ],
+      "answer": 5,
+      "explanations": {
+        "correct": "지문은 뼈 콜라겐의 안정 동위원소 분석이 기존 음식 유적 분석의 한계를 넘어 고대 식단을 직접적으로 밝혀준다고 설명한다. 농경민으로 알려졌던 집단이 어류를 주식으로 삼았다는 사례 등 구체적 발견이 제시되며, 마지막 문장 \"scientists can now reconstruct ancient diets with far greater precision than excavated food remains alone allow\"가 핵심을 압축한다. 이 기법이 고대 식습관 연구의 정확성을 크게 향상시키고 있다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문이 '구식 방법'으로 소개하는 것을 핵심 자료로 오해한 것이다. 지문은 음식 유적 분석이 전통적 방법이었음을 언급하지만, 새로운 동위원소 분석법이 이를 혁신적으로 대체하고 있다고 주장한다.",
+          "②는 지문에서 논의되지 않는 내용이다. 이 기법은 개인의 식단을 추적하는 도구이지, 농경 사회와 어업 사회의 경계를 구분하는 분류 기준으로 제시되지 않는다.",
+          "③은 지문의 한 사례를 과도하게 일반화한 것이다. 고지위 매장품과 식단의 불일치 사례는 동위원소 분석의 발견 중 하나로 언급될 뿐, 매장 방식과 식단 상관관계 연구가 활발히 진행 중이라는 주장은 없다.",
+          "④는 지문의 내용과 정반대이다. 지문은 동위원소 비율이 개인이 \"regularly consumed\" 음식의 종류를 반영한다고 명시하며, 지역 환경이 아닌 개인 식습관을 추적한다고 설명한다."
+        ],
+        "key_point": "뼈 콜라겐의 안정 동위원소 분석은 음식 유적만으로는 불가능했던 개인 평생 식단의 직접적 화학적 증거를 제공하여, 고대 식단 연구를 혁신하고 있다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Stable isotope analysis of skeletal collagen is transforming ancient diet research by providing precise, direct chemical evidence beyond what food remains alone reveal",
+        "lastSentenceCheck": "Last sentence: 'scientists can now reconstruct ancient diets with far greater precision than excavated food remains alone allow.' Choice 5 paraphrases this as 'isotope analysis is significantly improving accuracy of ancient diet research' — not a direct translation.",
+        "answerUniqueness": "Choice 5 captures the transformative role of the new technique. Others are details, contradictions, or unsupported claims.",
+        "distractorAnalysis": {
+          "choice1": "The passage presents food remains as the traditional (inferior) method — this is a detail about the old approach",
+          "choice2": "The method shows dietary patterns but isn't specifically about distinguishing agricultural from fishing societies",
+          "choice3": "The burial goods example shows discrepancy with diet, not an ongoing research trend",
+          "choice4": "Directly contradicts the passage — isotopes reflect what individuals ate"
+        },
+        "wordCount": 161,
+        "difficultyRating": "easy"
+      }
+    },
+    {
+      "id": "v2-22-12",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "standard",
+      "passage": "Organizational psychologists have identified a widespread tendency they call \"escalation of commitment\" — the inclination of individuals and organizations to continue investing in a failing course of action. The phenomenon arises partly from psychological motivations such as the desire to justify past expenditures (\"sunk cost fallacy\") and the wish to avoid the admission of failure. In complex organizations, these individual-level biases are amplified by social dynamics: nobody wants to be the person who declares that a major initiative has failed, particularly when they championed it initially. Political and institutional pressures can thus sustain projects long after rational analysis would recommend termination. Classic examples include large public infrastructure projects and corporate product launches that consumed escalating resources despite clear indicators of failure. Developing formal decision-review protocols — which periodically reassess ongoing projects against objective benchmarks — is one of the most effective ways to counteract this deeply human tendency to throw good money after bad.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "조직 내 의사결정에서 개인의 이익 추구가 집단의 합리성을 저해하는 경향이 있다.",
+        "대규모 공공 인프라 사업은 투명한 예산 집행 감독이 없을 때 실패하기 쉽다.",
+        "손실 회피 성향은 개인의 재정 결정보다 조직의 정책 결정에서 더 두드러진다.",
+        "실패한 프로젝트에 계속 투자하는 경향을 막으려면 정기적 재평가 체계가 필요하다.",
+        "공식적 절차 없이 이루어진 조직 결정은 비공식적 정치 압력에 취약하다."
+      ],
+      "answer": 4,
+      "explanations": {
+        "correct": "지문은 '몰입 상승(escalation of commitment)'이 매몰 비용 오류와 실패 인정 회피라는 심리적 동기에서 비롯되며, 조직의 사회적 압력으로 증폭된다고 설명한다. 마지막 문장 \"Developing formal decision-review protocols... is one of the most effective ways to counteract this... tendency\"가 핵심 해결책을 제시한다. 실패한 프로젝트에 계속 투자하는 경향을 막으려면 정기적 재평가 체계가 필요하다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문의 문제를 지나치게 일반화한 것이다. 지문은 개인의 이익 추구보다 매몰 비용 오류와 실패 인정 회피라는 구체적 심리적 편향을 원인으로 제시한다. 이익 추구와 합리성 저해의 관계는 글의 핵심 주장이 아니다.",
+          "②는 지문의 한 사례를 주요 주장으로 오해한 것이다. 공공 인프라 사업은 몰입 상승의 사례 중 하나일 뿐이며, 예산 감독 투명성이 핵심 해결책으로 제시되지 않는다.",
+          "③은 지문에서 논의되지 않는 비교이다. 지문은 손실 회피를 '매몰 비용 오류'의 심리 기제로 언급하지만, 개인 대 조직 의사결정에서의 손실 회피 비교는 하지 않는다.",
+          "⑤는 지문의 부분적 내용을 주요 주장으로 오해한 것이다. 정치적·제도적 압력이 문제를 지속시킨다는 내용은 있지만, 공식 절차의 부재가 비공식 압력에 대한 취약성의 원인이라는 주장은 지문의 핵심이 아니다."
+        ],
+        "key_point": "매몰 비용 오류와 실패 인정 회피라는 심리적 편향이 조직의 사회적 압력과 결합하여 실패한 프로젝트를 지속시키므로, 정기적·공식적 재평가 체계가 이를 막는 가장 효과적인 방법이다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Escalation of commitment (continuing to invest in failing projects) is driven by sunk cost fallacy and social/political pressures; formal decision-review protocols can counteract it",
+        "lastSentenceCheck": "Last sentence describes formal decision-review protocols as the remedy. Choice 4 paraphrases: 'to prevent escalation of commitment, periodic reassessment systems are needed' — not a direct translation.",
+        "answerUniqueness": "Choice 4 captures both the problem (escalation) and the solution (review protocols). Others miss the structural remedy or misidentify the mechanism.",
+        "distractorAnalysis": {
+          "choice1": "Individual self-interest hindering collective rationality is a broader framing not specifically argued here",
+          "choice2": "Budget oversight for public projects is an example, not the main argument",
+          "choice3": "Comparing individual vs. organizational loss aversion is not the passage's claim",
+          "choice5": "Vulnerability to informal politics is a component, not the main point"
+        },
+        "wordCount": 163,
+        "difficultyRating": "standard"
+      }
+    },
+    {
+      "id": "v2-22-13",
+      "number": 22,
+      "type": "요지",
+      "difficulty": "challenging",
+      "passage": "The concept of \"ecological grief\" has emerged in psychological literature to describe the distress that individuals experience in response to environmental losses — the disappearance of familiar species, landscapes, or seasonal patterns. Unlike clinical depression, ecological grief is a rational response to real-world losses, and researchers caution against pathologizing it. However, unprocessed ecological grief can lead to a psychological state of paralysis and disengagement from environmental concerns altogether. Climate psychologists argue that acknowledging and naming this grief, rather than suppressing it, is paradoxically what enables continued engagement with difficult environmental realities. Communities and social movements that create space for collective mourning rituals and open dialogue about loss tend to demonstrate greater long-term resilience and sustained motivation for action than those that adopt purely solution-focused or emotionally avoidant approaches. Facing environmental loss with grief, it turns out, may be a precondition for rather than an obstacle to meaningful action.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "기후 변화로 인한 환경 상실에 대한 슬픔은 개인의 회복력을 영구적으로 약화시킨다.",
+        "해결 중심의 접근법이 생태적 슬픔을 가장 효과적으로 완화할 수 있다.",
+        "환경 문제에 대한 집단적 애도 의식은 사회 운동의 결집력을 강화하는 데 한계가 있다.",
+        "환경 손실에 대한 슬픔을 억누르면 환경 문제에 무관심해질 위험이 있다.",
+        "생태적 슬픔을 병리화하지 않고 공동체적으로 인정하고 표현하는 것이 환경 행동의 동력이 된다."
+      ],
+      "answer": 5,
+      "explanations": {
+        "correct": "지문은 생태적 슬픔을 억압하면 마비 상태로 이어질 수 있는 반면, 공동체적으로 인정하고 표현하면 오히려 지속적인 환경 행동의 동력이 된다는 역설을 핵심으로 제시한다. 마지막 문장 \"Facing environmental loss with grief... may be a precondition for rather than an obstacle to meaningful action\"이 이를 압축한다. 생태적 슬픔을 병리화하지 않고 공동체적으로 인정·표현하는 것이 환경 행동의 동력이 된다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문과 정반대이다. 지문은 집단적 애도 의식을 가진 공동체가 \"greater long-term resilience\"를 보인다고 말한다. 슬픔이 회복력을 영구적으로 약화시킨다는 주장은 지문이 반박하는 내용이다.",
+          "②는 지문의 주장과 반대이다. 지문은 \"purely solution-focused... approaches\"가 집단적 애도를 포용하는 접근보다 덜 효과적이라고 밝힌다. 해결 중심 접근법이 가장 효과적이라는 주장은 지문에서 부정된다.",
+          "③은 지문의 내용과 정반대이다. 지문은 집단적 애도 의식을 수용하는 공동체와 사회운동이 더 강한 장기적 회복력과 지속적인 행동 동기를 보인다고 명시한다.",
+          "④는 지문의 한 논점(억압의 부정적 결과)만 담은 불완전한 선택지이다. 슬픔을 억누르면 무관심해질 위험이 있다는 내용은 맞지만, 지문의 핵심은 그 부정적 결과를 넘어 공동체적 인정이 행동의 동력이 된다는 긍정적·처방적 결론까지 포함한다."
+        ],
+        "key_point": "생태적 슬픔은 병리가 아닌 합리적 반응이며, 이를 공동체적으로 인정하고 표현할 공간을 마련하는 것이 역설적으로 지속적인 환경 행동의 동력이자 전제조건이 된다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Acknowledging ecological grief collectively — rather than suppressing it — is paradoxically what enables sustained engagement and action; grief is a precondition for action, not an obstacle",
+        "lastSentenceCheck": "Last sentence: 'Facing environmental loss with grief... may be a precondition for rather than an obstacle to meaningful action.' Choice 5 paraphrases the full argument — communally acknowledging grief becomes the motivating force for environmental action — not a direct translation of the final sentence.",
+        "answerUniqueness": "Choice 5 integrates: (a) not pathologizing, (b) communal acknowledgment, (c) this enables action. Choice 4 captures only part of the argument (suppression leads to disengagement) without the full constructive claim.",
+        "distractorAnalysis": {
+          "choice1": "Directly contradicts the passage — communities that express grief show greater resilience",
+          "choice2": "Contradicts the passage — purely solution-focused approaches are shown to be less effective",
+          "choice3": "Contradicts the passage — collective mourning rituals are shown to sustain motivation",
+          "choice4": "Captures only the negative consequence of suppression — a sub-point, not the full argument about communal acknowledgment as enabler"
+        },
+        "wordCount": 164,
+        "difficultyRating": "challenging"
+      }
+    }
+  ]
+}

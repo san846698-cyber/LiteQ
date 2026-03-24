@@ -1,0 +1,187 @@
+{
+  "type": "글의 목적",
+  "typeNumber": 18,
+  "totalCount": 18,
+  "questions": [
+    {
+      "source": "2023학년도 3월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Ms. Reynolds,\nMy name is Olivia Harris. I am a senior food journalist at the Food and Life Magazine. I recently attended the Future of Organic Farming forum and I was delighted to meet Taylor Morganic, owner and founder of Morganic Farms, whose pioneering contributions to organic farming are outstanding. I believe that our readers would be very interested in learning about Morganic's rise in the organic farming industry. The piece would run in the normal 800 - 1,200 word range with photographs available of Taylor and Morganic's operation. Thank you for your consideration of this article. I hope to hear from you soon.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["잡지사에 기사 기고를 하겠다고 제안하려고", "기사 지면을 늘려줄 것을 요청하려고", "새로 나온 유기농 제품을 소개하려고", "기사에 대한 피드백에 감사하려고", "창업에 관한 조언을 구하려고"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "source": "2023학년도 4월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "To whom it may concern,\nI am writing this letter in regard to Sona Lee applying for an internship in your law firm. I have gotten to know her over the past year, as a student in my Contracts course. The assignments she completed were excellent, and demonstrated a thorough understanding of contract law. She also has remarkable energy and interpersonal skills. She represents her class on the law school's student council and has taken on this responsibility with spirit, interacting with students effectively. I support her application wholeheartedly.\nSincerely yours,\nConan Stevenson",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["계약 절차에 대한 이의를 제기하려고", "우수한 학생을 인턴 채용에 추천하려고", "학생회장 선거 운영 방법을 문의하려고", "법률 회사의 유능한 변호사를 소개하려고", "법학 전문 대학원의 교육 과정을 안내하려고"],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "source": "2023학년도 6월 모의평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Custard Valley Park members,\nCustard Valley Park's grand reopening event will be held on June 1st. For this exciting occasion, we are offering free admission to all visitors on the reopening day. There will be a food stand selling ice cream and snacks. We would like to invite you, our valued members, to celebrate this event. Please come and explore the park's new features such as tennis courts and a flower garden. Just relax and enjoy the beautiful scenery. We are confident that you will love the new changes, and we are looking forward to seeing you soon.\nSincerely,\nKatherine Carter\nPark Management Team",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["공원 재개장 행사에 초대하려고", "공원 운영 시간 변경을 공지하려고", "공원 이용 규칙 준수를 당부하려고", "공원 입장 시 유의 사항을 안내하려고", "공원 리모델링 사업 계획을 설명하려고"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "source": "2023학년도 7월 고3 학력평가",
+      "number": 18,
+      "type": "글의목적",
+      "passage": "Dear Mr. Adams,\nI am Jane Roe, director of the web-hosting department. As you are aware, the upcoming weeks will be crucial for the operations of our web-hosting facility because the number and variety of our clients are expanding daily. Our staff are doing their best under the circumstances. However, we are now badly understaffed in our department, so I would like to request that more staff members be hired. Most of our staff have spent the last five days on call, without a break. I hope you will consider this matter. I look forward to your positive response.\nSincerely,\nJane Roe",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["신설 부서의 업무를 소개하려고", "기한 내 업무 완료를 당부하려고", "부서의 추가 인력 고용을 요청하려고", "직원들의 업무 성과를 보고하려고", "근무 시설 개선 방안을 제안하려고"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "source": "2023학년도 9월 모의평가",
+      "number": 18,
+      "type": "글의목적",
+      "passage": "Dear Parents,\nMy name is Danielle Hamilton, and I am the principal of Techville High School. As you may know, there is major road construction scheduled to take place in front of our school next month. This raises safety concerns. Therefore, we are asking for parent volunteers to help with directing traffic. The volunteer hours are from 8:00 to 8:30 a.m. and from 4:30 to 5:00 p.m. on school days. If you are willing to take part in the traffic safety volunteer group, please email us with your preferred schedule at info@techville.edu. Your participation will be helpful in building a safer school environment for our students. Thank you in advance for your contributions.\nSincerely,\nDanielle Hamilton",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["교통안전 봉사 참여를 요청하려고", "자원봉사 교육 일정을 공지하려고", "학교 시설 공사에 대한 양해를 구하려고", "학교 앞 도로 공사의 필요성을 설명하려고", "등·하교 차량 안전 수칙 준수를 당부하려고"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "source": "2023학년도 10월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "We hope this notice finds you in good health and high spirits. We are writing to inform you that a package was delivered to the Rosehill Apartment Complex on October 9th, specifically addressed to your home. However, despite multiple attempts to deliver the package to you, it has remained unclaimed at our front desk for an extended period. As the management office, it is our responsibility to ensure the safekeeping of all delivered items and help deliver them quickly to the right residents. Therefore, we kindly request that you visit the management office during our office hours to claim your package. We genuinely appreciate your cooperation in this matter.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["관리 사무실 공사 일정을 알리려고", "배달된 물품을 찾아갈 것을 요청하려고", "잘못 찾아간 물품의 반납을 부탁하려고", "배달 물품의 도난 방지 조치를 설명하려고", "관리 사무실 운영 시간 변경을 공지하려고"],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "source": "2024학년도 3월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "It has been a privilege to serve in this company for the past four years. The experiences and insights I have gained as a safety manager have been invaluable. However, after careful consideration, I have accepted a position at another company and will be leaving Lewis Ltd. This was not an easy decision to make, but I am confident that my new role will help me with my future goals. My last day of work will be on April 30th. I will do all I can to assist in a smooth transfer of duties. I wish both you and Lewis Ltd. every good fortune.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["업무에 대한 조언을 구하려고", "다른 부서로의 이동을 요청하려고", "신규 채용 조건에 대해 안내하려고", "구직자를 위한 프로그램을 홍보하려고", "다른 회사로 이직하게 되었음을 알리려고"],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "source": "2024학년도 4월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "My name is Rohan Kaul, the producer of the upcoming film 'Upagrah.' I am reaching out to you regarding a matter of importance concerning the shooting of some scenes for our film. We have identified Gulab Park, Mumbai, as an ideal location for these scenes. We are hoping to conduct this shoot on 3rd June 2024, from 1 p.m. to 6 p.m. We have chosen Monday for the shooting day to minimize traffic issues and disruption to the public. During the shoot, our team promises to follow all rules and regulations, ensuring no inconvenience is caused to the public. We would be so grateful if you granted permission for the shoot so that we can put the beautiful scenery of the park in our film. We look forward to your response.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["주말 영화 시사회에 초대하려고", "공원 이용 시간의 연장을 건의하려고", "촬영을 위한 장비 대여 방법을 문의하려고", "행사 운영을 위한 교통 통제를 요청하려고", "영화 촬영을 위해 장소 사용 허가를 얻으려고"],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "source": "2024학년도 6월 모의평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Hello, everyone! Welcome back to your favorite online channel, With Ethan. As always, I'm trying to make this channel a place that my followers of all ages can enjoy. Recently, in the comments section, there have been some examples of language that is inappropriate for younger viewers. Also, there have been some comments that are not relevant to this channel. These kinds of comments are unacceptable for a channel like this. I would really like to ask that all of my followers keep these things in mind so that we can all enjoy this channel. I always appreciate your time and support. Please keep watching.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["새로 개설한 온라인 채널을 홍보하려고", "온라인 생방송 날짜 변경을 공지하려고", "부적절한 댓글을 쓰지 않도록 요청하려고", "온라인 채널 구독 연령 제한을 고지하려고", "온라인 구독자들의 요청 사항을 공유하려고"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "source": "2024학년도 7월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Staff,\nMy name is Laura Miller, the Human Resources Manager. As part of our efforts to reduce traffic on newly built area roadways, we are starting to offer flextime working hours to eligible employees. Under the plan, staffers could begin work 60 to 90 minutes before or after ordinary business hours, adjusting their scheduled departure time accordingly. All requests for flextime must be submitted to departmental supervisors and will be approved if they do not conflict with the staffing needs of the company. In addition, flextime schedules will be reviewed every four months to assure that they do not adversely affect company goals.\nBest regards,\nLaura Miller",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["유연 근무제 실시 계획을 안내하려고", "직장 내 갈등 조정 기구 신설을 홍보하려고", "유연 근무제의 만족도 조사 참여를 독려하려고", "부서별 유연 근무 신청 승인 결과를 통보하려고", "교통량 감소를 위한 대중교통 이용을 장려하려고"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "source": "2025학년도 9월 모의평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Valued Members,\nWe have exciting news here at Royal Ocean Cruises! To thank you for your loyalty, we are thrilled to offer you an exclusive promotion! Make a reservation for any cruise departing within the next six months and enjoy a 15% discount. Additionally, we are offering a free specialty dining package and a $20 coupon to use at the onboard gift shop. To take advantage of this offer, simply go to our website and enter the promotion code 'ROC25'. We look forward to welcoming you back aboard for another unforgettable journey. Thank you for your continued loyalty and support.\nSincerely,\nCindy Robins\nCustomer Relations Manager",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["식사 메뉴 변경 사유를 설명하려고", "여행 후기 작성 참여를 독려하려고", "여행 일정 변경 사항을 공지하려고", "여행 상품 판촉 행사를 안내하려고", "고객 감사 행사 아이디어를 공모하려고"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "source": "2024학년도 10월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "I hope this email finds you well. Thank you for considering me as a speaker for the upcoming Digital Marketing Workshop. I appreciate the invitation and your thoughtfulness. The workshop sounds like an amazing event, and I would have loved to participate. However, I regret to inform you that I will be overseas on a business trip during the workshop. It is unfortunate that the timing does not work out. Although I cannot attend as a speaker this time, I remain hopeful for future opportunities where our schedules might coincide. I hope the workshop goes well.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["디지털 마케팅 워크숍에 참여를 독려하려고", "연설자로 참석해 달라는 제안을 거절하려고", "워크숍의 변경된 장소를 안내하려고", "행사가 취소되었음을 공지하려고", "해외 출장 일정을 조정하려고"],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "source": "2025학년도 3월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear School Officials,\nThank you for deciding to participate in the upcoming 2025 Student Art Exhibition. Our organization's event has been a platform for showcasing the artistic talents of young students for a decade. After reviewing the applications we've received, we can't wait to exhibit your students' work. However, please note that there has been a change to the submission deadline for your students' work. The deadline is April 15th instead of March 28th. Please send the work to the address of which we have already notified you. Thank you.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["전시회 운영 기간을 안내하려고", "작품 제출 마감일 변경을 알리려고", "학생 예술 단체 가입을 독려하려고", "전시회에 공개할 작품을 발표하려고", "전시되는 작품의 선정 기준을 공지하려고"],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "source": "2025학년도 5월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "To whom it may concern,\nThe creation of an additional new road to address the traffic on worn-out Mahogany Road was quite pleasant news for our community. I pen this letter with the hope that the relevant authorities will intervene in regard to an unresolved inconvenience. I fully agree that the toll on Mahogany Road needed to be high in past years, because the road was a single one with lots of traffic and its miserable state required frequent maintenance. Yet, the road's drivers are still asked to pay $3 each time, and this price is similar to that of the newly built road, so the traffic jams don't go away as drivers flock to the new road. For better distribution of traffic, I suggest there be a proper adjustment in price on Mahogany Road. I hope the new road can fulfill our needs well as planned.\nYours faithfully,\nDan Sullivan",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["도로 건설 계획의 변경에 반대하려고", "갑작스러운 통행료 인상에 항의하려고", "새로운 도로 건설의 필요성을 설명하려고", "오래된 도로의 통행료 조정을 제안하려고", "도로 폐쇄로 인한 교통 체증 문제 해결을 요구하려고"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "source": "2026학년도 6월 모의평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "To Whom It May Concern,\nI recently visited the Lambsford History Foundation's exhibition about the Qukkon Gold Rush. The collection of pictures, tools, and historical documents made the gold miners arriving to Qukkon come to life. This reminded me of when I lived in Qukkon and worked in the mining industry. Because of this, I'm wondering if there are volunteer guide positions available for this exhibition. I can share my experiences working in the extreme cold of Qukkon. Again, I would be thankful if you could tell me about the availability of volunteer positions as a guide.\nSincerely,\nJonathan Hamilton",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["안내자로 자원봉사를 할 자리가 있는지 문의하려고", "역사 박물관 근무 경력자 모집에 지원하려고", "전시회를 위한 예술품 기부를 부탁하려고", "채굴 도구 사용 설명서를 요청하려고", "전시회의 주제를 소개하려고"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "source": "2025년 7월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "To our readers,\nWe hope you are well and enjoying the latest issue of our magazine, Kitchen Gazette. As always, we strive to bring you the most useful content, and we appreciate your continued support. While we aim for perfection with each of our recipes, we occasionally make mistakes. It has come to our attention that the recipe for Banana Cream Pie in the June issue was incomplete. Although the directions did mention adding milk, the list of ingredients did not include it. The correct listing should specify one and three quarter cups of milk. We hope you'll try it again using the corrected version. Thank you for your understanding, and we look forward to bringing you more delicious recipes in the future!\nWarm regards,\nJenny Perker\nKitchen Gazette Food Content Director",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["잡지에 실린 요리법의 수정 사항을 알리려고", "요리 재료 보관 시 유의 사항을 설명하려고", "유명 요리사의 조리 비법을 공유하려고", "요리 잡지의 정기 구독을 독려하려고", "요리책의 최신 발행본을 홍보하려고"],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "source": "2026학년도 대학수학능력시험 9월 모의평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear AI summer program participants,\nI am your instructor John Phillips. I am excited about your enthusiasm for expanding your familiarity with AI by registering for our AI summer program. Thanks to your interest, more participants enrolled in our program than we expected. Therefore, the original lecture room does not have enough seating for all the participants. So, we have decided to move the location to make space for everyone. The program was supposed to be held in classroom 502 in the Ranark building, but it will be changed to classroom 103 in the Whitewood building. Thank you for your understanding. I am looking forward to meeting you all.\nSincerely,\nJohn Phillips",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["여름 프로그램 참여 동기를 조사하려고", "여름 프로그램 장소 변경을 알리려고", "새로운 여름 프로그램을 홍보하려고", "여름 프로그램 강사를 섭외하려고", "여름 프로그램 취소를 통보하려고"],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "source": "2025년 10월 고3 학력평가",
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Thank you for applying for the winter internship program. I'm writing this email to provide you with important information regarding the next step in your application process. Based on the materials you submitted, we've recognized your genuine interest in advancing your technical expertise and software development skills. As mentioned before, additional documentation is required before moving to the final stage. We kindly ask that you provide the original copies of the certificates you listed in your application. Please send the documentation via mail by November 7. Thank you.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": ["자격증의 온라인 출력 방법을 안내하려고", "면접 일정의 변경을 공지하려고", "인턴십 프로그램을 홍보하려고", "자격증의 원본 제출을 요청하려고", "인턴십 프로그램이 취소되었음을 알리려고"],
+      "answer": 4,
+      "points": 2
+    }
+  ]
+}

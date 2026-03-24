@@ -1,0 +1,132 @@
+{
+  "type": "순서 배열",
+  "typeNumber": 36,
+  "validationSummary": {
+    "totalQuestions": 5,
+    "passed": 5,
+    "failed": 0,
+    "accuracy": "100%"
+  },
+  "validated": [
+    {
+      "id": 1,
+      "verdict": "PASS",
+      "givenAnswer": 4,
+      "validatedAnswer": 4,
+      "givenOrder": "(C)-(A)-(B)",
+      "validatedOrder": "(C)-(A)-(B)",
+      "topic": "Cognitive load in working memory",
+      "independentReasoning": "Opening defines cognitive load as mental effort in working memory. (C) must follow because 'When too many demands are placed on working memory' directly elaborates on the opening, and 'This overload' self-references within C. C ends with 'multiple unfamiliar elements simultaneously.' (A) follows with 'For instance,' exemplifying that simultaneous processing problem: a student learning math while decoding foreign vocabulary. (B) concludes with 'This is why,' a causal marker requiring both the problem (C) and example (A) as antecedents, then offers the pedagogical solution of breaking topics into smaller units.",
+      "orderValidation": {
+        "whyThisFirst": "(C) is the only paragraph that can follow the opening — it elaborates on what happens when cognitive load is exceeded. (A) requires a general claim to exemplify ('For instance'), and (B) requires prior causal context ('This is why').",
+        "linkC_to_A": "'For instance' in (A) exemplifies the 'multiple unfamiliar elements simultaneously' at the end of (C). The math + foreign vocabulary example concretely illustrates simultaneous overload.",
+        "linkA_to_B": "'This is why' in (B) draws a causal conclusion from the problem (C) and its example (A). The solution (breaking topics into smaller units) logically follows the demonstrated problem.",
+        "discourseChain": "cognitive load (opening) → 'working memory' (C) → 'This overload' (C) → 'For instance' (A) → 'This is why' (B)"
+      },
+      "choicesAnalysis": {
+        "1_ACB": "INVALID — (A) cannot follow opening; 'For instance' has no general claim to exemplify yet.",
+        "2_BAC": "INVALID — (B) cannot follow opening; 'This is why' has no prior causal context.",
+        "3_BCA": "INVALID — Same issue; (B) requires prior problem context.",
+        "4_CAB": "CORRECT — Logical flow: elaboration → example → conclusion.",
+        "5_CBA": "INVALID — Placing (B) before (A) breaks the logic; 'This is why' should follow the example, not precede it."
+      },
+      "points": 2
+    },
+    {
+      "id": 2,
+      "verdict": "PASS",
+      "givenAnswer": 4,
+      "validatedAnswer": 4,
+      "givenOrder": "(C)-(A)-(B)",
+      "validatedOrder": "(C)-(A)-(B)",
+      "topic": "Why people share misinformation online",
+      "independentReasoning": "Opening introduces the problem: misinformation spreads and researchers are investigating why. (C) presents 'Early studies' and their explanation (lack of critical thinking skills), proposing media literacy as a solution. (A) pivots with 'However, subsequent research revealed' — a chronological and contrastive marker that can only follow an earlier finding (C). A offers the revised explanation: social media speed prevents evaluation. (B) opens with 'In other words,' restating A's key insight ('not gullibility but attention'), then presents experimental evidence (prompting users to think about accuracy) and its implication.",
+      "orderValidation": {
+        "whyThisFirst": "(C) is the only viable opener — 'Early studies suggested' naturally follows a research introduction. (A) needs a prior finding to contrast ('However, subsequent research'), and (B) needs a preceding statement to restate ('In other words').",
+        "linkC_to_A": "'However, subsequent research revealed' in (A) directly contrasts with the 'Early studies' in (C). The chronological progression (early → subsequent) enforces this order.",
+        "linkA_to_B": "'In other words' in (B) paraphrases A's conclusion. 'Not gullibility but attention' restates A's point about speed preventing evaluation. The experimental finding then provides supporting evidence.",
+        "discourseChain": "researchers (opening) → 'Early studies' (C) → 'this view' (C) → 'However, subsequent research' (A) → 'In other words' (B) → 'This finding' (B)"
+      },
+      "choicesAnalysis": {
+        "1_ACB": "INVALID — (A) cannot follow opening; 'However, subsequent research' requires a prior study to contrast with.",
+        "2_BAC": "INVALID — (B) cannot follow opening; 'In other words' needs a preceding statement to rephrase.",
+        "3_BCA": "INVALID — Same issue with (B) as opener.",
+        "4_CAB": "CORRECT — Chronological and logical flow: initial view → revised view → restatement + evidence.",
+        "5_CBA": "INVALID — Placing (B) before (A) breaks 'In other words' which specifically restates A's point."
+      },
+      "points": 2
+    },
+    {
+      "id": 3,
+      "verdict": "PASS",
+      "givenAnswer": 2,
+      "validatedAnswer": 2,
+      "givenOrder": "(B)-(A)-(C)",
+      "validatedOrder": "(B)-(A)-(C)",
+      "topic": "Architecture as frozen music — analogy and its limits",
+      "independentReasoning": "Opening presents the 'frozen music' analogy for architecture. (B) must follow immediately because 'The analogy, however, has its limits' is a direct reference to the opening's analogy, then introduces physical constraints (bearing weight, resisting wind). (A) begins with 'Nevertheless, these structural necessities' — the demonstrative 'these' can only refer to the constraints in (B). A pivots to say architects still express artistic vision despite constraints. (C) provides a concrete example ('Consider, for example') of that reconciliation: Gothic cathedrals whose pointed arches and flying buttresses solved engineering problems while achieving aesthetic beauty.",
+      "orderValidation": {
+        "whyThisFirst": "(B) is the only paragraph that can follow the opening — 'The analogy, however' directly references the frozen music metaphor. (A) needs prior 'structural necessities' as antecedent, and (C) needs a general claim about reconciling art and engineering to exemplify.",
+        "linkB_to_A": "'These structural necessities' in (A) refers to bearing weight, resisting wind, and withstanding nature from (B). 'Nevertheless' concedes B's point while pivoting to artistic expression.",
+        "linkA_to_C": "'Consider, for example' in (C) exemplifies A's claim that architects 'found creative ways to reconcile engineering constraints with aesthetic ambitions.' Gothic cathedrals are the specific instance.",
+        "discourseChain": "'frozen music' (opening) → 'The analogy' (B) → 'these structural necessities' (A) → 'Consider, for example' (C)"
+      },
+      "choicesAnalysis": {
+        "1_ACB": "INVALID — (A) cannot follow opening; 'these structural necessities' has no antecedent.",
+        "2_BAC": "CORRECT — Analogy limit → concession + pivot → concrete example.",
+        "3_BCA": "INVALID — (C) before (A) breaks logic; the example should follow the general claim, not precede it.",
+        "4_CAB": "INVALID — (C) cannot follow opening; 'Consider, for example' needs a prior general claim.",
+        "5_CBA": "INVALID — Same issue with (C) as opener."
+      },
+      "points": 2
+    },
+    {
+      "id": 4,
+      "verdict": "PASS",
+      "givenAnswer": 4,
+      "validatedAnswer": 4,
+      "givenOrder": "(C)-(A)-(B)",
+      "validatedOrder": "(C)-(A)-(B)",
+      "topic": "The framing effect in decision-making",
+      "independentReasoning": "Opening states decision-making is influenced by how outcomes are presented. (C) follows because 'This phenomenon' directly names what the opening described, calling it the 'framing effect,' and explains positive vs. negative framing. (A) then provides 'For example' — the classic survival rate vs. mortality rate case, concretely illustrating the framing effect defined in (C). (B) opens with 'These findings,' summarizing the phenomenon (C) and its evidence (A), then discusses broader implications for public health and marketing.",
+      "orderValidation": {
+        "whyThisFirst": "(C) is the only paragraph that can follow the opening — 'This phenomenon' names the concept just introduced. (A) needs a defined concept to exemplify ('For example'), and (B) needs accumulated findings to reference ('These findings').",
+        "linkC_to_A": "'For example' in (A) illustrates the positive/negative framing distinction laid out in (C). The survival/mortality case is a textbook instance of the framing effect.",
+        "linkA_to_B": "'These findings' in (B) refers to both the theoretical framework (C) and the empirical evidence (A). The implications (public health, marketing) follow logically as applications.",
+        "discourseChain": "'how that outcome is presented' (opening) → 'This phenomenon' (C) → 'framing effect' (C) → 'For example' (A) → 'These findings' (B)"
+      },
+      "choicesAnalysis": {
+        "1_ACB": "INVALID — (A) cannot follow opening; 'For example' requires a prior general statement about framing.",
+        "2_BAC": "INVALID — (B) cannot follow opening; 'These findings' has no antecedent.",
+        "3_BCA": "INVALID — Same issue with (B) as opener.",
+        "4_CAB": "CORRECT — Definition → example → implications.",
+        "5_CBA": "INVALID — Placing (B) before (A) breaks logic; 'These findings' should follow the example, and 'For example' would have no claim to exemplify after (B)."
+      },
+      "points": 3
+    },
+    {
+      "id": 5,
+      "verdict": "PASS",
+      "givenAnswer": 3,
+      "validatedAnswer": 3,
+      "givenOrder": "(B)-(C)-(A)",
+      "validatedOrder": "(B)-(C)-(A)",
+      "topic": "Intermediate disturbance hypothesis in ecology",
+      "independentReasoning": "Opening states biodiversity is highest where conditions are neither too harsh nor too stable. (B) follows because 'This idea' names what the opening described as the 'intermediate disturbance hypothesis.' B then explains what happens in stable environments: a few competitive species dominate and exclude others. (C) opens with 'In contrast,' which must contrast with B's stable environments, describing what happens with occasional disturbances (storms, fires, floods) — they 'reset' the ecosystem. (A) begins with 'These periodic upheavals,' referring to C's storms/fires/floods, explains the mechanism (preventing monopolization), then introduces the caveat: if disturbances are too frequent, only hardiest species survive.",
+      "orderValidation": {
+        "whyThisFirst": "(B) is the only paragraph that can follow the opening — 'This idea' names the hypothesis introduced. (C) requires a prior scenario to contrast with ('In contrast'), and (A) requires prior mention of disturbances ('These periodic upheavals').",
+        "linkB_to_C": "'In contrast' in (C) directly opposes B's scenario of stable environments with dominant species. C presents the alternative: environments with occasional disturbances.",
+        "linkC_to_A": "'These periodic upheavals' in (A) refers to the storms, fires, and floods listed in (C). A then explains the mechanism and adds the important caveat about excessive disturbance, completing the argument.",
+        "discourseChain": "'neither too harsh nor too stable' (opening) → 'This idea' (B) → 'stable environments...dominate' (B) → 'In contrast' (C) → 'These periodic upheavals' (A)"
+      },
+      "choicesAnalysis": {
+        "1_ACB": "INVALID — (A) cannot follow opening; 'These periodic upheavals' has no antecedent.",
+        "2_BAC": "INVALID — (A) after (B) breaks logic; 'These periodic upheavals' needs C's disturbance list, and 'In contrast' in (C) needs B's stable scenario.",
+        "3_BCA": "CORRECT — Hypothesis naming + stable scenario → contrasting disturbed scenario → mechanism + caveat.",
+        "4_CAB": "INVALID — (C) cannot follow opening; 'In contrast' requires the stable environment scenario from (B).",
+        "5_CBA": "INVALID — Same issue with (C) as opener."
+      },
+      "points": 3
+    }
+  ]
+}

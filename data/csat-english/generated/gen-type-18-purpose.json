@@ -1,0 +1,162 @@
+{
+  "type": "글의 목적",
+  "typeNumber": 18,
+  "analysis": {
+    "passagePattern": "All passages are written in letter/email/notice format (150-200 words). They follow a consistent structure: (1) greeting/salutation (Dear..., To whom it may concern), (2) self-introduction of the writer with name and role, (3) background context or situation description, (4) the core purpose stated clearly but embedded within polite language, (5) closing with appreciation or hope for response. Topics span professional and community contexts: workplace requests, event announcements, recommendations, complaints, schedule changes, promotional offers, and corrections.",
+    "questionPattern": "The question is always identical: '다음 글의 목적으로 가장 적절한 것은?' with exactly 5 Korean choices. The correct answer captures the writer's PRIMARY purpose (the main action they want the reader to take or the main information they want to convey), not secondary details or background context.",
+    "answerDesign": "The correct answer precisely identifies the writer's core communicative intent using a '~하려고' ending. It avoids being too broad or too narrow. The purpose is always clearly supported by specific textual evidence (e.g., 'I would like to request...', 'I am writing to inform you...', 'we kindly ask that you...'). Answer indices are distributed across positions 1-5 with no predictable pattern.",
+    "distractorPattern": "Distractors exploit surface-level keywords from the passage to create plausible but incorrect purposes. Common strategies: (1) Misidentifying background info as the main purpose (e.g., road construction mentioned as context → distractor says the purpose is about road construction), (2) Using related but different actions in the same domain (e.g., passage requests volunteers → distractor says it announces volunteer training schedule), (3) Focusing on a minor detail and inflating it to the main purpose, (4) Reversing the direction of communication (e.g., writer is requesting → distractor says writer is announcing). All 5 choices maintain similar grammatical structure and length."
+  },
+  "generated": [
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Mr. Henderson,\nI hope this letter finds you well. My name is Clara Mitchell, and I am the president of the Greenfield Residents' Association. I am reaching out to you regarding the community garden on Elm Street, which has been a cherished space for our neighborhood for over fifteen years. We have recently learned that the city council is considering converting the garden into a parking lot to accommodate increased vehicle traffic in the area. While we understand the need for additional parking, the garden serves as an invaluable green space where residents of all ages gather, grow vegetables, and build community bonds. We strongly urge the council to explore alternative locations for the parking facility and preserve the community garden. We have gathered over 300 signatures from local residents supporting this request. We would appreciate the opportunity to present our case at the next council meeting.\nSincerely,\nClara Mitchell",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "주차장 건설 사업의 추진 경과를 보고하려고",
+        "주민 모임의 신규 회원 가입을 독려하려고",
+        "커뮤니티 정원의 철거 계획 철회를 촉구하려고",
+        "도시 의회 회의의 일정 변경을 안내하려고",
+        "이웃 간 갈등 해결을 위한 중재를 요청하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'We strongly urge the council to explore alternative locations for the parking facility and preserve the community garden.'라고 직접적으로 밝히며, 정원을 주차장으로 전환하려는 계획을 철회하고 정원을 보존해 달라고 촉구하고 있다. 300명의 서명을 모았다는 내용도 이 요청을 뒷받침한다.",
+        "wrong": {
+          "1": "① 지문에서 주차장 건설 '계획'이 언급되지만, 필자는 그 계획에 반대하는 입장이므로 추진 경과를 보고하려는 것이 아니다.",
+          "2": "② 'Residents' Association(주민 협회)'이 등장하지만, 새 회원 모집과 관련된 내용은 전혀 없다.",
+          "4": "④ 'the next council meeting(다음 의회 회의)'이 언급되지만, 이는 의견을 발표하고 싶다는 희망을 나타낸 것이지 회의 일정을 변경하거나 안내하려는 것이 아니다.",
+          "5": "⑤ 지역 사회 맥락에서 그럴듯하게 들리지만, 지문에는 이웃 간 갈등이나 중재 요청에 관한 내용이 전혀 없다."
+        },
+        "key_point": "글의 목적 문제에서는 배경 설명(주차 필요성)이 아닌, 필자가 직접적으로 요구하는 핵심 행동('urge', 'request' 등의 표현)에 집중해야 한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The writer explicitly states 'We strongly urge the council to explore alternative locations for the parking facility and preserve the community garden.' The entire letter is about preventing the conversion of the garden into a parking lot, which is asking the council to withdraw/reverse the demolition plan.",
+        "distractor_analysis": "Choice 1 uses 'parking lot construction' from the passage but misidentifies the purpose as reporting progress rather than opposing it. Choice 2 picks up on 'Residents' Association' but fabricates a membership recruitment purpose. Choice 4 mentions 'council meeting' which appears in the passage but is a minor detail (requesting to present at the meeting, not changing its schedule). Choice 5 is plausible in a community context but there is no conflict between neighbors mentioned.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Dr. Pearson,\nMy name is Kevin Shaw, and I am a biology teacher at Westbrook High School. I recently attended your lecture on marine ecosystems at the National Science Conference, which I found truly inspiring. Your presentation on coral reef restoration particularly caught my attention. Many of my students are currently working on their science fair projects related to ocean conservation. I believe it would be incredibly beneficial for them to hear from an expert like you. I am writing to ask if you would be willing to visit our school and give a short talk to my students about your research. We could arrange the visit for any date in the first two weeks of May. Any time you could spare would be greatly valued. I look forward to hearing from you.\nBest regards,\nKevin Shaw",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "과학 박람회의 심사위원 선정 결과를 통보하려고",
+        "해양 생태계 강연의 내용 수정을 요청하려고",
+        "학교 방문 강연을 해 줄 것을 부탁하려고",
+        "과학 학회의 참가 등록 방법을 문의하려고",
+        "학생들의 연구 프로젝트 결과를 공유하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I am writing to ask if you would be willing to visit our school and give a short talk to my students about your research.'라고 명시적으로 밝히고 있다. 강연 일정도 '5월 첫 두 주'로 제안하며 방문 강연을 정중히 부탁하는 것이 글의 핵심 목적이다.",
+        "wrong": {
+          "1": "① 지문에 'science fair(과학 박람회)'가 학생 프로젝트 배경으로 언급되지만, 심사위원 선정 결과 통보와는 전혀 관련이 없다.",
+          "2": "② 필자가 강연을 들었다는 내용이 있으나, 강연 내용 수정을 요청하는 내용은 없다. 강연은 방문 요청의 배경 설명으로 사용된 것이다.",
+          "4": "④ 'National Science Conference(전국 과학 학회)'가 등장하지만, 학회 등록 방법을 묻는 내용이 아니라 학회에서 강연을 들었다는 배경 설명이다.",
+          "5": "⑤ 학생들의 프로젝트가 언급되지만, 이는 강연 요청의 이유를 설명하는 배경이며 학생 연구 결과를 공유하려는 것이 아니다."
+        },
+        "key_point": "'I am writing to...' 뒤에 오는 표현이 글의 목적이다. 앞부분의 칭찬이나 배경 설명은 본론을 꺼내기 위한 공손한 도입부임을 파악해야 한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The writer directly states 'I am writing to ask if you would be willing to visit our school and give a short talk to my students about your research.' This is an explicit request for a school visit and talk.",
+        "distractor_analysis": "Choice 1 mentions 'science fair' which appears as context (students' projects) but not the purpose. Choice 2 references the lecture the writer attended, twisting it into a content revision request. Choice 4 uses 'National Science Conference' from the passage but fabricates a registration inquiry. Choice 5 relates to the students' projects mentioned as background, not the core request.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Sunrise Bakery customers,\nWe want to express our heartfelt gratitude for your loyal support over the past twelve years. As many of you know, our bakery has been a neighborhood favorite, and we have loved being part of your daily routines. After much thought and discussion, our family has made the difficult decision to close Sunrise Bakery permanently at the end of this month. The rising costs of ingredients and rent have made it increasingly challenging to keep the business running. Our last day of operation will be December 28th. We will be open regular hours until then and invite you to stop by for one last visit. We are deeply thankful for the memories we have shared with each of you over the years.\nWith love,\nThe Park Family",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "가게의 영업시간 단축을 공지하려고",
+        "식재료 가격 인상의 원인을 설명하려고",
+        "새로운 지점의 개업 소식을 알리려고",
+        "가게의 폐업 결정을 알리려고",
+        "단골 고객 감사 행사를 안내하려고"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'our family has made the difficult decision to close Sunrise Bakery permanently at the end of this month.'라고 명확히 밝히고 있으며, 마지막 영업일이 12월 28일이라는 구체적인 정보도 포함되어 있다. 글 전체가 폐업 사실을 고객에게 알리는 것을 목적으로 한다.",
+        "wrong": {
+          "1": "① 'open regular hours(정규 영업시간으로 운영)'라는 표현이 있지만, 이는 폐업 전까지 정상 운영한다는 의미이지 영업시간을 단축한다는 내용이 아니다.",
+          "2": "② '재료비와 임대료 상승(rising costs of ingredients and rent)'은 폐업의 이유로 언급된 배경 설명이며, 이것이 글의 주된 목적이 아니다.",
+          "3": "③ 새 지점 개업은 지문 내용과 정반대이다. 지문은 폐업을 알리는 글이다.",
+          "5": "⑤ 감사 인사가 글 전반에 흐르지만, 이는 폐업 소식을 전하면서 표현한 감정이지 별도의 고객 감사 행사를 안내하는 것이 아니다."
+        },
+        "key_point": "감사 인사나 폐업 이유 같은 부가 정보에 현혹되지 말고, 필자가 독자에게 전달하고자 하는 핵심 사실(폐업 결정)을 파악해야 한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage clearly states 'our family has made the difficult decision to close Sunrise Bakery permanently at the end of this month.' The entire letter is structured to inform customers about the permanent closure.",
+        "distractor_analysis": "Choice 1 uses 'operating hours' from 'open regular hours' but misidentifies it as a schedule reduction notice. Choice 2 picks up on 'rising costs of ingredients' mentioned as a reason but elevates the background explanation to the main purpose. Choice 3 is a plausible bakery announcement but contradicts the passage entirely. Choice 5 misreads the gratitude expressed throughout as an announcement of a customer appreciation event.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Ms. Nakamura,\nI am writing on behalf of the Riverside Arts Council. We recently held our annual Art in the Park festival, and I wanted to reach out to thank you for your generous contribution. Your donation of $5,000 allowed us to provide free art supply kits to over 200 children who participated in the painting workshop. Thanks to your support, children from underserved communities were able to experience hands-on art activities for the first time. The smiles on their faces were priceless. We have enclosed several photographs from the event so you can see the direct impact of your generosity. We hope that you will continue to support our mission of making art accessible to all children in our community.\nWith sincere appreciation,\nMichael Torres\nRiverside Arts Council Director",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "미술 행사의 자원봉사자를 모집하려고",
+        "후원에 대한 감사를 전하려고",
+        "미술 교육 프로그램의 참가를 권유하려고",
+        "미술 용품의 기부를 부탁하려고",
+        "예술 축제의 사진 사용 허가를 요청하려고"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "필자는 'I wanted to reach out to thank you for your generous contribution.'이라고 글을 쓰는 이유를 직접 밝히고 있으며, 5,000달러 기부가 200명 이상의 어린이에게 미술 용품을 제공하는 데 쓰였다는 구체적인 결과를 전하며 감사를 표하고 있다. 마지막 인사도 'With sincere appreciation(진심으로 감사하며)'이다.",
+        "wrong": {
+          "1": "① 행사 맥락에서 자원봉사자 모집을 연상할 수 있지만, 지문에는 자원봉사자 모집 관련 내용이 전혀 없다.",
+          "3": "③ 'art activities(미술 활동)'와 'children(어린이)'이 등장하지만, 프로그램 참가를 권유하는 내용이 아니라 이미 진행된 행사의 결과를 보고하는 것이다.",
+          "4": "④ 미술 용품 키트가 언급되지만, 이는 이미 기부받은 돈으로 제공한 것이다. 추가 용품 기부를 요청하는 내용이 아니다.",
+          "5": "⑤ 사진을 동봉했다는 내용이 있지만, 이는 기부의 효과를 보여주기 위한 것이지 사진 사용 허가를 요청하는 것이 아니다."
+        },
+        "key_point": "글의 목적은 필자가 편지를 쓰는 직접적인 이유이다. 'I wanted to reach out to thank you'처럼 목적어가 감사 표현인 경우, 나머지 내용은 감사의 근거를 설명하는 뒷받침 역할을 한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The writer states 'I wanted to reach out to thank you for your generous contribution' and the entire letter details the positive impact of the donation, expressing gratitude throughout. The closing is 'With sincere appreciation.'",
+        "distractor_analysis": "Choice 1 relates to the event context but fabricates volunteer recruitment. Choice 3 uses 'art activities' and 'children' from the passage but misidentifies the purpose as program enrollment. Choice 4 picks up on 'art supply kits' but reverses the situation — the donation already happened; they are not requesting more supplies. Choice 5 mentions 'photographs' which are enclosed in the letter, but twists it into a permission request.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Tenants,\nThis letter is to notify you of upcoming maintenance work in the Maple Ridge Apartment complex. Our building management team has scheduled an inspection and replacement of the water pipes on the 3rd and 4th floors. The work is expected to take place from March 10th to March 14th, during which the water supply to these floors will be temporarily shut off between 9 a.m. and 5 p.m. each day. We understand this may be inconvenient, and we sincerely apologize for any disruption. Portable water stations will be set up in the lobby for your use during this period. If you have any questions or concerns, please do not hesitate to contact the management office at 555-0142. Thank you for your patience and cooperation.\nBest regards,\nSusan Whitfield\nBuilding Manager",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "수도 요금의 인상을 공지하려고",
+        "건물 내 시설 이용 규칙을 안내하려고",
+        "배관 공사로 인한 단수 일정을 알리려고",
+        "관리비 납부 기한의 연장을 통보하려고",
+        "입주민 대상 설문 조사 참여를 요청하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "첫 문장에서 'This letter is to notify you of upcoming maintenance work'라고 목적을 직접 밝힌 뒤, 3·4층 수도 배관 교체 공사로 인해 '3월 10일~14일 오전 9시~오후 5시 사이에 단수가 예정되어 있음'을 구체적으로 안내하고 있다.",
+        "wrong": {
+          "1": "① 'water(수도)'가 등장하지만, 요금 인상 관련 내용은 전혀 없다. 공사와 단수에 관한 공지이다.",
+          "2": "② 아파트 관리 공지처럼 보이지만, 이 글은 일반적인 시설 이용 규칙이 아닌 특정 공사 기간의 단수 일정을 알리는 것이다.",
+          "4": "④ 관리비(management fees)와 관련된 내용은 지문에 전혀 없다.",
+          "5": "⑤ 설문 조사 요청은 지문 어디에도 언급되지 않는다."
+        },
+        "key_point": "'This letter is to notify you of...'처럼 글의 첫 문장이 목적을 직접 명시하는 경우, 이후 내용은 그 목적에 대한 세부 사항임을 확인하면 된다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The passage states 'This letter is to notify you of upcoming maintenance work' and specifically details water pipe replacement that will cause the water supply to be 'temporarily shut off.' The core purpose is informing residents about the scheduled water outage due to pipe work.",
+        "distractor_analysis": "Choice 1 uses 'water' from the passage but fabricates a fee increase. Choice 2 is a plausible apartment management notice but the letter is about a specific event, not general rules. Choice 4 mentions management fees which are unrelated to the passage content. Choice 5 is a common apartment management action but not mentioned anywhere in the passage.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,720 @@
+{
+  "type": "무관한 문장",
+  "typeNumber": 35,
+  "version": "v2",
+  "totalCount": 25,
+  "difficultyBreakdown": {
+    "easy": 8,
+    "standard": 12,
+    "challenging": 5
+  },
+  "answerDistribution": {
+    "position1": 5,
+    "position2": 5,
+    "position3": 5,
+    "position4": 5,
+    "position5": 5
+  },
+  "questions": [
+    {
+      "id": "v2-35-01",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "easy",
+      "passage": "Laughter has long been recognized as more than a social signal — it carries measurable physiological benefits. When a person laughs, the body releases endorphins, natural chemicals that reduce pain perception and promote a sense of well-being. ① Stand-up comedy has become an increasingly profitable entertainment industry, with major streaming platforms competing to sign exclusive deals with prominent comedians. ② Muscle tension decreases during and after laughing, and the cardiovascular system experiences a short burst of activity followed by a period of relaxation. ③ These endorphins also activate the brain's reward circuits, which may explain why laughter is inherently pleasurable and socially reinforcing. ④ Repeated episodes of genuine laughter have been associated with lower levels of stress hormones such as cortisol and epinephrine. ⑤ Taken together, these findings suggest that laughter functions as a natural form of stress relief with lasting physiological effects.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Physiological and neurological health benefits of laughter",
+        "irrelevantSentence": "① is about the stand-up comedy entertainment industry and streaming platform deals — commercially adjacent to laughter but entirely unrelated to its physiological and neurochemical effects.",
+        "remainingFlow": "Intro (endorphins released during laughter) → ② muscle tension decreases, cardiovascular burst then relaxation → ③ endorphins activate reward circuits, making laughter pleasurable → ④ lower cortisol and epinephrine with repeated laughter → ⑤ laughter as natural stress relief. Logically coherent without ①.",
+        "subtletyCheck": "① mentions 'comedy,' which is contextually linked to laughter, but its actual claim concerns industry economics and commercial entertainment contracts.",
+        "difficultyLevel": "easy"
+      },
+      "explanations": {
+        "correct": "①은 스탠드업 코미디 산업의 수익성과 스트리밍 플랫폼의 독점 계약 경쟁을 언급한다. '코미디'라는 단어가 웃음과 표면적으로 연결되지만, 이 문장의 실제 주장은 엔터테인먼트 산업의 경제적 거래에 관한 것이다. 반면 나머지 글 전체는 웃음이 신체에 미치는 생리적·신경화학적 효과(엔도르핀 분비 → 근육 이완 → 보상 회로 활성화 → 스트레스 호르몬 감소 → 자연 스트레스 해소)를 일관되게 다루므로, ①은 이 흐름에 완전히 무관하다.",
+        "wrong": {
+          "2": "②는 웃음 중·후에 근육 긴장이 감소하고 심혈관계가 단기 활성화 후 이완된다고 설명한다. 이는 웃음의 생리적 효과를 구체화하는 내용으로, 글의 핵심 주제와 직결된다.",
+          "3": "③은 엔도르핀이 뇌의 보상 회로를 활성화하여 웃음이 본질적으로 즐거운 이유를 설명한다. 도입부에서 언급된 엔도르핀을 신경화학적으로 확장하는 문장으로 흐름에 필수적이다.",
+          "4": "④는 반복된 웃음이 코르티솔·에피네프린 같은 스트레스 호르몬 수치를 낮춘다는 근거를 제시한다. 글의 스트레스 해소 주제를 실증적으로 뒷받침하므로 무관하지 않다.",
+          "5": "⑤는 이 모든 연구 결과를 종합하여 웃음이 지속적인 생리적 효과를 지닌 자연적 스트레스 해소법이라고 결론짓는 마무리 문장이다. 글의 논리적 종결부로 제거할 수 없다."
+        },
+        "key_point": "글의 주제는 '웃음의 생리적·신경화학적 건강 효과'이다. ①의 '스탠드업 코미디 산업' 문장은 '코미디 = 웃음'이라는 표면적 연결 때문에 관련 있어 보이지만, 실제 내용은 산업 경제(수익성, 독점 계약)에 관한 것이므로 무관하다. 나머지 ②~⑤는 엔도르핀·근육 이완·보상 회로·스트레스 호르몬이라는 일관된 생리·신경 키워드로 연결된다."
+      }
+    },
+    {
+      "id": "v2-35-02",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "easy",
+      "passage": "Migratory birds navigate thousands of kilometers with remarkable precision using multiple environmental cues. One well-documented mechanism is magnetoreception — the ability to detect Earth's magnetic field — which provides birds with both compass and map information. ① Specialized cells containing magnetite crystals, found in the beaks of many species, are thought to sense the direction and intensity of magnetic field lines. ② The global trade in exotic pet birds has been a persistent driver of illegal wildlife trafficking, threatening population stability across dozens of species worldwide. ③ Studies in which birds were exposed to artificial magnetic anomalies confirmed that disrupting this sense causes significant navigational errors. ④ In addition to magnetism, birds also use star patterns during clear nights and the angle of polarized sunlight at dusk and dawn to calibrate their internal compasses. ⑤ This multi-cue system provides redundancy, ensuring that navigation remains accurate even when individual cues are temporarily unavailable.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "The navigational mechanisms of migratory birds: magnetoreception, multi-cue systems, and redundancy",
+        "irrelevantSentence": "② discusses illegal exotic bird trade and wildlife trafficking threatening population stability — uses 'birds' and 'species' but addresses conservation and trade law, not navigation biology.",
+        "remainingFlow": "Intro (magnetoreception provides compass and map) → ① magnetite crystals in beaks sense magnetic fields → ③ artificial anomalies cause navigational errors → ④ stars and polarized sunlight calibrate compasses → ⑤ multi-cue redundancy ensures robust navigation. Coherent without ②.",
+        "subtletyCheck": "② shares 'birds' and 'species' with the passage but its subject matter is wildlife trafficking policy, a different domain from sensory navigation mechanisms.",
+        "difficultyLevel": "easy"
+      },
+      "explanations": {
+        "correct": "②는 희귀 애완용 새의 불법 거래와 개체 수 안정성을 위협하는 야생동물 밀거래를 언급한다. '새'와 '종'이라는 단어가 지문과 겹치지만, 이 문장의 실제 내용은 보전 정책과 불법 거래 문제이다. 나머지 글은 자기장 감지(자철석 결정) → 인공 자기 이상에서의 오차 실험 → 별·편광 일광 활용 → 다중 단서 중복성이라는 '새의 항법 메커니즘'에 집중하므로, ②는 이 흐름과 무관하다.",
+        "wrong": {
+          "1": "①은 많은 조류 부리에서 발견되는 자철석 결정 함유 세포가 자기장 방향과 강도를 감지한다고 설명한다. 이는 자기 수용의 신체 기전을 구체화하는 핵심 문장이다.",
+          "3": "③은 인공 자기 이상에 노출된 새들이 심각한 항법 오류를 보였다는 실험 결과를 제시하여 자기 감각의 중요성을 입증한다. 글의 논리 흐름에 필수적이다.",
+          "4": "④는 자기장 외에도 별자리와 편광 일광 각도를 내부 나침반 보정에 활용한다고 설명한다. 다중 단서 체계를 소개하는 중요한 확장 문장이다.",
+          "5": "⑤는 다중 단서 체계가 중복성을 제공하여 단일 단서가 일시적으로 이용 불가할 때도 항법이 정확하게 유지된다는 결론을 제시한다. 글의 논리적 완결부이다."
+        },
+        "key_point": "글의 주제는 '철새의 항법 메커니즘(자기 수용, 다중 단서 중복성)'이다. ②의 '불법 야생동물 거래' 문장은 '새'·'종'이라는 공통 어휘 때문에 혼동되기 쉽지만, 내용은 보전 정책이므로 항법 생물학과 무관하다. 나머지 문장들은 모두 자기 수용 메커니즘과 다중 단서 항법이라는 하나의 주제로 연결된다."
+      }
+    },
+    {
+      "id": "v2-35-03",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "easy",
+      "passage": "The placebo effect demonstrates that a patient's belief in a treatment can produce real, measurable physiological changes. In controlled trials, patients who receive inert sugar pills — but believe them to be active medication — often report significant symptom relief. ① Brain imaging studies have confirmed that placebos can trigger the release of endogenous opioids, the body's natural pain-suppressing chemicals. ② The magnitude of the placebo effect is influenced by factors such as the confidence of the physician, the color and size of the pill, and the ritual of administration. ③ Regulatory agencies in many countries require pharmaceutical companies to disclose all known side effects in patient information leaflets before a drug reaches market. ④ Remarkably, recent research has shown that so-called open-label placebos — where patients are told explicitly that they are receiving a placebo — can still produce therapeutic benefits. ⑤ These findings suggest that the placebo response involves both conscious expectation and conditioned physiological mechanisms that can operate independently of conscious belief.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "The placebo effect: neurochemical mechanisms, contextual factors, open-label findings, and implications",
+        "irrelevantSentence": "③ is about pharmaceutical regulatory requirements for side-effect disclosure before market approval — uses 'pharmaceutical companies' and 'drug' but addresses drug regulation policy, not the psychological or physiological mechanisms of the placebo effect.",
+        "remainingFlow": "Intro (belief in inert pills produces real physiological change) → ① brain imaging confirms opioid release by placebos → ② effect magnitude varies by physician confidence, pill size/color, ritual → ④ open-label placebos still produce therapeutic benefits → ⑤ both expectation and conditioned mechanisms involved. Coherent without ③.",
+        "subtletyCheck": "③ mentions 'pharmaceutical companies' and 'drug,' fitting the medical context, but its claim about disclosure regulation has no bearing on the placebo mechanism being analyzed.",
+        "difficultyLevel": "easy"
+      },
+      "explanations": {
+        "correct": "③은 여러 나라의 규제 기관이 제약 회사에게 시판 전 부작용 정보를 환자 안내문에 공개하도록 요구한다는 내용이다. '제약 회사'와 '의약품'이라는 단어가 의료적 맥락에 부합하지만, 이 문장의 실제 주장은 약물 규제 정책에 관한 것이다. 나머지 글은 플라시보 효과의 신경화학적 기전(내인성 오피오이드 분비) → 효과 크기를 결정하는 맥락 요인 → 공개 레이블 플라시보의 효과 → 기대와 조건화 메커니즘이라는 흐름으로 일관되므로, ③은 무관하다.",
+        "wrong": {
+          "1": "①은 뇌 영상 연구가 플라시보가 내인성 오피오이드(천연 진통 화학물질) 분비를 유발할 수 있음을 확인했다고 설명한다. 플라시보 효과의 신경화학적 근거를 제공하는 핵심 문장이다.",
+          "2": "②는 플라시보 효과의 크기가 의사의 자신감, 약의 색상·크기, 투약 의식 같은 맥락적 요인에 의해 달라진다고 설명한다. 효과의 가변성 원인을 다루는 중요한 확장 내용이다.",
+          "4": "④는 공개 레이블 플라시보—환자에게 플라시보임을 명시적으로 알려주는 경우—도 여전히 치료적 효과를 낼 수 있다는 놀라운 연구 결과를 제시한다. 글의 논리적 반전으로 불가결한 문장이다.",
+          "5": "⑤는 플라시보 반응이 의식적 기대와 조건화된 생리 메커니즘 모두를 포함한다는 결론을 제시한다. 앞선 내용을 통합하는 마무리 문장이므로 제거할 수 없다."
+        },
+        "key_point": "글의 주제는 '플라시보 효과의 심리·생리 메커니즘'이다. ③의 '약물 부작용 공개 규제' 문장은 '제약 회사'·'약물'이라는 어휘 때문에 의료 맥락에 맞아 보이지만, 내용은 플라시보 기전이 아닌 규제 행정이므로 무관하다. 나머지 문장들은 플라시보가 왜, 어떻게 실제 생리적 변화를 일으키는지에 대한 일관된 논의로 이어진다."
+      }
+    },
+    {
+      "id": "v2-35-04",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "The concept of choice overload proposes that an excess of options can paradoxically reduce decision satisfaction and willingness to choose at all. The classic demonstration is Iyengar and Lepper's jam study, in which shoppers exposed to 24 varieties of jam were less likely to make a purchase than those shown only six options. ① This counterintuitive result challenges the assumption, common in economics, that more choice always increases utility and consumer welfare. ② Follow-up research has replicated the overload effect in domains ranging from mutual funds and health insurance plans to job candidates and romantic partners. ③ Psychologists propose that the cognitive burden of comparing many options triggers regret anticipation — the fear of making a suboptimal choice — which can cause people to defer or abandon the decision entirely. ④ Consumer preference data collected through loyalty programs has become a multibillion-dollar commercial asset, traded between corporations for targeted advertising purposes. ⑤ Reducing the number of options, or organizing them into meaningful categories, has been shown to restore decision confidence and increase purchase rates.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Choice overload: evidence, psychological mechanism (regret anticipation), and remedies",
+        "irrelevantSentence": "④ is about consumer preference data from loyalty programs being monetized as a commercial asset — uses 'consumer' vocabulary but concerns data commerce, not the psychological burden of too many choices.",
+        "remainingFlow": "Intro (excess options reduce satisfaction) → ① challenges economic assumption that more choice is better → ② effect replicated across many domains → ③ cognitive burden triggers regret anticipation, causing decision avoidance → ⑤ fewer, organized options restore confidence. Coherent without ④.",
+        "subtletyCheck": "④ mentions 'consumer preference' — plausibly linked to the consumer choice context — but its argument is about data monetization between corporations, a different domain.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "④는 로열티 프로그램을 통해 수집된 소비자 선호 데이터가 수십억 달러 규모의 상업적 자산이 되어 타겟 광고 목적으로 기업 간에 거래된다는 내용이다. '소비자'라는 단어가 선택 과부하 맥락과 겹치지만, 이 문장의 실제 주장은 데이터 상업화에 관한 것이다. 나머지 글은 잼 연구 → 경제학적 가정 도전 → 다양한 분야의 과부하 효과 복제 → 후회 예측 메커니즘 → 선택지 축소·분류의 효과라는 '선택 과부하의 심리학'을 일관되게 다루므로, ④는 무관하다.",
+        "wrong": {
+          "1": "①은 '더 많은 선택은 항상 효용을 높인다'는 경제학의 가정에 이 잼 연구 결과가 도전한다고 설명한다. 글의 주장을 경제학 이론과 연결하는 중요한 문장이다.",
+          "2": "②는 선택 과부하 효과가 뮤추얼 펀드, 건강 보험, 구직 후보자, 연애 상대 등 다양한 분야에서 재현되었다고 설명한다. 현상의 일반성을 확인하는 필수적 확장 내용이다.",
+          "3": "③은 심리학자들이 후회 예측—최적이 아닌 선택을 할 것에 대한 두려움—이 결정을 미루거나 포기하게 만드는 인지적 부담을 유발한다고 제안한다. 선택 과부하의 심리적 메커니즘을 설명하는 핵심 문장이다.",
+          "5": "⑤는 선택지 수를 줄이거나 의미 있는 범주로 구성하면 결정 자신감이 회복되고 구매율이 높아진다고 설명한다. 실용적 해결책을 제시하는 결론 부분으로 불가결하다."
+        },
+        "key_point": "글의 주제는 '선택 과부하: 지나친 선택지가 오히려 결정 만족도와 의지를 줄인다는 심리 현상'이다. ④의 '소비자 데이터 상업화' 문장은 '소비자 선호'라는 어휘가 선택 맥락과 겹쳐 혼동되기 쉽지만, 내용은 데이터 거래 산업이므로 선택 과부하 심리학과 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-05",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "Biomimicry is a design philosophy that draws on solutions evolved over billions of years of natural selection to solve human engineering challenges. Rather than inventing from scratch, biomimetic engineers study organisms and translate their functional strategies into technological applications. ① The sharkskin-inspired riblet texture applied to aircraft fuselages reduces aerodynamic drag by disrupting the turbulent boundary layer in the same way shark scales minimize drag during swimming. ② The adhesive toe pads of geckos, which rely on billions of nanoscale hairs creating van der Waals forces rather than sticky chemicals, have inspired dry adhesives that work in a vacuum. ③ Some of the most commercially successful applications of biomimicry are found in the textile and sporting goods industries, where performance materials mimic the insulating properties of penguin feathers and the water-repellency of the lotus leaf. ④ Beyond materials, architects have applied termite mound ventilation principles to design buildings that maintain comfortable temperatures without conventional air conditioning. ⑤ Conservation biologists have called for stricter international regulations on habitat destruction, arguing that undiscovered species may hold the key to future medical breakthroughs.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Biomimicry: engineering and design solutions inspired by natural organisms",
+        "irrelevantSentence": "⑤ is about conservation biologists advocating for habitat protection regulations to preserve species with potential medical value — shares 'species' and 'biological' vocabulary but makes a conservation policy argument, not a biomimetic engineering example.",
+        "remainingFlow": "Intro (biomimetic engineers translate natural strategies into technology) → ① sharkskin riblets reduce aircraft drag → ② gecko toe pads inspire dry adhesives → ③ textile/sporting goods mimic penguin feathers and lotus leaf → ④ termite mound ventilation applied to building design. Coherent without ⑤.",
+        "subtletyCheck": "⑤ mentions 'species' and 'undiscovered species,' which echoes the biological inspiration theme of the passage, but its concern is regulatory habitat policy and pharmaceutical discovery rather than any engineered biomimetic application.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "⑤는 보전 생물학자들이 서식지 파괴에 대한 더 엄격한 국제 규제를 촉구하며, 발견되지 않은 종들이 미래 의학 발전의 열쇠가 될 수 있다고 주장한다는 내용이다. '종'과 '생물학적' 어휘가 지문과 겹치지만, 실제 내용은 보전 정책과 제약 발견이다. 나머지 글은 상어 비늘 → 도마뱀붙이 발가락 → 펭귄 깃털·연잎 → 흰개미 둥지 환기라는 자연 모방 공학 사례들을 일관되게 다루므로, ⑤는 무관하다.",
+        "wrong": {
+          "1": "①은 항공기 동체에 적용된 상어 비늘에서 영감받은 리블릿 질감이 난류 경계층을 교란하여 공기역학적 항력을 줄인다고 설명한다. 구체적인 생체 모방 공학 응용 사례로 핵심 문장이다.",
+          "2": "②는 도마뱀붙이 발가락 패드의 반데르발스 힘 원리에서 영감받은 건식 점착제가 진공 중에서도 작동한다고 설명한다. 또 다른 생체 모방 응용으로 흐름에 필수적이다.",
+          "3": "③은 텍스타일·스포츠 용품 분야에서 펭귄 깃털의 단열성과 연잎의 발수성을 모방한 소재가 상업적으로 성공했다고 설명한다. 생체 모방의 산업적 적용을 보여 주는 중요한 사례이다.",
+          "4": "④는 건축가들이 흰개미 둥지의 환기 원리를 적용하여 기존 에어컨 없이 쾌적한 온도를 유지하는 건물을 설계했다고 설명한다. 소재를 넘어 건축까지 확장된 생체 모방 응용 사례이다."
+        },
+        "key_point": "글의 주제는 '자연의 진화적 해결책을 공학에 적용하는 생체 모방 설계'이다. ⑤의 '서식지 보호 규제 촉구' 문장은 '종'·'생물학적' 어휘가 생물학적 영감 테마와 겹쳐 보이지만, 내용은 보전 정책과 제약 발견이므로 공학적 생체 모방 논의와 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-06",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "easy",
+      "passage": "Soil is far more than a passive growing medium — it is a living ecosystem teeming with microorganisms that drive nutrient cycles essential to plant life. A single teaspoon of healthy topsoil can contain billions of bacteria, fungi, protozoa, and nematodes, each playing specific roles in decomposing organic matter and releasing nutrients. ① Global fertilizer prices have experienced extreme volatility in recent years due to energy costs and geopolitical disruptions in major producing countries. ② Among the most important microbial relationships is the mycorrhizal network, in which fungal threads connect plant roots, facilitating the exchange of water, phosphorus, and carbon between plants. ③ This underground wood wide web allows established trees to share resources with weaker seedlings, supporting forest regeneration. ④ The loss of biodiversity in soil microbial communities through overuse of chemical fertilizers and pesticides reduces the land's natural capacity for self-renewal. ⑤ Restoring soil health therefore requires shifting toward practices that rebuild microbial diversity, such as cover cropping and reduced tillage.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Soil as a living microbial ecosystem: mycorrhizal networks, threats to microbial diversity, and restoration strategies",
+        "irrelevantSentence": "① discusses global fertilizer price volatility caused by energy costs and geopolitics — mentions 'fertilizer' which is soil-adjacent, but the actual claim is economic and geopolitical rather than biological.",
+        "remainingFlow": "Intro (soil teems with microorganisms driving nutrient cycles) → ② mycorrhizal network exchanges water, phosphorus, and carbon → ③ wood wide web allows resource sharing between trees → ④ chemical overuse destroys microbial diversity → ⑤ restoration via cover cropping and reduced tillage. Coherent without ①.",
+        "subtletyCheck": "① mentions 'fertilizer,' a term associated with soil and agriculture, but commodity price volatility is an economic topic unrelated to soil biology.",
+        "difficultyLevel": "easy"
+      },
+      "explanations": {
+        "correct": "①은 에너지 비용과 주요 생산국의 지정학적 혼란으로 인해 세계 비료 가격이 최근 몇 년간 극심한 변동성을 겪었다는 내용이다. '비료'가 토양·농업과 연결되는 단어이지만, 실제 주장은 원자재 가격 경제학이다. 나머지 글은 균근 네트워크 → 지하 '우드 와이드 웹' → 화학 비료·농약의 미생물 다양성 파괴 → 복원 방법이라는 토양 미생물 생태계를 일관되게 다루므로, ①은 무관하다.",
+        "wrong": {
+          "2": "②는 균근 네트워크에서 균류의 실이 식물 뿌리를 연결하여 물·인·탄소 교환을 가능하게 한다고 설명한다. 토양 미생물 생태계의 핵심 관계를 제시하는 필수 문장이다.",
+          "3": "③은 지하 '우드 와이드 웹'이 수립된 나무들로 하여금 약한 묘목에게 자원을 공유하게 하여 산림 재생을 돕는다고 설명한다. ②의 균근 네트워크가 실제로 작동하는 방식을 보여 주는 확장 문장이다.",
+          "4": "④는 화학 비료와 농약의 남용으로 인한 토양 미생물 군집의 다양성 손실이 토지의 자기 갱신 능력을 떨어뜨린다고 설명한다. 위협 요인을 다루는 글의 핵심 경고 내용이다.",
+          "5": "⑤는 따라서 토양 건강 복원에는 미생물 다양성을 재건하는 덮개 작물 재배와 감소된 경운 같은 방법으로의 전환이 필요하다고 결론짓는다. 앞선 위협에 대한 해결책을 제시하는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '살아있는 미생물 생태계로서의 토양과 균근 네트워크'이다. ①의 '비료 가격 변동성' 문장은 '비료'라는 단어가 토양·농업과 연결되어 혼동을 유발하지만, 원자재 경제학은 토양 생물학과 무관하다. 나머지 문장들은 모두 지하 미생물 상호작용이라는 하나의 주제로 연결된다."
+      }
+    },
+    {
+      "id": "v2-35-07",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "easy",
+      "passage": "Emotional contagion — the tendency to automatically mimic and synchronize with the emotions of others — is a fundamental mechanism underlying social bonding and empathy. When we observe another person's facial expression, our own facial muscles often involuntarily contract in a similar pattern, generating a faint echo of the same emotional state. ① This motor mimicry feeds back to the brain through sensory channels, producing a felt sense of sharing the other person's emotion rather than merely observing it. ② Social media platforms employ algorithmic feed curation designed to maximize emotional engagement, which critics argue amplifies outrage and anxiety at a population scale. ③ Laboratory studies using facial electromyography have confirmed that this automatic mimicry occurs within fractions of a second, below the threshold of conscious awareness. ④ Infants as young as 36 hours old have been observed to imitate the facial expressions of adults, suggesting that emotional contagion has deep evolutionary roots. ⑤ Research across cultures indicates that individuals with higher susceptibility to emotional contagion tend to score higher on measures of interpersonal sensitivity and prosocial behavior.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Emotional contagion: the mechanism of motor mimicry and its evolutionary and social significance",
+        "irrelevantSentence": "② discusses social media algorithmic curation amplifying emotional responses at a population scale — uses 'emotional engagement' but is about platform design and media criticism, not the biological mechanism of facial mimicry and emotional synchrony.",
+        "remainingFlow": "Intro (automatic mimicry of facial expressions produces shared emotional state) → ① motor mimicry produces a felt sense of the other's emotion → ③ electromyography confirms mimicry occurs below conscious awareness → ④ even 36-hour-old infants imitate expressions, suggesting evolutionary roots → ⑤ susceptibility to contagion correlates with prosocial behavior. Coherent without ②.",
+        "subtletyCheck": "② uses 'emotional engagement,' which superficially maps onto emotional contagion, but the mechanism (algorithmic feed curation) is a platform engineering issue, not the interpersonal motor mimicry described in the passage.",
+        "difficultyLevel": "easy"
+      },
+      "explanations": {
+        "correct": "②는 소셜 미디어 플랫폼들이 감정적 참여를 극대화하도록 설계된 알고리즘 피드 큐레이션을 활용하며, 비평가들은 이것이 인구 규모에서 분노와 불안을 증폭시킨다고 주장한다는 내용이다. '감정적 참여'가 감정 전염과 표면적으로 연결되지만, 이 문장의 실제 메커니즘은 플랫폼 공학이다. 나머지 글은 표정 모방 → 운동 모방의 감각 피드백 → 근전도 검사로 확인된 무의식적 모방 → 신생아의 표정 모방 → 감정 전염 민감성과 친사회적 행동의 상관관계라는 '대인 간 운동 모방의 생물학적 메커니즘'을 일관되게 다루므로, ②는 무관하다.",
+        "wrong": {
+          "1": "①은 운동 모방이 감각 채널을 통해 뇌에 피드백되어 단순히 관찰하는 것이 아닌 타인의 감정을 공유하는 느낌을 만든다고 설명한다. 감정 전염의 인지 메커니즘을 설명하는 핵심 문장이다.",
+          "3": "③은 안면 근전도 검사를 사용한 실험실 연구가 자동 모방이 의식적 인식 역치 아래, 즉 수십 분의 일 초 만에 발생한다는 것을 확인했다고 설명한다. 메커니즘의 무의식성과 속도를 입증하는 중요한 증거이다.",
+          "4": "④는 생후 36시간밖에 되지 않은 신생아도 어른의 표정을 모방하는 것이 관찰되었으며, 이는 감정 전염이 깊은 진화적 뿌리를 갖고 있음을 시사한다고 설명한다. 글의 진화적 기원 주장을 뒷받침하는 핵심 근거이다.",
+          "5": "⑤는 문화 전반에 걸친 연구에서 감정 전염에 더 민감한 개인이 대인 감수성과 친사회적 행동 측정치에서 더 높은 점수를 보이는 경향이 있음을 나타낸다고 설명한다. 현상의 사회적 의미를 결론짓는 문장이다."
+        },
+        "key_point": "글의 주제는 '감정 전염: 자동 표정 모방의 생물학적 메커니즘과 사회적 의의'이다. ②의 '소셜 미디어 알고리즘' 문장은 '감정적 참여'라는 표현이 감정 전염과 겹쳐 보이지만, 내용은 플랫폼 설계 문제이므로 대인 간 운동 모방 논의와 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-08",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "easy",
+      "passage": "The domestication of fire fundamentally transformed human evolutionary and cultural history. Cooking with fire made calories more bioavailable, enabling the energy demands of growing larger brains to be met with less foraging time. ① The global fossil fuel industry, which relies on combustion as its core energy-conversion process, is now the primary source of anthropogenic greenhouse gas emissions driving climate change. ② The resulting reduction in gut size — no longer needed to process large volumes of raw plant material — freed up energy that could be redirected to brain development. ③ Warmth from fire extended habitable hours into cold nights, facilitated migration into colder climates, and altered sleep patterns by creating a safe, illuminated social space after dark. ④ Around a fire, early human groups shared food, exchanged knowledge, and engaged in storytelling, accelerating the transmission of cultural practices across generations. ⑤ The control of fire also provided protection from predators, allowing groups to rest more securely and dedicate less vigilance to survival threats.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "The transformative role of fire domestication in human evolution: diet, migration, social bonding, and protection",
+        "irrelevantSentence": "① discusses the modern fossil fuel industry and anthropogenic greenhouse gas emissions — uses 'combustion,' a fire-related term, but concerns contemporary industrial energy production and climate change, entirely separate from the prehistoric human evolution narrative.",
+        "remainingFlow": "Intro (fire made calories bioavailable, supported brain growth) → ② reduced gut size freed energy for brain development → ③ warmth extended habitable hours, enabled cold migration, altered sleep → ④ fire enabled social bonding and cultural transmission → ⑤ fire protected from predators. Coherent without ①.",
+        "subtletyCheck": "① invokes 'combustion' which is technically a fire-related process, creating domain overlap, but the modern industrial and climate change context is far removed from the prehistoric human evolution argument.",
+        "difficultyLevel": "easy"
+      },
+      "explanations": {
+        "correct": "①은 연소를 핵심 에너지 전환 과정으로 사용하는 현대 화석 연료 산업이 현재 기후 변화를 유발하는 인위적 온실가스 배출의 주요 원천이라는 내용이다. '연소'가 불과 기술적으로 연관되지만, 실제 맥락은 현대 산업 에너지 생산과 기후 변화이다. 나머지 글은 칼로리 생체 이용률 향상 → 장 크기 감소·뇌 발달로의 에너지 재분배 → 체온 유지·추운 기후로의 이주·수면 패턴 변화 → 음식 공유·지식 교환·문화 전달 → 포식자 보호라는 '불의 가축화가 인간 진화와 문화에 미친 영향'을 일관되게 다루므로, ①은 무관하다.",
+        "wrong": {
+          "2": "②는 더 이상 대량의 날음식 재료를 처리할 필요가 없어 줄어든 장 크기 덕분에 에너지가 뇌 발달로 재분배될 수 있었다고 설명한다. 도입부의 뇌 성장 주장을 생리학적으로 구체화하는 핵심 문장이다.",
+          "3": "③은 불의 온기가 추운 밤으로 거주 가능 시간을 연장하고, 추운 기후로의 이주를 가능하게 하며, 어두운 후에도 안전하고 밝은 사회적 공간을 만들어 수면 패턴을 바꿨다고 설명한다. 불의 문화적·지리적 영향을 다루는 중요한 확장 문장이다.",
+          "4": "④는 불 주변에서 초기 인간 집단이 음식을 공유하고 지식을 교환하며 이야기를 나눔으로써 문화적 관행의 전달이 세대를 거쳐 가속되었다고 설명한다. 불의 사회적 유대 기능을 설명하는 핵심 내용이다.",
+          "5": "⑤는 불 통제가 포식자로부터 보호를 제공하여 집단이 더 안전하게 휴식하고 생존 위협에 대한 경계심을 덜 쏟을 수 있게 했다고 설명한다. 생존 측면의 또 다른 중요한 혜택을 다루는 필수 문장이다."
+        },
+        "key_point": "글의 주제는 '불의 가축화가 인간 진화와 문화를 근본적으로 변화시켰다는 역사적 서술'이다. ①의 '화석 연료 산업과 기후 변화' 문장은 '연소'라는 공통 단어 때문에 혼동되기 쉽지만, 선사 시대 인간 진화가 아닌 현대 산업·환경 문제를 다루므로 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-09",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "The bystander effect describes the phenomenon in which individuals are less likely to offer help in an emergency when other people are present. The first systematic study of this effect was triggered by the 1964 murder of Kitty Genovese, whose case — though later found to have been partly misreported — generated significant psychological research into the conditions that inhibit helping behavior. ① Two key mechanisms underlie the effect: diffusion of responsibility, in which each bystander assumes someone else will act, and pluralistic ignorance, in which individuals look to others for cues and, seeing no one react, conclude that the situation is not an emergency. ② Subsequent experiments by Latané and Darley showed that as group size increased, the likelihood of any individual helping decreased in a reliable and measurable way. ③ Emergency response training programs in schools have significantly increased the rate of bystander CPR administration, improving cardiac arrest survival rates in community settings. ④ The effect has been found to generalize beyond physical emergencies to online contexts, where large numbers of witnesses to harassment often fail to intervene or report the behavior. ⑤ Awareness of the bystander effect does not fully inoculate against it, though it does modestly increase the probability of intervention.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "The bystander effect: psychological mechanisms, experimental evidence, generalization to online contexts, and limits of awareness",
+        "irrelevantSentence": "③ is about emergency response training programs improving CPR rates in community settings — uses 'bystander CPR' but focuses on the positive outcomes of intervention training rather than the psychological mechanism of inaction that is the passage's subject.",
+        "remainingFlow": "Intro (people less likely to help when others are present) → ① diffusion of responsibility and pluralistic ignorance mechanisms → ② Latané and Darley: larger groups reduce individual helping → ④ effect generalizes to online harassment contexts → ⑤ awareness moderately increases intervention probability. Coherent without ③.",
+        "subtletyCheck": "③ uses 'bystander CPR,' directly echoing the passage's central term, but the content describes training outcomes that increase helping behavior — the opposite phenomenon from what the passage analyzes.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "③은 학교의 응급 처치 교육 프로그램들이 목격자의 CPR 시행률을 크게 높여 지역 사회 내 심정지 생존율을 향상시켰다는 내용이다. '목격자 CPR'이 지문의 핵심 용어를 직접 반향하지만, 이 문장의 내용은 개입을 늘리는 훈련 성과—즉 지문이 분석하는 '도움을 주지 않는 심리적 메커니즘'과 정반대 현상—이다. 나머지 글은 방관자 효과의 정의 → 책임 분산과 다원적 무지 메커니즘 → Latané와 Darley 실험(집단 크기와 개입 감소) → 온라인 맥락으로의 일반화 → 인식이 부분적으로 개입 확률을 높임이라는 일관된 흐름을 보이므로, ③은 무관하다.",
+        "wrong": {
+          "1": "①은 두 가지 핵심 메커니즘—책임 분산(다른 누군가가 행동할 것이라고 가정)과 다원적 무지(아무도 반응하지 않는 것을 보고 비응급 상황으로 판단)—을 설명한다. 방관자 효과의 심리적 이유를 해명하는 핵심 문장이다.",
+          "2": "②는 Latané와 Darley의 후속 실험이 집단 크기가 커질수록 개인이 도움을 줄 가능성이 신뢰할 수 있고 측정 가능한 방식으로 감소한다는 것을 보여 주었다고 설명한다. 방관자 효과에 대한 중요한 실험 증거이다.",
+          "4": "④는 방관자 효과가 신체적 응급 상황을 넘어 온라인 맥락에서도 일반화된다는 것이 밝혀졌으며, 많은 수의 목격자가 종종 괴롭힘에 개입하거나 신고하지 못한다고 설명한다. 현상의 일반성을 확장하는 중요한 현대적 적용이다.",
+          "5": "⑤는 방관자 효과에 대한 인식이 그것을 완전히 예방하지는 못하지만, 개입 확률을 약간 높인다고 설명한다. 인식의 효과를 현실적으로 평가하는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '방관자 효과: 타인이 있을 때 도움을 주지 않게 되는 심리적 메커니즘'이다. ③의 '응급 처치 훈련 성과' 문장은 '목격자 CPR'이라는 표현이 지문의 핵심 단어와 정확히 일치하지만, 내용이 도움을 늘리는 훈련 결과—지문과 반대 방향의 현상—이므로 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-10",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "Terraced agriculture, developed independently in the Andes, Southeast Asia, and the Middle East, represents one of humanity's most enduring solutions to the challenge of farming steep hillside terrain. By cutting flat steps into slopes, farmers prevent rainwater runoff, reduce soil erosion, and create microclimatic conditions that differ significantly from those of the surrounding hillside. ① In contemporary landscape design, the terraced aesthetic has been adapted for ornamental garden architecture, with cascading planting beds used in urban rooftop gardens and public parks. ② The varying temperature and moisture conditions across terrace levels allow farmers to cultivate different crops in close proximity, increasing agricultural diversity and resilience against crop failure. ③ Terrace walls, typically built from local stone without mortar, require continuous maintenance — the neglect of a single wall section can trigger a cascade of failures down the slope. ④ Ethnobotanical studies have documented over four hundred traditional crop varieties maintained by Andean communities that are not found in any global seed bank. ⑤ The social organization required to build and maintain terrace systems has historically reinforced cooperative community structures, linking agricultural infrastructure to social cohesion.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Terraced agriculture: functional benefits, maintenance demands, crop diversity, and social organization",
+        "irrelevantSentence": "① is about the terraced aesthetic being adapted for ornamental urban garden design — uses 'terraced' and 'cascading' vocabulary from the passage but shifts from agricultural function and social organization to decorative landscape architecture.",
+        "remainingFlow": "Intro (terracing prevents erosion and creates microclimates) → ② varying microclimate allows diverse crops, building resilience → ③ wall maintenance prevents cascade failure → ④ Andean communities maintain traditional crop varieties → ⑤ social organization reinforces cooperative community structures. Coherent without ①.",
+        "subtletyCheck": "① uses 'terraced,' 'cascading planting beds,' and 'urban rooftop gardens,' creating surface-level continuity with the passage's vocabulary, but its domain is ornamental design rather than agricultural engineering or social cohesion.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "①은 현대 조경 설계에서 계단식 미학이 장식용 정원 건축에 채택되어, 도시 옥상 정원과 공공 공원에 단계적 식재 화단이 사용된다는 내용이다. '계단식'과 '단계적 식재 화단'이라는 어휘가 지문과 표면적으로 겹치지만, 이 문장의 영역은 장식적 조경 설계이다. 나머지 글은 침식 방지·미기후 조성 → 다양한 작물 재배와 회복력 → 석벽 유지 관리의 필요성 → 안데스 전통 작물 품종 보존 → 협동 공동체 구조 강화라는 '계단식 농업의 기능적·생태적·사회적 측면'을 일관되게 다루므로, ①은 무관하다.",
+        "wrong": {
+          "2": "②는 테라스 단계별로 다른 온도와 수분 조건이 다양한 작물을 가까이에서 재배하게 하여 농업 다양성과 작물 실패에 대한 회복력을 높인다고 설명한다. 계단식 농업의 핵심 기능적 이점을 다루는 필수 문장이다.",
+          "3": "③은 일반적으로 모르타르 없이 현지 돌로 지어진 테라스 벽이 지속적인 유지 관리가 필요하며, 단 하나의 벽 부분이 방치되면 경사면을 따라 연쇄 붕괴를 촉발할 수 있다고 설명한다. 유지 관리의 중요성을 강조하는 핵심 내용이다.",
+          "4": "④는 민족 식물학 연구들이 안데스 공동체가 세계 어떤 종자 은행에도 없는 400개 이상의 전통 작물 품종을 유지하고 있음을 기록했다고 설명한다. 계단식 농업의 작물 다양성 보전 기능을 뒷받침하는 중요한 증거이다.",
+          "5": "⑤는 테라스 시스템 구축과 유지에 필요한 사회적 조직이 역사적으로 협동 공동체 구조를 강화하여 농업 인프라를 사회적 결속과 연결했다고 설명한다. 계단식 농업의 사회적 차원을 다루는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '계단식 농업의 기능적·생태적·사회적 측면'이다. ①의 '도시 옥상 정원 조경 설계' 문장은 '계단식'·'단계적 화단'이라는 어휘가 정확히 일치하여 혼동되기 매우 쉽지만, 내용은 농업 공학이나 사회 조직이 아닌 장식적 조경이므로 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-11",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "easy",
+      "passage": "The spacing effect in learning refers to the well-replicated finding that information is retained more durably when study sessions are distributed over time rather than concentrated in a single block. When material is reviewed at increasing intervals — a strategy known as spaced repetition — each retrieval attempt strengthens the memory trace more effectively than massing practice. ① Publishers of test preparation books often advertise their products with testimonials from high-scoring students, emphasizing speed of completion rather than depth of understanding. ② Laboratory experiments consistently show that students who space their study sessions outperform those who mass-practice, even when total study time is held constant. ③ The advantage of spaced practice appears to arise from the desirable difficulty hypothesis: the slight difficulty of retrieving partially forgotten information forces deeper cognitive processing than retrieving freshly studied material. ④ Spaced repetition software applications that dynamically adjust review intervals based on individual recall performance have made it easier to implement this principle systematically. ⑤ Given the robust evidence base and ease of implementation, educators increasingly advocate for integrating spaced practice schedules into formal curricula rather than leaving study strategies to chance.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "The spacing effect and spaced repetition: evidence, mechanism, technological implementation, and educational advocacy",
+        "irrelevantSentence": "① is about test preparation book publishers advertising with testimonials and emphasizing speed — adjacent to study and test preparation but about commercial marketing practices, not the learning science of distributed practice.",
+        "remainingFlow": "Intro (spaced retrieval strengthens memory better than massing) → ② lab evidence: spaced outperforms massed even with equal total time → ③ desirable difficulty hypothesis explains the benefit → ④ spaced repetition software enables dynamic scheduling → ⑤ educators advocate curricula integration. Coherent without ①.",
+        "subtletyCheck": "① mentions 'test preparation' and 'high-scoring students,' connecting superficially to the study/learning domain, but its content concerns publishing marketing rather than the distributed practice phenomenon.",
+        "difficultyLevel": "easy"
+      },
+      "explanations": {
+        "correct": "①은 시험 준비 교재 출판사들이 고득점 학생들의 추천사로 광고하며, 깊은 이해보다 빠른 완료를 강조한다는 내용이다. '시험 준비'와 '고득점 학생'이 학습 영역과 표면적으로 연결되지만, 이 문장의 실제 내용은 출판업 마케팅이다. 나머지 글은 분산 연습의 효과 → 균등한 총 학습 시간에도 분산이 집중보다 우수 → 바람직한 어려움 가설(인출 난이도가 처리 깊이를 높임) → 간격 반복 소프트웨어의 구현 → 교육과정 통합 촉구라는 '간격 효과의 과학적 근거와 응용'을 일관되게 다루므로, ①은 무관하다.",
+        "wrong": {
+          "2": "②는 총 학습 시간이 동일하게 유지되더라도 분산 학습을 한 학생들이 집중 학습을 한 학생들보다 꾸준히 더 좋은 성과를 낸다고 설명한다. 간격 효과의 핵심 실험 증거를 제공하는 필수 문장이다.",
+          "3": "③은 분산 연습의 이점이 바람직한 어려움 가설—부분적으로 잊혀진 정보를 인출하는 약간의 어려움이 새로 학습한 자료를 인출하는 것보다 더 깊은 인지 처리를 강제함—에서 비롯되는 것으로 보인다고 설명한다. 이론적 메커니즘을 제공하는 핵심 문장이다.",
+          "4": "④는 개인의 회상 성과를 바탕으로 복습 간격을 동적으로 조정하는 간격 반복 소프트웨어 응용이 이 원리를 체계적으로 구현하기 쉽게 했다고 설명한다. 이론의 기술적 응용을 다루는 중요한 확장 내용이다.",
+          "5": "⑤는 강력한 증거 기반과 구현 용이성을 감안할 때, 교육자들이 연구 전략을 우연에 맡기기보다 공식 교육과정에 분산 연습 일정을 통합하도록 점점 더 지지하고 있다고 설명한다. 교육적 함의를 제시하는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '간격 효과와 분산 반복: 학습 과학의 증거, 메커니즘, 응용'이다. ①의 '교재 출판 마케팅' 문장은 '시험 준비'·'학생'이라는 어휘가 학습 영역과 겹쳐 보이지만, 내용은 상업적 광고 관행이므로 분산 연습의 학습 과학과 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-12",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "easy",
+      "passage": "Pollinators — including bees, butterflies, hoverflies, and certain birds and bats — are indispensable to the reproduction of the majority of flowering plant species and many food crops. Their decline, driven by habitat loss, pesticide exposure, disease, and climate change, poses a serious threat to global food security and ecosystem stability. ① Wild bees alone are estimated to contribute pollination services worth billions of dollars annually to agricultural systems worldwide. ② Beekeeping has experienced a surge of popular interest among urban dwellers, with rooftop hives now common in major cities as part of a broader sustainable living movement. ③ The genetic diversity maintained within wild pollinator populations provides resilience against novel pathogens and environmental stressors that managed honeybee colonies lack. ④ Restoration of wildflower meadows and hedgerows along agricultural field margins has been demonstrated to increase wild pollinator abundance and diversity in surrounding farmland. ⑤ Policy instruments such as agri-environment schemes provide financial incentives to farmers who adopt pollinator-friendly practices, recognizing that market prices alone do not capture the full value of pollination services.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Pollinator decline: economic and ecological importance, conservation strategies, and policy instruments",
+        "irrelevantSentence": "② is about the urban beekeeping lifestyle trend — adjacent to bees and pollinators but describing a social/hobby phenomenon rather than the ecological or agricultural conservation argument of the passage.",
+        "remainingFlow": "Intro (pollinators indispensable; decline threatens food security) → ① wild bees contribute billions in annual pollination value → ③ genetic diversity of wild pollinators builds resilience → ④ wildflower meadow restoration increases wild pollinator abundance → ⑤ agri-environment policy incentives support pollinator-friendly farming. Coherent without ②.",
+        "subtletyCheck": "② mentions 'beekeeping,' 'hives,' and connects to bees, but its focus on urban rooftop beekeeping as a sustainable living trend is sociologically distinct from the ecological and agricultural conservation argument.",
+        "difficultyLevel": "easy"
+      },
+      "explanations": {
+        "correct": "②는 도시 거주자들 사이에서 양봉에 대한 대중적 관심이 급증하여, 옥상 벌집이 더 광범위한 지속 가능한 생활 운동의 일환으로 주요 도시에서 흔해졌다는 내용이다. '양봉'과 '벌집'이 꿀벌·수분 매개자와 연결되지만, 이 문장은 도시 생활 방식의 사회적 트렌드를 다룬다. 나머지 글은 수분 서비스의 경제적 가치 → 야생 수분 매개자의 유전적 다양성과 회복력 → 야생화 초지 복원 → 농업환경 정책 도구라는 '수분 매개자 감소와 보전 전략'을 일관되게 다루므로, ②는 무관하다.",
+        "wrong": {
+          "1": "①은 야생 꿀벌만으로도 전 세계 농업 시스템에 연간 수십억 달러 가치의 수분 서비스를 제공하는 것으로 추산된다고 설명한다. 수분 매개자의 경제적 중요성을 수치로 제시하는 핵심 문장이다.",
+          "3": "③은 야생 수분 매개자 개체군 내에서 유지되는 유전적 다양성이 관리 꿀벌 군집에는 없는 새로운 병원균과 환경 스트레스 요인에 대한 회복력을 제공한다고 설명한다. 야생 수분 매개자 보전의 생태학적 필요성을 다루는 중요한 내용이다.",
+          "4": "④는 농업 경계를 따라 야생화 초지와 생울타리를 복원하는 것이 주변 농지의 야생 수분 매개자 개체 수와 다양성을 증가시키는 것으로 입증되었다고 설명한다. 서식지 복원이라는 실질적 보전 전략을 제시하는 필수 문장이다.",
+          "5": "⑤는 농업환경 계획 같은 정책 도구가 농부들에게 수분 매개자 친화적 관행을 채택하도록 금전적 인센티브를 제공하며, 시장 가격만으로는 수분 서비스의 전체 가치를 반영하지 못한다는 점을 인정한다고 설명한다. 정책적 해결책을 다루는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '수분 매개자 감소: 생태·경제적 중요성, 보전 전략, 정책 도구'이다. ②의 '도시 옥상 양봉 트렌드' 문장은 '양봉'·'벌집' 등의 어휘가 수분 매개자와 연결되지만, 내용은 사회적 생활 방식 트렌드이므로 생태·농업 보전 논의와 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-13",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "The endowment effect refers to the tendency for people to assign greater value to objects they already own than to identical objects they do not own. In the original experiments by Kahneman, Knetsch, and Thaler, participants who were given coffee mugs demanded roughly twice as much money to sell them as participants without mugs were willing to pay to acquire them. ① This asymmetry in valuation is explained by loss aversion — the well-documented finding that the psychological pain of losing something is approximately twice as powerful as the pleasure of gaining something of equal value. ② The effect is observed not only for physical objects but also for experiences, investment positions, and even abstract ideas that people have adopted as their own. ③ Auction houses that specialize in estate sales have developed sophisticated valuation models that account for sentimental inflation when appraising inherited items. ④ Importantly, the endowment effect appears to be attenuated when objects are explicitly framed as goods held for exchange rather than for personal use, suggesting that ownership mindset matters more than physical possession. ⑤ These findings challenge neoclassical economic models that assume preferences are independent of how goods are acquired or held.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "The endowment effect: mechanism through loss aversion, scope across domains, framing conditions, and challenge to neoclassical economics",
+        "irrelevantSentence": "③ is about estate sale auction house valuation models accounting for sentimental inflation — uses ownership and valuation vocabulary but addresses an appraisal industry practice rather than the psychological endowment effect.",
+        "remainingFlow": "Intro (people value owned objects more than identical unowned ones) → ① loss aversion explains the valuation asymmetry → ② effect extends to experiences, investments, and ideas → ④ effect weakens when objects are framed as exchange goods → ⑤ challenges neoclassical models of preference independence. Coherent without ③.",
+        "subtletyCheck": "③ mentions 'sentimental inflation,' which could seem related to the emotional attachment driving endowment, but its content describes professional appraisal industry methodology rather than the psychological phenomenon.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "③은 유산 판매를 전문으로 하는 경매 회사들이 상속받은 물건을 감정할 때 감정적 가격 부풀리기를 고려하는 정교한 평가 모델을 개발했다는 내용이다. '감정적 가격 부풀리기'가 소유 효과의 정서적 집착과 관련 있어 보이지만, 이 문장의 내용은 경매 산업의 전문 감정 방법론이다. 나머지 글은 소유 효과의 고전 실험 → 손실 회피로 설명 → 물리적 물건을 넘어 경험·투자·추상적 아이디어로 확장 → 교환 재화로 프레이밍 시 약화 → 신고전주의 경제 모형에 대한 도전이라는 '소유 효과의 심리학'을 일관되게 다루므로, ③은 무관하다.",
+        "wrong": {
+          "1": "①은 이 가치 평가 비대칭이 손실 회피—잃는 것의 심리적 고통이 동등한 가치의 것을 얻는 즐거움보다 약 두 배 강하다는 잘 입증된 발견—로 설명된다고 설명한다. 소유 효과의 심리적 메커니즘을 설명하는 핵심 문장이다.",
+          "2": "②는 효과가 물리적 물건뿐 아니라 경험, 투자 포지션, 심지어 자신이 채택한 추상적 아이디어에서도 관찰된다고 설명한다. 소유 효과의 일반성을 확장하는 중요한 문장이다.",
+          "4": "④는 소유 효과가 물건이 개인 사용이 아닌 교환용으로 보유한다고 명시적으로 프레이밍될 때 약화되는 것으로 보이며, 이는 소유 마음가짐이 물리적 소유보다 더 중요함을 시사한다고 설명한다. 소유 효과의 경계 조건을 밝히는 중요한 발견이다.",
+          "5": "⑤는 이러한 발견들이 선호도가 재화를 획득하거나 보유하는 방식과 독립적이라고 가정하는 신고전주의 경제 모형에 도전한다고 설명한다. 이론적 함의를 제시하는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '소유 효과: 이미 소유한 물건에 더 큰 가치를 부여하는 심리 현상'이다. ③의 '경매 회사 감정 방법론' 문장은 '감정적 가격 부풀리기'라는 표현이 소유 효과의 정서적 측면과 겹쳐 보이지만, 내용은 전문 감정 산업이므로 소유 효과의 심리학과 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-14",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "In evolutionary biology, sexual selection operates through two primary mechanisms: intrasexual competition, in which members of the same sex compete directly for mating access, and intersexual selection, in which members of one sex choose mates based on observable characteristics. Charles Darwin first proposed sexual selection to explain traits that impose survival costs yet persist — most famously the peacock's extravagant tail. ① The handicap principle, developed by Amotz Zahavi, argues that costly ornaments are honest signals of genetic quality precisely because only high-quality individuals can afford to bear their costs without suffering fatal disadvantage. ② Female mate choice therefore functions as a quality-screening mechanism, accumulating good genes in the population over generations. ③ In species with male parental investment, females tend to be the choosier sex, consistent with the prediction that greater investment increases selectivity regarding the genetic quality of offspring. ④ The commercial wedding industry exploits mating-related expenditure psychology by designing tiered luxury offerings that frame higher spending as a signal of partner commitment and social status. ⑤ Runaway selection models further predict that female preference and male trait can co-evolve in a self-reinforcing cycle, producing increasingly exaggerated ornaments even beyond any fitness threshold.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Sexual selection mechanisms: honest signaling, female choice, parental investment effects, and runaway selection",
+        "irrelevantSentence": "④ is about the wedding industry exploiting mating-expenditure psychology to sell luxury products — shares mating and signaling vocabulary but is a sociological or commercial observation, not an evolutionary biology mechanism.",
+        "remainingFlow": "Intro (intrasexual competition and intersexual selection explain costly traits) → ① handicap principle: costly ornaments are honest genetic quality signals → ② female choice accumulates good genes → ③ greater parental investment increases choosiness → ⑤ runaway selection produces increasingly exaggerated ornaments. Coherent without ④.",
+        "subtletyCheck": "④ references 'commitment signaling' and 'mating-related expenditure,' which superficially maps onto sexual selection signaling logic, but the content is about a commercial industry rather than a biological mechanism.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "④는 상업 웨딩 산업이 짝짓기 관련 지출 심리를 이용하여 더 높은 지출을 파트너 헌신과 사회적 지위의 신호로 프레이밍하는 계층화된 럭셔리 상품을 설계한다는 내용이다. '짝짓기 관련 지출'과 '신호'가 성 선택 신호 논리와 표면적으로 겹치지만, 이 문장의 내용은 상업 산업에 관한 것이다. 나머지 글은 비용이 많이 드는 장식이 정직한 유전자 품질 신호라는 핸디캡 원리 → 암컷 선택이 좋은 유전자를 축적하는 메커니즘 → 부모 투자와 선택성의 관계 → 폭주 선택 모델이라는 '성 선택의 생물학적 메커니즘'을 일관되게 다루므로, ④는 무관하다.",
+        "wrong": {
+          "1": "①은 Amotz Zahavi가 개발한 핸디캡 원리가 비용이 많이 드는 장식물이 오직 고품질 개체만이 치명적 불이익 없이 그 비용을 감당할 수 있기 때문에 유전자 품질의 정직한 신호라고 주장한다고 설명한다. 성 선택 이론의 핵심 메커니즘을 제공하는 필수 문장이다.",
+          "2": "②는 암컷 배우자 선택이 따라서 세대를 거쳐 개체군에 좋은 유전자를 축적하는 품질 선별 메커니즘으로 기능한다고 설명한다. 암컷 선택의 진화적 결과를 설명하는 중요한 문장이다.",
+          "3": "③은 수컷의 부모 투자가 있는 종에서 암컷이 더 선별적인 성이 되는 경향이 있으며, 이는 더 많은 투자가 새끼의 유전적 품질에 대한 선택성을 높인다는 예측과 일치한다고 설명한다. 부모 투자 이론을 성 선택과 연결하는 중요한 확장 내용이다.",
+          "5": "⑤는 폭주 선택 모델이 암컷 선호도와 수컷 형질이 상호 강화하는 사이클로 공진화하여 점점 더 과장된 장식물을 만들어 낼 수 있다고 추가로 예측한다고 설명한다. 성 선택 이론의 또 다른 메커니즘을 제공하는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '성 선택의 메커니즘: 정직한 신호, 암컷 선택, 부모 투자, 폭주 선택'이라는 생물학적 논의이다. ④의 '웨딩 산업 마케팅' 문장은 '짝짓기 지출'·'신호'라는 어휘가 성 선택 용어와 겹쳐 보이지만, 내용은 상업 산업이므로 생물학적 성 선택 메커니즘과 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-15",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "The development of the printing press by Johannes Gutenberg in the mid-fifteenth century did not merely accelerate the reproduction of texts — it fundamentally restructured the relationship between knowledge, authority, and literacy. Before printing, manuscripts were produced slowly by hand and concentrated in monasteries and royal courts, making literacy a privilege of the elite. ① The mass production of books and pamphlets at dramatically lower cost disrupted existing information monopolies and created new reading publics no longer dependent on clerical intermediaries for access to scripture and scholarship. ② Lutheran reformers were among the first to exploit the printing press strategically, circulating vernacular translations of the Bible that bypassed the Latin-educated clergy's interpretive authority. ③ The expansion of literacy rates in post-Reformation Europe was closely associated with Protestant denominations' emphasis on individual scripture reading as a religious obligation. ④ The availability of printed legal texts also began to standardize laws across regions, undermining locally variable customary practices and contributing to the consolidation of national legal systems. ⑤ Contemporary digital publishing platforms have eliminated physical printing costs entirely, enabling individual authors to self-publish without the mediation of traditional editors or distributors.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "The printing press and its transformation of knowledge authority, literacy, religious reform, and legal standardization",
+        "irrelevantSentence": "⑤ is about contemporary digital publishing platforms eliminating printing costs for individual authors — uses 'publishing,' 'authors,' 'editors,' and 'distributors' from the print culture domain but refers to twenty-first century digital technology, not the fifteenth-century transformation being analyzed.",
+        "remainingFlow": "Intro (printing restructured knowledge, authority, and literacy) → ① mass production disrupted information monopolies → ② Lutheran reformers used print to bypass clergy → ③ literacy expanded through Protestant emphasis on personal Bible reading → ④ printed legal texts standardized laws across regions. Coherent without ⑤.",
+        "subtletyCheck": "⑤ directly uses 'publishing' and 'editors,' fitting the print culture vocabulary of the passage, but its subject is twenty-first century digital self-publishing, not the Gutenberg-era transformation being analyzed.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "⑤는 현대 디지털 출판 플랫폼들이 물리적 인쇄 비용을 완전히 없애, 개인 작가들이 전통적인 편집자나 유통사의 중개 없이 자비 출판할 수 있게 했다는 내용이다. '출판'·'편집자'·'유통사'가 인쇄 문화 어휘에 맞지만, 이 문장의 주제는 21세기 디지털 자가 출판이다. 나머지 글은 대량 생산으로 인한 정보 독점 해체 → 루터파 개혁가들의 인쇄기 전략적 활용 → 문자 해독률과 프로테스탄트 성경 읽기의 연관 → 인쇄된 법률 문서가 지역 관습법을 표준화한 15세기 구텐베르크 시대의 변혁을 일관되게 다루므로, ⑤는 무관하다.",
+        "wrong": {
+          "1": "①은 대폭 낮아진 비용의 책과 팸플릿의 대량 생산이 기존 정보 독점을 무너뜨리고 성직자 중개인에 의존하지 않아도 되는 새로운 독자 대중을 만들었다고 설명한다. 인쇄기가 권위 구조를 변화시킨 방식을 다루는 핵심 문장이다.",
+          "2": "②는 루터파 개혁가들이 라틴어 교육을 받은 성직자의 해석 권위를 우회하는 성경의 자국어 번역을 유포하여 인쇄기를 전략적으로 가장 먼저 활용했다고 설명한다. 인쇄기의 종교 개혁에의 응용을 보여 주는 중요한 역사적 사례이다.",
+          "3": "③은 종교 개혁 후 유럽에서의 문자 해독률 확산이 개인 성경 읽기를 종교적 의무로 강조하는 프로테스탄트 종파와 밀접하게 연관되었다고 설명한다. 인쇄기와 문자 해독률의 역사적 연결을 제시하는 중요한 문장이다.",
+          "4": "④는 인쇄된 법률 문서의 이용 가능성이 지역에 걸쳐 법을 표준화하기 시작하여 지역별 관습법 관행을 약화시키고 국가 법률 체계 통합에 기여했다고 설명한다. 인쇄기의 법적·정치적 영향을 다루는 중요한 확장 내용이다."
+        },
+        "key_point": "글의 주제는 '구텐베르크 인쇄기가 15세기 지식·권위·문자 해독의 관계를 재편한 역사적 변혁'이다. ⑤의 '디지털 자가 출판' 문장은 '출판'·'편집자' 등의 어휘가 인쇄 문화와 정확히 일치하지만, 내용은 21세기 디지털 기술이므로 구텐베르크 시대 분석과 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-16",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "Phantom limb phenomenon — the persistent sensation that an amputated limb is still present, often accompanied by pain — reveals the remarkable plasticity of the brain's body representation system. After amputation, the cortical map corresponding to the missing limb does not simply go silent; instead, neighboring cortical regions begin to invade the deprived area, generating sensations that the brain misattributes to the absent limb. ① This reorganization explains why amputees often report feeling pain, pressure, or movement in a limb that no longer exists: the brain receives signals but interprets them according to an outdated body map. ② Prosthetic limb technology has advanced dramatically, with neural-interface devices now capable of transmitting sensory feedback from artificial fingers directly to residual nerve pathways. ③ Vilayanur Ramachandran's mirror box therapy exploits this plasticity by creating the visual illusion of a present limb, which can reorganize the cortical map and reduce phantom pain in some patients. ④ The same cortical reorganization process has been studied in congenitally blind individuals, whose visual cortex is recruited for processing tactile and auditory information rather than remaining functionally silent. ⑤ These findings collectively demonstrate that the brain's representation of the body is not fixed but continuously updated by sensory experience and expectation.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Phantom limb phenomenon and cortical plasticity: reorganization, mirror therapy, generalization to other sensory systems, and implications",
+        "irrelevantSentence": "② is about prosthetic limb neural-interface technology transmitting sensory feedback — directly adjacent to amputation but addressing engineering solutions for prosthetics rather than the neuroplasticity mechanism underlying phantom sensations.",
+        "remainingFlow": "Intro (cortical map reorganizes after amputation, generating phantom sensations) → ① reorganization explains why amputees feel pain in absent limbs → ③ mirror box therapy exploits plasticity to reduce phantom pain → ④ same reorganization in congenitally blind: visual cortex repurposed for touch and sound → ⑤ brain body representation continuously updated. Coherent without ②.",
+        "subtletyCheck": "② mentions 'neural-interface devices,' 'sensory feedback,' and 'residual nerve pathways' — technically adjacent neurological terms — but is about prosthetics engineering, not cortical reorganization or phantom sensation.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "②는 보철 의수 기술이 인공 손가락에서 잔존 신경 경로로 감각 피드백을 직접 전달할 수 있는 신경 인터페이스 장치로 급격히 발전했다는 내용이다. '신경 인터페이스'·'감각 피드백'·'잔존 신경 경로'가 기술적으로 인접한 신경학 용어이지만, 이 문장의 내용은 보철 공학이다. 나머지 글은 절단 후 피질 재편이 팬텀 감각 유발 → 거울 상자 치료가 가소성을 이용해 팬텀 통증 감소 → 선천적 맹인에서의 동일한 피질 재편 → 뇌의 신체 표상이 감각 경험에 의해 지속적으로 갱신된다는 결론이라는 '피질 가소성의 메커니즘과 함의'를 일관되게 다루므로, ②는 무관하다.",
+        "wrong": {
+          "1": "①은 피질 재편이 왜 절단 환자들이 더 이상 존재하지 않는 사지에서 통증·압력·운동을 느끼는지 설명한다고 설명한다. 피질 재편과 팬텀 감각 경험 사이의 핵심 연결을 제공하는 필수 문장이다.",
+          "3": "③은 V.S. Ramachandran의 거울 상자 치료가 이 가소성을 이용하여 존재하는 사지의 시각적 환상을 만들어 내며, 이것이 피질 지도를 재편하고 일부 환자의 팬텀 통증을 줄일 수 있다고 설명한다. 피질 가소성을 치료적으로 응용하는 중요한 사례이다.",
+          "4": "④는 동일한 피질 재편 과정이 선천적 맹인에서 연구되었으며, 이들의 시각 피질이 기능적으로 침묵하는 대신 촉각과 청각 정보 처리에 활용된다고 설명한다. 피질 가소성의 일반성을 다른 감각 시스템으로 확장하는 중요한 내용이다.",
+          "5": "⑤는 이러한 발견들이 집합적으로 뇌의 신체 표상이 고정되지 않고 감각 경험과 기대에 의해 지속적으로 갱신된다는 것을 입증한다고 결론짓는다. 글 전체의 함의를 통합하는 마무리 문장이다."
+        },
+        "key_point": "글의 주제는 '팬텀 사지 현상과 피질 가소성: 절단 후 뇌의 신체 지도 재편'이다. ②의 '보철 신경 인터페이스 기술' 문장은 '신경 인터페이스'·'감각 피드백' 등의 기술 용어가 신경학적 맥락과 겹쳐 보이지만, 내용은 보철 공학이므로 피질 가소성·팬텀 감각 논의와 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-17",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "The concept of deep time — the vast geological timescale over which Earth's physical and biological transformations occur — was a revolutionary intellectual achievement that reshaped both science and philosophy. Before geologists like James Hutton and Charles Lyell articulated the principle of uniformitarianism in the eighteenth and nineteenth centuries, most Western thinkers assumed Earth's history spanned only a few thousand years. ① The recognition that geological processes operate across millions and billions of years provided Darwin with the timescale he needed for natural selection to produce the diversity of life. ② Stratigraphy, the study of rock layers, became the primary tool for reading deep time: each layer represents a period of deposition, and fossils within those layers mark biological moments in time. ③ Geochronology techniques such as radiometric dating have since provided precise numerical ages for geological formations, confirming the antiquity that stratigraphy only implied. ④ The psychological difficulty of grasping deep time remains a recognized challenge in science education, as human cognition is not intuitively calibrated to comprehend timescales beyond a few generations. ⑤ Modern satellite-based geodetic systems can now measure the movement of tectonic plates to within millimeters per year, allowing geophysicists to construct near-real-time maps of crustal deformation.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Deep time: its intellectual discovery, tools for measuring it (stratigraphy, radiometric dating), and cognitive challenges in grasping it",
+        "irrelevantSentence": "⑤ is about satellite geodetic systems measuring tectonic plate movement in near-real-time — shares geological and geophysical vocabulary but focuses on contemporary precision measurement of ongoing plate movement, not reading ancient geological history.",
+        "remainingFlow": "Intro (deep time was a revolutionary concept) → ① deep time gave Darwin the necessary timescale for natural selection → ② stratigraphy reads deep time from rock layers and fossils → ③ radiometric dating provides precise ages confirming stratigraphy → ④ grasping deep time remains a cognitive challenge in education. Coherent without ⑤.",
+        "subtletyCheck": "⑤ mentions 'tectonic plates,' 'geophysicists,' and 'crustal deformation' — geological terms present in the passage's domain — but focuses on modern real-time measurement of plate movement rather than reading the ancient past.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "⑤는 현대 위성 기반 측지 시스템이 판 구조론적 판의 움직임을 연간 밀리미터 단위로 측정할 수 있어, 지구물리학자들이 지각 변형의 거의 실시간 지도를 구축할 수 있게 되었다는 내용이다. '지각판'·'지구물리학자'·'지각 변형'이 지질학적 용어이지만, 이 문장은 현재의 실시간 판 운동 측정에 초점을 맞추며 고대 지질 역사를 읽는 것이 아니다. 나머지 글은 깊은 시간 개념이 다윈에게 필요한 시간 척도 제공 → 층서학으로 암석층에서 깊은 시간 읽기 → 방사성 연대 측정으로 정확한 수치 나이 제공 → 깊은 시간 파악의 인지적 어려움이라는 '깊은 시간의 발견과 측정, 인식'을 일관되게 다루므로, ⑤는 무관하다.",
+        "wrong": {
+          "1": "①은 수백만·수십억 년에 걸친 지질 과정의 인식이 다윈에게 자연 선택이 생명의 다양성을 만들어 내는 데 필요한 시간 척도를 제공했다고 설명한다. 깊은 시간 개념의 가장 중요한 지적 결과 중 하나를 제시하는 핵심 문장이다.",
+          "2": "②는 암석층 연구인 층서학이 깊은 시간을 읽는 주요 도구가 되었다고 설명하며, 각 층은 퇴적 기간을 나타내고 화석은 생물학적 순간을 표시한다고 설명한다. 깊은 시간의 측정 방법을 소개하는 필수 문장이다.",
+          "3": "③은 방사성 연대 측정 같은 지질 연대학 기술들이 층서학이 암시만 했던 고대성을 확인해 주는 지질 구조의 정확한 수치 나이를 제공했다고 설명한다. 측정의 정밀도를 높인 기술 발전을 다루는 중요한 내용이다.",
+          "4": "④는 깊은 시간의 심리적 이해의 어려움이 과학 교육에서 인정된 과제로 남아 있으며, 인간 인지가 몇 세대를 넘는 시간 척도를 직관적으로 파악하도록 보정되지 않았다고 설명한다. 깊은 시간의 인식론적 측면을 다루는 중요한 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '깊은 시간 개념의 발견, 측정 도구(층서학·방사성 연대 측정), 인지적 도전'이다. ⑤의 '위성 위치 측정 실시간 판 운동 측정' 문장은 지질학적 어휘가 정확히 맞지만, 내용은 현재 진행 중인 판 운동의 실시간 측정이므로 고대 지질 역사를 읽는 '깊은 시간' 논의와 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-18",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "Nudge theory, developed by Richard Thaler and Cass Sunstein, proposes that the architecture of choice environments can reliably influence behavior without restricting options or changing financial incentives. Unlike mandates or bans, nudges preserve freedom of choice while guiding individuals toward outcomes considered better for them. ① The classic example is the default option: enrollment in pension savings plans, organ donation registries, and green energy tariffs increases dramatically when the desired behavior is set as the default, requiring active opt-out rather than opt-in. ② Because the vast majority of people accept defaults passively, default-setting is among the most powerful and cost-effective nudge tools available to policymakers. ③ Insurance companies frequently use opt-out enrollment practices to maximize subscriber retention, a technique that critics argue crosses the line from nudging into manipulation when applied in commercial contexts. ④ Critics of behavioral public policy argue that nudges are paternalistic, exploiting cognitive biases to override individual preferences rather than respecting people's capacity for autonomous rational choice. ⑤ Randomized controlled trials of nudge interventions in tax compliance, energy conservation, and healthcare attendance have demonstrated statistically significant behavioral improvements at minimal cost.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Nudge theory: the default effect mechanism, its policy power, critiques of paternalism, and evidence from trials",
+        "irrelevantSentence": "③ is about insurance companies using opt-out enrollment for commercial subscriber retention, framed as manipulation — directly uses 'opt-out' and 'nudging' terms but shifts to a commercial sector critique rather than the public policy nudge theory discussion.",
+        "remainingFlow": "Intro (nudges influence behavior without restricting choice) → ① default option dramatically increases desired enrollment → ② passive acceptance of defaults makes default-setting highly powerful for policymakers → ④ critics argue nudges are paternalistic → ⑤ RCTs show significant behavioral improvements at low cost. Coherent without ③.",
+        "subtletyCheck": "③ directly uses 'opt-out enrollment' and 'nudging' — key terms from the passage — but applies them in a commercial insurance context with a manipulation critique, which is tangential to the public policy nudge theory discussion.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "③은 보험 회사들이 최대 가입자 유지를 위해 옵트아웃 등록 관행을 자주 활용하며, 비평가들은 이것이 상업적 맥락에서 적용될 때 넛지를 넘어 조작으로 변질된다고 주장한다는 내용이다. '옵트아웃'과 '넛지'라는 핵심 용어를 직접 사용하지만, 이 문장은 상업 보험 부문에서의 조작 비판으로 전환한다. 나머지 글은 기본 옵션이 등록률을 극적으로 높인다 → 대다수가 수동적으로 기본값을 수용하므로 강력한 정책 도구 → 넛지의 온정주의 비판 → 무작위 대조 실험에서 최소 비용으로 통계적으로 유의미한 행동 개선이라는 '공공 정책에서의 넛지 이론'을 일관되게 다루므로, ③은 무관하다.",
+        "wrong": {
+          "1": "①은 기본 옵션이라는 고전적 사례—연금 저축 계획, 장기 기증 등록, 녹색 에너지 요금에의 등록이 원하는 행동을 기본값으로 설정할 때 극적으로 증가함—를 설명한다. 넛지 이론의 가장 강력한 실증 사례를 제시하는 핵심 문장이다.",
+          "2": "②는 대다수가 기본값을 수동적으로 수용하기 때문에 기본값 설정이 정책 입안자들에게 가장 강력하고 비용 효율적인 넛지 도구 중 하나라고 설명한다. ①의 메커니즘을 일반화하여 정책적 함의를 도출하는 중요한 문장이다.",
+          "4": "④는 행동 공공 정책 비판자들이 넛지가 사람들의 자율적 합리적 선택 능력을 존중하기보다 인지 편향을 이용하여 개인 선호를 무시하는 온정주의적이라고 주장한다고 설명한다. 반론을 제시하여 논의의 균형을 맞추는 중요한 내용이다.",
+          "5": "⑤는 세금 납부, 에너지 절약, 의료 이용 분야의 넛지 개입에 대한 무작위 대조 실험이 최소 비용으로 통계적으로 유의미한 행동 개선을 보여 주었다고 설명한다. 넛지의 실증적 효과를 다루는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '공공 정책에서의 넛지 이론: 기본 옵션 효과, 정책 도구로서의 힘, 비판, 실증적 증거'이다. ③의 '보험 회사 옵트아웃 조작 비판' 문장은 '옵트아웃'·'넛지'라는 핵심 용어가 정확히 일치하지만, 내용은 공공 정책이 아닌 상업 부문의 조작 비판이므로 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-19",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "Abstract art, which emerged in the early twentieth century as artists including Wassily Kandinsky, Piet Mondrian, and Kazimir Malevich abandoned representational imagery entirely, was not simply a stylistic choice but a philosophical claim about the nature of art and perception. These artists believed that pure form, line, and color could communicate emotional and spiritual truths more directly than any depiction of the physical world. ① Kandinsky developed an elaborate theory of color correspondences, arguing that specific colors evoke specific emotional responses — yellow as aggressive and earthly, blue as spiritual and deep — independent of any associated imagery. ② Mondrian's mature neoplasticist compositions, built from horizontal and vertical black lines and primary colors, aimed to express universal harmony through the purest possible visual geometry. ③ Malevich's Black Square, painted in 1915, was intended not as decoration but as an icon of pure sensation — the zero degree of painting — stripped of all representational and narrative content. ④ The global art auction market for twentieth-century abstract works has experienced record price growth, driven in part by increased demand from private collectors in Asia and the Gulf region. ⑤ Despite its apparent severity, abstract art invited viewers to engage actively with their own perceptual and emotional responses rather than passively recognizing a depicted scene.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Early abstract art: the philosophical claims of Kandinsky, Mondrian, and Malevich about form, color, and perception",
+        "irrelevantSentence": "④ is about the global art auction market for twentieth-century abstract works and record prices driven by collector demand — adjacent to the art domain but concerns economic market trends rather than the philosophical and perceptual claims of the early abstract artists.",
+        "remainingFlow": "Intro (abstract art was a philosophical claim about perception, not just a style) → ① Kandinsky's color-emotion correspondences → ② Mondrian's neoplasticist geometry expresses universal harmony → ③ Malevich's Black Square as zero-degree pure sensation → ⑤ abstract art invites active perceptual engagement. Coherent without ④.",
+        "subtletyCheck": "④ mentions 'twentieth-century abstract works,' directly referencing the art period and domain of the passage, but its content is economic data about auction prices, disconnected from the philosophical argument.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "④는 20세기 추상 미술 작품에 대한 세계 미술 경매 시장이 아시아와 걸프 지역의 개인 수집가들의 수요 증가에 힘입어 기록적인 가격 성장을 경험했다는 내용이다. '20세기 추상 작품'이 직접 이 시기와 영역을 언급하지만, 내용은 경제적 시장 동향이다. 나머지 글은 추상미술은 지각에 관한 철학적 주장 → 칸딘스키의 색채-감정 이론 → 몬드리안의 신조형주의 기하학 → 말레비치의 검은 정사각형 순수 감각 아이콘 → 추상미술이 능동적 지각 참여 유도라는 '초기 추상 미술의 철학적 주장과 개별 예술가들의 이론'을 일관되게 다루므로, ④는 무관하다.",
+        "wrong": {
+          "1": "①은 칸딘스키가 색채에 감정적 반응이 연관된 특정 색채 대응 이론—노란색은 공격적·세속적, 파란색은 영적·심오함—을 발전시켰다고 설명한다. 추상미술이 순수 형태로 진실을 전달할 수 있다는 철학적 주장을 구체화하는 핵심 사례이다.",
+          "2": "②는 수평·수직 검은 선과 원색으로 구성된 몬드리안의 성숙한 신조형주의 작품들이 가장 순수한 시각적 기하학을 통해 보편적 조화를 표현하는 것을 목표로 했다고 설명한다. 추상미술의 철학적 의도를 보여 주는 또 다른 핵심 예술가 사례이다.",
+          "3": "③은 말레비치의 '검은 정사각형'이 1915년에 장식이 아닌 순수 감각의 아이콘으로—모든 재현적·서사적 내용이 제거된 회화의 영도(Zero Degree)로—의도되었다고 설명한다. 추상미술의 극단적 철학적 선언을 보여 주는 중요한 사례이다.",
+          "5": "⑤는 겉보기의 엄격함에도 불구하고 추상미술이 관람자들이 묘사된 장면을 수동적으로 인식하는 대신 자신의 지각적·감정적 반응과 능동적으로 참여하도록 초대했다고 설명한다. 추상미술의 지각론적 주장을 결론짓는 마무리 문장이다."
+        },
+        "key_point": "글의 주제는 '초기 추상 미술: 칸딘스키·몬드리안·말레비치의 철학적 주장과 순수 형태·색채로 진실을 전달할 수 있다는 이론'이다. ④의 '경매 시장 가격 성장' 문장은 '20세기 추상 작품'이라는 표현이 정확히 일치하지만, 내용은 경제적 시장 데이터이므로 철학적·예술적 논의와 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-20",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "standard",
+      "passage": "Permafrost — ground that remains frozen for at least two consecutive years — covers approximately a quarter of the Northern Hemisphere's land surface and stores vast quantities of organic carbon accumulated over millennia. As global temperatures rise, thawing permafrost releases this stored carbon as carbon dioxide and methane, creating a positive feedback loop that accelerates warming beyond what human emissions alone would produce. ① Methane is particularly concerning because its warming potential over a 20-year period is roughly 80 times greater than that of carbon dioxide, making even relatively small permafrost methane releases climatically significant. ② Abrupt thaw processes, such as thermokarst formation — in which ice-rich ground collapses into lakes and ponds — can release carbon far more rapidly than gradual surface warming models predict. ③ Arctic indigenous communities have documented significant changes to permafrost stability over recent decades, including the collapse of traditional ice cellars used for food storage. ④ Mining operations in permafrost regions face costly engineering challenges, as the instability of thawing ground requires continuous modification of structural foundations and tailings containment infrastructure. ⑤ The potential magnitude of permafrost carbon release has led climate scientists to call for its explicit inclusion in integrated assessment models used to inform international climate policy targets.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "mainTopic": "Permafrost thaw as a climate feedback: carbon release mechanisms, indigenous community observations, and policy implications",
+        "irrelevantSentence": "④ is about mining engineering challenges in permafrost regions — uses 'permafrost regions' and 'thawing ground' directly but concerns industrial infrastructure costs rather than the climate carbon-feedback argument.",
+        "remainingFlow": "Intro (permafrost stores vast carbon; thaw creates positive feedback) → ① methane's high warming potential makes small releases significant → ② abrupt thermokarst thaw releases carbon faster than models predict → ③ indigenous communities document permafrost instability and food storage collapse → ⑤ scientists call for permafrost carbon inclusion in climate models. Coherent without ④.",
+        "subtletyCheck": "④ directly uses 'permafrost regions' and 'thawing ground,' core terms of the passage, but the subject is mining infrastructure costs rather than the climate system feedback loop.",
+        "difficultyLevel": "standard"
+      },
+      "explanations": {
+        "correct": "④는 영구 동토 지역의 채굴 작업이 해빙 지반의 불안정성으로 인해 구조 기초와 광미 격리 인프라를 지속적으로 수정해야 하는 비용이 많이 드는 공학적 과제에 직면한다는 내용이다. '영구 동토 지역'과 '해빙 지반'이 지문의 핵심 용어를 직접 사용하지만, 이 문장의 주제는 채굴 인프라 비용이다. 나머지 글은 영구 동토 탄소 저장과 양성 피드백 → 메탄의 높은 온난화 잠재력 → 급격한 해빙(열카르스트)이 모델 예측보다 빠른 탄소 방출 → 원주민 공동체의 불안정성 관찰 → 기후 모형에의 영구 동토 탄소 포함 촉구라는 '영구 동토 해빙과 기후 피드백'을 일관되게 다루므로, ④는 무관하다.",
+        "wrong": {
+          "1": "①은 20년 기간 동안 메탄의 온난화 잠재력이 이산화탄소보다 약 80배 크기 때문에 비교적 작은 영구 동토 메탄 방출도 기후적으로 유의미하다고 설명한다. 메탄이 특히 우려스러운 이유를 수치로 설명하는 핵심 문장이다.",
+          "2": "②는 열카르스트 형성—얼음이 풍부한 지반이 호수와 연못으로 붕괴되는 현상—같은 갑작스러운 해빙 과정이 점진적 표면 온난화 모델이 예측하는 것보다 훨씬 빠르게 탄소를 방출할 수 있다고 설명한다. 탄소 방출의 비선형적 위험성을 다루는 중요한 문장이다.",
+          "3": "③은 북극 원주민 공동체들이 최근 수십 년간 영구 동토 안정성의 중요한 변화를 기록해 왔으며, 이는 식품 저장에 사용되던 전통적인 얼음 지하 저장소의 붕괴를 포함한다고 설명한다. 지역 공동체의 직접적인 관찰로 현상의 실재성을 뒷받침하는 중요한 증거이다.",
+          "5": "⑤는 영구 동토 탄소 방출의 잠재적 규모로 인해 기후 과학자들이 국제 기후 정책 목표를 알리는 통합 평가 모델에 영구 동토 탄소를 명시적으로 포함할 것을 촉구하고 있다고 설명한다. 글의 정책적 함의를 도출하는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '영구 동토 해빙의 기후 피드백: 탄소 방출 메커니즘, 원주민 관찰, 정책 함의'이다. ④의 '채굴 공학 인프라 비용' 문장은 '영구 동토 지역'·'해빙 지반'이라는 정확히 일치하는 핵심 용어를 사용하지만, 내용은 산업 인프라 비용이므로 기후 탄소 피드백 논의와 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-21",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "challenging",
+      "passage": "The concept of regulatory capture describes the process by which a government agency created to act in the public interest instead advances the commercial or ideological interests of the industry it is charged with regulating. Capture can occur through the revolving door — whereby regulators move into lucrative private sector positions in the industries they once oversaw — or through the asymmetry of information and lobbying resources between industry actors and diffuse public interests. ① Once captured, agencies tend to adopt the interpretive frameworks and risk tolerances of industry, effectively privatizing rule-making authority without formal legislative change. ② The gradual colonization of regulatory vocabulary by industry-sponsored research creates a shared epistemic environment in which regulators and regulated parties evaluate risk through conceptually aligned lenses. ③ Structural reforms proposed to counter capture include mandatory cooling-off periods before former regulators can join regulated industries, independent funding for regulatory agencies, and the institutionalization of public-interest advocates within the rule-making process. ④ The broader implication is that formal institutional design cannot, by itself, prevent the gradual erosion of regulatory independence when asymmetric information and resource disparities persistently favor regulated industries. ⑤ Antitrust enforcement agencies in several jurisdictions have faced criticism for systematically under-prosecuting dominant technology firms despite accumulating evidence of anti-competitive acquisitions.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "self_check": {
+        "mainTopic": "Regulatory capture: mechanisms (revolving door, epistemic colonization), structural reform proposals, and systemic implications",
+        "irrelevantSentence": "⑤ is about antitrust enforcement agencies under-prosecuting dominant tech firms — shares regulatory enforcement vocabulary and institutional critique but addresses competition law enforcement failure rather than the revolving door and epistemic capture mechanisms the passage analyzes.",
+        "remainingFlow": "Intro (agencies advance industry interests rather than public interest) → ① captured agencies adopt industry frameworks, privatizing rule-making → ② industry-sponsored research creates shared epistemic environment → ③ structural reforms: cooling-off periods, independent funding, public advocates → ④ formal institutional design alone cannot prevent capture when information asymmetries favor industry. Coherent without ⑤.",
+        "subtletyCheck": "⑤ mentions 'enforcement agencies,' 'dominant firms,' and 'anti-competitive' — regulatory vocabulary that maps onto the capture discourse — but the specific claim about technology antitrust under-prosecution is a distinct policy failure not mechanistically explained by revolving door or epistemic capture.",
+        "difficultyLevel": "challenging"
+      },
+      "explanations": {
+        "correct": "⑤는 여러 관할권의 반독점 집행 기관들이 반경쟁적 인수에 대한 증거가 축적되고 있음에도 지배적 기술 기업들을 체계적으로 덜 기소했다는 비판을 받아 왔다는 내용이다. '집행 기관'·'지배적 기업'·'반경쟁적'이라는 규제 어휘가 규제 포획 담론과 맞지만, 기술 분야 반독점 미기소라는 구체적 주장은 회전문 현상이나 인식론적 포획 메커니즘으로 설명되는 별개의 정책 실패이다. 나머지 글은 포획 메커니즘(회전문·정보 비대칭) → 포획된 기관이 산업의 해석 틀 채택 → 산업 후원 연구가 공유 인식 환경 형성 → 구조 개혁 제안 → 제도 설계만으로는 포획 방지 불충분이라는 '규제 포획의 메커니즘과 구조 개혁'을 일관되게 다루므로, ⑤는 무관하다.",
+        "wrong": {
+          "1": "①은 포획된 기관들이 산업의 해석 틀과 위험 허용 기준을 채택하여 공식적인 입법 변화 없이 사실상 규칙 제정 권한을 민영화하는 경향이 있다고 설명한다. 포획의 실질적 작동 방식을 설명하는 핵심 문장이다.",
+          "2": "②는 산업 후원 연구에 의한 규제 어휘의 점진적 식민화가 규제자와 피규제자가 개념적으로 정렬된 렌즈를 통해 위험을 평가하는 공유된 인식론적 환경을 만든다고 설명한다. 포획의 정교한 인식론적 차원을 다루는 중요한 심화 내용이다.",
+          "3": "③은 포획에 대응하기 위한 구조 개혁으로 전직 규제자의 산업 취업 전 의무 냉각 기간, 규제 기관의 독립적 자금 조달, 규칙 제정 과정 내 공공 이익 옹호자의 제도화를 제안한다고 설명한다. 실용적 해결책을 제시하는 중요한 내용이다.",
+          "4": "④는 더 넓은 함의로서, 비대칭적 정보와 자원 격차가 지속적으로 피규제 산업을 유리하게 할 때 공식적인 제도 설계만으로는 규제 독립성의 점진적 침식을 막을 수 없다고 설명한다. 포획 문제의 구조적 특성을 결론짓는 마무리 문장이다."
+        },
+        "key_point": "글의 주제는 '규제 포획의 메커니즘(회전문, 인식론적 식민화)과 구조 개혁의 필요성'이다. ⑤의 '기술 분야 반독점 집행 실패' 문장은 '집행 기관'·'반경쟁적' 등의 규제 어휘가 포획 담론과 정확히 맞지만, 내용은 회전문·인식론적 포획과 메커니즘적으로 연결되지 않는 별도의 정책 실패이므로 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-22",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "challenging",
+      "passage": "The Sapir-Whorf hypothesis — in its strong form, linguistic determinism — claims that the language one speaks constrains the very thoughts one is capable of having. Although the strong version has been largely rejected, the weaker hypothesis of linguistic relativity has accumulated significant experimental support: the structure of a language can measurably influence cognition, perception, and memory in specific domains. ① Cross-linguistic studies of color perception have shown that speakers of languages with more distinct color terms are faster at discriminating between colors that fall in different named categories than between colors within the same category. ② Machine translation systems trained on large multilingual corpora have achieved near-human performance on many standardized benchmarks, though they remain sensitive to low-resource languages with limited training data. ③ The Guugu Yimithirr people of Australia, whose language uses absolute cardinal directions rather than egocentric spatial terms, maintain a continuous and extraordinarily precise sense of geographic orientation that speakers of relative-spatial languages typically lack. ④ Grammatical gender marking in languages such as Spanish and German has been shown to influence the metaphorical associations speakers make with inanimate objects, even when performing tasks in a second language. ⑤ Translation theory has long grappled with the problem of untranslatability — the existence of concepts in one language that resist equivalence in another — as evidence of culturally embedded conceptual structures.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 3,
+      "self_check": {
+        "mainTopic": "Linguistic relativity: experimental evidence that language structure influences color perception, spatial cognition, grammatical gender effects, and translation",
+        "irrelevantSentence": "② is about machine translation system performance on benchmarks and low-resource language challenges — uses language and translation vocabulary but addresses computational NLP engineering rather than the hypothesis that language structure shapes human cognition.",
+        "remainingFlow": "Intro (linguistic relativity: language structure measurably influences cognition) → ① color term density affects color discrimination speed → ③ absolute spatial language enables superior geographic orientation → ④ grammatical gender influences metaphorical associations → ⑤ untranslatability as evidence of culturally embedded conceptual structures. Coherent without ②.",
+        "subtletyCheck": "② mentions 'multilingual corpora,' 'translation,' and 'low-resource languages' — linguistically proximate terms — but machine translation benchmarks are an engineering topic with no bearing on whether language structure shapes human thought.",
+        "difficultyLevel": "challenging"
+      },
+      "explanations": {
+        "correct": "②는 대규모 다국어 코퍼스로 훈련된 기계 번역 시스템이 많은 표준화된 벤치마크에서 인간에 근접한 성능을 달성했지만, 훈련 데이터가 제한된 저자원 언어에 여전히 민감하다는 내용이다. '다국어 코퍼스'·'번역'·'저자원 언어'가 언어적으로 근접한 용어이지만, 기계 번역 벤치마크는 언어 구조가 인간의 사고를 형성하는지 여부와 무관한 공학 주제이다. 나머지 글은 색채 용어 밀도와 색 판별 속도 → 절대적 공간 언어와 지리적 방향 감각 → 문법 성별과 은유적 연상 → 번역 불가능성과 문화적으로 내재된 개념 구조라는 '언어 상대성의 실험 증거들'을 일관되게 다루므로, ②는 무관하다.",
+        "wrong": {
+          "1": "①은 더 뚜렷한 색채 용어를 가진 언어의 화자들이 다른 명칭 범주에 속하는 색들을 같은 범주 내 색들보다 더 빠르게 구별한다는 것을 보여 주는 언어 간 색채 지각 연구를 설명한다. 언어가 지각에 영향을 미친다는 핵심 실증 증거이다.",
+          "3": "③은 자아 중심적 공간 용어 대신 절대적 방향을 사용하는 언어인 호주의 구구 이미티르 언어 사용자들이 상대적 공간 언어 화자들에게 전형적으로 없는 지속적이고 놀랍도록 정밀한 지리적 방향 감각을 유지한다고 설명한다. 언어가 공간 인지를 형성한다는 설득력 있는 사례이다.",
+          "4": "④는 스페인어와 독일어 같은 언어의 문법적 성별 표시가 화자들이 무생물에 대해 만드는 은유적 연상에 영향을 미친다고 설명하며, 제2언어로 과제를 수행할 때도 그렇다고 덧붙인다. 언어 상대성의 문법 구조 측면을 다루는 중요한 증거이다.",
+          "5": "⑤는 번역 이론이 문화적으로 내재된 개념 구조의 증거로서 한 언어에 다른 언어에서 동등한 표현이 없는 개념이 존재하는 번역 불가능성 문제를 오랫동안 씨름해 왔다고 설명한다. 언어 상대성의 광범위한 문화적 함의를 다루는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '언어 상대성: 언어 구조가 색채 지각, 공간 인지, 문법 성별 효과, 번역 불가능성에서 인간 사고에 영향을 미친다는 실험 증거'이다. ②의 '기계 번역 시스템 성능' 문장은 '다국어'·'번역' 등의 언어학 인접 어휘를 사용하지만, 내용은 컴퓨터 공학 벤치마크이므로 언어가 인간 사고를 형성하는지에 대한 논의와 무관하다."
+      }
+    },
+    {
+      "id": "v2-35-23",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "challenging",
+      "passage": "The tragedy of the commons, as formulated by ecologist Garrett Hardin in 1968, describes a situation in which individual users, each acting rationally in their own self-interest, collectively deplete a shared finite resource — even when such depletion is contrary to their long-term interests. Hardin used the metaphor of a common pasture to illustrate how each herdsman has an individual incentive to add one more animal, since the benefits of the additional animal accrue to him while the costs of overgrazing are distributed across all users. ① The cumulative effect of individually rational decisions is collective irrationality — the destruction of the very resource upon which all depend. ② Hardin controversially concluded that commons could only be managed through either privatization or state coercive regulation, overlooking the capacity of communities to develop self-governing institutions. ③ Elinor Ostrom's Nobel Prize-winning research documented hundreds of cases in which communities successfully managed shared resources through locally negotiated rules, monitoring systems, and graduated sanctions — without resorting to either privatization or state control. ④ The governance structures Ostrom identified share several design principles: clearly defined group boundaries, rules adapted to local conditions, and legitimate participation by resource users in rule modification. ⑤ International carbon credit markets, in which firms purchase verified emission reduction certificates to offset their own greenhouse gas outputs, represent a market-based attempt to internalize the externalities of a global commons — the atmosphere.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "self_check": {
+        "mainTopic": "The tragedy of the commons: Hardin's formulation, his limited policy conclusion, Ostrom's counter-evidence of community self-governance, and design principles",
+        "irrelevantSentence": "⑤ is about international carbon credit markets as a market-based mechanism to internalize atmospheric externalities — uses 'commons' and 'atmosphere' vocabulary from the Hardin framework but introduces a market finance instrument rather than the community governance vs. privatization debate.",
+        "remainingFlow": "Intro (individual rationality leads to collective resource depletion) → ① cumulative effect is collective irrationality → ② Hardin concluded only privatization or state control can manage commons → ③ Ostrom documented communities successfully self-governing without either → ④ Ostrom's design principles: defined boundaries, locally adapted rules, user participation. Coherent without ⑤.",
+        "subtletyCheck": "⑤ explicitly uses 'global commons' and 'atmosphere,' directly echoing Hardin's commons framework and making the sentence highly deceptive. However, its content concerns carbon market finance mechanics, a separate policy domain that does not contribute to the Hardin-Ostrom governance debate.",
+        "difficultyLevel": "challenging"
+      },
+      "explanations": {
+        "correct": "⑤는 기업들이 자사 온실가스 배출을 상쇄하기 위해 검증된 탄소 감축 인증서를 구매하는 국제 탄소 크레딧 시장이 대기라는 글로벌 공유지의 외부 효과를 내부화하려는 시장 기반 시도를 나타낸다는 내용이다. '글로벌 공유지'와 '대기'가 하딘의 공유지 프레임을 직접 반향하여 매우 혼동스럽지만, 이 문장의 내용은 탄소 시장 금융 메커니즘으로, 하딘-오스트롬의 거버넌스 논쟁에 기여하지 않는다. 나머지 글은 하딘의 공유지 은유와 개인 합리성의 집단 비합리성 → 하딘의 제한적 결론(민영화 또는 국가 통제) → 오스트롬의 반증: 자치 공동체 수백 사례 → 오스트롬의 설계 원칙이라는 '공유지의 비극과 자치 공동체 거버넌스'를 일관되게 다루므로, ⑤는 무관하다.",
+        "wrong": {
+          "1": "①은 개별적으로 합리적인 결정들의 누적 효과가 집단적 비합리성—모두가 의존하는 바로 그 자원의 파괴—이라고 설명한다. 공유지 비극의 핵심 논리를 요약하는 필수 문장이다.",
+          "2": "②는 하딘이 논쟁적으로 공유지는 민영화나 국가 강제 규제를 통해서만 관리될 수 있다고 결론 내렸으며, 이는 공동체가 자치 제도를 발전시킬 수 있다는 능력을 간과했다고 설명한다. 하딘의 제한적 결론을 제시하는 중요한 전환점 문장이다.",
+          "3": "③은 엘리너 오스트롬의 노벨상 수상 연구가 공동체들이 민영화나 국가 통제에 의존하지 않고 지역에서 협상된 규칙, 모니터링 시스템, 단계적 제재를 통해 공유 자원을 성공적으로 관리한 수백 가지 사례를 기록했다고 설명한다. 하딘의 결론을 반박하는 결정적 증거이다.",
+          "4": "④는 오스트롬이 확인한 거버넌스 구조가 명확하게 정의된 집단 경계, 지역 조건에 맞는 규칙, 규칙 수정에서의 자원 이용자의 정당한 참여라는 여러 설계 원칙을 공유한다고 설명한다. 성공적인 공유지 자치의 일반적 조건을 제시하는 중요한 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '공유지의 비극: 하딘의 정식화와 제한적 결론, 오스트롬의 자치 공동체 거버넌스 반증'이다. ⑤의 '국제 탄소 크레딧 시장' 문장은 '글로벌 공유지'·'대기'라는 표현이 공유지 비극 프레임을 직접 사용하여 매우 혼동스럽지만, 내용은 탄소 시장 금융 메커니즘이므로 하딘-오스트롬의 거버넌스 논쟁과 무관하다. 이 세트에서 가장 높은 수준의 함정 문장이다."
+      }
+    },
+    {
+      "id": "v2-35-24",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "challenging",
+      "passage": "Epigenetic inheritance — the transmission of heritable changes in gene expression that occur without alteration of the DNA sequence itself — complicates classical Mendelian models by introducing an additional layer of biological information that can respond to environmental inputs and, in some cases, be passed to subsequent generations. Methylation of cytosine residues and modifications to histone proteins are among the best-characterized mechanisms by which cells regulate gene accessibility without changing the underlying code. ① Stress-induced epigenetic modifications in rodent models have been shown to persist across two to three generations, raising the possibility that acquired characteristics can be transmitted in ways that parallel Lamarckian inheritance. ② In plant systems, epigenetic variation has been documented to contribute substantially to phenotypic diversity in natural populations, sometimes accounting for heritable variation that cannot be attributed to DNA sequence differences alone. ③ Crucially, epigenetic marks are generally reversible — a property that distinguishes them from mutations and that underlies their potential utility as targets for pharmacological intervention in cancer and metabolic disease. ④ The commercial personalized genomics industry offers consumers direct-to-consumer ancestry and disease risk assessments based on single-nucleotide polymorphism analysis, generating regulatory debate about medical accuracy and genetic privacy. ⑤ The field therefore forces a reconsideration of the sharp conceptual boundary between inheritance and development that dominated twentieth-century biology.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "self_check": {
+        "mainTopic": "Epigenetic inheritance: mechanisms, transgenerational transmission evidence, reversibility and pharmacological potential, and implications for classical biology",
+        "irrelevantSentence": "④ is about commercial direct-to-consumer genomics companies offering ancestry and disease risk assessments via SNP analysis — uses genetics vocabulary but concerns a commercial product based on fixed DNA sequence variation, not epigenetic regulation and inheritance.",
+        "remainingFlow": "Intro (epigenetic changes in gene expression without DNA sequence change; heritable) → ① stress-induced epigenetic changes transmitted across generations in rodents → ② epigenetic variation contributes to phenotypic diversity in plants → ③ epigenetic marks are reversible, enabling pharmacological targeting → ⑤ forces reconsideration of the inheritance-development boundary. Coherent without ④.",
+        "subtletyCheck": "④ mentions 'single-nucleotide polymorphism analysis' and 'genetic privacy' — biologically adjacent terms — but commercial genomics SNP testing analyzes fixed DNA sequence variation rather than epigenetic regulation, making it a challenging but identifiable diversion.",
+        "difficultyLevel": "challenging"
+      },
+      "explanations": {
+        "correct": "④는 상업 개인 유전체 산업이 단일 뉴클레오타이드 다형성 분석에 기반한 직접 소비자 조상 및 질병 위험 평가를 제공하며, 의학적 정확성과 유전 프라이버시에 대한 규제 논쟁을 낳고 있다는 내용이다. '유전 프라이버시'와 관련 용어들이 생물학적으로 인접하지만, 상업 유전체학 SNP 검사는 고정된 DNA 서열 변이를 분석하는 것으로 후성유전학적 조절과 유전이 아닌 다른 대상을 다룬다. 나머지 글은 환경 스트레스에 의한 후성유전적 변형의 세대 간 전달 → 식물에서의 후성유전적 변이와 표현형 다양성 → 후성유전 표지의 가역성과 약리학적 표적 가능성 → 유전과 발달 사이의 경계 재고라는 '후성유전학적 유전의 메커니즘과 함의'를 일관되게 다루므로, ④는 무관하다.",
+        "wrong": {
+          "1": "①은 쥐 모델에서 스트레스로 유발된 후성유전적 변형이 2~3세대에 걸쳐 지속되는 것으로 나타났으며, 이는 획득된 특성이 라마르크 유전과 유사한 방식으로 전달될 수 있다는 가능성을 제기한다고 설명한다. 세대 간 후성유전적 유전의 핵심 증거이다.",
+          "2": "②는 식물 시스템에서 후성유전적 변이가 자연 개체군의 표현형 다양성에 상당히 기여한다고 설명하며, 때로는 DNA 서열 차이만으로는 설명할 수 없는 유전 가능한 변이를 차지한다고 덧붙인다. 후성유전학의 생태학적 중요성을 보여 주는 중요한 사례이다.",
+          "3": "③은 후성유전 표지가 일반적으로 가역적이며—이것이 돌연변이와 구별짓는 특성—이 가역성이 암과 대사 질환에서 약리학적 개입의 표적으로서의 잠재적 유용성의 기반이 된다고 설명한다. 후성유전학의 의학적 응용 가능성을 다루는 중요한 내용이다.",
+          "5": "⑤는 따라서 이 분야가 20세기 생물학을 지배했던 유전과 발달 사이의 날카로운 개념적 경계에 대한 재고를 강제한다고 설명한다. 글 전체의 이론적 함의를 결론짓는 마무리 문장이다."
+        },
+        "key_point": "글의 주제는 '후성유전학적 유전: DNA 서열 변화 없는 유전 가능한 유전자 발현 변화의 메커니즘과 함의'이다. ④의 '상업 직접 소비자 유전체 검사' 문장은 '유전'·'DNA'·'유전 프라이버시' 등의 생물학 인접 어휘를 사용하지만, SNP 분석은 고정된 DNA 서열을 다루므로 후성유전학적 조절과 무관하다. DNA 서열 변이(유전체학)와 후성유전학의 차이를 이해하는 것이 핵심이다."
+      }
+    },
+    {
+      "id": "v2-35-25",
+      "number": 35,
+      "type": "무관한 문장",
+      "difficulty": "challenging",
+      "passage": "Threshold effects in ecological systems — sometimes called regime shifts or tipping points — describe transitions in which a gradual accumulation of pressure suddenly crosses a critical point, triggering a rapid and often irreversible reorganization into an alternative stable state. Unlike linear systems that respond proportionally to inputs, systems near a tipping point exhibit critical slowing down: recovery from small perturbations becomes progressively slower as the threshold approaches, providing a theoretically detectable early warning signal. ① Shallow lake ecosystems can flip from a clear-water state dominated by rooted macrophytes to a turbid state dominated by algal blooms when nutrient loading crosses the threshold at which algae can shade out macrophytes and sustain their own dominance through positive feedback. ② Once in the turbid state, simply reducing nutrient inputs to pre-threshold levels is insufficient to restore clarity, because the positive feedbacks of the algal state are self-reinforcing — a phenomenon termed hysteresis. ③ Remote sensing satellites equipped with multispectral imaging sensors now provide continuous global monitoring of surface water turbidity and chlorophyll-a concentration, enabling near-real-time detection of harmful algal bloom events. ④ Similar hysteresis dynamics have been identified in coral reef systems, dryland vegetation, and certain components of the climate system, suggesting that threshold behavior may be a general property of complex adaptive systems rather than an exception. ⑤ The policy implication is stark: managing these systems requires maintaining conditions well inside safe operating boundaries, because the response asymmetry between crossing a tipping point and recovering from it makes restoration exponentially more costly than prevention.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "mainTopic": "Ecological tipping points and regime shifts: critical slowing down as early warning, hysteresis in lake ecosystems, generality across systems, and policy implications",
+        "irrelevantSentence": "③ is about remote sensing satellites monitoring lake turbidity and algal blooms in near-real-time — uses 'turbidity,' 'algal bloom,' and 'chlorophyll-a' directly from the lake tipping point example but focuses on monitoring technology rather than the nonlinear tipping point dynamics and hysteresis argument.",
+        "remainingFlow": "Intro (tipping points: gradual pressure crosses threshold → rapid irreversible reorganization; critical slowing down as warning) → ① lake flip from clear to turbid via nutrient threshold and algal positive feedback → ② hysteresis: reducing nutrients to pre-threshold levels insufficient to restore clarity → ④ similar hysteresis in coral reefs, dryland vegetation, climate — suggests general property → ⑤ policy: maintain well inside safe boundaries because restoration costs exceed prevention costs. Coherent without ③.",
+        "subtletyCheck": "③ directly uses 'algal bloom,' 'turbidity,' and 'chlorophyll-a' — precise scientific terms from the lake example — creating the strongest surface-level domain overlap in the set. Its content, however, is satellite monitoring technology, not the nonlinear dynamics and hysteresis that constitute the passage's argument.",
+        "difficultyLevel": "challenging"
+      },
+      "explanations": {
+        "correct": "③은 다중 스펙트럼 영상 센서를 장착한 원격 감지 위성들이 이제 수면 탁도와 클로로필-a 농도의 지속적인 글로벌 모니터링을 제공하여 유해 조류 번성 사태를 거의 실시간으로 감지할 수 있게 했다는 내용이다. '조류 번성'·'탁도'·'클로로필-a'가 호수 전환점 사례의 정확한 과학 용어이지만, 이 문장의 내용은 위성 모니터링 기술이다. 나머지 글은 전환점과 체제 이동의 정의와 임계 둔화 → 호수의 투명→탁한 상태 전환(영양 부하, 조류 양성 피드백) → 히스테리시스: 영양 투입 감소만으로 회복 불가 → 산호초·건조 지대·기후 시스템에서의 유사 히스테리시스 → 정책 함의: 예방이 복원보다 지수적으로 저렴이라는 '생태 임계점과 히스테리시스의 비선형 역학'을 일관되게 다루므로, ③은 무관하다.",
+        "wrong": {
+          "1": "①은 영양 부하가 조류가 수초를 가리고 양성 피드백으로 자신의 지배를 유지할 수 있는 임계치를 넘으면 얕은 호수 생태계가 수초가 우세한 맑은 물 상태에서 조류 번성이 우세한 탁한 상태로 뒤집힐 수 있다고 설명한다. 호수 생태계의 비선형 전환점 메커니즘을 구체적으로 설명하는 핵심 문장이다.",
+          "2": "②는 탁한 상태에 들어서면 단순히 영양 투입을 임계치 이전 수준으로 줄이는 것만으로는 투명성을 회복하기에 충분하지 않다고 설명하는데, 조류 상태의 양성 피드백이 자기 강화적이기 때문이며, 이를 히스테리시스라는 현상이라 부른다. 가장 어려운 비선형 역학 개념을 설명하는 핵심 문장이다.",
+          "4": "④는 유사한 히스테리시스 역학이 산호초 시스템, 건조 지대 식생, 기후 시스템의 특정 구성 요소에서도 확인되었으며, 이는 임계점 행동이 예외가 아닌 복잡 적응 시스템의 일반적 특성일 수 있음을 시사한다고 설명한다. 현상의 일반성을 제시하는 중요한 확장 내용이다.",
+          "5": "⑤는 이 시스템들을 관리하려면 안전 운영 경계 내에서 조건을 잘 유지해야 한다고 정책 함의를 제시하며, 전환점을 넘는 것과 회복 사이의 반응 비대칭성이 복원을 예방보다 기하급수적으로 비용이 많이 들게 만들기 때문이라고 설명한다. 글의 핵심 메시지를 전달하는 결론 문장이다."
+        },
+        "key_point": "글의 주제는 '생태 임계점과 체제 이동: 임계 둔화, 히스테리시스, 정책 함의'라는 비선형 생태 역학이다. ③의 '위성 원격 감지 모니터링' 문장은 '조류 번성'·'탁도'·'클로로필-a'라는 지문의 핵심 과학 용어와 정확히 일치하여 이 세트에서 가장 강력한 표면 중복을 만들지만, 내용은 위성 기술 모니터링이므로 비선형 역학과 히스테리시스 논의와 무관하다."
+      }
+    }
+  ]
+}

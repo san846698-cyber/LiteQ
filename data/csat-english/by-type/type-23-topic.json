@@ -1,0 +1,235 @@
+{
+  "type": "주제",
+  "typeNumber": 23,
+  "totalCount": 15,
+  "questions": [
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Whenever possible, we should take measures to resocialize the information we think about. The continual patter we carry on in our heads is in fact a kind of internalized conversation. Likewise, many of the written forms we encounter at school and at work — from exams and evaluations, to profiles and case studies, to essays and proposals — are really social exchanges put on paper and addressed to some imagined listener or interlocutor. There are significant advantages to turning such interactions at a remove back into actual social encounters. Research demonstrates that the brain processes the \"same\" information differently, and often more effectively, when other human beings are involved — whether we're imitating them, debating them, exchanging stories with them, synchronizing and cooperating with them, teaching or being taught by them. We are inherently social creatures, and our thinking benefits from bringing other people into our train of thought.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": ["importance of processing information via social interactions", "ways of improving social skills through physical activities", "necessity of regular evaluations of cognitive functions", "influence of personality traits on social interactions", "socialization as a form of internalized social control"],
+      "answer": 1,
+      "points": 3,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "For those of any age with an existing network of friendships built up in the three-dimensional world, social networking sites can be a happy extension of communication, along with email, video calls, or phone calls, when face-to-face time together just isn't possible. The danger comes when a fake identity is both tempting and possible through relationships that are not based on real, three-dimensional interaction, and/or when the most important things in your life are the secondhand lives of others rather than personal experiences. Living in the context of the screen might suggest false norms of desirable lifestyles full of friends and parties. As ordinary human beings follow the activities of these golden individuals, self-esteem will inevitably drop; yet the constant narcissistic obsession with the self and its inadequacies will dominate. We can imagine a vicious circle where the more your identity is harmed as a result of social networking and the more inadequate you feel, the greater the appeal of a medium where you don't need to communicate with people face-to-face.\n* narcissistic: 자아도취적인",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "negative effects of social networking services on self-perception",
+        "unknown risks to personal well-being from internet addiction",
+        "software features to make virtual lives more realistic",
+        "efforts to increase face-to-face interaction for social bonds",
+        "difficulties of filtering out fake information on social media"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "The primary purpose of commercial music radio broadcasting is to deliver an audience to a group of advertisers and sponsors. To achieve commercial success, that audience must be as large as possible. More than any other characteristics (such as demographic or psychographic profile, purchasing power, level of interest, degree of satisfaction, quality of attention or emotional state), the quantity of an audience aggregated as a mass is the most significant metric for broadcasters seeking to make music radio for profitable ends. As a result, broadcasters attempt to maximise their audience size by playing music that is popular, or ― at the very least ― music that can be relied upon not to cause audiences to switch off their radio or change the station. Audience retention is a key value (if not the key value) for many music programmers and for radio station management. In consequence, a high degree of risk aversion frequently marks out the 'successful' radio music programmer. Playlists are restricted, and often very small.\n* aggregate: 모으다 ** aversion: 싫어함",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "features of music playlists appealing to international audiences",
+        "influence of advertisers on radio audiences' musical preferences",
+        "difficulties of increasing audience size in radio music programmes",
+        "necessity of satisfying listeners' diverse needs in the radio business",
+        "outcome of music radio businesses' attempts to attract large audiences"
+      ],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Just as today some jobs are better than others, so would they have been in early societies with their blossoming towns and eventually cities, with some roles more dangerous and some having more plentiful access to food or other resources. The archeological record shows that soon after the appearance of towns, agriculture, and surpluses, some burials start to look different from others. Some individuals are buried with more precious goods (metals, weapons, and maybe even art), some are in group graves and some by themselves, and still others don't even seem to be buried at all. The bones from the burials start to show us differences as well — chemical and isotope analyses of teeth and long bones reveal that some members of groups were getting more protein or minerals than others; some have more evidence of diseases and greater physical injuries from their labors. Early on these differences are small, but by 5,000 to 7,000 years ago they are becoming quite pronounced.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "the evidence of social inequality found in ancient burials",
+        "scientific efforts to preserve ancient remains",
+        "attempts to overcome inequality in history",
+        "cultural differences in the concept of better jobs",
+        "ancient agricultural methods passed down to the present"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Sociologist Brooke Harrington said if there was an E = mc² of social science, it would be SD > PD, \"social death is more frightening than physical death.\" This is why we feel deeply threatened when a new idea challenges the ones that have become part of our identity. For some ideas, the ones that identify us as members of a group, we don't reason as individuals; we reason as a member of a tribe. We want to seem trustworthy, and reputation management as a trustworthy individual often overrides most other concerns, even our own mortality. This is not entirely irrational. A human alone in this world faces a lot of difficulty, but being alone in the world before modern times was almost certainly a death sentence. So we carry with us an innate drive to form groups, join groups, remain in those groups, and oppose other groups. But once you can identify them, you start favoring us; so much so that given a choice between an outcome that favors both groups a lot or one that favors both much less but still favors yours more than theirs, that's the one you will pick.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "tendency to prefer the group that one identifies with",
+        "necessity of social isolation to build a reputation",
+        "ways to ease one's irrational fear of crowds",
+        "importance of forming groups with different interests",
+        "tips for staying objective during heated group discussions"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "During the day, a molecule called adenosine builds up in your brain. Adenosine binds with receptors on nerve cells, or neurons, slowing down their activity and making you feel drowsy. But caffeine is also able to bind with these receptors, and by doing so it blocks adenosine's effect, making your neurons fire more and keeping you alert. Caffeine also activates a gland at the base of your brain. This releases hormones that tell the adrenal glands on your kidneys to produce adrenaline, causing your heart to beat faster and your blood pressure to rise. If, however, your daily caffeine intake is consistent, your brain will adapt to it. Your brain is like, 'Okay, every morning I'm getting this caffeine that's binding to these receptors and blocking adenosine from binding to them.' So your brain creates extra receptors to give adenosine more of an opportunity to bind with them and have its usual effect. And more adenosine is also produced to counteract the caffeine. That's why it takes more and more caffeine to have the same effect.\n* drowsy: 나른한 ** gland: (분비)선",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": ["what your brain does for regular hormone production", "consequences of sleep deprivation caused by caffeine", "connection between brain health and hormone balance", "efforts to overcome the constant temptation of caffeine", "how your brain adapts to a steady caffeine consumption"],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Natural disasters and aging are two problems that societies have been dealing with for all of human history. Governments must respond to both, but their dynamics are entirely different and this has profound consequences for the nature of the response. Simply by plotting the aging slope, policy makers go a long way toward understanding the problem: People get older at a constant and reliable rate. There can be disagreements over how to solve the aging problem (this is political complexity), but the nature of the problem is never in dispute. Plotting the number of people killed in natural disasters does very little to advance understanding of this problem other than emphasizing the randomness of natural disasters. Preparing a policy response is, therefore, much easier in some areas than in others. When inputs are reliable and easy to predict, it greatly facilitates information processing and allows for anticipatory problem solving. When problems are causally complex and multivariate, determining the appropriate response is a reactionary endeavor.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "risks of hasty decision making during natural disasters",
+        "reasons for governmental concern about aging populations",
+        "significance of studying the comprehensive history of policy making",
+        "different approaches of governments depending on the nature of the problem",
+        "advantages of anticipatory problem-solving in dealing with social problems"
+      ],
+      "answer": 4,
+      "points": 3,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "It is much more natural to be surprised by unusual phenomena like eclipses than ordinary phenomena like falling bodies or the succession of night into day and day into night. Many cultures invented gods to explain these eclipses that shocked, frightened, or surprised them; but very few imagined a god of falling bodies ― to which they were so accustomed that they did not even notice them. But the reason for eclipses is ultimately the same as that of the succession of night and day: the movement of celestial bodies, which itself is based on the Newtonian law of attraction and how it explains why things fall when we let them go. For the physicist, understanding the ordinary, the habitual, and the frequent thus allows us to account for the frightening and the singular. As such, it was thus necessary to ask \"Why do things fall?\" and to have Newton's response to understand a broad range of much more bizarre phenomena occurring at every level of the universe.\n* eclipse: 일식, 월식 ** celestial: 천체의 *** bizarre: 이상한",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "widespread preference for mythical explanations over scientific ones",
+        "limitations of Newtonian law in explaining eclipse phenomena",
+        "influence of scientific interpretations on perceptions of reality",
+        "need to pose questions about the usual to understand the unusual",
+        "difficulty of drawing general conclusions from unusual phenomena"
+      ],
+      "answer": 4,
+      "points": 3,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "The human desire to make pictures is deeply rooted. At least 64,000 years ago, Neanderthals used colored oxide and charcoal to make paintings of large wild animals, tracings of human hands, and abstract patterns on cave and rock walls. Today, people create images with a multitude of mediums, including photography. What drives this picture-making impulse? Some make pictures for commercial reasons. Others create informational systems or employ scientific imaging tools to visualize the unseen. Artists use images expressionistically, to conceptualize and articulate who they are and how they view the world. However, the fundamental motive for making the vast majority of pictures is a desire to preserve: to document, and therefore honor, specific people, events, and possessions of importance. Regardless of purpose, the making of images persists because words alone cannot always provide a satisfactory way to describe and express our relationship to the world. Pictures are an essential component of how humans observe, communicate, celebrate, comment, and, most of all, remember. What and how we remember shapes our worldview, and pictures can provide a stimulus to jog one's memory.\n* oxide: 산화물 ** impulse: 충동 *** articulate: 분명히 표현하다",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "factors that influence the art evaluation process",
+        "difference between commercial images and informative pictures",
+        "explanation for the human desire of creating images to remember",
+        "benefits of written records in understanding our ancestors",
+        "change in the value of the same painting across history"
+      ],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "If you want to bring something into shared reality for the purpose of social coordination, you have to describe it, or at the very least label it. Even the ideally objective pursuit of science is unable to escape the framing effects of language. Like all collective culture, science is constructed on report, reason, debate, negotiation, justification, consensus, and, most important, coordination. And all of these things depend on language. Even something as fundamental as particle physics depends on language in a particular way. I don't mean that particle physics wouldn't exist if we didn't describe it. Particle physics is part of brute reality and so it will carry on independent of any human agreement or understanding of what it is. But consider this remark by Michael I. Jordan, referring to the \"infinite potential well\" model, which studies how a single particle behaves in a small, enclosed space: \"A particle in a potential well is optimizing a function called the Lagrangian function. The particle doesn't know that. There's no algorithm running that does that. It just happens. It's a description mathematically of something that helps us understand as analysts what's happening.\"",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "necessity of language in framing and interpreting reality",
+        "role of word choices in science to avoid misinterpretation",
+        "ways to establish scientific facts without linguistic framing",
+        "impact of social coordination on setting priorities in science",
+        "difficulty of naming complex social phenomena with simple terms"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Some multinational IT companies, which generate revenue through digital advertising and data collection, have been accused of exploiting loopholes in international tax regimes to shift profits to low-tax territories. This practice, known as profit shifting, allows corporations to pay minimal taxes in the countries where they operate, depriving governments of critical revenue. In response, several countries have attempted to impose digital services taxes on tech giants, but these efforts have been met with fierce resistance. Corporations argue that such taxes unfairly target their business models, while governments contend that they are necessary to level the playing field and ensure that corporations contribute their fair share to the public good. These disputes over taxation illustrate the broader challenge that governments face in regulating multinational corporations. Meanwhile, traditional regulatory frameworks, designed for nation-bound businesses, are often ill-equipped to address the complexities of global operations. As a result, corporations are frequently able to avoid or undermine regulations, operating in a legal gray area where national laws cannot easily reach them.\n* loophole: 허점",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "benefits of reducing taxes on multinational corporations",
+        "the rise of corporate social responsibility in global markets",
+        "strategies to attract foreign investment through tax incentives",
+        "the need for tax cuts to ensure fair growth for global corporations",
+        "struggles of governments to tax and regulate multinational companies"
+      ],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "The purpose of class discussions is to encourage you to be an active participant, not a passive recorder. Much of the emphasis in a discussion is on getting students involved in thinking, reacting, and responding. These are important intellectual activities in the learning process, for through them you are supposed to discover and express your opinions. Writing is an invaluable tool for accomplishing these tasks. Unfortunately, too many times, when class discussion begins, pens and pencils go down. Admittedly, it is considerably more difficult to take notes from discussions than from lectures, for, unlike lectures, discussions tend to be disorganized and difficult to follow. Also, students usually don't know how much of what other students are saying is important. And if you are an active participant, it is not easy to take notes and formulate what you want to say. But note taking in discussions is not only manageable, it is also important. Note taking helps to keep you active and alert; it allows you to impose some organization on the discussion; and it can prepare you to speak.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "reasons to standardize procedures for class discussions",
+        "strategies to improve note-taking skills for public speaking",
+        "significance of note taking for active engagement in discussion",
+        "effectiveness of summarizing and reviewing notes after class",
+        "benefits of brainstorming to generate ideas for writing tasks"
+      ],
+      "answer": 3,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "The prevalence of diseases among wild animals can be compared to an iceberg. It is only its top that appears visible to us, an insignificant fraction of its total volume. There are two main causes that converge to bring about this scenario. First, until very recently, research on wild animal disease has been an underestimated field of inquiry. Wild animal disease is thought to be relevant only inasmuch as it proves instrumental in bettering our knowledge about treatment of diseases affecting human and domestic populations. Second, disease is a fundamentally surreptitious phenomenon, often resulting from many factors interacting simultaneously. Unlike humans and other animals under human control, wild animals are anonymous. We can make estimations about their numbers and whereabouts, but we do not have accurate records of them. In addition, sick and dead animals are quickly assimilated into the environment by predators and scavengers. As a consequence, the results of wild animal death caused by disease remain, for the most part, hidden from us.\n* converge: 수렴하다 ** surreptitious: 비밀의 *** anonymous: 알려져 있지 않은",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "far-reaching consequences of unidentified diseases in wildlife",
+        "the relationship between disease prevalence and survival rates",
+        "the role of human intervention in preventing wild animal diseases",
+        "challenges involved in detecting diseases in wildlife populations",
+        "the significance of researching diseases in wildlife for human health"
+      ],
+      "answer": 4,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "In writing a life, the life narrator and the biographer engage different kinds of evidence. Most biographers incorporate multiple forms of evidence, including historical documents, interviews, and family archives, which they evaluate for validity. Relatively few biographers use their personal memories of their subject as reliable evidence, unless they had a personal relationship to the subject of the biography (as a relative, child, friend, or colleague). For life narrators, by contrast, personal memories are the primary archival source. They may have recourse to other kinds of sources ― letters, journals, photographs, conversations ― and to their knowledge of a historical moment. But the usefulness of such evidence for their stories lies in the ways in which they employ that evidence to support, supplement, or offer commentary on their personalized acts of remembering. In autobiographical narratives, imaginative acts of remembering always overlap with such rhetorical acts as assertion, justification, judgment, conviction, and questioning.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "role of personal memories in different types of life storytelling",
+        "advantages of documenting evidence-based family histories",
+        "influence of the source types on the quality of life narratives",
+        "similarity of data sources in describing a person's life",
+        "crucial conditions for the success of life narrators"
+      ],
+      "answer": 1,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "Places today have become exhibitions of themselves. Through heavy investment in architecture, art, design, exhibition space, landscaping and various kinds of redevelopment towns, cities and countryside pronounce their possession of various cultural values — such as unchanging nature, the historic past, the dynamic future, multiculturalism, fun and pleasure, artistic creativity or simply stylishness. These cultural values have come to be seen as a place's identity, the possession of which is key to the important task of attracting visitors. And this identity is expected to be easily accessed by those visitors or, to use a currently favoured term in urban design, to be legible. Places whose identity seems inaccessible, confusing or contradictory do not present themselves as destinations. They do not, in other words, seem visitable. An identity that is not pointed to in the form of well-restored or beautifully designed buildings, artworks, shopping plazas, streets, walkways or gardens does not compose itself into a view nor offer itself as an 'experience'. To avoid such a fate, places should 'make the most of themselves'. In this way, they can find their niche in the new cultural economy of visitability.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "importance of places showcasing a clear cultural identity",
+        "need for preserving traditional lifestyles from urbanization",
+        "benefits of mixing foreign and local culture to attract tourists",
+        "impact of globalization in weakening the uniqueness of location",
+        "role of citizen participation in shaping urban identity and design"
+      ],
+      "answer": 1,
+      "points": 3,
+      "source": "2025년 10월 고3 학력평가"
+    }
+  ]
+}

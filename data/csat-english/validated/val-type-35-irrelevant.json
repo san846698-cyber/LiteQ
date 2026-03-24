@@ -1,0 +1,118 @@
+{
+  "type": "무관한 문장",
+  "typeNumber": 35,
+  "validationSummary": {
+    "totalQuestions": 5,
+    "matchCount": 5,
+    "mismatchCount": 0,
+    "accuracy": "100%",
+    "verdict": "PASS"
+  },
+  "validated": [
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "Urban green spaces have been shown to provide significant psychological benefits to city residents. Research consistently indicates that access to parks and tree-lined streets reduces stress hormones and improves overall mental well-being. ① These findings hold true across diverse populations, regardless of socioeconomic background or cultural context. ② Even brief exposure to natural elements — such as a ten-minute walk through a park — can measurably lower cortisol levels and elevate mood. ③ The economic value of urban real estate tends to increase in neighborhoods that invest in sustainable infrastructure and modern public transportation networks. ④ Furthermore, hospital patients with views of greenery have been found to recover faster than those facing walls or parking lots. ⑤ Taken together, the evidence strongly supports integrating nature into urban planning as a public health strategy.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 3,
+        "generatedAnswer": 3,
+        "match": true,
+        "reasoning": "The passage discusses psychological and health benefits of urban green spaces. Sentence ③ shifts to real estate economics and transportation infrastructure — a different topic entirely. Sentences ①②④⑤ all directly address health/psychological benefits of greenery and form a coherent argument without ③.",
+        "mainTopic": "Psychological and health benefits of urban green spaces",
+        "irrelevantSentenceAnalysis": "③ mentions 'neighborhoods' and 'urban' for surface-level domain overlap, but its claim about real estate value and public transportation is unrelated to the passage's health-focused argument.",
+        "flowWithoutIrrelevant": "Intro → ① benefits across populations → ② brief exposure lowers cortisol → ④ hospital patients recover faster with greenery → ⑤ conclusion: integrate nature as public health strategy. Coherent.",
+        "qualityIssues": [],
+        "difficultyAssessment": "medium — ③ shares urban vocabulary but the content divergence is fairly clear",
+        "verdict": "PASS"
+      }
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "The concept of 'flow,' first described by psychologist Mihaly Csikszentmihalyi, refers to a mental state in which a person is fully immersed in an activity with a feeling of energized focus and deep enjoyment. Achieving flow requires a delicate balance between the difficulty of a task and the individual's skill level. ① When a task is too easy, boredom sets in; when it is too difficult, anxiety takes over. ② In either case, the person fails to enter the highly productive and satisfying state of flow. ③ Organizations that provide employees with autonomy and purpose tend to report higher retention rates and stronger brand loyalty among consumers. ④ Importantly, flow is not limited to work or creative pursuits — athletes, musicians, and even surgeons frequently describe experiencing this state during peak performance. ⑤ Understanding and cultivating the conditions for flow can therefore lead to significant improvements in both personal satisfaction and professional achievement.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 3,
+        "generatedAnswer": 3,
+        "match": true,
+        "reasoning": "The passage explains the psychological concept of 'flow' — what it is, what conditions produce it, and where it occurs. Sentence ③ abruptly shifts to organizational retention rates and consumer brand loyalty, which are workplace management metrics unrelated to the flow state itself.",
+        "mainTopic": "The concept of flow: conditions, characteristics, and applications",
+        "irrelevantSentenceAnalysis": "③ uses workplace-related terms ('employees,' 'autonomy') that could seem tangentially connected since flow can occur at work, but the actual claim about retention rates and brand loyalty has nothing to do with the psychological state of flow.",
+        "flowWithoutIrrelevant": "Intro → ① too easy = boredom, too hard = anxiety → ② both prevent flow → ④ flow across domains (athletes, musicians, surgeons) → ⑤ cultivating flow improves satisfaction and achievement. Coherent.",
+        "qualityIssues": [],
+        "difficultyAssessment": "medium — the 'autonomy and purpose' language in ③ could briefly mislead students who associate those terms with intrinsic motivation, a related but distinct concept",
+        "verdict": "PASS"
+      }
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "Coral reefs are often called the 'rainforests of the sea' because of the extraordinary biodiversity they support. Despite covering less than one percent of the ocean floor, they are home to roughly a quarter of all known marine species. ① This remarkable concentration of life arises from the complex three-dimensional structures that corals create, which provide shelter, breeding grounds, and feeding areas for countless organisms. ② The symbiotic relationship between corals and the microscopic algae living within their tissues is fundamental to the reef's survival. ③ These algae, known as zooxanthellae, supply the coral with most of its energy through photosynthesis. ④ Marine biologists have recently developed sophisticated tagging systems that allow individual fish to be tracked across vast stretches of open ocean. ⑤ When ocean temperatures rise, however, corals expel their algae in a process called bleaching, which, if prolonged, can lead to the death of the reef.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 4,
+        "generatedAnswer": 4,
+        "match": true,
+        "reasoning": "The passage traces a clear arc: coral reef biodiversity → coral structure → coral-algae symbiosis → algae function (photosynthesis) → bleaching when symbiosis fails. Sentence ④ about open-ocean fish-tracking technology is entirely outside this arc. It belongs to marine biology broadly but not to the coral reef ecosystem discussion.",
+        "mainTopic": "Coral reef biodiversity, the coral-algae symbiotic relationship, and the threat of bleaching",
+        "irrelevantSentenceAnalysis": "④ uses marine science vocabulary ('marine biologists,' 'fish,' 'ocean') creating domain overlap, but its subject — fish-tracking technology in the open ocean — is unrelated to the coral reef symbiosis and bleaching narrative.",
+        "flowWithoutIrrelevant": "Intro → ① complex coral structures support biodiversity → ② coral-algae symbiosis is fundamental → ③ zooxanthellae provide energy via photosynthesis → ⑤ rising temperatures cause bleaching and reef death. Coherent.",
+        "qualityIssues": [],
+        "difficultyAssessment": "medium — ④ is clearly about a different subtopic (open-ocean tracking vs. reef ecosystem), though the marine science vocabulary provides some surface camouflage",
+        "verdict": "PASS"
+      }
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "The development of writing systems was not a single invention but a process that occurred independently in several different civilizations. In Mesopotamia, early forms of writing emerged around 3400 BCE as a practical tool for recording economic transactions. ① Over time, these simple pictographic marks evolved into the more abstract cuneiform script, which could represent not only objects but also sounds and grammatical relationships. ② This shift from pictographic to phonetic representation was a crucial breakthrough, as it allowed writers to express any idea that could be spoken. ③ Ancient Mesopotamian societies maintained rigid hierarchies in which priestly classes wielded considerable political influence over agricultural policy. ④ Similar transitions from pictures to phonetic signs occurred independently in Egypt and China, suggesting that there is something universal about the trajectory of writing development. ⑤ In each case, the demands of an increasingly complex society drove the evolution of writing from a simple recording tool into a versatile medium of expression.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 3,
+        "generatedAnswer": 3,
+        "match": true,
+        "reasoning": "The passage traces the evolution of writing systems from pictographic to phonetic representation across civilizations. Sentence ③ discusses Mesopotamian priestly hierarchies and agricultural policy — a social history fact that has nothing to do with how writing systems developed, even though it shares the Mesopotamian historical setting.",
+        "mainTopic": "The independent, parallel evolution of writing systems from pictographic to phonetic representation",
+        "irrelevantSentenceAnalysis": "③ is cleverly deceptive: it names 'Ancient Mesopotamian societies,' directly matching the passage's geographic and temporal setting. However, its content (priestly class political influence over agriculture) is entirely tangential to writing system development.",
+        "flowWithoutIrrelevant": "Intro → ① pictographic marks evolved into cuneiform (objects + sounds) → ② pictographic-to-phonetic shift was a crucial breakthrough → ④ similar transitions in Egypt and China suggest universality → ⑤ complex societies drove writing from recording tool to expressive medium. Coherent.",
+        "qualityIssues": [],
+        "difficultyAssessment": "medium-high — the shared Mesopotamian setting makes ③ more tempting as a relevant sentence; students must distinguish between same-setting and same-topic",
+        "verdict": "PASS"
+      }
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "Sleep is not a uniform state but rather a cyclical process composed of distinct stages, each serving different biological functions. During deep slow-wave sleep, the body repairs tissues, strengthens the immune system, and consolidates declarative memories such as facts and events. ① REM sleep, by contrast, is associated with emotional regulation and the integration of newly learned skills into existing neural networks. ② Disruptions to the natural sleep cycle — whether from shift work, jet lag, or screen exposure before bed — can impair both cognitive performance and physical health. ③ The pharmaceutical industry has invested heavily in developing sleep aids, generating billions of dollars in annual revenue worldwide. ④ Studies show that even a single night of poor sleep can reduce attention span, slow reaction times, and weaken the body's inflammatory response. ⑤ For these reasons, sleep researchers increasingly argue that consistent, high-quality sleep should be treated as a fundamental pillar of preventive medicine.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "validation": {
+        "independentAnswer": 3,
+        "generatedAnswer": 3,
+        "match": true,
+        "reasoning": "The passage discusses the biological stages of sleep, what each stage does, and the health consequences of disruption. Sentence ③ shifts to the pharmaceutical industry's revenue from sleep aids — a commercial/economic fact that is topically adjacent (sleep domain) but argumentatively irrelevant to the biological function discussion.",
+        "mainTopic": "Biological stages and functions of sleep, and health consequences of disruption",
+        "irrelevantSentenceAnalysis": "③ uses 'sleep aids' to maintain surface-level relevance to the sleep topic, but its actual claim (pharmaceutical industry investment and revenue) is an economic observation unrelated to the passage's argument about sleep biology and health.",
+        "flowWithoutIrrelevant": "Intro → ① REM sleep handles emotional regulation and skill integration → ② disruptions impair cognition and health → ④ one night of poor sleep has measurable negative effects → ⑤ sleep should be treated as preventive medicine. Coherent.",
+        "qualityIssues": [],
+        "difficultyAssessment": "medium — ③ is in the sleep domain but the commercial angle is fairly distinguishable from the biological argument",
+        "verdict": "PASS"
+      }
+    }
+  ]
+}

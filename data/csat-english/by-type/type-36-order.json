@@ -1,0 +1,367 @@
+{
+  "type": "순서 배열",
+  "typeNumbers": [36, 37],
+  "totalCount": 36,
+  "questions": [
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Aristotle explains that the Good for human beings consists in eudaimoniā (a Greek word combining eu meaning \"good\" with daimon meaning \"spirit,\" and most often translated as \"happiness\").\n\n(A) It depends only on knowledge of human nature and other worldly and social realities. For him it is the study of human nature and worldly existence that will disclose the relevant meaning of the notion of eudaimoniā.\n\n(B) Some people say it is worldly enjoyment while others say it is eternal salvation. Aristotle's theory will turn out to be \"naturalistic\" in that it does not depend on any theological or metaphysical knowledge.\n\n(C) Whereas he had argued in a purely formal way that the Good was that to which we all aim, he now gives a more substantive answer: that this universal human goal is happiness. However, he is quick to point out that this conclusion is still somewhat formal since different people have different views about what happiness is.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "A large body of research in decision science has indicated that one attribute that is regularly substituted for an explicit assessment of decision costs and benefits is an affective valuation of the prospect at hand.\n\n(A) People were willing to pay almost as much to avoid a 1 percent probability of receiving a shock as they were to pay to avoid a 99 percent probability of receiving a shock. Clearly the affective reaction to the thought of receiving a shock was overwhelming the subjects' ability to evaluate the probabilities associated.\n\n(B) This is often a very rational attribute to substitute — affect does convey useful signals as to the costs and benefits of outcomes. A problem sometimes arises, however, when affective valuation is not supplemented by any analytic processing and adjustment at all.\n\n(C) For example, sole reliance on affective valuation can make people insensitive to probabilities and to quantitative features of the outcome that should effect decisions. One study demonstrated that people's evaluation of a situation where they might receive a shock is insensitive to the probability of receiving the shock because their thinking is swamped by affective evaluation of the situation.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "The Earth formed from rocky and metallic fragments during the construction of the solar system — debris that was swept up by an initial nucleus and attracted together into a single body by the force of gravity.\n\n(A) This increasing gravity, combined with the timeless radioactive decay of elements like uranium and thorium, caused the new Earth to heat up. The internal temperature and pressure were high enough for many compounds to break down or melt, releasing their water and gases.\n\n(B) The original materials were cold as outer space and dry as dust; whatever water and gases they contained were locked inside individual fragments as chemical compounds. As the fragments joined, the Earth's gravity increased, attracting larger and larger objects to impact the Earth.\n\n(C) Even solid material could begin to move and flow under such conditions. Separation by density began, and the Earth started to organize into its present layered structure. The heaviest metals sank to the center; the lightest materials migrated outward.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Representation is control. The power to represent the world is the power to represent us in it or it in us. Imperializing cultures produce great works of art which can be put to work intellectually as armies and trading houses work militarily and economically.\n\n(A) That is because unless we can control the world intellectually by maps we cannot control it militarily or economically. Mercator, Molière, Columbus and Captain Cook imperialized in different ways, but they all imperialized, and ultimately the effectiveness of one depended upon and supported the effectiveness of all the others.\n\n(B) Similarly the US form of contemporary colonization, which involves occupying economies and political parties rather than physical territories, is accompanied by the power of both Hollywood and the satellite to represent the world to and for the US.\n\n(C) Shakespeare, Jane Austen and maps were as important to English Imperial power as was the East India Company, the British army and the churches of England. It is no coincidence that modern Europe, the Europe of colonization, was also the Europe of \"great art,\" and no coincidence either that it was the Europe of great map makers.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "The growing complexity of computer software has direct implications for our global safety and security, particularly as the physical objects upon which we depend transform themselves into computer code.\n\n(A) As all this code grows in size and complexity, so too do the number of errors and software bugs. According to a study by Carnegie Mellon University, commercial software typically has twenty to thirty bugs for every thousand lines of code.\n\n(B) This is the basis for all malware attacks that take advantage of these computer bugs. As computer code grows more elaborate, software bugs flourish and security suffers, with increasing consequences for society at large.\n\n(C) Physical things are increasingly becoming information technologies. Cars are \"computers we ride in,\" and airplanes are nothing more than \"flying Solaris boxes attached to bucketfuls of industrial control systems.\"",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Darwin saw blushing as uniquely human, representing an involuntary physical reaction caused by embarrassment and self-consciousness in a social environment.\n\n(A) Maybe our brief loss of face benefits the long-term cohesion of the group. Interestingly, if someone blushes after making a social mistake, they are viewed in a more favourable light than those who don't blush.\n\n(B) If we feel awkward, embarrassed or ashamed when we are alone, we don't blush; it seems to be caused by our concern about what others are thinking of us. Studies have confirmed that simply being told you are blushing brings it on.\n\n(C) However, while we sometimes want to disappear when we involuntarily go bright red, psychologists argue that blushing actually serves a positive social purpose. When we blush, it's a signal to others that we recognize that a social norm has been broken; it is an apology for a faux pas.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 36,
+      "type": "순서배열",
+      "passage": "The desire to see and interact with animals, shaped as it is by popular culture, can be a motivating factor for travel, but negative perceptions of certain animals can perform an entirely opposite role in discouraging people from visiting some destinations.\n\n(A) For example, there are a variety of t-shirt and tea towel designs which celebrate the dangerous animals that can be encountered in Australia. This is a whimsical reconfiguration of the perceived threat that these animals pose to some tourists considering travel to this country.\n\n(B) The harmful effects of animals on tourism experiences has been the subject of analysis in a small number of studies, but deaths or injuries caused by animals to tourists are tiny in comparison to other causes such as drowning and vehicular accidents.\n\n(C) Nevertheless, the possibility that they might encounter a dangerous animal such as shark or snake or catch a disease such as malaria is sufficient to stop at least some tourists from visiting destinations where such threats exist. Sometimes this fear is turned into a marketing opportunity.\n\n* whimsical: 기발한 ** reconfiguration: 재구성",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서배열",
+      "passage": "In the course of acquiring a language, children are exposed to only a finite set of utterances. Yet they come to use and understand an infinite set of sentences.\n\n(A) Yet, they all arrive at pretty much the same grammar. The input that children get is haphazard in the sense that caretakers do not talk to their children to illustrate a particular point of grammar. Yet, all children develop systematic knowledge of a language.\n\n(B) Thus, despite the severe limitations and variation in the input children receive, and also in their personal circumstances, they all develop a rich and uniform system of linguistic knowledge. The knowledge attained goes beyond the input in various ways.\n\n(C) This has been referred to as the creative aspect of language use. This 'creativity' does not refer to the ability to write poetry or novels but rather the ability to produce and understand an unlimited set of new sentences never spoken or heard previously. The precise linguistic input children receive differs from child to child; no two children are exposed to exactly the same set of utterances.\n\n* haphazard: 무작위적인, 되는 대로의",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서배열",
+      "passage": "The intuitive ability to classify and generalize is undoubtedly a useful feature of life and research, but it carries a high cost, such as in our tendency to stereotype generalizations about people and situations.\n\n(A) Intuitively and quickly, we mentally sort things into groups based on what we perceive the differences between them to be, and that is the basis for stereotyping. Only afterwards do we examine (or not examine) more evidence of how things are differentiated, and the degree and significance of the variations.\n\n(B) Our brain performs these tasks efficiently and automatically, usually without our awareness. The real danger of stereotypes is not their inaccuracy, but their lack of flexibility and their tendency to be preserved, even when we have enough time to stop and consider.\n\n(C) For most people, the word stereotype arouses negative connotations: it implies a negative bias. But, in fact, stereotypes do not differ in principle from all other generalizations; generalizations about groups of people are not necessarily always negative.\n\n* intuitive: 직관적인 ** connotation: 함축",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 37,
+      "type": "순서배열",
+      "passage": "Plants show finely tuned adaptive responses when nutrients are limiting. Gardeners may recognize yellow leaves as a sign of poor nutrition and the need for fertilizer.\n\n(A) In contrast, plants with a history of nutrient abundance are risk averse and save energy. At all developmental stages, plants respond to environmental changes or unevenness so as to be able to use their energy for growth, survival, and reproduction, while limiting damage and nonproductive uses of their valuable energy.\n\n(B) Research in this area has shown that plants are constantly aware of their position in the environment, in terms of both space and time. Plants that have experienced variable nutrient availability in the past tend to exhibit risk-taking behaviors, such as spending energy on root lengthening instead of leaf production.\n\n(C) But if a plant does not have a caretaker to provide supplemental minerals, it can proliferate or lengthen its roots and develop root hairs to allow foraging in more distant soil patches. Plants can also use their memory to respond to histories of temporal or spatial variation in nutrient or resource availability.\n\n* nutrient: 영양소 ** fertilizer: 비료 *** forage: 구하러 다니다",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 3,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Shakespeare wrote, \"What's in a name? That which we call a rose by any other name would smell as sweet.\"\n\n(A) Take the word bridge. In German, bridge (die brücke) is a feminine noun; in Spanish, bridge (el puente) is a masculine noun. Boroditsky found that when asked to describe a bridge, native German speakers used words like beautiful, elegant, slender. When native Spanish speakers were asked the same question, they used words like strong, sturdy, towering.\n\n(B) According to Stanford University psychology professor Lera Boroditsky, that's not necessarily so. Focusing on the grammatical gender differences between German and Spanish, Boroditsky's work indicates that the gender our language assigns to a given noun influences us to subconsciously give that noun characteristics of the grammatical gender.\n\n(C) This worked the other way around as well. The word key is masculine in German and feminine in Spanish. When asked to describe a key, native German speakers used words like jagged, heavy, hard, metal. Spanish speakers used words like intricate, golden, lovely.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Our perception always involves some imagination. It is more similar to painting than to photography. And, according to the confirmation effect, we blindly trust the reality we construct.\n\n(A) You will see that the majority of us are quite ignorant about what lies around us. This is not so puzzling. The most extraordinary fact is that we completely disregard this ignorance.\n\n(B) This is best witnessed in visual illusions, which we perceive with full confidence, as if there were no doubt that we are portraying reality faithfully. One interesting way of discovering this — in a simple game that can be played at any moment — is the following.\n\n(C) Whenever you are with another person, ask him or her to close their eyes, and start asking questions about what is nearby — not very particular details but the most striking elements of the scene. What is the color of the wall? Is there a table in the room? Does that man have a beard?",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Different creative pursuits require varying degrees of unconscious flexible thinking, in combination with varying degrees of the conscious ability to adjust it and shape it through analytical thinking. In music, for example, at one end of the creative spectrum are improvisational artists, such as jazz musicians.\n\n(A) On the other end of the spectrum are those who compose complex forms, such as a symphony or concerto, that require not just imagination but also careful planning and exacting editing. We know, for example, through his letters and the reports of others, that even Mozart's creations did not appear spontaneously, wholly formed in his consciousness, as the myths about him portray.\n\n(B) They have to be particularly talented at lowering their inhibitions and letting in their unconsciously generated ideas. And although the process of learning the fundamentals of jazz would require a high degree of analytical thought, that thinking style is not as big a factor during the performance.\n\n(C) Instead, he spent long, hard hours analyzing and reworking the ideas that arose in his unconscious, much as a scientist does when producing a theory from a germ of insight. In Mozart's own words: \"I immerse myself in music... I think about it all day long — I like experimenting — studying — reflecting...\"",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 3,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Today, historic ideas about integrating nature and urban/suburban space find expression in various interpretations of sustainable urban planning.\n\n(A) But Landscape Urbanists find that these designs do not prioritize the natural environment and often involve diverting streams and disrupting natural wetlands. Still others, such as those advocating for \"just sustainabilities\" or \"complete streets,\" find that both approaches are overly idealistic and neither pays enough attention to the realities of social dynamics and systemic inequality.\n\n(B) However, critics claim that Landscape Urbanists prioritize aesthetic and ecological concerns over human needs. In contrast, New Urbanism is an approach that was popularized in the 1980s and promotes walkable streets, compact design, and mixed-use developments.\n\n(C) However, the role of social justice in these approaches remains highly controversial. For example, Landscape Urbanism is a relatively recent planning approach that advocates for native habitat designs that include diverse species and landscapes that require very low resource use.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Philosophers who seek to understand the nature of time might consider the possibility of time travel. But there are no real‑life cases of time travel.\n\n(A) It seems that something must happen to prevent you from doing this, because if you were to succeed, you would not exist and so you would not have been able to go back in time. As a result of thinking through these sorts of cases, some philosophers claim that the very notion of time travel makes no sense.\n\n(B) In situations such as this, philosophers often construct thought experiments ― imagined scenarios that bring out the thoughts and presuppositions underlying people's judgments. Sometimes these scenarios are drawn from books, movies, and television. Other times, philosophers just make up their own scenarios.\n\n(C) Either way, the point is to put such concepts to the test. In the case of time travel, for example, a common thought experiment is to imagine what would happen if you went back in time and found yourself in a position to interfere in such a way that you were never born.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "A universal indicator of sleep is the loss of external awareness. You are no longer conscious of all that surrounds you, at least not explicitly. In actual fact, your ears are still 'hearing'; your eyes, though closed, are still capable of 'seeing.'\n\n(A) Should they be granted its permission to pass, they are sent to the cortex at the top of your brain, where they are consciously perceived. By locking its gates shut, the thalamus imposes a sensory blackout in the brain, preventing onward travel of those signals to the cortex.\n\n(B) As a result, you are no longer consciously aware of the information broadcasts being transmitted from your outer sense organs. At this moment, your brain has lost waking contact with the outside world. Said another way, you are now asleep.\n\n(C) All these signals still flood into the center of your brain while you sleep, but they are blocked by a perceptual barricade set up in a structure called the thalamus. The thalamus decides which sensory signals are allowed through its gate, and which are not.\n\n* cortex: 대뇌피질 ** thalamus: 시상(視床)",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Wildfire is a natural phenomenon in many Australian environments. The intentional setting of fire to manage the landscape was practised by Aboriginal people for millennia.\n\n(A) However, the pattern of burning that stockmen introduced was unlike previous regimes. When conditions allowed, they would set fire to the landscape as they moved their animals out for the winter. This functioned to clear woody vegetation and also stimulated new plant growth in the following spring.\n\n(B) Although grasses were the first kinds of plants to recolonize the burnt areas they were soon succeeded by further woody plants and shrubs. About the only strategy to prevent such regrowth was further burning — essentially using fire to control the consequences of using fire.\n\n(C) The young shoots were a ready food source for their animals when they returned. However, the practice also tended to reinforce the scrubby growth it was intended to control.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 1,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "There are a number of human resource management practices that are necessary to support organizational learning.\n\n(A) Their role should be to assist, consult, and advise teams on how best to approach learning. They must be able to develop new mechanisms for cross-training peers — team members — and new systems for capturing and sharing information. To do this, human resource development professionals must be able to think systematically and understand how to promote learning within groups and across the organization.\n\n(B) For example, performance evaluation and reward systems that reinforce long-term performance and the development and sharing of new skills and knowledge are particularly important. In addition, the human resource development function may be dramatically changed to keep the emphasis on continuous learning.\n\n(C) In a learning organization, every employee must take the responsibility for acquiring and transferring knowledge. Formal training programs, developed in advance and delivered according to a preset schedule, are insufficient to address shifting training needs and encourage timely information sharing. Rather, human resource development professionals must become learning facilitators.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Technocracy can be thought to influence technological decision-making in one of two ways.\n\n(A) This is because policymakers work within the constraints set by the experts and choose from the options those experts provide. The technocratic element is clear: experts set the agenda and political judgements are parasitic on the judgements of experts.\n\n(B) An idealized science and technology replaces politics and technical experts become the decision-makers, planning and organizing societies according to whatever scientific principles the evidence supports. This form of technocracy is rarely found in practice.\n\n(C) In contrast, a more moderate form in which experts advise and politicians decide is found in many democratic societies. Also called the 'decisionist model', this form of technocracy institutionalizes a division of labour based on the distinction between facts and values and allows specialist experts to wield significant power.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Land use change can be good or bad for the climate. Plants use photosynthesis to convert carbon dioxide from the air and water to carbohydrates.\n\n(A) In those conditions microorganisms consume carbon that has been stored in the soil and in plants and animals, and respire that stored carbon back to atmosphere as CO2. If the original ecosystem was a forest, much of the carbon stored in the trees may also be converted to CO2 through burning.\n\n(B) That extra carbon is stored in living biomass like tree trunks and soil bacteria and fungi, and as carbon compounds in the soil. But when actions like deforestation or plowing severely disturb a plant community, the remaining plants cannot photosynthesize enough to feed themselves, plus all the animals and microorganisms that depend on them.\n\n(C) Those carbohydrates provide the energy plants need to live, and the building blocks for plant growth, as well as food for animals and microorganisms. In healthy ecosystems the plants pull more carbon out of the atmosphere than they, and the animals and microorganisms that consume them, need.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "If learning were simply a matter of accumulating lists of facts, then it shouldn't make any difference if we are presented with information that is just a little bit beyond what we already know or totally new information.\n\n(A) If we are trying to understand something totally new, however, we need to make larger adjustments to the units of the patterns we already have, which requires changing the strengths of large numbers of connections in our brain, and this is a difficult, tiring process.\n\n(B) The adjustments are clearly smallest when the new information is only slightly new ― when it is compatible with what we already know, so that the old patterns need only a little bit of adjustment to accommodate the new knowledge.\n\n(C) Each fact would simply be stored separately. According to connectionist theory, however, our knowledge is organized into patterns of activity, and each time we learn something new we have to modify the old patterns so as to keep the old material while adding the new information.\n* compatible: 양립하는",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 3,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "The generally close connection between health and what animals want exists because wanting to obtain the right things and wanting to avoid the wrong ones are major ways in which animals keep themselves healthy.\n\n(A) They can take pre-emptive action so that the worst never happens. They start to want things that will be necessary for their health and survival not for now but for some time in the future.\n\n(B) Animals have evolved many different ways of maintaining their health and then regaining it again once it has been damaged, such as an ability to heal wounds when they are injured and an amazingly complex immune system for warding off infection.\n\n(C) Animals are equally good, however, at dealing with injury and disease before they even happen. They have evolved a complex set of mechanisms for anticipating and avoiding danger altogether.\n* pre-emptive: 선제의 ** ward off: 막다",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "From infancy, even before we learn to speak, we absorb how to infer people's emotions from their behaviors.\n\n(A) Some people, however, have a talent for detecting emotions, even when they're unspoken. We all know people like this: Friends who seem to intuit when we're feeling down, even if we haven't said anything; managers who sense when a kind word is needed to help us get over the hump at work.\n\n(B) As we grow older, however, this capacity can atrophy. We start to pay increasing attention to what people say rather than what they do, to the point where we can fail to notice non-linguistic clues. Spoken language is so information rich that it lulls us into ignoring hints that someone might be, say, upset and instead focus on their words when they say, It's nothing. I feel fine.\n\n(C) It's natural to assume these people are unusually observant, or uncommonly sensitive. Sometimes they are. But years of research indicates this is a skill anyone can develop. We can learn to identify the nonverbal clues that indicate someone's true emotions and use these hints to understand what they are feeling.\n* over the hump: 고비를 넘겨 ** atrophy: 쇠퇴하다 *** lull ~ into: ~을 (속이어) …하게 하다",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Some epistemic feelings let us know that we know. These include the feeling of knowing, the feeling of certainty, and the feeling of correctness.\n\n(A) Other epistemic feelings alert our attention to what we do not yet know. Curiosity, awe, and wonder fall into this category. As with the feelings of knowing, we can ask whether feelings of not-yet-knowing are necessarily right. It does seem that if you wonder at something, there is something that prompted you to wonder.\n\n(B) This feeling alerts you to the fact that your current body of knowledge — the schemas, heuristics, and other information you use — did not prepare you for the thing you wonder at. As such, wonder is a useful emotion, because it points to gaps in what you thought you knew.\n\n(C) For example, you feel sure that \"1666\" is the answer to the question, \"When did the Great Fire of London occur?\" Feeling that you know, even that you are sure, is not unfailing. We can be mistaken in those feelings. [3점]\n* epistemic: 인식론적 ** heuristics: 휴리스틱(특정 상황에서 사람들이 신속하게 사용하는 어림짐작의 기술)",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Some propositions about lotteries are extremely likely to be true. Consider the proposition 'any given ticket in a ten-million ticket lottery is a losing ticket'.\n\n(A) If we want to avoid conceding that the scope of our knowledge is much more limited than usually supposed, there must be some difference between the probabilistic evidence we have about the lottery and evidence for regular things that we do know.\n\n(B) Despite being overwhelmingly likely to be true, many philosophers think that such propositions, based on probabilities alone, are different from other propositions we regularly rely upon. It's been popular to suppose, for instance, that we don't know that we have lost the lottery just by reflecting on how unlikely winning is.\n\n(C) This is puzzling, because there are many things we take ourselves to know even though we presumably have more than a one-in-ten-million chance of being wrong. For example, you might know you will attend a meeting later, even though occasionally meetings get cancelled unexpectedly — and surely more frequently than one-in-ten-million meetings!",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "In everyday life, most people think that media effects are things that show up during a media exposure or immediately afterward.\n\n(A) This is an example of a media message triggering an immediate effect — a buying behavior — on you. But let's say you did not click on the buy now button to buy the product; does this mean there was no media effect? Perhaps, but also perhaps not.\n\n(B) Of course some effects do show up immediately, but other effects may take a long time to manifest themselves. Let's say you see an ad for a product on a website and you click on a buy now button to buy that product.\n\n(C) If you continually expose yourself to ads in the media, you may gradually over time come to believe that you have more needs than you really have and that all of those needs can be easily satisfied by buying particular products. This is a long-term effect on what you believe; it cannot be attributed to any one media exposure but instead gradually builds up in a steady drip-drip-drip manner over time.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "What would a language be like if it didn't make any simplifications or generalizations?\n\n(A) There might be some super-intelligent race of beings that could know such a language, but they would have to know virtually everything in the world to learn all these names. Human language has taken a different route — many fewer names, with a loss of precision, but a basic vocabulary that is readily acquired. However, this fact is not simply a compromise with our limited cognitive capacity.\n\n(B) By using the same word for different objects, we're communicating information about those things. Calling two different-looking things \"spider\" communicates that they probably have eight legs, weave nests, eat insects, and other noticeable details, which we would not know if we gave them all their own separate names.\n\n(C) It would be a language in which every word was a proper noun. Because you don't want to gloss over the differences between snakes that are slightly different in some respect, every snake must have its own name. Furthermore, every event must have its own verb, because not every occasion of thinking or dancing or talking is identical.\n* gloss over: ~에 대해 얼버무리고 넘어가다",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Self-regulation has been suggested as an alternative way to hold the tech industry to account.\n\n(A) But without consequences for violating them, these charters are just toothless statements of aspiration. The tech industry is basically saying: trust us. But blind trust is not how we govern doctors, lawyers, bankers, pilots or anyone else in unelected positions of social responsibility. Tech is the exception, and it's not clear why.\n\n(B) But when tech lobbyists speak of self-regulation, they are not describing it as it is understood by professionals like doctors. Unlike in medicine, there are no mandatory ethical qualifications for working as a software engineer or technology executive. There is no enforceable industry code of conduct. There is no obligatory certification. There is no duty to put the public ahead of profit.\n\n(C) There are few consequences for serious moral failings; no real fear of being suspended or struck off. Recent years have seen an explosion of AI ethics charters and the like, filled with well-meaning generalities about the responsible use of powerful computers.\n* charter: 헌장 ** mandatory: 의무적인",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Flowering plants and bees are not strict mutualists. Flowering plants don't want to give up all their precious pollen to undesirable pollinators or even to generally dependable pollinating bees.\n(A) Instead, they deceive male bees into thinking a particular orchid flower is a receptive, ready, and waiting female of their species to make them pollinate. Why not? They produce the same chemical scents and even sort of look like those female bees.\n(B) A small fraction of a flower's pollen grains must make their way to other flowers to ultimately produce seeds and foster new generations of plants. Bees, on the other hand, would like to collect all the pollen and not give any of it up.\n(C) This difference leads to cheaters in the system. Some nectar-robbing bees cut slits or holes at the bases of tube-shaped flowers and never deposit pollen on stigmas. They are anti-pollinators. Orchids and a few other flowering plants offer no food to bee pollinators.\n* pollinate: 화분을 암술머리에 나르다 ** orchid: 난초 *** stigma: 암술머리",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "The bond of friendship may solve a problem known as the banker's paradox. When you are facing financial ruin and most need a loan, the bank is unlikely to grant you one as you represent a terrible credit risk. On the other hand, when things are going well the bank is only too happy to offer you funds.\n(A) Why would a non-relative come to your aid, with a greatly reduced chance of being paid back the favour? The evolution of friendship provides a solution to the dilemma. The oxytocin-mediated bond between friends makes them irreplaceable to each other.\n(B) So if a friend falls seriously ill, rather than abandoning them to find someone else with whom to engage in reciprocal altruism, you have an emotional stake in their well-being that compels you to help them pull through. Friendship may have developed in human evolution as a form of insurance.\n(C) This same dynamic would also have posed a deep problem for reciprocal altruism in the world of our ancestors. Individuals may be least likely to receive help when they most need it, because they are least able to reciprocate.\n* reciprocal altruism: 호혜적 이타주의 ** stake: 이해관계",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "If we take an evolutionary look at our beginnings, we see a life in which high levels of physical activity were required for survival.\n\n(A) There are fewer manual jobs, we do not need to travel on foot, we do not need to hunt and harvest for our food, and many domestic chores have been mechanized. While these changes have created many benefits for our longevity and quality of life, they have also created many problems.\n\n(B) Lack of sufficient physical activity has now been linked to at least 17 unhealthy conditions, almost all of which are chronic diseases or considered risk factors for chronic diseases. Adrianne Hardman has summarized this serious situation for public health: \"Physical inactivity is a waste of human potential for health and well-being.\"\n\n(C) Even one century ago, most people needed to be physically active to work, to travel, and to take care of homes and families. Our modern world has engineered such activity out of our lives.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "A good example of chaos is the magnetic pendulum sold as an executive toy. It has four magnets arranged in a square at the base and a pendulum that swings back and forth between them.\n\n(A) In order to produce chaos, the iteration has to be within what is called a nonlinear system. Nor are all nonlinear systems chaotic: to become so they need to be pushed beyond a certain point, called a bifurcation. Before that point is reached they may behave in a quite orderly fashion.\n\n(B) Release the pendulum and note the magnets that it visits, and in what order. If the pendulum is released from the same position a second time, the pattern of movement may at first be the same but soon it will become completely different. In fact, the pattern of its movement is chaotic.\n\n(C) No matter how much care is taken to start the pendulum in the same position, it will visit an entirely different set of points on the two occasions. Chaotic systems are generated by iteration, though not all iteration leads to chaos.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "source": "2026학년도 6월 모의평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Social insects use alarm pheromones to alert related individuals of danger.\n(A) Stink bugs, stick insects, and many other insects have glands that produce repugnant — and sometimes powerfully pungent or even caustic and harmful — fluids that are meant to fight off an attacker. Blister beetles are so named because their defensive secretion, cantharidin, is particularly powerful and can cause chemical burns.\n(B) Toxic species often advertise this aspect of themselves through some form of coloration, called aposematic coloration. Among blister beetles, for example, some may be black with prominent red, orange, or yellow bands or spots, signaling \"do not touch.\" Others, however, can be entirely black or blue and yet just as capable of causing a painful burn.\n(C) Such chemical signals are often employed to alert a colony of some invader, and these alarms can cause huge numbers of worker ants or bees to flow from their nests, either to defend their nestmates, or simply to flee. Chemical signals may also be sent to individuals of a different species.\n* gland: 분비선 ** repugnant: 불쾌한 *** secretion: 분비물",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Sanctuaries are a semi-contrived setting that, at first glance, appear quite similar to zoos. Animals are kept in enclosures simulating a natural environment, similar animal farming techniques are used, and sometimes there are even animals on display for tourists.\n(A) Many sanctuary models operate mixed access facilities in which there is a side open to ecotourists that holds such animals indefinitely and a rehabilitation side, closed to the public in which animals can recover in privacy.\n(B) However, in contrast to zoos, the purpose of a sanctuary is not to keep animals captive but to hold them temporarily until such a time as they can be rehabilitated and safely released. Some animals may be held indefinitely due to complications that would prevent their survival in the wild.\n(C) There are also pre-release enclosures that are meant to simulate a natural environment as closely as possible in order to ensure an animal is ready for release after time spent in an artificial environment for medical rehabilitation.\n* sanctuary: 조수(鳥獸) 보호 구역 ** contrived: 인위적인 *** rehabilitation: 재활",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것을 고르시오.",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 3,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "Traditionally, when teachers teach writing, they assign topics for students to write on; perhaps they do a bit of brainstorming about the topic during a pre-writing phase, and then have students write about the topic without interruption.\n\n(A) In process writing, on the other hand, students may initially brainstorm ideas about a topic and begin writing, but then they have repeated conferences with the teacher and the other students, during which they receive feedback on their writing up to that point, make revisions, based on the feedback they receive, and carry on writing.\n\n(B) In this way, students learn to view their writing as someone else's reading and to improve both the expression of meaning and the form of their writing as they draft and redraft. Process writing shifts the emphasis in teaching writing from evaluation to revision.\n\n(C) Subsequently, teachers collect and evaluate what students have written. Such instruction is very 'product-oriented;' there is no involvement of the teacher in the act or 'process' of writing.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Perhaps at some point you have seen some mathematical writing and not understood it.\n\n(A) The complicated notations that might spring to mind ― all those strange dashes, squiggles and letters ― are obvious signs, but a lot of those are really quite modern. Mathematics had been going on for a long time before the dashes and squiggles were invented.\n\n(B) You would not be the first; rest assured, even professional mathematicians sometimes have to rely on discussions with colleagues to properly understand problems they are looking at. But how do you recognise some writing is mathematical in the first place?\n\n(C) Put simply, there has to be something mathematical going on for us to say that it is mathematics. And if we are dealing with writing from a very distant past, in a language that is not familiar to us, from a time even before recorded language, that can be sometimes difficult to recognise.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 3,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    }
+  ]
+}

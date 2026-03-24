@@ -1,0 +1,112 @@
+{
+  "model": "opus",
+  "type": "빈칸 추론 (절)",
+  "typeNumber": 33,
+  "generated": [
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "The philosopher Henri Bergson drew a crucial distinction between what he called \"clock time\" and \"duration.\" Clock time is the spatialized, measurable sequence of identical units — seconds, minutes, hours — that science depends upon for its calculations. Duration, by contrast, is the felt quality of lived experience, in which past and present interpenetrate rather than sitting side by side like beads on a string. Bergson argued that when we try to analyze our inner life using the framework of clock time, we inevitably distort it, because consciousness does not consist of discrete, separable states but of a continuous flow in which each moment carries the weight of everything that came before. The error of most psychological science, in his view, was precisely this: it assumed that mental phenomena could be isolated and measured as though they were physical objects occupying distinct positions in space. What Bergson wanted to show was that ____________________. By collapsing the fluid movement of thought into frozen snapshots, the scientist produces not a faithful portrait of the mind but an artificial reconstruction that mistakes its own abstractions for the reality it claims to describe.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "the very act of quantifying consciousness strips it of its essential character",
+        "psychological science must abandon measurement to achieve any credibility",
+        "clock time provides a more reliable basis for understanding consciousness than duration",
+        "the distinction between inner life and outer reality is ultimately impossible to maintain",
+        "scientific abstractions are valuable precisely because they simplify the complexity of the mind"
+      ],
+      "answer": 1,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that consciousness is a continuous flow (duration) that gets distorted when analyzed through clock time (quantification). The sentence after the blank says this produces 'an artificial reconstruction,' confirming that the act of quantifying is what destroys the essential nature of consciousness. Choice 1 captures this precisely.",
+        "distractor_analysis": "Choice 2 is too extreme — Bergson critiques the method, not science itself. Choice 3 directly contradicts the passage's argument. Choice 4 shifts to an inner/outer distinction never discussed. Choice 5 contradicts the passage by endorsing abstractions as valuable, while Bergson sees them as distortions.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "In democratic societies, the marketplace of ideas is often invoked as a self-correcting mechanism: falsehoods will be exposed and truths will prevail through open debate. This optimistic model, however, rests on an assumption that is increasingly difficult to defend — namely, that people evaluate competing claims primarily on their merits. Research in cognitive science has demonstrated that once individuals form a belief, they tend to seek out confirming evidence while dismissing contradictory information, a phenomenon known as confirmation bias. More troubling still, corrections of misinformation can paradoxically strengthen the original false belief, an effect researchers call the \"backfire effect.\" These findings suggest that the marketplace of ideas, far from being self-correcting, ______________________. The very openness that is supposed to guarantee the triumph of truth may instead provide fertile ground for the entrenchment of error, as each new piece of information is filtered through the lens of pre-existing conviction rather than assessed on its own terms.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "requires government intervention to function as originally intended",
+        "has been replaced by social media as the dominant arena for public discourse",
+        "may systematically reward the persistence of falsehood over the acceptance of truth",
+        "demonstrates that democratic participation is incompatible with rational deliberation",
+        "operates most effectively when participants share a common educational background"
+      ],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage establishes that confirmation bias and the backfire effect undermine the self-correcting premise of the marketplace of ideas. The sentence after the blank explains that openness provides 'fertile ground for the entrenchment of error.' Choice 3 logically bridges these ideas: the marketplace rewards persistence of falsehood rather than correcting it.",
+        "distractor_analysis": "Choice 1 introduces government intervention, which is never discussed. Choice 2 shifts to social media, an unrelated topic. Choice 4 makes an extreme claim about democracy being incompatible with rationality, going far beyond the passage's argument. Choice 5 introduces educational background, which is irrelevant to the passage's focus on cognitive biases.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "Archaeological evidence indicates that ancient cities were far more cosmopolitan than nationalist narratives typically allow. The Bronze Age city of Ugarit, located on the Syrian coast, contained texts in at least seven languages and scripts, and its merchants traded with Egypt, Mesopotamia, Anatolia, and the Aegean. Rather than a homogeneous population united by blood and custom, Ugarit was a dense network of overlapping linguistic, religious, and commercial communities. This pattern was not exceptional; it was the norm for urban centers across the ancient Mediterranean and Near East. The implications for how we understand cultural identity are profound. If the archaeological record is any guide, the notion of a culturally pure civilization existing at some point in the past, later contaminated by foreign influence, is ______________________. What the evidence reveals instead is that the very features we associate with cultural achievement — monumental architecture, literary production, legal sophistication — emerged not in isolation but from sustained and intimate contact with diverse peoples whose traditions were absorbed, adapted, and transformed.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "supported by recently discovered texts from multiple ancient sites",
+        "a retrospective fiction imposed on a reality that was always heterogeneous",
+        "the inevitable consequence of geographical barriers between ancient populations",
+        "an accurate description of rural communities though not of urban centers",
+        "a hypothesis that archaeologists have only recently begun to investigate seriously"
+      ],
+      "answer": 2,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that ancient cities were cosmopolitan and diverse, not homogeneous. The sentence following the blank confirms this by stating cultural achievement emerged from 'sustained and intimate contact with diverse peoples.' Choice 2 correctly identifies the notion of cultural purity as a 'retrospective fiction' imposed on an always-heterogeneous reality, perfectly matching the passage's argument.",
+        "distractor_analysis": "Choice 1 directly contradicts the passage's argument by supporting cultural purity. Choice 3 introduces geographical barriers, which contradicts the evidence of extensive trade networks. Choice 4 creates a false urban/rural distinction not supported by the passage. Choice 5 is too weak — the passage presents the cosmopolitan view as established fact, not a recent hypothesis.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "The concept of \"rewilding\" — reintroducing species to ecosystems from which they have been eliminated — challenges a deep assumption in conservation biology. Traditional conservation has generally aimed to preserve ecosystems in a particular state, treating any given snapshot of biodiversity as the baseline to be maintained. Rewilding, by contrast, acknowledges that ecosystems are dynamic and that the removal of key species, often centuries ago, set in motion cascading changes whose effects we now mistakenly regard as natural. When wolves were reintroduced to Yellowstone National Park, for instance, the entire trophic structure of the ecosystem shifted: elk populations declined, vegetation along riverbanks recovered, and even the physical course of rivers changed as stabilized banks reduced erosion. What rewilding demonstrates, then, is that ______________________. The landscapes we seek to \"conserve\" may themselves be the degraded artifacts of a prior ecological disruption, and restoring them to health may require not the maintenance of the status quo but its deliberate destabilization.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "introducing non-native predators can accelerate the decline of vulnerable habitats",
+        "traditional conservation methods are more effective than rewilding in most ecosystems",
+        "trophic cascades occur only when apex predators are reintroduced to enclosed areas",
+        "the baseline against which we measure ecological health is itself a product of disturbance",
+        "preserving biodiversity requires preventing any further human intervention in natural systems"
+      ],
+      "answer": 4,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that traditional conservation treats a snapshot as the baseline, but rewilding reveals this snapshot is actually the result of prior species removal (disturbance). The sentence after the blank reinforces this by calling conserved landscapes 'degraded artifacts of a prior ecological disruption.' Choice 4 precisely captures this idea — the baseline itself is a product of disturbance.",
+        "distractor_analysis": "Choice 1 discusses non-native predators and habitat decline, which contradicts the positive rewilding example given. Choice 2 directly opposes the passage's argument favoring rewilding. Choice 3 is too narrow and factually unsupported — the passage doesn't limit trophic cascades to enclosed areas. Choice 5 contradicts the passage, which advocates for deliberate intervention (reintroduction).",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "Economic models of rational decision-making assume that individuals assign stable values to outcomes and choose accordingly. Behavioral economists, however, have shown that the context in which a choice is presented — its \"frame\" — can dramatically alter preferences. In one classic experiment, subjects were told that a disease would kill 600 people and were asked to choose between two programs. When the options were framed in terms of lives saved, most people preferred the certain option: \"200 people will be saved.\" But when the identical outcomes were framed in terms of deaths, most preferred the gamble: \"a one-third probability that nobody will die.\" The mathematical expectation was the same in both cases, yet the shift in language reversed the majority preference. This phenomenon, known as the framing effect, poses a fundamental challenge to rational choice theory because it reveals that ______________________. If the same person can hold contradictory preferences about identical outcomes simply because of how the question is worded, then the notion of a coherent set of values guiding choice becomes not merely inaccurate but incoherent.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "people consistently prefer certainty over risk regardless of how options are presented",
+        "mathematical models can predict human behavior more accurately than psychological ones",
+        "language plays only a minor role in shaping the decisions of well-informed individuals",
+        "rational choice theory accounts for contextual variation better than behavioral economics does",
+        "preferences are not read off from stable underlying values but constructed by the act of choosing"
+      ],
+      "answer": 5,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage demonstrates that framing (context/language) reverses preferences for mathematically identical outcomes. The sentence after the blank states that 'a coherent set of values guiding choice becomes incoherent,' meaning values are not stable but constructed in the moment. Choice 5 captures this: preferences are constructed by the act of choosing, not derived from pre-existing stable values.",
+        "distractor_analysis": "Choice 1 contradicts the experiment — people switched between certainty and gamble based on framing. Choice 2 contradicts the passage, which shows mathematical expectations failed to predict behavior. Choice 3 directly opposes the passage's central finding about language's powerful role. Choice 4 contradicts the entire argument, which critiques rational choice theory.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

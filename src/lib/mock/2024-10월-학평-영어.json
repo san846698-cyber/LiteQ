@@ -1,0 +1,381 @@
+{
+  "exam": "2024학년도 10월 고3 학력평가",
+  "subject": "영어",
+  "source": "전국연합학력평가",
+  "questions": [
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "I hope this email finds you well. Thank you for considering me as a speaker for the upcoming Digital Marketing Workshop. I appreciate the invitation and your thoughtfulness. The workshop sounds like an amazing event, and I would have loved to participate. However, I regret to inform you that I will be overseas on a business trip during the workshop. It is unfortunate that the timing does not work out. Although I cannot attend as a speaker this time, I remain hopeful for future opportunities where our schedules might coincide. I hope the workshop goes well.",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "디지털 마케팅 워크숍에 참여를 독려하려고",
+        "연설자로 참석해 달라는 제안을 거절하려고",
+        "워크숍의 변경된 장소를 안내하려고",
+        "행사가 취소되었음을 공지하려고",
+        "해외 출장 일정을 조정하려고"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "Setting out to find some wood for the campfire, Sarah moved through the forest. Just then, she noticed an approaching danger — a large, threatening bear. Panic spread through her body. Frozen and unable to shout, she watched in horror. Her heart beat louder with each step the bear took. But then, as if by a miracle, the bear paused, looked around, and, uninterested, turned away, retreating into the shadows of the woods. When the bear had disappeared completely out of her sight, her knees nearly gave way. Sarah could finally let out the breath she had been holding. A wave of immense relief washed over her.",
+      "question": "다음 글에 드러난 Sarah의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "envious → regretful",
+        "frightened → relieved",
+        "eager → indifferent",
+        "bored → satisfied",
+        "excited → furious"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "There are few universals in this world, but among them are our love for our children and our love of music. When we hold a baby in our arms, comforting her with song, we are channelling the emotional power of music. We do so instinctively, just as our ancestors did. Music can be a powerful parental ally during the challenging childrearing years. To successfully prepare our children for life in the twenty-first century, we will need to nurture qualities such as curiosity, imagination, empathy, creative entrepreneurship, and most of all resilience. Musical practice in early childhood develops all of the above and more. Research has shown that musical practice in early childhood is beneficial not only for mental acuity but for social and emotional development as well. Music is not just a hobby, a pleasant pastime; it is an integral part of what makes us happy, healthy, and whole. Indeed, if we want to do one thing to help our children develop into emotionally, socially, intellectually, and creatively competent human beings, we should start the musical conversation — the earlier the better.\n* resilience: 회복력 ** acuity: 예리함",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "아이의 전인적 성장을 위해 어릴 때부터 음악을 접하게 해줘야 한다.",
+        "음악이 단순한 취미 이상이 되려면 악기를 꾸준히 연습해야 한다.",
+        "질 높은 음악 교육을 위해 이론과 실습을 병행해야 한다.",
+        "음악을 아이 양육에 활용하려면 음악적 전문성이 있어야 한다.",
+        "어린 연주자들에게도 재능을 발휘할 수 있는 기회가 주어져야 한다."
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 21,
+      "type": "함축 의미",
+      "passage": "In 1890, William James described attention as \"the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought.\" Attention is a choice we make to stay on one task, one line of thinking, one mental road, even as attractive off-ramps signal. When we fail to make that choice and allow ourselves to be frequently sidetracked, we end up in \"the confused, dazed, scatterbrained state\" that James said is the opposite of attention. Staying on one road got much harder when the internet arrived and moved much of our reading online. Every hyperlink is an off-ramp, calling us to abandon the choice we made moments earlier. Nicholas Carr, in his 2010 book, grieved his lost ability to stay on one path. Life on the internet changed how his brain sought out information, even when he was offline trying to read a book. It reduced his ability to focus and reflect because he now craved a constant stream of stimulation: \"Once I was a scuba diver in the sea of words. Now I zip along the surface like a guy on a Jet Ski.\"\n* off-ramp: 빠져나가는 길 ** dazed: 멍한 *** crave: 갈망하다",
+      "question": "밑줄 친 Now I zip along the surface like a guy on a Jet Ski가 다음 글에서 의미하는 바로 가장 적절한 것은? [3점]",
+      "choices": [
+        "Ironically, the convenience of downloading digital creations restrains people's creativity.",
+        "By uncritically accepting information, we get trapped in a cycle of misunderstanding.",
+        "People's attention is naturally drawn to carefully analyzed and well-presented data.",
+        "We now deal with the information in a skin-deep manner, constantly being distracted.",
+        "With the help of the internet, we comprehend the information quickly and thoroughly."
+      ],
+      "answer": 4,
+      "points": 3
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Technical, book knowledge consists of \"formulated rules which are, or may be, deliberately learned.\" Practical knowledge, on the other hand, cannot be taught or learned but only transmitted and acquired. It exists only in practice. When we talk about practical knowledge, we tend to use bodily metaphors. We say that somebody has a touch for doing some activity — an ability to hit the right piano key with just enough force and pace. We say that somebody has a feel for the game, an intuition for how events are going to unfold, an awareness of when you should plow ahead with a problem and when you should put it aside before coming back to it. When the expert is using her practical knowledge, she isn't thinking more; she is thinking less. She has built up a repertoire of skills through habit and has thereby extended the number of tasks she can perform without conscious awareness. This sort of knowledge is built up through experience, and it is passed along through shared experience.\n* intuition: 직감, 직관 ** plow ahead: 밀고 나가다",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "실용적 지식은 실행과 경험을 통해 체득되고 전수된다.",
+        "직감에 의한 판단이 옳아 보여도 심사숙고의 과정은 필요하다.",
+        "기술적 지식을 완전히 이해해야만 이를 실제로 적용할 수 있다.",
+        "상황에 맞게 행동하게 하는 실용적 지식은 타고나는 능력이다.",
+        "실용적 지식과 기술적 지식의 균형 있는 학습이 중요하다."
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "The human desire to make pictures is deeply rooted. At least 64,000 years ago, Neanderthals used colored oxide and charcoal to make paintings of large wild animals, tracings of human hands, and abstract patterns on cave and rock walls. Today, people create images with a multitude of mediums, including photography. What drives this picture-making impulse? Some make pictures for commercial reasons. Others create informational systems or employ scientific imaging tools to visualize the unseen. Artists use images expressionistically, to conceptualize and articulate who they are and how they view the world. However, the fundamental motive for making the vast majority of pictures is a desire to preserve: to document, and therefore honor, specific people, events, and possessions of importance. Regardless of purpose, the making of images persists because words alone cannot always provide a satisfactory way to describe and express our relationship to the world. Pictures are an essential component of how humans observe, communicate, celebrate, comment, and, most of all, remember. What and how we remember shapes our worldview, and pictures can provide a stimulus to jog one's memory.\n* oxide: 산화물 ** impulse: 충동 *** articulate: 분명히 표현하다",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "factors that influence the art evaluation process",
+        "difference between commercial images and informative pictures",
+        "explanation for the human desire of creating images to remember",
+        "benefits of written records in understanding our ancestors",
+        "change in the value of the same painting across history"
+      ],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "We naturally gravitate toward people whose views and beliefs are similar to our own, seeking what the eighteenth-century moral philosopher Adam Smith called \"a certain harmony of minds.\" Spending time with people who share our opinions reinforces our group identity, strengthening trust, cooperation, equality, and productivity. Our shared reality grounds us not just in our common perceptions but in similar feelings and worldviews. This helps to preserve our core values and beliefs about ourselves. It also provides us with meaning and a feeling of self-worth. And with each decision or interaction that confirms our tribe's common experience, we get rewarded with the hormonal happiness we crave. Our perception of ourselves is a mixture of our own unique characteristics and our sense of belonging to our in-groups. In fact, our personal identity is so closely interwoven with our social identity that our brains can't tell them apart. If I put you in a scanner and ask you to talk about yourself and then about the groups to which you feel the closest affinity, it will activate the same neural networks in your brain.\n* gravitate toward: ~에 자연히 끌리다 ** affinity: 유사성",
+      "question": "다음 글의 제목으로 가장 적절한 것은? [3점]",
+      "choices": [
+        "The Secret to Becoming a Unique Individual",
+        "Societal Conflict: Shared Reality Breeding Mutual Distrust",
+        "Our Identity Shaped by Shared Views: Comfort of Like Minds",
+        "Sympathy: Key to Resolving Disharmony in the Workplace",
+        "How We Balance Personal Identity with Social Identity"
+      ],
+      "answer": 3,
+      "points": 3
+    },
+    {
+      "number": 25,
+      "type": "도표",
+      "passage": "Awareness and Usage of Smartphone Applications Featuring Machine Learning in 2017\n\nThe above graph shows awareness and usage of smartphone applications featuring machine learning in 2017. ① In each of the five surveyed applications, the percentage of respondents demonstrating awareness was higher than that of respondents demonstrating usage. ② Predictive text had the highest percentages of respondents in both awareness and usage, among the five applications. ③ The percentage of respondents displaying awareness of voice search was more than four times that of respondents using it. ④ Voice-to-text showed a higher percentage of the respondents reporting awareness of it than email classification, while this was not the case in their usage. ⑤ The percentage of respondents showing usage of automated photo classification was less than half of the percentage of those showing awareness of it.",
+      "question": "다음 도표의 내용과 일치하지 않는 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 26,
+      "type": "내용 일치/불일치",
+      "passage": "Mary Douglas Leakey was born in 1913 in London, England in a family of scholars and researchers. Her father, who was an artist, took her to see the stone tools being studied by French prehistorians. This sparked her interest in archaeology. When she was just 17 years old, she served as an illustrator at a dig in England. Shortly after marrying Louis Leakey, she left for East Africa with her husband. Together, they made important fossil discoveries. In 1948, Mary found a partial skull fossil of Proconsul africanus on Rusinga Island in Lake Victoria. In 1959 in Tanzania, she discovered the skull of an early hominin that her husband named Zinjanthropus boisei, which is now known as Paranthropus boisei. Even after her husband's death in 1972, Mary continued her work in Africa. Mary died in 1996, in Nairobi, Kenya.\n* archaeology: 고고학 ** fossil: 화석 *** skull: 두개골",
+      "question": "Mary Douglas Leakey에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "choices": [
+        "1913년에 영국 런던에서 태어났다.",
+        "17세의 나이에 영국에 있는 발굴지에서 삽화가로 일했다.",
+        "그녀의 남편과 함께 동아프리카로 떠났다.",
+        "1948년에 Proconsul africanus의 두개골 화석의 일부를 찾았다.",
+        "1972년에 케냐 나이로비에서 사망했다."
+      ],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "2024 \"Be Active\" Community Challenge\nThe \"Be Active\" Community Challenge invites all of you. Let's get moving this fall!\n∙ When: October 1 - October 31\n∙ How It Works:\n  - Keep track of the number of minutes you were active every day.\n  - Every kind of exercise counts: jogging, dancing, football, etc.\n∙ Tracking Your Progress:\n  - Log your active minutes daily on the \"Be Active\" app.\n  - Deadline for submitting your total time is November 1, 10:00 a.m.\n∙ Entry Fees: $10 (12 years and under are FREE.)\n∙ Rewards and Recognition:\n  - The three participants who recorded the highest total time will win a prize.\n  - Winners will be announced online.",
+      "question": "2024 \"Be Active\" Community Challenge에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": [
+        "기간은 10월 1일부터 10월 31일까지이다.",
+        "모든 종류의 운동이 인정된다.",
+        "총합 시간의 제출 기한은 11월 1일 오후 10시이다.",
+        "12세 이하는 참가비가 무료이다.",
+        "우승자는 온라인으로 발표될 것이다."
+      ],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "Heritage Hotel Stay Information\nDear guests, please read the following to ensure your safety and comfort during your stay.\n∙ Check in & Check out\n  - Room check in is from 2 p.m.\n  - Room check out is until 12 p.m.\n∙ During the Stay\n  - Used towels are changed every other day.\n  - Free WiFi is available ONLY in the lobby.\n  - Two bottles of water are provided for FREE.\n∙ Facilities\n  - The gym and business center are open 24 hours.\n  - The parking lot is in front of the hotel.",
+      "question": "Heritage Hotel Stay Information에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": [
+        "객실 체크아웃은 오후 2시까지이다.",
+        "사용한 수건은 매일 교체된다.",
+        "무료 와이파이는 호텔 전체에서 이용 가능하다.",
+        "물 두 병이 무료로 제공된다.",
+        "주차장은 호텔 뒤편에 있다."
+      ],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "Sometime late in the next millennium, our descendants may head off to other star systems. They may use comets as stepping-stones, some of which are only ① loosely bound to our sun because they reach almost halfway to the nearest star system, Alpha Centauri. Our remote descendants may eventually colonize much of our galaxy just as the first living organisms on Earth once colonized Earth's young oceans. Interstellar migrations will depend on as yet unimagined technologies for driving ships, for maintaining sustainable environments, and for putting humans into hibernations ② last for centuries. Interstellar journeys will also depend on the existence of groups willing ③ to risk long and dangerous voyages with little or no hope of returning. It would take spaceships ④ traveling at 1 percent of the speed of light more than four hundred years to reach the Alpha Centauri system. But if they spread out from there at a similar rate, they could settle star systems throughout the Milky Way within one hundred million years, ⑤ which is just a bit longer than the span of time since dinosaurs ruled our Earth.\n* comet: 혜성 ** hibernation: 동면",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은? [3점]",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 2,
+      "points": 3
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Notably, young animals of many species have a special status, a leeway period granted by older members of the group. This break from the hierarchy is called \"puppy license\" by the behaviorists who see it in dogs, but it's a feature of family dynamics in a range of species. Older animals will ① overlook, or gently correct, an inappropriate display of dominance as long as the offender is young enough not to know better. Puppy license also ② covers play: older dogs seem to enjoy puppy playfulness, and may encourage young dogs by wrestling more gently, barking more softly, and sometimes letting the puppies win. As soon as that young dog hits a certain point in adolescence, however, its puppy license ③ extends. Behaviors that were lightheartedly tolerated just a few days before are now met with adult pushback. Although the dog is still young and may lack experience, it is ④ challenged and treated like an adult. In the human world and in the dog world, as juveniles mature into wildhood and their puppy licenses are no longer ⑤ valid, a tolerant world becomes irritated and intolerant.\n* leeway: 자유 ** tolerate: 용인하다 *** juvenile: 청소년",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "After we make some amount of scientific and technological progress, does further progress get easier or harder? Intuitively, it seems like it could go either way because there are two competing effects. On the one hand, we \"stand on the shoulders of giants\": previous discoveries can make future progress easier. On the other hand, we \"pick the low-hanging fruit\": we make the easy discoveries first, so those that remain are more difficult. You can only invent the wheel once, and once you have, it's harder to find a similarly important invention. Though both of these effects are important, when we look at the data it's the latter effect that __________. Overall, past progress makes future progress harder. It's easy to see this qualitatively by looking at the history of innovation. Consider physics. In 1905, his \"miracle year,\" Albert Einstein revolutionized physics, describing the photoelectric effect, Brownian motion, the theory of special relativity, and his famous equation, E=mc². He was twenty-six at the time and did all this while working as a patent clerk. Compared to Einstein's day, progress in physics is now much harder to achieve.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "predominates",
+        "scatters",
+        "varies",
+        "vanishes",
+        "fades"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "Behavior is, for the most part, a product of genes and brain neuropathways. Consider the elegant chemistry at work when living organisms move, think, behave, and act. Certainly, the environment is a factor here because it can influence how we act. An analogy would illustrate this adequately. Think of the environment as gasoline, and our body as the engine. Truly, the engine does not run without the gasoline, but all the intricate parts of the engine are the product of physical architecture, designed and assembled for a reactive purpose long before the gasoline is injected. Inject more gas and the engine accelerates, less, and it slows. The same is true for an organism. Behavior is a response to the environment. We have 'free will,' but the ultimate characteristic of that response can only act with respect to the architecture of our genes and our brain. In other words, the environment can, effectively, accelerate or slow down a potential behavior, but the engine for that behavior __________; therefore, the environment is but a catalyst.\n* analogy: 유사점 ** intricate: 복잡한 *** catalyst: 촉매, 기폭제",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "malfunctions even with correct input",
+        "is already built and functional",
+        "tends to shut down periodically",
+        "runs in an unpredictable manner",
+        "is subject to change without notice"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "The social-cognitive revolution at 1 year of age sets the stage for infants' second year of life, in which they begin to imitatively learn the use of all kinds of tools, artifacts, and symbols. For example, in a study by Meltzoff (1988), 14-month-old children observed an adult bend at the waist and touch its head to a panel, thus turning on a light. They followed suit. Infants engaged in this somewhat unusual and awkward behavior, even though it would have been easier and more natural for them simply to push the panel with their hand. One interpretation of this behavior is that infants understood that the adult had the goal of illuminating the light and then chose one means for doing so, from among other possible means, and if they had the same goal, they could choose the same means. Similarly, Carpenter et al. (1998) found that 16-month-old infants will imitatively learn from a complex behavioral sequence only those behaviors that appear intentional, ignoring those that appear accidental. Young children do not just imitate the limb movements of other persons, they attempt to __________. [3점]\n* social-cognitive: 사회 인지의 ** artifact: 인공물 *** limb: 팔다리",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은? [3점]",
+      "choices": [
+        "avoid looking awkward in the eyes of family members",
+        "reproduce other persons' intended actions in the world",
+        "accept the value of chance incidents that turn out helpful",
+        "behave in an unprecedented way that others have missed",
+        "undermine any goal that does not coincide with their own"
+      ],
+      "answer": 2,
+      "points": 3
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "As an ideal of intellectual inquiry and a strategy for the advancement of knowledge, the scientific method is essentially a monument to the utility of error. Most of us gravitate toward trying to prove our beliefs, to the extent that we bother investigating their validity at all. But scientists gravitate toward falsification; as a community if not as individuals, they seek to disprove their beliefs. Thus, the defining feature of a hypothesis is that it has the potential to be proven wrong (which is why it must be both testable and tested), and the defining feature of a theory is that it hasn't been proven wrong yet. But the important part is that it can be — no matter how much evidence appears to confirm it, no matter how many experts endorse it, no matter how much popular support it enjoys. In fact, not only can any given theory be proven wrong; sooner or later, it probably will be. And when it is, the occasion will mark the success of science, not its failure. This was the crucial insight of the Scientific Revolution: that the advancement of knowledge depends on current theories __________.\n* endorse: 지지하다",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "holding true regardless of temporal and spatial constraints",
+        "collapsing in the face of new insights and discoveries",
+        "shifting according to scientists' pursuit of reputation",
+        "being exposed to the public and enjoying popularity",
+        "leaving no chance of error and failure"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "It is important to remember that to achieve acceptance and use of new technologies/systems, the personal importance to the users has to be valued more highly than the degree of innovation. However, policies and political goals are often confused with the driver's personal goals. ① Societal goals and individual goals do not necessarily coincide. ② For example, the policy goal behind ISA (Intelligent Speed Adaptation; a system which warns the drivers when they exceed the speed limit, and may even prevent them from doing so) could be to increase traffic safety or to increase speed limit compliance. ③ Some drivers have a goal to collect many classic cars, although it has little impact on their use of new speed adaptation systems. ④ These goals might not be relevant to some drivers, for example, due to their feeling that safety measures are redundant because of their own personal driving skills or because speeding is not seen as a 'real crime.' ⑤ Nevertheless, they might find that the system helps them to avoid speeding tickets or they want to use the system simply because they have a general interest in innovative systems.\n* compliance: 준수 ** redundant: 불필요한",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "From infancy, even before we learn to speak, we absorb how to infer people's emotions from their behaviors.\n\n(A) Some people, however, have a talent for detecting emotions, even when they're unspoken. We all know people like this: Friends who seem to intuit when we're feeling down, even if we haven't said anything; managers who sense when a kind word is needed to help us get over the hump at work.\n\n(B) As we grow older, however, this capacity can atrophy. We start to pay increasing attention to what people say rather than what they do, to the point where we can fail to notice non-linguistic clues. Spoken language is so information rich that it lulls us into ignoring hints that someone might be, say, upset and instead focus on their words when they say, It's nothing. I feel fine.\n\n(C) It's natural to assume these people are unusually observant, or uncommonly sensitive. Sometimes they are. But years of research indicates this is a skill anyone can develop. We can learn to identify the nonverbal clues that indicate someone's true emotions and use these hints to understand what they are feeling.\n* over the hump: 고비를 넘겨 ** atrophy: 쇠퇴하다 *** lull ~ into: ~을 (속이어) …하게 하다",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": [
+        "(A)-(C)-(B)",
+        "(B)-(A)-(C)",
+        "(B)-(C)-(A)",
+        "(C)-(A)-(B)",
+        "(C)-(B)-(A)"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "Some epistemic feelings let us know that we know. These include the feeling of knowing, the feeling of certainty, and the feeling of correctness.\n\n(A) Other epistemic feelings alert our attention to what we do not yet know. Curiosity, awe, and wonder fall into this category. As with the feelings of knowing, we can ask whether feelings of not-yet-knowing are necessarily right. It does seem that if you wonder at something, there is something that prompted you to wonder.\n\n(B) This feeling alerts you to the fact that your current body of knowledge — the schemas, heuristics, and other information you use — did not prepare you for the thing you wonder at. As such, wonder is a useful emotion, because it points to gaps in what you thought you knew.\n\n(C) For example, you feel sure that \"1666\" is the answer to the question, \"When did the Great Fire of London occur?\" Feeling that you know, even that you are sure, is not unfailing. We can be mistaken in those feelings. [3점]\n* epistemic: 인식론적 ** heuristics: 휴리스틱(특정 상황에서 사람들이 신속하게 사용하는 어림짐작의 기술)",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]",
+      "choices": [
+        "(A)-(C)-(B)",
+        "(B)-(A)-(C)",
+        "(B)-(C)-(A)",
+        "(C)-(A)-(B)",
+        "(C)-(B)-(A)"
+      ],
+      "answer": 4,
+      "points": 3
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "But what if memories about news stories are faulty and distort, forget, or invent what was actually reported?",
+      "passage": "Memory often plays tricks. ( ① ) According to Mlodinow, we give \"unwarranted importance to memories that are the most vivid and hence most available for retrieval — our memory makes it easy to remember the events that are unusual and striking not the many events that are normal and dull.\" ( ② ) The self-serving bias works because, as Trivers observes, \"There are also many processes of memory that can be biased to produce welcome results. Memories are continually distorting in self-serving ways.\" ( ③ ) A recent study argues that several forms of cognitive bias cause distortions in storing and retrieving memories. ( ④ ) This, in turn, has a bearing on theories of agenda setting, priming, and framing, which argue that how people respond to the news is strongly influenced by what is most easily and readily accessible from their memories. ( ⑤ ) In such cases, it may be the manipulation of memories in individual minds that primes, frames, and sets the agenda, not the original news stories. [3점]\n* retrieval: 불러오기 ** have a bearing on: ~에 영향을 미치다",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오. [3점]",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3
+    },
+    {
+      "number": 39,
+      "type": "문장 삽입",
+      "insertSentence": "We are also able to use the cerebellum to anticipate what our actions would be even if we don't actually take them.",
+      "passage": "One way to catch a fly ball is to solve all the differential equations governing the ball's trajectory as well as your own movements and at the same time reposition your body based on those solutions. ( ① ) Unfortunately, you don't have a differential equation-solving device in your brain, so instead you solve a simpler problem: how to place the glove most effectively between the ball and your body. ( ② ) The cerebellum assumes that your hand and the ball should appear in similar relative positions for each catch. ( ③ ) So, if the ball is dropping too fast and your hand appears to be going too slowly, it will direct your hand to move more quickly to match the familiar relative position. ( ④ ) These simple actions by the cerebellum to map sensory inputs onto muscle movements enable us to catch the ball without solving any differential equations. ( ⑤ ) Your cerebellum might tell you that you could catch the ball but you're likely to crash into another player, so maybe you should not take this action.\n* cerebellum: 소뇌 ** differential equation: 미분 방정식 *** trajectory: 궤적",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "Philosophical interest in poetry has been dominated by the question of whether poetry can aid philosophical thought and promote philosophical inquiry. This focus reflects a tradition of philosophers like Pope and Rumi presenting their philosophical work in verse. In addition, poets like William Wordsworth and T. S. Eliot have been celebrated as poet-philosophers, with their work valued as the product of philosophy through poetry. However, arguments against poetry having a role to play in philosophical inquiry have tended to focus on poetry's (negative) relationship to truth (or, as John Koethe puts it, poetry's indifference to truth). Although we may accept works of poetry as having philosophical themes, this does not amount to doing philosophy through poetry. One such argument hinges on the non-paraphrasability of poetry and form-content unity. The thought goes, if poetry is to play a role in philosophy, then it needs to be paraphrasable (that is, its content must be separable from its form). The assumption is that paraphrase is a mark of understanding and indicates that some proposition has a fixed meaning and that only a proposition with a fixed meaning can be evaluated in terms of truth or falsity. Poetry resists paraphrase: to change the words is to change the poem.\n* hinge on: ~의 여하에 달려 있다 ** proposition: 명제",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nSome believe in the ability of poetry to (A) philosophy, but for others, its resistance to paraphrasing (B) its philosophical role.",
+      "choices": [
+        "(A) misinterpret — (B) limits",
+        "(A) deliver — (B) expands",
+        "(A) convey — (B) restricts",
+        "(A) re-examine — (B) reinforces",
+        "(A) seek — (B) broadens"
+      ],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 41,
+      "type": "장문 - 제목",
+      "passage": "Vocal sounds produced by parrots, regardless of the fact that they may be audibly indistinguishable from spoken words and regardless of the fact that someone or some group of people may take them to be words, are not words. They are not given a semantic dimension by physical (a) similitude to spoken words. Nor can the \"talk\" of a parrot be given a semantic dimension by being taken to be a set of (b) linguistic acts. In like manner, weather etchings on a stone or shapes in the clouds, regardless of how physically similar they may be to written words or drawings of objects and regardless of what they are taken to be by observers, are not words or pictures. They do not have the appropriate etiology and they have no inherent semantic content or object. They are simply (c) physical objects that resemble certain other things. For observers, they may call to mind the things they (d) resemble. In this regard, they may function as natural signs by virtue of the physical resemblance, but they have no semantic content about which one could be right or wrong. If people take A to be a sign of B by virtue of some non-semantic relation that holds, or is believed to hold, between A and B, A is a sign of B. But words, pictures, and images are not that way. They (e) exclude a semantic content to be understood.\n* semantic: 의미론적, 의미의 ** weather etching: 날씨 식각(飾刻) *** etiology: 원인의 추구",
+      "question": "윗글의 제목으로 가장 적절한 것은?",
+      "choices": [
+        "Why Not All Physical Resemblances Are Semantically Meaningful",
+        "Uncovering Similarities in Human and Animal Vocal Sounds",
+        "Physical Objects: An Effective Medium to Deliver Subtext",
+        "Using Semantic Relation Makes Language Learning Easy",
+        "How Vocally Produced Words Shape Our Perception"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 42,
+      "type": "장문 - 어휘",
+      "passage": "(41번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것은? [3점]",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 3
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\nOne frosty morning, a rabbit was jumping about on a hill. There stood a snowman which had been made by some children. He had a broom in his hand and a carrot nose. The rabbit saw the carrot and swallowed hard. \"I will have a delicious breakfast,\" (a) he thought and jumped up, reaching out for the snowman's nose. But before the rabbit even touched him, something hit him hard.\n* broom: 빗자루\n\n(B)\nExcited by the offer, the rabbit told the snowman to wait and disappeared. (b) He returned shortly, dragging a sled and said to the snowman, \"Let's go!\" The sled ran smoothly over the snow. The snowman with joy waved his broom. After a while, they arrived in the middle of the village. \"Here we are,\" said the rabbit. \"Thank you. Here's the carrot,\" said the snowman, giving (c) him his carrot.\n* sled: 썰매\n\n(C)\nThe rabbit hesitated for a moment. \"Come on, take it. I have a feeling that I'll get a new one,\" urged the snowman. (d) He finally accepted the carrot and leapt back into the woods. Not long after, the children gathered around the snowman. Noticing that he had no nose, they gave him a fresh carrot. From that time on, the snowman stood in the middle of the village, with a broom in his hand and a marvelous new carrot nose.\n\n(D)\n\"Go Away!\" the snowman threatened him with his great broom. \"Sorry, Mr. Snowman, I just...\" murmured the rabbit. \"You wanted to eat my nose!,\" (e) he shouted. \"I was so hungry and it looked so tasty,\" apologized the rabbit. The snowman thought for a moment. \"Hmm... Here, I am bored by myself. I would like to go to the village where the children are. If you take me there, I'll give you my carrot,\" said the snowman.\n* murmur: 웅얼거리다",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": [
+        "(B)-(D)-(C)",
+        "(C)-(B)-(D)",
+        "(C)-(D)-(B)",
+        "(D)-(B)-(C)",
+        "(D)-(C)-(B)"
+      ],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": [
+        "토끼는 당근을 보고 침을 삼켰다.",
+        "토끼는 눈사람에게 기다리라고 말하고 사라졌다.",
+        "눈사람은 기쁨에 빗자루를 흔들었다.",
+        "아이들은 눈사람에게 싱싱한 당근을 주었다.",
+        "토끼가 빗자루로 눈사람을 위협했다."
+      ],
+      "answer": 5,
+      "points": 2
+    }
+  ]
+}

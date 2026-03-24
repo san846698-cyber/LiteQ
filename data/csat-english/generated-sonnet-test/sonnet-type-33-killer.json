@@ -1,0 +1,112 @@
+{
+  "model": "sonnet",
+  "type": "빈칸 추론 (절)",
+  "typeNumber": 33,
+  "generated": [
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "The concept of narrative immunity refers to the capacity of deeply held belief systems to absorb contradictory evidence without undergoing fundamental revision. When confronted with data that disconfirms a cherished framework, individuals do not simply update their beliefs in proportion to the evidence; instead, they recruit the anomalous information into the existing narrative by reassigning its meaning. A striking example can be found in ideological movements: when a predicted social revolution fails to materialize on schedule, adherents rarely abandon the ideology. Rather, they reinterpret the absence of the predicted event as evidence of hidden forces of resistance — forces that, conveniently, validate the core ideology even further. This mechanism is not confined to fringe belief systems. Economic forecasters, clinical diagnosticians, and strategic planners exhibit the same pattern: failed predictions are absorbed as proof that more of the same approach is needed, not that the underlying model requires replacement. The philosophical implication is unsettling. It suggests that the persuasive force of a framework is inversely related to its falsifiability — the more an ideology can incorporate any outcome as confirmation, ______________. This is why external pressure alone rarely dismantles entrenched worldviews; only the collapse of the interpretive infrastructure from within tends to force genuine revision.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "the less vulnerable it becomes to rational challenge",
+        "the more it depends on empirical verification for survival",
+        "the easier it is for adherents to recognize its limitations",
+        "the more pressure external contradictions place on its adherents",
+        "the faster it collapses when confronted with disconfirming data"
+      ],
+      "answer": 1,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The entire passage argues that belief systems become stronger — not weaker — the more they can absorb any evidence. The blank completes a conditional ('the more X, the more/less Y') where the second clause must state the logical outcome: greater immunity from rational challenge. Choice 1 'the less vulnerable it becomes to rational challenge' is exactly this conclusion.",
+        "distractor_analysis": "Choice 2 is a reversal — the passage says falsifiability is low, not that the ideology depends on empirical verification. Choice 3 contradicts the core point; adherents do NOT recognize limitations. Choice 4 uses 'external contradictions' from the passage but inverts the logic — the passage says external pressure rarely dismantles entrenched views. Choice 5 directly contradicts the claim that these ideologies survive disconfirmation.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "In thermodynamic systems, entropy is conventionally understood as a measure of disorder — the tendency of closed systems to progress toward states of maximum randomness. Yet this framing obscures a subtler truth that has become central to complexity theory: the emergence of highly ordered, self-sustaining structures is not a violation of thermodynamic law but rather its local expression. Dissipative structures, as Ilya Prigogine termed them, arise precisely because a system is open to flows of energy and matter. By exporting entropy to its surroundings, a local region can maintain or even intensify its internal organization. A whirlpool in a draining bathtub, a living cell, and a hurricane are all dissipative structures — they persist only by continuously consuming energy and expelling disorder outward. This reframes the relationship between order and energy consumption in a counterintuitive way. Far from representing an inefficiency, the metabolic cost paid by complex organisms to maintain their structure is the very mechanism by which order is sustained against the thermodynamic gradient. In other words, ______________: the price of organized complexity is the continuous generation of entropy elsewhere.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "closed systems can spontaneously generate order without any energy input",
+        "local order is purchased at the cost of increasing disorder in the broader environment",
+        "thermodynamic equilibrium represents the highest stage of biological organization",
+        "entropy production is minimized whenever a complex organism reaches full maturity",
+        "the tendency toward disorder can be permanently reversed through sufficient energy storage"
+      ],
+      "answer": 2,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage culminates in the argument that dissipative structures maintain local order by exporting entropy outward. The blank is explicitly glossed by the sentence that follows ('the price of organized complexity is the continuous generation of entropy elsewhere'). Choice 2 'local order is purchased at the cost of increasing disorder in the broader environment' is a precise restatement of this mechanism.",
+        "distractor_analysis": "Choice 1 contradicts the core claim that energy input is required. Choice 3 inverts the argument — thermodynamic equilibrium is the state of maximum disorder, not biological organization. Choice 4 introduces 'minimized entropy production' which contradicts the passage's claim that entropy is continuously generated and exported. Choice 5 claims permanent reversal, which directly contradicts the passage's statement that the gradient is not overcome but worked with.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "The sociology of attention has documented a paradox at the heart of information-rich environments: as the volume of available knowledge expands, the depth of engagement with any single piece of it tends to contract. This is not merely a consequence of finite cognitive bandwidth; it reflects a structural feature of attention markets. When producers of content compete for the same pool of attention, the rational strategy for each producer is to optimize for immediate capture rather than sustained comprehension. Short, emotionally salient signals outcompete dense, nuanced arguments in this ecology. What results is a kind of Gresham's law of discourse: simplified, vivid representations drive out careful, qualified analysis, because the former is metabolically cheaper to process. The irony is self-reinforcing. As shallow content proliferates, audiences lose practice in the slow reading and extended reasoning that complex arguments demand, which in turn lowers the competitive threshold for shallow content further. This dynamic suggests that the widely observed decline in long-form engagement is not primarily a failure of individual willpower but rather ______________: individuals are responding rationally to a reward structure that systematically penalizes cognitive effort.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "a sign that audiences have freely chosen entertainment over education",
+        "evidence that complex content has always been inaccessible to most people",
+        "a structural outcome of how incentives in attention markets are arranged",
+        "proof that information overload can be solved by better individual habits",
+        "the result of content producers failing to understand their audiences"
+      ],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage explicitly frames the decline as 'not primarily a failure of individual willpower' and instead attributes it to a reward structure. The blank must complete this structural/systemic explanation. Choice 3 'a structural outcome of how incentives in attention markets are arranged' matches precisely — the passage has described attention markets and their incentive logic throughout.",
+        "distractor_analysis": "Choice 1 attributes the decline to free individual choice, which the passage refutes ('not primarily a failure of individual willpower'). Choice 2 introduces historical accessibility, a claim not made in the passage. Choice 4 proposes a solution through individual habits, which contradicts the structural framing. Choice 5 blames content producers' misunderstanding — but the passage says producers are acting rationally, optimizing for capture, which is the problem, not a misunderstanding.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "Philosophers of language have long distinguished between the descriptive and prescriptive functions of linguistic norms. Descriptive grammars catalogue how speakers actually use a language; prescriptive grammars specify how they ought to. This distinction, however, conceals a deeper tension. When a prescriptive norm is widely adopted and taught, it gradually reshapes actual usage, eventually becoming descriptively accurate. Conversely, prescriptive norms that fail to gain social traction fade from use without ever disciplining speech. The norm's authority, in other words, is entirely dependent on the social mechanisms that enforce and transmit it — institutional education, publishing conventions, peer correction, and prestige mimicry. This has a significant implication for theories of linguistic correctness. It suggests that there is no purely formal criterion by which a usage can be judged correct independent of its social history. A grammatical rule is not correct because it conforms to some abstract logical structure of language; it is correct because a sufficient community treats it as binding. The prescriptive and descriptive, rather than being opposed, are locked in a recursive feedback loop in which ______________: authority flows from practice as much as practice flows from authority.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "formal logical structure determines what speakers accept as grammatically valid",
+        "prescriptive rules become socially real only by first being descriptively accurate",
+        "each continuously produces and transforms the other",
+        "individual speakers have no meaningful role in shaping linguistic norms",
+        "institutional education has gradually replaced peer correction as the primary norm enforcer"
+      ],
+      "answer": 4,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage's final movement describes a 'recursive feedback loop' between prescriptive and descriptive dimensions. The gloss that follows the blank — 'authority flows from practice as much as practice flows from authority' — describes mutual, bidirectional production. Choice 4 'each continuously produces and transforms the other' captures this reciprocal dynamic exactly.",
+        "distractor_analysis": "Choice 1 invokes 'formal logical structure', which the passage explicitly denies ('not because it conforms to some abstract logical structure'). Choice 2 reverses the causal order described — prescriptive rules can shape descriptive reality even before being descriptively accurate. Choice 3 marginalizes individual speakers, but the passage focuses on the feedback between prescriptive and descriptive norms, not on individual agency being absent. Choice 5 is a specific empirical claim about institutions vs. peer correction — relevant vocabulary from the passage but too narrow and not about the recursive relationship being described.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "difficulty": "killer",
+      "passage": "Economic anthropologists studying gift economies have noted that the exchange of gifts in non-market societies is frequently misunderstood when analyzed through the lens of market rationality. Marcel Mauss, in his foundational essay on the gift, observed that gift exchange is never truly free: every gift creates an obligation to reciprocate, and the timing, scale, and form of the return gift are governed by intricate social rules. The gift economy is not, therefore, an expression of pure generosity but a system of delayed, socially enforced exchange. The critical difference from market exchange is not the presence or absence of reciprocity but the temporal structure of obligation. In a market, the exchange is simultaneous and contractually closed; both parties are discharged of obligation the moment goods change hands. In a gift economy, the obligation deliberately remains open — to close the debt immediately would be an insult, a signal that the recipient wishes to terminate the social relationship. What this reveals is that the apparent generosity of the gift is actually a mechanism by which ______________: by accepting a gift, one enters a network of ongoing obligation that binds the parties together across time.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "market efficiency is maximized through the elimination of contractual obligations",
+        "recipients signal their intention to withdraw from long-term social commitments",
+        "social bonds are created and maintained through the perpetuation of mutual debt",
+        "the timing of reciprocation is left entirely to the discretion of the individual recipient",
+        "generosity is rewarded with higher social status only in societies without formal markets"
+      ],
+      "answer": 5,
+      "points": 3,
+      "self_check": {
+        "correct_answer_reasoning": "The passage argues that the gift is not pure generosity but a mechanism that keeps social obligation — and therefore social bonds — perpetually open. The gloss after the blank ('by accepting a gift, one enters a network of ongoing obligation that binds the parties together across time') confirms that the blank describes how social bonds are created and sustained through lasting mutual debt. Choice 5 'social bonds are created and maintained through the perpetuation of mutual debt' is the correct completion.",
+        "distractor_analysis": "Choice 1 inverts the argument — market exchange is characterized by immediate closure, not the gift economy. Choice 2 contradicts the passage: refusing to close debt immediately is about sustaining the relationship, not withdrawing from it. Choice 3 uses 'timing' and 'discretion', but the passage says timing is governed by 'intricate social rules', not individual discretion. Choice 4 links high social status to generosity, which is not the mechanism the passage describes — status is a side effect, not the operative mechanism of debt creation.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

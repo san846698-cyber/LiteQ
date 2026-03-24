@@ -1,0 +1,82 @@
+{
+  "type": "글의 목적",
+  "typeNumber": 18,
+  "summary": { "pass": 5, "warn": 0, "fail": 0 },
+  "validations": [
+    {
+      "questionIndex": 0,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null
+    },
+    {
+      "questionIndex": 1,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null
+    },
+    {
+      "questionIndex": 2,
+      "myAnswer": 4,
+      "providedAnswer": 4,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null
+    },
+    {
+      "questionIndex": 3,
+      "myAnswer": 2,
+      "providedAnswer": 2,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null
+    },
+    {
+      "questionIndex": 4,
+      "myAnswer": 3,
+      "providedAnswer": 3,
+      "match": true,
+      "scores": {
+        "정답유일성": 5,
+        "오답타당성": 5,
+        "지문자연스러움": 5,
+        "난이도적절성": 4,
+        "선지균형": 5
+      },
+      "verdict": "PASS",
+      "issues": null
+    }
+  ]
+}

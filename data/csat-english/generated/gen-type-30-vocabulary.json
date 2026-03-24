@@ -1,0 +1,144 @@
+{
+  "type": "어휘",
+  "typeNumber": 30,
+  "analysis": {
+    "totalAnalyzed": 18,
+    "wrongWordStrategy": "The incorrect word is always a semantically opposite or contextually inappropriate word that fits grammatically. It typically reverses the logical meaning of the sentence (e.g., 'boost' instead of 'inhibit', 'extends' instead of 'expires', 'drives' instead of 'hinders').",
+    "answerDistribution": {"①": 0, "②": 1, "③": 3, "④": 7, "⑤": 5},
+    "passageCharacteristics": "Academic/expository prose, 150-250 words, covering topics in psychology, science, technology, philosophy, and sociology. The passages present a coherent argument or explanation.",
+    "correctWordPattern": "The 4 correct underlined words are contextually fitting vocabulary that may seem slightly challenging but are logically consistent with the passage's argument.",
+    "distractorDesign": "The wrong word must (1) be grammatically correct in its position, (2) be a plausible English word, (3) carry the opposite or clearly inappropriate meaning in context, and (4) be replaceable by an antonym that would make the sentence logically correct."
+  },
+  "generated": [
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "The human brain is remarkably efficient at filtering information. Every second, our senses are bombarded with an enormous volume of data, yet we remain largely ① unaware of most of it. This filtering process is not random; it is guided by what psychologists call \"selective attention,\" which allows us to ② focus on stimuli that are relevant to our current goals while ignoring the rest. Without this mechanism, we would be overwhelmed by sensory input, unable to think clearly or act ③ decisively. However, selective attention comes at a cost. By concentrating on certain information, we inevitably ④ notice other potentially important signals. This phenomenon, known as \"inattentional blindness,\" explains why eyewitnesses to crimes often fail to recall critical details — their attention was directed elsewhere. Researchers have demonstrated this effect dramatically: in one famous experiment, participants watching a video of people passing a basketball completely failed to see a person in a gorilla suit walking through the scene. Such findings ⑤ underscore the limitations of human perception and the dangers of assuming we see everything that happens around us.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ notice → miss / overlook: 이 글은 선택적 주의(selective attention)가 집중하는 정보 외의 신호를 놓치게 만드는 '부주의 맹시(inattentional blindness)'를 설명합니다. '특정 정보에 집중함으로써 다른 중요한 신호를 필연적으로 ④ 알아차린다(notice)'는 서술은, 바로 이어지는 '목격자가 중요한 세부 사항을 기억 못 한다', '참가자들이 고릴라 복장을 한 사람을 전혀 보지 못했다'는 내용과 정면 충돌합니다. 선택적 주의는 다른 신호를 '알아차리는' 것이 아니라 '놓치게(miss)' 만드는 것이 맥락에 올바릅니다.",
+        "wrong": {
+          "1": "① unaware는 올바릅니다. 우리가 대부분의 감각 데이터를 '의식하지 못하는' 상태임을 설명하는 문맥에 적합합니다.",
+          "2": "② focus는 올바릅니다. 선택적 주의가 현재 목표와 관련 있는 자극에 '집중'하게 해준다는 설명과 일치합니다.",
+          "3": "③ decisively는 올바릅니다. 필터링 메커니즘 없이는 감각 입력에 압도되어 '결단력 있게' 행동하지 못할 것이라는 맥락에 맞습니다.",
+          "5": "⑤ underscore는 올바릅니다. 이 발견들이 인간 지각의 한계를 '강조한다'는 의미로 문맥에 적합합니다."
+        },
+        "key_point": "어휘 문제에서 오답 단어는 문법적으로 맞지만 의미가 반대입니다. 오답 단어 바로 뒤에 이어지는 문장(inattentional blindness 예시)이 그 단어의 의미를 직접 반박하므로, 전후 문맥을 반드시 확인해야 합니다."
+      },
+      "self_check": {
+        "wrong_word": "notice",
+        "correct_replacement": "miss / overlook",
+        "reasoning": "The passage discusses how selective attention causes us to MISS other important signals (inattentional blindness). 'Notice' is the opposite — it would mean we detect those signals, contradicting the concept of inattentional blindness described immediately after.",
+        "grammar_check": "PASS — 'notice' is grammatically valid as a verb following 'inevitably'",
+        "other_4_validity": "① unaware — correct (we are unaware of most sensory data); ② focus — correct (selective attention helps us focus); ③ decisively — correct (without filtering we couldn't act decisively); ⑤ underscore — correct (the findings emphasize/highlight limitations)"
+      }
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "In traditional societies, the transmission of knowledge from one generation to the next relied heavily on oral storytelling. Elders served as living ① repositories of cultural wisdom, carrying within their memories the histories, customs, and survival strategies that defined a community. Each retelling was not merely a repetition but an act of ② interpretation, as storytellers adapted narratives to suit the needs and circumstances of their audience. This flexibility was a strength, allowing knowledge to remain ③ relevant across changing times. With the advent of written language, however, knowledge became fixed in a way it had never been before. Written records provided ④ permanence but at the expense of adaptability. Once a text was composed, it resisted the kind of organic evolution that oral traditions embraced. Critics argue that this shift toward written culture has ⑤ enriched our relationship with knowledge, making us passive consumers of information rather than active participants in its creation and transformation.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ enriched → impoverished / diminished: 비판론자들은 문자 문화로의 전환이 지식과의 관계를 부정적으로 바꾸었다고 주장합니다. '이 변화가 지식과의 관계를 ⑤ 풍요롭게(enriched) 했다'고 서술하지만, 바로 이어지는 절에서 '우리를 정보의 수동적 소비자로 만들어버렸다'는 부정적 결과가 제시됩니다. 'enrich(풍요롭게 하다)'는 긍정적 의미이므로 비판의 맥락과 정면 충돌합니다. 올바른 단어는 'impoverished(황폐화시켰다)' 또는 'diminished(약화시켰다)'여야 합니다.",
+        "wrong": {
+          "1": "① repositories는 올바릅니다. 노인들이 문화적 지혜의 '저장소'로서 기억 속에 역사와 관습을 담고 있다는 맥락에 적합합니다.",
+          "2": "② interpretation은 올바릅니다. 각 구술 재현이 청중의 필요에 맞게 이야기를 변형하는 '해석 행위'라는 설명과 일치합니다.",
+          "3": "③ relevant는 올바릅니다. 유연성 덕분에 지식이 변화하는 시대에 걸쳐 '적절성'을 유지할 수 있었다는 맥락에 맞습니다.",
+          "4": "④ permanence는 올바릅니다. 문자 기록이 구술 전통과 달리 '영속성'을 제공했다는 내용과 일치합니다."
+        },
+        "key_point": "어휘 문제에서 'Critics argue that...' 또는 'Despite...' 같은 표현 뒤에 나오는 단어는 부정적 논조여야 하는 경우가 많습니다. 뒤 절의 논조(수동적 소비자)가 앞 단어의 올바른 의미를 결정하는 핵심 단서입니다."
+      },
+      "self_check": {
+        "wrong_word": "enriched",
+        "correct_replacement": "impoverished / diminished",
+        "reasoning": "The sentence says critics argue this shift has done something negative to our relationship with knowledge, as evidenced by 'making us passive consumers... rather than active participants.' The word 'enriched' (meaning improved) contradicts this negative evaluation. The correct word should be 'impoverished' or 'diminished.'",
+        "grammar_check": "PASS — 'enriched' is grammatically valid as a past participle following 'has'",
+        "other_4_validity": "① repositories — correct (elders stored cultural wisdom); ② interpretation — correct (retelling involved adapting/interpreting); ③ relevant — correct (flexibility kept knowledge relevant); ④ permanence — correct (written records provided lasting stability)"
+      }
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Urban green spaces offer benefits that extend far beyond their aesthetic appeal. Parks, community gardens, and tree-lined streets have been shown to ① reduce stress levels, lower blood pressure, and improve overall mental health among city residents. These effects are not limited to those who actively use these spaces; even the mere ② presence of greenery visible from one's window has been linked to improved psychological well-being. Moreover, urban vegetation plays a critical role in mitigating the heat island effect, where concrete and asphalt ③ absorb and radiate heat, raising city temperatures significantly above those of surrounding rural areas. Trees and plants cool the air through evapotranspiration, providing natural air conditioning that reduces energy consumption. Despite these well-documented advantages, many rapidly growing cities continue to ④ prioritize green infrastructure in their development plans, paving over parks and gardens to make room for buildings and roads. This short-sighted approach ⑤ threatens the long-term livability of urban environments and ignores decades of research demonstrating the essential role of nature in human health.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ prioritize → neglect / overlook: 'Despite these well-documented advantages(이러한 장점들이 잘 알려져 있음에도 불구하고)' 이후에 많은 도시들이 공원과 정원을 포장해 건물과 도로로 대체한다고 서술합니다. '이러한 이점에도 불구하고 녹지 인프라를 ④ 우선시한다(prioritize)'는 진술은, 공원을 파괴하는 실제 행동과 논리적으로 충돌합니다. 우선시한다면 녹지를 보존해야 하기 때문입니다. 올바른 단어는 'neglect(소홀히 하다)' 또는 'overlook(외면하다)'입니다.",
+        "wrong": {
+          "1": "① reduce는 올바릅니다. 녹지 공간이 스트레스 수치를 '줄이고' 혈압을 낮춘다는 내용에 적합합니다.",
+          "2": "② presence는 올바릅니다. 창문에서 보이는 녹지의 '존재' 자체만으로도 심리적 웰빙이 향상된다는 맥락에 맞습니다.",
+          "3": "③ absorb는 올바릅니다. 콘크리트와 아스팔트가 열을 '흡수'하고 방출하여 도시 온도를 높인다는 설명과 일치합니다.",
+          "5": "⑤ threatens는 올바릅니다. 근시안적 접근이 도시 환경의 장기적 거주 가능성을 '위협한다'는 부정적 결론과 일치합니다."
+        },
+        "key_point": "'Despite...' 뒤에 오는 행동 묘사는 앞의 내용과 반대여야 합니다. 'paving over parks(공원을 포장함)'라는 구체적 행동이 ④ 단어의 올바른 의미(녹지를 무시하는 것)를 결정하는 핵심 단서입니다."
+      },
+      "self_check": {
+        "wrong_word": "prioritize",
+        "correct_replacement": "neglect / overlook / sideline",
+        "reasoning": "The sentence uses 'Despite these well-documented advantages' followed by 'paving over parks and gardens to make room for buildings,' which clearly indicates cities are NOT prioritizing green spaces. 'Prioritize' means to treat as important, which contradicts the described behavior of destroying green spaces. The correct word should be 'neglect' or 'overlook.'",
+        "grammar_check": "PASS — 'prioritize' is grammatically valid as an infinitive following 'continue to'",
+        "other_4_validity": "① reduce — correct (green spaces lower stress); ② presence — correct (mere visibility of greenery helps); ③ absorb — correct (concrete absorbs and radiates heat); ⑤ threatens — correct (this approach endangers livability)"
+      }
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "The concept of \"flow,\" introduced by psychologist Mihaly Csikszentmihalyi, describes a state of complete ① immersion in an activity. During flow, individuals lose track of time, feel a deep sense of engagement, and perform at their peak. Achieving this state requires a delicate balance: the task must be challenging enough to demand full attention yet not so difficult that it causes ② anxiety. When the challenge level matches one's skill level, flow becomes possible, and the experience is deeply ③ rewarding. Interestingly, flow is more commonly reported during work than during leisure time, despite people's general preference for leisure. This paradox arises because structured activities with clear goals and immediate feedback — characteristics typical of work — are more ④ conducive to flow than passive leisure activities like watching television. Yet many people remain unaware of this pattern and continue to ⑤ maximize their working hours in pursuit of more free time, not realizing that the very activities they seek to escape may be their greatest source of fulfillment.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ maximize → minimize / reduce: 이 글은 많은 사람들이 여가 시간을 더 많이 확보하려는 목적으로 일하는 시간을 줄이려 한다는 역설적 상황을 서술합니다. '더 많은 자유 시간을 추구하기 위해 근무 시간을 ⑤ 최대화(maximize)한다'는 진술은, 자유 시간을 원한다면 일 시간을 줄여야 한다는 목적과 정반대입니다. 올바른 단어는 'minimize(최소화하다)' 또는 'reduce(줄이다)'입니다.",
+        "wrong": {
+          "1": "① immersion은 올바릅니다. flow가 활동에 완전히 '몰입'되는 상태라는 정의와 일치합니다.",
+          "2": "② anxiety는 올바릅니다. 과제가 너무 어려울 때 '불안감'이 생겨 flow에 진입할 수 없다는 설명과 맞습니다.",
+          "3": "③ rewarding은 올바릅니다. flow 경험이 깊이 '보람 있는' 것임을 나타내는 긍정적 맥락에 적합합니다.",
+          "4": "④ conducive는 올바릅니다. 명확한 목표와 즉각적 피드백이 있는 구조화된 활동이 flow에 '도움이 된다(conducive to)'는 설명과 일치합니다."
+        },
+        "key_point": "'in pursuit of more free time(더 많은 자유 시간을 추구하여)'이라는 목적 표현이 ⑤ 단어의 올바른 의미를 결정합니다. 자유 시간을 원하는 사람은 근무 시간을 최소화하려 하므로, maximize(최대화)는 목적과 반대입니다."
+      },
+      "self_check": {
+        "wrong_word": "maximize",
+        "correct_replacement": "minimize / reduce",
+        "reasoning": "The passage states people try to get 'more free time' and 'escape' work. Therefore, they seek to MINIMIZE (reduce) their working hours, not maximize them. 'Maximize' means to increase to the greatest extent, which is the opposite of what people who want more leisure time would do.",
+        "grammar_check": "PASS — 'maximize' is grammatically valid as an infinitive following 'continue to'",
+        "other_4_validity": "① immersion — correct (flow is total absorption); ② anxiety — correct (too-difficult tasks cause anxiety); ③ rewarding — correct (flow experiences are deeply satisfying); ④ conducive — correct (structured activities promote flow)"
+      }
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Sleep is not merely a passive state of rest but an active process essential for cognitive function. During sleep, the brain engages in a remarkable process of memory ① consolidation, transferring information from short-term to long-term storage. This is why students who sleep after studying tend to retain material far better than those who stay awake. Additionally, sleep facilitates creative problem-solving by allowing the brain to form novel ② connections between seemingly unrelated ideas. Many famous breakthroughs in science and art have occurred shortly after periods of rest, suggesting that the unconscious mind continues to work on problems even when we are not ③ deliberately thinking about them. Despite the overwhelming evidence supporting the importance of sleep, modern society increasingly treats it as a ④ necessity rather than a luxury. The rise of round-the-clock work culture, blue-light-emitting devices, and the glorification of \"hustle\" have led many people to chronically ⑤ sacrifice sleep, unaware that they are undermining the very cognitive abilities they need to succeed.\n* consolidation: 통합, 강화",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④ necessity → luxury: 'Despite the overwhelming evidence(압도적인 증거에도 불구하고)'는 역접 표지로, 사회가 수면을 과학적 증거와 반대로 취급한다는 것을 시사합니다. 문장 구조를 분석하면 'treats it as a ④ necessity rather than a luxury'인데, 증거를 무시하는 행동(수면 희생, 야근 문화 등)과 논리적으로 일치하려면 사회가 수면을 '사치(luxury)'로 잘못 인식하고 있어야 합니다. 즉, 'treats it as a luxury rather than a necessity'가 올바른 서술이므로 ④ necessity와 luxury의 위치가 뒤바뀐 것입니다.",
+        "wrong": {
+          "1": "① consolidation은 올바릅니다. 수면 중 단기 기억이 장기 기억으로 이전되는 기억 '강화(consolidation)' 과정이라는 정확한 개념이 사용되었습니다.",
+          "2": "② connections는 올바릅니다. 수면이 관련 없어 보이는 아이디어 사이에 새로운 '연결'을 형성하여 창의적 문제 해결을 돕는다는 맥락에 맞습니다.",
+          "3": "③ deliberately는 올바릅니다. 우리가 '의도적으로' 생각하지 않을 때도 무의식이 계속 작동한다는 대조적 서술에 적합합니다.",
+          "5": "⑤ sacrifice는 올바릅니다. 야근 문화와 기기 사용으로 사람들이 수면을 만성적으로 '희생한다'는 부정적 서술과 일치합니다."
+        },
+        "key_point": "'Despite...' 뒤에 나오는 사회의 행동은 증거와 반대여야 합니다. 'rather than' 구조에서 두 단어(necessity/luxury)의 순서가 뒤바뀌었는지 확인하는 것이 이 문제의 핵심입니다."
+      },
+      "self_check": {
+        "wrong_word": "necessity",
+        "correct_replacement": "luxury / indulgence",
+        "reasoning": "The passage argues sleep is essential and important, yet 'Despite the overwhelming evidence' signals a contrast — society is treating sleep in a way that contradicts this evidence. The sentence pairs 'rather than a luxury,' implying society wrongly treats sleep as something dispensable. If society treated sleep as a 'necessity,' that would align with the evidence, not contradict it. The correct word is 'luxury' (society wrongly treats sleep as a luxury rather than a necessity).",
+        "grammar_check": "PASS — 'necessity' is grammatically valid as a predicate noun following 'as a'",
+        "other_4_validity": "① consolidation — correct (memory consolidation during sleep is a well-established concept); ② connections — correct (sleep helps form new neural connections); ③ deliberately — correct (the unconscious works when we are not intentionally thinking); ⑤ sacrifice — correct (people give up sleep due to work culture)"
+      }
+    }
+  ]
+}

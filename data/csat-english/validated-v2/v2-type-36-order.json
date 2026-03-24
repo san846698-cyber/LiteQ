@@ -1,0 +1,860 @@
+{
+  "type": "순서 배열",
+  "typeNumber": 36,
+  "version": "v2",
+  "totalCount": 25,
+  "answerDistribution": { "1": 5, "2": 5, "3": 5, "4": 5, "5": 5 },
+  "difficultyDistribution": { "easy_2pts": 8, "standard_2pts": 12, "challenging_3pts": 5 },
+  "questions": [
+    {
+      "id": "v2-36-01",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "easy",
+      "topic": "color psychology in marketing",
+      "passage": "Marketers have long understood that the colors used in product packaging and advertising can powerfully influence consumer perceptions and purchasing decisions.",
+      "paragraphs": {
+        "A": "For example, fast-food chains frequently use red and yellow in their branding. Red stimulates appetite and creates a sense of urgency, while yellow conveys cheerfulness and is highly visible, making the combination ideal for encouraging quick, impulsive purchases.",
+        "B": "This relationship between color and consumer behavior has been formalized into what researchers call color psychology. Studies show that up to 90 percent of snap judgments about products are based on color alone, a finding with enormous practical implications for brand identity.",
+        "C": "However, the effectiveness of particular colors is not universal. Cultural background plays a significant role: white, which symbolizes purity in many Western contexts, is associated with mourning in parts of East Asia. Brands expanding into international markets must therefore adapt their color strategies accordingly."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(A)-(C)-(B)",
+        "reasoning": "Opening introduces color's influence on consumer decisions. (A) immediately provides a concrete example ('For example') of colors used in fast-food branding, illustrating the opening claim. (C) then introduces a counterpoint ('However, the effectiveness of particular colors is not universal'), noting cultural differences — this must follow (A)'s specific example because it qualifies the example's implied universality. (B) names and formalizes 'This relationship between color and consumer behavior,' using 'This relationship' as a demonstrative that wraps up both (A)'s example and (C)'s cultural qualifier.",
+        "discourse_markers": ["For example (A - exemplifies opening)", "However (C - qualifies A's implied universality)", "therefore (C - logical conclusion from cultural differences)", "This relationship (B - demonstrative wrapping up A+C)"],
+        "distractor_elimination": "B cannot come first because 'This relationship' requires a prior illustration (A+C). C cannot come first because 'However, the effectiveness' needs a positive claim to contrast with. Only A can follow the opening as a direct example.",
+        "explanation_ko": "주어진 문장은 색상이 소비자 인식과 구매 결정에 강력한 영향을 미친다고 설명한다. (A)는 'For example(예를 들어)'이라는 예시 담화 표지로 주어진 문장의 주장을 패스트푸드 브랜드의 빨강·노랑 사용으로 구체화한다. (C)는 'However(그러나)'라는 역접 담화 표지로 (A)의 사례가 전제하는 보편성에 제한을 가하고, 'therefore(따라서)'로 문화적 차이로부터의 논리적 결론을 도출한다. (B)는 'This relationship between color and consumer behavior(색상과 소비자 행동 사이의 이러한 관계)'로 시작하는데, 'This relationship'은 (A)의 사례와 (C)의 문화적 수정 내용 전체를 포괄하여 지칭하는 지시어이다. 핵심 연결 근거: ① (A)의 'For example' → 예시 담화 표지(주어진 문장 직접 예시) ② (C)의 'However' → 역접 담화 표지((A)의 암묵적 보편성 제한) ③ (B)의 'This relationship' → 지시어((A)+(C) 전체 포괄)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (A)-(C)-(B)이다. (A)의 'For example(예를 들어)'이 주어진 문장의 색상 영향력 주장을 패스트푸드 빨강·노랑 사례로 직접 예시한다. (C)의 'However(그러나)'는 (A)의 사례가 전제하는 보편성에 제동을 걸며 문화적 차이를 소개한다. 마지막으로 (B)의 'This relationship between color and consumer behavior'라는 지시어가 (A)의 사례와 (C)의 문화적 수정 전체를 하나로 포괄하여 학문적 명칭을 부여한다.",
+        "wrong": {
+          "2": "(B)-(A)-(C) 순서는 불가능하다. (B)의 'This relationship(이 관계)'이라는 지시어는 색상과 소비자 행동의 구체적 사례((A))와 문화적 한계((C))가 먼저 제시된 후에야 가리킬 대상이 생긴다. (B)를 맨 앞에 놓으면 지시어가 가리키는 선행사가 없다.",
+          "3": "(B)-(C)-(A) 순서도 동일한 이유로 불가능하다. (B)가 처음에 오면 'This relationship'의 선행사가 없으며, (C)의 'However'도 역접할 긍정적 사례((A))가 없어 연결이 끊긴다.",
+          "4": "(C)-(A)-(B) 순서에서는 (C)의 'However, the effectiveness of particular colors is not universal'이 첫 문장으로 오는데, 어떤 보편적 주장을 역접하는지 선행 맥락이 없어 어색하다. 'However'는 반드시 역접할 이전 주장이 있어야 한다.",
+          "5": "(C)-(B)-(A) 순서도 마찬가지로 (C)가 첫 번째로 오면 'However'의 역접 대상이 없다. 또한 (B)의 'This relationship'도 이 순서에서는 선행사로 (A)의 구체 사례가 오지 않아 지시 관계가 성립하지 않는다."
+        },
+        "key_point": "핵심 담화 표지: ① (A)의 'For example' → 주어진 문장의 주장을 직접 예시 ② (C)의 'However' → (A)의 보편성 가정에 역접(반드시 (A) 이후에 위치) ③ (B)의 'This relationship' → (A)+(C) 전체를 포괄하는 지시어(반드시 마지막에 위치). 순서를 결정하는 결정적 단서는 (B)의 지시어가 (A)와 (C) 모두를 전제한다는 점이다."
+      }
+    },
+    {
+      "id": "v2-36-02",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "easy",
+      "topic": "glacial retreat and sea level rise",
+      "passage": "One of the most measurable consequences of global warming is the accelerating retreat of mountain glaciers and polar ice sheets around the world.",
+      "paragraphs": {
+        "A": "This meltwater does not simply disappear; it flows into rivers and eventually into the oceans, contributing directly to rising sea levels. Scientists estimate that glacial and ice-sheet melt currently accounts for roughly half of the observed annual sea-level rise globally.",
+        "B": "As temperatures increase, these vast frozen reservoirs lose mass faster than snowfall can replenish them. The imbalance between accumulation and ablation — the technical term for the loss of ice through melting, sublimation, and calving — has accelerated markedly over recent decades.",
+        "C": "The consequences for coastal communities are already becoming apparent. Low-lying regions such as river deltas and small island nations face increasingly frequent flooding, saltwater intrusion into freshwater supplies, and the prospect of permanent inundation within this century."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(B)-(A)-(C)",
+        "reasoning": "Opening states glaciers and ice sheets are retreating. (B) must follow directly: 'these vast frozen reservoirs' refers anaphorically to 'mountain glaciers and polar ice sheets' in the opening, and explains the mechanism of mass loss. (A) then follows with 'This meltwater' — referring to the water produced by the melting process described in (B). (A) explains how meltwater reaches the ocean. (C) begins 'The consequences for coastal communities are already becoming apparent' — 'the consequences' refers to the sea-level rise described in (A).",
+        "discourse_markers": ["these vast frozen reservoirs (B - anaphoric reference to opening)", "This meltwater (A - demonstrative reference to B's melting)", "The consequences (C - refers back to sea-level rise in A)"],
+        "distractor_elimination": "A cannot come first because 'This meltwater' needs B's description of melting as its antecedent. C cannot come first because 'the consequences' refers to sea-level rise not yet introduced. Only B can follow the opening by explaining the retreat mechanism.",
+        "explanation_ko": "주어진 문장은 산악 빙하와 극지 빙상의 후퇴를 소개한다. (B)는 'these vast frozen reservoirs(이 광대한 얼어붙은 저장소들)'로 시작하는데, 이는 주어진 문장의 'mountain glaciers and polar ice sheets'를 직접 가리키는 지시어(후방 조응)이며, 빙하가 줄어드는 메커니즘을 설명한다. (A)는 'This meltwater(이 녹은 물)'로 시작하는데, 이는 (B)에서 설명된 융빙 과정에서 생성된 물을 지칭하는 지시어이다. (C)는 'The consequences for coastal communities(해안 지역 사회에 대한 결과)'로 시작하는데, 'the consequences'는 (A)에서 설명된 해수면 상승을 지칭하는 지시어이다. 핵심 연결 근거: ① (B)의 'these vast frozen reservoirs' → 지시어(주어진 문장의 빙하·빙상 지칭) ② (A)의 'This meltwater' → 지시어((B)의 융빙 과정 지칭) ③ (C)의 'The consequences' → 지시어((A)의 해수면 상승 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(A)-(C)이다. (B)의 'these vast frozen reservoirs'가 주어진 문장의 'mountain glaciers and polar ice sheets'를 직접 가리키므로 주어진 문장 직후에 위치해야 한다. (A)의 'This meltwater'는 (B)에서 설명된 빙하 융빙 과정의 결과물을 가리키므로 반드시 (B) 이후에 온다. (C)의 'The consequences for coastal communities'는 (A)에서 언급된 해수면 상승의 결과를 지칭하므로 마지막에 위치한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서는 불가능하다. (A)의 'This meltwater(이 녹은 물)'는 빙하가 녹는 과정을 묘사한 (B)가 먼저 나와야 선행사가 생긴다. (A)를 (B) 앞에 놓으면 'This meltwater'가 가리킬 융빙 과정 서술이 없다.",
+          "3": "(B)-(C)-(A) 순서에서는 (C)의 'The consequences for coastal communities'가 (A)의 해수면 상승 서술 없이 나온다. 'the consequences'가 지칭할 해수면 상승 내용이 (A)에 있으므로 (A)가 (C) 앞에 와야 한다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)가 맨 앞에 오면 'The consequences'가 지칭할 해수면 상승 내용이 아직 제시되지 않아 지시 관계가 성립하지 않는다.",
+          "5": "(C)-(B)-(A) 순서도 동일한 이유로 (C)가 첫 번째로 올 수 없다. 'The consequences'는 논리적으로 빙하 융빙((B))과 해수면 상승((A))이 모두 제시된 후에야 도출될 수 있다."
+        },
+        "key_point": "세 개의 연쇄 지시어가 순서를 결정한다: ① (B) 'these vast frozen reservoirs' → 주어진 문장 직접 지칭 ② (A) 'This meltwater' → (B)의 융빙 직접 지칭 ③ (C) 'The consequences' → (A)의 해수면 상승 직접 지칭. 빙하 후퇴 → 융빙수 → 해수면 상승 → 해안 피해라는 인과 사슬을 추적하면 순서가 자연스럽게 도출된다."
+      }
+    },
+    {
+      "id": "v2-36-03",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "easy",
+      "topic": "placebo effect in medicine",
+      "passage": "The placebo effect — the measurable improvement in a patient's condition following a treatment with no active medical ingredients — has puzzled and fascinated researchers for decades.",
+      "paragraphs": {
+        "A": "Remarkably, research has shown that the placebo effect can persist even when patients are told explicitly that they are receiving a placebo. This 'open-label placebo' phenomenon suggests that the expectation of improvement, combined with the ritual of taking medicine, is sufficient to produce real physiological changes.",
+        "B": "Several mechanisms have been proposed to explain how a sugar pill or saline injection can produce genuine physical changes. Chief among them is the role of expectation: when a patient believes a treatment will work, the brain releases endorphins and other neurotransmitters that reduce pain and promote healing.",
+        "C": "The implications for clinical practice are significant. Physicians who communicate warmth, confidence, and clear expectations of improvement tend to achieve better patient outcomes than those who deliver information in a detached or uncertain manner, even when the treatments administered are identical."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(B)-(C)-(A)",
+        "reasoning": "Opening introduces the placebo effect as puzzling. (B) follows with 'Several mechanisms have been proposed to explain' — this directly addresses the puzzle introduced in the opening and details the expectation mechanism. (C) opens with 'The implications for clinical practice are significant' — 'implications' refers to the expectation mechanism described in (B), extending the finding to doctor-patient communication. (A) then adds a remarkable twist: 'Remarkably, research has shown that the placebo effect can persist even when patients are told' — 'Remarkably' signals a counterintuitive extension of (C)'s claims, and the open-label placebo is a more advanced concept that builds on the established mechanism.",
+        "discourse_markers": ["Several mechanisms (B - explains the opening puzzle)", "The implications (C - logical consequence of B's mechanism)", "Remarkably (A - signals surprising extension of C's claims)", "even when (A - concessive intensifier)"],
+        "distractor_elimination": "C cannot come first because 'The implications' requires prior mechanistic findings. A cannot come first because 'Remarkably' and the open-label extension build on established mechanism. Only B can follow the opening by explaining the mechanism.",
+        "explanation_ko": "주어진 문장은 플라시보 효과가 수십 년간 연구자들을 당혹스럽게 했다고 소개한다. (B)는 'Several mechanisms have been proposed to explain(설명하기 위해 여러 메커니즘이 제안되었다)'으로 주어진 문장의 '수수께끼'를 직접 해명하려 하며, 기대(expectation)라는 핵심 메커니즘을 제시한다. (C)는 'The implications for clinical practice(임상 실습에 대한 함의)'로 시작하는데, 'implications'는 (B)의 메커니즘으로부터 도출되는 실천적 결론을 지칭한다. (A)는 'Remarkably(놀랍게도)'라는 평가 담화 표지로 (C)의 주장에서 더 나아가 역직관적 사실(공개 플라시보도 효과가 있음)을 추가하고, 'even when(심지어 ~할 때도)'으로 양보 강조를 표현한다. 핵심 연결 근거: ① (B)의 'Several mechanisms' → (주어진 문장의 수수께끼 해명 시작) ② (C)의 'The implications' → 지시어((B)의 메커니즘에서 도출된 함의) ③ (A)의 'Remarkably' → 평가 담화 표지((C) 주장의 놀라운 확장)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(C)-(A)이다. (B)는 'Several mechanisms have been proposed to explain'으로 주어진 문장의 수수께끼에 직접 응답하며 기대(expectation) 메커니즘을 제시한다. (C)의 'The implications for clinical practice'는 (B)의 메커니즘에서 도출되는 실천적 결론이다. (A)의 'Remarkably'는 (C)의 임상 주장에서 더 나아가 역직관적 사실(공개 레이블 플라시보의 효과)을 제시하는 수사적 절정이다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)가 처음에 오면 'Remarkably, research has shown that the placebo effect can persist even when...'이 어떤 메커니즘도 설명되지 않은 상태에서 등장한다. 'Remarkably'는 이미 확립된 주장에 대한 놀라운 확장을 표시하므로 (B)와 (C)가 먼저 와야 한다.",
+          "2": "(B)-(A)-(C) 순서에서 (A)가 (C) 앞에 오면, 임상 함의((C))가 공개 레이블 플라시보라는 더 놀라운 발견((A)) 이후에 나온다. 논리적으로 메커니즘(B) → 임상 함의(C) → 더 놀라운 확장(A) 순이 자연스럽다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'The implications for clinical practice'가 첫 번째로 오면, 어떤 메커니즘의 '함의'인지 선행 맥락이 없다. 'implications'는 반드시 그 원인인 (B)의 메커니즘이 먼저 나와야 한다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 (B) 앞에 오면 'The implications'가 선행사 없이 등장하는 문제가 있다."
+        },
+        "key_point": "핵심 담화 표지: ① (B)의 'Several mechanisms' → 주어진 문장의 수수께끼에 직접 응답(맨 처음 위치 필수) ② (C)의 'The implications' → (B)의 메커니즘에서 도출된 함의(B 이후 필수) ③ (A)의 'Remarkably' → 평가 담화 표지로 수사적 절정 표시(마지막 위치 필수). 순서: 수수께끼 제시(주어진 문장) → 메커니즘 설명(B) → 임상 함의(C) → 더 놀라운 사실(A)."
+      }
+    },
+    {
+      "id": "v2-36-04",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "easy",
+      "topic": "urban heat island effect",
+      "passage": "Cities are significantly warmer than the surrounding rural areas, a phenomenon scientists call the urban heat island effect.",
+      "paragraphs": {
+        "A": "Trees and vegetation in parks, for instance, provide shade and release water vapor through transpiration, a process that absorbs heat and cools the surrounding air. Studies in several major cities have found that well-vegetated neighborhoods can be several degrees cooler than heavily paved ones only a short distance away.",
+        "B": "This temperature difference arises primarily because urban surfaces — roads, pavements, and building facades — absorb and retain solar radiation far more efficiently than natural vegetation does. Additionally, waste heat from vehicles, air conditioning units, and industrial processes adds to the thermal load of city air.",
+        "C": "Urban planners increasingly recognize that expanding green infrastructure is one of the most cost-effective strategies for mitigating these effects. By replacing impervious surfaces with green roofs, parks, and tree-lined streets, cities can substantially reduce ambient temperatures."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(C)-(A)-(B)",
+        "reasoning": "Opening defines the urban heat island effect. (C) follows immediately: 'Urban planners increasingly recognize that expanding green infrastructure is one of the most cost-effective strategies for mitigating these effects' — 'these effects' refers directly to the warmer temperatures in the opening. (A) provides examples ('for instance') of the cooling measures mentioned in (C) — trees, transpiration, cooler neighborhoods. (B) then explains the mechanism behind 'This temperature difference' — referring to the temperature difference between cooled and heated areas established in (A), explaining the root cause (urban surfaces absorbing heat).",
+        "discourse_markers": ["these effects (C - demonstrative referring to opening)", "for instance (A - exemplifies C's green infrastructure claim)", "several degrees cooler (A - quantifies the difference)", "This temperature difference (B - refers to the difference established in A)"],
+        "distractor_elimination": "B cannot come first because 'This temperature difference' needs an established temperature contrast from A. A cannot come first because 'for instance' needs C's claim about green infrastructure to exemplify. Only C can follow the opening by referencing 'these effects' and proposing a solution.",
+        "explanation_ko": "주어진 문장은 도시가 주변 농촌보다 현저히 따뜻한 '도시 열섬 현상'을 정의한다. (C)는 'these effects(이러한 효과들)'라는 지시어로 주어진 문장에서 설명된 열섬 현상을 직접 가리키며, 녹색 인프라 확충이라는 해결책을 제시한다. (A)는 'for instance(예를 들어)'라는 예시 담화 표지로 (C)의 녹색 인프라 주장을 나무·증산 작용 등의 구체 사례로 예시한다. (B)는 'This temperature difference(이 온도 차이)'라는 지시어로 (A)에서 확인된 온도 차이를 가리키며, 원인(도시 표면의 태양 복사 흡수)을 역방향으로 설명하는 인과 설명 단락이다. 핵심 연결 근거: ① (C)의 'these effects' → 지시어(주어진 문장의 열섬 현상 지칭) ② (A)의 'for instance' → 예시 담화 표지((C)의 녹색 인프라 주장 예시) ③ (B)의 'This temperature difference' → 지시어((A)에서 확인된 온도 차이 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(A)-(B)이다. (C)의 'these effects'가 주어진 문장의 열섬 효과를 직접 가리키며 해결책(녹색 인프라)을 제시한다. (A)의 'for instance'는 (C)의 녹색 인프라 주장을 나무와 증산 사례로 구체화한다. (B)의 'This temperature difference'는 (A)에서 수치로 확인된 온도 차이를 가리켜 원인(도시 표면의 태양 복사 흡수)을 역방향으로 설명하며 글을 마무리한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'for instance'가 맨 앞에 오면 무엇의 예시인지 선행 주장이 없다. 'for instance'는 반드시 예시하고자 하는 주장((C)의 녹색 인프라)이 먼저 나와야 한다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'This temperature difference'가 첫 번째로 오면 어느 온도 차이를 가리키는지 선행 맥락이 없다. (B)는 (A)에서 수치화된 온도 차이가 확립된 후에야 위치할 수 있다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "5": "(C)-(B)-(A) 순서에서 (B)가 (C) 직후에 오면 'This temperature difference'의 선행사인 (A)의 구체적 온도 수치가 아직 제시되지 않아 연결이 끊긴다."
+        },
+        "key_point": "이 문항의 독특한 특징은 순서가 직관에 반한다는 점이다: 원인 설명(B)이 결과 서술(C, A) 이후에 온다. (C)는 문제 해결책을, (A)는 그 예시를, (B)는 그 이후 원인 메커니즘을 회고적으로 설명한다. 결정적 단서: (B)의 'This temperature difference'는 반드시 (A)의 'several degrees cooler' 수치 다음에 와야 한다."
+      }
+    },
+    {
+      "id": "v2-36-05",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "easy",
+      "topic": "collective memory in societies",
+      "passage": "Collective memory refers to the shared pool of knowledge and information held by a social group — the stories, events, and experiences that a community recognizes as part of its common past.",
+      "paragraphs": {
+        "A": "National commemorations and public memorials play a central role in maintaining collective memory. By gathering communities around shared symbols and narratives, these rituals reinforce a sense of common identity and remind citizens of the values that bind them together.",
+        "B": "Yet collective memory is not static. As generations change and social priorities shift, certain events may be emphasized, reinterpreted, or quietly forgotten. Historians call this process the 'politics of memory': the ongoing negotiation over which past events deserve to be remembered and how they should be understood.",
+        "C": "This shared memory serves important social functions. It gives groups a sense of continuity between past and present, provides moral frameworks drawn from historical experience, and reinforces solidarity among members who might otherwise have little in common."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(C)-(B)-(A)",
+        "reasoning": "Opening defines collective memory. (C) follows with 'This shared memory serves important social functions' — 'This shared memory' is a direct anaphoric reference to 'collective memory' in the opening, and elaborates on its functions (continuity, moral frameworks, solidarity). (B) then introduces a contrast: 'Yet collective memory is not static' — 'Yet' signals a pivot from (C)'s positive functional account, complicating the picture with the 'politics of memory.' (A) provides concrete examples of how active institutional maintenance (commemorations, memorials) fights the instability described in (B), with 'reinforce a sense of common identity' echoing (C)'s 'solidarity' function.",
+        "discourse_markers": ["This shared memory (C - anaphoric reference to opening)", "Yet (B - contrastive pivot from C)", "'politics of memory' (B - names the phenomenon)", "maintaining collective memory (A - responds to B's instability by showing maintenance mechanisms)", "reinforce (A - echoes C's 'reinforces solidarity')"],
+        "distractor_elimination": "B cannot come first because 'Yet collective memory is not static' requires prior establishment of what collective memory does (C). A cannot come first because 'maintaining collective memory' implies instability already raised in B. Only C can follow the opening by elaborating on the concept's functions.",
+        "explanation_ko": "주어진 문장은 집단 기억의 개념을 정의한다. (C)는 'This shared memory(이 공유된 기억)'라는 지시어로 주어진 문장의 'collective memory'를 직접 가리키며, 집단 기억이 수행하는 사회적 기능(연속성, 도덕적 틀, 연대)을 설명한다. (B)는 'Yet(그러나)'이라는 역접 담화 표지로 (C)의 긍정적 기능 서술에서 전환하여, 집단 기억이 정적이지 않다는 복잡한 현실을 제시한다. (A)는 'maintaining collective memory(집단 기억 유지)'와 'reinforce(강화하다)'라는 표현으로 (B)에서 제기된 불안정성에 대응하는 제도적 유지 메커니즘(기념행사, 기념물)을 구체적으로 보여 준다. 핵심 연결 근거: ① (C)의 'This shared memory' → 지시어(주어진 문장의 집단 기억 직접 지칭) ② (B)의 'Yet' → 역접 담화 표지((C)의 기능 서술과 대조) ③ (A)의 'reinforce' → (C)의 'reinforces solidarity' 어휘 반향(의미 연결)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(B)-(A)이다. (C)의 'This shared memory'가 주어진 문장의 'collective memory'를 직접 가리키며 사회적 기능을 설명한다. (B)의 'Yet'은 (C)의 긍정적 기능 서술에서 역접 전환하여 기억이 정치적으로 변한다는 복잡한 현실을 제시한다. (A)는 (B)에서 제기된 불안정성에 대응하여 기념행사·기념물이 집단 기억을 유지하는 방식을 구체적으로 보여 준다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'maintaining collective memory'가 첫 번째로 오면 무엇의 불안정성에 대응하는 것인지 맥락이 없다. (A)는 (B)가 제기한 불안정성 이후에 와야 논리적이다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'Yet collective memory is not static'이 첫 번째로 오면 어떤 긍정적 기능 서술을 역접하는지 맥락이 없다. 'Yet'은 반드시 역접할 이전 주장((C)의 기능 서술)이 있어야 한다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (A)가 (B) 앞에 오면 제도적 유지 메커니즘이 기억의 불안정성((B))이 제기되기 전에 나온다. 불안정성이 먼저 확립되어야 대응책이 자연스럽다."
+        },
+        "key_point": "핵심 담화 표지: ① (C)의 'This shared memory' → 주어진 문장 직접 지칭(첫 번째 위치 필수) ② (B)의 'Yet' → 역접 담화 표지((C) 이후 필수) ③ (A)의 'maintaining'과 'reinforce' → (B)의 불안정성에 대응하는 유지 메커니즘(마지막 위치). 논리 구조: 정의(주어진 문장) → 기능(C) → 불안정성(B) → 유지 메커니즘(A)."
+      }
+    },
+    {
+      "id": "v2-36-06",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "easy",
+      "topic": "mirror neurons and empathy",
+      "passage": "In the 1990s, Italian neuroscientists accidentally discovered a class of brain cells they named mirror neurons while studying how macaque monkeys planned and executed movements.",
+      "paragraphs": {
+        "A": "These neurons fired not only when the monkey performed an action — such as reaching for a piece of food — but also when it merely observed another individual performing the same action. It was as if the observer's brain was internally simulating the action it was watching.",
+        "B": "This discovery attracted enormous interest because it offered a potential neurological basis for a wide range of human social abilities, from imitation learning in infants to the ability to understand the intentions and emotions of others.",
+        "C": "However, claims about mirror neurons quickly outran the evidence. Some researchers enthusiastically described them as the basis of empathy, language, and civilization itself — assertions that most neuroscientists now regard as far overstated. The mirror neuron system is likely one component of social cognition, not its sole foundation."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(A)-(C)-(B)",
+        "reasoning": "Opening introduces the accidental discovery of mirror neurons. (A) must follow immediately: 'These neurons fired not only when the monkey performed an action' — 'These neurons' refers directly to 'mirror neurons' in the opening, describing their defining property. (C) begins with 'However, claims about mirror neurons quickly outran the evidence' — 'claims about mirror neurons' cannot exist without first knowing what they do (established in A); 'outran the evidence' implies excitement naturally following the striking property in (A). (B) then closes: 'This discovery attracted enormous interest' — 'This discovery' summarizes A+C as a unit and 'enormous interest' explains why (C)'s overclaiming happened.",
+        "discourse_markers": ["These neurons (A - anaphoric reference to opening's mirror neurons)", "not only...but also (A - defining characteristic)", "However (C - contrastive pivot from A's remarkable finding)", "This discovery (B - anaphoric summary of A)", "attracted enormous interest (B - explains the enthusiasm behind C's overclaiming)"],
+        "distractor_elimination": "B cannot come first because 'This discovery attracted enormous interest' needs the discovery described in A. C cannot come first because 'claims about mirror neurons quickly outran the evidence' needs established claims from A. Only A can follow the opening by describing what mirror neurons actually do.",
+        "explanation_ko": "주어진 문장은 거울 뉴런의 우연한 발견을 소개한다. (A)는 'These neurons(이 뉴런들)'라는 지시어로 주어진 문장의 'mirror neurons'를 직접 가리키며, 'not only...but also(~뿐만 아니라 ~도)' 구조로 거울 뉴런의 정의적 특성을 설명한다. (C)는 'However(그러나)'라는 역접 담화 표지로 (A)의 놀라운 발견에서 전환하여 과장된 주장에 대한 비판을 제시한다. (B)는 'This discovery(이 발견)'라는 지시어로 (A)+(C)를 단위로 포괄 요약하고, 'attracted enormous interest(엄청난 관심을 끌었다)'는 (C)에서 과장이 발생한 이유를 설명한다. 핵심 연결 근거: ① (A)의 'These neurons' → 지시어(주어진 문장의 mirror neurons 직접 지칭) ② (C)의 'However' → 역접 담화 표지((A)의 발견에서 비판으로 전환) ③ (B)의 'This discovery' → 지시어((A) 전체를 포괄 요약)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (A)-(C)-(B)이다. (A)의 'These neurons'가 주어진 문장의 'mirror neurons'를 직접 가리키며 뉴런의 정의적 특성을 설명한다. (C)의 'However'는 (A)의 놀라운 발견에서 역접 전환하여 과장된 주장 비판을 제시한다. (B)의 'This discovery'는 (A)+(C) 전체를 포괄 요약하며, 'attracted enormous interest'는 (C)의 과장이 발생한 이유를 소급하여 설명한다.",
+        "wrong": {
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'This discovery attracted enormous interest'가 첫 번째로 오면 어떤 발견인지 선행 내용이 없다. 'This discovery'는 반드시 (A)의 구체적인 뉴런 특성 설명이 먼저 나와야 지칭 대상이 생긴다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'However, claims about mirror neurons quickly outran the evidence'가 첫 번째로 오면, 어떤 주장에 기반해 과장이 발생했는지 (A)의 뉴런 특성 설명이 없어 맥락이 없다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다. 또한 이 순서에서는 (B)의 'This discovery'도 선행사인 (A) 없이 등장하는 문제가 있다."
+        },
+        "key_point": "핵심 담화 표지: ① (A)의 'These neurons' → 주어진 문장의 mirror neurons 직접 지칭(첫 번째 필수) ② (C)의 'However' → (A)의 발견에서 과장 비판으로 역접(A 이후 필수) ③ (B)의 'This discovery' → (A)+(C) 전체를 포괄 요약(마지막 위치). 주목할 점: (B)가 '발견에 큰 관심이 쏠렸다'고 말하는 것이 (C)의 과장이 생겨난 이유를 소급 설명하는 구조이다."
+      }
+    },
+    {
+      "id": "v2-36-07",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "easy",
+      "topic": "confirmation bias in scientific research",
+      "passage": "One of the most persistent threats to objective scientific inquiry is confirmation bias — the tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs.",
+      "paragraphs": {
+        "A": "Peer review and replication serve as institutional safeguards against these tendencies. When multiple independent teams attempt to reproduce a finding and fail, or when reviewers challenge the methodology of a published study, the self-correcting mechanism of science is working as intended.",
+        "B": "In practice, this bias can manifest in subtle ways that are difficult to detect even by experienced researchers. A scientist might unconsciously design experiments that are more likely to support a favored hypothesis, selectively report results that confirm predictions, or discount anomalous data as measurement error.",
+        "C": "The consequences can be severe. Fields as varied as nutrition science, psychology, and pharmaceutical research have suffered credibility crises when high-profile findings — the result of years of confirmation-biased inquiry — could not be replicated by independent laboratories."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(B)-(A)-(C)",
+        "reasoning": "Opening defines confirmation bias. (B) must follow: 'In practice, this bias can manifest' — 'this bias' refers anaphorically to 'confirmation bias' in the opening and describes concrete ways it appears in research. (A) begins with 'Peer review and replication serve as institutional safeguards against these tendencies' — 'these tendencies' refers to the specific biased behaviors listed in (B). (C) then closes: 'The consequences can be severe' — 'The consequences' refers to the failure of those safeguards, and 'could not be replicated by independent laboratories' directly echoes (A)'s mention of replication.",
+        "discourse_markers": ["In practice (B - grounds the abstract opening)", "this bias (B - anaphoric reference to opening)", "these tendencies (A - demonstrative referring to B's list)", "The consequences (C - result of B's biases persisting past A's safeguards)", "could not be replicated (C - echoes A's replication mechanism)"],
+        "distractor_elimination": "A cannot come first because 'these tendencies' requires the specific behaviors listed in B. C cannot come first because 'The consequences can be severe' requires prior description of the biases (B) and the safeguards that fail (A). Only B can follow the opening by grounding it in practice.",
+        "explanation_ko": "주어진 문장은 확증 편향을 정의한다. (B)는 'In practice(실제로)'라는 담화 표지로 추상적인 정의를 실제 연구 현장에 착지시키고, 'this bias(이 편향)'라는 지시어로 주어진 문장의 'confirmation bias'를 직접 가리킨다. (A)는 'these tendencies(이러한 경향들)'라는 지시어로 (B)에서 열거된 구체적인 편향 행동들(실험 설계, 선택적 보고, 이상값 무시)을 가리키며, 그에 대한 제도적 안전장치를 제시한다. (C)는 'The consequences(결과)'라는 지시어로 (B)의 편향이 (A)의 안전장치를 통과한 경우의 결과를 제시하고, 'could not be replicated(재현되지 못했다)'는 (A)의 'replication(재현)' 개념을 직접 반향한다. 핵심 연결 근거: ① (B)의 'this bias' → 지시어(주어진 문장의 확증 편향 직접 지칭) ② (A)의 'these tendencies' → 지시어((B)의 편향 행동 열거 지칭) ③ (C)의 'could not be replicated' → (A)의 'replication' 어휘 반향"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(A)-(C)이다. (B)의 'this bias'가 주어진 문장의 확증 편향을 직접 가리키며 구체적 편향 행동 목록을 제시한다. (A)의 'these tendencies'는 (B)의 행동 목록을 가리키며 제도적 안전장치(동료 검토, 재현)를 소개한다. (C)의 'The consequences'는 편향이 안전장치를 통과한 경우의 결과를 제시하고, 'could not be replicated'가 (A)의 'replication'을 직접 반향한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'these tendencies'가 맨 앞에 오면 어떤 경향들인지 선행 목록((B))이 없어 지시어가 허공에 뜬다.",
+          "3": "(B)-(C)-(A) 순서에서 (C)의 'The consequences can be severe'가 (A)의 안전장치 설명 전에 오면, 어떤 과정—편향이 검증을 통과하는 것—이 결과를 초래했는지 맥락이 빠진다. 또한 'could not be replicated'가 아직 소개되지 않은 'replication' 개념을 전제한다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)가 처음에 오면 'The consequences can be severe'의 원인이 아직 제시되지 않아 논리가 앞뒤가 바뀐다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (B)의 'this bias'+'In practice' → 추상적 정의를 실제 행동으로 착지(첫 번째 필수) ② (A)의 'these tendencies' → (B)의 행동 목록 지칭(B 이후 필수) ③ (C)의 'could not be replicated' → (A)의 'replication' 어휘 반향(마지막 필수). 논리 구조: 정의(주어진 문장) → 실제 발현(B) → 안전장치(A) → 안전장치 실패의 결과(C)."
+      }
+    },
+    {
+      "id": "v2-36-08",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "easy",
+      "topic": "deep-sea bioluminescence",
+      "passage": "More than 75 percent of deep-sea organisms are capable of producing their own light, making bioluminescence the most widespread form of communication in the ocean.",
+      "paragraphs": {
+        "A": "Predators such as the anglerfish exploit this ability in reverse: they dangle a bioluminescent lure above their mouths to attract curious prey in the darkness. For the predator, the light is not a signal to potential mates but a trap for the unwary.",
+        "B": "This light is produced through a chemical reaction between a compound called luciferin and an enzyme called luciferase, often in the presence of oxygen. The result is an efficient, virtually heatless glow that serves a variety of biological purposes depending on the species.",
+        "C": "Many species use bioluminescence primarily for communication, particularly in finding mates. The flashing patterns of certain deep-sea squid, for example, are species-specific enough to function as a visual signature that potential partners can recognize in the absence of any other light source."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(B)-(C)-(A)",
+        "reasoning": "Opening states bioluminescence is widespread. (B) must follow: 'This light is produced through a chemical reaction' — 'This light' refers directly to 'their own light' in the opening, explaining the biochemical mechanism and introducing the range of purposes. (C) follows: 'Many species use bioluminescence primarily for communication' — this provides the first specific use (communication/mating) from (B)'s 'variety of biological purposes.' (A) then provides a contrasting use: 'Predators such as the anglerfish exploit this ability in reverse' — 'this ability' refers to bioluminescence from (C), and 'in reverse' signals a contrast with (C)'s communicative use.",
+        "discourse_markers": ["This light (B - anaphoric reference to opening)", "a variety of biological purposes (B - signals upcoming enumeration)", "Many species use...primarily for communication (C - first enumerated purpose)", "in reverse (A - contrastive marker against C's communicative purpose)", "this ability (A - anaphoric reference to C's bioluminescence)"],
+        "distractor_elimination": "A cannot come first because 'this ability' needs bioluminescence to be established. C cannot come first because 'Many species use bioluminescence primarily for communication' implies it is one of several uses already enumerated in B. Only B can follow by explaining the mechanism and announcing multiple purposes.",
+        "explanation_ko": "주어진 문장은 심해 생물 발광이 가장 광범위한 소통 형태라고 설명한다. (B)는 'This light(이 빛)'라는 지시어로 주어진 문장의 'their own light'를 직접 가리키고, 생화학적 메커니즘을 설명하면서 'a variety of biological purposes(다양한 생물학적 목적)'로 이후 열거될 내용을 예고한다. (C)는 (B)에서 예고된 '다양한 목적' 중 첫 번째인 의사소통·짝짓기 사용을 'for example(예를 들어)'과 함께 구체화한다. (A)는 'this ability(이 능력)'라는 지시어로 (C)의 생물 발광 능력을 가리키고, 'in reverse(반대로)'라는 대조 표지로 (C)의 소통 목적과 대비되는 포식 목적을 제시한다. 핵심 연결 근거: ① (B)의 'This light' → 지시어(주어진 문장의 'their own light' 직접 지칭) ② (B)의 'a variety of biological purposes' → 열거 예고 표지 ③ (A)의 'this ability' → 지시어((C)의 생물 발광 능력 지칭) ④ (A)의 'in reverse' → 대조 담화 표지((C)의 소통 목적과 대비)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(C)-(A)이다. (B)의 'This light'가 주어진 문장의 빛을 직접 가리키며 메커니즘과 '다양한 목적'을 예고한다. (C)는 예고된 목적 중 첫 번째인 소통·짝짓기를 'for example'로 구체화한다. (A)의 'this ability'는 (C)의 생물 발광 능력을 가리키고, 'in reverse'는 (C)의 소통 목적과 대비되는 포식 목적을 제시한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'this ability'가 처음에 오면 어떤 능력인지 선행 맥락이 없다. 또한 'in reverse'도 역접할 (C)의 소통 목적이 아직 소개되지 않아 연결이 끊긴다.",
+          "2": "(B)-(A)-(C) 순서에서 (A)가 (C) 앞에 오면 'in reverse'가 대비할 소통 목적((C))이 아직 나오지 않아 대조 관계가 성립하지 않는다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)가 처음에 오면 'Many species use bioluminescence primarily for communication'이 아직 메커니즘이 설명되지 않은 상태에서 등장한다. (B)의 'a variety of biological purposes'가 먼저 열거를 예고해야 (C)의 첫 번째 사례가 자연스럽다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (B)의 'This light' → 주어진 문장 직접 지칭(첫 번째 필수) ② (B)의 'a variety of biological purposes' → 열거 예고(이후 C, A에서 구체화) ③ (A)의 'in reverse' → 대조 담화 표지((C)의 소통 목적이 먼저 나온 후에만 성립). 논리 구조: 메커니즘(B) → 소통 목적(C) → 포식 목적·대조(A)."
+      }
+    },
+    {
+      "id": "v2-36-09",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "attachment theory in infant development",
+      "passage": "John Bowlby's attachment theory, developed in the mid-twentieth century, proposed that infants are biologically predisposed to form strong emotional bonds with caregivers as a survival mechanism.",
+      "paragraphs": {
+        "A": "Mary Ainsworth's famous 'Strange Situation' experiments in the 1970s provided empirical support for Bowlby's framework. By observing how infants responded to brief separations from and reunions with their caregiver, she identified distinct attachment styles: secure, anxious-ambivalent, and avoidant.",
+        "B": "These early attachment patterns, Bowlby argued, form internal working models — mental representations of relationships — that shape an individual's expectations and behaviors in all subsequent close relationships throughout life. A securely attached infant, for instance, is more likely to develop into a confident, trusting adult.",
+        "C": "Unlike earlier theories that emphasized feeding as the primary basis of the infant-caregiver bond, Bowlby drew on ethological research — particularly Konrad Lorenz's studies of imprinting in birds — to argue that proximity-seeking behavior is an independent, hardwired system in mammals."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(C)-(A)-(B)",
+        "reasoning": "Opening introduces Bowlby's attachment theory. (C) must follow: 'Unlike earlier theories that emphasized feeding...Bowlby drew on ethological research' — this directly elaborates on Bowlby's theoretical stance, explaining what made his theory distinctive. (A) follows: 'Mary Ainsworth's famous experiments...provided empirical support for Bowlby's framework' — 'Bowlby's framework' refers to the theory detailed in (C) and the opening; 'empirical support' advances from (C)'s theoretical claim to experimental evidence. (B) closes: 'These early attachment patterns...Bowlby argued, form internal working models' — 'These early attachment patterns' is a demonstrative reference to the secure, anxious-ambivalent, and avoidant styles identified in (A).",
+        "discourse_markers": ["Unlike earlier theories (C - positions Bowlby's theory against alternatives)", "provided empirical support for Bowlby's framework (A - ties back to C's theoretical claim)", "These early attachment patterns (B - demonstrative reference to A's identified styles)", "for instance (B - exemplifies the long-term outcome)"],
+        "distractor_elimination": "A cannot come first because 'Bowlby's framework' needs the theory's content from C. B cannot come first because 'These early attachment patterns' needs A's list of styles as its antecedent. Only C can follow the opening by clarifying the theoretical basis.",
+        "explanation_ko": "주어진 문장은 Bowlby의 애착 이론을 소개한다. (C)는 'Unlike earlier theories(초기 이론들과 달리)'라는 대조 담화 표지로 Bowlby의 이론이 이전 이론들과 어떻게 차별화되는지 설명하며 이론적 기반을 명확히 한다. (A)는 'Bowlby's framework(Bowlby의 이론 체계)'라는 표현으로 (C)와 주어진 문장에서 상세히 설명된 이론을 지칭하고, 'empirical support(경험적 지지)'로 이론에서 실험 증거로 논리가 진전됨을 보여 준다. (B)는 'These early attachment patterns(이러한 초기 애착 패턴들)'이라는 지시어로 (A)에서 식별된 안정형·불안 양가형·회피형 애착 유형들을 직접 가리키며, 'for instance(예를 들어)'로 장기적 결과를 예시한다. 핵심 연결 근거: ① (C)의 'Unlike earlier theories' → 대조 담화 표지(이론적 차별성 설명) ② (A)의 'Bowlby's framework' → (C)+(주어진 문장)의 이론 지칭 ③ (B)의 'These early attachment patterns' → 지시어((A)의 애착 유형 목록 직접 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(A)-(B)이다. (C)의 'Unlike earlier theories'가 Bowlby의 이론을 이전 이론들과 구별하며 이론적 기반을 명확히 한다. (A)의 'Bowlby's framework'는 (C)+(주어진 문장)의 이론을 지칭하며 Ainsworth의 실험이 경험적 지지를 제공했다고 설명한다. (B)의 'These early attachment patterns'는 (A)에서 식별된 세 가지 유형(안정형·불안 양가형·회피형)을 가리키며 장기적 내부 작동 모델을 설명한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'Bowlby's framework'가 처음에 오면 어떤 이론 체계인지 (C)의 이론 내용이 아직 제시되지 않아 지칭 대상이 불분명하다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'These early attachment patterns'가 처음에 오면 어떤 패턴들인지 (A)의 Ainsworth 실험 유형 목록이 아직 없어 선행사가 없다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "5": "(C)-(B)-(A) 순서에서 (B)가 (A) 앞에 오면 'These early attachment patterns'의 선행사인 안정형·불안 양가형·회피형 유형 목록이 아직 (A)에서 소개되지 않아 지시어가 성립하지 않는다."
+        },
+        "key_point": "핵심 담화 표지: ① (C)의 'Unlike earlier theories' → 이론적 차별성 설명(주어진 문장 직후 필수) ② (A)의 'Bowlby's framework' → 이론 지칭 및 실험 증거로 진전 ③ (B)의 'These early attachment patterns' → (A)의 유형 목록(안정형·불안 양가형·회피형) 직접 지칭(마지막 필수). 논리 구조: 이론 소개(주어진 문장) → 이론적 차별성(C) → 실험 증거(A) → 장기 영향(B)."
+      }
+    },
+    {
+      "id": "v2-36-10",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "challenges of renewable energy transition",
+      "passage": "The global transition to renewable energy sources such as solar and wind power represents one of the most ambitious industrial transformations in human history.",
+      "paragraphs": {
+        "A": "Battery storage technology and smart grid management are two of the most actively researched solutions. Large-scale lithium-ion battery banks can store excess daytime solar generation and release it during evening peak demand, while smart grids can dynamically balance supply across regions.",
+        "B": "Nevertheless, progress has been remarkable. The cost of solar photovoltaic panels has fallen by more than 90 percent since 2010, making solar electricity cheaper than new coal or gas plants in most parts of the world. This cost revolution has accelerated deployment at a pace that surprised even optimistic forecasters.",
+        "C": "Yet this transition faces a fundamental technical challenge: the intermittency problem. Unlike coal or natural gas power plants, which can generate electricity on demand, solar panels produce power only when the sun shines and wind turbines only when the wind blows."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(C)-(B)-(A)",
+        "reasoning": "Opening describes the ambitious renewable energy transition. (C) must follow: 'Yet this transition faces a fundamental technical challenge: the intermittency problem' — 'this transition' directly refers to the opening, and 'Yet' introduces a complication. (B) then begins with 'Nevertheless, progress has been remarkable' — 'Nevertheless' contrasts with (C)'s problem statement, offering encouraging data on cost reduction. (A) follows with 'Battery storage technology and smart grid management are two of the most actively researched solutions' — 'solutions' directly addresses (C)'s intermittency problem, and comes after (B)'s evidence of progress contextualizes the technological investment.",
+        "discourse_markers": ["Yet (C - contrastive pivot from opening's optimism)", "the intermittency problem (C - names the core challenge)", "Nevertheless (B - contrastive response to C's problem)", "This cost revolution (B - demonstrative referring to B's own price data)", "solutions (A - addresses C's intermittency problem after B establishes progress context)"],
+        "distractor_elimination": "A cannot come first because 'solutions' requires the problem (C) to be established. B cannot come first because 'Nevertheless' requires a prior problem statement (C) to contrast with. Only C can follow the opening by introducing the core technical challenge.",
+        "explanation_ko": "주어진 문장은 재생에너지로의 전환이 야심찬 전환이라고 설명한다. (C)는 'Yet(그러나)'이라는 역접 담화 표지로 주어진 문장의 낙관적 전망에서 전환하고, 'this transition(이 전환)'이라는 지시어로 주어진 문장의 내용을 직접 지칭하며 간헐성 문제라는 핵심 기술 과제를 제기한다. (B)는 'Nevertheless(그럼에도 불구하고)'라는 양보 역접 담화 표지로 (C)의 문제 제기에 대응하면서 진전 사항(태양광 비용 90% 하락)을 제시하고, 'This cost revolution(이 비용 혁명)'은 (B) 자체 데이터를 요약하는 지시어이다. (A)는 'solutions(해결책들)'로 (C)의 간헐성 문제를 직접 겨냥하며, (B)의 진전 맥락이 기술 투자를 정당화한 후에 배치된다. 핵심 연결 근거: ① (C)의 'Yet' → 역접 담화 표지(주어진 문장의 낙관론과 대조) ② (C)의 'this transition' → 지시어(주어진 문장 직접 지칭) ③ (B)의 'Nevertheless' → 양보 역접 담화 표지((C)의 문제 인정 후 진전 제시) ④ (A)의 'solutions' → (C)의 간헐성 문제에 대한 논리적 응답"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(B)-(A)이다. (C)의 'Yet'과 'this transition'이 주어진 문장에서 직접 전환하며 간헐성 문제를 제기한다. (B)의 'Nevertheless'는 (C)의 문제를 인정하면서도 진전 사항(태양광 비용 90% 하락)을 역접으로 제시한다. (A)의 'solutions'는 (C)에서 제기된 간헐성 문제에 대한 기술적 해결책(배터리 저장, 스마트 그리드)을 제시한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'solutions'가 처음에 오면 어떤 문제에 대한 해결책인지 (C)의 간헐성 문제가 아직 제기되지 않아 맥락이 없다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'Nevertheless, progress has been remarkable'이 처음에 오면 무슨 어려움에도 불구하고(nevertheless) 진전이 있었는지 선행 문제 제기((C))가 없다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (A)가 (B) 앞에 오면 기술적 해결책이 진전 맥락((B))보다 먼저 나온다. (B)의 비용 혁명 맥락이 먼저 확립되어야 해결책 투자가 자연스럽게 정당화된다."
+        },
+        "key_point": "핵심 담화 표지: ① (C)의 'Yet'+'this transition' → 주어진 문장 역접+직접 지칭(첫 번째 필수) ② (B)의 'Nevertheless' → 문제 인정 후 역접 전환(C 이후 필수) ③ (A)의 'solutions' → (C)의 간헐성 문제에 대한 논리적 응답(마지막). 이 문항의 특징: 두 개의 역접 담화 표지 'Yet'(C)과 'Nevertheless'(B)가 서로 다른 방향으로 전환하는 3단계 구조이다."
+      }
+    },
+    {
+      "id": "v2-36-11",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "genetic diversity in food crops",
+      "passage": "The Irish Potato Famine of the 1840s remains the most catastrophic illustration of what happens when an agricultural system depends too heavily on a single crop variety.",
+      "paragraphs": {
+        "A": "Irish farmers grew overwhelmingly one variety — the Lumper potato — which lacked genetic resistance to the Phytophthora infestans blight. When the blight arrived, there was no genetic fallback: approximately one million people died of starvation and a further million emigrated, devastating the Irish population.",
+        "B": "Seed banks, such as the Svalbard Global Seed Vault in Norway, serve as insurance policies against such catastrophes. By preserving samples of thousands of traditional varieties and wild crop relatives, these institutions maintain the genetic library that future plant breeders will need to draw upon as pathogens evolve and climates shift.",
+        "C": "This historical lesson resonates urgently today because modern industrial agriculture has, if anything, narrowed genetic diversity further. Globally, just three crops — wheat, rice, and maize — provide more than half of all human calories, and each is cultivated in genetically near-uniform varieties optimized for yield."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(A)-(C)-(B)",
+        "reasoning": "Opening introduces the Irish Potato Famine as a cautionary example. (A) follows with 'Irish farmers grew overwhelmingly one variety — the Lumper potato' — this directly narrates the historical case introduced in the opening, providing the specific facts. (C) then follows: 'This historical lesson resonates urgently today because modern industrial agriculture has...narrowed genetic diversity further' — 'This historical lesson' is a demonstrative reference to (A)'s famine narrative, pivoting from past to present relevance. (B) closes: 'Seed banks...serve as insurance policies against such catastrophes' — 'such catastrophes' refers back to both the famine (A) and the modern risk (C), and 'insurance' is the logical response to the risk now clearly established.",
+        "discourse_markers": ["This historical lesson (C - demonstrative reference to A's narrative)", "if anything (C - intensifier showing modern situation is worse)", "such catastrophes (B - demonstrative reference to A's famine and C's modern risk)", "insurance policies (B - logical response to established risk)"],
+        "distractor_elimination": "C cannot come first because 'This historical lesson' needs the lesson from A to refer to. B cannot come first because 'such catastrophes' needs both the historical example (A) and modern risk (C) as context. Only A can follow the opening by narrating the historical facts.",
+        "explanation_ko": "주어진 문장은 아일랜드 감자 기근을 경고적 사례로 소개한다. (A)는 개방 문장에서 제시된 역사적 사례를 직접 서술하여 기근의 구체적 사실을 제공한다. (C)는 'This historical lesson(이 역사적 교훈)'이라는 지시어로 (A)의 기근 서술 전체를 가리키며, 'if anything(오히려)'이라는 강조 표현으로 현대 상황이 더 심각함을 나타내면서 과거에서 현재로 전환한다. (B)는 'such catastrophes(그러한 재앙들)'라는 지시어로 (A)의 기근과 (C)의 현대적 위험 모두를 포괄하여 지칭하고, 'insurance policies(보험 정책)'는 이미 명확히 확립된 위험에 대한 논리적 대응이다. 핵심 연결 근거: ① (C)의 'This historical lesson' → 지시어((A)의 기근 서술 전체 지칭) ② (C)의 'if anything' → 강조 담화 표지(현대 상황의 심각성) ③ (B)의 'such catastrophes' → 지시어((A)+(C) 모두 포괄)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (A)-(C)-(B)이다. (A)는 주어진 문장에서 제시된 아일랜드 기근의 구체적 사실(Lumper 감자, 기아 사망자 수)을 서술한다. (C)의 'This historical lesson'이 (A)의 기근 서술 전체를 가리키며 현대 농업의 유전적 단일화라는 더 심각한 현재 위험으로 전환한다. (B)의 'such catastrophes'는 (A)의 역사적 기근과 (C)의 현대적 위험 모두를 포괄하며 종자 은행이라는 해결책을 제시한다.",
+        "wrong": {
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'such catastrophes'가 처음에 오면 어떤 재앙들인지 (A)의 역사적 사례와 (C)의 현대 위험이 아직 확립되지 않아 지시어가 허공에 뜬다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'This historical lesson'이 처음에 오면 어떤 역사적 교훈인지 선행 서술((A))이 없어 지시어가 성립하지 않는다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (A) → 주어진 문장의 기근 사례를 직접 서술(첫 번째 필수) ② (C)의 'This historical lesson' → (A) 전체 지칭(A 이후 필수) ③ (B)의 'such catastrophes' → (A)+(C) 모두 포괄하는 지시어(마지막 필수). 논리 구조: 역사적 경고(주어진 문장) → 기근 상세 서술(A) → 현대적 교훈 도출(C) → 해결책(B)."
+      }
+    },
+    {
+      "id": "v2-36-12",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "price anchoring in consumer behavior",
+      "passage": "Behavioral economists have identified a powerful cognitive bias called anchoring, in which the first piece of numerical information encountered disproportionately influences subsequent judgments.",
+      "paragraphs": {
+        "A": "For example, when a retailer displays a product with a crossed-out 'original price' of $200 and a 'sale price' of $120, the $200 anchor makes the $120 feel like a bargain — even if the product was never genuinely sold at $200. The original price serves purely as a psychological reference point.",
+        "B": "The effect is remarkably robust. In one classic experiment, participants were asked to estimate the percentage of African countries in the United Nations after first being exposed to a random number generated by a spinning wheel. Those who saw high numbers gave significantly higher estimates than those who saw low numbers, despite the obvious irrelevance of the wheel's output.",
+        "C": "Awareness of anchoring does not reliably protect against it. Even when people are warned that an anchor is arbitrary, they continue to be influenced by it — suggesting that the bias operates at an automatic, pre-reflective level of cognitive processing that conscious reasoning cannot easily override."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(B)-(A)-(C)",
+        "reasoning": "Opening defines anchoring bias. (B) follows: 'The effect is remarkably robust. In one classic experiment...' — 'The effect' refers to the anchoring effect just defined in the opening, and the spinning-wheel experiment illustrates its reach into clearly irrelevant numerical priming. (A) follows: 'For example, when a retailer displays a product with a crossed-out original price...' — 'For example' signals an additional concrete illustration in the familiar retail context. (C) closes: 'Awareness of anchoring does not reliably protect against it' — 'it' refers to the anchoring effect, drawing a practical implication after two illustrations (B and A).",
+        "discourse_markers": ["The effect (B - anaphoric reference to opening's anchoring)", "remarkably robust (B - evaluative claim inviting examples)", "For example (A - provides retail example after B's lab example)", "Awareness of anchoring does not reliably protect against it (C - pragmatic implication following examples)", "Even when...they continue (C - concessive intensifier)"],
+        "distractor_elimination": "A cannot come first because 'For example' needs a general claim to illustrate — B provides that claim. C cannot come first because 'does not reliably protect against it' needs 'it' (anchoring) demonstrated first in B and A. Only B can follow the opening by asserting the effect's robustness.",
+        "explanation_ko": "주어진 문장은 닻 내리기(anchoring) 편향을 정의한다. (B)는 'The effect(이 효과)'라는 지시어로 주어진 문장에서 정의된 닻 내리기 효과를 가리키며, 'remarkably robust(놀랍도록 강력하다)'라는 평가로 이후 사례를 예고한다. (A)는 'For example(예를 들어)'이라는 예시 담화 표지로 (B)의 실험실 사례에 이어 친숙한 소매 맥락의 추가 사례를 제공한다. (C)는 'it(그것)'이라는 대명사로 두 사례(B+A)를 통해 입증된 닻 내리기 효과를 지칭하고, 'Even when(심지어 ~할 때도)'이라는 양보 강조 표지로 의식적 인식으로도 극복되지 않는다는 실용적 함의를 도출한다. 핵심 연결 근거: ① (B)의 'The effect' → 지시어(주어진 문장의 닻 내리기 효과 직접 지칭) ② (A)의 'For example' → 예시 담화 표지((B)의 주장에 대한 추가 예시) ③ (C)의 'it' → 대명사((B)+(A)를 통해 확인된 편향 지칭) ④ (C)의 'Even when' → 양보 강조 담화 표지"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(A)-(C)이다. (B)의 'The effect'가 닻 내리기 효과를 직접 가리키며 강인성을 주장하고 실험실 사례(회전 룰렛 번호 실험)를 제시한다. (A)의 'For example'은 (B)의 강인성 주장에 이어 소매 맥락의 추가 사례(교차된 정가)를 제공한다. (C)는 두 사례(B+A)를 통해 입증된 닻 내리기 효과('it')를 가리키며 의식적 경고로도 극복되지 않는다는 함의를 도출한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'For example'이 처음에 오면 무엇의 예시인지 선행 주장((B)의 강인성 주장)이 없다.",
+          "3": "(B)-(C)-(A) 순서에서 (C)가 (A) 앞에 오면 (C)의 'it'이 두 사례((B)와 (A)) 모두를 전제해야 하는데 (A)의 소매 사례가 아직 나오지 않아 입증이 불충분하다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'does not reliably protect against it'이 처음에 오면 'it'이 지칭하는 닻 내리기 효과가 아직 제시되지 않아 선행사가 없다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (B)의 'The effect'+'remarkably robust' → 닻 내리기 효과 지칭+강인성 예고(첫 번째 필수) ② (A)의 'For example' → (B)의 강인성 주장에 이어 추가 사례 ③ (C)의 'it' → (B)+(A) 두 사례로 충분히 입증된 효과를 지칭(마지막 필수). 논리 구조: 정의(주어진 문장) → 강인성 주장+실험실 사례(B) → 소매 사례 추가(A) → 실용적 함의(C)."
+      }
+    },
+    {
+      "id": "v2-36-13",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "music and autobiographical memory retrieval",
+      "passage": "Music has a unique capacity to trigger vivid, emotionally charged autobiographical memories — a phenomenon sometimes called the 'Proustian memory effect' after the novelist Marcel Proust, who described how a piece of music could instantly transport him back to a specific moment in his past.",
+      "paragraphs": {
+        "A": "This neural overlap helps explain why Alzheimer's patients, who often cannot recall recent events or even close relatives' names, can sometimes still sing along to songs from their youth with remarkable accuracy. The musical memory traces seem to be encoded in regions of the brain that are relatively resistant to the disease's progression.",
+        "B": "Neuroscientists have traced this effect to the way musical memories are encoded in the brain. Unlike declarative memories for facts and events, which rely heavily on the hippocampus, musical memories engage a broader network including the auditory cortex, the basal ganglia, and emotional processing centers in the limbic system.",
+        "C": "For this reason, music therapists increasingly incorporate familiar songs into treatment programs for dementia patients. By activating preserved musical memories, therapists can create windows of lucidity and emotional connection that medication alone often cannot achieve."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(B)-(C)-(A)",
+        "reasoning": "Opening introduces the Proustian memory effect. (B) must follow: 'Neuroscientists have traced this effect to the way musical memories are encoded in the brain' — 'this effect' is a direct anaphoric reference to the Proustian memory effect in the opening. (C) follows: 'For this reason, music therapists increasingly incorporate familiar songs into treatment programs for dementia patients' — 'For this reason' is a causal connector referring to (B)'s neural explanation, making it logical to apply the mechanism therapeutically. (A) closes: 'This neural overlap helps explain why Alzheimer's patients...can still sing along to songs from their youth' — 'This neural overlap' refers specifically to the 'broader network' described in (B), and the Alzheimer's example is the most compelling evidence, placed last as a climax that also validates (C)'s therapeutic application.",
+        "discourse_markers": ["this effect (B - anaphoric reference to opening)", "Unlike declarative memories (B - contrastive explanation)", "For this reason (C - causal connector from B's mechanism)", "This neural overlap (A - demonstrative reference to B's 'broader network')", "helps explain why (A - reveals explanatory power of the mechanism)"],
+        "distractor_elimination": "A cannot come first because 'This neural overlap' needs B's description of the neural network. C cannot come first because 'For this reason' needs B's mechanistic explanation as the reason. Only B can follow the opening by identifying the neural basis.",
+        "explanation_ko": "주어진 문장은 '프루스트적 기억 효과'를 소개한다. (B)는 'this effect(이 효과)'라는 지시어로 주어진 문장의 프루스트적 기억 효과를 직접 가리키고, 'Unlike declarative memories(서술 기억과 달리)'라는 대조 담화 표지로 음악 기억의 신경학적 특수성을 설명한다. (C)는 'For this reason(이러한 이유로)'이라는 인과 담화 표지로 (B)의 신경학적 설명을 원인으로 삼아 치료적 적용을 논리적으로 도출한다. (A)는 'This neural overlap(이 신경 중복)'이라는 지시어로 (B)에서 설명된 '더 광범위한 신경망'을 직접 가리키고, 알츠하이머 환자 사례를 결정적 증거로 제시하여 (C)의 치료적 적용도 검증한다. 핵심 연결 근거: ① (B)의 'this effect' → 지시어(주어진 문장의 프루스트 효과 직접 지칭) ② (C)의 'For this reason' → 인과 담화 표지((B)의 메커니즘을 원인으로 지칭) ③ (A)의 'This neural overlap' → 지시어((B)의 '더 광범위한 신경망' 직접 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(C)-(A)이다. (B)의 'this effect'가 주어진 문장의 프루스트 효과를 직접 가리키며 신경학적 메커니즘을 설명한다. (C)의 'For this reason'은 (B)의 메커니즘을 원인으로 삼아 음악 치료의 임상적 적용을 도출한다. (A)의 'This neural overlap'은 (B)의 '더 광범위한 신경망'을 직접 가리키며 알츠하이머 환자 사례로 메커니즘과 치료 적용 모두를 입증하는 수사적 절정을 제공한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'This neural overlap'이 처음에 오면 어떤 신경 중복인지 (B)의 신경망 설명이 아직 나오지 않아 지시어가 성립하지 않는다.",
+          "2": "(B)-(A)-(C) 순서에서 (A)가 (C) 앞에 오면 알츠하이머 사례가 임상 적용((C)) 이전에 등장한다. 치료적 적용(C)이 먼저 확립된 후에 그것을 검증하는 사례(A)가 절정으로 오는 것이 자연스럽다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'For this reason'이 처음에 오면 어떤 이유인지 (B)의 신경학적 메커니즘이 아직 제시되지 않아 인과 연결이 성립하지 않는다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (B)의 'this effect' → 주어진 문장의 프루스트 효과 직접 지칭(첫 번째 필수) ② (C)의 'For this reason' → 인과 담화 표지((B)의 메커니즘을 원인으로 지칭, B 이후 필수) ③ (A)의 'This neural overlap' → (B)의 '더 광범위한 신경망' 직접 지칭(마지막 절정). 논리 구조: 현상 소개(주어진 문장) → 메커니즘(B) → 치료 적용(C) → 절정 증거(A)."
+      }
+    },
+    {
+      "id": "v2-36-14",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "open-source software communities",
+      "passage": "Open-source software, in which the source code is made freely available for anyone to inspect, modify, and distribute, has become one of the foundational pillars of the modern digital economy.",
+      "paragraphs": {
+        "A": "Linus's Law, named after Linux creator Linus Torvalds, captures this dynamic: 'Given enough eyeballs, all bugs are shallow.' The implication is that the sheer number of developers reviewing and testing open-source code makes it possible to catch errors that would slip past even highly competent proprietary development teams.",
+        "B": "Critics once argued that software developed by volunteers with no financial incentive could not match the quality or reliability of proprietary products built by professional engineers. The success of projects such as the Linux operating system, the Apache web server, and the Firefox browser has comprehensively refuted this assumption.",
+        "C": "The key to their success lies not only in the talent of individual contributors but in the collaborative architecture of the development process itself. Thousands of developers independently review, test, and improve the same codebase, creating a quality assurance process of unparalleled scale."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(C)-(A)-(B)",
+        "reasoning": "Opening introduces open-source software as a digital economy pillar. (C) follows: 'The key to their success lies not only in the talent of individual contributors but in the collaborative architecture' — 'their success' refers to the success of open-source projects implied by 'foundational pillars' in the opening. (A) follows: 'Linus's Law...captures this dynamic: Given enough eyeballs, all bugs are shallow' — 'this dynamic' refers to (C)'s 'thousands of developers independently review, test, and improve,' and (A) provides the named principle. (B) closes: 'Critics once argued that software developed by volunteers...could not match the quality...The success of projects such as Linux...has comprehensively refuted this assumption' — 'this assumption' refers back to the quality claim implied by (A)'s Linus's Law and (C)'s collaborative process, completing the rhetorical arc.",
+        "discourse_markers": ["their success (C - anaphoric reference to open-source's success in opening)", "this dynamic (A - demonstrative reference to C's collaborative model)", "Linus's Law (A - names the principle)", "this assumption (B - demonstrative reference to critics' claim which A's law refutes)", "comprehensively refuted (B - concluding vindication)"],
+        "distractor_elimination": "A cannot come first because 'this dynamic' needs C's collaborative architecture to refer to. B cannot come first because 'this assumption' needs prior discussion of quality (from C and A) to specify what was assumed. Only C can follow the opening by explaining the source of success.",
+        "explanation_ko": "주어진 문장은 오픈 소스 소프트웨어가 디지털 경제의 기반이 되었다고 설명한다. (C)는 'their success(그들의 성공)'라는 지시어로 주어진 문장에서 '기반 기둥'이라는 표현이 암시하는 오픈 소스 프로젝트들의 성공을 가리킨다. (A)는 'this dynamic(이 역학)'이라는 지시어로 (C)의 '수천 명의 개발자들이 독립적으로 검토·테스트·개선한다'는 협업 모델을 가리키며, Linus의 법칙이라는 명명된 원칙을 제시한다. (B)는 'this assumption(이 가정)'이라는 지시어로 (C)와 (A)의 품질 논의가 암시하는 비판자들의 가정을 가리키고, 'comprehensively refuted(완전히 반박했다)'로 수사적 호(arc)를 완성한다. 핵심 연결 근거: ① (C)의 'their success' → 지시어(주어진 문장의 오픈 소스 성공 지칭) ② (A)의 'this dynamic' → 지시어((C)의 협업 모델 지칭) ③ (B)의 'this assumption' → 지시어((C)+(A)의 품질 논의가 암시하는 가정 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(A)-(B)이다. (C)의 'their success'가 주어진 문장의 오픈 소스 성공을 가리키며 협업 구조를 설명한다. (A)의 'this dynamic'은 (C)의 협업 모델을 가리키며 Linus의 법칙이라는 명명된 원칙을 제시한다. (B)의 'this assumption'은 (C)와 (A)의 품질 논의가 함의하는 비판자들의 가정을 가리키며 'comprehensively refuted'로 수사적 반박 구조를 완성한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'this dynamic'이 처음에 오면 어떤 역학인지 (C)의 협업 구조 설명이 아직 없어 지시어가 성립하지 않는다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'this assumption'이 처음에 오면 어떤 가정인지 (C)와 (A)의 품질 논의가 아직 없어 지시어가 성립하지 않는다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "5": "(C)-(B)-(A) 순서에서 (B)가 (A) 앞에 오면 (A)의 Linus의 법칙이라는 구체적인 품질 원칙이 (B)의 반박 이후에 나온다. 논리적으로 품질 메커니즘(A)이 확립된 후 비판자 반박(B)이 이루어지는 것이 자연스럽다."
+        },
+        "key_point": "핵심 담화 표지: ① (C)의 'their success' → 주어진 문장의 성공 암시 지칭(첫 번째 필수) ② (A)의 'this dynamic' → (C)의 협업 모델 지칭(C 이후 필수) ③ (B)의 'this assumption'+'comprehensively refuted' → (C)+(A)의 품질 논의 후 비판자 반박 완성(마지막 필수). 이 문항의 특징: (B)는 글의 수사적 전략(비판 제시 후 반박)의 완결부이다."
+      }
+    },
+    {
+      "id": "v2-36-15",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "circadian rhythm disruption and health",
+      "passage": "The human body maintains an internal biological clock — the circadian rhythm — that governs sleep, metabolism, hormone secretion, and dozens of other physiological processes on an approximately 24-hour cycle.",
+      "paragraphs": {
+        "A": "The health consequences of persistent disruption are substantial. Epidemiological studies of shift workers, who chronically misalign their sleep with the natural light-dark cycle, show elevated rates of metabolic syndrome, cardiovascular disease, and certain cancers relative to people with regular sleep schedules.",
+        "B": "Nor does the damage stop at sleepiness. When the master clock and peripheral organ clocks fall out of phase with each other — a state researchers call 'internal desynchrony' — the coordinated signaling that regulates insulin secretion, immune function, and cell repair breaks down, creating systemic physiological stress.",
+        "C": "This clock can be profoundly disrupted by modern life. Jet travel across time zones, night-shift work, and the pervasive blue-wavelength light emitted by screens all send conflicting signals to the brain's master pacemaker, the suprachiasmatic nucleus, which struggles to maintain coherent timing across the body's many organ systems."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(C)-(B)-(A)",
+        "reasoning": "Opening defines the circadian rhythm. (C) must follow: 'This clock can be profoundly disrupted by modern life' — 'This clock' directly refers to 'the circadian rhythm' in the opening, and the paragraph introduces modern disruptors (jet travel, shift work, screens). (B) follows: 'Nor does the damage stop at sleepiness' — 'the damage' refers to the disruption introduced in (C), and 'internal desynchrony' expands on the mechanistic consequences of the misalignment implied in (C)'s 'struggles to maintain coherent timing.' (A) closes: 'The health consequences of persistent disruption are substantial' — 'persistent disruption' refers to both (C)'s causes and (B)'s internal desynchrony mechanism, and the epidemiological shift-worker data provides concrete human evidence.",
+        "discourse_markers": ["This clock (C - anaphoric reference to opening)", "Nor does the damage stop at sleepiness (B - additive contrast expanding C's consequences)", "'internal desynchrony' (B - names the mechanism)", "The health consequences of persistent disruption are substantial (A - logical conclusion from B's mechanism)", "Epidemiological studies...show elevated rates (A - empirical support for B+C claims)"],
+        "distractor_elimination": "B cannot come first because 'the damage' needs C's disruption to be established. A cannot come first because 'The health consequences of persistent disruption' needs both C's causes and B's mechanisms as its antecedent. Only C can follow the opening by introducing how the clock gets disrupted.",
+        "explanation_ko": "주어진 문장은 일주기 리듬을 정의한다. (C)는 'This clock(이 시계)'이라는 지시어로 주어진 문장의 'the circadian rhythm'을 직접 가리키며, 현대 생활(시차 여행, 야간 교대, 스크린)이 일주기 리듬을 방해하는 원인을 제시한다. (B)는 'Nor does the damage stop at sleepiness(피해가 졸음에서 그치지 않는다)'라는 부가 역접 담화 표지로 (C)의 교란 결과를 확장하고, 'internal desynchrony(내부 비동기화)'라는 메커니즘을 명명한다. (A)는 'The health consequences of persistent disruption(지속적 교란의 건강 결과)'로 (C)의 원인과 (B)의 메커니즘 모두를 전제하여 구체적 역학 데이터로 결론짓는다. 핵심 연결 근거: ① (C)의 'This clock' → 지시어(주어진 문장의 일주기 리듬 직접 지칭) ② (B)의 'the damage' → 지시어((C)의 교란에서 비롯된 피해 지칭) ③ (B)의 'Nor' → 부가 역접 담화 표지((C)의 결과 확장) ④ (A)의 'persistent disruption' → (C)+(B) 전체를 전제하는 요약"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(B)-(A)이다. (C)의 'This clock'이 주어진 문장의 일주기 리듬을 직접 가리키며 현대 생활에 의한 교란 원인을 제시한다. (B)의 'Nor does the damage stop at sleepiness'는 (C)의 교란에서 비롯된 'damage(피해)'를 가리키며 피해가 졸음 이상이라는 것을 부가 역접으로 확장한다. (A)는 (C)의 교란 원인과 (B)의 내부 비동기화 메커니즘 모두를 전제하여 역학 데이터로 결론짓는다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'The health consequences of persistent disruption'이 처음에 오면 어떤 교란의 결과인지 (C)의 원인 설명이 아직 없어 전제가 성립하지 않는다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'the damage'가 처음에 오면 어떤 피해인지 (C)의 교란 서술이 없어 지시어가 성립하지 않는다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (A)가 (B) 앞에 오면 역학 데이터로 결론을 내리기 전에 (B)의 내부 비동기화 메커니즘이 아직 설명되지 않아 'persistent disruption'의 심층적 의미가 확립되지 않는다."
+        },
+        "key_point": "핵심 담화 표지: ① (C)의 'This clock' → 주어진 문장의 일주기 리듬 직접 지칭(첫 번째 필수) ② (B)의 'the damage'+'Nor' → (C)의 교란 피해 지칭+부가 역접 확장(C 이후 필수) ③ (A)의 'persistent disruption' → (C)+(B) 전체를 전제하는 결론(마지막 필수). 논리 구조: 정의(주어진 문장) → 교란 원인(C) → 메커니즘 심화(B) → 역학 증거 결론(A)."
+      }
+    },
+    {
+      "id": "v2-36-16",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "social loafing in group work",
+      "passage": "When people work together in groups, individual members sometimes exert less effort than they would if working alone — a phenomenon social psychologists call social loafing.",
+      "paragraphs": {
+        "A": "In the original experiments by Ringelmann in the late nineteenth century, participants were asked to pull on a rope either alone or in groups. Although total group force increased with group size, the average force exerted per person declined steadily, as if each additional member provided partial psychological 'cover' for reduced effort.",
+        "B": "The key driver appears to be the diffusion of responsibility combined with reduced identifiability. When individuals feel that their personal contribution cannot be measured or attributed to them specifically, the social pressure to perform at full capacity weakens considerably.",
+        "C": "Managers and educators can counteract social loafing by making individual contributions explicitly visible and assessable. Assigning unique subtasks, providing individual performance feedback, and making it clear that each member's work will be evaluated separately all tend to restore personal accountability and group productivity."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(A)-(C)-(B)",
+        "reasoning": "Opening defines social loafing. (A) must follow: 'In the original experiments by Ringelmann...participants were asked to pull on a rope' — this introduces the founding empirical evidence, grounding the opening definition in history. (C) then follows: 'Managers and educators can counteract social loafing by making individual contributions explicitly visible' — 'counteract social loafing' directly addresses the phenomenon just illustrated in (A); practical interventions logically follow empirical demonstrations. (B) closes: 'The key driver appears to be the diffusion of responsibility combined with reduced identifiability' — 'the key driver' explains the mechanism behind (A)'s rope-pulling results and (C)'s interventions, and 'reduced identifiability' directly explains why (C)'s visibility strategy works.",
+        "discourse_markers": ["the original experiments by Ringelmann (A - grounds the opening definition in history)", "counteract social loafing (C - practical response to A)", "The key driver appears to be (B - mechanistic explanation following A+C)", "reduced identifiability (B - explains why C's visibility strategy works)"],
+        "distractor_elimination": "B cannot come first because 'The key driver' is an explanatory mechanism that requires the phenomenon (A) and interventions (C) to be established first. C cannot come first because 'counteract social loafing' needs the empirical demonstration (A) to motivate countermeasures. Only A can follow the opening by grounding it historically.",
+        "explanation_ko": "주어진 문장은 사회적 태만(social loafing)을 정의한다. (A)는 'the original experiments by Ringelmann(Ringelmann의 원래 실험들)'으로 주어진 문장의 정의를 역사적 기원에 착지시키는 최초 경험적 증거를 제시한다. (C)는 'counteract social loafing(사회적 태만에 대응하다)'으로 (A)에서 입증된 현상에 대한 실용적 개입책을 제시하는데, 경험적 시연 이후에 개입책이 나오는 것이 논리적이다. (B)는 'The key driver(핵심 원인)'로 (A)의 줄다리기 결과와 (C)의 개입책 모두의 이면에 있는 메커니즘을 설명하며, 'reduced identifiability(감소된 식별 가능성)'는 (C)의 가시성 전략이 효과적인 이유를 직접 설명한다. 핵심 연결 근거: ① (A)의 'the original experiments' → 역사적 기원으로 개념 착지 ② (C)의 'counteract social loafing' → (A)에서 시연된 현상에 대한 실용적 응답 ③ (B)의 'The key driver' → (A)+(C) 이후의 메커니즘 설명 ④ (B)의 'reduced identifiability' → (C)의 가시성 전략의 이유 설명"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (A)-(C)-(B)이다. (A)는 Ringelmann의 줄다리기 실험으로 사회적 태만의 역사적 기원을 제시한다. (C)는 (A)에서 입증된 현상에 대응하는 실용적 개입책(개인 기여 가시화)을 제시한다. (B)의 'The key driver'는 (A)와 (C) 양쪽의 이면에 있는 메커니즘(책임 분산+식별 가능성 감소)을 설명하며, 'reduced identifiability'는 (C)의 가시성 전략이 효과적인 이유를 직접 설명한다.",
+        "wrong": {
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'The key driver appears to be'가 처음에 오면 어떤 현상의 핵심 원인인지 (A)의 실험 증거가 아직 없어 설명이 앞서 나간다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'counteract social loafing'이 처음에 오면 현상이 경험적으로 입증되기 전에 대응책이 나온다. (A)의 실험 증거가 먼저 와야 (C)의 개입책이 논리적으로 정당화된다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (A)의 'the original experiments' → 역사적 기원으로 개념 착지(첫 번째 필수) ② (C)의 'counteract social loafing' → 현상 입증 후 실용적 대응(A 이후 필수) ③ (B)의 'The key driver'+'reduced identifiability' → 현상과 대응책 모두를 설명하는 메커니즘(마지막 필수). 이 문항의 특징: (B)가 마지막에 오는 독특한 구조로, 메커니즘이 사례(A)와 대응책(C) 이후에 역방향으로 설명된다."
+      }
+    },
+    {
+      "id": "v2-36-17",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "ocean acidification and coral reefs",
+      "passage": "Since the industrial revolution, the world's oceans have absorbed roughly 30 percent of the carbon dioxide released by human activity, a process that is fundamentally altering the chemistry of seawater.",
+      "paragraphs": {
+        "A": "Corals build their skeletons from calcium carbonate, and this process requires carbonate ions to be freely available in the surrounding water. As ocean pH falls and carbonate ion concentrations decline, corals calcify more slowly and their existing skeletons become structurally weaker and more prone to dissolution.",
+        "B": "When CO2 dissolves in seawater, it reacts with water to form carbonic acid, which dissociates to release hydrogen ions. The increase in hydrogen ions lowers the ocean's pH — a process known as ocean acidification — and crucially, binds up the carbonate ions that marine calcifiers depend on to build their shells and skeletons.",
+        "C": "For coral reef ecosystems, which support approximately 25 percent of all marine species despite covering less than 1 percent of the ocean floor, the implications are alarming. Models suggest that if current emission trajectories continue, large areas of ocean will become chemically inhospitable to coral growth by mid-century."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(B)-(A)-(C)",
+        "reasoning": "Opening states oceans absorb CO2, altering seawater chemistry. (B) must follow: 'When CO2 dissolves in seawater, it reacts with water to form carbonic acid' — this directly explains the chemical mechanism of 'altering the chemistry' mentioned in the opening, introducing ocean acidification and carbonate ion depletion. (A) follows: 'Corals build their skeletons from calcium carbonate, and this process requires carbonate ions to be freely available' — 'carbonate ions' directly picks up the key term from (B)'s last clause, applying the chemistry specifically to corals. (C) closes: 'For coral reef ecosystems...the implications are alarming' — 'the implications' refers to the structural damage described in (A), and the ecological scale-up makes (C) the natural conclusion.",
+        "discourse_markers": ["When CO2 dissolves in seawater (B - explains opening's 'altering the chemistry')", "ocean acidification (B - names the process)", "carbonate ions that marine calcifiers depend on (B - previews A's content)", "Corals build their skeletons from calcium carbonate (A - picks up carbonate ions from B)", "the implications are alarming (C - evaluative conclusion from A)"],
+        "distractor_elimination": "A cannot come first because 'carbonate ions' as an explanatory term needs B's chemistry to introduce it. C cannot come first because 'the implications are alarming' needs the specific structural damage from A to refer to. Only B can follow the opening by explaining the acidification mechanism.",
+        "explanation_ko": "주어진 문장은 바다가 CO2를 흡수하여 해수 화학 성분을 변화시킨다고 설명한다. (B)는 'When CO2 dissolves in seawater(CO2가 해수에 녹을 때)'로 주어진 문장의 '화학 성분 변화'를 직접 설명하며 해양 산성화 메커니즘을 소개하고, 마지막 절에서 'carbonate ions(탄산 이온)'이라는 핵심 용어를 예고한다. (A)는 'carbonate ions(탄산 이온)'이라는 핵심 용어를 (B)의 마지막 절에서 직접 이어받아 산호 골격 형성에 어떤 영향을 미치는지 구체화한다. (C)는 'the implications are alarming(함의가 경각심을 불러일으킨다)'으로 (A)에서 설명된 구조적 피해를 지칭하며 생태학적 결론을 도출한다. 핵심 연결 근거: ① (B) → 주어진 문장의 '화학 성분 변화' 직접 설명(메커니즘 도입) ② (A)의 'carbonate ions' → (B)의 마지막 절에서 예고된 핵심 용어 연결 ③ (C)의 'the implications' → 지시어((A)의 구조적 피해 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(A)-(C)이다. (B)는 주어진 문장의 '화학 성분 변화'를 직접 설명하며 해양 산성화 메커니즘을 소개하고, 마지막에 'carbonate ions'를 예고한다. (A)는 'carbonate ions'라는 핵심 용어를 (B)에서 직접 이어받아 산호 골격 형성에 미치는 영향을 구체화한다. (C)의 'the implications are alarming'은 (A)에서 설명된 산호 구조 약화의 생태학적 결론을 도출한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'carbonate ions'가 처음에 오면 탄산 이온이 왜 중요한지 (B)의 산성화 메커니즘 설명이 아직 없어 맥락이 없다.",
+          "3": "(B)-(C)-(A) 순서에서 (C)의 'the implications are alarming'이 (A) 앞에 오면 어떤 구조적 피해의 함의인지 (A)의 산호 골격 약화 설명이 아직 없어 지시어가 성립하지 않는다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)가 처음에 오면 어떤 함의인지 선행 메커니즘 설명이 전혀 없다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 연결: (B)의 마지막 절 'carbonate ions that marine calcifiers depend on'이 (A)의 첫 문장 'Corals build their skeletons from calcium carbonate...requires carbonate ions'로 직접 이어지는 어휘 연쇄가 (B)→(A)를 결정짓는다. (C)의 'the implications'는 반드시 (A)의 구체적 피해 설명 이후에 와야 한다."
+      }
+    },
+    {
+      "id": "v2-36-18",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "implicit vs. explicit memory systems",
+      "passage": "Memory is not a single, unified system but a collection of distinct processes, each supported by different brain structures and serving different cognitive functions.",
+      "paragraphs": {
+        "A": "The practical significance of this distinction became undeniable through cases of amnesia. The patient known as H.M., who had his hippocampus surgically removed to treat epilepsy, lost all capacity to form new conscious memories — yet he could still learn new motor skills like tracing a star through a mirror, improving with each session despite having no memory of the previous ones.",
+        "B": "The most familiar of these is explicit memory, also called declarative memory — the conscious recollection of facts and personal experiences. Explicit memory depends critically on the hippocampus, a structure deep in the temporal lobe that binds together the various elements of an experience into a retrievable whole.",
+        "C": "In contrast, implicit memory operates without conscious awareness. It includes procedural skills, like riding a bicycle or playing the piano, as well as conditioned responses and priming effects. These forms of memory are supported not by the hippocampus but by subcortical structures such as the cerebellum and basal ganglia."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(B)-(C)-(A)",
+        "reasoning": "Opening states memory comprises distinct systems. (B) must follow: 'The most familiar of these is explicit memory' — 'these' refers to the 'distinct processes' in the opening, and introducing the most familiar type first is the natural pedagogical sequence. (C) follows: 'In contrast, implicit memory operates without conscious awareness' — 'In contrast' signals the second system against (B)'s explicit memory, and 'not by the hippocampus but by...the cerebellum and basal ganglia' directly contrasts with (B)'s hippocampus-based explicit memory. (A) closes: 'The practical significance of this distinction became undeniable through cases of amnesia' — 'this distinction' refers to the explicit/implicit distinction established in (B) and (C), and H.M.'s case provides the definitive empirical demonstration.",
+        "discourse_markers": ["The most familiar of these (B - refers to 'distinct processes' in opening)", "In contrast (C - contrasts with B's explicit memory)", "not by the hippocampus but by (C - directly opposes B's hippocampal basis)", "this distinction (A - demonstrative reference to B+C)", "yet he could still learn new motor skills (A - implicit memory preserved, confirming C)"],
+        "distractor_elimination": "A cannot come first because 'this distinction' needs both B and C to establish the explicit/implicit contrast. C cannot come first because 'In contrast' needs B's explicit memory to contrast with. Only B can follow the opening by introducing the most familiar memory type.",
+        "explanation_ko": "주어진 문장은 기억이 단일 체계가 아닌 서로 다른 뇌 구조가 지원하는 별개 과정들의 집합이라고 설명한다. (B)는 'The most familiar of these(이것들 중 가장 친숙한 것)'에서 'these'가 주어진 문장의 'distinct processes(별개 과정들)'를 지칭하는 지시어이며, 외현 기억부터 소개하는 자연스러운 교육적 순서를 따른다. (C)는 'In contrast(반대로)'라는 대조 담화 표지로 (B)의 외현 기억과 대비하여 암묵 기억을 소개하고, 'not by the hippocampus but by(해마가 아니라 ~에 의해)'로 (B)의 해마 기반과 직접 대조한다. (A)는 'this distinction(이 구분)'이라는 지시어로 (B)+(C)가 확립한 외현/암묵 구분을 지칭하며, H.M. 사례로 결정적 경험적 증거를 제공한다. 핵심 연결 근거: ① (B)의 'these' → 지시어(주어진 문장의 'distinct processes' 지칭) ② (C)의 'In contrast' → 대조 담화 표지((B)의 외현 기억과 대조 필수) ③ (A)의 'this distinction' → 지시어((B)+(C)가 확립한 외현/암묵 구분 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(C)-(A)이다. (B)의 'these'가 주어진 문장의 'distinct processes'를 가리키며 가장 친숙한 외현 기억부터 소개한다. (C)의 'In contrast'는 (B)의 외현 기억과 대조하여 암묵 기억을 소개하며, 'not by the hippocampus'가 (B)의 해마 기반과 직접 대조한다. (A)의 'this distinction'은 (B)+(C)가 확립한 외현/암묵 구분을 가리키며 H.M. 사례로 경험적 증거를 제공한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'this distinction'이 처음에 오면 어떤 구분인지 (B)와 (C)의 외현/암묵 기억 설명이 아직 없어 지시어가 성립하지 않는다.",
+          "2": "(B)-(A)-(C) 순서에서 (A)가 (C) 앞에 오면 'this distinction'의 선행사인 외현/암묵 구분이 (B)만으로는 아직 완전히 확립되지 않아 (C)의 암묵 기억 설명이 먼저 나와야 한다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'In contrast'가 처음에 오면 대조할 대상((B)의 외현 기억)이 아직 없어 대조가 성립하지 않는다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (B)의 'these' → 주어진 문장의 'distinct processes' 직접 지칭(첫 번째 필수) ② (C)의 'In contrast'+'not by the hippocampus' → (B)의 외현 기억에 대조(B 이후 필수) ③ (A)의 'this distinction' → (B)+(C)가 완성한 구분 지칭(마지막 필수). 논리 구조: 기억의 다양성 소개(주어진 문장) → 외현 기억(B) → 암묵 기억 대조(C) → 경험적 증거(A)."
+      }
+    },
+    {
+      "id": "v2-36-19",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "gig economy and worker precarity",
+      "passage": "The rise of digital platform companies — from ride-hailing services to food delivery apps — has created a new category of work that does not fit neatly into the traditional employer-employee relationship.",
+      "paragraphs": {
+        "A": "This classification has enormous practical consequences. Independent contractors are generally not entitled to minimum wage guarantees, overtime pay, employer contributions to social insurance, sick leave, or protection from unfair dismissal — labor rights that employees take for granted.",
+        "B": "Labor advocates argue that this arrangement amounts to a legal fiction designed to transfer the risks and costs of employment onto workers while retaining the benefits of a disciplined, on-demand workforce. They point out that platform workers often have little real autonomy: algorithms dictate which jobs they receive, at what pay rate, and with what consequences for refusal.",
+        "C": "These companies typically classify their workers as independent contractors rather than employees — a legal designation that platform operators argue reflects the genuinely flexible, self-directed nature of the work and that distinguishes it from conventional employment."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(C)-(A)-(B)",
+        "reasoning": "Opening introduces platform work as a category that doesn't fit traditional employment. (C) must follow: 'These companies typically classify their workers as independent contractors rather than employees' — 'These companies' refers anaphorically to 'digital platform companies' in the opening, and the independent-contractor classification is the key structural fact that needs to be established first. (A) follows: 'This classification has enormous practical consequences' — 'This classification' directly refers to the contractor classification introduced in (C), and lists the specific labor rights that are withheld. (B) closes: 'Labor advocates argue that this arrangement amounts to a legal fiction' — 'this arrangement' refers to the classification described in (C) and (A); B's critique ('little real autonomy: algorithms dictate') directly contradicts (C)'s justification ('genuinely flexible, self-directed nature').",
+        "discourse_markers": ["These companies (C - anaphoric reference to opening)", "independent contractors rather than employees (C - names the classification)", "This classification (A - demonstrative reference to C)", "enormous practical consequences (A - previews list of withheld rights)", "this arrangement (B - demonstrative reference to C+A)", "legal fiction (B - reframes C's justification critically)"],
+        "distractor_elimination": "A cannot come first because 'This classification' needs C's contractor classification as its antecedent. B cannot come first because 'this arrangement amounts to a legal fiction' needs C's classification and A's consequences to be established. Only C can follow the opening by specifying how workers are classified.",
+        "explanation_ko": "주어진 문장은 디지털 플랫폼 기업들이 전통적 고용 관계에 맞지 않는 새로운 노동 범주를 만들었다고 설명한다. (C)는 'These companies(이 기업들)'라는 지시어로 주어진 문장의 'digital platform companies'를 직접 가리키며, 독립 계약자 분류라는 핵심 구조적 사실을 먼저 확립한다. (A)는 'This classification(이 분류)'이라는 지시어로 (C)에서 소개된 독립 계약자 분류를 직접 가리키며, 박탈되는 노동권들을 나열한다. (B)는 'this arrangement(이 체계)'라는 지시어로 (C)와 (A) 전체를 포괄하여 지칭하고, (C)의 정당화('진정한 유연성, 자기 주도')를 'legal fiction(법적 허구)'으로 직접 반박한다. 핵심 연결 근거: ① (C)의 'These companies' → 지시어(주어진 문장의 디지털 플랫폼 기업 직접 지칭) ② (A)의 'This classification' → 지시어((C)의 독립 계약자 분류 직접 지칭) ③ (B)의 'this arrangement' → 지시어((C)+(A) 전체 포괄)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(A)-(B)이다. (C)의 'These companies'가 주어진 문장의 디지털 플랫폼 기업들을 직접 가리키며 독립 계약자 분류라는 핵심 사실을 확립한다. (A)의 'This classification'은 (C)의 분류를 직접 가리키며 박탈되는 노동권들을 나열한다. (B)의 'this arrangement'는 (C)+(A) 전체를 포괄하며 'legal fiction'으로 분류를 비판적으로 재프레이밍한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'This classification'이 처음에 오면 어떤 분류인지 (C)의 독립 계약자 분류 설명이 아직 없어 지시어가 성립하지 않는다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'this arrangement amounts to a legal fiction'이 처음에 오면 어떤 체계인지 (C)의 분류와 (A)의 결과가 아직 없어 지시어가 성립하지 않는다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "5": "(C)-(B)-(A) 순서에서 (B)가 (A) 앞에 오면 (B)의 'legal fiction' 비판이 (A)의 구체적 노동권 박탈 목록 이전에 나온다. 분류의 실질적 결과(A)가 먼저 제시되어야 'legal fiction'이라는 비판이 더 설득력 있다."
+        },
+        "key_point": "핵심 담화 표지: ① (C)의 'These companies' → 주어진 문장의 플랫폼 기업 직접 지칭(첫 번째 필수) ② (A)의 'This classification' → (C)의 분류 직접 지칭(C 이후 필수) ③ (B)의 'this arrangement'+'legal fiction' → (C)+(A) 전체 포괄+비판적 재프레이밍(마지막 필수). 논리 구조: 새로운 노동 범주 소개(주어진 문장) → 독립 계약자 분류(C) → 결과적 노동권 박탈(A) → 비판적 재해석(B)."
+      }
+    },
+    {
+      "id": "v2-36-20",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "standard",
+      "topic": "cultural transmission of aesthetic preferences",
+      "passage": "Human aesthetic preferences — what we find beautiful, pleasing, or moving — are shaped not only by individual perception but also by the cultural environment in which we are raised.",
+      "paragraphs": {
+        "A": "What is perhaps most remarkable is how early this cultural shaping occurs. Infants as young as six months show preferences for the musical intervals common in the music of their linguistic community, suggesting that aesthetic conditioning begins before conscious memory is formed and long before any deliberate cultural education takes place.",
+        "B": "Cross-cultural research reveals striking differences in aesthetic judgment that challenge universalist accounts. What is considered beautiful in one culture may be regarded as gaudy, austere, or simply neutral in another — from the ornamentation of traditional Japanese gardens to the palette of West African textiles to the melodic microtones of Arabic maqam music.",
+        "C": "Cultural environment shapes aesthetic preference through a process of repeated, largely unconscious exposure. Children absorb the music, visual imagery, architecture, and narrative forms of their surroundings long before they are capable of critical reflection, and these early exposures create deep templates that persist throughout life."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 2,
+      "self_check": {
+        "correct_order": "(C)-(B)-(A)",
+        "reasoning": "Opening states aesthetic preferences are shaped by cultural environment. (C) must follow: 'Cultural environment shapes aesthetic preference through a process of repeated, largely unconscious exposure' — this directly elaborates on the opening's claim about cultural environment, explaining the mechanism. (B) follows: 'Cross-cultural research reveals striking differences in aesthetic judgment' — 'striking differences' are the predicted consequence of (C)'s different cultural templates, and the examples (Japanese gardens, West African textiles, Arabic music) illustrate (C)'s 'templates that persist throughout life.' (A) closes: 'What is perhaps most remarkable is how early this cultural shaping occurs' — 'this cultural shaping' refers directly to (C)'s mechanism and (B)'s evidence, and the finding about six-month-old infants is the rhetorical climax.",
+        "discourse_markers": ["through a process of repeated, largely unconscious exposure (C - explains the mechanism from opening)", "these early exposures create deep templates (C - introduces 'templates')", "striking differences in aesthetic judgment (B - consequence of C's different cultural templates)", "What is perhaps most remarkable (A - evaluative superlative, signals rhetorical climax)", "this cultural shaping (A - demonstrative reference to C's mechanism)"],
+        "distractor_elimination": "B cannot come first because 'striking differences' needs C's template-based mechanism to explain their origin. A cannot come first because 'this cultural shaping' needs both C's mechanism and B's evidence to have been established. Only C can follow the opening by explaining the core mechanism.",
+        "explanation_ko": "주어진 문장은 심미적 선호가 문화적 환경에 의해 형성된다고 설명한다. (C)는 'through a process of repeated, largely unconscious exposure(반복적이고 주로 무의식적인 노출 과정을 통해)'로 주어진 문장의 '문화적 환경'이 어떻게 선호를 형성하는지 메커니즘을 직접 설명하고, 'these early exposures create deep templates(이른 노출들이 깊은 틀을 만든다)'로 핵심 개념 '틀'을 도입한다. (B)는 (C)의 서로 다른 문화적 틀의 예측된 결과로서 '문화 간 심미 판단의 현저한 차이'를 제시한다. (A)는 'this cultural shaping(이 문화적 형성)'이라는 지시어로 (C)의 메커니즘과 (B)의 증거 모두를 지칭하며, 생후 6개월 영아 발견이라는 수사적 절정으로 마무리한다. 핵심 연결 근거: ① (C) → 주어진 문장의 '문화적 환경' 메커니즘 직접 설명 ② (B)의 '현저한 차이' → (C)의 서로 다른 문화적 틀의 결과 ③ (A)의 'this cultural shaping' → 지시어((C)의 메커니즘+(B)의 증거 포괄 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(B)-(A)이다. (C)는 주어진 문장의 '문화적 환경' 주장을 직접 받아 무의식적 노출 메커니즘을 설명하고 '깊은 틀'이라는 핵심 개념을 도입한다. (B)는 서로 다른 문화적 틀의 예측된 결과로 문화 간 심미 차이를 제시한다. (A)의 'this cultural shaping'이 (C)와 (B) 모두를 포괄하며, 생후 6개월 영아 발견이라는 수사적 절정으로 마무리한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'this cultural shaping'이 처음에 오면 어떤 문화적 형성인지 (C)의 메커니즘과 (B)의 증거가 아직 없어 지시어가 성립하지 않는다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'striking differences'가 처음에 오면 서로 다른 문화적 틀이라는 기반((C))이 없어 차이의 원인이 설명되지 않는다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (A)가 (B) 앞에 오면 (A)의 'this cultural shaping'이 아직 (B)의 증거가 없는 상태에서 등장하여 '가장 주목할 만한 것(What is perhaps most remarkable)'의 무게가 반감된다. 증거(B)가 쌓인 후 절정(A)이 나와야 수사적 효과가 있다."
+        },
+        "key_point": "핵심 담화 표지: ① (C) → 주어진 문장의 메커니즘 직접 설명(첫 번째 필수) ② (C)의 'deep templates' → (B)의 문화 간 차이를 예측하는 개념(C→B 연결) ③ (A)의 'this cultural shaping'+'What is perhaps most remarkable' → (C)+(B) 포괄+수사적 절정(마지막 필수). 논리 구조: 주장(주어진 문장) → 메커니즘(C) → 증거(B) → 절정 발견(A)."
+      }
+    },
+    {
+      "id": "v2-36-21",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "challenging",
+      "topic": "quantum measurement and the observer effect",
+      "passage": "One of the most counterintuitive features of quantum mechanics is the measurement problem: the act of measuring a quantum system appears to fundamentally alter the very property being measured.",
+      "paragraphs": {
+        "A": "In the famous double-slit experiment, an electron fired at a barrier with two slits behaves as a wave, passing through both simultaneously and producing an interference pattern on a detector screen. The moment a detector is placed to record which slit the electron traversed, however, the interference pattern vanishes and the electron behaves as a classical particle — as though the act of observation itself forced a choice.",
+        "B": "Critics note, however, that decoherence does not fully resolve the conceptual problem: it explains why we do not see quantum superpositions at the macro scale, but it does not explain why, within the vast entangled system, any particular outcome is the one that we actually experience. This residual puzzle — sometimes called the 'preferred basis problem' — continues to motivate competing interpretations of quantum mechanics, from many-worlds to relational quantum mechanics.",
+        "C": "One influential explanation comes from decoherence theory. When a quantum system interacts with its macroscopic measuring apparatus and surrounding environment, the system's quantum superpositions become entangled with an enormous number of environmental degrees of freedom. This entanglement effectively suppresses the interference terms, making the system appear to behave classically without any need to invoke a special, ill-defined role for a conscious observer."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 1,
+      "points": 3,
+      "self_check": {
+        "correct_order": "(A)-(C)-(B)",
+        "reasoning": "Opening introduces the measurement problem abstractly. (A) follows: 'In the famous double-slit experiment' — provides the canonical empirical illustration, grounding the abstract measurement problem in a concrete experiment. (C) follows: 'One influential explanation comes from decoherence theory' — 'explanation' directly addresses the puzzle raised in (A) ('as though the act of observation itself forced a choice'), providing the modern theoretical response. (B) closes: 'Critics note, however, that decoherence does not fully resolve the conceptual problem' — 'however' signals a pivot from (C)'s solution, 'decoherence' directly refers back to (C), and the 'preferred basis problem' deepens the issue beyond (C)'s account, making it the natural rhetorical climax.",
+        "discourse_markers": ["In the famous double-slit experiment (A - empirical illustration of opening)", "as though the act of observation itself forced a choice (A - highlights the measurement paradox)", "One influential explanation comes from (C - proposed solution to A's paradox)", "This entanglement effectively suppresses (C - mechanistic resolution)", "however (B - contrastive pivot from C's solution)", "decoherence does not fully resolve (B - explicit reference to C)", "this residual puzzle (B - acknowledges remaining gap after C's partial resolution)"],
+        "distractor_elimination": "C cannot come first because 'One influential explanation' needs the problem (A's double-slit paradox) to explain. B cannot come first because 'decoherence does not fully resolve' requires C's decoherence explanation to critique. Only A can follow the opening by illustrating the measurement problem concretely.",
+        "explanation_ko": "주어진 문장은 측정 문제를 추상적으로 소개한다. (A)는 'In the famous double-slit experiment(유명한 이중 슬릿 실험에서)'로 추상적 측정 문제를 구체적 실험으로 착지시키고, 'as though the act of observation itself forced a choice(마치 관찰 행위 자체가 선택을 강요하는 것처럼)'라는 역설적 표현으로 문제를 강조한다. (C)는 'One influential explanation comes from decoherence theory(하나의 영향력 있는 설명은 결어긋남 이론에서 나온다)'로 (A)의 역설을 해결하는 이론적 제안을 제시하고, 'This entanglement(이 얽힘)'이라는 지시어로 앞 내용을 요약하며 메커니즘을 설명한다. (B)는 'however(그러나)'라는 역접 담화 표지로 (C)의 해결책에서 전환하고, 'decoherence(결어긋남)'는 (C)를 직접 가리키는 지시어이며, 'this residual puzzle(이 잔여 수수께끼)'로 (C) 이후에도 남은 미결 문제를 제시한다. 핵심 연결 근거: ① (A) → 추상적 측정 문제의 구체적 실험 예시 ② (C)의 'explanation' → (A)의 역설에 대한 이론적 응답 ③ (B)의 'however' → 역접 담화 표지((C)의 해결책에서 비판으로 전환) ④ (B)의 'decoherence' → 지시어((C)의 결어긋남 이론 직접 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (A)-(C)-(B)이다. (A)는 이중 슬릿 실험으로 추상적 측정 문제를 구체화하고 역설('관찰이 선택을 강요하는 것처럼')을 강조한다. (C)는 'One influential explanation'으로 (A)의 역설에 대한 이론적 응답(결어긋남 이론)을 제시한다. (B)의 'however'는 (C)의 해결책에서 역접 전환하고, 'decoherence does not fully resolve'로 (C)를 직접 비판하며, 'this residual puzzle'로 남은 미결 문제를 제시한다.",
+        "wrong": {
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'decoherence does not fully resolve'가 처음에 오면 아직 (C)에서 결어긋남 이론이 소개되지 않아 'decoherence'의 선행사가 없다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'One influential explanation comes from decoherence theory'가 처음에 오면 설명하려는 역설이 아직 (A)에서 제시되지 않아 '설명'이 맥락 없이 등장한다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (A) → 추상적 측정 문제의 구체적 실험 예시(첫 번째 필수) ② (C)의 'explanation' → (A)의 역설에 대한 이론적 응답 ③ (B)의 'however'+'decoherence' → (C)의 해결책 역접+직접 지칭(마지막 필수). 논리 구조: 추상적 문제(주어진 문장) → 구체적 역설(A) → 이론적 해결(C) → 해결책의 한계(B)."
+      }
+    },
+    {
+      "id": "v2-36-22",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "challenging",
+      "topic": "learned helplessness and locus of control",
+      "passage": "In the late 1960s, psychologist Martin Seligman conducted experiments on dogs that would profoundly reshape scientific understanding of depression and human motivation.",
+      "paragraphs": {
+        "A": "When these same dogs were later placed in a shuttle box where jumping a low barrier would immediately stop the shocks, they made no attempt to escape — they simply lay down and endured the pain passively. Dogs without a history of inescapable shock, by contrast, learned to jump the barrier within seconds. Seligman named this pattern 'learned helplessness.'",
+        "B": "In the initial phase of his experiments, some dogs were repeatedly exposed to electric shocks they had no means of controlling or escaping. Crucially, the shocks were not a response to anything the animals did; no behavior — pressing a panel, turning, lying still — made any difference to whether or when the shock arrived.",
+        "C": "Subsequent researchers extended the theory by introducing attributional style. Those who habitually explain negative events using internal ('I am incompetent'), stable ('I always fail'), and global ('I fail at everything') attributions are especially susceptible to learned helplessness, whereas people who make external, unstable, and specific attributions — 'this particular situation was unusually difficult' — show far greater psychological resilience."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 2,
+      "points": 3,
+      "self_check": {
+        "correct_order": "(B)-(A)-(C)",
+        "reasoning": "Opening introduces Seligman's experiments. (B) must follow: 'In the initial phase of his experiments, some dogs were repeatedly exposed to electric shocks they had no means of controlling' — 'his experiments' refers to Seligman's experiments in the opening, and (B) describes the experimental setup (inescapable shock phase). (A) follows: 'When these same dogs were later placed in a shuttle box where jumping a low barrier would stop the shocks, they made no attempt to escape' — 'these same dogs' refers anaphorically to the dogs in (B), and 'later' signals temporal progression from B's first phase to the second phase. (C) closes: 'Subsequent researchers extended the theory by introducing attributional style' — 'the theory' refers to 'learned helplessness' named at the end of (A), and 'subsequent' signals that this comes after Seligman's original finding.",
+        "discourse_markers": ["In the initial phase of his experiments (B - directly elaborates on opening)", "no behavior...made any difference (B - defines inescapability)", "these same dogs were later placed (A - temporal progression from B)", "Seligman named this pattern 'learned helplessness' (A - names the theory)", "Subsequent researchers extended the theory (C - temporal and logical extension of A's theory)", "attributional style (C - refinement of A's learned helplessness framework)"],
+        "distractor_elimination": "A cannot come first because 'these same dogs' needs B's experimental setup to identify which dogs. C cannot come first because 'the theory' needs the theory (learned helplessness) named in A to have been established. Only B can follow the opening by describing the experimental procedure.",
+        "explanation_ko": "주어진 문장은 Seligman의 개 실험을 소개한다. (B)는 'In the initial phase of his experiments(그의 실험의 초기 단계에서)'에서 'his experiments'가 주어진 문장의 Seligman 실험을 직접 가리키는 지시어이며, 탈출 불가능한 전기 충격 단계(1단계)를 서술한다. (A)는 'these same dogs(이 동일한 개들)'라는 지시어로 (B)의 개들을 직접 가리키고, 'later(나중에)'라는 시간 표지로 (B)의 1단계에서 2단계(셔틀 박스 실험)로의 시간적 진행을 표시한다. (C)는 'Subsequent researchers extended the theory(후속 연구자들이 이론을 확장했다)'에서 'the theory'가 (A) 마지막 문장에서 명명된 '학습된 무기력'을 직접 가리키고, 'Subsequent(후속)'는 Seligman의 원래 발견 이후임을 표시한다. 핵심 연결 근거: ① (B)의 'his experiments' → 지시어(주어진 문장의 Seligman 실험 직접 지칭) ② (A)의 'these same dogs' → 지시어((B)의 개들 직접 지칭) ③ (A)의 'later' → 시간 담화 표지((B)에서 (A)로의 시간 진행) ④ (C)의 'the theory' → 지시어((A)에서 명명된 '학습된 무기력' 직접 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(A)-(C)이다. (B)의 'his experiments'가 주어진 문장의 Seligman 실험을 가리키며 1단계(탈출 불가능한 충격)를 서술한다. (A)의 'these same dogs'가 (B)의 개들을 가리키고 'later'로 2단계(셔틀 박스)로 시간 진행하며 '학습된 무기력'이라는 이름을 부여한다. (C)의 'the theory'는 (A)에서 명명된 이론을 가리키고 'Subsequent'로 이후 연구 확장을 제시한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'these same dogs'가 처음에 오면 어떤 개들인지 (B)의 1단계 실험 설명이 아직 없어 지시어가 성립하지 않는다.",
+          "3": "(B)-(C)-(A) 순서에서 (C)의 'the theory'가 (A) 앞에 오면 아직 이론에 이름이 붙여지지 않은 상태에서 'the theory'가 등장한다. '학습된 무기력'이라는 명명은 (A) 마지막에 나오므로 (A)가 (C) 이전에 와야 한다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'Subsequent researchers extended the theory'가 처음에 오면 어떤 이론인지 아직 Seligman의 원래 발견이 제시되지 않아 'the theory'의 선행사가 없다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (B)의 'his experiments' → 주어진 문장의 Seligman 실험 직접 지칭(첫 번째 필수) ② (A)의 'these same dogs'+'later' → (B)의 개들+시간 진행 지칭(B 이후 필수) ③ (C)의 'the theory'+'Subsequent' → (A)에서 명명된 이론 지칭+시간 순서 표시(마지막 필수). 논리 구조: 실험 소개(주어진 문장) → 1단계:충격(B) → 2단계:무기력(A) → 이론 확장(C)."
+      }
+    },
+    {
+      "id": "v2-36-23",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "challenging",
+      "topic": "moral licensing effect",
+      "passage": "Research in social psychology has uncovered a counterintuitive phenomenon called moral licensing: behaving virtuously in one context can actually increase the likelihood that a person will act selfishly or unethically in a subsequent context.",
+      "paragraphs": {
+        "A": "In one representative experiment, participants who had previously recalled and written about a time they acted generously were significantly more likely than a control group to subsequently choose a smaller but immediate personal reward over a larger but delayed charitable donation — as if the prior act of generosity had 'used up' their sense of moral obligation.",
+        "B": "The mechanism appears to involve a kind of implicit moral accounting. Good deeds accumulate credit in a person's self-concept as a moral individual; once that credit reaches a threshold, the internal pressure to continue behaving morally eases, licensing a temporary retreat into self-interest without threatening one's overall self-image as a good person.",
+        "C": "The phenomenon poses a troubling challenge to common assumptions about moral habit formation. If acting ethically sometimes makes people feel entitled to act unethically, then strategies designed to build virtue — public commitments to ethical behavior, moral education programs, social recognition of good deeds — may paradoxically reduce net ethical behavior by triggering licensing effects."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 3,
+      "points": 3,
+      "self_check": {
+        "correct_order": "(B)-(C)-(A)",
+        "reasoning": "Opening defines moral licensing. (B) must follow: 'The mechanism appears to involve a kind of implicit moral accounting' — 'The mechanism' directly addresses the how/why of the phenomenon defined in the opening, providing the theoretical explanation (moral credit threshold). (C) follows: 'The phenomenon poses a troubling challenge to common assumptions about moral habit formation' — 'The phenomenon' refers back to moral licensing (opening + B), and (C) draws out the practical implication that virtue-building strategies may backfire. (A) closes: 'In one representative experiment, participants who had previously recalled and written about a time they acted generously...' — 'In one representative experiment' provides the empirical evidence for the abstract claims in (B) and the practical concerns in (C); it is placed last as the concrete grounding after mechanism and implication have been established.",
+        "discourse_markers": ["The mechanism (B - explains opening's phenomenon)", "implicit moral accounting (B - names the theoretical construct)", "good deeds accumulate credit (B - core of the mechanism)", "The phenomenon (C - anaphoric reference to opening + B)", "paradoxically reduce net ethical behavior (C - counterintuitive implication)", "In one representative experiment (A - empirical support for B+C)", "as if the prior act of generosity had 'used up' their moral obligation (A - echoes B's credit metaphor)"],
+        "distractor_elimination": "C cannot come first because 'The phenomenon poses a troubling challenge' needs the mechanism (B) to be established before the challenge can be articulated. A cannot come first because 'In one representative experiment' is most persuasive after the theory (B) and its implications (C) have been laid out. Only B can follow the opening by explaining the mechanism.",
+        "explanation_ko": "주어진 문장은 도덕적 면허 효과(moral licensing)를 정의한다. (B)는 'The mechanism(메커니즘)'으로 주어진 문장에서 정의된 현상의 '어떻게/왜'를 직접 설명하며, 'implicit moral accounting(암묵적 도덕 회계)'이라는 이론적 구성 개념을 명명한다. (C)는 'The phenomenon(이 현상)'이라는 지시어로 주어진 문장+(B) 전체를 가리키며 도덕적 면허 효과가 덕성 강화 전략을 오히려 역효과 낼 수 있다는 실용적 함의를 도출한다. (A)는 'In one representative experiment(대표적인 실험 하나에서)'로 (B)의 추상적 주장과 (C)의 실용적 우려에 대한 경험적 증거를 제공하며, 'as if the prior act of generosity had used up their moral obligation(선행이 도덕적 의무를 소진한 것처럼)'은 (B)의 신용 은유를 직접 반향한다. 핵심 연결 근거: ① (B)의 'The mechanism' → 주어진 문장 현상의 메커니즘 설명 ② (C)의 'The phenomenon' → 지시어(주어진 문장+(B) 전체 지칭) ③ (A)의 'as if...used up' → (B)의 도덕적 신용 은유 반향(의미 연결)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (B)-(C)-(A)이다. (B)의 'The mechanism'이 주어진 문장 현상의 작동 원리(암묵적 도덕 회계)를 설명한다. (C)의 'The phenomenon'이 주어진 문장+(B) 전체를 포괄하며 덕성 강화 전략의 역설적 위험성을 함의로 도출한다. (A)의 'In one representative experiment'가 (B)의 이론과 (C)의 함의 모두에 대한 경험적 증거를 제공하며, 'as if...used up'이 (B)의 신용 은유를 직접 반향한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 '대표적인 실험'이 처음에 오면 어떤 이론을 뒷받침하는 실험인지 (B)의 메커니즘이 아직 없어 맥락이 없다.",
+          "2": "(B)-(A)-(C) 순서에서 (A)가 (C) 앞에 오면 실험 증거가 실용적 함의((C)) 이전에 나온다. 이론(B) → 함의(C) → 증거(A)라는 논리적 전개가 더 효과적이다.",
+          "4": "(C)-(A)-(B) 순서에서 (C)의 'The phenomenon poses a troubling challenge'가 처음에 오면 어떤 도전인지 (B)의 메커니즘이 아직 없어 '어떻게' 도전이 되는지 이해하기 어렵다.",
+          "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+        },
+        "key_point": "핵심 담화 표지: ① (B)의 'The mechanism' → 주어진 문장 현상의 메커니즘 설명(첫 번째 필수) ② (C)의 'The phenomenon' → 주어진 문장+(B) 전체 지칭(B 이후 필수) ③ (A)의 'as if...used up' → (B)의 신용 은유 반향(마지막 필수). 논리 구조: 정의(주어진 문장) → 메커니즘(B) → 실용적 함의(C) → 실험 증거(A)."
+      }
+    },
+    {
+      "id": "v2-36-24",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "challenging",
+      "topic": "nudge theory in behavioral public policy",
+      "passage": "Traditional models of public policy assumed that if people were provided with accurate information about risks and incentives, they would make rational choices in their own best interests.",
+      "paragraphs": {
+        "A": "However, behavioral economists Richard Thaler and Cass Sunstein proposed an alternative framework called 'nudge theory,' which uses insights from cognitive psychology to redesign the choice architecture of decisions — the default options, the layout of choices, the framing of information — so that desirable behaviors become the path of least resistance without restricting freedom of choice.",
+        "B": "Critics of nudge theory raise both empirical and ethical objections. Empirically, the effects of individual nudges are often small, context-dependent, and difficult to scale. Ethically, opponents argue that deliberately engineering choice environments to steer behavior — even toward beneficial outcomes — is a form of manipulation that bypasses rational agency.",
+        "C": "A large body of evidence from behavioral psychology, however, demonstrated that actual human decision-making departs systematically from this rational ideal. People are influenced by how options are framed, by default settings they passively accept, by irrelevant anchors, and by the order in which alternatives are presented — all of which are logically irrelevant to the true value of the options."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 4,
+      "points": 3,
+      "self_check": {
+        "correct_order": "(C)-(A)-(B)",
+        "reasoning": "Opening states the traditional rational-actor model of policy. (C) must follow: 'A large body of evidence from behavioral psychology, however, demonstrated that actual human decision-making departs systematically from this rational ideal' — 'this rational ideal' directly refers to the rational-choice assumption in the opening, and 'however' signals the empirical challenge. (A) follows: 'However, behavioral economists Richard Thaler and Cass Sunstein proposed an alternative framework called nudge theory' — 'However' in A contrasts with the problem in (C), offering a policy response that uses irrationality constructively. (B) closes: 'Critics of nudge theory raise both empirical and ethical objections' — 'nudge theory' directly refers to (A)'s introduced concept, and the critique naturally follows the proposal.",
+        "discourse_markers": ["however (C - contrastive pivot from opening's rational model)", "this rational ideal (C - anaphoric reference to opening)", "default settings...framing...order (C - lists irrational influences)", "However (A - second pivot, proposing a positive response to C's problem)", "'nudge theory' (A - names the framework)", "choice architecture (A - technical term for the design intervention)", "Critics of nudge theory (B - debate following A's proposal)", "nudge theory (B - direct reference to A's concept)"],
+        "distractor_elimination": "A cannot come first because 'However, behavioral economists proposed an alternative framework' needs C's evidence of irrational behavior as the motivation for an alternative. B cannot come first because 'Critics of nudge theory' needs nudge theory to have been introduced in A. Only C can follow the opening by challenging the rational-actor assumption.",
+        "explanation_ko": "주어진 문장은 사람들이 합리적 선택을 한다는 전통적 정책 모형을 설명한다. (C)는 'however(그러나)'라는 역접 담화 표지로 주어진 문장의 합리적 행위자 가정에 도전하고, 'this rational ideal(이 합리적 이상)'이라는 지시어로 주어진 문장의 합리적 선택 가정을 직접 가리킨다. (A)는 'However(그러나)'라는 두 번째 역접 담화 표지로 (C)의 문제 제기에 응답하는 대안 체계를 제안하며, 'nudge theory(넛지 이론)'를 처음으로 명명한다. (B)는 'Critics of nudge theory(넛지 이론 비판자들)'에서 'nudge theory'가 (A)에서 도입된 개념을 직접 가리키는 지시어이며, 제안 이후 비판이 자연스럽게 따른다. 핵심 연결 근거: ① (C)의 'however' → 역접 담화 표지(주어진 문장의 합리성 가정 도전) ② (C)의 'this rational ideal' → 지시어(주어진 문장의 합리적 선택 가정 직접 지칭) ③ (A)의 'However' → 두 번째 역접 담화 표지((C)의 문제에 대한 대안 제안) ④ (B)의 'nudge theory' → 지시어((A)에서 명명된 개념 직접 지칭)"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(A)-(B)이다. (C)의 'however'와 'this rational ideal'이 주어진 문장의 합리적 행위자 가정에 역접하며 실증적 도전을 제시한다. (A)의 두 번째 'However'는 (C)의 문제에 대응하여 넛지 이론이라는 대안 체계를 처음으로 명명한다. (B)의 'Critics of nudge theory'는 (A)에서 명명된 넛지 이론을 직접 지칭하며 비판을 제시한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'However, behavioral economists...proposed an alternative framework'가 처음에 오면 무엇의 대안인지 (C)의 비합리성 증거가 아직 없어 'alternative'가 맥락 없이 등장한다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'Critics of nudge theory'가 처음에 오면 아직 (A)에서 넛지 이론이 소개되지 않아 지시어가 성립하지 않는다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "5": "(C)-(B)-(A) 순서에서 (B)가 (A) 앞에 오면 아직 넛지 이론이 소개되지 않은 상태에서 비판이 나온다."
+        },
+        "key_point": "핵심 담화 표지: ① (C)의 'however'+'this rational ideal' → 주어진 문장의 합리성 가정 역접+직접 지칭(첫 번째 필수) ② (A)의 'However'+'nudge theory' → 두 번째 역접+이론 최초 명명(C 이후 필수) ③ (B)의 'nudge theory' → (A)에서 명명된 개념 직접 지칭(마지막 필수). 이 문항의 특징: 두 개의 역접 'however'(C)와 'However'(A)가 서로 다른 방향으로 전환한다."
+      }
+    },
+    {
+      "id": "v2-36-25",
+      "number": 36,
+      "type": "순서 배열",
+      "difficulty": "challenging",
+      "topic": "emergence in complex systems",
+      "passage": "Some of the most fascinating phenomena in nature cannot be explained by analyzing the properties of a system's individual components — they arise from the interactions among those components and have no existence at the lower level of description.",
+      "paragraphs": {
+        "A": "Reductionism — the analytical strategy of understanding a whole by decomposing it into its parts — is enormously powerful but insufficient for these phenomena. A complete specification of every water molecule and the laws governing their interactions would not, in itself, allow you to predict that water possesses liquidity, surface tension, or a boiling point, because these are collective, relational properties with no representation at the molecular level.",
+        "B": "This principle — called emergence — appears across vastly different scales and domains: the liquidity of water is not a property of any individual H2O molecule; the consciousness of a brain is not a property of any single neuron; the market price of a commodity is not a property of any individual buyer or seller. In each case, the whole possesses properties that simply do not exist at the level of the parts.",
+        "C": "What makes such phenomena particularly challenging for science is that they resist the standard toolkit of analysis. Breaking a system down into its components and studying each in isolation will never reveal the emergent property, because that property exists only when the components are assembled in a certain density, geometry, or dynamic relationship — conditions that are destroyed by the act of decomposition itself."
+      },
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]",
+      "choices": ["(A)-(C)-(B)", "(B)-(A)-(C)", "(B)-(C)-(A)", "(C)-(A)-(B)", "(C)-(B)-(A)"],
+      "answer": 5,
+      "points": 3,
+      "self_check": {
+        "correct_order": "(C)-(B)-(A)",
+        "reasoning": "Opening introduces phenomena that arise from component interactions and cannot be explained by analyzing parts. (C) must follow: 'What makes such phenomena particularly challenging for science is that they resist the standard toolkit of analysis' — 'such phenomena' directly refers to the phenomena described in the opening, and (C) deepens the epistemological challenge by explaining why standard analysis fails. (B) follows: 'This principle — called emergence — appears across vastly different scales and domains' — 'This principle' refers to the general principle being discussed, which is now named 'emergence' for the first time; the examples (water liquidity, neural consciousness, market price) illustrate (C)'s claim that these properties 'exist only when components are assembled.' (A) closes: 'Reductionism...is enormously powerful but insufficient for these phenomena' — 'these phenomena' refers back to emergence as named in (B); 'insufficient' echoes (C)'s 'resist the standard toolkit,' and the water example in (A) refines (B)'s water example with greater specificity, providing the methodological conclusion.",
+        "discourse_markers": ["such phenomena (C - anaphoric reference to opening)", "destroyed by the act of decomposition itself (C - links to the anti-reductionist theme)", "This principle — called emergence (B - names the principle from C)", "In each case, the whole possesses properties that simply do not exist at the level of the parts (B - echoes opening and C)", "these phenomena (A - demonstrative reference to B's emergence examples)", "insufficient (A - echoes C's 'resist the standard toolkit')", "collective, relational properties with no representation at the molecular level (A - deepens C's assembly conditions)"],
+        "distractor_elimination": "B cannot come first because 'This principle — called emergence' is a naming that requires prior setup from C; the opening introduces the phenomenon but doesn't name it, and C develops the challenge before the name is given. A cannot come first because 'these phenomena' and 'insufficient for these phenomena' needs both C's challenge and B's naming of emergence. Only C can follow the opening by articulating why such phenomena resist standard analysis.",
+        "explanation_ko": "주어진 문장은 개별 구성 요소를 분석해서는 설명할 수 없는 현상들을 소개한다. (C)는 'such phenomena(그러한 현상들)'라는 지시어로 주어진 문장의 현상들을 직접 가리키며, 표준 분석 도구 키트로는 파악할 수 없다는 인식론적 도전을 심화한다. (B)는 'This principle — called emergence(이 원리 — 창발이라 불리는)'에서 'This principle'이 (C)에서 논의된 원리를 지칭하면서 '창발(emergence)'이라는 이름을 처음으로 부여하고, 물·뇌·시장 가격 예시로 (C)의 주장을 예시한다. (A)는 'these phenomena(이러한 현상들)'라는 지시어로 (B)에서 명명된 창발 현상들을 가리키고, 'insufficient(불충분하다)'는 (C)의 'resist the standard toolkit'을 직접 반향하며 환원주의의 한계로 방법론적 결론을 도출한다. 핵심 연결 근거: ① (C)의 'such phenomena' → 지시어(주어진 문장의 현상 직접 지칭) ② (B)의 'This principle' → 지시어((C)의 원리 지칭 및 '창발' 명명) ③ (A)의 'these phenomena' → 지시어((B)에서 명명된 창발 현상 지칭) ④ (A)의 'insufficient' → (C)의 'resist the standard toolkit' 어휘 반향"
+      },
+      "explanations": {
+        "correct": "정답 순서는 (C)-(B)-(A)이다. (C)의 'such phenomena'가 주어진 문장의 창발 현상들을 직접 가리키며 표준 분석으로 포착할 수 없다는 도전을 심화한다. (B)의 'This principle — called emergence'가 (C)의 원리에 이름을 부여하고 물·뇌·시장 가격 사례로 예시한다. (A)의 'these phenomena'는 (B)에서 명명된 창발 현상들을 가리키고, 'insufficient'가 (C)의 'resist the standard toolkit'을 반향하며 환원주의의 한계로 방법론적 결론을 도출한다.",
+        "wrong": {
+          "1": "(A)-(C)-(B) 순서에서 (A)의 'these phenomena'가 처음에 오면 어떤 현상들인지 (B)에서 '창발'이라는 이름이 아직 부여되지 않아 지시어가 모호하다.",
+          "2": "(B)-(A)-(C) 순서에서 (B)의 'This principle — called emergence'가 처음에 오면 어떤 원리인지 (C)의 인식론적 도전이 아직 없어 명명의 필요성이 확립되지 않는다.",
+          "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+          "4": "(C)-(A)-(B) 순서에서 (A)가 (B) 앞에 오면 'these phenomena'가 아직 '창발'이라고 명명되기 전에 등장한다. (B)에서 이름이 부여된 후에야 (A)의 방법론적 결론이 그 명명된 현상에 대한 결론으로 자리 잡는다."
+        },
+        "key_point": "핵심 담화 표지: ① (C)의 'such phenomena' → 주어진 문장 직접 지칭+인식론적 도전 심화(첫 번째 필수) ② (B)의 'This principle — called emergence' → (C)의 원리에 '창발' 이름 부여(C 이후 필수) ③ (A)의 'these phenomena'+'insufficient' → (B)의 명명 이후 방법론적 결론(마지막 필수). 논리 구조: 현상 소개(주어진 문장) → 분석 불가능성(C) → 창발 명명+예시(B) → 환원주의의 한계 결론(A)."
+      }
+    }
+  ]
+}

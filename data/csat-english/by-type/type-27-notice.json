@@ -1,0 +1,347 @@
+{
+  "type": "안내문",
+  "typeNumbers": [27, 28],
+  "totalCount": 36,
+  "questions": [
+    {
+      "number": 27,
+      "type": "안내문 일치/불일치",
+      "passage": "Project Pipeline Virtual Camp\nWho: Youth ages 11 - 15\nWhen: August 17 - 19, 2023, 10 a.m. - 1 p.m. (Thursday, Friday & Saturday)\nWhere: Online\nRegister at www.bosnoma.org/projectpipeline.\nRegistration is FREE. All participants will receive a free art supply kit mailed to their home.\nArchitecture and design professionals will teach drawing and modeling in a fun online environment.",
+      "question": "Project Pipeline Virtual Camp에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["참가 연령은 11세에서 15세이다.", "사흘간 오전 10시부터 오후 1시까지 진행된다.", "웹 사이트에서 등록해야 한다.", "참가자는 미술용품 세트를 구입해야 한다.", "드로잉과 모형 제작을 온라인에서 가르칠 것이다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "안내문 일치",
+      "passage": "2023 Oyster Bay Town Toddler Sports Program\nThe Town's Toddler Sports Program will return this spring on April 7th. This 6-week program offers sports classes at the Youth Center for children aged 3 and 4.\nParents must choose one class per week, per child.\nClasses: Wednesdays 10 a.m. or 11 a.m. & Fridays 10 a.m. or 11 a.m.\nRegistration: ONLINE at www.obtown.org starting Friday, March 24th, at 9 a.m.\nFee: $75 per resident child / $90 for any non-resident child",
+      "question": "2023 Oyster Bay Town Toddler Sports Program에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["7주간 진행되는 프로그램이다.", "참가 아동마다 매주 두 개의 수업을 선택해야 한다.", "수업은 수요일과 금요일 오후에 있다.", "등록은 3월 24일 오전 9시에 시작될 것이다.", "지역 거주 아동의 참가비는 90달러이다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "안내문 일치/불일치",
+      "passage": "2023 Idea Sharing Contest\nGuidelines: All participants must enter in teams of 2 to 5 members. Each team will submit a 7-minute video clip via email. The video must include ways to protect our environment.\nJudging Criteria: Creativity, Practicability, Technical quality\nDeadline: April 13, 2023. Winning teams announced April 21, 2023 via email. The three best videos will be posted on our website.",
+      "question": "2023 Idea Sharing Contest에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["개인으로 참가할 수 없다.", "7분짜리 영상을 웹사이트에 게시해야 한다.", "환경을 보호할 수 있는 방법을 영상에 넣어야 한다.", "심사 기준에 창의성이 포함된다.", "수상 팀은 이메일을 통해 안내될 것이다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "안내문 일치",
+      "passage": "International Mask Festival\nWhen: Every Tuesday to Sunday in April (10:00 a.m. - 8:00 p.m.)\nAdmission Price: $10 per person\nBooth A: Exhibition of masks from 25 countries\nBooth B: Mask making activity (reservation required)\nAudio guides are available in Booth A and are included in the admission price.\nAfter making a mask in Booth B, you can take it home as a souvenir.",
+      "question": "International Mask Festival에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["화요일에는 축제가 운영되지 않는다.", "가면 만들기 활동은 예약 없이 참여할 수 있다.", "오디오 가이드는 입장료에 포함되지 않는다.", "만든 가면은 기념품으로 집에 가져갈 수 있다.", "관련 문의는 전화로만 가능하다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "안내문 일치/불일치",
+      "passage": "2023 Cierra Basketball Day Camp\nCierra Sports Center, July 17th—July 21st\nAges & Level: 13—18 years, for beginners only\nCamp Activities: Skill Drills 1:00-2:00 p.m., Team Games 2:30-3:30 p.m., Free Throw Shooting Contests 4:00-5:00 p.m.\nRegister online at www.crrbbcamp.com. $40 (Full payment required when registering.)\nA towel will be provided for free.",
+      "question": "2023 Cierra Basketball Day Camp에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["전문가들로부터 다양한 기술을 배울 수 있다.", "초급자만을 대상으로 한다.", "팀 경기는 오후 1시에 시작한다.", "온라인으로 등록할 수 있다.", "수건이 무료로 제공될 것이다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 28,
+      "type": "안내문 일치",
+      "passage": "Creative Art Class for Kids\nColor World Art Center, June 1st to August 31st.\nClass Programs: Clay Arts (Ages 4-6, Every Monday), Cartoon Drawing (Ages 7-9, Every Thursday), Watercolors (Ages 10-12, Every Friday)\nClass Time: 4 p.m.-6 p.m.\nMonthly Fee: $30 per child (snacks included). Family discounts available (10% discount for each child).\nOnly 10 kids are allowed per class. Sign up at Color World Art Center.",
+      "question": "Creative Art Class for Kids에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["6월부터 9월까지 진행된다.", "만화 그리기 강좌가 월요일마다 있다.", "모든 강좌는 오전에 열린다.", "월 수강료에 간식이 포함되어 있다.", "강좌당 수강 아동 수에 제한이 없다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 6월 모의평가"
+    },
+    {
+      "number": 27,
+      "type": "내용일치",
+      "passage": "Little Adventure Pack\nLittle Adventure Pack is back again in August! Enjoy the science of the National Museum with this easy and fun take-home activity pack!\nAges: Recommended for kids aged 5 to 7 years\nPrice: $5 for museum members / $10 for non-members\nContents\n• Activity books (puzzles, paper crafts, etc.)\n• A mini telescope\n• A toy shark\nOrder\n• Must be ordered online (www.nationalmuseum.org/lap)\n• Available from August 2, 2023\n• Total number of packs available for sale is limited to 200.",
+      "question": "Little Adventure Pack에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["5세에서 7세까지의 아동에게 추천된다.", "비회원에게는 10달러에 판매된다.", "소형 망원경을 포함한다.", "온라인으로 주문되어야 한다.", "총 판매 수량에 제한이 없다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용일치",
+      "passage": "2023 Oakfield Mini Marathon\nJoin the 2023 Oakfield Mini Marathon to celebrate the opening of Central Park in our town! Runners, joggers, and walkers are all welcome.\nWhen: Saturday, October 21, starting at 8:30 a.m.\nWhere: Start at Gate 1 of Central Park and finish in the parking lot\nWho: Ages 13 and above\nDistance: 10km\nParticipation Fee: $5 per person\nRegistration\n• Online only (www.oakfieldminimarathon.com)\n• September 1 to 30\n※ If you finish the race, you will receive a T-shirt and an e-certificate.\nFor more information, visit our website.",
+      "question": "2023 Oakfield Mini Marathon에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["Central Park 주차장에서 출발한다.", "13세 이상 참여할 수 있다.", "참가비는 무료이다.", "9월 1일까지 등록해야 한다.", "등록을 하면 티셔츠를 받는다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "내용일치",
+      "passage": "Brushwood National Park Tour Program\nWalking in nature is a great way to stay fit and healthy. Enjoy free park walks with our volunteer guides, while appreciating the beautiful sights and sounds of the forest.\nDetails\n∙Open on weekdays from March to November\n∙Easy walk along the path for one hour (3 km)\n∙Groups of 15 to 20 per guide\nRegistration\n∙Scan the QR code to sign up for the tour.\nNote\n∙A bottle of water will be provided to each participant.\n∙Children under 12 must be accompanied by an adult.\n∙Tours may be canceled due to weather conditions.",
+      "question": "Brushwood National Park Tour Program에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["자원봉사 안내자가 동행한다.", "주말에 진행된다.", "QR 코드를 스캔하여 신청한다.", "각 참가자에게 물이 한 병씩 제공될 것이다.", "날씨에 따라 취소될 수 있다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 28,
+      "type": "내용일치",
+      "passage": "WGHS Geography Photo Contest\nThe event you've been waiting for all this year is finally here! Please join Wood Gate High School's 10th annual Geography Photo Contest.\nGuidelines\n∙Participants should use the theme of the \"Beauty of Rivers Crossing Our City.\"\n∙Submissions are limited to one photo per person.\n∙Files should not be larger than 50 MB.\nSchedule\nSubmission: October 2–October 8 (Email: geography@woodgate.edu)\nVoting: October 11–October 13 (School Website: https://www.woodgate.edu)\nExhibition: October 16–October 20 (Main Lobby)\nNote\n∙The top 10 photos selected by students will be exhibited.",
+      "question": "WGHS Geography Photo Contest에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["처음으로 개최되는 대회이다.", "출품 사진 주제에 제한이 없다.", "100 MB 크기의 파일을 제출할 수 있다.", "투표는 일주일간 실시된다.", "학생들이 선정한 사진들이 전시될 것이다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 9월 모의평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "2023 Greenfield City Run\nAre you eager for the race that can awaken the running spirit within you? Maybe the Greenfield City Run is best for you.\n∙ When: Sunday, November 5\n  - Assembly time is 9:00 a.m.\n  - Start time is 9:30 a.m.\n∙ Where: Riverside Park\n∙ Races: 2km, 5km, 10km (The 2km race is only for kids.)\n∙ Registration\n  - Registration starts on October 16.\n  - The registration fees depend on the date you sign up.\n    $30: October 16 - November 4 / $40: November 5\n  - Register online at www.finishrace.com.\n∙ Activities\n  - Coffee and Cookie Fair & Outdoor Charity Bazaar\nFor more information, call (516) 703-1737.",
+      "question": "2023 Greenfield City Run에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["집합 시간은 오전 9시이다.", "2km 종목은 아이들만 참가할 수 있다.", "등록은 10월 16일부터 시작된다.", "날짜와 상관없이 등록비는 동일하다.", "야외 자선 바자회가 있다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "Bluehill Apple Picking\nTake home a bag full of apples fresh from the orchard. This year, unfortunately, apple pie eating contests will not be held due to time constraints.\n∙ Date: Saturday, October 21, 2023\n∙ Time\n  - Departure: 8:15 a.m. for pre-trip meeting\n    Buses leave at 8:30 a.m. SHARP!\n  - Return: Approximately 7:00 p.m.\n∙ Price: $20 per person\n  (transportation included, meals not included)\n∙ Pre-registration is required at www.blueapple.com.\n  - 12 years and under must be accompanied by adults.",
+      "question": "Bluehill Apple Picking에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["애플파이 먹기 대회가 열릴 예정이다.", "버스는 오전 8시 15분에 출발한다.", "참가비에 식사가 포함되어 있다.", "사전 등록은 필요 없다.", "12세 이하는 성인이 동반해야 한다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2023학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "Electronic Safe User Manual\n\nOPENING THE SAFE FOR THE FIRST TIME\nUpon first use, users should open the safe with the emergency key.\n\nINSERTING THE BATTERIES\n• Insert four AA batteries, and the green light will flash.\n• If both the green light and the red light are on, replace the batteries.\n\nSETTING A PASSWORD\n• With the door open, press the reset button. Then, input a four-digit password and press the \"enter\" button.\n• When the new password is set, the green light will flash twice.\n\nOPENING THE DOOR WITH A PASSWORD\nInput your password and press the \"enter\" button.\nCAUTION: A wrong password input will set off an alarm.",
+      "question": "Electronic Safe User Manual에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["처음으로 금고를 열 때는 비상 열쇠를 사용해야 한다.", "AA 건전지 네 개를 넣으면, 녹색 불이 깜빡일 것이다.", "녹색과 빨간색 불이 둘 다 켜져 있으면, 건전지를 교체해야 한다.", "새로운 비밀번호가 설정되면, 녹색 불이 세 번 깜빡일 것이다.", "잘못된 비밀번호의 입력은 경보음을 울릴 것이다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "World Poetry Day Competition\n\nIn honor of World Poetry Day, let's experience the power of words with our poetry competition!\n\nCompetition Details\n• Theme: Unexpected Moments\n• Deadline: March 21, 2024 (World Poetry Day)\n• Age: Only those who are under age 18 can participate.\n\nSpecial Opportunities\n• Poetry Workshop: All participants can join our poetry workshop led by well-known poets.\n\nHow to Participate\n• Compose your poem inspired by the theme.\n• You can submit your piece only through E-mail at administer@worldpoetry.org.",
+      "question": "World Poetry Day Competition에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["주제는 예상했던 순간들이다.", "마감일은 2024년 3월 21일이다.", "18세 이상도 대회에 참가할 수 있다.", "대회에서 수상한 사람들만 워크숍에 참석할 수 있다.", "작품은 직접 또는 이메일로 제출할 수 있다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "Scottish Day Trip Package\nDon't miss the chance to soak up the spirit of Scotland!\nA full‑day trip through the Highlands is waiting for you.\n\nSchedule\n∙ Departs at 7 a.m. from the Highland Tours office\n∙ Returns around 9 p.m. to the original departure point\n\nDetails\n∙ Max of 40 people per group\n∙ Minimum age: 5 years old\n∙ Price: $150 per person\n\nBooking\n∙ Only online booking is available.\n∙ You will receive an email once your booking is confirmed.\n∙ For a refund, cancel at least two days before the tour departs.\n\nNote\n∙ The tour will not hold back for tourists who arrive at the departure point late.",
+      "question": "Scottish Day Trip Package에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["출발하는 장소와 돌아오는 장소가 같다.", "한 그룹당 40명까지 참여할 수 있다.", "예약이 확정되면 이메일을 받을 것이다.", "환불을 위해서는 출발 하루 전까지 취소해야 한다.", "출발지에 늦게 도착하는 여행자를 기다려 주지 않는다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "JR. CHEF CLASS\nwith Chef Scott Gomez\n\nProfessional Chef Scott Gomez offers cooking classes to provide your children with hands‑on experience and happy memories. He has picked pizza for the menu this week.\n\nDetails\n∙ Date: Tuesday, May 14th, 2024\n∙ Place: Rosehill Community Center Cafeteria\n∙ Available for children ages 6 – 12\n\nCost\n∙ $20 per child includes all ingredients, chef hat and apron.\n\nSchedule\nTime / Contents\n5:00 – 5:20 p.m. / rolling pizza dough\n5:20 – 6:00 p.m. / topping and baking\n6:00 – 6:30 p.m. / plating and serving\n\nNote\n∙ Call 876‑725‑7501 to register.\n∙ A parent or guardian must stay on site during class.\n∙ Since parking space is limited, using public transportation is recommended.",
+      "question": "Jr. Chef Class에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["이번 주의 메뉴는 아이들이 택한다.", "비용에는 앞치마가 포함되지 않는다.", "피자 반죽 밀기는 30분간 진행된다.", "부모 혹은 보호자는 수업 동안 현장에 머물러야 한다.", "충분한 주차 공간이 확보되어 있다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 4월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "안내문 일치/불일치",
+      "passage": "Summer Job at Wildlife Rescue Center\nWe are looking for summer workers who will take care of the animals rescued from Mount Donovahn.\nSchedule\n∙Dates: August 1st to 31st\n∙Hours: 10 a.m.—4 p.m.\n※ On rainy days, working hours may change.\nRequirements\n∙Only those aged 18 and over can apply.\n∙Previous experience with animals\nTasks\n∙Preparing food for animals and feeding them\n∙Writing reports about animals\n- Summer workers will get training from our caretakers.\n- Free shuttle bus service will be provided twice a day.\nTo learn more about the summer job, please visit our website, www.dwildliferescue.org.",
+      "question": "Summer Job at Wildlife Rescue Center에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["Mount Donovahn으로부터 구조된 동물을 돌본다.", "우천 시 업무 시간이 변경될 수 있다.", "18세 이상만 지원할 수 있다.", "동물에 관한 보고서를 작성한다.", "무료 셔틀 버스 서비스가 하루에 세 번 제공된다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 28,
+      "type": "안내문 일치",
+      "passage": "LCU Geography Field Trip\nLionsford City University is offering a one-day geography field trip on June 17th. We believe it is one of the finest field trips in the country.\nParticipants: First-year students majoring in geography\nCourse Options\nA: Exploring the landscape while hiking Mount Belena\nB: Examining coastal features along Lionsford Beach\nParticipation Fee: $70 per person (lunch included)\nHow to Apply\n∙Email the application to geography@lcu.edu or drop it off at the department office.\n∙Deadline: June 4th\n※ For further information, please contact us at 607-223-2127.",
+      "question": "LCU Geography Field Trip에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["2일 동안 진행된다.", "모든 전공의 학생들이 참여할 수 있다.", "A코스에서는 Lionsford Beach 해안의 특징을 조사한다.", "참가비에 점심이 포함되어 있다.", "지원서는 이메일로만 제출이 가능하다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 6월 모의평가"
+    },
+    {
+      "number": 27,
+      "type": "안내문 일치/불일치",
+      "passage": "Dolphin Tours\nCome join Dolphin Tours sailing from Golden Bay and dive into the enchanting world of marine life.\nDaily Tour Times\n∙ 11 a.m., 2 p.m., & Sunset\n※ Each tour lasts two hours.\nTickets & Booking\n∙ Adult (ages 12 and over): $20\n∙ Child (ages 11 and under): Free\n∙ Reserve your tickets on our website at www.dolphintourgb.com.\nActivities\n∙ Dolphin watching guided by a marine biologist\n∙ Swimming with dolphins (Optional)\nNotices\n∙ Reservations are required for all activities.\n∙ Children must be accompanied by a parent or guardian.\n∙ In the case of cancellation due to bad weather, a full refund will be provided.",
+      "question": "Dolphin Tours에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["각 투어는 2시간이 소요된다.", "11세 이하의 어린이는 무료로 참가할 수 있다.", "해양 생물학자가 돌고래 관찰을 안내한다.", "일부 활동은 예약 없이 참여할 수 있다.", "어린이는 부모나 보호자를 동반해야 한다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "안내문 일치",
+      "passage": "2024 Celton Math Night\nCelton High School invites students to experience how math connects to the real world! Students will search supermarket aisles for answers to math questions on their activity sheets.\nWho: Teams of 10th and 11th Grade Students\nWhere: Jay Supermarket\nWhen: July 26th, 5 p.m. - 7 p.m.\nEvent Information\n∙ Each team should consist of 3 students.\n∙ Bringing a calculator is allowed.\n∙ A prize will not be given to the first team to finish the activity sheet. It's not a race.\n∙ Sign up for the event at www.celtonmath.com no later than July 24th.\n※ For more information, please contact us at (512)1654-9783 or visit our website.",
+      "question": "2024 Celton Math Night에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["오후 5시에 종료된다.", "각 팀은 3명의 학생으로 구성되어야 한다.", "계산기 반입이 허용되지 않는다.", "가장 먼저 활동지를 완성하는 팀이 상을 받는다.", "7월 26일까지 등록해야 한다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2024학년도 7월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "University of Teverley Campus Visit Day\nDo you want to see if the University of Teverley is the right fit for you? Come to our annual campus visit event for prospective students on Thursday, September 26th.\nParticipants\n∙3rd-year high school students only\nMeeting Time & Place\n∙The auditorium at the Student Center at 9:30 a.m.\nSchedule\n∙10:00 a.m.: Presentation on the admissions process\n∙10:30 a.m.: Campus tour\n∙12:00 p.m.: Free lunch provided at the students' cafeteria\n∙1:00 p.m.: Q&A with the student tour staff\n※ After the event, a T-shirt with our university logo will be given out as a gift.\nRegistration\n∙Register by 6 p.m., September 17th, on our website, www.teverley.edu.",
+      "question": "University of Teverley Campus Visit Day에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["고등학교 3학년 학생만 참여할 수 있다.", "입학 절차에 관한 소개가 예정되어 있다.", "점심은 무료로 제공되지 않는다.", "티셔츠가 선물로 주어질 것이다.", "등록은 학교 웹사이트에서 한다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "2024 Green Future Webtoon Contest\nShowcase your creativity and artistic talents by creating a webtoon that captures your vision of a cleaner environment.\nTheme: Renewable energy for a green future\nSubmission Details\n∙Submissions will be accepted from October 1st to November 30th.\n∙Submissions should be uploaded to our website.\n∙Each participant is allowed to submit only one webtoon.\nPrizes\nNumber of winners / Prize money (per winner)\n1st prize: 1 / $3,000\n2nd prize: 2 / $2,000\n3rd prize: 3 / $1,000\n∙The winners will be decided by the selection committee and will be announced on December 30th.\n※ For more information, visit our website, www.grnftr.org.",
+      "question": "2024 Green Future Webtoon Contest에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["주제는 농업 기술의 미래이다.", "출품은 11월 30일부터이다.", "각 참가자는 두 개의 웹툰을 제출할 수 있다.", "2등상은 세 명에게 주어진다.", "수상자는 선정 위원회에서 결정될 것이다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2024학년도 10월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "2024 \"Be Active\" Community Challenge\nThe \"Be Active\" Community Challenge invites all of you. Let's get moving this fall!\n∙ When: October 1 - October 31\n∙ How It Works:\n  - Keep track of the number of minutes you were active every day.\n  - Every kind of exercise counts: jogging, dancing, football, etc.\n∙ Tracking Your Progress:\n  - Log your active minutes daily on the \"Be Active\" app.\n  - Deadline for submitting your total time is November 1, 10:00 a.m.\n∙ Entry Fees: $10 (12 years and under are FREE.)\n∙ Rewards and Recognition:\n  - The three participants who recorded the highest total time will win a prize.\n  - Winners will be announced online.",
+      "question": "2024 \"Be Active\" Community Challenge에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["기간은 10월 1일부터 10월 31일까지이다.", "모든 종류의 운동이 인정된다.", "총합 시간의 제출 기한은 11월 1일 오후 10시이다.", "12세 이하는 참가비가 무료이다.", "우승자는 온라인으로 발표될 것이다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "Heritage Hotel Stay Information\nDear guests, please read the following to ensure your safety and comfort during your stay.\n∙ Check in & Check out\n  - Room check in is from 2 p.m.\n  - Room check out is until 12 p.m.\n∙ During the Stay\n  - Used towels are changed every other day.\n  - Free WiFi is available ONLY in the lobby.\n  - Two bottles of water are provided for FREE.\n∙ Facilities\n  - The gym and business center are open 24 hours.\n  - The parking lot is in front of the hotel.",
+      "question": "Heritage Hotel Stay Information에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["객실 체크아웃은 오후 2시까지이다.", "사용한 수건은 매일 교체된다.", "무료 와이파이는 호텔 전체에서 이용 가능하다.", "물 두 병이 무료로 제공된다.", "주차장은 호텔 뒤편에 있다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2025학년도 9월 모의평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "Playtime with Books\nRead, write, and play — your Saturday becomes a story-filled adventure.\n∙ Date: December 6\n∙ Target: Elementary school students (Grades 3 & 4)\n∙ Location: Bluebell Library Multipurpose Room\n∙ Registration\n  - Registration starts on November 17.\n  - Visit our homepage and click the event banner.\n  * Note: First come, first served! Registration will close once all spots are filled.\n∙ Programs\n  - Morning Program: Create Your Own Amazing Tales\n  - Afternoon Program: Design Your Book Cover",
+      "question": "Playtime with Books에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["날짜는 12월 6일이다.", "대상은 초등학교 3학년과 4학년이다.", "등록은 11월 17일에 시작한다.", "등록은 선착순이다.", "오전 프로그램은 책 표지 디자인하기이다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "Bluetooth VR Goggles\n- Instruction Manual -\nHow to Operate the Bluetooth VR Goggles\n∙ Turn on Bluetooth in your smartphone settings, and search for the \"VR Goggles\" Bluetooth signal.\n∙ Start the app or content you want to use on your smartphone, before putting on the goggles.\n∙ If the goggles remain inactive for 30 minutes, they will automatically shut down.\nCharging Instructions\n∙ The red light means the device needs to be charged.\n∙ The green light means the battery is fully charged.\n∙ The power connector is on the left strap.\nCaution When Charging\n∙ Do not charge while wearing the goggles.\n∙ When charging, put the goggles in a cool and dry area.",
+      "question": "Bluetooth VR Goggles에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["고글을 착용한 후에 스마트폰 앱을 실행해야 한다.", "10분 동안 사용하지 않으면 자동으로 전원이 꺼진다.", "녹색 불은 충전해야 한다는 의미이다.", "전원 연결 장치는 오른쪽 끈에 있다.", "고글을 착용한 채로 충전하면 안 된다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025년 10월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "The Wonders of Bees\nAttention, all bee lovers! Come and discover the wonders of these tiny creatures!\nWhen: May 17 - 24, 2025\nWhere: National Science Museum\nAdmission Fee: $5 (Hands-on activities not included)\nExhibitions\nPlace / Theme\n1st Floor: Bee Communication\n2nd Floor: Structure of a Beehive\n3rd Floor: Bees' Habitat Loss\nHands-on Activities\n· $1 extra per participant\n· An adult companion required for kids under 7\nPlace / Activity\nNewton Hall: Building a Model Beehive / Tracing Bees in Virtual Reality\nFor more information, call us at (254) 832-9585.",
+      "question": "The Wonders of Bees에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["국립 과학관에서 진행된다.", "체험 활동 비용은 입장료에 포함되어 있다.", "2층의 전시 주제는 벌집의 구조이다.", "7세 미만 아이들의 체험 활동에는 성인 동반자가 필요하다.", "Newton Hall에서 체험 활동이 이루어진다."],
+      "answer": 2,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "Global Gourmet Potluck Party\nAre you ready to share your country's special dish? Join us and have a delicious meal together.\nSite & Date\n- Main cafeteria\n- Friday, July 18, 2025\nGuidelines\n- Participation is only for freshman international students of Pineview Culinary Institute.\n- Participants must make and bring one of their countries' dishes.\nSchedule\n· 5:00 p.m.: Introduction of each local dish\n· 5:30 p.m.: Sharing and enjoying dishes\n· 6:30 p.m.: Voting for the best dish\n· 7:00 p.m.: Dance party with drinks and desserts\nNotes\n- Drinks and desserts will be served for free.\n- A trophy will be given to the student who brings the best dish.",
+      "question": "Global Gourmet Potluck Party에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["강당에서 금요일에 진행된다.", "참여 대상은 전 학년의 국제 학생들이다.", "참여자는 자국의 요리 중 하나를 만들어 가져와야 한다.", "댄스파티가 최고의 요리 투표 이전에 열린다.", "최고의 요리를 가져온 학생에게 상금이 수여된다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 3월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치",
+      "passage": "Primm Reading Marathon Event\nIn this event, each page of a book is converted into 5 meters. Participants will reach the target distance by reading.\nEvent Period\n• From March 28th to June 28th\nQualification\n• Only open to members of the Primm library\nHow to Participate\n• Visit Primm library to receive the reading log.\n• Complete the reading log and submit it to the librarian.\nTarget Distance and Benefits\n• Half marathon (4,200 pages): Completion certificate\n• Full marathon (8,400 pages): Completion certificate & Eco-friendly book stand",
+      "question": "Primm Reading Marathon Event에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["도서 한 페이지는 5미터로 환산된다.", "행사 기간은 3월 28일부터 6월 28일까지이다.", "Primm 도서관 회원이 아니어도 참여가 가능하다.", "독서 일지를 완성하고 사서에게 제출한다.", "4,200페이지를 읽으면 완료 인증서를 받는다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치",
+      "passage": "2025 Dream to Screen\nDo you dream of seeing your story come to life in the theater? Here's your chance!\nGuidelines\n• All genres are welcome but submissions must be original works.\n• The maximum length of your synopsis is 1,000 words.\nDetails\n• Submissions will be accepted from April 30th to May 15th.\n• Email your synopsis to drscreen@cinevision.org.\n• The winner will be announced through the official website and via email.\nBenefits\n• All the participants will receive professional feedback from famous production companies.\n• The synopsis receiving the most votes will be adapted into a screenplay!",
+      "question": "2025 Dream to Screen에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["시놉시스의 최소 길이는 1,000 단어이다.", "제출은 5월 15일부터이다.", "수상자는 공식 웹사이트를 통해서만 발표될 것이다.", "수상자만 유명 제작사로부터 전문적인 피드백을 받을 것이다.", "가장 많은 표를 받은 시놉시스는 영화 대본으로 각색될 것이다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025학년도 5월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "내용 일치/불일치",
+      "passage": "National Kite Festival\nKite enthusiasts from all over the country are invited to City Park, San Francisco, to showcase their kite flying skills. This event celebrates cultural diversity through the art of kite making and kite flying.\nEvent Details\n∙ Date: August 10th, 2025\n∙ Time: From 10 a.m. to 6 p.m.\n∙ Open to all ages\nCompetition\n∙ Categories: Largest Kite, Highest Flying Kite, Most Creative Design\n∙ All competitors must use self-made kites. (Purchased ones are not allowed.)\nAdditional Activities\n∙ Kite making workshops available for $10 per person\n∙ Face painting and a kite-themed costume parade\n→ Scan the QR code for the latest updates and event registration.",
+      "question": "National Kite Festival에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["오전 10시부터 오후 6시까지 진행된다.", "연령 제한이 없다.", "시합 부문 중 하나는 연 높이 날리기이다.", "시합 참가자는 구매한 연을 사용할 수 있다.", "연 만들기 워크숍 참가 비용은 1인당 10달러이다."],
+      "answer": 4,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 28,
+      "type": "내용 일치/불일치",
+      "passage": "FREE CPR Class Downtown Los Angeles\nLearn how to save lives with a CPR training course in Downtown Los Angeles.\n∙ Date and Time: November 30th, 2025, from 2 p.m. to 5 p.m.\n∙ Location: Blue Healthcare Training Center\n∙ Classroom: 5th floor, Suite 510\n∙ Certification: Upon course completion, participants will receive a CPR certificate valid for 2 years.\n∙ Reservations are required.\n∙ Free parking is available.\n→ Scan the QR code for reservations and more information.\nWe look forward to seeing you!",
+      "question": "FREE CPR Class Downtown Los Angeles에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["4시간 동안 진행된다.", "강의실은 10층에 있다.", "과정 완료 시, 참가자는 3년간 유효한 수료증을 받는다.", "예약을 하지 않아도 참여가 가능하다.", "무료 주차가 가능하다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2025년 7월 고3 학력평가"
+    },
+    {
+      "number": 27,
+      "type": "안내문 일치/불일치",
+      "passage": "Wabut Jungle Yoga\nIn this program, you can rediscover forgotten rhythms of your life while experiencing both yoga and the jungle. Many travelers join us again year after year.\nWhere: Wabut Jungle Yoga Center in Kroiwan\nWhat\n∙Doing yoga on the deck outside\n∙Bird watching in the jungle\n∙Hiking in the jungle with a guide\nLodging: Beautifully crafted bungalow (No private restroom inside bungalow, but common restrooms easily accessible)\nApplication\n∙Visit our website at www.wabut.com and fill out the application form online.\n∙For more information, email us at wabut@mail.com.\nTransportation: It is offered from the airport to the yoga center.",
+      "question": "Wabut Jungle Yoga에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": ["많은 여행자들이 매년 다시 참여한다.", "정글에서의 조류 관찰이 포함된다.", "방갈로 안에 개인 화장실이 있다.", "신청서를 온라인으로 작성해야 한다.", "교통편이 공항에서 요가 센터까지 제공된다."],
+      "answer": 3,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    },
+    {
+      "number": 28,
+      "type": "안내문 일치",
+      "passage": "Under the Sea Mascot Contest\nDesign a unique marine animal mascot, reflecting the theme of marine ecosystem conservation.\nSchedule\n∙Submission period: September 15—October 15\n∙Judging period: October 16—October 20\n∙Winner announcement: October 21\nPrizes\n1st prize: 1 winner — $1,000\n2nd prize: 1 winner — $700\n3rd prize: 2 winners — $500\nGuidelines\n∙There is no participation fee.\n∙The design must be in JPG format. (Maximum file size: 10MB)\n∙Each participant must submit one mascot design.\nAssessment Criteria\nCreativity 50% / Relevance to Theme 30% / Attractiveness 20%",
+      "question": "Under the Sea Mascot Contest에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": ["심사 기간은 9월 15일부터 10월 15일까지이다.", "2등은 두 명 선발된다.", "참가비가 있다.", "각 참가자는 마스코트 디자인을 두 개 이상 제출해야 한다.", "평가 기준에서 창의성이 가장 높은 비중을 차지한다."],
+      "answer": 5,
+      "points": 2,
+      "source": "2026학년도 대학수학능력시험 9월 모의평가"
+    }
+  ]
+}

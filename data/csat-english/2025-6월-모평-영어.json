@@ -1,0 +1,381 @@
+{
+  "exam": "2026학년도 6월 모의평가",
+  "subject": "영어",
+  "source": "한국교육과정평가원",
+  "questions": [
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "To Whom It May Concern,\nI recently visited the Lambsford History Foundation's exhibition about the Qukkon Gold Rush. The collection of pictures, tools, and historical documents made the gold miners arriving to Qukkon come to life. This reminded me of when I lived in Qukkon and worked in the mining industry. Because of this, I'm wondering if there are volunteer guide positions available for this exhibition. I can share my experiences working in the extreme cold of Qukkon. Again, I would be thankful if you could tell me about the availability of volunteer positions as a guide.\nSincerely,\nJonathan Hamilton",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "안내자로 자원봉사를 할 자리가 있는지 문의하려고",
+        "역사 박물관 근무 경력자 모집에 지원하려고",
+        "전시회를 위한 예술품 기부를 부탁하려고",
+        "채굴 도구 사용 설명서를 요청하려고",
+        "전시회의 주제를 소개하려고"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 19,
+      "type": "심경 변화",
+      "passage": "The shoreline was known for having the best fishing spots on the lake. Jessie was sitting at one of those spots, but her fishing line still hadn't moved an inch. With a deep sigh, Jessie pulled out the line and cast it back into the water. Her dream of catching a big fish was fading. \"I can't believe I haven't caught a fish yet. Not a single one,\" she thought. Just as she was about to give up and leave, the fishing line suddenly became tense. Jessie excitedly held onto the fishing pole as it began to move around wildly. Her eyes widened and her heart began to beat faster with excitement. With a big smile, she could feel that this was the biggest fish she had ever caught!",
+      "question": "다음 글에 드러난 Jessie의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "disappointed → thrilled",
+        "indifferent → discouraged",
+        "jealous → anxious",
+        "delighted → bored",
+        "relieved → pleased"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 20,
+      "type": "주장",
+      "passage": "Our ability to respond to danger has been important for survival, so feeling worried in uncertain situations is normal. Feelings of worry, which are activated in anticipation of future events, are often experienced in everyday situations. For example, we may feel nervous imagining unlikely events, such as a computer crashing during an important presentation. To some extent, thinking through potential scenarios can be helpful. When our worries exceed our control, however, they cause us unnecessary suffering. Consider how many times you have lost sleep thinking about a terrible situation, which, in the end, did not actually take place. If that situation actually occurred, it only goes to show that worrying about it did nothing to prevent it from happening. It is worth making a conscious effort, then, to stop worrying endlessly about events you may not experience.",
+      "question": "다음 글에서 필자가 주장하는 바로 가장 적절한 것은?",
+      "choices": [
+        "긴장감으로 인한 실수를 줄이기 위해 연습을 많이 해야 한다.",
+        "일어날 것 같지 않은 일에 대해 지나치게 걱정하지 말아야 한다.",
+        "목표를 수월하게 달성하려면 계획을 구체적으로 세워야 한다.",
+        "일의 과정을 즐기려면 결과에 대한 과도한 집착을 버려야 한다.",
+        "자신의 걱정이 무엇에서 비롯되었는지 면밀히 살펴봐야 한다."
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 21,
+      "type": "함축 의미",
+      "passage": "Basing your self-worth on climbing performance puts you at the whim of external factors. These factors may be random and misleading. Comparison is one source of illusion. Perhaps you felt that you performed well on a certain climb because your partner was having an off day and found the climbing very difficult. You found it only slightly difficult and conclude that you were climbing quite well, when in fact you were climbing no better than usual. Or, your partner was at the top of his game. You felt weak in comparison, when in fact, objectively, you put in a very strong performance. Environmental factors may be involved. Perhaps you mastered your day's objective due to especially favorable conditions, such as low humidity, when in fact, you really didn't climb particularly well. In all these cases, the good or bad feelings you have are not based on something you can take credit for. If the performances boost your self-worth, the boost is grounded in fiction.",
+      "question": "밑줄 친 the boost is grounded in fiction이 다음 글에서 의미하는 바로 가장 적절한 것은?",
+      "choices": [
+        "perceptions of self-growth vary from person to person",
+        "your self-confidence is an outcome of constant effort",
+        "the pride you take in your achievement is unreliable",
+        "performance comparison to partners is demotivating",
+        "ambitious goals help you improve performance"
+      ],
+      "answer": 3,
+      "points": 3
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Information and meaning are, clearly, not the same thing. The former refers to uninterpreted data or sensory states whose probability in a certain situation can be easily measured; the latter refers to the interpretation of the data or sensory states, including the special kinds of nuances and values that the information entails, or is intended to have, in the given situation. This applies to any type of information, from alarm signals to sophisticated statements. Take, for instance, a coin-tossing game in which it is decided that throwing three heads in a row constitutes a win. If a certain player ends up consistently with the desired outcome, defeating all who challenge that player, then we tend to interpret the outcome either as the work of Fortune, or else as clever and undetectable cheating on the part of the winning player. Interpretation is at the core of everything we do, think about, and feel.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "우리는 정보를 해석함으로써 의미를 만들어 낸다.",
+        "우리는 경험적 확률에 근거하여 미래를 예측한다.",
+        "정보의 양이 너무 많으면 정확한 분석이 어려워진다.",
+        "정보의 진위 여부를 판단할 때 출처 확인이 필수이다.",
+        "정보 해석에 개인의 감정이 개입되면 의미가 왜곡된다."
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 23,
+      "type": "주제",
+      "passage": "The purpose of class discussions is to encourage you to be an active participant, not a passive recorder. Much of the emphasis in a discussion is on getting students involved in thinking, reacting, and responding. These are important intellectual activities in the learning process, for through them you are supposed to discover and express your opinions. Writing is an invaluable tool for accomplishing these tasks. Unfortunately, too many times, when class discussion begins, pens and pencils go down. Admittedly, it is considerably more difficult to take notes from discussions than from lectures, for, unlike lectures, discussions tend to be disorganized and difficult to follow. Also, students usually don't know how much of what other students are saying is important. And if you are an active participant, it is not easy to take notes and formulate what you want to say. But note taking in discussions is not only manageable, it is also important. Note taking helps to keep you active and alert; it allows you to impose some organization on the discussion; and it can prepare you to speak.",
+      "question": "다음 글의 주제로 가장 적절한 것은?",
+      "choices": [
+        "reasons to standardize procedures for class discussions",
+        "strategies to improve note-taking skills for public speaking",
+        "significance of note taking for active engagement in discussion",
+        "effectiveness of summarizing and reviewing notes after class",
+        "benefits of brainstorming to generate ideas for writing tasks"
+      ],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 24,
+      "type": "제목",
+      "passage": "Food, as we all know, is essential for human life. It also is the basis for several major industries found in many countries around the world such as in agriculture, food processing, food retailing and food service. For millennia, the focus of those involved with food as a human and economic phenomenon was on its production, preservation, distribution, pricing and other practical concerns. But in the late 18th century this began to change. Food became more than just a life necessity. Restaurants began to be developed, initially in France but eventually in other nations, as a distinct institution offering people dining choices and table service, the opportunity for socialization and, over time, a finer and finer atmosphere. The rise of restaurants eventually led to a class of diners who prided themselves on being critics of taste, food and cooking. Brillat-Savarin is probably the best known of the 'culinary philosophers' or, in today's parlance, a 'foodie'. One of Brillat-Savarin's better known sayings was, '[t]ell me what you eat, and I'll tell you who you are.'",
+      "question": "다음 글의 제목으로 가장 적절한 것은?",
+      "choices": [
+        "Changing Appetites: The Return of Fine Dining",
+        "Beyond Mere Necessity: The Rise of Food Culture",
+        "Tips for Choosing Restaurants for Social Occasions",
+        "Why Table Manners Matter: Food and Class Identity",
+        "How Industrialization Is Taking Over Food Production"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 25,
+      "type": "도표",
+      "passage": "The graph above shows trends in adult participation in education and training in five OECD countries in 2016 and 2022. ① Among these countries, the percentage of adults in the Netherlands who participated in education and training was the highest in each year listed in the graph. ② In Germany, the percentage of adults who participated in education and training in 2022 was higher than that in 2016. ③ In 2022, the percentage of adults who participated in education and training was lower in Spain than in Germany. ④ In Italy, the percentage of adults who participated in education and training in 2016 was lower than that in 2022. ⑤ In each year listed, the percentage of adults in Greece who participated in education and training was less than 20%.",
+      "question": "다음 도표의 내용과 일치하지 않는 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 26,
+      "type": "내용 일치/불일치",
+      "passage": "Mary Budd Rowe was best known for her achievements in science education. When she was a middle school student, she met Albert Einstein and was inspired by him to study science. In 1954, she graduated from the University of California at Berkeley with a master's degree in zoology. Then she earned her doctorate degree in science education from Stanford University in 1964. Through her research, Rowe discovered that learning could be improved by increasing teachers' average \"wait time\" for students' responses. During her career, she directed a science education program in Harlem. She also served as President of the National Science Teachers Association. In 1990, she published her book, The Process of Knowing. Throughout her career, she practiced Einstein's advice, \"Science is exploring, and exploring is fun.\" When she died in 1996, she was remembered as one of the leading figures in the field of science education.",
+      "question": "Mary Budd Rowe에 관한 다음 글의 내용과 일치하지 않는 것은?",
+      "choices": [
+        "Albert Einstein을 만났을 때 중학생이었다.",
+        "1964년에 동물학으로 박사 학위를 받았다.",
+        "Harlem에서 과학 교육 프로그램을 감독했다.",
+        "1990년에 The Process of Knowing을 출판했다.",
+        "과학 교육 분야의 선도적인 인물로 기억되었다."
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 27,
+      "type": "안내문 일치/불일치",
+      "passage": "Hanok-inspired Cultural Product Contest\nExplore your creativity by designing practical products!\nTheme: The beauty of Hanok\nApplicants: Artists and social enterprises\nBenefit: Selected products will be sold in Hanok village souvenir shops.\nSchedule\nApplication June 10—15: Download the application form from our website and upload a completed one.\nProduct Submission July 14—18: Bring the product in person to our office and do not send it by post.\nSelection Announcement July 28: Check the results on our website.\n※ For more information, including selection methods, please visit our website, www.pre*serve*H.kr.",
+      "question": "Hanok-inspired Cultural Product Contest에 관한 다음 안내문의 내용과 일치하지 않는 것은?",
+      "choices": [
+        "주제는 한옥의 아름다움이다.",
+        "예술가와 사회적 기업이 응모할 수 있다.",
+        "선정된 작품은 한옥 마을 기념품점에서 판매될 것이다.",
+        "응모 신청서 양식은 웹사이트에서 다운로드해야 한다.",
+        "응모자는 작품을 우편으로 제출해야 한다."
+      ],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 28,
+      "type": "안내문 일치",
+      "passage": "2025 Science Gamification Challenge\nLearn science through games at Evernville Science Park!\nParticipants: Ages 8—13\nDate and Time: June 7, 9:00 a.m.—11:30 a.m.\nGuidelines\n∙ Download the game map from the website.\n∙ Start the first mission at the main gate.\n∙ Complete each mission using your knowledge of science.\n∙ Go back to the main gate after you complete all five missions.\nReservation: Online reservation is required.\nParticipation Fee: $20 (lunch not included)\nNote: Only the first participant who completes all five missions will receive a medal.\n※ For more information, please visit www.*s*gc*.com.",
+      "question": "2025 Science Gamification Challenge에 관한 다음 안내문의 내용과 일치하는 것은?",
+      "choices": [
+        "3시간 동안 진행된다.",
+        "첫 번째 미션을 정문에서 시작한다.",
+        "온라인으로 예약하지 않아도 된다.",
+        "참가비에 점심이 포함되어 있다.",
+        "모든 참가자는 메달을 받을 것이다."
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "Changes in the degree of closeness ① are quite important in managing emotional intensity. Take, for example, emotions induced by television. Closeness and familiarity are important in making the fictional environment more ② real. Accordingly, most TV shows are set in the present or in a time within the memory of the viewers. Most characters are supposed to be types with whom we are familiar. Such closeness and familiarity make it easier for us ③ perceive the imaginary story to be a real one. In other circumstances, such as when violence is shown on TV, the closeness variable is used to reduce emotional intensity. Television entertainment tends to place social problems involving violence in another time and place, letting us watch those fictionalized characters search for solutions to our problems in settings ④ safely distanced from our own. When violence occurs in a contemporary setting, it is generally the product of the interaction of police and criminals ― again, it is ⑤ removed from the lives of good citizenry.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 30,
+      "type": "어휘",
+      "passage": "Gaining an audience for your writing involves not just finding a voice but ensuring that voice resonates with your intended readers. Entrepreneurs understand the importance of building a brand that makes them memorable and distinct from their competitors, drawing customers to their products or services. They achieve this by ① pinpointing their target audience, crafting a unique value proposition, and shaping a recognizable identity. While scholars might initially find these entrepreneurial concepts ② alien, they actually engage in similar practices when they set themselves apart in their academic writing. Consider the typical literature review and motivation section of a scholarly article ― the aim is to highlight ③ gaps in existing research and position oneself as the one who will address these overlooked areas. The challenge, as Labaree suggests, is not just in developing innovative ideas but in ④ cultivating a distinctive voice that makes readers think, \"Ah, this sounds like [the author].\" It's about balancing the expression of your ideas with the development of a unique voice that leaves a ⑤ temporary impression on your audience.",
+      "question": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3
+    },
+    {
+      "number": 31,
+      "type": "빈칸 추론",
+      "passage": "The human psychology and education communities (as well as some animal researchers!) have been against referring to \"teaching\" when describing social learning in animals, mainly because teaching implies a level of ______ on the part of the model that is difficult to measure in animals. Nonetheless, there has been a movement within the animal cognition community to say that animals can, in fact, teach one another. For example, skilled ants engage in a behavior called tandem running, in which they touch their bodies to the body of a novice ant as they lay down chemical trails, presumably to assist the newcomer with route learning. Killer whales also repeat the same seal hunting technique in front of their offspring, sometimes without even killing the seal, leading researchers to ask why they would repeatedly catch and release a seal if they were not planning to eat it. Considering the amount of energy they'd have to expend, there would need to be a good reason, and that reason might be teaching.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "comfort",
+        "courage",
+        "frustration",
+        "inventiveness",
+        "intentionality"
+      ],
+      "answer": 5,
+      "points": 2
+    },
+    {
+      "number": 32,
+      "type": "빈칸 추론",
+      "passage": "Writers often give us the impression that they have described the faces of their characters, when in fact they have simply given you an outline to fill in. Of Esch, the most important character in Hermann Broch's masterpiece The Sleepwalkers, we learn only that he has big teeth. Even so, we don't feel as if his face is a dentate blankness. Most often, we mistake being told what effect someone's appearance has for an account of that appearance. The poet Mallarmé's advice ― Peindre non la chose, mais l'effet qu'elle produit ('Paint not the thing itself but the effect it produces') sounds like a self-denying ordinance. Actually it is a rather clever way out of an intractable problem. When, in one of his novels, Evelyn Waugh says of a new character, that 'he had just the kind of appearance one would expect a young man of his type to have' and nothing else, you still feel as if you ______.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "have been told exactly what he looks like",
+        "have become a member of his social group",
+        "already know what will happen to him in the story",
+        "have been given precise details about his behavior",
+        "recognize the core characteristics of his personality"
+      ],
+      "answer": 1,
+      "points": 3
+    },
+    {
+      "number": 33,
+      "type": "빈칸 추론",
+      "passage": "When we narrow, we're redirecting all of our computing power to the handful of processes that matter. It's as if to help with our slow Wi-Fi, we disconnect our phone and tablet, just so that our video conference call won't lag. Narrowing also helps with goal attainment. It cuts out all of the other distractions and places the most important goal front and center. When we home in, we increase motivational intensity, reinforcing that what's in front of us is what we should be after. For a brief moment, the trade-off can be worthwhile, but when we ______, we start to miss cues and signals. We get locked in on one path without being able to step back and see a better route. When we're stuck narrowed in for too long, accidents go up and performance drops. We miss hearing alarms that signal there's a problem elsewhere.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "get distracted by too many sources",
+        "rely too heavily on digital devices",
+        "randomly switch between tasks",
+        "remain zoomed in for too long",
+        "fail to control our feelings"
+      ],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 34,
+      "type": "빈칸 추론",
+      "passage": "One word is inextricably associated with geography: where. That is because geography starts from the premise that it matters where something takes place on Earth's surface. The key questions are not simply \"where\" questions, though; they are \"why there\" and \"so what\" questions. Getting to such questions means taking spatial arrangements, variations, and interconnections seriously. Engaging in even the simplest day-to-day activity requires some appreciation of spatial circumstances ― where to find food and services, how to get to work places, and the like. Moving up in scale, without some awareness of ______, it is difficult to make reasoned business or policy judgments, make sense of events, or grasp some of the basic forces shaping life on the planet. Locating a new store or public service requires taking into consideration population distributions, the location of roads and utilities, socio-economic patterns, and more. Understanding why and where migration happens requires consideration of the political organization of territory, the spatial consequences of discrimination, socio-economic patterns, and the layout of the physical environment.",
+      "question": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+      "choices": [
+        "why cross-cultural conflicts will increase",
+        "how phenomena are arranged on Earth's surface",
+        "when the Earth's natural resources will be exhausted",
+        "which places on Earth are damaged by climate change",
+        "who has the authority to make decisions about territories"
+      ],
+      "answer": 2,
+      "points": 3
+    },
+    {
+      "number": 35,
+      "type": "무관한 문장",
+      "passage": "A genuine glacier must be permanent. Generally, this implies that sufficient fresh snow must accumulate during the cold months to offset melting during the summer, although on a year-to-year basis, glaciers may expand or contract, depending on local and global climatic conditions. ① Today, most glaciers around the world are melting because of the warming climate, and it appears that the rate of melting is accelerating. ② This has been documented spectacularly in places such as the Alps, where historical records have been kept and dated sketches and photographs are available to compare with the present extent of ice. ③ Even over periods as short as a few decades, satellite images show that dramatic reduction of mountain glaciers has occurred in the Andes, the Himalayas, and elsewhere. ④ The various rocks and minerals contained in glaciers have become a popular subject of science projects in schools. ⑤ It is estimated that many small mountain glaciers will disappear completely within ten to twenty years unless there is a sudden and unexpected change in the present warming trend.",
+      "question": "다음 글에서 전체 흐름과 관계 없는 문장은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 36,
+      "type": "순서 배열",
+      "passage": "If we take an evolutionary look at our beginnings, we see a life in which high levels of physical activity were required for survival.\n\n(A) There are fewer manual jobs, we do not need to travel on foot, we do not need to hunt and harvest for our food, and many domestic chores have been mechanized. While these changes have created many benefits for our longevity and quality of life, they have also created many problems.\n\n(B) Lack of sufficient physical activity has now been linked to at least 17 unhealthy conditions, almost all of which are chronic diseases or considered risk factors for chronic diseases. Adrianne Hardman has summarized this serious situation for public health: \"Physical inactivity is a waste of human potential for health and well-being.\"\n\n(C) Even one century ago, most people needed to be physically active to work, to travel, and to take care of homes and families. Our modern world has engineered such activity out of our lives.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": [
+        "(A)-(C)-(B)",
+        "(B)-(A)-(C)",
+        "(B)-(C)-(A)",
+        "(C)-(A)-(B)",
+        "(C)-(B)-(A)"
+      ],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 37,
+      "type": "순서 배열",
+      "passage": "A good example of chaos is the magnetic pendulum sold as an executive toy. It has four magnets arranged in a square at the base and a pendulum that swings back and forth between them.\n\n(A) In order to produce chaos, the iteration has to be within what is called a nonlinear system. Nor are all nonlinear systems chaotic: to become so they need to be pushed beyond a certain point, called a bifurcation. Before that point is reached they may behave in a quite orderly fashion.\n\n(B) Release the pendulum and note the magnets that it visits, and in what order. If the pendulum is released from the same position a second time, the pattern of movement may at first be the same but soon it will become completely different. In fact, the pattern of its movement is chaotic.\n\n(C) No matter how much care is taken to start the pendulum in the same position, it will visit an entirely different set of points on the two occasions. Chaotic systems are generated by iteration, though not all iteration leads to chaos.",
+      "question": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+      "choices": [
+        "(A)-(C)-(B)",
+        "(B)-(A)-(C)",
+        "(B)-(C)-(A)",
+        "(C)-(A)-(B)",
+        "(C)-(B)-(A)"
+      ],
+      "answer": 3,
+      "points": 3
+    },
+    {
+      "number": 38,
+      "type": "문장 삽입",
+      "insertSentence": "But cute and beautiful designs also have downsides.",
+      "passage": "Research finds that people show a strong visceral interest in and desire to approach and own cute-looking and beautiful (elegant) designs. ( ① ) However, cute and beautiful designs elicit two very different motivations. ( ② ) A cute product or package design elicits a nurturing motivation ― a desire to take care of and keep the product, to hold it dear to our hearts and never let it go. ( ③ ) The beautiful product or package design elicits a self-expressive, or signaling, motivation ― a desire to express oneself to others through product ownership. ( ④ ) Certain types of cute products can be associated with a lack of sophistication or seriousness, which can reduce performance expectations (lowering perceived enablement benefits). ( ⑤ ) Beautiful-looking designs may not attract attention over time because people become desensitized to them.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 4,
+      "points": 2
+    },
+    {
+      "number": 39,
+      "type": "문장 삽입",
+      "insertSentence": "They might be sitting still as they imagine all of this walking back and forth along their path; but they are reliving, at least in their imagination, the movement of their feet.",
+      "passage": "Researchers are studying how our everyday physical experiences in the world contribute to our understanding of mathematical concepts. ( ① ) The experience of walking along a path, for example, can be a metaphor for thinking about arithmetic. ( ② ) The path starts at some point 0 and as children walk along, every step takes them 1 unit further from the starting point; they can even take half steps or skip along two steps at a time. ( ③ ) If they want to imagine what it might mean to add 5 and 9, they could think of first walking 9 steps and then walking 5 more. ( ④ ) But that also helps them think about what 14－3 might mean because they can imagine walking backwards. ( ⑤ ) If they close their eyes, they might even imagine the shape of the path, the smell of the trees, and the sound that is made when they step on the dried leaves.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3
+    },
+    {
+      "number": 40,
+      "type": "요약문",
+      "passage": "A serious deterioration in people's working lives would be deeply disturbing to the social order. Indeed, few consequences of technological change would be as dangerous. Today, the world of work is the main way that we share out the fruits of growth: for most people, their job is their main, if not their only, source of income. Technological unemployment would weaken that longstanding arrangement, encouraging an even more extreme version of inequality in which some people receive more income than others and many receive nothing at all. Nor would the disturbance be only economic. For many people, their work is both a source of income and of meaning. And with that in mind, the threat is even broader: not only that the labor market might be hollowed out, leaving some unable to find a good job and a reliable income, but that this sense of fulfilment that some people are fortunate to feel in their jobs might be hollowed out as well, leaving them unable to find purpose and live a satisfying life.",
+      "question": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nBy creating unemployment, technology would upset the social order, affecting the (A) of wealth and possibly eliminating the emotional (B) that some discover in work.",
+      "choices": [
+        "(A) distribution — (B) emptiness",
+        "(A) distribution — (B) rewards",
+        "(A) concentration — (B) conflicts",
+        "(A) investment — (B) challenges",
+        "(A) investment — (B) growth"
+      ],
+      "answer": 2,
+      "points": 2
+    },
+    {
+      "number": 41,
+      "type": "장문 - 제목",
+      "passage": "In technological design, an aspiration towards seamlessness aims to make the technological experience for humans blend seamlessly into our everyday lives. Essentially, this aspiration aims towards experiences where people are no longer (a) aware of the technology, the interface or the differences between human-technology and human-human interaction. Considering the metaphor of seams in clothing, we can say that we aspire to seamless aesthetics by stitching the seams closely, pressing them flat and making sure they are (b) hidden on the inside so that we wear clothing rather than pieces of fabric. When designers and engineers talk about technological seamlessness, they are often referring to ease of use and convenience. For example, in interface design, an aspiration towards seamlessness (c) ensures the experience for the user flows and is not stressful or irritating. Most of us would have had experiences of (d) poor interface designs or apps in workplaces that make things more complicated and irritating, and have longed for more seamless interfaces. Technological seamlessness can also include less visible screens in new technologies, or virtual reality technologies with a seamless technological design. The aim is to immerse the user experience such that the visual interaction might be described as inside the screen rather than a body interacting with a digital console or object as separate entities. Similarly, seamlessness in humanoid robotic design aims to make humanoids (e) distinguishable from a human body.",
+      "question": "윗글의 제목으로 가장 적절한 것은?",
+      "choices": [
+        "Blending In: When Tech Stops Feeling Like Tech",
+        "Digital Interfaces Are Becoming Too Complicated!",
+        "Out-of-body Experience: A History of Virtual Reality",
+        "How Software Designs Affect Work Productivity",
+        "Wearable Technology in Contemporary Fashion"
+      ],
+      "answer": 1,
+      "points": 2
+    },
+    {
+      "number": 42,
+      "type": "장문 - 어휘",
+      "passage": "(41번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 5,
+      "points": 3
+    },
+    {
+      "number": 43,
+      "type": "장문 - 순서",
+      "passage": "(A)\n\"Hi! I'm over here!\" shouted Laura, waving brightly at Cathy at the entrance of Darlingdale Farmer's Market. Seeing her friend, Cathy rushed over in delight. Cathy had recently moved into Laura's town, and this was going to be (a) her first experience at a real farmer's market. Born and raised in a big city, where large supermarkets were more common, Cathy had never had a chance to buy freshly-picked fruits or vegetables.\n\n(B)\nCarrying the bags of peaches, Cathy came back and noticed Laura holding a box of blueberries and jars of jam. \"Cathy, those peaches look delicious! I bought some blueberries. Would you like to go to my place and make blueberry pancakes together?\" Laura asked. \"Yes, that's an excellent idea!\" replied Cathy happily. As they walked out of the market, Cathy thanked her friend for the special experience, saying \"(b) I really love this place! Thank you for the wonderful day.\"\n\n(C)\nEntering the market, Laura said, \"Let me show you around. Are you ready?\" Cathy answered excitedly, \"Absolutely! I'm going to buy some fresh peaches!\" The market was already crowded with people of all ages. \"Cathy, you can taste the best of the season here,\" said Laura. Cathy smiled and began to look around. Meanwhile, Laura found some strawberry jam for sale. She walked over to buy some. Curious to explore more, Cathy said, \"While (c) you're buying jam, I'll look around the market and get some peaches.\"\n\n(D)\nWandering away from Laura, Cathy began to search for peaches. Cathy walked past booths of fresh flowers and hand-made soaps, which smelled heavenly. From a fruit stand, (d) she picked out some beautiful, ripe peaches. The fruit seller told her, \"Those peaches are a great choice because they're only here until this week. If you miss them now, (e) you'll have to wait another year for the season.\" Hearing that, Cathy said, \"Oh, I'll get some more then! They're really cheap!\" She bought two bags of peaches.",
+      "question": "주어진 글 (A)에 이어질 내용을 순서에 맞게 배열한 것으로 가장 적절한 것은?",
+      "choices": [
+        "(B)-(D)-(C)",
+        "(C)-(B)-(D)",
+        "(C)-(D)-(B)",
+        "(D)-(B)-(C)",
+        "(D)-(C)-(B)"
+      ],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 44,
+      "type": "장문 - 지칭",
+      "passage": "(43번과 동일 지문)",
+      "question": "밑줄 친 (a)~(e) 중에서 가리키는 대상이 나머지 넷과 다른 것은?",
+      "choices": ["(a)", "(b)", "(c)", "(d)", "(e)"],
+      "answer": 3,
+      "points": 2
+    },
+    {
+      "number": 45,
+      "type": "장문 - 내용 일치",
+      "passage": "(43번과 동일 지문)",
+      "question": "윗글에 관한 내용으로 적절하지 않은 것은?",
+      "choices": [
+        "Cathy는 대도시에서 태어나고 성장했다.",
+        "Laura와 Cathy는 블루베리 팬케이크를 만들기로 했다.",
+        "시장은 다양한 나이의 사람들로 붐볐다.",
+        "Laura는 판매 중인 딸기 잼을 발견했다.",
+        "Cathy는 복숭아 가격이 비싸다고 생각했다."
+      ],
+      "answer": 5,
+      "points": 2
+    }
+  ]
+}

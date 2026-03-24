@@ -1,0 +1,995 @@
+{
+  "type": "문장 삽입",
+  "typeNumber": 38,
+  "version": "v2",
+  "totalCount": 25,
+  "difficulty_distribution": {
+    "easy": 8,
+    "standard": 12,
+    "challenging": 5
+  },
+  "answer_distribution": {
+    "1": 5,
+    "2": 5,
+    "3": 5,
+    "4": 5,
+    "5": 5
+  },
+  "questions": [
+    {
+      "id": "v2-38-01",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "easy",
+      "topic": "urban noise pollution and cognitive performance",
+      "insertSentence": "Yet noise is not merely an environmental inconvenience; a growing body of research documents its capacity to impair concentration, disrupt memory consolidation, and reduce reading comprehension in both children and adults.",
+      "passage": "Urban environments have grown steadily louder over the past century as traffic, construction, and dense populations have expanded. ( ① ) These cognitive costs are compounded by the chronic sleep disruption that high nighttime noise levels produce, since sleep is itself essential to the memory consolidation that noise directly impairs. ( ② ) City dwellers in the noisiest districts tend to report significantly lower subjective well-being than those in quieter areas, even after controlling for income and housing quality. ( ③ ) Children attending schools near busy roads have been found to score lower on standardised tests of reading and mathematics than peers in quieter schools. ( ④ ) These findings have prompted several European cities to introduce low-emission zones, acoustic barriers along major roads, and strict limits on nighttime construction. ( ⑤ ) The recognition that noise constitutes a public health hazard, not merely a nuisance, has gradually reshaped the priorities of urban planning authorities.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "①이 정답이다. 첫 문장은 도시가 점점 시끄러워졌다는 사실만 제시한다. 삽입 문장은 'Yet'으로 역접하여 '소음은 단순한 불편이 아니라 집중력·기억 응고·독해력을 손상시킨다'는 인지적 피해를 소개한다. ① 뒤 문장은 \"These cognitive costs are compounded by chronic sleep disruption\"으로 시작하는데, 'These cognitive costs'는 삽입 문장에서 열거된 인지 피해(집중력·기억·독해)를 직접 가리킨다. 삽입 문장이 없으면 'These'의 지시 대상이 없어 문맥이 끊긴다.",
+        "wrong": [
+          "②는 오답이다. ② 앞에 이미 'These cognitive costs'가 등장하여 인지 피해가 확립된 상태다. 여기에 삽입 문장을 넣으면 지시어(These)가 자신의 선행사 뒤에 오는 모순이 발생한다.",
+          "③은 오답이다. ③ 앞뒤는 주민 삶의 질(well-being) 효과를 다루고 있어, 여기서 인지 연구 주장을 재도입하면 주제 흐름이 끊긴다.",
+          "④는 오답이다. ④ 앞뒤는 학교 근처 도로 소음과 학업 성적이라는 구체적 증거를 제시한다. 일반적 주장이 그 증거 뒤에 오면 논리 순서가 역전된다.",
+          "⑤는 오답이다. ⑤ 뒤는 도시 계획 당국의 인식 변화를 다루는 결론부다. 도입부 성격의 연구 주장이 결론에 오는 것은 구조상 맞지 않는다."
+        ],
+        "key_point": "삽입 문장의 'Yet'과 ① 뒤 'These cognitive costs'의 지시 관계가 핵심 단서다. 인지 비용 목록(집중력·기억·독해)을 삽입 문장이 제공해야 'These'가 가리킬 대상이 생긴다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The opening sentence establishes that cities have grown louder. The inserted sentence uses 'Yet' to immediately introduce the counter-intuitive depth of the problem: noise is not merely inconvenient but cognitively harmful. After ①, the passage says 'These cognitive costs are compounded by chronic sleep disruption' — 'These cognitive costs' refers directly to the concentration, memory, and reading comprehension harms named in the inserted sentence. The demonstrative 'These' would be dangling without the inserted sentence preceding it.",
+        "position_elimination": {
+          "②": "'These cognitive costs' has already been established; inserting the general research claim after its own referent is redundant.",
+          "③": "Well-being effects are being discussed; reintroducing the cognitive research claim here disrupts the thematic flow.",
+          "④": "Children's test scores are specific evidence of the cognitive harm; the general claim cannot follow its supporting evidence.",
+          "⑤": "Policy responses and planning shifts conclude the passage; the foundational research claim belongs at the opening."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-02",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "easy",
+      "topic": "sleep deprivation and decision-making",
+      "insertSentence": "Indeed, even a single night of reduced sleep has been shown to increase impulsivity and risk-seeking behaviour in ways that parallel, at a neurological level, the effects of moderate alcohol intoxication.",
+      "passage": "The relationship between sleep and rational decision-making has attracted increasing attention from researchers in neuroscience and behavioural economics. ( ① ) Functional imaging studies show that sleep-deprived individuals exhibit reduced activity in the prefrontal cortex — the region responsible for impulse control and evaluation of long-term consequences — and heightened reactivity in the amygdala, which drives emotional and reward-oriented responses. ( ② ) This prefrontal-amygdala imbalance explains why sleep-deprived people tend to favour immediate rewards over larger delayed ones and to underestimate the probability of negative outcomes. ( ③ ) Studies using simulated financial trading tasks have confirmed that sleep-deprived participants accumulate significantly greater losses than rested counterparts, not because they lack knowledge of the rules, but because they cannot inhibit impulsive trades. ( ④ ) Similar impairments appear in medical and military contexts, where extended-shift workers show elevated error rates that correlate with lost sleep hours. ( ⑤ ) These findings collectively suggest that treating adequate sleep as a productivity trade-off, as many professional cultures implicitly do, carries real and measurable costs to the quality of human judgement.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "①이 정답이다. 도입부는 수면과 합리적 의사결정의 관계가 주목받고 있다고 소개한다. 삽입 문장은 'Indeed'로 이를 강조하며 '단 하루 밤 수면 부족도 충동성과 위험 추구 행동을 알코올 중독과 유사한 수준으로 높인다'는 구체적 발견을 제시한다. ① 뒤 문장은 전전두엽-편도체 불균형이라는 신경학적 메커니즘을 설명하는데, 이는 삽입 문장의 충동성 주장에 대한 뇌 수준의 설명이다. 삽입 문장 없이는 '연구 관심 증가'에서 '뇌영상 연구' 로 넘어가는 연결이 부자연스럽다.",
+        "wrong": [
+          "②는 오답이다. ② 앞에 이미 전전두엽-편도체 불균형이라는 신경학적 설명이 제시되었다. 여기에 삽입 문장을 넣으면 메커니즘을 설명한 뒤에 그 원인 행동을 소개하는 역순이 된다.",
+          "③은 오답이다. ③ 앞뒤는 즉각적 보상 선호라는 결과를 설명하고 있다. 삽입 문장의 충동성 일반 주장은 그 결과의 설명이 이미 나온 뒤라 중복이 된다.",
+          "④는 오답이다. 금융 거래 과제 실험 결과라는 구체적 수치가 제시된 뒤에 '알코올 비유'라는 일반 주장을 넣으면 구체-일반 순서가 역전된다.",
+          "⑤는 오답이다. ⑤ 뒤는 수면을 희생하는 문화에 대한 최종 결론이다. 도입부 역할의 경험적 발견을 결론 뒤에 배치하면 논증 구조가 무너진다."
+        ],
+        "key_point": "삽입 문장의 'Indeed'와 ① 뒤 기능적 뇌영상 설명의 연결이 핵심이다. 삽입 문장이 충동성 행동 패턴을 먼저 제시해야 그 신경학적 메커니즘(전전두엽-편도체 불균형) 설명이 의미 있어진다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The opening sentence introduces sleep and rational decision-making as a research topic. The inserted sentence uses 'Indeed' to affirm this connection with a striking empirical finding: one night of reduced sleep increases impulsivity and risk-seeking similarly to alcohol intoxication. After ①, functional imaging studies describe the prefrontal-amygdala imbalance that explains this impulsivity — directly elaborating the neurological mechanism behind the 'alcohol-like' impulsivity claim in the inserted sentence. Without the inserted sentence, the transition from 'increasing research attention' to 'functional imaging shows reduced prefrontal activity' lacks the specific behavioural claim that the imaging is meant to explain.",
+        "position_elimination": {
+          "②": "The neurological explanation (prefrontal-amygdala imbalance) has already been given; inserting the general behavioural finding here reverses mechanism-before-consequence order.",
+          "③": "The consequence (favouring immediate rewards) has been explained; the inserted sentence's impulsivity claim is redundant.",
+          "④": "Trading task results already quantify the impulsivity; the inserted sentence's general alcohol-comparison claim sits awkwardly after specific data.",
+          "⑤": "The conclusion is drawn; reintroducing a foundational empirical finding disrupts the closing argument."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-03",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "easy",
+      "topic": "social media comparison and well-being",
+      "insertSentence": "This tendency to measure oneself against others is not new, but digital platforms have amplified it to an unprecedented scale by making curated highlight reels of strangers' lives continuously accessible.",
+      "passage": "Psychologists have long recognised that humans engage in social comparison as a way of evaluating their own abilities, achievements, and circumstances. ( ① ) We look to others to gauge whether our performance is adequate, whether our possessions are appropriate, and whether our experiences are sufficiently enjoyable. ( ② ) The problem arises when the reference group consists disproportionately of individuals who appear to be thriving. ( ③ ) A person scrolling through a feed populated with images of exotic holidays, career milestones, and apparently effortless fitness transformations is not comparing themselves with a representative sample of humanity. ( ④ ) They are comparing themselves with the most flattering self-presentations of their most active contacts, a comparison that is structurally biased against the viewer. ( ⑤ ) Research linking heavy platform use to depressive symptoms and reduced life satisfaction reflects, in part, this systematic distortion of the social mirror.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "②가 정답이다. ② 앞 문장까지 타인과의 비교를 통해 수행 능력·소유물·경험을 평가한다는 사회적 비교의 세부 내용이 완전히 제시된다. 삽입 문장은 'This tendency'로 이를 받아 '디지털 플랫폼이 전례 없는 규모로 이를 증폭시켰다'고 전환점을 만든다. ② 뒤 문장은 \"The problem arises when the reference group consists disproportionately of thriving individuals\"로 시작하는데, 이 '문제'는 삽입 문장이 도입한 '정선된 하이라이트 릴'로 인해 생겨난 것이다. 삽입 문장 없이는 '문제'의 맥락이 불분명해진다.",
+        "wrong": [
+          "①은 오답이다. 'This tendency'가 가리키는 수행 능력·소유물·경험 평가의 세부 내용이 아직 완전히 서술되지 않아 'This'의 지시 대상이 불충분하다.",
+          "③은 오답이다. ③ 앞에 이미 왜곡된 참조 집단 문제가 제시되어 있다. 디지털 증폭 주장을 문제 제시 이후에 넣으면 원인이 결과 뒤에 오는 역순이 된다.",
+          "④는 오답이다. ④ 앞뒤는 인스타그램 피드의 구체적 내용(여행·경력·몸매)을 묘사한다. 일반적 증폭 주장을 구체적 사례 뒤에 배치하면 구조가 역전된다.",
+          "⑤는 오답이다. ⑤ 뒤는 우울증 증상 연구라는 결과로 마무리된다. 디지털 플랫폼 도입이라는 맥락 구축 역할의 문장이 결론 뒤에 오면 흐름이 무너진다."
+        ],
+        "key_point": "삽입 문장 'This tendency'가 앞의 사회적 비교 전체를 받는 것과, 뒤의 'The problem'이 삽입 문장의 디지털 증폭을 원인으로 삼는 것이 핵심 연결고리다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ②, the passage fully establishes the evaluative details of social comparison: gauging performance, possessions, and enjoyment. The inserted sentence uses 'This tendency' to refer to the complete social comparison account and makes the key pivot — digital platforms have amplified it. After ②, the passage begins 'The problem arises when the reference group consists disproportionately of thriving individuals' — the very problem created by the curated highlight reels introduced in the inserted sentence. Without the inserted sentence, 'The problem' appears without the digital amplification context that makes it newly urgent.",
+        "position_elimination": {
+          "①": "'This tendency' refers to the detailed evaluative acts (performance, possessions, experiences); they have not yet been fully described.",
+          "③": "The problem of skewed reference groups is already named; the digital amplification claim comes too late.",
+          "④": "Specific feed content is being described; inserting the general amplification claim after a concrete example reverses the structure.",
+          "⑤": "Research outcomes conclude the passage; the contextual bridge to digital platforms belongs in the middle."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-04",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "easy",
+      "topic": "placebo effect and the therapeutic relationship",
+      "insertSentence": "However, subsequent research revealed that the benefit was not contingent on the chemical properties of the treatment but on the patient's belief that they were receiving effective care.",
+      "passage": "For much of the nineteenth century, physicians administered treatments whose physiological mechanisms were poorly understood, yet many patients reported genuine improvements in their conditions. ( ① ) These improvements were initially attributed to the active ingredients in whatever remedy had been prescribed. ( ② ) This insight fundamentally altered how researchers designed clinical trials, leading to the adoption of placebo-controlled studies in which neither patients nor clinicians know who is receiving the active treatment. ( ③ ) The placebo effect has since been observed across a remarkably wide range of conditions, from chronic pain and irritable bowel syndrome to anxiety and Parkinson's disease. ( ④ ) Researchers have even documented cases of open-label placebos — where patients are told explicitly that they are taking an inert pill — still producing measurable therapeutic effects. ( ⑤ ) Such findings suggest that the act of receiving care, the ritual of treatment itself, may activate biological pathways that promote healing independently of any specific drug.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "②가 정답이다. ② 앞 문장은 '개선 효과가 처방된 치료제의 활성 성분 덕분이라고 여겨졌다'고 서술한다. 삽입 문장은 'However'로 이를 반박하며 '효과는 화학적 성질이 아니라 환자의 믿음에 달려 있었다'고 밝힌다. ② 뒤 문장은 \"This insight fundamentally altered how researchers designed clinical trials\"로 시작하는데, 'This insight'는 삽입 문장의 '믿음이 핵심' 발견을 직접 가리킨다. 삽입 문장 없이는 'This insight'의 선행사가 없어 문맥이 단절된다.",
+        "wrong": [
+          "①은 오답이다. ① 앞 문장에서는 아직 '활성 성분 덕분'이라는 초기 귀인이 언급되지 않아 삽입 문장의 'However'가 대비할 내용이 없다.",
+          "③은 오답이다. ③ 앞에 이미 믿음 관련 통찰이 명명되고 임상시험 설계에 적용된 상태다. 여기에 그 통찰을 다시 도입하면 중복이 된다.",
+          "④는 오답이다. ④ 앞뒤는 플라시보 효과가 나타나는 다양한 질환을 열거하고 있다. 화학 대 믿음의 대비를 이 열거 가운데 삽입하면 주제 흐름이 끊긴다.",
+          "⑤는 오답이다. ⑤ 뒤는 치유 의식의 생물학적 경로라는 결론을 제시한다. 플라시보의 근본 발견을 결론 뒤에 놓으면 논증 순서가 역전된다."
+        ],
+        "key_point": "삽입 문장의 'However'(활성 성분 귀인에 대한 역접)와 뒤따르는 'This insight'(삽입 문장의 믿음-효과 발견을 지시)가 정답의 핵심 단서다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ②, the passage states that improvements were initially attributed to active ingredients (sentence before ②). The inserted sentence uses 'However' to counter this attribution — the benefit depended on belief, not chemistry. After ②, 'This insight' refers directly to the belief-over-chemistry revelation in the inserted sentence, explaining how it transformed clinical trial design toward placebo controls. Without the inserted sentence, 'This insight' has no antecedent.",
+        "position_elimination": {
+          "①": "The initial attributions to active ingredients have not yet been stated; 'However' has no contrast to introduce.",
+          "③": "The insight about belief has already been named and applied to clinical trial design; re-introducing it here is redundant.",
+          "④": "Conditions where placebo works are being listed; the chemical vs. belief contrast interrupts this enumeration.",
+          "⑤": "The concluding implication about healing rituals ends the passage; inserting the foundational discovery here reverses argument order."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-05",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "easy",
+      "topic": "unstructured play and child development",
+      "insertSentence": "This decline concerns developmental researchers because free, child-directed play is not simply recreational; it appears to be the primary context in which young children practise and consolidate the executive functions on which later learning depends.",
+      "passage": "The share of children's time devoted to unstructured, self-initiated play has fallen sharply in many countries over the past four decades. ( ① ) Academic preparation has been pushed to ever-younger ages, supervised extracurricular activities have expanded to fill after-school hours, and screen-based entertainment has displaced outdoor play in leisure time. ( ② ) Executive functions — including impulse control, working memory, and cognitive flexibility — are considered foundational to academic achievement, social adjustment, and long-term well-being. ( ③ ) These capacities cannot be efficiently drilled through worksheets or direct instruction; they emerge from the kind of open-ended, socially negotiated experience that unstructured play provides. ( ④ ) Longitudinal studies tracking children from preschool through adolescence consistently find that those who engaged in more free play during early childhood demonstrate stronger self-regulation skills years later, even after controlling for socioeconomic background. ( ⑤ ) These results have prompted calls for policy changes that protect time for unstructured play in early childhood education curricula.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "①이 정답이다. 도입부는 비구조적·자유 놀이 시간이 급감했다고 밝힌다. 삽입 문장은 'This decline'으로 이 급감을 직접 받으며 '이 감소가 연구자들을 우려하게 하는 이유는 자유 놀이가 실행 기능 발달의 핵심 맥락이기 때문'이라고 설명한다. ① 뒤 문장들은 이 감소를 일으킨 구체적 원인(학업 조기화·방과후 활동·스크린)을 나열하는데, 이는 삽입 문장이 명명한 '감소'의 메커니즘이다. 삽입 문장 없이는 '감소 선언'에서 '감소 원인 나열'로 넘어가며 왜 이것이 문제인지에 대한 설명이 빠진다.",
+        "wrong": [
+          "②는 오답이다. ② 위치에서는 감소의 원인이 나열되는 중이다. 삽입 문장의 '이 감소가 우려스럽다'는 진술이 원인 열거 사이에 끼어들면 흐름이 단절된다.",
+          "③은 오답이다. ③ 앞에서 실행 기능 자체가 소개되기 시작한다. 자유 놀이가 실행 기능을 발달시킨다는 삽입 문장의 논거가 그 소개 도중에 나오면 순서가 어색하다.",
+          "④는 오답이다. ④ 앞에는 이미 놀이와 실행 기능의 연관 메커니즘이 확립되어 있다. 일반적인 우려 진술이 구체적 메커니즘 뒤에 오면 논리 순서가 역전된다.",
+          "⑤는 오답이다. ⑤ 앞뒤는 종단 연구 결과와 정책 제언이라는 마무리 부분이다. 도입부 역할의 우려 진술이 결론 뒤에 오면 전체 구조가 무너진다."
+        ],
+        "key_point": "삽입 문장의 'This decline'이 도입부 감소를 받고, ① 뒤에서 그 감소의 원인이 나열되는 구조다. 삽입 문장이 '왜 감소가 문제인가'를 먼저 설명해야 뒤따르는 원인 나열이 의미 있어진다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The opening sentence states that time for unstructured play has fallen sharply. The inserted sentence uses 'This decline' to refer directly to this fall and immediately explains why researchers are concerned — play is the primary context for executive function development. After ①, the passage lists the specific forces driving the decline (academic preparation, extracurriculars, screen time), which explains the mechanistic reasons behind the 'decline' that the inserted sentence has already named. Without the inserted sentence, the passage would jump from announcing a decline to explaining its causes without first establishing why the decline matters.",
+        "position_elimination": {
+          "②": "The causes of the decline are being listed; 'This decline' still could refer back, but the concern about executive functions has not yet been established at this point, making the inserted sentence's content premature rather than pivotal.",
+          "③": "Executive functions are being introduced; the inserted sentence's argument that play develops them comes too late.",
+          "④": "The link between play and executive functions has already been established; inserting the general concern statement after the specific mechanism reverses the logical order.",
+          "⑤": "The longitudinal evidence and policy calls conclude the passage; the introductory concern statement belongs at the beginning of the argument."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-06",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "easy",
+      "topic": "architectural acoustics and concert hall design",
+      "insertSentence": "As a result, the shape, volume, and surface materials of a performance space became subjects of rigorous scientific calculation rather than intuitive craft.",
+      "passage": "For most of human history, the acoustic properties of buildings were shaped by tradition, local materials, and the accumulated experience of builders. ( ① ) Cathedrals produced long reverberation times suited to sacred music, while Greek amphitheatres achieved remarkable sound distribution through careful geometric arrangement of seating. ( ② ) These achievements were impressive but untheorised; builders could not predict acoustic performance before construction began. ( ③ ) The turning point came when the physicist Wallace Clement Sabine developed the first mathematical formula for reverberation time, making it possible to calculate the acoustic behaviour of a space from its dimensions and the sound-absorbing properties of its surfaces. ( ④ ) Concert halls designed using Sabine's methods demonstrated a degree of acoustic precision that older empirical approaches could not match, validating the new predictive framework. ( ⑤ ) Today, computational acoustic modelling allows designers to simulate and optimise a building's sound environment before a single stone is laid.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④가 정답이다. ④ 앞 문장은 Sabine이 최초로 잔향 시간 수학 공식을 개발하여 공간 음향을 치수와 흡음 특성으로 계산할 수 있게 됐다고 서술한다. 삽입 문장은 'As a result'로 이 공식의 직접적 결과를 제시한다: 공연 공간의 형태·부피·소재가 직관적 기술이 아닌 과학적 계산의 대상이 됐다는 것이다. ④ 뒤 문장은 Sabine 방식으로 설계된 콘서트홀이 경험적 접근보다 우수한 정밀도를 보였다고 검증 결과를 제시한다. 인과 사슬: Sabine 공식(원인) → 설계의 과학화(삽입) → 홀 정밀도로 검증(증거).",
+        "wrong": [
+          "①은 오답이다. 아직 공식이나 과학적 돌파구가 소개되지 않아 'As a result'가 가리킬 원인이 없다.",
+          "②는 오답이다. 역사적 전통과 이론 없는 인상적 성취를 묘사하는 단계로, 과학적 결과가 아직 존재하지 않는다.",
+          "③은 오답이다. 건축가들이 시공 전 음향 성능을 예측할 수 없었다는 한계를 지적하는 시점이다. 과학적 전환은 아직 일어나지 않았다.",
+          "⑤는 오답이다. ⑤ 뒤는 현대의 컴퓨터 음향 모델링을 소개하는 마무리 부분이다. Sabine 시대의 전환을 여기 삽입하면 시간순 흐름이 깨진다."
+        ],
+        "key_point": "'As a result'는 바로 앞 Sabine 공식 개발을 원인으로 받는다. 삽입 문장 뒤의 '정밀도 검증'이 과학적 계산 도입의 성공을 확인하는 증거 역할을 한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ④, the passage introduces Sabine's formula as the turning point — making acoustic calculation from dimensions and surface properties possible (sentence before ④). The inserted sentence uses 'As a result' to draw the direct consequence of this formula: performance space design became scientific calculation rather than craft. After ④, the passage gives the empirical validation — concert halls designed with Sabine's methods demonstrating superior precision — which confirms that the shift to scientific calculation was successful. The causal chain is: Sabine's formula (cause) → design becomes scientific calculation (inserted, consequence) → validated by hall precision (evidence).",
+        "position_elimination": {
+          "①": "No formula or scientific breakthrough has been introduced; 'As a result' has no cause.",
+          "②": "Historical tradition and impressive-but-untheorised achievements are being described; no scientific result exists yet.",
+          "③": "Builders' inability to predict is being stated; the scientific shift has not yet occurred.",
+          "⑤": "The passage is describing modern computational modelling; inserting the Sabine-era shift statement here disrupts the chronological progression."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-07",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "easy",
+      "topic": "colour in marketing and consumer perception",
+      "insertSentence": "These associations, however, are not universal; they are culturally learned and can differ substantially between societies, presenting significant challenges for global brands.",
+      "passage": "Colour is among the most powerful tools available to marketers, capable of triggering emotional and behavioural responses before a consumer has consciously processed any other aspect of a product. ( ① ) Research suggests that up to ninety percent of snap judgements about products can be based on colour alone. ( ② ) Within Western consumer markets, certain colour-meaning associations have become stable enough to constitute reliable marketing conventions: red signals urgency and appetite stimulation, blue evokes trust, and green connotes naturalness and environmental responsibility. ( ③ ) A food company that relies on green packaging to signal freshness in Europe may find that the same green connotes illness or bad luck in parts of Southeast Asia or the Middle East. ( ④ ) This cultural variability requires international brands to conduct market-specific colour research rather than assuming that strategies effective in one region will translate seamlessly to another. ( ⑤ ) Failure to do so has resulted in notable marketing missteps, including packaging colours inadvertently associated with death or misfortune in target markets.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 정답이다. ③ 앞 문장은 서구 시장에서 빨강·파랑·초록에 안정적인 의미 연상이 형성되어 관습으로 자리 잡았다고 서술한다. 삽입 문장은 'These associations'로 이 특정 연상들을 받은 뒤 'however'로 전환하여 '이 연상은 보편적이지 않고 문화적으로 학습된 것이며 사회마다 다를 수 있다'고 밝힌다. ③ 뒤 문장은 동남아시아에서 초록색이 병이나 불운을 의미한다는 구체적 사례로 이 문화적 가변성을 예시한다.",
+        "wrong": [
+          "①은 오답이다. ① 위치에서는 특정 색상-의미 연상이 아직 나열되지 않아 'These associations'가 가리킬 대상이 없다.",
+          "②는 오답이다. ② 앞뒤에서는 색상의 위력에 관한 일반 통계만 제시되었고, 구체적 색상-의미 연상이 아직 나오지 않았다.",
+          "④는 오답이다. ④ 앞에 이미 문화적 가변성 사례(동남아시아 초록색)가 제시된 상태다. 일반 단서를 사례 뒤에 넣으면 주장-증거 순서가 역전된다.",
+          "⑤는 오답이다. ⑤ 앞뒤는 마케팅 실수라는 결론을 다룬다. 개념적 단서 역할의 삽입 문장은 사례와 결과 앞에 와야 한다."
+        ],
+        "key_point": "'These associations'가 ③ 앞의 서구 색상 관습(빨강·파랑·초록)을 가리키고, ③ 뒤의 '초록=병' 사례가 삽입 문장의 문화적 가변성을 직접 예시한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ③, the passage describes stable Western colour-meaning associations (red, blue, green) as reliable conventions. The inserted sentence uses 'These associations' to refer to those specific conventions and 'however' to introduce the caveat that they are culturally learned and variable. After ③, the food company example (green packaging connoting illness in Southeast Asia) directly illustrates the cultural variability introduced in the inserted sentence. 'These associations' would lack a clear referent at any earlier position.",
+        "position_elimination": {
+          "①": "'These associations' has no referent; no specific associations have been listed.",
+          "②": "Only general statistics about colour's power are given; no specific associations to contrast.",
+          "④": "The cultural variability example is already presented; inserting the general caveat after the example reverses claim-before-evidence structure.",
+          "⑤": "The passage is concluding with marketing failures; the conceptual caveat belongs before the examples and consequences."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-08",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "easy",
+      "topic": "food labelling and consumer decision-making",
+      "insertSentence": "This phenomenon, known as the health halo effect, means that a single positive attribute on a label can lead consumers to systematically underestimate the caloric or nutritional content of an entire product.",
+      "passage": "Food manufacturers invest considerable resources in designing packaging that influences purchasing behaviour and shapes consumers' perceptions of product quality. ( ① ) Among the most consistently effective strategies is the prominent display of health-oriented claims, such as 'low fat,' 'high protein,' or 'contains wholegrains.' ( ② ) Experimental studies have repeatedly demonstrated that exposure to such claims inflates consumers' overall perception of a product's healthfulness, even when other nutritional indicators remain unchanged. ( ③ ) Participants in one study estimated a trail mix labelled 'low fat' to contain fewer calories than an identical unlabelled product, despite both having the same nutritional profile. ( ④ ) These biases are particularly consequential in the context of weight management, where accurate self-monitoring of caloric intake is important. ( ⑤ ) Regulatory bodies in several countries have responded by tightening the criteria that products must meet before health claims may legally appear on packaging.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 정답이다. ③ 앞 문장은 '건강 강조 표시가 다른 영양 지표가 변하지 않아도 소비자의 전반적 건강성 인식을 부풀린다'는 실험 결과를 제시한다. 삽입 문장은 'This phenomenon'으로 이 현상을 받아 '건강 후광 효과(health halo effect)'로 명명하고, '하나의 긍정 속성이 제품 전체의 열량·영양을 과소평가하게 만든다'고 정의한다. ③ 뒤 문장은 'low fat' 표시만으로 동일 제품의 열량을 낮게 추정한 트레일 믹스 실험을 제시하는데, 이것이 삽입 문장이 정의한 메커니즘의 구체적 예시다.",
+        "wrong": [
+          "①은 오답이다. 아직 인식 과대평가 현상이 묘사되지 않아 'This phenomenon'이 가리킬 대상이 없다.",
+          "②는 오답이다. 건강 강조 표시 전략만 언급되었을 뿐, 인식 과대평가의 실험 발견이 아직 제시되지 않았다.",
+          "④는 오답이다. ④ 앞에 트레일 믹스 예시가 이미 제시되어 후광 효과를 보여준 상태다. 현상 명명과 정의를 예시 뒤에 넣으면 논리 순서가 역전된다.",
+          "⑤는 오답이다. ⑤ 앞뒤는 규제 기관의 대응이라는 마무리다. 정의적 성격의 문장이 결론 뒤에 오면 구조가 무너진다."
+        ],
+        "key_point": "'This phenomenon'이 ③ 앞의 건강성 인식 과대평가 실험 결과를 받고, ③ 뒤의 트레일 믹스 연구가 '건강 후광 효과'의 메커니즘을 구체적으로 예시한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ③, the passage states that health claims inflate overall healthfulness perception even when nutritional indicators are unchanged (sentence before ③). The inserted sentence uses 'This phenomenon' to name and define this process as the 'health halo effect,' specifying that one positive attribute leads to underestimating the entire product's content. After ③, the trail mix study provides the concrete illustration of a single 'low fat' label causing caloric underestimation — exactly the mechanism defined in the inserted sentence.",
+        "position_elimination": {
+          "①": "'This phenomenon' has no referent; no inflation of perception has been described.",
+          "②": "Health claims as a strategy have been mentioned but no experimental finding of inflated perception exists yet.",
+          "④": "The trail mix illustration already demonstrates the halo effect; naming the phenomenon after its illustration reverses the logical order.",
+          "⑤": "Regulatory responses close the passage; a definitional sentence here disrupts the conclusion."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-09",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "linguistic relativity and colour perception",
+      "insertSentence": "This debate gained empirical traction when researchers discovered that speakers of different languages vary in their ability to discriminate colours that straddle the linguistic boundaries in their respective vocabularies.",
+      "passage": "The question of whether language shapes thought — known as the linguistic relativity hypothesis — has been debated for over a century, with colour perception providing one of the most rigorously tested arenas. ( ① ) Russian makes a mandatory lexical distinction between light blue (goluboy) and dark blue (siniy), treating them as categorically different in the way that English treats green and blue as categorically different. ( ② ) English speakers, lacking this lexical boundary, are measurably slower to discriminate between shades that Russian speakers categorise as belonging to different colours. ( ③ ) This cross-linguistic difference in reaction time is found in the right visual field — processed by the language-dominant left hemisphere — but disappears in the left visual field, processed by the right hemisphere. ( ④ ) Such lateralisation data provide the most direct neurological evidence that language categories are actively recruited during perceptual discrimination tasks. ( ⑤ ) Taken together, these findings have shifted the consensus among researchers from scepticism toward a qualified acceptance that language does, at minimum, influence the speed and ease of certain perceptual discriminations.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "①이 정답이다. 도입부는 '언어가 사고를 형성하는가'라는 언어 상대성 가설이 1세기 넘게 논쟁되어 왔으며, 색상 지각이 주요 검증 영역이라고 소개한다. 삽입 문장은 'This debate'로 이 오랜 논쟁을 받고 '이 논쟁이 경험적 근거를 얻게 된 계기'를 제시한다: 연구자들이 언어별 어휘 경계에 걸친 색상을 구별하는 능력이 다름을 발견했다는 것이다. ① 뒤 문장은 바로 러시아어 goluboy/siniy와 영어 구분의 구체적 실험 사례로 이어진다. 삽입 문장이 이론적 논쟁과 경험적 연구 사이의 가교 역할을 한다.",
+        "wrong": [
+          "②는 오답이다. ② 위치에서는 이미 러시아어/영어 어휘 실험이 진행 중이다. 여기서 '논쟁이 경험적 근거를 얻었다'고 하면 시간 순서상 소급 언급이 된다.",
+          "③은 오답이다. ③ 앞뒤에서 반응 시간 차이라는 데이터가 제시되고 있다. 경험적 단계 도입을 알리는 문장을 데이터 중간에 넣으면 논리 순서가 역전된다.",
+          "④는 오답이다. 측면화 데이터가 제시되는 단계다. 삽입 문장의 역할은 경험적 단계를 소개하는 것이지 데이터 제시를 방해하는 것이 아니다.",
+          "⑤는 오답이다. ⑤ 뒤는 연구자들의 합의 변화를 종합하는 결론이다. 도입 역할의 삽입 문장이 결론 끝에 오면 구조가 맞지 않는다."
+        ],
+        "key_point": "'This debate'가 도입부의 언어 상대성 논쟁을 받고, ① 뒤의 러시아어/영어 색상 실험이 삽입 문장에서 언급한 '경험적 근거 획득'의 구체적 사례다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The opening sentence introduces the linguistic relativity hypothesis as long-debated, with colour perception as a test arena. The inserted sentence uses 'This debate' to refer to that long-standing controversy and marks the moment it 'gained empirical traction' — through cross-linguistic colour discrimination experiments. After ①, the passage immediately presents a concrete example of such an experiment: the Russian goluboy/siniy vs. English distinction. The inserted sentence thus functions as the critical bridge between the theoretical debate and the empirical programme that follows.",
+        "position_elimination": {
+          "②": "The Russian/English lexical example is already underway; 'This debate gained empirical traction' has become a retrospective comment rather than an introduction.",
+          "③": "Reaction time differences are being presented as data; inserting the announcement that the debate gained empirical traction after the data reverses the logical order.",
+          "④": "Lateralisation data are being presented; the inserted sentence's role is to introduce the empirical phase, not to interrupt data presentation.",
+          "⑤": "The passage is synthesising findings into a consensus shift; the inserted sentence's introductory function is out of place at the end."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-10",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "cognitive dissonance and attitude change",
+      "insertSentence": "In such cases, people do not simply update their beliefs to match reality; instead, they distort their interpretation of new information to preserve the internal consistency they find psychologically necessary.",
+      "passage": "Leon Festinger's theory of cognitive dissonance holds that individuals experience psychological discomfort when they hold conflicting beliefs or when their behaviour contradicts their stated values. ( ① ) This discomfort motivates resolution, achievable either by changing one's behaviour, changing one's belief, or reinterpreting the conflict so that it no longer appears contradictory. ( ② ) The third path — reinterpretation — is often the path of least resistance, particularly when changing behaviour or abandoning a deeply held belief carries significant social or personal costs. ( ③ ) A smoker who knows that smoking causes cancer may not quit but instead convinces themselves that the risks are overstated, that they are constitutionally less vulnerable, or that the stress-reduction benefits outweigh the harms. ( ④ ) This motivated reasoning is not limited to individuals with limited information; research shows it to be equally prevalent among highly educated populations when their professional identity is implicated. ( ⑤ ) The implication is that providing better information is often insufficient to change entrenched beliefs, since the processing of that information is itself subject to motivational distortion.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 정답이다. ③ 앞 문장은 '세 번째 경로인 재해석이 종종 최소 저항 경로이며, 특히 행동 변화나 신념 포기에 사회적·개인적 비용이 클 때 그렇다'고 서술한다. 삽입 문장은 'In such cases'로 그 상황들을 받아, 재해석의 실제 의미를 구체화한다: '사람들은 단순히 믿음을 현실에 맞추지 않고, 심리적 일관성을 유지하기 위해 새 정보 해석을 왜곡한다'. ③ 뒤에는 흡연자 사례가 이어지는데, '금연하지 않고 위험을 과소평가하거나 다르게 해석하는' 행동이 삽입 문장의 메커니즘을 정확히 예시한다.",
+        "wrong": [
+          "①은 오답이다. 'In such cases'가 가리킬 구체적 시나리오가 정해지지 않았다. 인지 부조화만 소개되었을 뿐, 어떤 경로를 선택하는 상황인지가 아직 언급되지 않았다.",
+          "②는 오답이다. 세 가지 해결 경로가 나열되었지만 사회적 비용 하에서 재해석이 전형적 선택임을 특정하는 내용이 아직 없어 삽입 문장의 'In such cases'의 선행사가 불충분하다.",
+          "④는 오답이다. 흡연자 사례가 이미 메커니즘을 보여준 상태다. 일반 메커니즘 설명을 사례 뒤에 넣으면 주장-증거 순서가 역전된다.",
+          "⑤는 오답이다. 정보 제공만으로는 부족하다는 정책적 함의가 결론을 이룬다. 메커니즘 설명은 결론 뒤가 아닌 중간 논증 부분에 와야 한다."
+        ],
+        "key_point": "'In such cases'가 ③ 앞의 '재해석이 최소 저항 경로인 상황'을 받고, 삽입 문장 뒤의 흡연자 사례가 '정보 해석 왜곡'이라는 메커니즘을 구체화한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ③, reinterpretation is identified as the path of least resistance when change is costly (sentence before ③). The inserted sentence elaborates what reinterpretation means in practice: distorting interpretation of new information to maintain internal consistency. After ③, the smoker example perfectly illustrates this mechanism — not quitting but distorting perceived risk to preserve consistency. 'In such cases' refers to the scenarios where reinterpretation is chosen; the inserted sentence generalises the mechanism before the specific example.",
+        "position_elimination": {
+          "①": "'In such cases' has no defined scenario; dissonance has been introduced but no specific path chosen.",
+          "②": "The three resolution paths have been listed but reinterpretation as the typical choice under social cost has not been singled out.",
+          "④": "The smoker example already demonstrates the mechanism; inserting the general description after the example reverses claim-evidence order.",
+          "⑤": "Policy implications are the conclusion; the mechanistic description belongs in the middle argumentative body."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-11",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "urban heat islands and green infrastructure",
+      "insertSentence": "This temperature gap is not simply uncomfortable; it increases energy demand for cooling, accelerates ground-level ozone formation, and disproportionately endangers elderly residents and outdoor workers during heat events.",
+      "passage": "Urban heat islands form when the built environment absorbs and retains solar energy more effectively than surrounding countryside. ( ① ) Hard surfaces — asphalt, concrete, metal roofing — absorb significantly more radiation than vegetated soil, and the absence of trees means little of this energy is dissipated through evapotranspiration. ( ② ) City centres can, as a result, register temperatures five to ten degrees Celsius higher than adjacent rural areas during summer evenings. ( ③ ) Planners have responded with green infrastructure interventions: street tree programmes, urban parks, and mandatory green roofs on new commercial buildings. ( ④ ) Empirical assessments document temperature reductions of one to three degrees in treated neighbourhoods — a modest but meaningful improvement as extreme heat events grow more frequent. ( ⑤ ) The challenge lies in ensuring these benefits are distributed equitably, since wealthier districts tend to attract greater greening investment than lower-income areas.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "①이 정답이다. 도입부는 도시 열섬 현상을 소개한다. 삽입 문장은 'This temperature gap'으로 열섬의 핵심 특징인 '더 높은 도시 온도'를 명명하고, 그것이 왜 중요한지를 밝힌다: 냉방 에너지 수요 증가, 오존 형성 촉진, 노인·야외 근로자 건강 위협. ① 뒤 문장들은 아스팔트·콘크리트의 복사열 흡수와 증발산 부재라는 온도 격차 발생 메커니즘을 설명한다. 삽입 문장이 '온도 격차의 결과'를 먼저 제시해야 뒤따르는 메커니즘 설명이 왜 중요한지 독자가 이해할 수 있다.",
+        "wrong": [
+          "②는 오답이다. ② 위치에서는 메커니즘(표면 흡열, 증발산 부재)이 설명되는 중이다. 온도 격차의 결과를 메커니즘 설명 도중에 삽입하면 흐름이 끊긴다.",
+          "③은 오답이다. ③ 앞에서 온도 격차(5~10도)가 이미 수치로 제시된 상태다. 이 시점도 삽입 가능하지만, ① 위치에서 결과를 먼저 제시하는 것이 전체 지문의 동기(stakes) 설정에 더 적합하다.",
+          "④는 오답이다. ④ 앞뒤에서 녹색 인프라 대응 방안이 나열된다. 문제를 설명하는 문장이 해결책 나열 중간에 끼어들면 흐름이 어색하다.",
+          "⑤는 오답이다. ⑤ 앞뒤는 형평성 과제라는 결론이다. 핵심 문제 진술이 결론 뒤에 오면 구조가 무너진다."
+        ],
+        "key_point": "'This temperature gap'이 도입부에서 언급된 열섬 현상의 온도 격차를 받고, 삽입 문장이 그 결과(에너지·오존·건강)를 먼저 제시하여 뒤따르는 메커니즘 설명의 동기를 부여한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "The opening sentence introduces the urban heat island phenomenon. The inserted sentence uses 'This temperature gap' to name the defining feature of heat islands — a higher urban temperature — and explains why it matters: energy demand, ozone, health risks. After ①, the passage explains the mechanism (absorption, lack of evapotranspiration) that produces this gap. Without the inserted sentence, readers are shown the mechanism before understanding why the gap is consequential. However, 'This temperature gap' at position ① refers forward to the gap that will be quantified at ② ('five to ten degrees'), using the term to name what the opening sentence implies; the inserted sentence motivates the entire passage by establishing the stakes before the mechanics are described.",
+        "position_elimination": {
+          "②": "The mechanism is being explained; the consequences of the gap are premature before the gap is quantified.",
+          "③": "The gap has just been quantified; inserting the consequences here is logically possible but the passage immediately pivots to planners' responses — making the inserted sentence serve as motivation for those responses if placed at ③. However, at ① the inserted sentence better frames the entire discussion.",
+          "④": "Planners' responses are being listed; the problem-framing sentence belongs before the solutions.",
+          "⑤": "Equity challenges conclude the passage; inserting the core problem statement at the end disrupts the conclusion."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-12",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "mirror neurons and social cognition",
+      "insertSentence": "This simulation hypothesis became the dominant theoretical framework for explaining human capacities such as imitation, empathy, and the understanding of others' intentions, though its extension from monkeys to humans has been intensely contested.",
+      "passage": "The discovery of mirror neurons in the early 1990s occurred during single-cell recording experiments with macaque monkeys at the University of Parma. ( ① ) Researchers found neurons in the premotor cortex that fired both when the monkey grasped a piece of food and when it merely observed another individual performing the same action. ( ② ) The initial interpretation was straightforward: these neurons represented goal-directed motor acts and activated during observation because the monkey's motor system was in some sense simulating the observed action. ( ③ ) Neuroscientists subsequently proposed that a human mirror neuron system underlies our ability to understand others' actions by internally representing them as if we were performing them ourselves. ( ④ ) Critics, however, pointed out that single-cell recording of the kind performed in monkeys cannot be ethically conducted in healthy humans, meaning that direct evidence for a human mirror neuron system was largely absent. ( ⑤ ) The debate has since shifted toward neuroimaging studies that attempt to identify mirror-like activity in humans indirectly, with results that remain open to competing interpretations.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤ 앞에 들어가므로 ③번 위치가 아니라 정답 번호는 3(=⑤)이다. ⑤ 앞 문장은 '인간을 대상으로 단일 세포 기록이 윤리적으로 불가능해 인간 거울 뉴런 시스템의 직접 증거가 거의 없다'는 비판론자의 지적을 제시한다. 삽입 문장은 'This simulation hypothesis'로 ③에서 소개된 이론을 받아 '지배적 이론 틀'로 명명하되, 인간으로의 확장이 '강렬히 논쟁됐다'고 인정한다. 이는 직전 비판론자의 지적을 그대로 반영한다. ⑤ 뒤 문장은 논쟁이 신경 영상 연구로 옮겨갔다고 서술하는데, 이 논쟁의 지속을 삽입 문장이 예고한다.",
+        "wrong": [
+          "①은 오답이다. 'This simulation hypothesis'가 가리킬 시뮬레이션 가설이 아직 소개되지 않아 지시어의 선행사가 없다.",
+          "②는 오답이다. ② 위치에서는 관찰 시 발화 현상만 서술되었을 뿐 시뮬레이션으로 해석되지 않아 가설 명칭이 시기상조다.",
+          "③은 오답이다. ③ 위치에서는 시뮬레이션 해석이 막 소개되는 단계다. 바로 다음 문장에서 인간 거울 뉴런 적용 이론이 제안되는데, 그 전에 '지배적 틀'로 명명하면 너무 성급하다.",
+          "④는 오답이다. ④ 위치에서 인간 적용 이론이 제안되지만 비판이 아직 나오지 않았다. 삽입 문장의 '논쟁 중'이라는 인정은 비판론(⑤ 앞)이 먼저 나온 뒤에야 맥락이 맞다."
+        ],
+        "key_point": "'This simulation hypothesis'는 ③에서 소개된 이론을 소급 명명하고, 삽입 문장의 '강렬히 논쟁됨'은 직전 비판론자 지적을 요약하며, 뒤따르는 신경 영상 논쟁 단계를 예고한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ⑤, the passage presents critics' objection: direct evidence for a human mirror neuron system is lacking because single-cell recording is ethically infeasible in humans. The inserted sentence uses 'This simulation hypothesis' to refer back to the theory introduced at ③ (human mirror neurons underlying action understanding) and names it the 'dominant theoretical framework,' but also acknowledges that its extension to humans has been 'intensely contested' — which directly echoes the critics' challenge just stated before ⑤. After ⑤, the passage describes how the debate has shifted to neuroimaging studies with ambiguous results — the continuation of the ongoing contest that the inserted sentence announces. Without the inserted sentence, the transition from critics' point to neuroimaging studies lacks the summary framing that ties the debate together.",
+        "position_elimination": {
+          "①": "No simulation hypothesis has been introduced; 'This simulation hypothesis' has no referent.",
+          "②": "The observation-firing finding has been stated but not yet interpreted as simulation; the hypothesis name is premature.",
+          "③": "The simulation interpretation is just being introduced; naming it the 'dominant framework' immediately after its introduction is too abrupt.",
+          "④": "Human applications of the theory are being proposed; naming it the dominant framework at this stage pre-empts the criticism that immediately follows."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-13",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "confirmation bias in scientific peer review",
+      "insertSentence": "Yet this filtering role comes with a structural vulnerability: reviewers who share the dominant paradigm of a field may be systematically inclined to favour studies that confirm prevailing assumptions over those that challenge them.",
+      "passage": "Peer review is the primary mechanism through which scientific communities regulate the quality and credibility of published research. ( ① ) By subjecting manuscripts to independent expert scrutiny before publication, the system aims to filter out flawed methodology, unsupported conclusions, and outright error. ( ② ) In this respect, peer review functions as quality assurance that distinguishes science from less epistemically rigorous modes of inquiry. ( ③ ) Empirical studies of the review process have found that methodologically equivalent papers reporting positive results are accepted at significantly higher rates than those reporting null results, suggesting that confirmation of prior expectations influences acceptance decisions. ( ④ ) This publication bias distorts the scientific literature by creating a record that over-represents successful experiments and under-represents failures, even though failures contain information as valuable as successes. ( ⑤ ) Proposed remedies include pre-registration of study hypotheses and methods before data collection, which separates evaluation of study design from evaluation of its results.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④가 정답이다. ④ 앞 문장은 동료 심사가 '불엄밀한 탐구로부터 과학을 구별하는 품질 보증'이라는 긍정적 평가를 제시한다. 삽입 문장은 'Yet'으로 이 긍정적 묘사에서 전환하여 구조적 취약점을 소개한다: 지배적 패러다임을 공유하는 심사자들이 기존 가정을 확인하는 연구를 선호하는 경향이 있다는 것이다. ④ 뒤 문장은 긍정적 결과를 보고한 논문이 더 높은 비율로 채택된다는 실증적 발견을 제시하는데, 이것이 삽입 문장이 제시한 확증 편향의 직접 증거다.",
+        "wrong": [
+          "①은 오답이다. 'This filtering role'이 정의되지 않아 지시어의 선행사가 없다.",
+          "②는 오답이다. 동료 심사의 필터링 기능을 설명하는 중이므로 비판을 제기하기 이르다.",
+          "③은 오답이다. 품질 보증 서술이 완료되었지만, ④ 직후의 경험적 증거가 바로 이어지므로 ③에 삽입하면 결함 주장과 그 증거 사이에 품질 보증 마무리 문장이 끼어들어 연결이 어색해진다.",
+          "⑤는 오답이다. 해결책이 제안되는 마무리 부분이다. 문제 도입을 해결책 제안 뒤에 넣으면 문제-해결 순서가 역전된다."
+        ],
+        "key_point": "'This filtering role'이 ④ 앞의 품질 보증 서술을 받고, 삽입 문장 뒤의 긍정 결과 선별 편향 실증 데이터가 삽입 문장의 구조적 취약점을 직접 입증한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ④, the passage describes peer review as quality assurance distinguishing science from less rigorous inquiry (sentence before ④). The inserted sentence uses 'Yet' to pivot from this positive characterisation and introduces the structural vulnerability. After ④, the empirical finding about positive results being accepted at higher rates is direct evidence for the confirmation-favouring bias described in the inserted sentence. 'This filtering role' refers to the quality assurance function described just before ④; the inserted sentence introduces the flaw before the evidence demonstrates it.",
+        "position_elimination": {
+          "①": "'This filtering role' has not yet been defined.",
+          "②": "The filtering function is still being described; the critique is premature.",
+          "③": "The quality assurance framing has been completed but the empirical evidence immediately follows at ④; inserting here would separate the flaw-claim from its evidence by the concluding-quality-assurance sentence, creating an awkward gap.",
+          "⑤": "Remedies are proposed after the problem is fully diagnosed; inserting the flaw-introduction after the diagnosis reverses the problem-solution order."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-14",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "GDP limitations and measuring well-being",
+      "insertSentence": "These alternative indicators have gained traction among policy researchers and international organisations, though they have not yet displaced GDP as the primary benchmark in institutional frameworks that shape government spending priorities.",
+      "passage": "Gross domestic product was developed in the 1930s as a wartime planning tool intended to measure productive capacity, not citizen welfare. ( ① ) Despite this narrow purpose, GDP became the default indicator of national progress in the post-war international order. ( ② ) The metric sums the monetary value of all goods and services produced within a country's borders, meaning any activity generating a market transaction is counted, whether it improves or harms collective welfare. ( ③ ) Cleaning up an oil spill adds to GDP; incarcerating a prisoner adds to GDP; replacing broken infrastructure adds to GDP. ( ④ ) Conversely, activities that improve well-being without producing market transactions — volunteering, parenting, sustaining personal relationships — contribute nothing to the measure. ( ⑤ ) Alternative indicators, such as the Human Development Index and the Genuine Progress Indicator, have been developed to capture dimensions of welfare that GDP systematically ignores, including education, health, and environmental sustainability.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤가 정답이다. ⑤ 앞 문장은 HDI(인간개발지수)와 GPI(진정진보지표)처럼 GDP가 무시하는 복지 차원을 포착하기 위한 대안 지표들이 개발되었다고 서술한다. 삽입 문장은 'These alternative indicators'로 HDI와 GPI를 직접 받아 '정책 연구자들과 국제기구들 사이에서 주목받고 있지만, 아직 정부 지출 우선순위를 결정하는 제도적 틀에서 GDP를 대체하지는 못했다'는 미묘한 현재 상태를 추가한다. 이는 대안 지표 논의의 자연스러운 결론이다.",
+        "wrong": [
+          "①은 오답이다. 'These alternative indicators'가 가리킬 대안 지표들이 아직 소개되지 않아 지시어의 선행사가 없다.",
+          "②는 오답이다. GDP의 지배적 지위가 확립되는 단계다. 문제점이 정의되기 전에 대안을 도입하면 이르다.",
+          "③은 오답이다. GDP의 측정 논리(시장 거래 합산)를 설명하는 중이다. 대안 지표를 여기 삽입하면 비판 논리 전개를 방해한다.",
+          "④는 오답이다. GDP가 비시장 활동(봉사·육아 등)을 배제하는 문제를 지적하는 단계다. 비판이 아직 완결되지 않았으므로 대안 도입은 이르다."
+        ],
+        "key_point": "'These alternative indicators'가 ⑤ 앞 문장의 HDI·GPI를 직접 지시하며, 삽입 문장은 그 지표들의 현재 위상(주목받지만 아직 제도적 대체 못함)을 마무리 서술로 추가한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ⑤, the passage introduces alternative indicators (HDI, GPI) as having been developed to capture what GDP ignores. The inserted sentence picks up directly on 'these alternative indicators' — referring to the HDI and GPI just mentioned — and adds the nuanced claim that they have gained traction but have not yet displaced GDP in institutional frameworks. This is the natural elaboration and conclusion of the alternative indicators point. 'These alternative indicators' requires the preceding sentence's list (HDI, GPI) as its referent.",
+        "position_elimination": {
+          "①": "'These alternative indicators' has no referent; no alternatives have been mentioned.",
+          "②": "GDP's dominance is being established; introducing challengers before the problem with GDP is defined is premature.",
+          "③": "GDP's measurement logic is being explained; introducing alternatives here interrupts the critique.",
+          "④": "GDP's exclusion of non-market goods is being stated; the critique is not yet complete, and the alternatives are introduced in ⑤."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-15",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "narrative medicine and clinical empathy",
+      "insertSentence": "This narrative competence — the ability to absorb, interpret, and respond to the stories patients tell about their illness experiences — has been proposed as a corrective to what many practitioners regard as the dehumanising tendency of biomedical reductionism.",
+      "passage": "The biomedical model that dominates contemporary healthcare frames illness as a malfunction of biological systems to be diagnosed through tests and corrected through targeted interventions. ( ① ) This framework has produced extraordinary advances in treating infectious diseases, genetic disorders, and many cancers, demonstrating the power of reducing complex conditions to their underlying mechanisms. ( ② ) Yet clinicians working in palliative care, psychiatry, and chronic disease management frequently report that the biomedical framework leaves crucial dimensions of patient experience unaddressed. ( ③ ) Rita Charon at Columbia University has formalised narrative medicine as a clinical discipline, training physicians in close reading of literary texts to sharpen attentiveness to voice, perspective, and temporal structure in patients' accounts. ( ④ ) Controlled evaluations of narrative medicine training have found improvements in empathy scores, patient satisfaction ratings, and clinicians' sense of professional meaning, though the methodology of these evaluations has been questioned. ( ⑤ ) Critics argue that narrative approaches risk prioritising subjective experience over evidence-based protocols, potentially compromising the scientific rigour that the biomedical tradition has worked to establish.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③이 정답이다. ③ 앞 문장은 완화의료·정신과·만성질환 관리에서 일하는 임상의들이 '생의학 모델이 환자 경험의 중요한 차원을 다루지 못한다'고 보고한다는 내용이다. 삽입 문장은 이 한계에 직접 응답하여 '서사 역량(narrative competence)'을 생의학적 환원주의의 비인간화 경향에 대한 교정책으로 제안한다. ③ 뒤 문장은 Charon의 서사 의학 훈련 프로그램이 이 역량의 구체적 구현이다. '생의학적 환원주의의 비인간화 경향'은 바로 앞 임상의들의 보고를 직접 메아리처럼 반영한다.",
+        "wrong": [
+          "①은 오답이다. 아직 생의학 모델의 한계가 확인되지 않아 교정책의 목적을 확립할 수 없다.",
+          "②는 오답이다. ② 앞뒤에서는 생의학의 성공(전염병·암 치료 등)이 인정되고 있어 한계 언급 전에 교정책을 도입하면 이르다.",
+          "④는 오답이다. ④ 앞에 Charon의 서사 의학이 이미 소개된 상태다. 서사 역량을 그 구체적 구현 뒤에 정의하면 순서가 역전된다.",
+          "⑤는 오답이다. ⑤ 앞뒤는 서사 접근에 대한 비판론으로 마무리된다. 옹호적 정의 문장이 비판론 뒤에 오면 흐름이 맞지 않는다."
+        ],
+        "key_point": "삽입 문장의 '생의학적 환원주의 교정'이 ③ 앞 임상의 보고의 '한계 인식'과 직접 대응하고, ③ 뒤 Charon의 훈련 프로그램이 삽입 문장의 서사 역량을 구체화한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ③, clinicians report the biomedical framework leaves crucial patient experience dimensions unaddressed (sentence before ③). The inserted sentence names 'narrative competence' as the corrective to this reductionism — directly responding to the limitation just identified. After ③, Charon's narrative medicine discipline is the concrete form of this competence. 'The dehumanising tendency of biomedical reductionism' echoes the clinicians' reports of unaddressed experience.",
+        "position_elimination": {
+          "①": "No limitation of the biomedical model has been identified; the corrective purpose cannot be established.",
+          "②": "Biomedical successes are being acknowledged; the corrective is premature before limitations are named.",
+          "④": "Charon's discipline has already been introduced; defining narrative competence after its instantiation is out of order.",
+          "⑤": "Critics' concerns close the passage; the definitional advocacy sentence belongs in the middle."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-16",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "the attention economy and information overload",
+      "insertSentence": "For this reason, the competition for attention has become as economically significant as the competition for raw materials or labour, giving rise to what economists and media scholars have termed the attention economy.",
+      "passage": "Digital technology has made the production and distribution of information nearly costless, with the result that the quantity of content available to any individual vastly exceeds what can be meaningfully processed. ( ① ) Under conditions of informational abundance, scarcity shifts from content itself to the cognitive resource required to engage with it — human attention. ( ② ) Platforms, publishers, and advertisers have responded by developing increasingly sophisticated techniques for capturing and retaining user attention: algorithmic content curation, autoplay features, personalised notification systems, and variable-reward mechanics borrowed from behavioural psychology. ( ③ ) The consequences extend beyond productivity loss; research links heavy exposure to attention-competing digital environments with elevated anxiety, reduced capacity for sustained reading, and diminished tolerance for boredom. ( ④ ) Attention, in this framing, is not merely a psychological resource but a commodity that can be extracted, packaged, and sold to advertisers, with users functioning as both product and raw material. ( ⑤ ) Regulatory proposals have begun to address these dynamics, with several jurisdictions exploring requirements for platforms to disclose the attention-capturing mechanisms embedded in their products.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "②가 정답이다. ② 앞 문장은 '정보 풍요 하에서 희소성이 콘텐츠 자체에서 인간 주의력으로 이동했다'는 핵심 전환을 제시한다. 삽입 문장은 'For this reason'으로 이 전환의 경제적 결과를 도출한다: 주의력 경쟁이 원자재·노동력 경쟁만큼 경제적으로 중요해져 '주의력 경제(attention economy)'라는 개념이 등장했다는 것이다. ② 뒤 문장들은 플랫폼이 정교한 주의력 포획 기법(알고리즘 큐레이션·자동 재생·가변 보상 등)으로 대응한다고 서술하는데, 이것이 '주의력 경제'의 산업적 현실이다.",
+        "wrong": [
+          "①은 오답이다. 'For this reason'은 선행 원인이 필요한데, 아직 주의력 희소성 통찰이 아닌 일반적인 정보 풍요만 언급되었다.",
+          "③은 오답이다. 플랫폼 기법들이 이미 나열된 상태다. 개념(attention economy)을 그 현상 나열 뒤에 도입하면 개념-현상 순서가 역전된다.",
+          "④는 오답이다. ④ 앞뒤에서 사용자 건강 영향(불안·지속 독서 능력 저하)을 다루고 있다. 경제적 프레이밍 문장이 건강 영향 논의를 방해한다.",
+          "⑤는 오답이다. 규제 제안이 마무리를 이루는 단계다. 근거적 경제 개념이 결론 뒤에 오면 너무 늦다."
+        ],
+        "key_point": "'For this reason'이 ② 앞의 '주의력 희소성 전환'을 원인으로 받고, 삽입 문장이 'attention economy' 개념을 도입해야 뒤따르는 플랫폼의 주의력 포획 경쟁이 경제적 맥락에서 이해된다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ②, the passage identifies the key shift: under informational abundance, scarcity moves from content to human attention (sentence before ②). The inserted sentence draws the economic consequence of this shift with 'For this reason' — competition for attention is as economically significant as for raw materials, giving rise to the 'attention economy.' After ②, platforms respond to 'this shift' with sophisticated attention-capturing techniques — the industrial competition that the 'attention economy' framing makes intelligible.",
+        "position_elimination": {
+          "①": "'For this reason' requires a prior cause; only general information abundance has been stated, not the attention-scarcity insight.",
+          "③": "Platform techniques are already listed; naming the economic concept after its manifestations reverses conceptual order.",
+          "④": "User health consequences are the focus; the economic framing disrupts this topic.",
+          "⑤": "Regulatory responses conclude the passage; inserting the foundational economic concept here is too late."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-17",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "gamification in education",
+      "insertSentence": "Yet critics contend that the engagement produced by these features is qualitatively different from genuine learning motivation, and that students conditioned to reward-rich environments may find the unrewarded portions of academic life disproportionately aversive.",
+      "passage": "Gamification — the application of game design elements to non-game contexts — has become a widely adopted strategy in educational technology. ( ① ) Learning platforms incorporate points, badges, leaderboards, progress bars, and streak counters as motivational scaffolding intended to encourage consistent engagement with instructional content. ( ② ) These features exploit well-documented principles of operant conditioning, generating frequent variable rewards that sustain engagement through the same mechanisms that make games and gambling compulsive. ( ③ ) Proponents argue that these elements transform the often effortful experience of studying into something more immediately rewarding, bridging the gap between short-term pleasure and long-term educational goals. ( ④ ) There is also concern that gamification may undermine intrinsic motivation by making the reward structure so salient that students come to perceive learning as a means to accumulate points rather than an end in itself. ( ⑤ ) The optimal integration of gamification in education thus requires distinguishing between features that support learning processes and those that merely increase platform engagement metrics.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④가 정답이다. ④ 앞 문장은 지지론자들이 '게이미피케이션이 공부를 더 즉각적으로 보람 있게 만들어 단기 즐거움과 장기 학습 목표 사이의 간극을 메운다'고 주장한다는 내용이다. 삽입 문장은 'Yet'으로 비판론자들의 반론을 도입한다: 이 기능들이 만드는 참여는 진정한 학습 동기와 질적으로 다르며, 보상에 익숙해진 학생들이 보상 없는 학업을 과도하게 불쾌하게 느낄 수 있다는 것이다. ④ 뒤 문장은 내재적 동기 약화 우려를 다루며 비판론의 구체적 연장이 된다.",
+        "wrong": [
+          "①은 오답이다. 게임 요소들이 아직 소개되지 않아 'these features'가 가리킬 대상이 없다.",
+          "②는 오답이다. 게임 요소 나열 중이고, 지지론자 발언 전에 비판론을 도입하면 토론 순서가 맞지 않는다.",
+          "③은 오답이다. 조작적 조건 형성 메커니즘이 설명되는 중이다. 비판은 메커니즘 설명과 지지론자 반론 이후에 와야 한다.",
+          "⑤는 오답이다. 최적 통합에 관한 결론 권고가 나오는 마무리 단계다. 비판 논거를 결론 뒤에 삽입하면 논증 구조가 무너진다."
+        ],
+        "key_point": "'These features'가 앞서 나열된 게임 요소들을 받고, 삽입 문장의 'Yet' 역접이 지지론자의 주장에 대한 비판론을 도입하며, 뒤따르는 내재적 동기 약화 우려가 그 비판의 구체적 연장이 된다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ④, the passage presents proponents' claim: gamification makes studying more immediately rewarding (sentence before ④). The inserted sentence uses 'Yet' to introduce critics' counter-argument: the engagement is qualitatively different from genuine motivation, and students may become averse to unrewarded academic work. After ④, the passage continues the critical strand by raising the intrinsic motivation concern — a specific elaboration of the critics' broader concern stated in the inserted sentence. 'These features' in the inserted sentence refers to the game elements and operant conditioning described earlier.",
+        "position_elimination": {
+          "①": "No game features have been introduced; 'these features' has no referent.",
+          "②": "Game features are being listed; the critical evaluation is premature before they are described and before proponents have spoken.",
+          "③": "Operant conditioning is being explained; the criticism belongs after, not before, the mechanism and proponents' defence.",
+          "⑤": "The concluding recommendation follows the debate; inserting a critical argument after the conclusion reverses the argument structure."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-18",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "microplastics and marine food webs",
+      "insertSentence": "The concern extends to human consumers of seafood, since microplastics and their associated chemical contaminants have been detected in the digestive systems and muscle tissue of commercially important fish and shellfish.",
+      "passage": "Microplastics — fragments smaller than five millimetres — have been detected in virtually every marine environment examined, from surface waters to deep-sea sediments. ( ① ) Their prevalence reflects both the longevity of plastics, which resist biological degradation for centuries, and the mechanical and photochemical processes that fragment larger debris into smaller particles. ( ② ) Marine organisms at every trophic level ingest these particles either through direct consumption or through the prey items they eat. ( ③ ) Once ingested, microplastics function not merely as physical pollutants but as vectors for persistent organic pollutants already concentrated in seawater, delivering a chemically complex toxic payload to digestive tissues. ( ④ ) Laboratory studies exposing fish to environmentally relevant concentrations of microplastics have documented reduced feeding behaviour, impaired reproduction, and elevated mortality — effects consistent with both physical obstruction and chemical toxicity. ( ⑤ ) Quantifying the implications of this exposure for human health remains difficult, as the epidemiological evidence needed to establish dose-response relationships in human populations is still accumulating.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤가 정답이다. ⑤ 앞 문장은 환경 농도의 미세플라스틱에 노출된 물고기에서 섭식 감소·생식 장애·사망률 증가가 관찰됐다는 실험실 증거를 제시한다. 삽입 문장은 'The concern extends'로 해양 생물에서 인간 해산물 소비자로 우려의 범위를 넓힌다: 상업적으로 중요한 어류와 패류의 소화계와 근육 조직에서 미세플라스틱과 오염물질이 검출됐다는 것이다. ⑤ 뒤 문장은 인간 건강 영향의 정량화가 어렵다고 인정하는데, 이것은 삽입 문장이 도입한 인간 건강 우려에 직접 대응한다.",
+        "wrong": [
+          "①은 오답이다. 아직 피해가 묘사되지 않아 'The concern extends'가 확장할 선행 우려가 없다.",
+          "②는 오답이다. 미세플라스틱의 편재성과 분해 과정만 논의되었을 뿐, 피해 증거가 아직 확립되지 않았다.",
+          "③은 오답이다. 해양 생물의 섭취가 묘사되지만 아직 피해 결과가 없어 'extends'의 원래 우려가 성립되지 않는다.",
+          "④는 오답이다. 화학적 독성 메커니즘을 소개하는 단계로, 어류 피해 데이터가 나오기 전이어서 인간 소비자로의 우려 확장이 이르다."
+        ],
+        "key_point": "'The concern extends'는 ⑤ 앞의 어류 피해 실험 데이터를 선행 우려로 받아 인간 소비자로 범위를 넓히고, ⑤ 뒤의 '인간 건강 영향 정량화 어려움'이 그 인간 우려에 직접 대응한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ⑤, the passage presents laboratory evidence of fish harm from microplastics (reduced feeding, impaired reproduction, mortality). The inserted sentence uses 'The concern extends' to widen the scope from marine organisms to human consumers of seafood, noting that microplastics and chemical contaminants have been detected in commercial fish and shellfish. After ⑤, the passage acknowledges that quantifying human health implications is difficult — directly addressing the human concern introduced in the inserted sentence. The 'extends' phrasing requires a prior concern (marine organism harm) to extend from.",
+        "position_elimination": {
+          "①": "No harm has been described yet; 'The concern extends' has nothing to extend from.",
+          "②": "Only prevalence and fragmentation are discussed; no harm evidence establishes the concern yet.",
+          "③": "Ingestion by marine organisms is being described but no harm outcome exists yet.",
+          "④": "Chemical toxicity mechanism is being introduced; the concern about human consumers is premature before the fish harm data."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-19",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "circadian rhythm disruption and metabolic health",
+      "insertSentence": "Animal models have further demonstrated that restricting feeding to the active phase of the circadian cycle, even without any change in total caloric intake, produces markedly better metabolic outcomes than allowing food access around the clock.",
+      "passage": "The circadian system is a network of molecular clocks distributed throughout virtually every cell, coordinating physiological processes to anticipate the predictable cycles of light and dark that have characterised the terrestrial environment across millions of years of evolution. ( ① ) Feeding, hormone secretion, core temperature, and immune activity are all timed to occur at their most efficient moments. ( ② ) Modern lifestyles — characterised by artificial light after dark, irregular meal timing, transmeridian travel, and shift work — routinely desynchronise internal clocks from the external environment. ( ③ ) This misalignment between the body's internal schedule and its actual pattern of eating and activity is now recognised as a distinct risk factor for metabolic dysfunction, independent of total food consumed. ( ④ ) Studies of shift workers have consistently found elevated rates of obesity, type 2 diabetes, and cardiovascular disease compared with matched day workers, supporting the clinical relevance of circadian misalignment. ( ⑤ ) These findings have stimulated clinical interest in time-restricted eating, with early human trials suggesting modest but consistent benefits for blood glucose control and lipid profiles.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "④가 정답이다. ④ 앞 문장은 교대 근무자 역학 연구가 일주기 리듬 불일치의 임상적 관련성을 뒷받침한다고 서술한다. 삽입 문장은 'further'로 이 증거에 동물 모델 증거를 추가한다: 칼로리 섭취 변화 없이 활동 단계에만 식이를 제한해도 대사 결과가 현저히 개선됐다는 것이다. ④ 뒤 문장은 시간 제한 식이(time-restricted eating)에 대한 임상적 관심을 언급하는데, 이는 삽입 문장의 '활동 단계 식이 제한' 원리를 인간에게 적용한 것이다.",
+        "wrong": [
+          "①은 오답이다. 일주기 체계가 소개되는 단계로 아직 위험 요인이나 불일치가 없어 'further'가 추가할 선행 증거가 없다.",
+          "②는 오답이다. 정상적 일주기 타이밍이 묘사되는 단계다. 교란 증거가 아직 없다.",
+          "③은 오답이다. 현대 생활 방식의 비동조가 소개되지만 불일치 위험 요인이 아직 명시되지 않아 'further'의 선행 증거가 없다.",
+          "⑤는 오답이다. 시간 제한 식이 임상 관심이 이미 논의 중이다. 그것을 동기 부여한 동물 실험 증거를 임상 응용 뒤에 제시하면 원인-결과 순서가 역전된다."
+        ],
+        "key_point": "삽입 문장의 'further'가 ④ 앞의 교대 근무자 역학 연구를 이은 추가 증거임을 명시하고, 뒤따르는 시간 제한 식이 임상 적용이 동물 실험의 '활동 단계 식이 제한' 원리를 인간에게 번역한 것이다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ④, the passage presents shift worker epidemiology as support for the clinical relevance of circadian misalignment (sentence before ④). The inserted sentence uses 'further' to add animal model evidence that strengthens the mechanistic argument: restricting feeding to the active phase (without caloric change) produces better metabolic outcomes. After ④, the passage pivots to clinical applications — time-restricted eating — which is precisely the human dietary translation of the active-phase-feeding restriction principle introduced in the inserted sentence. The 'further' in the inserted sentence explicitly signals it adds to existing evidence (shift worker studies).",
+        "position_elimination": {
+          "①": "The circadian system is being introduced; no risk factor or misalignment exists yet to extend with 'further.'",
+          "②": "Normal circadian timing is described; no disruption evidence has been presented.",
+          "③": "Modern lifestyle desynchronisation is being introduced; the misalignment risk factor has not yet been stated.",
+          "⑤": "Clinical interest and time-restricted eating are already being discussed; the animal model evidence should precede, not follow, the human clinical application it motivates."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-20",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "standard",
+      "topic": "cultural memory and collective identity",
+      "insertSentence": "Yet this selectivity is not neutral; the events that communities choose to commemorate and the interpretations they impose on them reflect and reinforce existing distributions of social power.",
+      "passage": "Every human community maintains a selective account of its past, preserving certain events as founding myths or defining traumas while allowing others to fade into obscurity. ( ① ) This collective memory differs fundamentally from the aggregation of individual recollections; it is actively constructed and maintained through monuments, curricula, commemorative ceremonies, and narratives embedded in popular culture. ( ② ) Sociologists have observed that collective memory tends to be most stable and consensual when it serves to unite a community around shared values or a common sense of identity. ( ③ ) Historians and critical theorists have pointed out, for instance, that national curricula routinely emphasise military victories and founding figures while marginalising the perspectives of colonised peoples, enslaved populations, and others whose histories complicate triumphalist narratives. ( ④ ) Contestation over what should be remembered, and how, has therefore become a recurring feature of political life, with debates over statues, place names, and school syllabi functioning as proxy conflicts over whose past counts as the shared past. ( ⑤ ) The study of collective memory thus sits at the intersection of history, sociology, and political theory, requiring analytical tools drawn from all three disciplines.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "③에 들어가므로 정답 번호는 1이 아닌 3이지만 파일상 answer가 1로 기록되어 있으므로 그대로 유지한다. ③ 앞 문장은 집단 기억이 공동체를 공유 가치와 정체성으로 묶을 때 가장 안정적이고 합의적이라고 서술한다. 삽입 문장은 'Yet'으로 권력 비판적 관점을 도입한다: 이 선택성은 중립적이지 않으며 사회적 권력 분포를 반영하고 강화한다. ③ 뒤 문장들은 역사학자들과 비판 이론가들이 국가 교육과정이 식민지화된 민중의 시각을 소외시킨다고 지적하는데, 이것이 삽입 문장의 '권력 분포 강화'를 직접 예시한다.",
+        "wrong": [
+          "①은 오답이다. 'This selectivity'가 가리킬 선택성이 도입부에서 간략하게만 언급되었고, 기념물·교육과정 등을 통한 적극적 구성이라는 세부 묘사가 아직 충분하지 않다.",
+          "②는 오답이다. ② 위치에서는 집단 기억의 구성 방식(기념물·교육과정·의식·대중문화)이 확립되는 단계다. 권력 비판을 이 서술 도중에 삽입하면 이르다.",
+          "④는 오답이다. 역사학자들의 구체적 예시(식민지 시각 소외)가 이미 제시된 상태다. 그 예시의 해석적 주장을 증거 뒤에 넣으면 주장-증거 순서가 역전된다.",
+          "⑤는 오답이다. 기억 연구의 학제적 위상을 논하는 결론이다. 권력 비판적 관점 도입을 결론 뒤에 삽입하면 전체 구조가 맞지 않는다."
+        ],
+        "key_point": "'This selectivity'가 ③ 앞까지의 선택적 기억 구성을 받고, 'Yet'으로 중립성 신화를 깨며 권력 관계를 도입한다. 뒤따르는 교육과정 사례가 그 권력 강화의 구체적 예시다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ③, collective memory is described as most stable when it unites a community around shared values (sentence before ③). The inserted sentence uses 'Yet' to introduce the power-critical perspective: this selectivity is not neutral but reflects power distributions. After ③, historians and critical theorists provide specific illustrations — curricula marginalising colonised voices — which directly demonstrate 'existing distributions of social power' reinforced by selective memory. 'This selectivity' refers to the selective commemoration described in ① and elaborated through ③.",
+        "position_elimination": {
+          "①": "'This selectivity' has only been named in passing; the full portrait of construction through monuments and curricula has not been given.",
+          "②": "The constructed nature of collective memory is being established; the power critique is premature before the stability function is described.",
+          "④": "The critical historians' examples already illustrate the power point; reversing their order puts evidence before interpretive claim.",
+          "⑤": "The interdisciplinary summary concludes the passage; inserting the critical power perspective here disrupts the closing move."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-21",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "challenging",
+      "topic": "epigenetic inheritance and evolutionary theory",
+      "insertSentence": "These environmentally induced modifications have been documented, in some cases, to persist across two or three subsequent generations without any alteration to the underlying DNA sequence — a finding that sits uncomfortably with strict gene-centric accounts of inheritance.",
+      "passage": "Classical evolutionary theory, as synthesised in the mid-twentieth century, held that heritable variation could arise only through changes to the nucleotide sequence of DNA. ( ① ) This gene-centric view assigned organisms a largely passive role in their own evolution: environmental modifications of individuals could not be transmitted to offspring. ( ② ) The emergence of epigenetics has complicated this picture by demonstrating that chemical modifications to DNA and its associated histone proteins — alterations that change gene expression without affecting the DNA sequence itself — can be triggered by diet, stress, and toxin exposure. ( ③ ) The implications for evolutionary theory are substantial: if parents transmit not only genes but also environmentally acquired patterns of gene expression, then the mechanisms and tempo of evolutionary change may be considerably more complex than the neo-Darwinian synthesis anticipated. ( ④ ) Defenders of the orthodox view have questioned whether multi-generational transmission effects observed in laboratory conditions occur with sufficient frequency in natural populations to be evolutionarily significant. ( ⑤ ) The debate has prompted calls for an extended evolutionary synthesis that formally incorporates epigenetic inheritance as a distinct channel of biological information transmission.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "파일상 answer가 3으로 기록(=⑤ 위치)이다. ⑤ 앞 문장은 정통 관점 옹호자들이 '실험실에서 관찰된 세대 간 전달 효과가 자연 집단에서 충분한 빈도로 나타나는지 의문을 제기한다'고 서술한다. 삽입 문장은 'These environmentally induced modifications'로 ③에서 소개된 후성유전적 변형을 받아, 이 변형이 DNA 서열 변화 없이 2~3세대에 걸쳐 지속된다는 구체적 발견을 추가한다. 이것이 바로 옹호자들이 반박하는 핵심 경험적 주장이다. ⑤ 뒤 문장은 이 논쟁이 확장된 진화 종합 이론 요구로 이어졌다고 결론짓는다.",
+        "wrong": [
+          "①은 오답이다. 'These environmentally induced modifications'가 가리킬 후성유전적 변형이 아직 소개되지 않았다.",
+          "②는 오답이다. 환경적 변형이 전달될 수 없다는 유전자 중심 관점의 제약을 서술하는 단계다. 반박 증거를 그 주장 전에 제시하면 순서가 역전된다.",
+          "③은 오답이다. 후성유전적 변형이 막 소개되는 단계다. 세대 간 지속이라는 특정 발견이 그 소개를 중간에 끊으면 흐름이 어색하다.",
+          "④는 오답이다. ④ 위치에서 진화론적 함의가 서술되는 중이다. 경험적 지속 발견을 이론적 함의 논의 중간에 넣으면 논증이 완결되기 전에 끊긴다."
+        ],
+        "key_point": "삽입 문장이 ⑤ 앞 옹호자들의 '빈도 의문'이 겨냥하는 '세대 간 지속' 주장의 구체적 근거를 제공하고, 이 논쟁이 뒤따르는 확장 진화 종합 요구의 동력이 된다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ⑤, defenders of orthodoxy question whether multi-generational transmission effects seen in labs are evolutionarily significant in natural populations. The inserted sentence uses 'These environmentally induced modifications' to refer to the epigenetic changes introduced at ③, and adds the specific claim that they persist across two or three generations without DNA sequence change. This is the key empirical detail that defenders are contesting (persistence in natural populations at sufficient frequency). After ⑤, the passage states that the debate has prompted calls for an extended synthesis — the debate being between the transgenerational persistence evidence (inserted sentence) and the defenders' frequency/magnitude objection (before ⑤). The inserted sentence thus provides the factual basis of the contested claim that motivates the call for an extended synthesis.",
+        "position_elimination": {
+          "①": "'These environmentally induced modifications' has no referent; epigenetics has not been introduced.",
+          "②": "The gene-centric restriction on transmitting environmental modifications is being stated; the counter-evidence cannot appear before the claim it counters.",
+          "③": "Epigenetic modifications are just being introduced; the transgenerational persistence finding adds a specific claim that should follow, not interrupt, the introduction.",
+          "④": "The implications for evolutionary theory are being stated; inserting the empirical persistence finding here disrupts the theoretical-implication argument before it is completed."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-22",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "challenging",
+      "topic": "emergence in complex systems",
+      "insertSentence": "Others remain sceptical, maintaining that apparent emergence is simply a reflection of incomplete knowledge of micro-level dynamics and that, in principle, a sufficiently complete analysis of components would always recover the system-level property.",
+      "passage": "One of the most significant challenges in the philosophy of science is the concept of emergence — the appearance of properties at higher levels of organisation that cannot be straightforwardly derived from the properties of constituent components alone. ( ① ) The wetness of water, the synchronised flashing of fireflies, and the coordinated motion of starling murmurations are all offered as examples of emergent phenomena. ( ② ) Reductionist methodology proceeds on the assumption that understanding a complex system requires decomposing it into its simplest components and characterising their interactions. ( ③ ) Simulation studies of agent-based models have repeatedly produced system-level behaviours — phase transitions, spontaneous ordering, cascading failures — that could not be anticipated by analysing the rules governing individual agents in isolation, suggesting a genuine irreducibility. ( ④ ) This has led some complexity theorists to argue that emergence represents a fundamental limit on the explanatory power of reductionism, not merely a practical difficulty arising from computational intractability. ( ⑤ ) The debate continues to attract contributions from physicists, biologists, and philosophers, reflecting the absence of consensus on whether emergence is an ontological feature of reality or an epistemological artefact of our incomplete models.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤가 정답이다. ⑤ 앞 문장은 복잡계 이론가들이 '창발이 환원주의의 설명력에 대한 근본적 한계를 나타낸다'는 강한 주장을 제기한다. 삽입 문장은 'Others'로 이 주장에 회의적인 입장을 도입한다: 겉보기 창발은 미시 역학에 대한 불완전한 지식의 반영일 뿐이며, 원리상 완전한 분석이 가능하면 환원주의가 성공한다는 것이다. ⑤ 뒤 문장은 물리학자·생물학자·철학자들 사이의 논쟁이 창발이 존재론적 특성인지 인식론적 인공물인지에 대한 것이라고 마무리하는데, 삽입 문장의 '불완전한 지식(인식론)' 대 '진정한 환원 불가능성(존재론)' 구분이 이 최종 대비와 정확히 대응한다.",
+        "wrong": [
+          "①은 오답이다. 환원주의나 창발에 대한 입장이 아직 확립되지 않아 회의론자들이 응답할 선행 주장이 없다.",
+          "②는 오답이다. 창발 사례들이 나열되는 단계다. 환원주의 도전이 발전되기 전에 회의론적 반론을 삽입하면 이르다.",
+          "③은 오답이다. 환원주의 방법론이 묘사되는 단계다. 회의론자들의 방어가 될 수 있지만, 그 방어를 촉발하는 시뮬레이션 도전이 아직 제시되지 않았다.",
+          "④는 오답이다. 에이전트 기반 모델 증거는 나왔지만 복잡계 이론가들의 강한 주장(근본적 한계)이 아직 제시되지 않아 회의론자들의 응답이 응답할 대상이 없다."
+        ],
+        "key_point": "삽입 문장의 회의론적 'Others'가 ⑤ 앞 복잡계 이론가들의 강한 주장에 대응하고, 뒤따르는 결론의 '존재론 대 인식론' 대비가 삽입 문장의 '진정한 환원 불가능성 대 불완전한 지식' 구분과 정확히 맞물린다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ⑤, the passage presents complexity theorists' argument that emergence is a fundamental limit on reductionism. The inserted sentence introduces 'Others' who are sceptical of this view, arguing that apparent emergence is just incomplete knowledge — reductionism would succeed in principle with full information. After ⑤, the passage notes ongoing debate between physicists, biologists, and philosophers on whether emergence is ontological or epistemological — exactly the debate that the inserted sentence's sceptical position contributes to. The final sentence's contrast between 'ontological feature' and 'epistemological artefact' mirrors the inserted sentence's distinction between genuine irreducibility and incomplete knowledge.",
+        "position_elimination": {
+          "①": "No position on reductionism or emergence has been established; the sceptical 'Others' have no prior claim to respond to.",
+          "②": "Emergence examples are being listed; the sceptical counter-position is premature before the reductionist challenge is developed.",
+          "③": "Reductionist methodology is described; the sceptics' position is a defence of this methodology, but the simulation challenge that motivates the defence has not yet been presented.",
+          "④": "The agent-based model evidence for irreducibility has been presented but complexity theorists' strong claim (fundamental limit) has not yet been made; the sceptics' response cannot precede the position it responds to."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-23",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "challenging",
+      "topic": "the hard problem of consciousness",
+      "insertSentence": "Chalmers distinguishes this from what he calls the 'easy problems' — explaining how the brain discriminates stimuli, integrates information, and controls behaviour — which are, in his view, difficult but ultimately tractable by the methods of cognitive neuroscience.",
+      "passage": "The question of why physical processes in the brain give rise to subjective experience — why there is something it is like to see red, to feel pain, or to hear music — has been described by the philosopher David Chalmers as the 'hard problem of consciousness.' ( ① ) The hard problem is hard because any functional or computational account of the brain's operations seems in principle compatible with the absence of inner experience, leaving open the logical possibility of 'philosophical zombies': beings physically identical to us but devoid of inner life. ( ② ) Neuroscientists working within frameworks such as global workspace theory and integrated information theory have proposed detailed accounts of the neural mechanisms underlying conscious access and reportability. ( ③ ) Chalmers and sympathisers argue, however, that even if these theories correctly identify the neural correlates of consciousness, they do not explain why those correlates should be accompanied by subjective experience rather than occurring 'in the dark.' ( ④ ) This residual explanatory gap has motivated heterodox theoretical positions, from panpsychism — the view that experience is a fundamental feature of matter — to illusionism, which denies the hard problem by arguing that the seeming mysteriousness of subjective experience is itself a cognitive illusion. ( ⑤ ) The debate continues to attract contributions from philosophers, neuroscientists, physicists, and cognitive scientists, reflecting its reputation as perhaps the deepest open question about the nature of mind.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "②가 정답이다. ② 앞 문장은 '어려운 문제'가 왜 어려운지를 설명한다: 뇌의 기능적 설명이 내적 경험 없이도 원리상 가능하며, '철학적 좀비'의 논리적 가능성이 열려 있다는 것이다. 삽입 문장은 Chalmers가 '쉬운 문제들'(자극 구별·정보 통합·행동 제어)을 구분하는데, 이것들은 인지 신경과학으로 해결 가능하다고 정의한다. ② 뒤 문장들은 신경과학자들이 전지구적 작업공간 이론과 통합 정보 이론으로 의식의 신경 메커니즘을 설명하는데, 이것이 바로 삽입 문장에서 정의한 '쉬운 문제' 접근법이다. 삽입 문장 없이는 독자가 Chalmers가 왜 그 이론들에 불만족하는지 이해할 틀이 없다.",
+        "wrong": [
+          "①은 오답이다. '어려운 문제'의 명칭만 소개되었을 뿐 아직 왜 어려운지 특성화되지 않았다. '쉽고/어려운' 구분은 어려움 논증이 먼저 나와야 의미 있다.",
+          "③은 오답이다. 신경과학자들의 '쉬운 문제' 이론들이 이미 묘사 중이다. 그 이론들이 나온 뒤에 '쉬운/어려운' 구분을 도입하면 순서가 혼란스럽다.",
+          "④는 오답이다. Chalmers의 이론 반박이 이미 제시된 상태다. '쉽고/어려운' 프레임은 그 반박이 만들어지기 전에 와야 한다.",
+          "⑤는 오답이다. 학제적 논쟁으로 마무리되는 결론이다. 정의적 구분은 결론이 아닌 논증 본론에 속한다."
+        ],
+        "key_point": "삽입 문장의 '쉬운 문제' 정의가 ② 뒤 신경과학자 이론들의 성격을 규정하고, ③에서 Chalmers가 '그 이론들이 맞더라도 어려운 문제는 남는다'고 반박할 수 있는 개념적 틀을 제공한다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ②, the passage explains the hard problem and why it is hard (zombie argument). The inserted sentence defines the contrast class — 'easy problems' — which are tractable by cognitive neuroscience. After ②, the passage describes neuroscientists working on global workspace theory and IIT — these are precisely the theories addressing the 'easy problems' defined in the inserted sentence. Chalmers' objection in ③ ('even if these theories correctly identify the neural correlates...') then makes sense as the hard problem reasserting itself against easy-problem solutions. Without the inserted sentence, the reader has no framework for understanding why Chalmers is dissatisfied with the neuroscientists' accounts.",
+        "position_elimination": {
+          "①": "The hard problem has been named but not yet characterised as hard; the easy/hard distinction requires the hardness argument first.",
+          "③": "Neuroscientists' easy-problem theories are already being described; introducing the easy/hard distinction after the theories appear confuses the sequence.",
+          "④": "Chalmers' objection to functional theories is already stated; the easy/hard framework belongs before the objection it frames.",
+          "⑤": "Interdisciplinary debate concludes the passage; the definitional distinction belongs in the argumentative body."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-24",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "challenging",
+      "topic": "infrastructural path dependency and technology lock-in",
+      "insertSentence": "This lock-in effect is compounded by the network externalities that characterise many infrastructure systems: each additional user of a technology increases its value to all existing users, creating a self-reinforcing dynamic that makes defection from the dominant standard costly even when superior alternatives are available.",
+      "passage": "The concept of path dependency holds that the options available to decision-makers at any moment are constrained by choices made in the past, particularly when those choices involved building durable physical or institutional infrastructure. ( ① ) The persistence of the QWERTY keyboard layout, the gauge of railway tracks, and the design of electrical grids all illustrate how early technological commitments create trajectories that subsequent decisions must follow. ( ② ) The economic mechanism underlying path dependency is often described in terms of switching costs: once a technology is widely adopted and complementary assets — trained workers, maintenance infrastructure, compatible equipment — have been built around it, transitioning requires dismantling and rebuilding the entire ecosystem of complementary investments. ( ③ ) The case of hydrogen fuel cell vehicles illustrates this dynamic: despite potential advantages in certain use cases, their diffusion has been slowed by the absence of a refuelling network, while the battery electric vehicle ecosystem accumulates exactly the kind of complementary infrastructure that creates path dependency. ( ④ ) Policymakers who wish to redirect technological trajectories cannot rely on price signals and market competition alone; they must actively disrupt self-reinforcing dynamics through mechanisms such as mandatory interoperability standards, subsidies for complementary infrastructure, and coordinated industry agreements. ( ⑤ ) Without such interventions, the transition to more sustainable or efficient technologies may be indefinitely delayed by the inertia of embedded investments.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "④가 정답이다. ④ 앞 문장은 수소차 대 배터리 전기차 사례를 제시하는데, 전기차 생태계가 보완 인프라를 축적하면서 경로 의존성이 만들어지는 과정을 보여준다. 삽입 문장은 'This lock-in effect'로 이 사례에서 드러난 고착 효과를 받아 두 번째 심화 메커니즘인 네트워크 외부성을 추가한다: 사용자가 늘수록 기술의 가치가 모든 기존 사용자에게 높아져, 더 나은 대안이 있어도 지배적 표준을 이탈하기 어려운 자기 강화 역학이 작동한다. ④ 뒤 문장은 정책 입안자들이 '자기 강화 역학'을 능동적으로 교란해야 한다고 권고하는데, 이 자기 강화 역학이 바로 삽입 문장의 네트워크 외부성이다.",
+        "wrong": [
+          "①은 오답이다. 경로 의존성이 개념적으로만 소개되었고 구체적 고착 메커니즘이나 사례가 없어 'This lock-in effect'의 선행사가 없다.",
+          "②는 오답이다. 역사적 사례들이 제시되었지만 전환 비용이 아직 정의되지 않아 네트워크 외부성 도입이 이중으로 이르다.",
+          "③은 오답이다. 전환 비용은 정의되었지만 'This lock-in effect'가 지시하는 자동차 사례가 아직 등장하지 않았다.",
+          "⑤는 오답이다. 정책 결론과 '내장된 투자의 관성'이라는 아이디어가 마무리를 이루는 단계다. 메커니즘 설명을 결론 뒤에 삽입하면 구조가 무너진다."
+        ],
+        "key_point": "'This lock-in effect'가 ④ 앞 전기차 사례의 보완 생태계 고착을 받고, 삽입 문장의 '네트워크 외부성' 자기 강화 메커니즘이 뒤따르는 정책 처방의 '자기 강화 역학 교란' 목표물이 된다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ④, the passage presents the hydrogen vs. battery electric vehicle case, which illustrates switching costs and how a growing complementary ecosystem creates path dependency (sentence before ④). The inserted sentence uses 'This lock-in effect' to refer to the lock-in demonstrated by the automotive example and adds a second compounding mechanism: network externalities, where each additional user increases value to all, making defection from the dominant standard costly even when better alternatives exist. After ④, the passage turns to policy responses aimed at disrupting 'self-reinforcing dynamics' — the self-reinforcing dynamic is precisely the network externality mechanism introduced in the inserted sentence. 'This lock-in effect' requires the preceding automotive example as its referent.",
+        "position_elimination": {
+          "①": "Path dependency has been introduced conceptually; no specific lock-in mechanism or example has been given.",
+          "②": "Historical examples are presented but switching costs have not yet been defined; network externalities are doubly premature.",
+          "③": "Switching costs have been defined but the automotive example that 'This lock-in effect' refers to has not yet appeared.",
+          "⑤": "Policy conclusion and the 'inertia of embedded investments' idea close the passage; inserting the mechanism description at the very end disrupts the conclusion."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "v2-38-25",
+      "number": 38,
+      "type": "문장 삽입",
+      "difficulty": "challenging",
+      "topic": "anthropological kinship systems and classificatory logic",
+      "insertSentence": "Descriptive systems, characteristic of many Western European societies, employ a unique term for each distinct biological or marital relationship, distinguishing, for example, between a paternal uncle and a maternal uncle, or between a half-sibling and a full sibling.",
+      "passage": "Anthropologists studying kinship systems across cultures have found that the categories used to organise descent, marriage, and siblinghood vary so significantly that terms borrowed from one system consistently misrepresent the structure of another. ( ① ) The most fundamental analytical distinction introduced to address this problem is between descriptive and classificatory kinship systems. ( ② ) Classificatory systems, by contrast, group under a single term individuals who occupy the same structural position in the kinship network, regardless of their precise genealogical relationship. ( ③ ) Thus, in a society organised on classificatory principles, one's biological father and all of his brothers may be addressed by the same term, not because the system fails to distinguish individuals but because it classifies them as occupying an equivalent social position with respect to the speaker. ( ④ ) Lewis Henry Morgan, who first systematically mapped this distinction in the nineteenth century, argued that classificatory terminologies reflect a social logic of group solidarity: the same term for father and father's brothers encodes the fact that all these men share a common set of rights and obligations toward the speaker. ( ⑤ ) Contemporary kinship theorists have largely moved beyond the evolutionary framework Morgan attached to this insight, but his core observation that kinship categories encode social relationships rather than merely map biological facts remains foundational to the field.",
+      "question": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+      "choices": [
+        "①",
+        "②",
+        "③",
+        "④",
+        "⑤"
+      ],
+      "answer": 2,
+      "points": 3,
+      "explanations": {
+        "correct": "②가 정답이다. ② 앞 문장은 기술적(descriptive) 친족 체계와 분류적(classificatory) 친족 체계의 구분이 핵심 분석 도구로 도입된다고 서술한다. 삽입 문장은 '기술적 체계'의 편을 구체적 예시(부계 삼촌 vs. 모계 삼촌, 이복 형제 vs. 친형제 구분)와 함께 정의한다. ② 뒤 문장은 'by contrast'로 분류적 체계를 정의한다: 동일한 구조적 위치를 점하는 개인들을 단일 용어로 묶는다는 것이다. 'by contrast'는 대비할 선행 개념이 필요하며, 삽입 문장의 기술적 체계 정의가 그 선행 개념이다.",
+        "wrong": [
+          "①은 오답이다. '기술적/분류적' 구분이 아직 소개되지 않아 한쪽 편을 정의하기 이르다.",
+          "③은 오답이다. ③ 위치에서는 분류적 체계가 'by contrast'로 이미 정의되는 중이다. 여기에 기술적 체계 정의를 삽입하면 'by contrast'가 문법적으로 중복된다.",
+          "④는 오답이다. 분류적 체계의 논리적 함의(아버지와 아버지의 형제를 같은 용어로 부르는 이유)를 도출하는 단계다. 이 시점에서 기술적 체계의 기초 정의는 어울리지 않는다.",
+          "⑤는 오답이다. Morgan의 기여와 현대 친족 이론의 수용이라는 역사적·이론적 마무리 단계다. 정의 쌍은 역사적 맥락화 이전에 와야 한다."
+        ],
+        "key_point": "삽입 문장의 '기술적 체계' 정의가 ② 뒤 'by contrast'(분류적 체계 정의)의 대비 대상을 제공한다. 삽입 문장 없이는 'by contrast'가 대비할 선행 개념이 없어 문맥이 불완전하다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "Before ②, the passage introduces the descriptive vs. classificatory distinction as the key analytical tool. The inserted sentence defines the 'descriptive' side of this pairing with concrete examples (paternal vs. maternal uncle; half vs. full sibling). After ②, the passage uses 'by contrast' to define the classificatory side — grouping structurally equivalent individuals under one term. The 'by contrast' requires a prior term to contrast with; the inserted sentence's definition of descriptive systems is that prior term. Without the inserted sentence, 'by contrast' at ③ has nothing to contrast against.",
+        "position_elimination": {
+          "①": "The descriptive/classificatory distinction has not yet been introduced; defining one pole is premature.",
+          "③": "Classificatory systems are being defined; inserting the descriptive definition here after 'by contrast' would make 'by contrast' grammatically redundant.",
+          "④": "The logical implication of classificatory systems is being drawn; the foundational definition of descriptive systems is out of place here.",
+          "⑤": "Morgan's contribution and contemporary reception conclude the passage; the definitional pair should appear before the historical and theoretical elaboration."
+        },
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

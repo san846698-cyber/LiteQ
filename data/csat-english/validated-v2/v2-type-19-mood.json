@@ -1,0 +1,737 @@
+{
+  "type": "심경 변화",
+  "typeNumber": 19,
+  "model": "sonnet",
+  "version": "v2",
+  "totalGenerated": 25,
+  "pass": 24,
+  "warn": 1,
+  "fail": 0,
+  "questions": [
+    {
+      "id": "v2-19-01",
+      "difficulty": "easy",
+      "answer": 2,
+      "passage": "Nora had spent every weekend for three months training for the regional spelling bee. On the day of the competition, she stood at the microphone with her shoulders back and her breathing steady. She had memorized every word on the practice list. When the announcer read the first word, Nora spelled it without hesitation and returned to her seat smiling. Round after round, she advanced effortlessly. But in the final round, the announcer read a word she had never encountered before. Nora's mind went blank. She stared at the microphone stand, unable to recall even the root of the word. Slowly, she attempted a spelling — but the bell sounded. She had misspelled it. Her eyes dropped to the floor as the audience applauded the winner on the other side of the stage. The trophy she had pictured on her bookshelf for three months was going to someone else.",
+      "question": "다음 글에 드러난 Nora의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "assured → crestfallen",
+        "nervous → grateful",
+        "embarrassed → calm",
+        "hopeful → nervous",
+        "excited → ashamed"
+      ],
+      "explanations": {
+        "correct": "전반부: 'shoulders back and her breathing steady', 'spelled it without hesitation', 'advanced effortlessly'에서 Nora의 자신감(assured)이 드러남. 후반부: 'Her eyes dropped to the floor', 'The trophy she had pictured... was going to someone else'에서 실망으로 인한 낙심(crestfallen)이 확인됨.",
+        "wrong": {
+          "1": "① 'nervous → grateful': 전반부의 Nora는 초조한 것이 아니라 자신감에 차 있었고('effortlessly'), 후반부에 감사함도 나타나지 않음.",
+          "3": "③ 'embarrassed → calm': 전반부에 당혹감의 근거가 없으며, 후반부에 평온해진 묘사도 없음.",
+          "4": "④ 'hopeful → nervous': 전반부는 '희망'보다 확고한 자신감이며, 후반부는 초조함이 아닌 낙심임.",
+          "5": "⑤ 'excited → ashamed': 전반부는 흥분이 아닌 침착한 자신감이며, 후반부의 감정은 수치심이 아닌 낙심임."
+        },
+        "key_point": "전반부 자신감('effortlessly', 'without hesitation') → 후반부 낙심('eyes dropped to the floor')의 대비를 포착해야 함."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (assured): Nora stands with shoulders back, breathes steadily, advances 'effortlessly', smiles — textually confirmed confidence/assurance. Phase 2 (crestfallen): bell sounds on misspelling, 'eyes dropped to the floor', trophy goes to someone else — clear dejection. Turning point: unfamiliar word. Synonym check: 'assured' ≠ 'excited'; 'crestfallen' ≠ 'embarrassed' ≠ 'ashamed' ≠ 'nervous'. No banned words. Half-correct distractors: (2) 'nervous → grateful' — Phase 1 wrong (she is assured, not nervous), Phase 2 wrong (no gratitude); (4) 'hopeful → nervous' — neither phase correct; (5) 'excited → ashamed' — 'excited' is adjacent to Phase 1 but too weak; 'ashamed' not supported. At least 2 half-correct: choice 2 gets Phase 2 partially plausible for wrong reasons, choice 4 is half-thematic. All 5 choices are distinct.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-02",
+      "difficulty": "easy",
+      "answer": 3,
+      "passage": "Kevin sat in the waiting room of the veterinary clinic, cradling his dog Max in his arms. Max had collapsed suddenly that morning and hadn't eaten in two days. Kevin stroked Max's fur and stared at the floor, unable to shake the thought that something was seriously wrong. When the vet finally called them in and ran tests, Kevin sat rigid in the chair, his hands clasped tightly together. The minutes felt like hours. Then the vet returned with a calm expression. 'It's a minor stomach infection — very common, very treatable. A week of medication and he'll be back to chasing squirrels.' Kevin let out a long, shaky breath. He looked down at Max, who was already wagging his tail weakly, and felt the tightness in his chest dissolve completely.",
+      "question": "다음 글에 드러난 Kevin의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "annoyed → content",
+        "fearful → relieved",
+        "sorrowful → thrilled",
+        "fearful → grateful",
+        "calm → distressed"
+      ],
+      "explanations": {
+        "correct": "전반부: 'unable to shake the thought that something was seriously wrong', 'sat rigid in the chair, his hands clasped tightly'에서 두려움(fearful)이 명확히 드러남. 후반부: 'let out a long, shaky breath', 'felt the tightness in his chest dissolve completely'에서 안도감(relieved)이 확인됨.",
+        "wrong": {
+          "1": "① 'annoyed → content': 전반부의 감정은 짜증이 아닌 두려움이며, 후반부의 'dissolve'는 안도이지 만족감이 아님.",
+          "3": "③ 'sorrowful → thrilled': 전반부는 슬픔보다 두려움이 더 정확하고, 후반부는 'dissolve'로 표현된 안도이지 '황홀함'이 아님.",
+          "4": "④ 'fearful → grateful': 전반부는 정확하나, 후반부의 'tightness dissolved'는 감사보다 안도감을 나타냄.",
+          "5": "⑤ 'calm → distressed': 전체 방향이 반대임. Kevin은 처음부터 침착하지 않았음."
+        },
+        "key_point": "두려움('hands clasped tightly') → 안도('tightness dissolved')의 흐름이 핵심이며, 'grateful'과 'relieved'의 차이를 구별해야 함."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (fearful): 'unable to shake the thought that something was seriously wrong', 'sat rigid', 'hands clasped tightly' — explicit fear/dread. Phase 2 (relieved): vet gives good news, Kevin lets out a 'long, shaky breath', 'tightness in his chest dissolved' — textually confirmed relief. Turning point: vet's diagnosis. Synonym check: 'fearful' ≠ 'sorrowful' (fear ≠ grief); 'relieved' ≠ 'content' ≠ 'grateful' (relief is immediate resolution of fear; gratitude implies thankfulness; contentment is longer-term). No banned words. Half-correct distractors: (3) 'sorrowful → thrilled' — Phase 1 emotion is adjacent (sadness vs fear) but wrong; Phase 2 'thrilled' overstates; (4) 'fearful → grateful' — Phase 1 correct, Phase 2 wrong (grateful is plausible but not what the text anchors — 'dissolved' relief, not outward thankfulness). Choice 4 is the primary half-correct trap.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-03",
+      "difficulty": "standard",
+      "answer": 2,
+      "passage": "Hannah pulled into the parking lot of the auditorium and checked her watch. She was forty minutes early for her piano recital, exactly as planned. She entered the building, placed her music folder on the bench, and ran through the opening bars in her head — note-perfect. When the hall filled and the lights dimmed, Hannah walked to the piano with quiet confidence. She adjusted the bench, settled her fingers above the keys, and began. The first movement unfolded exactly as rehearsed. Then, midway through the second movement, a surge of feedback from the microphone system shrieked through the auditorium. Hannah's fingers slipped. She stumbled through the next four bars, her face growing hot. She recovered and finished, but the mistake echoed in her ears long after she had taken her bow. Standing backstage afterward, she stared at her hands, replaying the exact moment everything had gone wrong.",
+      "question": "다음 글에 드러난 Hannah의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "nervous → peaceful",
+        "eager → regretful",
+        "composed → mortified",
+        "composed → exhausted",
+        "excited → regretful"
+      ],
+      "explanations": {
+        "correct": "전반부: '40분 일찍 도착', 'quiet confidence', 'exactly as rehearsed'에서 침착함(composed)이 드러남. 후반부: 'face growing hot', 'replaying the exact moment everything had gone wrong', 'stared at her hands'에서 수치심(mortified)이 확인됨.",
+        "wrong": {
+          "1": "① 'nervous → peaceful': 전반부는 초조함이 아닌 침착함이며, 후반부에 평온해진 묘사는 없음.",
+          "2": "② 'eager → regretful': 전반부의 'quiet confidence'는 열성(eager)보다 침착함(composed)이 더 정확하고, 후반부의 'face growing hot'은 단순 후회보다 수치심(mortified)을 가리킴.",
+          "4": "④ 'composed → exhausted': 전반부는 정확하나, 후반부는 피로가 아닌 수치심과 자책임.",
+          "5": "⑤ 'excited → regretful': 전반부는 침착함이지 흥분이 아니며, 후반부도 'mortified'가 더 정확함."
+        },
+        "key_point": "'face growing hot', 'stared at her hands'는 단순 후회가 아닌 수치심(mortified)의 표현이므로 'regretful'과 구별해야 함."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (composed): arrives early, confident, runs through notes mentally, 'quiet confidence', adjusts bench calmly — textually anchored composure. Phase 2 (mortified): fingers slip, 'face growing hot', replays the mistake backstage, stares at hands — shame/mortification, not mere disappointment. Turning point: microphone feedback. Synonym check: 'composed' appears in both choices 3 and 4 — this is intentional (same Phase 1 word, different Phase 2 to distinguish). 'mortified' ≠ 'exhausted'. 'nervous' ≠ 'composed'. 'eager' ≠ 'composed'. 'regretful' ≠ 'mortified'. No banned words. Half-correct distractors: (2) 'eager → regretful' — Phase 1 'eager' is plausible but text anchors 'composed' more precisely; Phase 2 'regretful' is thematically adjacent but 'mortified' is more strongly supported by 'face growing hot'; (4) 'composed → exhausted' — Phase 1 correct, Phase 2 wrong ('exhausted' not supported); (5) 'excited → regretful' — both halves adjacent but both slightly off. Choices 2 and 4 are the primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-04",
+      "difficulty": "easy",
+      "answer": 2,
+      "passage": "Lily stood at her locker Monday morning, dread pooling in her stomach. Her history essay — the one she had stayed up until two in the morning to finish — was due today, and she was almost certain she had saved the wrong version. She remembered typing 'final_draft' but, last night in a panic, she could only find 'rough_draft_2' on her drive. She barely heard her teacher call her name in class. When the moment came to hand in the essays, she slid her printout forward with her eyes half shut. An hour later, her teacher stopped beside her desk with a small smile. 'Lily, this is remarkably well done — strong argument, clean writing. Well done.' Lily blinked. She had printed the correct version after all. She exhaled slowly, a huge weight lifting from her shoulders, and the dread that had sat in her chest all morning melted away.",
+      "question": "다음 글에 드러난 Lily의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "confident → embarrassed",
+        "anxious → proud",
+        "distressed → thrilled",
+        "anxious → relieved",
+        "worried → surprised"
+      ],
+      "explanations": {
+        "correct": "전반부: 'dread pooling in her stomach', 'barely heard her teacher', 'eyes half shut'에서 불안감(anxious)이 지속됨. 후반부: 'huge weight lifting from her shoulders', 'the dread... melted away'에서 안도감(relieved)이 명시적으로 표현됨.",
+        "wrong": {
+          "1": "① 'confident → embarrassed': 전반부에 자신감의 근거가 없으며, 후반부에 당혹감도 나타나지 않음.",
+          "2": "② 'anxious → proud': 전반부는 정확하나, 후반부의 'dread melted away'와 'weight lifting'은 자랑스러움이 아닌 안도를 나타냄.",
+          "3": "③ 'distressed → thrilled': 전반부는 'anxious'가 더 정확하고, 후반부에 황홀함의 표현은 없음.",
+          "5": "⑤ 'worried → surprised': 전반부는 인접하나 'anxious'가 더 정확하며, 후반부의 주된 감정은 놀라움이 아닌 안도임."
+        },
+        "key_point": "'huge weight lifting', 'dread melted away'는 자부심이나 놀라움이 아닌 명백한 안도(relieved)의 표현임."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (anxious): 'dread pooling in her stomach', 'barely heard her teacher', 'eyes half shut' — explicit sustained anxiety. Phase 2 (relieved): teacher praises the work, she realizes she submitted the correct version, 'huge weight lifting from her shoulders', 'dread melted away' — textually anchored relief. Turning point: teacher's praise + realization. Synonym check: 'anxious' ≠ 'worried' ≠ 'distressed'; 'relieved' ≠ 'proud' ≠ 'thrilled' ≠ 'surprised'. No banned words. Half-correct distractors: (2) 'anxious → proud' — Phase 1 correct, Phase 2 wrong (the text signals relief not pride — 'weight lifting', 'dread melted away', not triumphant pride); (5) 'worried → surprised' — Phase 1 adjacent ('worried' ≈ 'anxious'), Phase 2 wrong ('surprised' is not the dominant final emotion). Choices 2 and 5 are the primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-05",
+      "difficulty": "standard",
+      "answer": 3,
+      "passage": "On the opening night of the school play, Marcus stood in the wings rehearsing his lines silently. He had auditioned on a dare and somehow gotten the lead role. He had practiced every night for six weeks, but standing here with the curtain about to rise, he felt a cold sweat prickle across his neck. His cue came. He stepped onto the stage, and the lights hit him full in the face. He couldn't see the audience, only a blinding white wall. Somewhere behind that light, three hundred people were waiting. He opened his mouth and, to his own surprise, the lines came out clear and strong. Scene after scene, he found himself genuinely inhabiting the character, moving freely across the stage. When the curtain fell and the audience rose to its feet, Marcus stood in the center of the stage with his chest wide open, flushed with a joy he had never expected to feel.",
+      "question": "다음 글에 드러난 Marcus의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "eager → frustrated",
+        "reluctant → moved",
+        "nervous → content",
+        "nervous → proud",
+        "terrified → elated"
+      ],
+      "explanations": {
+        "correct": "전반부: 'cold sweat prickle across his neck', 'couldn't see the audience', '300명이 기다리는' 상황에서 공포에 가까운 두려움(terrified)이 드러남. 후반부: 'audience rose to its feet', 'chest wide open', 'flushed with a joy he had never expected'에서 황홀감(elated)이 확인됨.",
+        "wrong": {
+          "1": "① 'eager → frustrated': 전반부는 열성이 아닌 공포이며, 후반부에 좌절의 근거가 없음.",
+          "2": "② 'reluctant → moved': 전반부는 꺼림칙함이 아닌 공포이며, 후반부는 단순히 감동받은 것을 넘어 황홀감임.",
+          "3": "③ 'nervous → content': 전반부의 'cold sweat'는 단순 긴장보다 강한 공포이며, 후반부의 'flushed with joy'는 만족감보다 훨씬 강렬함.",
+          "4": "④ 'nervous → proud': 전반부 강도가 부족하고, 후반부의 'flushed with a joy he had never expected'는 자부심보다 황홀감에 가까움."
+        },
+        "key_point": "'cold sweat'는 단순 긴장(nervous)보다 강한 공포(terrified)이고, 'flushed with joy'는 만족(content)이나 자부심(proud)이 아닌 황홀감(elated)임."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (terrified): 'cold sweat prickle across his neck', 'couldn't see the audience', 'three hundred people were waiting' — strong fear beyond simple nervousness. Phase 2 (elated): standing ovation, 'chest wide open', 'flushed with a joy he had never expected' — elation, not mere contentment or pride. Turning point: lines come out clear and strong despite fear. Synonym check: 'terrified' ≠ 'nervous' (degree); 'elated' ≠ 'content' ≠ 'proud' ≠ 'moved' (joy vs satisfaction vs pride vs being moved). No banned words. Half-correct distractors: (3) 'nervous → content' — Phase 1 partially correct (nervousness is present but 'terrified' is stronger), Phase 2 wrong ('content' is too mild for 'flushed with joy'); (4) 'nervous → proud' — Phase 1 same issue as (3); Phase 2 'proud' is plausible but 'elated/flushed with joy' is more precisely supported than pride. Choices 3 and 4 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-06",
+      "difficulty": "standard",
+      "answer": 2,
+      "passage": "Grace had been preparing her photography portfolio for the national youth art competition for four months. She carefully selected twelve photographs, printed them on archival paper, and shipped them in a padded box. On the day results were announced, she sat at her computer at exactly noon and refreshed the page. Her name was not on the shortlist. She refreshed twice more. Still nothing. Grace pushed her chair back and walked to the window. She had genuinely believed at least one photo would make the cut. Outside, the sky was flat gray, which seemed somehow appropriate. Then her phone rang — an unknown number. 'Hello, is this Grace? This is the competition director. Your portfolio arrived damaged in transit and was inadvertently excluded from judging. We'd like to invite you to submit again for our spring round with a full fee waiver.' Grace sat down slowly, the hollow feeling in her chest replaced by a cautious, spreading warmth.",
+      "question": "다음 글에 드러난 Grace의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "deflated → hopeful",
+        "hopeful → deflated",
+        "frustrated → peaceful",
+        "deflated → grateful",
+        "calm → deflated"
+      ],
+      "explanations": {
+        "correct": "전반부: '이름이 shortlist에 없음', '두 번 더 새로고침', 'hollow feeling in her chest'에서 실망감(deflated)이 드러남. 후반부: 대회 측의 재도전 기회 제공 후 'cautious, spreading warmth'에서 조심스러운 희망(hopeful)이 확인됨.",
+        "wrong": {
+          "2": "② 'hopeful → deflated': 방향이 반대임. Grace는 처음에 실망하고 나중에 희망을 느낌.",
+          "3": "③ 'frustrated → peaceful': 전반부는 좌절보다 실망감이고, 후반부는 평온함이 아닌 희망임.",
+          "4": "④ 'deflated → grateful': 전반부는 정확하나, 후반부의 'cautious, spreading warmth'는 감사함이 아닌 희망을 나타냄.",
+          "5": "⑤ 'calm → deflated': 전반부에 Grace는 침착하지 않았으며(결과를 기다리며 긴장함), 방향도 반대임."
+        },
+        "key_point": "'hollow feeling'(실망) → 'cautious, spreading warmth'(조심스러운 희망)의 흐름에서 'grateful'이 아닌 'hopeful'임을 구별해야 함."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (deflated): name not on shortlist, refreshes page multiple times, walks to window, 'hollow feeling in her chest' — deflation/disappointment. Phase 2 (hopeful): competition director explains the error and offers a new chance, 'cautious, spreading warmth' — carefully hopeful, not yet thrilled. Turning point: phone call from the director. Synonym check: 'deflated' ≠ 'frustrated'; 'hopeful' ≠ 'grateful' ≠ 'peaceful'. No banned words. Half-correct distractors: (2) 'hopeful → deflated' — reversal trap (correct arc is opposite); (4) 'deflated → grateful' — Phase 1 correct, Phase 2 wrong ('grateful' implies thankfulness; the text anchors 'cautious, spreading warmth' which is hope, not gratitude); (5) 'calm → deflated' — neither phase correct (she is not calm before; she is anxious anticipating results). Choices 2 and 4 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-07",
+      "difficulty": "standard",
+      "answer": 4,
+      "passage": "Pedro had trained for eight months for the city half-marathon. Race morning arrived cold and clear, and he stood at the starting line with a quiet certainty. He had run this distance dozens of times and knew exactly what pace to set. The first ten kilometers went exactly as planned. But at kilometer thirteen, a sharp cramp seized his left calf. Pedro gritted his teeth and ran through it, but by kilometer fifteen, the pain had traveled up to his knee. He slowed to a jog, then a walk. Around him, other runners flowed past in a steady stream. He had to watch his target finish time slip away with each passing minute. Pedro hobbled across the finish line twenty-two minutes behind his goal. He sat down on the curb, unwrapped his knee brace, and stared at the ground. Eight months had come down to this.",
+      "question": "다음 글에 드러난 Pedro의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "nervous → defeated",
+        "confident → dejected",
+        "eager → furious",
+        "confident → regretful",
+        "determined → exhausted"
+      ],
+      "explanations": {
+        "correct": "전반부: 'quiet certainty', 'knew exactly what pace to set'에서 자신감(confident)이 드러남. 후반부: 목표 기록 초과, 'stared at the ground', 'Eight months had come down to this'에서 깊은 낙담(dejected)이 확인됨.",
+        "wrong": {
+          "1": "① 'nervous → defeated': 전반부는 초조함이 아닌 자신감이며, 후반부는 '패배감'보다 'dejected'가 더 적합함.",
+          "3": "③ 'eager → furious': 전반부는 자신감이지 열성이 아니며, 후반부에 분노의 근거가 없음.",
+          "4": "④ 'confident → regretful': 전반부는 정확하나, 후반부의 'stared at the ground'와 'Eight months had come down to this'는 자책보다 깊은 낙담(dejected)을 나타냄.",
+          "5": "⑤ 'determined → exhausted': 전반부는 인접하나 'confident'가 더 정확하고, 후반부는 심리적 낙담이지 신체적 피로가 아님."
+        },
+        "key_point": "'stared at the ground'와 'Eight months had come down to this'는 후회보다 깊은 낙담(dejected)을 나타냄."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (confident): 'quiet certainty', 'knew exactly what pace to set', first ten kilometers go 'exactly as planned' — textually anchored confidence. Phase 2 (dejected): forced to walk, watches finish time slip away, hobbles in 22 minutes behind goal, 'stared at the ground', 'Eight months had come down to this' — deep dejection. Turning point: cramp at km 13 escalating. Synonym check: 'confident' appears in choices 2 and 4 — both have same Phase 1 but different Phase 2 ('dejected' vs 'regretful'). 'Dejected' is more strongly supported than 'regretful' (the text expresses defeat/dejection not 'I wish I had done X differently'). 'nervous' ≠ 'confident'. 'eager' ≠ 'confident'. 'determined' ≠ 'confident'. No banned words. Half-correct distractors: (4) 'confident → regretful' — Phase 1 correct, Phase 2 adjacent but wrong ('regretful' implies wishing you had acted differently; the text anchors defeat/dejection more strongly); (5) 'determined → exhausted' — Phase 1 adjacent, Phase 2 wrong ('exhausted' describes physical state, not emotional state). Choices 4 and 5 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-08",
+      "difficulty": "challenging",
+      "answer": 2,
+      "passage": "On the last day of the hiking trail, Soo-jin crested the final ridge and looked out at the valley below. The view was exactly what she had imagined when she booked the trip six months ago — layers of forest rolling to the horizon, the river a bright thread far below. She felt the particular happiness of arrival: light, still, complete. Then she noticed the platform where her group was supposed to take the commemorative photograph. A laminated sign was taped to the railing. 'Viewpoint permanently closed for restoration. Photography prohibited.' She stared at the sign for a long moment. She had planned to frame this photograph as a gift for her mother, who had given her the hiking boots. The view was still there, unchanged and perfect. But the photograph — the whole point of reaching the top — was no longer possible. She turned away from the railing, the lightness of a moment ago replaced by something quiet and heavy.",
+      "question": "다음 글에 드러난 Soo-jin의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "nervous → satisfied",
+        "peaceful → furious",
+        "serene → disheartened",
+        "serene → regretful",
+        "exhausted → peaceful"
+      ],
+      "explanations": {
+        "correct": "전반부: 'the particular happiness of arrival: light, still, complete'에서 고요하고 깊은 평온함(serene)이 드러남. 후반부: 촬영 금지 팻말 발견 후 'lightness of a moment ago replaced by something quiet and heavy'에서 낙심(disheartened)이 확인됨.",
+        "wrong": {
+          "1": "① 'nervous → satisfied': 전반부는 초조함이 아닌 평온함이며, 후반부는 만족이 아닌 낙심임.",
+          "2": "② 'peaceful → furious': 전반부는 인접하나 'serene'이 더 정확하고, 후반부의 'quiet and heavy'는 분노가 아닌 낙심임.",
+          "4": "④ 'serene → regretful': 전반부는 정확하나, 후반부의 '자신의 잘못'이 없으므로 후회(regretful)가 아닌 낙심(disheartened)이 더 적합함.",
+          "5": "⑤ 'exhausted → peaceful': 전반부에 피로 묘사가 없으며, 후반부의 감정도 반대임."
+        },
+        "key_point": "'regretful'은 자신의 행동에 대한 후회를 암시하지만, Soo-jin의 상황은 외부 요인(폐쇄 팻말)에 의한 것이므로 'disheartened'가 정확함."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (serene): 'particular happiness of arrival: light, still, complete' — serene, not merely content or peaceful; the words 'light, still, complete' anchor a calm, deep happiness. Phase 2 (disheartened): photography prohibited, she had planned the photo as a gift, 'turns away', 'lightness replaced by something quiet and heavy' — disheartened/dampened spirit. 'Furious' is too strong; 'regretful' implies she wishes she had done something differently (not the case — the closure was beyond her control). Turning point: the sign. Synonym check: 'serene' ≠ 'peaceful' ≠ 'satisfied'. 'Disheartened' ≠ 'regretful' ≠ 'furious'. No banned words. Half-correct distractors: (4) 'serene → regretful' — Phase 1 correct, Phase 2 adjacent but wrong ('regretful' implies personal fault; the text anchors 'quiet and heavy' which is disheartening circumstance); (2) 'peaceful → furious' — Phase 1 adjacent, Phase 2 too strong. Choices 4 and 2 are primary half-correct traps. This is challenging because 'serene' vs 'peaceful' and 'disheartened' vs 'regretful' require careful reading.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-09",
+      "difficulty": "standard",
+      "answer": 1,
+      "passage": "James had put his name down for the office cooking competition on impulse. He had cooked his grandmother's lamb stew — a dish he had grown up with and could make with his eyes closed. Setting his dish on the judges' table, he felt a small, private smile cross his face. He was not a chef. But this dish was honest and good, and he knew it. The judges moved down the row, sampling each entry. When they reached his stew, one judge set down her spoon after a single taste and glanced at her colleague. Neither said anything. They moved on. James stood a little straighter, watching. When the results were announced, his name was not called. He looked at his stew — most of it still in the pot, barely touched. He carried the pot to the back table alone and stood there for a moment, the quiet certainty he had walked in with now completely gone.",
+      "question": "다음 글에 드러난 James의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "excited → content",
+        "proud → furious",
+        "eager → humiliated",
+        "self-assured → deflated",
+        "nervous → embarrassed"
+      ],
+      "explanations": {
+        "correct": "전반부: 'small, private smile', 'this dish was honest and good, and he knew it', 'quiet certainty'에서 조용한 자신감(self-assured)이 드러남. 후반부: 수상 명단에 없음, 'stew barely touched', 'quiet certainty... completely gone'에서 실망(deflated)이 확인됨.",
+        "wrong": {
+          "2": "② 'proud → furious': 전반부는 자신감이지 자랑스러움이 아니며, 후반부에 분노의 표현은 없음.",
+          "3": "③ 'eager → humiliated': 전반부의 'private smile'은 열성보다 자신감에 가깝고, 후반부의 조용한 실망은 공개적 수치가 아닌 내적 실망임.",
+          "4": "④ 'excited → content': 두 단계 모두 맞지 않음. 전반부는 흥분이 아닌 자신감이고, 후반부는 만족이 아닌 실망임.",
+          "5": "⑤ 'nervous → embarrassed': 전반부에 초조함의 근거가 없으며(오히려 자신감), 후반부의 조용한 실망은 수치심이 아님."
+        },
+        "key_point": "'quiet certainty'(전반부)와 'quiet certainty... completely gone'(후반부)의 대비가 self-assured → deflated를 정확히 가리킴."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (self-assured): 'private smile', 'knew it [was honest and good]', 'quiet certainty he had walked in with' — quiet self-assurance, not loud excitement or pride. Phase 2 (deflated): not called, stew barely touched, carries pot alone, 'quiet certainty now completely gone' — deflated. Turning point: results announced, stew barely touched. Synonym check: 'self-assured' ≠ 'proud' ≠ 'eager' ≠ 'excited' ≠ 'nervous'. 'deflated' ≠ 'content' ≠ 'furious' ≠ 'humiliated' ≠ 'embarrassed'. No banned words. Half-correct distractors: (3) 'eager → humiliated' — Phase 1 adjacent, Phase 2 adjacent but 'humiliated' implies public shaming; text anchors quiet deflation, not humiliation; (1) 'excited → content' — both halves wrong. Choices 3 and 5 are primary half-correct traps. 'Nervous → embarrassed' misreads Phase 1 (he is self-assured, not nervous).",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-10",
+      "difficulty": "easy",
+      "answer": 3,
+      "passage": "Diana carefully lifted the lid off the cardboard box the delivery man had left on her porch. Inside, wrapped in tissue paper, was the antique clock she had bought at an online auction — the exact model her late father had kept on his study desk when she was a child. She unwrapped it slowly, and when she saw the brass face and the Roman numerals, her throat tightened. She sat on the porch steps and held the clock in her lap, running her thumb over the numerals. It was as though a piece of the past had found its way back to her. But then she wound the key on the back, and the clock did not tick. She opened the rear panel. The mechanism was cracked — the damage must have happened during shipping. She set the clock gently on the steps beside her and looked at it for a long time, the warmth she had felt moments ago replaced by a quiet, sinking sadness.",
+      "question": "다음 글에 드러난 Diana의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "nervous → sorrowful",
+        "curious → devastated",
+        "content → frustrated",
+        "surprised → upset",
+        "moved → saddened"
+      ],
+      "explanations": {
+        "correct": "전반부: 'throat tightened', 'a piece of the past had found its way back', 'warmth she had felt'에서 감동받음(moved)이 확인됨. 후반부: 시계 고장 발견 후 'quiet, sinking sadness'에서 슬픔(saddened)이 명시적으로 표현됨.",
+        "wrong": {
+          "1": "① 'nervous → sorrowful': 전반부는 초조함이 아닌 감동이며, 후반부의 슬픔은 'sorrowful'보다 'saddened'가 더 적절함.",
+          "2": "② 'curious → devastated': 전반부는 호기심이 아닌 감동이며, 후반부는 'quiet, sinking sadness'로 완전한 좌절보다 절제된 슬픔임.",
+          "3": "③ 'content → frustrated': 전반부는 만족감이 아닌 감동이며, 후반부는 좌절이 아닌 슬픔임.",
+          "4": "④ 'surprised → upset': 전반부는 놀라움이 아닌 감동이며, 후반부의 'quiet, sinking sadness'는 단순 불쾌함이 아님."
+        },
+        "key_point": "'throat tightened', 'warmth'는 감동(moved)을 나타내며, 'quiet, sinking sadness'는 슬픔(saddened)이지 좌절(frustrated)이나 무너짐(devastated)이 아님."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (moved): 'throat tightened', 'as though a piece of the past had found its way back to her', 'warmth she had felt moments ago' — emotionally moved/touched, a specific emotion of tender reconnection. Phase 2 (saddened): mechanism cracked, 'quiet, sinking sadness' — explicitly stated. Turning point: clock does not tick, mechanism cracked. Synonym check: 'moved' ≠ 'nervous' ≠ 'curious' ≠ 'content' ≠ 'surprised'. 'Saddened' ≠ 'sorrowful' ≠ 'devastated' ≠ 'frustrated' ≠ 'upset'. No banned words. Half-correct distractors: (3) 'content → frustrated' — Phase 1 adjacent ('content' vs 'moved'), Phase 2 wrong ('frustrated' implies blocked goals; text says 'sinking sadness'); (4) 'surprised → upset' — Phase 1 wrong; Phase 2 partially adjacent but 'upset' understates 'saddened'. Choices 3 and 4 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-11",
+      "difficulty": "standard",
+      "answer": 4,
+      "passage": "Felix had signed up for a solo kayaking trip across the lake, a distance he had paddled twice before with an instructor. He pushed off from the dock alone for the first time, his paddle strokes sure and even. The water was flat, the sky clear. He felt a satisfying independence with each stroke that pulled him further from shore. Halfway across, a bank of fog rolled in from the northern end of the lake without warning. Within minutes, the far shore disappeared. Felix turned to check his bearings, but the dock he had launched from had vanished too. He was surrounded on all sides by white nothing. He stopped paddling. The kayak rocked gently in the sudden silence. He could hear his own breathing. There was no wind, no current, no landmark — just gray water and fog in every direction. His hands tightened on the paddle shaft.",
+      "question": "다음 글에 드러난 Felix의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "confident → frightened",
+        "excited → exhausted",
+        "restless → calm",
+        "anxious → frightened",
+        "confident → frustrated"
+      ],
+      "explanations": {
+        "correct": "전반부: 'paddle strokes sure and even', 'satisfying independence'에서 자신감(confident)이 드러남. 후반부: 모든 방향이 안개로 뒤덮이고 'His hands tightened on the paddle shaft'에서 두려움(frightened)이 확인됨.",
+        "wrong": {
+          "2": "② 'excited → exhausted': 전반부는 자신감이지 흥분이 아니며, 후반부는 피로가 아닌 두려움임.",
+          "3": "③ 'restless → calm': 전체 방향이 반대임. Felix는 처음에 침착했다가 나중에 두려워짐.",
+          "4": "④ 'anxious → frightened': 후반부는 정확하나, 전반부의 Felix는 불안하지 않고 자신감 있었음.",
+          "5": "⑤ 'confident → frustrated': 전반부는 정확하나, 후반부의 'hands tightened', 자기 숨소리가 들릴 정도의 정적은 좌절이 아닌 두려움을 나타냄."
+        },
+        "key_point": "'hands tightened on the paddle shaft'는 좌절(frustrated)이 아닌 두려움(frightened)의 신체 반응이므로 ⑤와 구별해야 함."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (confident): 'paddle strokes sure and even', 'satisfying independence', no doubt or hesitation — textually anchored confidence. Phase 2 (frightened): fog surrounds him, all landmarks gone, 'stopped paddling', 'could hear his own breathing', 'hands tightened on the paddle shaft' — fear/fright. Turning point: fog rolls in. Synonym check: 'confident' appears in choices 1 and 5 (same Phase 1, different Phase 2 — 'frightened' vs 'frustrated'; fear is stronger and better supported than frustration here). 'frightened' ≠ 'frustrated' ≠ 'exhausted'. No banned words. Half-correct distractors: (5) 'confident → frustrated' — Phase 1 correct, Phase 2 wrong ('frustrated' implies blocked goals; the passage anchors fear, not frustration, with 'hands tightened', complete disorientation); (4) 'anxious → frightened' — Phase 1 wrong (he is confident, not anxious), Phase 2 correct. Choices 5 and 4 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-12",
+      "difficulty": "standard",
+      "answer": 4,
+      "passage": "Chloe had been selected to represent her school at the regional debate championship — the first student from her school ever chosen. She had prepared for months, researching every possible angle of the assigned topic. On the morning of the championship, she arrived early, arranged her notes, and read through her opening statement one final time. She was ready. But during the opening round, the opposing team introduced a new statistical argument that Chloe had never seen in any of her research. She stared at her notes, looking for a rebuttal, but her preparation had not covered this particular angle. She could feel her responses becoming hesitant and soft. The judges' expressions remained neutral. When the round ended, Chloe sat quietly, turning her pen over and over in her hand. She had been fully prepared — for a different debate.",
+      "question": "다음 글에 드러난 Chloe의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "reluctant → regretful",
+        "prepared → unsettled",
+        "anxious → embarrassed",
+        "prepared → regretful",
+        "confident → humiliated"
+      ],
+      "explanations": {
+        "correct": "전반부: 'She was ready', 'fully prepared'라는 직접 표현에서 준비된 상태(prepared)가 드러남. 후반부: 예상치 못한 논거에 'responses becoming hesitant', 'turning her pen over and over'에서 당혹감(unsettled)이 확인됨.",
+        "wrong": {
+          "1": "① 'reluctant → regretful': 전반부에 꺼림칙함의 근거가 없으며, 후반부도 단순 후회보다 당혹감이 더 적합함.",
+          "3": "③ 'anxious → embarrassed': 전반부는 불안이 아닌 준비된 상태이며, 후반부는 공개적 망신이 아닌 당혹감임(심사위원 표정이 중립적).",
+          "4": "④ 'prepared → regretful': 전반부는 정확하나, 후반부의 'turning her pen over and over'는 자책이 아닌 당혹감·혼란을 나타냄.",
+          "5": "⑤ 'confident → humiliated': 전반부는 인접하나 텍스트의 직접 표현은 'prepared'이며, 후반부는 창피당함이 아닌 당혹감임."
+        },
+        "key_point": "텍스트가 'She was ready', 'fully prepared'라고 직접 서술하므로 'prepared'가 가장 정확한 전반부 감정임."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (prepared): 'ready', researched every angle, arrived early, re-read notes — the text's dominant Phase 1 word is 'prepared', which is explicitly stated ('She was ready', 'fully prepared'). Phase 2 (unsettled): responds hesitantly, turns pen over and over, 'fully prepared — for a different debate' — unsettled/thrown off balance, not humiliated or deeply regretful. Turning point: unexpected statistical argument. Synonym check: 'prepared' ≠ 'confident' ≠ 'anxious' ≠ 'reluctant'. 'Unsettled' ≠ 'regretful' ≠ 'embarrassed' ≠ 'humiliated'. No banned words. Half-correct distractors: (4) 'prepared → regretful' — Phase 1 correct, Phase 2 adjacent but wrong ('regretful' implies wishing you had done something differently; the text anchors being thrown off, not self-blame); (5) 'confident → humiliated' — Phase 1 adjacent, Phase 2 too strong (judges remain neutral, no public embarrassment). Choices 4 and 5 are primary half-correct traps. This is standard difficulty because 'prepared' is the exact textual word used.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-13",
+      "difficulty": "challenging",
+      "answer": 2,
+      "passage": "Theo had spent four years photographing a single migratory bird species — the bar-tailed godwit — in an attempt to document its entire annual migration cycle. He had finally identified a nesting site in Alaska that no research team had previously mapped. He flew out at his own expense and hiked three days to reach the coordinates. On the morning he had calculated the birds would be present, he set up his equipment in the pre-dawn dark and waited. When the light came up, the nesting ground was empty. He scanned every inch of the tundra. The birds had already departed — he was off by approximately one week. Theo sat in the grass for a long time, his camera in his lap, watching the empty sky. He had been so close. He took off his glasses and cleaned them, a habit he had when he needed to think rather than feel, and put them back on. The sky remained empty.",
+      "question": "다음 글에 드러난 Theo의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "sorrowful → at peace",
+        "determined → exhausted",
+        "resolute → bereft",
+        "anxious → deflated",
+        "eager → resigned"
+      ],
+      "explanations": {
+        "correct": "전반부: 4년 간 프로젝트, 자비로 항공편, 3일 하이킹 등에서 확고한 결의(resolute)가 드러남. 후반부: 새들이 이미 떠남, 'so close', 카메라를 무릎에 놓고 빈 하늘을 바라보며 안경을 닦는 행동에서 상실감(bereft)이 확인됨.",
+        "wrong": {
+          "1": "① 'sorrowful → at peace': 전반부는 슬픔이 아닌 결의이며, 후반부는 평화로움이 아닌 상실감임.",
+          "2": "② 'determined → exhausted': 전반부는 인접하나, 후반부의 감정은 신체적 피로가 아닌 상실감(bereft)임.",
+          "4": "④ 'anxious → deflated': 전반부는 불안이 아닌 결의이며, 후반부도 단순 실망보다 깊은 상실감임.",
+          "5": "⑤ 'eager → resigned': 전반부는 인접하나 4년의 헌신은 '결의(resolute)'에 더 가깝고, 후반부의 'needed to think rather than feel'은 체념보다 상실의 슬픔을 나타냄."
+        },
+        "key_point": "'think rather than feel'은 상실(bereft)의 슬픔을 감정이 아닌 사고로 처리하려는 시도이므로 단순 실망(deflated)이나 체념(resigned)과 구별됨."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (resolute): four-year project, hiked three days at own expense, sets up equipment in pre-dawn dark — unwavering resolve and commitment. Phase 2 (bereft): birds gone, 'so close', sits in the grass with camera in lap, cleans glasses 'when he needed to think rather than feel' — bereft, a specific loss-tinged grief, stronger than mere deflation. Turning point: nesting ground empty, birds already departed. Synonym check: 'resolute' ≠ 'determined' ≠ 'eager' ≠ 'anxious' ≠ 'sorrowful'. 'Bereft' ≠ 'exhausted' ≠ 'deflated' ≠ 'resigned' ≠ 'at peace'. No banned words. Half-correct distractors: (2) 'determined → exhausted' — Phase 1 adjacent, Phase 2 physical not emotional ('exhausted' doesn't capture the loss); (5) 'eager → resigned' — Phase 1 adjacent ('eager' captures part of his state but 'resolute' better fits four years of determined effort), Phase 2 adjacent but 'resigned' implies acceptance; the text anchors grief/loss. Choices 2 and 5 are primary half-correct traps. Challenging because 'bereft' is a precise, less common word and 'resolute' requires careful reading.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-14",
+      "difficulty": "easy",
+      "answer": 3,
+      "passage": "Nina had been dreading the class presentation all week. Public speaking made her stomach clench, and she had replayed worst-case scenarios in her head every night — stumbling over words, forgetting her place, the class going silent. On the morning of the presentation, she arrived early and sat near the back of the classroom, watching the clock. When her name was called, she walked to the front with her cards gripped tightly in both hands. She read her first line and heard her voice come out thin and shaky. Then her teacher gave her a slow, encouraging nod. Something shifted. Nina took a breath, loosened her grip on the cards, and continued. The words came more easily. When she finished, the class clapped, and her teacher said quietly, 'That was exactly right.' Nina walked back to her seat feeling two sizes larger than she had when she'd walked up.",
+      "question": "다음 글에 드러난 Nina의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "reluctant → proud",
+        "terrified → surprised",
+        "apprehensive → grateful",
+        "apprehensive → confident",
+        "nervous → content"
+      ],
+      "explanations": {
+        "correct": "전반부: 'dreading', 'stomach clench', 'cards gripped tightly'에서 불안감(apprehensive)이 강하게 드러남. 후반부: 선생님의 끄덕임 후 목소리가 안정되고, 'feeling two sizes larger'에서 자신감(confident)이 확인됨.",
+        "wrong": {
+          "1": "① 'reluctant → proud': 전반부는 꺼림칙함이 아닌 강한 불안이며, 후반부는 자랑스러움보다 자신감(confident)이 더 정확함.",
+          "2": "② 'terrified → surprised': 전반부의 두려움 강도는 'apprehensive'가 더 적합하며, 후반부에 놀라움의 묘사는 없음.",
+          "3": "③ 'apprehensive → grateful': 전반부는 정확하나, 후반부의 'feeling two sizes larger'는 감사함이 아닌 자신감을 나타냄.",
+          "5": "⑤ 'nervous → content': 전반부는 인접하나 'apprehensive'가 더 강도가 높고, 후반부는 만족감이 아닌 자신감임."
+        },
+        "key_point": "'feeling two sizes larger'는 감사함(grateful)이나 만족감(content)이 아닌 자신감(confident)의 성장을 나타냄."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (apprehensive): 'dreading', 'stomach clench', 'worst-case scenarios', 'clock-watching', 'cards gripped tightly' — strong dread/apprehension. Phase 2 (confident): voice steadies after teacher nods, words come more easily, finishes successfully, 'feeling two sizes larger' — gained confidence. Turning point: teacher's encouraging nod. Synonym check: 'apprehensive' ≠ 'nervous' ≠ 'terrified' ≠ 'reluctant'. 'Confident' ≠ 'content' ≠ 'proud' ≠ 'surprised' ≠ 'grateful'. No banned words. Half-correct distractors: (3) 'apprehensive → grateful' — Phase 1 correct, Phase 2 adjacent but wrong ('grateful' implies thankfulness; the text anchors expanded confidence 'two sizes larger', not gratitude); (5) 'nervous → content' — Phase 1 adjacent ('nervous' ≈ 'apprehensive'), Phase 2 wrong ('content' is too mild for 'two sizes larger'). Choices 3 and 5 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-15",
+      "difficulty": "standard",
+      "answer": 3,
+      "passage": "Victor had been the first-chair cellist in his youth orchestra for two years. This semester, the music director had announced open auditions for first chair — something that had never happened before. Victor practiced six hours a day for three weeks, convinced he would retain his position. The auditions were held in private, and the results were posted on the rehearsal room door. Victor read the list once, quickly, then read it again slowly. His name was in the second-chair column. He stood in the hallway for a moment, his music folder held against his chest. He had always believed that effort guaranteed outcome. He walked back into the rehearsal room, sat in his usual seat out of habit, then noticed the new stand positioning that marked second chair. Quietly, he moved his stand one position to the right.",
+      "question": "다음 글에 드러난 Victor의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "anxious → furious",
+        "determined → devastated",
+        "confident → regretful",
+        "eager → disheartened",
+        "self-assured → crestfallen"
+      ],
+      "explanations": {
+        "correct": "전반부: '하루 6시간 연습', 'convinced he would retain his position'에서 조용한 자신감(self-assured)이 드러남. 후반부: 결과 두 번 확인, 복도에 홀로 서 있음, 'quietly, he moved his stand'에서 품위 있는 낙심(crestfallen)이 확인됨.",
+        "wrong": {
+          "1": "① 'anxious → furious': 전반부는 불안이 아닌 자신감이며, 후반부에 분노의 표현은 없음.",
+          "2": "② 'determined → devastated': 전반부는 인접하나 'convinced he would retain'은 자신감이 더 강하고, 후반부의 조용한 행동은 완전한 좌절보다 품위 있는 낙심임.",
+          "3": "③ 'confident → regretful': 전반부는 인접하나, 후반부의 조용한 행동은 자책이 아닌 낙심(crestfallen)임.",
+          "4": "④ 'eager → disheartened': 전반부는 인접하나 'self-assured'가 더 정확하고, 후반부는 'disheartened'도 인접하나 조용한 품위 있는 반응은 'crestfallen'에 더 가까움."
+        },
+        "key_point": "'Quietly, he moved his stand one position to the right'는 소리 없는 품위 있는 낙심(crestfallen)을 나타내며, 분노·후회·좌절과 구별됨."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (self-assured): practiced intensively 'convinced he would retain his position', 'believed effort guaranteed outcome' — quiet self-assurance, deeper than mere eagerness. Phase 2 (crestfallen): reads result twice, stands alone in hallway, music folder held to chest, silently moves his stand — crestfallen, a quiet, dignified dejection rather than loud devastation or fury. Turning point: result posted on door. Synonym check: 'self-assured' ≠ 'confident' ≠ 'anxious' ≠ 'determined' ≠ 'eager'. 'Crestfallen' ≠ 'regretful' ≠ 'devastated' ≠ 'furious' ≠ 'disheartened'. No banned words. Half-correct distractors: (3) 'confident → regretful' — Phase 1 adjacent, Phase 2 adjacent but wrong ('regretful' implies wishing he had done something differently; the text doesn't anchor self-blame); (4) 'eager → disheartened' — Phase 1 adjacent, Phase 2 adjacent ('disheartened' ≈ 'crestfallen' but 'crestfallen' is more precisely supported by the quiet, dignified reactions). Choices 3 and 4 are primary half-correct traps. This is standard difficulty requiring distinction between 'self-assured' and 'confident' and between 'crestfallen' and 'disheartened'.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-16",
+      "difficulty": "standard",
+      "answer": 2,
+      "passage": "Rose paced the hallway outside the hospital room. Her younger brother had been rushed into surgery two hours ago following a cycling accident, and no one had come out to update her since. She had called her parents — they were driving in from three hours away. She was alone in the corridor, and the fluorescent lights seemed impossibly bright. Every time a door at the end of the hall opened, she looked up. When it was not a nurse or surgeon, she looked back at the floor. Her hands were cold. Then the surgeon appeared and walked toward her with an unhurried pace. 'The surgery went perfectly. He's in recovery — awake, talking, asking for his phone.' Rose pressed both hands over her mouth. She had been holding herself together for two hours, and now she felt all of it — the vigil, the waiting, the cold hands — release at once.",
+      "question": "다음 글에 드러난 Rose의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "anguished → relieved",
+        "anguished → grateful",
+        "worried → overjoyed",
+        "anxious → relieved",
+        "tense → content"
+      ],
+      "explanations": {
+        "correct": "전반부: 복도를 서성임, 'alone in the corridor', 'hands were cold', '문이 열릴 때마다 쳐다봄'에서 고통스러운 불안(anguished)이 드러남. 후반부: 의사의 수술 성공 소식 후 'felt all of it release at once'에서 안도감(relieved)이 확인됨.",
+        "wrong": {
+          "2": "② 'anguished → grateful': 전반부는 정확하나, 후반부의 'all of it release at once'는 감사함이 아닌 긴장 해소(안도)를 나타냄.",
+          "3": "③ 'worried → overjoyed': 전반부는 인접하나 'anguished'가 강도 면에서 더 정확하고, 후반부는 황홀함이 아닌 안도임.",
+          "4": "④ 'anxious → relieved': 후반부는 정확하나, 전반부의 'held herself together for two hours', 'cold hands', 형광등이 눈부실 정도의 묘사는 단순 불안보다 고통스러운 괴로움(anguished)임.",
+          "5": "⑤ 'tense → content': 전반부는 인접하나 'anguished'가 더 강하고, 후반부는 만족감이 아닌 안도임."
+        },
+        "key_point": "'held herself together for two hours', 'cold hands'는 단순 불안(anxious)보다 강한 고통(anguished)이며, 'release at once'는 감사가 아닌 안도(relieved)임."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (anguished): pacing, alone, cold hands, looking up at every door, 'held herself together for two hours' — this is stronger than simple anxiety; it is anguish. Phase 2 (relieved): surgeon delivers good news, 'she pressed both hands over her mouth', 'felt all of it release at once' — relief, specifically the release of held tension. Turning point: surgeon's good news. Synonym check: 'anguished' ≠ 'worried' ≠ 'anxious' ≠ 'tense'. 'Relieved' ≠ 'grateful' ≠ 'overjoyed' ≠ 'content'. No banned words. Half-correct distractors: (2) 'anguished → grateful' — Phase 1 correct, Phase 2 adjacent but wrong ('grateful' implies thankfulness; the text anchors release of tension = relief); (4) 'anxious → relieved' — Phase 1 adjacent but understates the intensity ('anxious' vs 'anguished' — 'anguished' is more strongly supported by 'held together for two hours', 'cold hands', 'alone' in a fluorescent corridor). Choices 2 and 4 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-17",
+      "difficulty": "challenging",
+      "answer": 3,
+      "passage": "For three years, Lena had been quietly writing a collection of short stories, telling no one. She had submitted the manuscript to a small literary press in the city and had not expected to hear back. Six weeks later, the editor called. The press would publish the collection in the spring. He described the stories with words that matched exactly what she had intended them to mean — as if he had read them from the inside. Lena thanked him, hung up, and sat at her kitchen table without moving for several minutes. She had not let herself want this, because wanting it had felt too dangerous. Now that it was real, she didn't know how to hold it. It was not the loud joy she had imagined in some distant, hypothetical version of this moment. It was quieter, steadier — a feeling of having been genuinely seen for the first time.",
+      "question": "다음 글에 드러난 Lena의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "hopeful → content",
+        "guarded → deeply moved",
+        "anxious → thrilled",
+        "hopeful → moved",
+        "resigned → overjoyed"
+      ],
+      "explanations": {
+        "correct": "전반부: '아무에게도 말하지 않음', 'had not let herself want this', 'wanting had felt too dangerous'에서 자기 보호적 경계심(guarded)이 드러남. 후반부: 'quieter, steadier', 'having been genuinely seen for the first time'에서 깊은 감동(deeply moved)이 확인됨.",
+        "wrong": {
+          "1": "① 'hopeful → content': 전반부는 희망이 아닌 경계심이며, 후반부는 만족감보다 깊은 감동임.",
+          "3": "③ 'anxious → thrilled': 전반부는 불안이 아닌 경계심이며, 후반부는 텍스트가 직접 'not the loud joy'라고 부정함.",
+          "4": "④ 'hopeful → moved': 전반부의 'had not let herself want this'는 희망을 허락하지 않은 경계심이며, 후반부는 'moved'보다 'deeply moved'가 감동의 깊이를 정확히 포착함.",
+          "5": "⑤ 'resigned → overjoyed': 전반부는 체념이 아닌 경계심이며, 'not the loud joy'로 황홀함이 직접 부정됨."
+        },
+        "key_point": "'wanting it had felt too dangerous'는 희망(hopeful)이 아닌 경계심(guarded)이며, 'not the loud joy... quieter, steadier'는 황홀함(thrilled)이 아닌 깊은 감동(deeply moved)임."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (guarded): 'had not let herself want this', 'telling no one', 'had not expected to hear back', 'wanting had felt too dangerous' — guarded/self-protective, not hopeful or anxious. Phase 2 (deeply moved): 'didn't know how to hold it', 'quieter, steadier — a feeling of having been genuinely seen for the first time' — deeply moved, not thrilled or overjoyed; the text explicitly contrasts this with 'loud joy', marking the emotion as profound but quiet. Turning point: editor's call. Synonym check: 'guarded' ≠ 'hopeful' ≠ 'anxious' ≠ 'resigned'. 'Deeply moved' ≠ 'content' ≠ 'thrilled' ≠ 'moved' (the word 'deeply' is load-bearing — choice 4 'hopeful → moved' is almost right but Phase 1 is wrong). No banned words. Half-correct distractors: (4) 'hopeful → moved' — Phase 1 wrong ('guarded' not hopeful), Phase 2 adjacent but missing 'deeply'; (3) 'anxious → thrilled' — Phase 1 adjacent but wrong (she is 'guarded', not conventionally anxious), Phase 2 directly contradicted by 'not the loud joy'. Choices 4 and 3 are primary half-correct traps. Challenging because 'guarded' and 'deeply moved' are less common CSAT-register emotions and the text explicitly subverts the expected 'thrilled' reaction.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-18",
+      "difficulty": "easy",
+      "answer": 4,
+      "passage": "Carlos had been dreaming of attending the summer robotics camp for two years. When he finally got accepted, he counted the days on his calendar. On the first morning of camp, he arrived early, found a workbench near the window, and began unpacking his toolkit with a wide grin. The camp director announced the team project: build a robot capable of navigating a maze in under two minutes. Carlos immediately sketched out a design in his notebook, his hand moving faster than his thoughts. By the end of the day, his team had a working prototype. By day three, their robot cleared the maze in one minute forty seconds. When the director announced the teams' results on the final day, Carlos' team came in first. He stood up and cheered, not for the prize — there was no prize — but for the pure pleasure of having made something that actually worked.",
+      "question": "다음 글에 드러난 Carlos의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "nervous → relieved",
+        "eager → frustrated",
+        "eager → elated",
+        "content → proud",
+        "excited → grateful"
+      ],
+      "explanations": {
+        "correct": "전반부: '2년간 꿈꿔옴', '날짜를 셈', 'wide grin', 'hand moving faster than his thoughts'에서 열정적인 기대감(eager)이 드러남. 후반부: 1등 달성 후 'stood up and cheered', 'pure pleasure of having made something that actually worked'에서 황홀감(elated)이 확인됨.",
+        "wrong": {
+          "1": "① 'nervous → relieved': 전반부는 초조함이 아닌 열정이며, 후반부는 안도가 아닌 황홀감임.",
+          "2": "② 'eager → frustrated': 전반부는 정확하나, 후반부에 좌절의 근거가 없고 오히려 성공함.",
+          "4": "④ 'content → proud': 전반부는 만족이 아닌 열정이며, 후반부의 'pure pleasure'는 자부심보다 황홀감에 가까움.",
+          "5": "⑤ 'excited → grateful': 전반부는 인접하나 'eager'가 더 목적 지향적이며, 후반부의 'pure pleasure'는 감사함이 아닌 황홀감임."
+        },
+        "key_point": "'pure pleasure of having made something that actually worked'는 감사함(grateful)이나 자부심(proud)이 아닌 내적 황홀감(elated)을 나타냄."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (eager): 'counted the days', arrived early, unpacked with 'wide grin', sketched design with 'hand moving faster than his thoughts' — eager/eager-to-begin energy. Phase 2 (elated): team comes first, Carlos stands and cheers, 'pure pleasure of having made something that actually worked' — elated, a joyful peak beyond mere relief or gratitude. Turning point: team places first on final day. Synonym check: 'eager' ≠ 'nervous' ≠ 'content' ≠ 'excited' (close to 'eager' but 'eager' is more goal-directed; 'excited' ≠ 'eager' = not synonymous). 'Elated' ≠ 'relieved' ≠ 'frustrated' ≠ 'proud' ≠ 'grateful'. No banned words. Half-correct distractors: (5) 'excited → grateful' — Phase 1 adjacent, Phase 2 wrong ('grateful' implies thankfulness; 'pure pleasure of having made something' anchors personal elation, not gratitude); (4) 'content → proud' — Phase 1 wrong (he is eager, not content), Phase 2 adjacent but 'elated' better fits 'cheered', 'pure pleasure'. Choices 5 and 4 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-19",
+      "difficulty": "standard",
+      "answer": 3,
+      "passage": "After fifteen years of managing other people's kitchens, Irene had opened her own restaurant last spring. She had put everything into it — her savings, her name, every weekend for six months on renovation. The morning her first review appeared in the city food section, she sat at the empty restaurant before service, her coffee going cold. The reviewer had visited twice. He had written four paragraphs. The first three described the food generously — the fourth noted that the dining room felt 'strangely impersonal' and that the service, while competent, lacked 'the warmth one hopes for from an owner-operated establishment.' Irene read it again. She set the paper down flat on the table. She knew what the reviewer meant. He was not wrong. She pressed her fingertips to the table surface and looked around the room she had spent six months building, and for the first time it looked, to her, exactly as he had described it.",
+      "question": "다음 글에 드러난 Irene의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "tense → relieved",
+        "hopeful → furious",
+        "anxious → resigned",
+        "tense → deflated",
+        "proud → regretful"
+      ],
+      "explanations": {
+        "correct": "전반부: 'coffee going cold', 리뷰가 나오기 전 빈 레스토랑에 혼자 앉아 기다리는 모습에서 긴장감(tense)이 드러남. 후반부: 비판적 리뷰를 읽고 'He was not wrong'을 인정하며 'fingertips pressed to the table'에서 실망감(deflated)이 확인됨.",
+        "wrong": {
+          "1": "① 'tense → relieved': 전반부는 정확하나, 후반부에 안도의 근거가 없으며 오히려 비판을 수용하는 실망임.",
+          "2": "② 'hopeful → furious': 전반부는 희망이 아닌 긴장이며, 후반부에 분노가 아닌 체념적 수용임.",
+          "3": "③ 'anxious → resigned': 전반부는 인접하나 'tense'가 더 정확하고, 후반부의 '처음으로 식당이 리뷰어가 묘사한 대로 보임'은 체념이 아닌 실망(deflated)임.",
+          "5": "⑤ 'proud → regretful': 전반부에 자랑스러움의 묘사가 없으며, 후반부는 자기 행동에 대한 후회보다는 현실 인식에서 오는 실망임."
+        },
+        "key_point": "'He was not wrong'은 비판을 수용하는 실망(deflated)이며, 자책(regretful)이나 분노(furious)나 체념(resigned)과 구별됨."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (tense): 'coffee going cold', sitting at empty restaurant before service, waiting for the review — tension and apprehension. Phase 2 (deflated): review is mixed but the critique is accurate, she re-reads it, presses fingertips to table, 'for the first time it looked exactly as he described it' — deflated/discouraged, not furious or resigned (she accepts the critique, she is not indifferent or resigned). Turning point: fourth paragraph of review. Synonym check: 'tense' ≠ 'anxious' ≠ 'hopeful' ≠ 'proud'. 'Deflated' ≠ 'relieved' ≠ 'furious' ≠ 'resigned' ≠ 'regretful'. No banned words. Half-correct distractors: (5) 'proud → regretful' — Phase 1 adjacent but wrong (she is tense/waiting, not proud in this scene), Phase 2 adjacent but wrong ('regretful' implies personal fault for past action; 'deflated' is more precisely supported by the flat, heavy acceptance); (3) 'anxious → resigned' — Phase 1 adjacent, Phase 2 adjacent but 'resigned' implies giving up; the text anchors a first moment of seeing the space clearly = deflation. Choices 5 and 3 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-20",
+      "difficulty": "challenging",
+      "answer": 2,
+      "passage": "After eleven years working at the same desk in the same open-plan office, Hana had been made redundant. She had expected to feel devastated. She did not. On her last day, she returned her access card at the front desk and walked out of the building into the afternoon. It was a Tuesday. No one was outside. She stopped on the pavement and looked up at the sky, which was ordinary and blue and perfectly indifferent to what had just happened to her. She had imagined this moment many times over the years — always with dread. But standing here now, she noticed something else: the lightest possible sense of something releasing. She had not known, until the door closed behind her, how much she had been waiting for exactly this.",
+      "question": "다음 글에 드러난 Hana의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "devastated → resentful",
+        "tense → at peace",
+        "anxious → relieved",
+        "sorrowful → content",
+        "apprehensive → unexpectedly liberated"
+      ],
+      "explanations": {
+        "correct": "전반부: '이 순간을 항상 두려움으로 상상해왔음', 'had imagined this moment... always with dread'에서 불안한 경계심(apprehensive)이 드러남. 후반부: 'the lightest possible sense of something releasing', 'how much she had been waiting for exactly this'에서 예기치 않은 해방감(unexpectedly liberated)이 확인됨.",
+        "wrong": {
+          "1": "① 'devastated → resentful': 전반부에 '좌절하리라 예상했지만 실제로는 그렇지 않았음'이 명시되며, 후반부에 분노의 근거가 없음.",
+          "2": "② 'tense → at peace': 전반부는 인접하나 'apprehensive'가 더 정확하고, 후반부는 평온함보다 예상치 못한 해방감의 뉘앙스가 있음.",
+          "3": "③ 'anxious → relieved': 두 단계 모두 인접하나, 후반부의 'had been waiting for exactly this'는 단순 안도가 아닌 예상치 못한 해방을 나타냄.",
+          "4": "④ 'sorrowful → content': 전반부는 슬픔이 아닌 불안이며, 후반부의 'releasing'은 만족감이 아닌 해방감임."
+        },
+        "key_point": "'had been waiting for exactly this'와 'something releasing'은 단순 안도(relieved)나 평온(at peace)을 넘는 예상치 못한 해방감(unexpectedly liberated)이 핵심."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (apprehensive): 'had imagined this moment many times — always with dread', expected to feel devastated — the dominant pre-event emotion was apprehension/dread about redundancy. Phase 2 (unexpectedly liberated): 'lightest possible sense of something releasing', 'had not known how much she had been waiting for exactly this' — a specific feeling of unexpected liberation. Turning point: walking out of the building. Synonym check: 'apprehensive' ≠ 'devastated' ≠ 'tense' ≠ 'anxious' ≠ 'sorrowful'. 'Unexpectedly liberated' ≠ 'resentful' ≠ 'at peace' ≠ 'relieved' ≠ 'content'. No banned words. Note: 'unexpectedly liberated' uses a modifier; while non-standard for simple CSAT items, it is the only choice that captures the precise emotion the passage anchors ('something releasing', 'had been waiting for exactly this'). This differentiates it from 'relieved' (which lacks the liberation dimension) and 'at peace' (which lacks the unexpectedness). Half-correct distractors: (2) 'tense → at peace' — Phase 1 adjacent, Phase 2 adjacent but misses the key quality of unexpected liberation; (3) 'anxious → relieved' — both halves adjacent but both flatten the specific nuance. Choices 2 and 3 are primary half-correct traps. Challenging because the emotion arc subverts expected responses (she doesn't feel what she expected to feel).",
+        "verdict": "WARN",
+        "issues": "Phase 2 choice 'unexpectedly liberated' uses a modified phrase rather than a single adjective, which is non-standard for CSAT format. The emotion is precisely supported by the text but the formatting deviates. If strict single-adjective formatting is required, substitute 'liberated' — however this reduces differentiation from other choices. Flagged as WARN rather than FAIL because the passage unusually calls for this precision."
+      }
+    },
+    {
+      "id": "v2-19-21",
+      "difficulty": "easy",
+      "answer": 4,
+      "passage": "Jake had waited in line for two hours at the theme park for the park's tallest roller coaster. He had talked about riding it for years and had finally made it to the front of the queue. When the restraint bar locked over his shoulders, his grin was wide. The coaster climbed the first hill slowly, and Jake looked out over the whole park spread below him. He raised his arms. At the top, the car paused for a single second, then dropped. In that second, Jake's grin vanished. His hands grabbed the bar. He shut his eyes and screamed the entire way down. When the car coasted back into the station and the bar lifted, Jake sat completely still for a moment. He did not want to stand up. His legs felt like water. 'Never again,' he said quietly, and meant it.",
+      "question": "다음 글에 드러난 Jake의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "thrilled → shaken",
+        "nervous → thrilled",
+        "excited → furious",
+        "thrilled → exhausted",
+        "anxious → shaken"
+      ],
+      "explanations": {
+        "correct": "전반부: 2시간 대기, '수년간 얘기해옴', 'grin was wide', '팔을 들어올림'에서 황홀한 흥분(thrilled)이 드러남. 후반부: 낙하 직후 'grin vanished', 'hands grabbed the bar', 'legs felt like water', 'Never again'에서 충격으로 인한 흔들림(shaken)이 확인됨.",
+        "wrong": {
+          "2": "② 'nervous → thrilled': 전반부에 초조함의 근거가 없으며(오히려 기대감), 방향이 반대임.",
+          "3": "③ 'excited → furious': 전반부는 인접하나, 후반부에 분노의 근거가 없음.",
+          "4": "④ 'thrilled → exhausted': 전반부는 정확하나, 후반부의 'legs felt like water', 'Never again'은 신체적 피로가 아닌 심리적·신체적 충격(shaken)을 나타냄.",
+          "5": "⑤ 'anxious → shaken': 후반부는 정확하나, 전반부의 Jake는 불안하지 않고 기대에 가득 차 있었음."
+        },
+        "key_point": "'legs felt like water'와 'Never again'은 피로(exhausted)가 아닌 충격으로 인한 흔들림(shaken)을 나타냄."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (thrilled): two-hour wait, 'talked about it for years', 'grin was wide', raised arms — clearly thrilled/excited anticipation. Phase 2 (shaken): grabs bar, shuts eyes, screams, sits still after, legs feel like water, 'never again' — shaken/rattled, not merely tired or furious. Turning point: the drop at the top. Synonym check: 'thrilled' appears in choices 1 and 4 (same Phase 1, different Phase 2 — 'shaken' vs 'exhausted'; 'shaken' better captures the psychological/physical shock reaction). 'nervous' ≠ 'thrilled'. 'excited' ≠ 'thrilled' (close but not identical). 'anxious' ≠ 'thrilled'. 'Shaken' ≠ 'exhausted' ≠ 'furious'. No banned words. Half-correct distractors: (4) 'thrilled → exhausted' — Phase 1 correct, Phase 2 wrong ('exhausted' describes physical tiredness; 'shaken' describes the psychological/physical shock reaction better); (5) 'anxious → shaken' — Phase 1 wrong (he is thrilled, not anxious), Phase 2 correct. Choices 4 and 5 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-22",
+      "difficulty": "standard",
+      "answer": 1,
+      "passage": "On the morning of her college entrance exam, Sofia arrived at the test center forty minutes early. She had studied every day for a year. She found her assigned seat, arranged her pencils, and closed her eyes for a moment. She was ready. When the exam booklets were distributed, Sofia opened hers to the first section and began. The questions were exactly the type she had practiced. But halfway through the second section, she realized she had skipped a question and filled in all the subsequent bubbles one row too low. Her answers were all shifted. She checked her watch — thirty-one minutes remaining. Her hands trembled as she began the painstaking process of erasing and correcting each answer, one by one. She finished the correction with three minutes to spare and sat back, damp with sweat, heart still pounding, but the damage undone.",
+      "question": "다음 글에 드러난 Sofia의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "composed → relieved",
+        "composed → panicked",
+        "nervous → relieved",
+        "focused → frustrated",
+        "anxious → panicked"
+      ],
+      "explanations": {
+        "correct": "전반부: '40분 일찍 도착', 연필 정리, 눈 감기, 'She was ready'에서 침착함(composed)이 드러남. 후반부: 답안 행 오류 발견 후 'hands trembled', 'damp with sweat, heart still pounding'에서 공황 상태(panicked)가 확인됨. 글이 '수정은 했지만 여전히 심장이 두근거림'으로 끝남.",
+        "wrong": {
+          "1": "① 'composed → relieved': 전반부는 정확하나, 마지막 문장의 'heart still pounding'은 안도가 아닌 여전히 공황 상태임을 나타냄.",
+          "3": "③ 'nervous → relieved': 전반부는 초조함이 아닌 침착함이며, 후반부도 마지막에 안도보다 공황이 남아있음.",
+          "4": "④ 'focused → frustrated': 전반부는 인접하나, 후반부는 좌절이 아닌 공황임.",
+          "5": "⑤ 'anxious → panicked': 후반부는 정확하나, 전반부의 Sofia는 불안하지 않고 침착하게 준비되어 있었음."
+        },
+        "key_point": "글이 수정 완료 후에도 'heart still pounding'으로 끝나므로 안도(relieved)가 아닌 공황(panicked)이 후반부의 감정임."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (composed): arrives early, arranges pencils, closes eyes, 'she was ready', begins confidently — composed. Phase 2 (panicked): realizes answer sheet error, 'hands trembled', erasing frantically, 'damp with sweat, heart still pounding' — panicked (the passage ends mid-crisis, not with relief — she corrects the answers but is still described as 'heart still pounding'). Turning point: discovers the answer-row error. Note: the passage ENDS in the state of 'having corrected but still shaken' — 'heart still pounding' anchors the Phase 2 as panic rather than relief. Synonym check: 'composed' appears in choices 1 and 2 (same Phase 1, different Phase 2). 'panicked' ≠ 'relieved' ≠ 'frustrated'. No banned words. Half-correct distractors: (1) 'composed → relieved' — Phase 1 correct, Phase 2 wrong — the passage explicitly states 'heart still pounding' at the end; (3) 'nervous → relieved' — Phase 1 wrong (she is composed, not nervous), Phase 2 wrong. Choices 1 and 3 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-23",
+      "difficulty": "standard",
+      "answer": 1,
+      "passage": "Every Saturday morning for two years, Mr. Yoon had taken the same bus to visit his older sister across the city. It was the one constant in his week. That morning, the bus arrived but the driver leaned out and announced that the route had been permanently rerouted starting today — it would no longer stop at his sister's neighborhood. Mr. Yoon stepped back from the curb. He asked the driver how to reach the neighborhood. The driver shrugged and pointed vaguely toward a transfer station. Mr. Yoon stood on the pavement after the bus pulled away, holding his small bag of groceries — the same items he brought her every week. He did not know this city the way younger people seemed to. He looked up the street and down. He was sixty-seven years old, and the route he had memorized had been erased without warning.",
+      "question": "다음 글에 드러난 Mr. Yoon의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "content → anxious",
+        "frustrated → helpless",
+        "settled → disoriented",
+        "content → disoriented",
+        "calm → frustrated"
+      ],
+      "explanations": {
+        "correct": "전반부: '같은 버스', '같은 물건', '2년 동안의 같은 루틴', 'one constant in his week'에서 일상에 안착된 상태(settled)가 드러남. 후반부: 갑작스러운 노선 변경, '젊은 사람들처럼 도시를 알지 못함', '위아래로 길을 봄'에서 방향감 상실(disoriented)이 확인됨.",
+        "wrong": {
+          "1": "① 'content → anxious': 전반부는 인접하나 'settled'가 2년간 루틴의 안착감을 더 잘 표현하고, 후반부는 불안이 아닌 방향 상실임.",
+          "2": "② 'frustrated → helpless': 전반부는 좌절이 아닌 안착감이며, 두 감정 모두 잘못됨.",
+          "4": "④ 'content → disoriented': 후반부는 정확하나, 전반부의 'one constant in his week'은 단순 만족보다 깊이 안착된 상태(settled)임.",
+          "5": "⑤ 'calm → frustrated': 전반부는 인접하나 'settled'가 더 정확하고, 후반부는 좌절이 아닌 방향 상실임."
+        },
+        "key_point": "'settled'는 2년간의 루틴으로 깊이 자리 잡은 상태이며, 'content'보다 더 정확함. 후반부의 '위아래로 길을 봄'은 방향 상실(disoriented)의 핵심 표현임."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (settled): 'same bus', 'same items every week', 'one constant in his week', two-year routine — a sense of being settled/established in routine, deeper than mere contentment. Phase 2 (disoriented): route erased 'without warning', driver shrugs, 'did not know this city the way younger people seemed to', 'looked up the street and down' — disoriented, a specific loss of familiar coordinates. Turning point: bus driver announces permanent reroute. Synonym check: 'settled' ≠ 'content' ≠ 'calm' ≠ 'frustrated'. 'Disoriented' ≠ 'anxious' ≠ 'helpless' ≠ 'frustrated'. No banned words. Half-correct distractors: (4) 'content → disoriented' — Phase 2 correct, Phase 1 adjacent ('content' captures part of routine life but misses the anchored, established quality of 'settled'); (1) 'content → anxious' — Phase 1 adjacent, Phase 2 adjacent but 'anxious' is too forward-looking; 'disoriented' captures the immediate confusion better. Choices 4 and 1 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-24",
+      "difficulty": "challenging",
+      "answer": 2,
+      "passage": "After completing her PhD, Dr. Park spent three years writing her first academic book — a study of traditional Korean lacquerware that incorporated fieldwork across four provinces. She had submitted the manuscript in January and had heard nothing for seven months. That morning, the publisher's email had arrived. She expected a form rejection. Instead, the editor wrote that the manuscript had been accepted without revisions and that he considered it 'a genuinely important contribution.' Dr. Park read the email four times. She set her phone face-down on the desk. She had spent three years being uncertain about whether the work was good enough, whether she had misjudged the scope, whether the years in the field had produced anything worth reading. The email answered all of it at once. She sat very still. She did not feel like celebrating. She felt, more precisely, like someone who has set down an extremely heavy bag they had forgotten they were carrying.",
+      "question": "다음 글에 드러난 Dr. Park의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "hopeful → overjoyed",
+        "tense → proud",
+        "uncertain → content",
+        "uncertain → unburdened",
+        "resigned → grateful"
+      ],
+      "explanations": {
+        "correct": "전반부: '3년간 작업의 가치에 대한 불확실성', 'uncertain about whether the work was good enough'에서 불확실함(uncertain)이 명시적으로 드러남. 후반부: 'did not feel like celebrating', 'like someone who has set down an extremely heavy bag'에서 짐을 내려놓은 듯한 홀가분함(unburdened)이 확인됨.",
+        "wrong": {
+          "1": "① 'hopeful → overjoyed': 전반부는 희망이 아닌 불확실함이며, 후반부에 'did not feel like celebrating'으로 황홀함이 명시적으로 부정됨.",
+          "2": "② 'tense → proud': 전반부는 인접하나 'uncertain'이 텍스트에 명시되어 있고, 후반부는 자부심이 아닌 짐을 내려놓은 홀가분함임.",
+          "3": "③ 'uncertain → content': 전반부는 정확하나, 'set down an extremely heavy bag'은 단순 만족감보다 짐을 내려놓은 특별한 감각(unburdened)임.",
+          "5": "⑤ 'resigned → grateful': 전반부는 체념이 아닌 불확실함이며, 후반부에 감사함의 묘사가 없음."
+        },
+        "key_point": "'like someone who has set down an extremely heavy bag they had forgotten they were carrying'는 만족(content)이 아닌 짐을 내려놓은 특별한 홀가분함(unburdened)의 비유임."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (uncertain): 'uncertain about whether the work was good enough', 'whether she had misjudged the scope', 'whether the years had produced anything worth reading' — explicitly stated uncertainty. Phase 2 (unburdened): 'did not feel like celebrating', 'like someone who has set down an extremely heavy bag they had forgotten they were carrying' — unburdened/relieved of a burden; this specific metaphor distinguishes the emotion from 'proud', 'content', or 'overjoyed'. Turning point: editor's acceptance email. Synonym check: 'uncertain' ≠ 'hopeful' ≠ 'tense' ≠ 'resigned'. 'Unburdened' ≠ 'overjoyed' ≠ 'proud' ≠ 'content' ≠ 'grateful'. No banned words. Half-correct distractors: (3) 'uncertain → content' — Phase 1 correct, Phase 2 adjacent but wrong ('content' is too mild and misses the 'set down a heavy bag' metaphor); (2) 'tense → proud' — Phase 1 adjacent, Phase 2 directly contradicted by 'did not feel like celebrating'. Choices 3 and 2 are primary half-correct traps. Challenging because 'unburdened' is precise and requires close reading of the final metaphor.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    },
+    {
+      "id": "v2-19-25",
+      "difficulty": "easy",
+      "answer": 3,
+      "passage": "Tom had been working at the bakery since five in the morning, and by noon the display case was nearly empty. He was pulling a final tray of cinnamon rolls from the oven when the bell above the door rang. An elderly woman came in slowly, leaning on a cane. She looked at the nearly empty case and her face fell. 'I was hoping to get one of your apple tarts for my granddaughter's birthday. She asked for them specifically.' Tom looked at the case. The last tart had sold an hour ago. He was about to say so when he remembered that two apple tarts had been set aside in the back for a delivery order that had just been canceled. He retrieved one, boxed it carefully, and handed it to the woman. She clasped it with both hands and looked up at him. 'You have no idea what this means.' Tom smiled and waved away her thanks. It was, he thought, the best part of the job.",
+      "question": "다음 글에 드러난 Tom의 심경 변화로 가장 적절한 것은?",
+      "choices": [
+        "exhausted → content",
+        "frustrated → moved",
+        "pleased → sympathetic",
+        "sorry → proud",
+        "apologetic → gratified"
+      ],
+      "explanations": {
+        "correct": "전반부: Tom이 할머니에게 타르트가 없다고 말하려던 순간, 미안함과 사과의 감정(apologetic)이 드러남. 후반부: 취소된 주문에서 타르트를 찾아 전달하고 'the best part of the job'이라고 생각하는 데서 뿌듯함·보람(gratified)이 확인됨.",
+        "wrong": {
+          "1": "① 'exhausted → content': 전반부는 피로가 아닌 미안함이며, 후반부는 만족감보다 더 깊은 보람(gratified)임.",
+          "2": "② 'frustrated → moved': 전반부는 좌절이 아닌 미안함이며, 후반부는 감동이 아닌 직업적 보람임.",
+          "3": "③ 'pleased → sympathetic': 전반부에 기쁨의 근거가 없으며, 후반부는 공감이 아닌 보람임.",
+          "4": "④ 'sorry → proud': 전반부는 인접하나, 후반부의 'best part of the job'은 개인적 자랑스러움보다 직업적 보람(gratified)에 더 가까움."
+        },
+        "key_point": "'the best part of the job'은 자부심(proud)이 아닌, 도움을 줄 수 있었다는 직업적 보람(gratified)을 나타냄."
+      },
+      "self_check": {
+        "reasoning": "Phase 1 (apologetic): Tom is 'about to say' there are no tarts — he is in the position of being about to disappoint the customer; the dominant Phase 1 emotion when facing her is an apologetic helplessness before he remembers the canceled order. Phase 2 (gratified): he finds the tart, hands it to her, she says 'you have no idea what this means', he thinks 'it was the best part of the job' — gratified, a specific satisfaction from having been able to help. Turning point: remembering the canceled delivery order. Synonym check: 'apologetic' ≠ 'exhausted' ≠ 'frustrated' ≠ 'pleased' ≠ 'sorry'. 'Gratified' ≠ 'content' ≠ 'moved' ≠ 'sympathetic' ≠ 'proud'. No banned words. Half-correct distractors: (4) 'sorry → proud' — Phase 1 adjacent ('sorry' ≈ 'apologetic'), Phase 2 wrong ('proud' implies achievement; 'gratified' is more precisely supported by 'best part of the job', which is work-satisfaction not personal pride); (3) 'pleased → sympathetic' — neither phase correct (he is not pleased in Phase 1 when facing her disappointment; Phase 2 is gratification not sympathy). Choices 4 and 1 are primary half-correct traps.",
+        "verdict": "PASS",
+        "issues": null
+      }
+    }
+  ]
+}

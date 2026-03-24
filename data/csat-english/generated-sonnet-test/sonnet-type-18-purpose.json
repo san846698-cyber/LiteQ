@@ -1,0 +1,113 @@
+{
+  "type": "글의 목적",
+  "typeNumber": 18,
+  "model": "sonnet",
+  "analysis": {
+    "passagePattern": "150-200 word formal letters or emails with clear salutation (Dear [Name/Title/Group] or To Whom It May Concern) and closing (Sincerely/Best regards/Yours faithfully + name/title). Scenarios cover workplace notices, school/community announcements, consumer communications, professional requests, and personal professional letters. The core purpose is stated explicitly within the body — usually in the first 2-3 sentences as setup context, then the explicit request/purpose sentence, followed by supporting details and a polite closing request for response.",
+    "questionPattern": "Always identical: '다음 글의 목적으로 가장 적절한 것은?' — no variation. Five choices always in Korean, all ending with '~하려고'. The correct answer is a concise Korean paraphrase of the letter's single central communicative act.",
+    "answerDesign": "Correct answer directly and precisely describes the ONE action the writer wants the reader to take or be informed of. It uses vocabulary that matches but does not directly copy the passage. Typically 7-12 syllables in Korean. The correct answer is placed at positions 1-5 with roughly even distribution (slightly favoring 1, 2, 4).",
+    "distractorPattern": "Four distractors are plausible in the same domain/context but incorrect: (1) a reversed or exaggerated version of the actual purpose, (2) a related but different administrative action (e.g., if asking to move location → distractor about cancellation), (3) an action mentioned incidentally in the passage body but not the main purpose, (4) a completely different action in the same general context. All choices are similar in grammatical structure and Korean character length (typically 10-20 characters)."
+  },
+  "generated": [
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Ms. Park,\nMy name is Kevin O'Brien, and I am a graduate student in the Department of Environmental Studies at Greenfield University. I am currently conducting research on sustainable waste management practices in urban communities for my master's thesis. I came across the impressive initiatives your organization, EcoCity Solutions, has implemented over the past three years. Your composting program and zero-waste neighborhood pilot projects have been widely referenced in recent academic literature. I would greatly appreciate the opportunity to interview you regarding the outcomes and challenges of these programs. The interview would take approximately 30 minutes and could be conducted via video call at a time convenient for you. Your insights would be invaluable to my research. I look forward to hearing from you.\nSincerely,\nKevin O'Brien",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "연구 결과를 환경 단체에 발표하려고",
+        "친환경 프로그램의 참여를 독려하려고",
+        "인터뷰 기회를 요청하려고",
+        "논문 심사 일정을 공지하려고",
+        "폐기물 관리 교육 과정을 안내하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The writer explicitly states 'I would greatly appreciate the opportunity to interview you' and describes the format (30-minute video call). The entire letter builds toward this single request. Choice 3 '인터뷰 기회를 요청하려고' precisely matches this purpose.",
+        "distractor_analysis": "Choice 1 is wrong — the writer is gathering data, not presenting results. Choice 2 is wrong — no invitation to participate in a program is made. Choice 4 is wrong — no thesis defense schedule is mentioned. Choice 5 is wrong — the writer is a student seeking information, not providing educational guidance.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Residents of Maplewood Heights,\nThis is a notice from the Maplewood Heights Community Association. We would like to inform you that the annual neighborhood cleanup day, originally scheduled for Saturday, April 12th, has been rescheduled due to forecast heavy rainfall. The event will now take place on Saturday, April 19th, starting at 9:00 a.m. at the community center parking lot. All registered volunteers are still confirmed for participation, and no re-registration is required. Cleaning supplies will be provided. Please wear comfortable clothing and bring water. We apologize for any inconvenience this change may cause. Your continued dedication to keeping our neighborhood clean and welcoming is deeply appreciated.\nWarm regards,\nThe Maplewood Heights Community Association",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "청소 행사의 날짜 변경을 알리려고",
+        "자원봉사자 모집 기간을 연장하려고",
+        "커뮤니티 센터 이용 규칙을 공지하려고",
+        "강수량 예보에 따른 대피 방법을 안내하려고",
+        "청소 행사에 필요한 물품 기부를 요청하려고"
+      ],
+      "answer": 1,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The letter's core message is 'the annual neighborhood cleanup day...has been rescheduled' with the new date (April 19th). Everything else — no re-registration needed, supplies provided — supports this date change notification. Choice 1 '청소 행사의 날짜 변경을 알리려고' captures this exactly.",
+        "distractor_analysis": "Choice 2 is wrong — volunteers are already registered, no new recruitment. Choice 3 is wrong — no community center rules are discussed. Choice 4 is wrong — rain is only the reason for rescheduling, not a safety emergency. Choice 5 is wrong — supplies are being provided by the organizers, not requested from residents.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "To Whom It May Concern,\nI am writing on behalf of the Westbridge Elementary School Parent-Teacher Association. Our school recently launched a reading enrichment initiative to encourage students to develop a love of books. As part of this program, we are hoping to build a small reading corner in each classroom, stocked with age-appropriate books. However, our budget is limited, and we are unable to purchase all the materials needed. We would be most grateful if your bookstore, Chapters & More, would consider donating some children's books or providing them at a discounted rate. Any contribution, large or small, would make a meaningful difference for our students. Please feel free to contact us at pta@westbridge.edu. We look forward to your generous support.\nYours sincerely,\nMargaret Liu\nWestbridge Elementary School PTA President",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "학교 독서 프로그램의 성과를 보고하려고",
+        "서점의 학교 방문 강연을 초청하려고",
+        "도서 기증이나 할인 제공을 부탁하려고",
+        "학부모 독서 모임 참여를 독려하려고",
+        "교실 리모델링 사업을 위한 모금을 요청하려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The writer explicitly asks the bookstore to 'consider donating some children's books or providing them at a discounted rate.' The letter is addressed to a bookstore and requests either a donation or discount — Choice 3 '도서 기증이나 할인 제공을 부탁하려고' matches both options stated.",
+        "distractor_analysis": "Choice 1 is wrong — the program is newly launched, no results to report. Choice 2 is wrong — no visiting lecture or author event is requested. Choice 4 is wrong — the target audience is a bookstore, not parents. Choice 5 is wrong — the request is specifically for books, not general fundraising for renovation.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Mr. Thompson,\nI hope this message finds you well. I am writing regarding our subscription to the CloudDesk Pro service, which our company, Hartfield Consulting, has used for the past two years. We have generally been satisfied with the platform's features. However, we have recently noticed that our monthly billing statements have included charges that do not correspond to our current plan. Specifically, we appear to have been charged for the Enterprise Add-On package since January, despite never requesting this upgrade. We have attached copies of our original contract and the last three billing statements for your reference. We kindly request that you review the billing records and issue a refund for the incorrectly charged amounts. We appreciate your prompt attention to this matter.\nBest regards,\nSophia Grant\nFinance Manager, Hartfield Consulting",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "구독 서비스의 요금제 업그레이드를 신청하려고",
+        "소프트웨어 기술 오류에 대한 수리를 요청하려고",
+        "잘못 청구된 요금에 대한 환불을 요청하려고",
+        "계약 갱신 조건에 대한 협상을 제안하려고",
+        "청구서 발송 주소 변경을 알리려고"
+      ],
+      "answer": 3,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The writer states 'we kindly request that you review the billing records and issue a refund for the incorrectly charged amounts.' The letter establishes that incorrect charges appeared since January and ends with a refund request. Choice 3 '잘못 청구된 요금에 대한 환불을 요청하려고' matches this precisely.",
+        "distractor_analysis": "Choice 1 is the opposite — the writer explicitly says they never requested the upgrade. Choice 2 is wrong — the issue is billing, not a software malfunction. Choice 4 is wrong — no contract renegotiation is proposed. Choice 5 is wrong — no address change is mentioned; billing statements are attached as evidence.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "number": 18,
+      "type": "글의 목적",
+      "passage": "Dear Students and Faculty,\nMy name is Dr. Patricia Horner, Dean of Academic Affairs at Northgate College. I am pleased to announce that starting next semester, the college library will extend its operating hours on weekdays. Previously, the library closed at 8:00 p.m. on weekdays. Beginning next semester, it will remain open until 11:00 p.m., Monday through Friday. This change has been made in response to feedback from students who expressed the need for additional study space during evening hours, especially during the examination period. Quiet study rooms and computer terminals will be fully available during extended hours. We hope this change will support your academic success. Please check the library's website for the updated schedule.\nSincerely,\nDr. Patricia Horner\nDean of Academic Affairs",
+      "question": "다음 글의 목적으로 가장 적절한 것은?",
+      "choices": [
+        "도서관 이용 규칙 위반에 대한 주의를 촉구하려고",
+        "도서관 운영 시간 연장을 공지하려고",
+        "새로 설치된 도서관 시설을 소개하려고",
+        "시험 기간 도서관 예약 방법을 안내하려고",
+        "도서관 이용 만족도 조사 참여를 요청하려고"
+      ],
+      "answer": 2,
+      "points": 2,
+      "self_check": {
+        "correct_answer_reasoning": "The letter's explicit content is: 'the college library will extend its operating hours on weekdays' from 8:00 p.m. to 11:00 p.m. starting next semester. The entire communication is an official announcement of this schedule change. Choice 2 '도서관 운영 시간 연장을 공지하려고' is an exact match.",
+        "distractor_analysis": "Choice 1 is wrong — there is no mention of rule violations or warnings. Choice 3 is wrong — quiet study rooms and computers are mentioned as already available during extended hours, not as newly installed. Choice 4 is wrong — no reservation system is described; students are directed to the website for the updated schedule only. Choice 5 is wrong — the feedback was already collected before this announcement; no survey is being requested.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

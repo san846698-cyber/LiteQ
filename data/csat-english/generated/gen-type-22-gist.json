@@ -1,0 +1,213 @@
+{
+  "type": "요지",
+  "typeNumber": 22,
+  "analysis": {
+    "passagePatterns": {
+      "wordCount": "150-200 words in English",
+      "structure": "Introduces a concept or phenomenon, provides examples or evidence, then states or implies the main point (often in the final 1-2 sentences)",
+      "topics": "Psychology, sociology, philosophy, communication, education, science, management — academic but accessible themes",
+      "rhetoricDevices": "Concrete examples, analogies, contrast between common assumption and actual reality, expert citations"
+    },
+    "questionFormat": "다음 글의 요지로 가장 적절한 것은?",
+    "choicePatterns": {
+      "count": 5,
+      "language": "Korean",
+      "correctAnswer": "Accurately captures the central argument/main point of the passage",
+      "distractors": [
+        "Partially related but misses the core point",
+        "Addresses a detail rather than the main idea",
+        "Opposite or contradictory to the passage's argument",
+        "Plausible-sounding but not supported by the passage"
+      ],
+      "answerDistribution": "Spread across positions 1-5, no fixed pattern"
+    },
+    "difficultyLevel": "Medium — passage is readable but the main point requires inference beyond surface-level comprehension"
+  },
+  "generated": [
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "People tend to assume that creativity is an innate gift — something you either have or you don't. Yet research consistently shows that environmental factors play a far greater role in creative output than genetic predisposition. Teresa Amabile's componential theory of creativity emphasizes that intrinsic motivation, domain-relevant skills, and creativity-relevant processes all interact to produce creative work. Crucially, the social environment can either nurture or destroy creativity. When individuals feel psychologically safe — free from harsh judgment and excessive surveillance — they are more willing to take risks and explore unconventional ideas. Conversely, environments characterized by constant evaluation and competition tend to suppress the very behaviors that lead to creative breakthroughs. This means that managers, teachers, and parents who wish to foster creativity should focus less on identifying \"creative people\" and more on cultivating conditions where creative thinking can flourish naturally.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "창의성은 타고난 재능보다 환경적 조건에 의해 더 크게 좌우된다.",
+        "창의적 사고를 위해서는 다양한 분야의 지식을 갖추는 것이 중요하다.",
+        "경쟁적인 환경이 개인의 창의적 잠재력을 극대화할 수 있다.",
+        "창의성 교육은 어린 시절부터 체계적으로 이루어져야 한다.",
+        "내재적 동기보다 외재적 보상이 창의적 성과를 더 높인다."
+      ],
+      "answer": 1,
+      "explanations": {
+        "correct": "지문은 \"environmental factors play a far greater role in creative output than genetic predisposition\"이라고 명시하며, 심리적 안전감이 보장되는 환경이 창의성을 키우고 평가·경쟁 중심 환경은 오히려 억제한다고 설명한다. 결론부에서 \"focus less on identifying 'creative people' and more on cultivating conditions\"라고 요약하듯, 창의성은 타고난 재능이 아닌 환경적 조건에 달려 있다는 것이 글의 핵심이다.",
+        "wrong": [
+          "②는 Amabile의 이론에서 'domain-relevant skills'가 언급되기는 하지만, 그것이 글의 핵심 주장이 아니다. 지문은 다양한 분야의 지식 습득보다 환경적 조건(심리적 안전감, 자율성)이 창의성에 더 결정적임을 강조한다.",
+          "③은 지문과 정반대의 내용이다. 지문은 \"environments characterized by constant evaluation and competition tend to suppress the very behaviors that lead to creative breakthroughs\"라고 명시하여 경쟁적 환경이 창의성을 억제한다고 말한다.",
+          "④는 지문에서 전혀 언급되지 않는 내용이다. 지문은 창의성 교육의 시작 시기나 체계적 교육과정에 대해 논하지 않으며, 환경 조성의 주체(관리자, 교사, 부모)를 언급하지만 '어린 시절'을 특정하지 않는다.",
+          "⑤는 지문의 내용과 정반대이다. 지문은 Amabile의 이론을 인용하며 내재적 동기(intrinsic motivation)가 창의적 작업에 핵심 요소임을 밝히고, 외적 평가나 감시가 창의성을 억제한다고 설명한다."
+        ],
+        "key_point": "창의성은 타고난 재능이 아니라 심리적 안전감과 같은 환경적 조건에 의해 좌우되므로, '창의적 인재 발굴'보다 '창의적 환경 조성'이 중요하다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Creativity depends more on environmental conditions (psychological safety, freedom from harsh judgment) than on innate talent",
+        "passageSupport": "The passage explicitly states environmental factors play a far greater role than genetic predisposition, and concludes by urging focus on cultivating conditions rather than identifying creative people",
+        "distractorAnalysis": {
+          "choice2": "Mentions domain knowledge (a detail) but misses the environmental emphasis",
+          "choice3": "Contradicts the passage — competition suppresses creativity",
+          "choice4": "Not discussed in the passage; introduces unsupported claim about childhood education",
+          "choice5": "Contradicts the passage — intrinsic motivation is highlighted, not extrinsic rewards"
+        },
+        "difficultyRating": "Medium",
+        "wordCount": 158
+      }
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "We often believe that having more choices leads to greater satisfaction, but the psychologist Barry Schwartz argues that the opposite is frequently true. When faced with an overwhelming number of options — whether selecting a career path, a retirement plan, or even a jar of jam at the supermarket — people experience what Schwartz calls \"the paradox of choice.\" Rather than feeling empowered, they become anxious about making the wrong decision and are more likely to feel regret afterward, even when their actual choice turns out well. This is partly because having many alternatives makes it easy to imagine a better outcome from a different selection. In contrast, when options are limited, people tend to adapt more readily to their choices and report higher levels of contentment. Reducing the number of available options, paradoxically, can lead to better decisions and greater peace of mind.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "합리적 소비를 위해서는 다양한 선택지를 비교하는 것이 필수적이다.",
+        "의사 결정 시 전문가의 조언을 구하면 후회를 줄일 수 있다.",
+        "선택지가 지나치게 많으면 오히려 만족감이 떨어질 수 있다.",
+        "소비자에게 충분한 정보를 제공하는 것이 기업의 의무이다.",
+        "선택의 결과보다 선택의 과정 자체가 더 큰 만족을 준다."
+      ],
+      "answer": 3,
+      "explanations": {
+        "correct": "Schwartz의 '선택의 역설(paradox of choice)'을 중심으로 지문은 선택지가 넘칠 때 사람들이 불안해지고 후회가 커짐을 설명한다. \"Reducing the number of available options, paradoxically, can lead to better decisions and greater peace of mind\"라는 마지막 문장이 핵심을 압축하며, 선택지가 많을수록 만족감이 오히려 낮아질 수 있다는 것이 글의 요지이다.",
+        "wrong": [
+          "①은 지문의 주장과 정반대이다. 지문은 다양한 선택지를 비교하는 행위가 불안과 후회를 유발한다고 말하며, 선택지를 줄이는 것이 더 나은 결정과 평온함으로 이어진다고 결론짓는다.",
+          "②는 지문에서 전혀 다루지 않는 내용이다. 전문가의 조언이 후회를 줄인다는 주장은 지문 어디에도 등장하지 않으며, 글은 선택지의 수 자체가 문제임을 강조한다.",
+          "④는 지문의 논점과 무관하다. 지문은 소비자 심리에 초점을 맞추고 있으며, 기업의 정보 제공 의무에 대해서는 전혀 언급하지 않는다.",
+          "⑤는 지문에서 지지되지 않는 내용이다. 지문은 선택 이후의 후회(결과에 대한 불만)를 중점적으로 논하며, 선택 과정 자체가 만족을 준다는 내용은 없다."
+        ],
+        "key_point": "선택지가 너무 많으면 '선택의 역설'로 인해 불안과 후회가 커지므로, 오히려 선택지를 줄이는 것이 더 큰 만족과 평온으로 이어질 수 있다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Too many choices paradoxically reduce satisfaction and increase anxiety and regret",
+        "passageSupport": "The passage centers on Schwartz's 'paradox of choice' — more options cause anxiety and regret, while fewer options lead to greater contentment",
+        "distractorAnalysis": {
+          "choice1": "Contradicts the passage — comparing many options is shown to be problematic",
+          "choice2": "Expert advice is never mentioned in the passage",
+          "choice4": "Not discussed — the passage is about consumer psychology, not corporate responsibility",
+          "choice5": "Not supported — the passage discusses outcomes and regret, not process satisfaction"
+        },
+        "difficultyRating": "Medium",
+        "wordCount": 155
+      }
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "In medicine, physicians are trained to diagnose diseases by matching symptoms to known conditions. This process works well for common illnesses but can become dangerously misleading when a patient presents unusual symptoms. The problem lies in what cognitive scientists call \"anchoring bias\" — the tendency to rely too heavily on the first piece of information encountered. A doctor who initially considers a common diagnosis may unconsciously filter subsequent evidence to confirm that initial impression, overlooking signs that point to a rarer but more serious condition. Studies have shown that diagnostic errors account for a significant proportion of medical malpractice claims, and many of these errors stem from premature closure — settling on a diagnosis before all relevant information has been considered. Training physicians to deliberately consider alternative diagnoses and to question their initial assumptions can significantly reduce these errors and improve patient outcomes.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "희귀 질환에 대한 의학 데이터베이스 구축이 시급하다.",
+        "의사의 초기 판단에 대한 편향이 진단 오류의 주요 원인이 될 수 있다.",
+        "의료 기술의 발전이 진단의 정확도를 획기적으로 높이고 있다.",
+        "환자가 자신의 증상을 정확히 설명하는 것이 올바른 진단의 핵심이다.",
+        "의료 소송을 줄이기 위해 의사와 환자 간의 소통을 강화해야 한다."
+      ],
+      "answer": 2,
+      "explanations": {
+        "correct": "지문은 '닻 내리기 편향(anchoring bias)'과 '조기 종결(premature closure)'이 의사의 진단 오류를 유발하는 주된 원인임을 설명한다. \"A doctor who initially considers a common diagnosis may unconsciously filter subsequent evidence to confirm that initial impression\"이 핵심 근거이며, 대안적 진단을 의도적으로 고려하도록 훈련하면 오류를 줄일 수 있다는 결론으로 이어진다. 즉, 초기 판단에 대한 편향이 진단 오류의 핵심 원인이라는 것이 글의 요지이다.",
+        "wrong": [
+          "①은 지문에서 전혀 언급되지 않는 내용이다. 지문은 의학 데이터베이스 구축이 아니라 의사의 인지적 편향(닻 내리기 편향)을 진단 오류의 원인으로 지목하며, 훈련을 통한 해결책을 제시한다.",
+          "③은 지문과 무관하다. 의료 기술의 발전에 대한 논의는 지문 어디에도 없으며, 글은 기술보다 의사의 사고 방식(인지 편향 극복)이 정확한 진단의 열쇠임을 강조한다.",
+          "④는 지문의 초점과 다르다. 지문은 환자의 증상 설명이 아닌 의사 내부의 인지 편향을 문제의 근원으로 제시한다. 환자의 증상 전달 방식은 지문에서 전혀 다루지 않는다.",
+          "⑤는 지문의 세부 사항을 과도하게 확대한 것이다. 의료 소송이 언급되기는 하지만, 그것은 진단 오류의 결과를 예시하기 위한 것이며 의사-환자 소통 강화는 지문의 해결책이 아니다."
+        ],
+        "key_point": "의사의 첫 인상에 의존하는 닻 내리기 편향과 조기 종결이 진단 오류의 주된 원인이므로, 대안적 진단을 의식적으로 검토하는 훈련이 필요하다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Anchoring bias and premature closure in diagnosis cause physicians to make errors; deliberately considering alternatives can reduce mistakes",
+        "passageSupport": "The passage explains anchoring bias in medical diagnosis, links it to diagnostic errors and malpractice claims, and concludes that questioning initial assumptions reduces errors",
+        "distractorAnalysis": {
+          "choice1": "Database construction is never mentioned",
+          "choice3": "Medical technology advancement is not discussed",
+          "choice4": "Patient communication is not the focus — the bias is within the physician's reasoning",
+          "choice5": "Reducing lawsuits is a detail, not the main point; the focus is on cognitive bias"
+        },
+        "difficultyRating": "Medium",
+        "wordCount": 154
+      }
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Many educational systems around the world place enormous value on standardized testing as a measure of student achievement. However, a growing body of research suggests that these tests often measure a narrow range of cognitive abilities — primarily memorization and the application of formulaic procedures — while neglecting higher-order skills such as critical thinking, collaboration, and creative problem-solving. Students who excel on standardized tests may struggle when confronted with real-world problems that require flexible thinking and adaptive reasoning. Furthermore, the pressure to perform well on these assessments leads many schools to adopt a \"teach to the test\" approach, which further narrows the curriculum and reduces opportunities for deeper learning. A more balanced assessment system — one that incorporates project-based evaluations, portfolios, and peer assessments alongside traditional tests — would provide a more accurate picture of what students truly know and can do.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "표준화 시험은 학생의 학업 성취도를 측정하는 가장 공정한 방법이다.",
+        "단일 형태의 시험으로는 학생이 지닌 능력의 전체 모습을 파악하기 어렵다.",
+        "비판적 사고력은 반복적인 훈련을 통해서만 향상될 수 있다.",
+        "교육과정 개편을 위해서는 교사와 학부모의 합의가 우선되어야 한다.",
+        "프로젝트 기반 학습은 학생들의 협업 능력 향상에 효과적이다."
+      ],
+      "answer": 2,
+      "explanations": {
+        "correct": "지문은 표준화 시험이 암기와 공식 적용 등 \"a narrow range of cognitive abilities\"만 측정하며, 비판적 사고·협업·창의적 문제해결 능력은 평가하지 못한다고 지적한다. 또한 \"teach to the test\" 현상으로 교육과정 자체가 좁아진다고 설명한다. 결론부에서 프로젝트, 포트폴리오, 동료 평가를 포함하는 균형 잡힌 평가 체계가 필요하다고 주장하므로, 단일 시험 형태로는 학생의 전체 능력을 파악하기 어렵다는 것이 요지이다.",
+        "wrong": [
+          "①은 지문의 주장과 정반대이다. 지문은 표준화 시험이 좁은 범위의 능력만 측정하며 한계가 크다고 비판한다. 가장 공정한 방법이라는 주장은 지문 어디에도 등장하지 않는다.",
+          "③은 지문에서 지지되지 않는 내용이다. 지문은 비판적 사고력을 표준화 시험이 측정하지 못하는 고차원적 능력으로 언급하지만, 그것을 반복 훈련으로 향상시킨다는 주장은 없다.",
+          "④는 지문에서 전혀 다루지 않는 내용이다. 교사와 학부모의 합의, 교육과정 개편 절차에 대한 논의는 없으며, 글은 평가 방식의 다양화를 해결책으로 제시한다.",
+          "⑤는 지문의 세부 내용을 주요 주장으로 오해한 것이다. 프로젝트 기반 평가는 균형 잡힌 평가 체계의 한 구성요소로만 언급될 뿐, 협업 능력 향상이 글의 중심 주제가 아니다."
+        ],
+        "key_point": "표준화 시험은 암기와 공식 적용 능력만 측정하여 학생의 전체 역량을 반영하지 못하므로, 프로젝트·포트폴리오 등을 포함한 균형 잡힌 평가 체계가 필요하다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Standardized tests measure only narrow abilities; a more balanced, diverse assessment system is needed to capture what students truly know",
+        "passageSupport": "The passage argues standardized tests measure only narrow abilities and a balanced system is needed — the correct choice paraphrases this as difficulty in capturing full abilities through one test format",
+        "distractorAnalysis": {
+          "choice1": "Directly contradicts the passage's argument",
+          "choice3": "Critical thinking is mentioned but not as something trained by repetition",
+          "choice4": "Teacher-parent consensus is never discussed",
+          "choice5": "Project-based learning is mentioned as one component, not the main point"
+        },
+        "difficultyRating": "Medium-High",
+        "wordCount": 152
+      }
+    },
+    {
+      "number": 22,
+      "type": "요지",
+      "passage": "Sleep is often the first thing people sacrifice when life gets busy, yet neuroscience research reveals that this trade-off comes at a steep cognitive cost. During sleep, the brain consolidates memories, clears metabolic waste products through the glymphatic system, and reorganizes neural connections formed during waking hours. Without sufficient sleep, the prefrontal cortex — responsible for decision-making, impulse control, and emotional regulation — functions at a significantly reduced capacity. Studies by Matthew Walker and others have demonstrated that even moderate sleep deprivation impairs cognitive performance to a degree comparable to legal intoxication. Ironically, the people who believe they can \"get by\" on minimal sleep are often the least aware of how much their performance has declined. Rather than viewing sleep as wasted time, we should recognize it as an active and essential process that directly determines how effectively we think, learn, and make decisions during our waking lives.",
+      "question": "다음 글의 요지로 가장 적절한 것은?",
+      "choices": [
+        "규칙적인 수면 습관을 형성하면 생체 리듬이 안정된다.",
+        "수면 부족이 신체 건강에 미치는 영향은 과장되어 있다.",
+        "수면은 인지 기능에 필수적인 능동적 과정으로 인식되어야 한다.",
+        "충분한 수면을 취하면 감정 조절 능력이 향상될 수 있다.",
+        "현대인의 수면 부족 문제를 해결하기 위한 사회적 노력이 필요하다."
+      ],
+      "answer": 3,
+      "explanations": {
+        "correct": "지문은 수면 중 기억 공고화, 노폐물 제거, 신경 연결 재편이 일어남을 설명하며, 수면 부족이 인지 기능을 음주 상태에 비견할 만큼 손상시킨다고 밝힌다. 결론부인 \"we should recognize it as an active and essential process that directly determines how effectively we think, learn, and make decisions\"가 요지를 직접 표현하며, 수면을 낭비 시간이 아닌 인지 기능에 필수적인 능동적 과정으로 인식해야 함을 강조한다.",
+        "wrong": [
+          "①은 지문에서 다루지 않는 내용이다. 지문은 규칙적인 수면 리듬이나 생체 시계 안정에 대해 논하지 않으며, 수면이 인지 기능에 미치는 질적 영향에 초점을 맞춘다.",
+          "②는 지문과 정반대의 주장이다. 지문은 수면 부족이 인지 성능을 법적 음주 기준에 준하는 수준으로 손상시킨다는 연구를 인용하며, 그 영향이 과소평가되고 있다고 경고한다.",
+          "④는 지문의 세부 내용을 주요 주장으로 오해한 것이다. 감정 조절은 전전두엽 피질의 기능 중 하나로 언급되지만, 이것이 글의 핵심 주장이 아니라 수면 부족의 여러 부작용 중 하나에 해당한다.",
+          "⑤는 지문에서 전혀 다루지 않는 내용이다. 지문은 사회적 해결책이나 정책적 노력을 제안하지 않으며, 개인이 수면의 가치를 올바르게 인식해야 한다는 메시지를 전달한다."
+        ],
+        "key_point": "수면은 낭비 시간이 아니라 기억 공고화·노폐물 제거·신경 재편이 일어나는 능동적·필수적 과정으로, 이를 희생하면 인지 기능이 심각하게 손상된다."
+      },
+      "points": 2,
+      "self_check": {
+        "mainPoint": "Sleep is not wasted time but an active, essential process for cognitive function — sacrificing it comes at a steep cognitive cost",
+        "passageSupport": "The passage details sleep's roles (memory consolidation, waste clearance, neural reorganization), shows costs of deprivation, and concludes that sleep should be recognized as an active essential process",
+        "distractorAnalysis": {
+          "choice1": "Circadian rhythm stability is not discussed",
+          "choice2": "Directly contradicts the passage",
+          "choice4": "Emotional regulation is mentioned as one function of the prefrontal cortex, but this is a detail, not the main point",
+          "choice5": "Social efforts are never discussed — the passage focuses on individual recognition of sleep's value"
+        },
+        "difficultyRating": "Medium",
+        "wordCount": 155
+      }
+    }
+  ]
+}

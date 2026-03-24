@@ -1,0 +1,335 @@
+{
+  "type": "어법",
+  "typeNumber": 29,
+  "analysis": {
+    "total_questions_analyzed": 18,
+    "grammar_points_tested": {
+      "subject_verb_agreement": {
+        "frequency": "very high",
+        "description": "Long or complex subjects followed by verbs that must agree in number. Often tested with intervening phrases/clauses between subject and verb.",
+        "examples": ["'draw' should be 'draws' (2025 3월)", "'are' should be 'is' (2024 4월)"]
+      },
+      "verb_form_errors": {
+        "frequency": "very high",
+        "description": "Using a participle (e.g., 'being', 'becoming', 'coming') where a finite verb (e.g., 'are', 'became', 'come') is needed, or vice versa.",
+        "examples": ["'being' → 'are' (2023 7월)", "'becoming' → 'became' (2023 10월)", "'coming' → 'come' (2025 5월)", "'blooming' → 'bloom' (2024 7월)"]
+      },
+      "relative_pronouns": {
+        "frequency": "high",
+        "description": "Wrong relative pronoun: 'whose' vs 'that/which', 'which' vs 'where/in which', missing preposition before relative pronoun.",
+        "examples": ["'whose' → 'that' (2025 9월)", "'which' → 'in which/where' (2026 9월, 2025 10월)", "'which' → 'into which' (2024 3월)"]
+      },
+      "word_form": {
+        "frequency": "high",
+        "description": "Wrong part of speech — adjective vs adverb, past participle vs present participle, adjective vs noun form.",
+        "examples": ["'motivated' → 'motivating' (2023 4월)", "'require' → 'required' (2025 7월)"]
+      },
+      "to_infinitive_vs_bare_infinitive": {
+        "frequency": "moderate",
+        "description": "Missing 'to' with certain verb patterns, or using 'to' where not needed.",
+        "examples": ["'perceive' → 'to perceive' (2026 6월)"]
+      },
+      "pronoun_reference": {
+        "frequency": "moderate",
+        "description": "Wrong pronoun choice — 'that' as demonstrative/relative, 'what' vs 'that'.",
+        "examples": ["'that' → 'what' (2023 3월)"]
+      },
+      "participle_vs_finite_verb": {
+        "frequency": "moderate",
+        "description": "Using participle form where full clause with finite verb needed, or using 'last' instead of 'lasting'.",
+        "examples": ["'last' → 'lasting' (2024 10월)"]
+      },
+      "voice_active_vs_passive": {
+        "frequency": "moderate",
+        "description": "Using active voice where passive is needed, or vice versa.",
+        "examples": ["'give' → 'are given' (2024 6월)", "'realizing' → 'realize' (imperative, 2023 9월)"]
+      },
+      "parallel_structure": {
+        "frequency": "moderate",
+        "description": "Items in a series or coordinate structure must maintain the same grammatical form.",
+        "examples": ["'blooming' → 'bloom' to match 'ascend' (2024 7월)"]
+      },
+      "preposition_with_relative_clause": {
+        "frequency": "moderate",
+        "description": "Missing preposition before relative pronoun in formal contexts.",
+        "examples": ["'which' → 'into which' (2024 3월)", "'which' → 'through/by which' (2025 10월)"]
+      }
+    },
+    "passage_characteristics": {
+      "length": "150-250 words typically",
+      "topic_domains": ["psychology", "science", "history", "education", "technology", "social issues"],
+      "complexity": "academic/expository prose",
+      "underlined_parts": "exactly 5 per passage, numbered ① through ⑤"
+    },
+    "answer_distribution": {
+      "①": 0,
+      "②": 3,
+      "③": 4,
+      "④": 3,
+      "⑤": 8
+    },
+    "design_principles": [
+      "Exactly one grammatically wrong underlined part among five",
+      "Distractors test similar grammar areas but are actually correct",
+      "Errors are subtle — often a single morpheme change fixes the error",
+      "Context must be read carefully to identify the correct subject or antecedent"
+    ]
+  },
+  "generated": [
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "The idea that language merely reflects thought has been challenged by researchers who argue that language actively ① shapes how we perceive the world. In one well-known experiment, speakers of languages that use different color terms ② were shown to categorize colors differently from English speakers, suggesting that the vocabulary available to a person influences the way reality is mentally organized. The implications of this finding ③ extends far beyond color perception. If language can alter something as fundamental as how we see colors, it is reasonable to assume that it can also affect higher-order cognitive processes such as reasoning and decision-making. Some scholars have gone so far as to claim that people ④ speaking different languages essentially inhabit different conceptual worlds — a position that, while controversial, has gained considerable support from cross-cultural studies ⑤ conducted over the past two decades.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "③ extends → extend: 문법 규칙 — 주어-동사 수 일치(Subject-Verb Agreement). 주어는 'The implications of this finding'이며, 핵심 명사는 복수인 'implications'입니다. 중간에 삽입된 전치사구 'of this finding'이 단수 명사처럼 착각하게 만들지만, 동사는 실제 주어의 핵심 명사 수에 일치시켜야 하므로 복수형 'extend'가 되어야 합니다.",
+        "wrong": {
+          "1": "① shapes는 올바릅니다. 관계절의 주어 'language'(단수)에 수 일치하는 3인칭 단수 현재형 동사입니다.",
+          "2": "② were shown은 올바릅니다. 주어 'speakers'(복수)가 연구자들에 의해 '보여지는' 대상이므로 복수 수동태 과거형이 적절합니다.",
+          "4": "④ speaking은 올바릅니다. 현재분사로 'people'을 수식하는 축약 관계절 구조입니다('people who speak different languages'의 축약형).",
+          "5": "⑤ conducted는 올바릅니다. 과거분사로 'studies'를 수식하며 수동 의미를 나타냅니다('studies that were conducted over the past two decades'의 축약형)."
+        },
+        "key_point": "전치사구(of this finding)가 주어와 동사 사이에 삽입되면 핵심 주어 명사를 가릴 수 있습니다. 항상 수식어구를 제거하고 진짜 주어 명사의 수(단수/복수)를 확인한 뒤 동사 형태를 결정해야 합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "③ 'extends' should be 'extend'. The subject is 'The implications of this finding', where the head noun 'implications' is plural. Therefore, the verb must be plural 'extend', not singular 'extends'. The intervening prepositional phrase 'of this finding' creates a distraction.",
+        "distractor_analysis": "① 'shapes' is correct — the subject is 'language' (singular), so the third-person singular verb 'shapes' agrees. ② 'were shown' is correct — the subject is 'speakers' (plural), and passive voice is appropriate here (researchers showed them). ④ 'speaking' is correct — this is a present participle modifying 'people', functioning as a reduced relative clause ('people who speak different languages'의 축약형). ⑤ 'conducted' is correct — past participle modifying 'studies', functioning as a reduced relative clause ('studies that were conducted over the past two decades'의 축약형).",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "③ extends",
+          "grammar_rule": "주어-동사 수 일치 (Subject-Verb Agreement)",
+          "explanation": "③ 'extends'는 오류입니다. 주어는 'The implications of this finding'이며, 핵심 명사는 복수인 'implications'입니다. 중간에 삽입된 전치사구 'of this finding'이 마치 단수 명사가 주어인 것처럼 착각하게 만들지만, 동사는 실제 주어의 핵심 명사에 수를 일치시켜야 합니다. 따라서 단수형 'extends'가 아니라 복수형 'extend'가 되어야 합니다.",
+          "correction": "extends → extend"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① shapes",
+            "explanation": "'shapes'는 올바릅니다. 이 관계절의 주어는 'language'(단수)이므로, 3인칭 단수 현재형 동사 'shapes'가 수 일치에 맞습니다."
+          },
+          "②": {
+            "underlined": "② were shown",
+            "explanation": "'were shown'은 올바릅니다. 주어 'speakers'(복수)가 연구자들에 의해 '보여지는' 대상이므로 복수 수동태 과거형이 적절합니다."
+          },
+          "④": {
+            "underlined": "④ speaking",
+            "explanation": "'speaking'은 올바릅니다. 현재분사로 'people'을 수식하는 축약 관계절 구조입니다('people who speak different languages'의 축약형)."
+          },
+          "⑤": {
+            "underlined": "⑤ conducted",
+            "explanation": "'conducted'는 올바릅니다. 과거분사로 'studies'를 수식하며 수동 의미를 나타냅니다('studies that were conducted over the past two decades'의 축약형)."
+          }
+        },
+        "key_point": "전치사구(of this finding)가 주어와 동사 사이에 삽입되면 핵심 주어 명사를 가릴 수 있습니다. 항상 수식어구를 제거하고 진짜 주어 명사의 수(단수/복수)를 확인한 뒤 동사 형태를 결정해야 합니다."
+      }
+    },
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "In the history of scientific discovery, many breakthroughs have come not from deliberate investigation but from accidents ① that occurred during unrelated experiments. Alexander Fleming's discovery of penicillin, perhaps the most famous example, happened when he noticed that mold growing on a petri dish ② had killed the surrounding bacteria. What made Fleming remarkable was not the accident itself but his willingness to pursue ③ what others might have dismissed as contamination. The ability to recognize the significance of unexpected results, rather than ④ ignore them, is what separates truly great scientists from competent ones. This quality, sometimes ⑤ referring to as \"prepared luck,\" suggests that fortune favors not merely the brave but the observant — those whose training allows them to see opportunity where others see only failure.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤ referring → referred: 문법 규칙 — 분사의 능동·수동 구별(Active vs. Passive Participle). 'This quality'는 사람들에 의해 불리는(referred to) 대상이므로 수동 의미의 과거분사 'referred'가 필요합니다. 현재분사 'referring'을 쓰면 'This quality'가 능동적으로 무언가를 지칭하는 주체가 되어 의미상 맞지 않습니다. 'sometimes referred to as'는 'which is sometimes referred to as'의 축약형입니다.",
+        "wrong": {
+          "1": "① that은 올바릅니다. 'accidents'를 선행사로 하는 제한적 관계대명사로 주격 역할을 합니다.",
+          "2": "② had killed은 올바릅니다. 세균이 죽은 것이 플레밍이 발견하기 이전의 사건이므로 과거완료 시제가 적절합니다.",
+          "3": "③ what은 올바릅니다. 'the thing that'의 의미를 가지는 명사적 관계대명사로 'pursue'의 목적어 역할을 하는 명사절을 이끕니다.",
+          "4": "④ ignore는 올바릅니다. 'rather than' 뒤에는 동사 원형(bare infinitive)이 오며, 앞의 'to recognize'와 병렬 구조를 이룹니다('The ability to recognize... rather than ignore')."
+        },
+        "key_point": "'refer to A as B' 구문에서 A가 주어가 될 때는 'A, referred to as B'처럼 수동 과거분사를 써야 합니다. 분사가 수식하는 명사가 행위의 주체이면 현재분사, 대상이면 과거분사를 사용합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "⑤ 'referring' should be 'referred'. The phrase 'sometimes referred to as' is a passive construction (a reduced form of 'which is sometimes referred to as'). The quality is being referred to by others, so the past participle 'referred' is needed, not the present participle 'referring'.",
+        "distractor_analysis": "① 'that' is correct — a relative pronoun introducing a defining clause modifying 'accidents'. ② 'had killed' is correct — past perfect is appropriate because the killing of bacteria happened before Fleming noticed it. ③ 'what' is correct — a nominal relative pronoun meaning 'that which', serving as the object of 'pursue'. ④ 'ignore' is correct — parallel with 'recognize' earlier in the structure 'The ability to recognize... rather than ignore...' (bare infinitive after 'rather than').",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "⑤ referring",
+          "grammar_rule": "분사의 능동·수동 구별 (Active vs. Passive Participle)",
+          "explanation": "⑤ 'referring'은 오류입니다. 'This quality'는 사람들에 의해 불리는(referred to) 대상이므로 수동 의미의 과거분사 'referred'가 필요합니다. 'sometimes referred to as'는 'which is sometimes referred to as'의 축약형으로, 현재분사 'referring'을 쓰면 'This quality'가 능동적으로 무언가를 지칭하는 주체가 되어 의미상 맞지 않습니다.",
+          "correction": "referring → referred"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① that",
+            "explanation": "'that'은 올바릅니다. 'accidents'를 선행사로 하는 제한적 관계대명사로 주격 역할을 합니다."
+          },
+          "②": {
+            "underlined": "② had killed",
+            "explanation": "'had killed'는 올바릅니다. 세균이 죽은 것이 플레밍이 발견하기 이전의 사건이므로 과거완료 시제가 적절합니다."
+          },
+          "③": {
+            "underlined": "③ what",
+            "explanation": "'what'은 올바릅니다. 'the thing that'의 의미를 가지는 명사적 관계대명사로 'pursue'의 목적어 역할을 하는 명사절을 이끕니다."
+          },
+          "④": {
+            "underlined": "④ ignore",
+            "explanation": "'ignore'는 올바릅니다. 'rather than' 뒤에는 동사 원형(bare infinitive)이 오며, 앞의 'to recognize'와 병렬 구조를 이룹니다('The ability to recognize... rather than ignore')."
+          }
+        },
+        "key_point": "'refer to A as B' 구문에서 A가 주어가 될 때는 'A, referred to as B'처럼 수동 과거분사를 써야 합니다. 분사가 수식하는 명사가 행위의 주체이면 현재분사, 대상이면 과거분사를 사용합니다."
+      }
+    },
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "Urban farming, once dismissed as an impractical hobby, has emerged as a serious response to the challenges of modern food systems. Cities around the world are ① increasingly turning abandoned lots and rooftops into productive agricultural spaces. The benefits of urban farming go well beyond food production. Community gardens, for instance, have been shown to strengthen social bonds among residents ② who might otherwise never interact. In Detroit, a city ③ whose economic decline left thousands of vacant lots, urban farms have transformed blighted neighborhoods into vibrant community hubs. Research published in several environmental journals suggests that the vegetables ④ grown in well-managed urban gardens are comparable in nutritional value to those produced on conventional farms. Moreover, by reducing the distance food must travel from farm to table, urban agriculture significantly ⑤ lowering carbon emissions associated with transportation and refrigeration.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤ lowering → lowers: 문법 규칙 — 분사 vs. 정형동사(Participle vs. Finite Verb). 이 문장의 주어는 'urban agriculture'이고, 'lowering'은 현재분사이므로 이 문장에 정형동사(술어)가 없게 됩니다. 주어에 대한 본동사가 필요하므로 3인칭 단수 현재 정형동사 'lowers'로 수정해야 합니다.",
+        "wrong": {
+          "1": "① increasingly는 올바릅니다. 부사로 동사구 'turning'을 수식합니다. 형용사 'increasing'이 아니라 부사 'increasingly'가 맞습니다.",
+          "2": "② who는 올바릅니다. 선행사 'residents'(사람)를 받는 주격 관계대명사입니다.",
+          "3": "③ whose는 올바릅니다. 소유격 관계대명사로 'a city whose economic decline'은 'the economic decline of the city'를 의미합니다.",
+          "4": "④ grown은 올바릅니다. 과거분사로 'vegetables'를 수식하며 수동 의미입니다('vegetables that are grown in well-managed urban gardens'의 축약형)."
+        },
+        "key_point": "문장에 반드시 하나의 정형동사(주어와 수·인칭이 일치하는 술어 동사)가 있어야 합니다. 현재분사(-ing)는 단독으로 술어 역할을 할 수 없으므로, 주절의 동사 자리에는 정형동사를 써야 합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "⑤ 'lowering' should be 'lowers'. The subject is 'urban agriculture' and this is the main verb of the sentence. A finite verb (third-person singular present tense 'lowers') is required, not a present participle 'lowering'. This is a classic participle-vs-finite-verb error frequently tested in CSAT.",
+        "distractor_analysis": "① 'increasingly' is correct — an adverb properly modifying the verb phrase 'turning'. ② 'who' is correct — a relative pronoun referring to 'residents' (people), introducing a defining relative clause. ③ 'whose' is correct — a possessive relative pronoun; 'a city whose economic decline' means 'the economic decline of which/that city'. ④ 'grown' is correct — past participle modifying 'vegetables' in a reduced relative clause ('vegetables that are grown').",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "⑤ lowering",
+          "grammar_rule": "분사 vs. 정형동사 (Participle vs. Finite Verb)",
+          "explanation": "⑤ 'lowering'은 오류입니다. 이 문장의 주어는 'urban agriculture'이고, 'lowering'은 현재분사이므로 이 문장에 정형동사(술어)가 없게 됩니다. 주어에 대한 본동사가 필요하므로 3인칭 단수 현재 정형동사 'lowers'로 수정해야 합니다.",
+          "correction": "lowering → lowers"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① increasingly",
+            "explanation": "'increasingly'는 올바릅니다. 부사로 동사구 'turning'을 수식합니다. 형용사 'increasing'이 아니라 부사 'increasingly'가 맞습니다."
+          },
+          "②": {
+            "underlined": "② who",
+            "explanation": "'who'는 올바릅니다. 선행사 'residents'(사람)를 받는 주격 관계대명사입니다."
+          },
+          "③": {
+            "underlined": "③ whose",
+            "explanation": "'whose'는 올바릅니다. 소유격 관계대명사로 'a city whose economic decline'은 'the economic decline of the city'를 의미합니다."
+          },
+          "④": {
+            "underlined": "④ grown",
+            "explanation": "'grown'은 올바릅니다. 과거분사로 'vegetables'를 수식하며 수동 의미입니다('vegetables that are grown in well-managed urban gardens'의 축약형)."
+          }
+        },
+        "key_point": "문장에 반드시 하나의 정형동사(주어와 수·인칭이 일치하는 술어 동사)가 있어야 합니다. 현재분사(-ing)는 단독으로 술어 역할을 할 수 없으므로, 주절의 동사 자리에는 정형동사를 써야 합니다."
+      }
+    },
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "Sleep is not merely a period of inactivity but an essential process during ① which the brain consolidates memories, repairs cellular damage, and regulates emotional responses. Despite decades of research, the precise mechanisms by which sleep accomplishes these tasks ② remain only partially understood. What is clear, however, is that chronic sleep deprivation has devastating effects on both physical and mental health. Studies have consistently shown that individuals who sleep fewer than six hours per night ③ are significantly more likely to develop cardiovascular disease, obesity, and depression. The economic costs are equally alarming: a report by a major research institute ④ estimated that sleep deprivation costs the global economy over $400 billion annually in lost productivity. Yet modern society continues to treat sleep as a luxury rather than a necessity, ⑤ encouraged a culture in which working long hours with minimal rest is seen as a badge of honor.",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "⑤ encouraged → encouraging: 문법 규칙 — 분사구문의 능동·수동 구별(Active vs. Passive Participial Phrase). 이 분사구문의 의미상 주어는 앞 주절의 'modern society'입니다. 현대 사회가 능동적으로 문화를 '조장하는(encouraging)' 것이므로 능동 의미의 현재분사 'encouraging'이 필요합니다. 과거분사 'encouraged'를 쓰면 사회가 외부에 의해 격려받는 수동 의미가 되어 맥락에 맞지 않습니다.",
+        "wrong": {
+          "1": "① which는 올바릅니다. 'during which'는 '전치사+관계대명사' 구조로, 선행사 'an essential process'를 수식하는 관계절을 이끕니다.",
+          "2": "② remain은 올바릅니다. 주어 'the precise mechanisms'(복수)에 수 일치하는 복수 동사입니다.",
+          "3": "③ are는 올바릅니다. 주어 'individuals'(복수)에 수 일치하는 복수 동사입니다.",
+          "4": "④ estimated는 올바릅니다. 주어 'a report'(단수 — 핵심 명사)에 맞는 단수 과거 정형동사입니다."
+        },
+        "key_point": "분사구문에서 분사의 의미상 주어는 주절의 주어입니다. 주절의 주어가 행위를 능동적으로 하면 현재분사(-ing), 행위를 수동적으로 받으면 과거분사(-ed)를 사용합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "⑤ 'encouraged' should be 'encouraging'. This is a participial phrase modifying the main clause ('modern society continues to treat sleep as a luxury'). Since 'modern society' actively encourages this culture, the present participle 'encouraging' is needed to form a participial adverbial phrase, not the past participle 'encouraged'.",
+        "distractor_analysis": "① 'which' is correct — 'during which' is a prepositional relative construction properly referring to 'process'. ② 'remain' is correct — the subject is 'mechanisms' (plural), so the plural verb 'remain' agrees. ③ 'are' is correct — the subject is 'individuals' (plural), agreeing with plural verb 'are'. ④ 'estimated' is correct — past tense finite verb with singular subject 'a report' (the head noun, not 'institute').",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "⑤ encouraged",
+          "grammar_rule": "분사구문의 능동·수동 구별 (Active vs. Passive Participial Phrase)",
+          "explanation": "⑤ 'encouraged'는 오류입니다. 이 분사구문의 의미상 주어는 앞 주절의 'modern society'입니다. 현대 사회가 능동적으로 문화를 '조장하는(encouraging)' 것이므로 능동 의미의 현재분사 'encouraging'이 필요합니다. 과거분사 'encouraged'를 쓰면 사회가 외부에 의해 격려 받는 수동 의미가 되어 맥락에 맞지 않습니다.",
+          "correction": "encouraged → encouraging"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① which",
+            "explanation": "'which'는 올바릅니다. 'during which'는 '전치사+관계대명사' 구조로, 선행사 'an essential process'를 수식하는 관계절을 이끕니다('a process during which' = 'a process in which')."
+          },
+          "②": {
+            "underlined": "② remain",
+            "explanation": "'remain'은 올바릅니다. 주어 'the precise mechanisms'(복수)에 수 일치하는 복수 동사입니다."
+          },
+          "③": {
+            "underlined": "③ are",
+            "explanation": "'are'는 올바릅니다. 주어 'individuals'(복수)에 수 일치하는 복수 동사입니다."
+          },
+          "④": {
+            "underlined": "④ estimated",
+            "explanation": "'estimated'는 올바릅니다. 주어 'a report'(단수 — 핵심 명사)에 맞는 단수 과거 정형동사입니다."
+          }
+        },
+        "key_point": "분사구문에서 분사의 의미상 주어는 주절의 주어입니다. 주절의 주어가 행위를 능동적으로 하면 현재분사(-ing), 행위를 수동적으로 받으면 과거분사(-ed)를 사용합니다."
+      }
+    },
+    {
+      "number": 29,
+      "type": "어법",
+      "passage": "The relationship between music and mathematics has fascinated scholars for centuries. Pythagoras, the ancient Greek philosopher ① known for his contributions to geometry, was among the first to observe that musical harmony could be expressed in numerical ratios. A vibrating string ② divided exactly in half produces a note one octave higher than the original — a discovery that laid the groundwork for the entire field of acoustics. In more recent times, researchers have explored how musical training affects mathematical ability. Several large-scale studies indicate that children who receive formal music instruction ③ perform better on standardized math tests than those who do not. The explanation for this correlation lies in the cognitive skills ④ that both disciplines demand: pattern recognition, spatial reasoning, and the ability to manipulate abstract symbols. Whether music training directly causes improved math performance or whether both skills simply draw on the same underlying cognitive architecture ⑤ remain a subject of ongoing debate among neuroscientists.\n* acoustics: 음향학",
+      "question": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+      "choices": ["①", "②", "③", "④", "⑤"],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "⑤ remain → remains: 문법 규칙 — 명사절 주어의 수 일치(Subject-Verb Agreement with Noun Clause Subject). 이 문장의 주어는 'Whether music training directly causes... or whether both skills simply draw...'라는 명사절 전체입니다. whether절이 주어 역할을 할 때는 하나의 단위(단수)로 취급하므로 단수 동사 'remains'가 필요합니다. 절 내부의 'A or B' 구조가 복수처럼 보여 함정이 됩니다.",
+        "wrong": {
+          "1": "① known은 올바릅니다. 과거분사로 'Pythagoras'를 수식하는 동격 분사구입니다('who is known for his contributions'의 축약형). 수동 의미가 적절합니다.",
+          "2": "② divided는 올바릅니다. 과거분사로 'A vibrating string'을 수식하며 수동 의미입니다('a string that is divided exactly in half'의 축약형).",
+          "3": "③ perform은 올바릅니다. 관계절 내 주어 'children'(복수)에 수 일치하는 복수 동사입니다.",
+          "4": "④ that은 올바릅니다. 선행사 'the cognitive skills'(사물)를 수식하는 목적격 관계대명사로 'demand'의 목적어 역할을 합니다."
+        },
+        "key_point": "whether절, that절 등 명사절이 주어로 올 때는 절 전체를 하나의 단위로 보아 단수 동사를 씁니다. 절 내부 구조가 복잡하더라도 주절 동사의 수는 주어인 명사절 자체에 맞춰야 합니다."
+      },
+      "self_check": {
+        "correct_answer_reasoning": "⑤ 'remain' should be 'remains'. The subject is the entire 'Whether A or whether B' noun clause, which functions as a single entity (a single question/issue). A noun clause used as a subject takes a singular verb. Therefore 'remains' is correct, not 'remain'. This is a sophisticated subject-verb agreement question where the 'A or B' structure inside the noun clause misleads students into thinking the subject is plural.",
+        "distractor_analysis": "① 'known' is correct — past participle in apposition modifying 'Pythagoras', reduced from 'who is known for'. ② 'divided' is correct — past participle modifying 'string', reduced from 'a string that is divided'. ③ 'perform' is correct — the subject 'children' is plural, so the plural verb 'perform' agrees. ④ 'that' is correct — a relative pronoun introducing a defining clause modifying 'skills'; 'that' properly refers to things and serves as the object of 'demand'.",
+        "answer_uniqueness": "confirmed"
+      },
+      "explanation": {
+        "correct": {
+          "underlined": "⑤ remain",
+          "grammar_rule": "명사절 주어의 수 일치 (Subject-Verb Agreement with Noun Clause Subject)",
+          "explanation": "⑤ 'remain'은 오류입니다. 이 문장의 주어는 'Whether music training directly causes improved math performance or whether both skills simply draw on the same underlying cognitive architecture'라는 명사절 전체입니다. whether절이 주어 역할을 할 때는 하나의 단위(단수)로 취급하므로 단수 동사 'remains'가 필요합니다. 절 내부의 'A or B' 구조가 복수처럼 보여 함정이 됩니다.",
+          "correction": "remain → remains"
+        },
+        "wrong": {
+          "①": {
+            "underlined": "① known",
+            "explanation": "'known'은 올바릅니다. 과거분사로 'Pythagoras'를 수식하는 동격 분사구입니다('who is known for his contributions'의 축약형). 수동 의미가 적절합니다."
+          },
+          "②": {
+            "underlined": "② divided",
+            "explanation": "'divided'는 올바릅니다. 과거분사로 'A vibrating string'을 수식하며 수동 의미입니다('a string that is divided exactly in half'의 축약형)."
+          },
+          "③": {
+            "underlined": "③ perform",
+            "explanation": "'perform'은 올바릅니다. 관계절 내 주어 'children'(복수)에 수 일치하는 복수 동사입니다."
+          },
+          "④": {
+            "underlined": "④ that",
+            "explanation": "'that'은 올바릅니다. 선행사 'the cognitive skills'(사물)를 수식하는 목적격 관계대명사로 'demand'의 목적어 역할을 합니다."
+          }
+        },
+        "key_point": "whether절, that절 등 명사절이 주어로 올 때는 절 전체를 하나의 단위로 보아 단수 동사를 씁니다. 절 내부 구조가 복잡하더라도 주절 동사의 수는 주어인 명사절 자체에 맞춰야 합니다."
+      }
+    }
+  ]
+}
