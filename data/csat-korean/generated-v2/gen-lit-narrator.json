@@ -1,0 +1,490 @@
+{
+  "type": "서술자시점",
+  "typeNumber": 10,
+  "area": "문학",
+  "model": "sonnet",
+  "version": "v2",
+  "totalGenerated": 15,
+  "questions": [
+    {
+      "id": "kor-v2-lit-10-01",
+      "type": "서술자시점",
+      "difficulty": "easy",
+      "passage": "동리 사람들은 모두 그를 이상한 사람이라 했다. 점순이도 처음에는 그런 줄 알았다. 그러나 점점 같이 지내 보니 그가 왜 그런지 알 것 같기도 했다. 그는 날마다 감자를 캐러 밭에 나갔다. 점순이는 그 뒤를 따라다니며 이것저것 물어보았다. 그는 대답을 잘 하지 않았다. 그저 묵묵히 호미질만 했다. 점순이는 그가 싫지 않았다. 오히려 그가 말없이 일하는 모습이 든든하게 느껴졌다. '저 사람은 나쁜 사람이 아니야.' 점순이는 속으로 이렇게 생각했다. 그날 저녁, 점순이 어머니가 왜 그 사람 곁에 맴도느냐고 꾸짖었다. 점순이는 아무 말도 하지 않고 방 안으로 들어갔다.",
+      "question": "윗글의 서술 방식에 대한 설명으로 적절한 것은?",
+      "choices": [
+        "전지적 서술자가 여러 인물의 내면을 동시에 드러내고 있다.",
+        "작품 밖의 서술자가 인물을 관찰하여 외면적 행동만을 전달하고 있다.",
+        "특정 인물의 시각에 초점을 맞추어 사건을 서술하고 있다.",
+        "서술자가 직접 작중 인물로 등장하여 사건을 전개하고 있다.",
+        "두 인물의 시각이 교차되며 동일한 사건을 다각도로 보여 주고 있다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "점순이의 눈으로 그 남자를 바라보며 '저 사람은 나쁜 사람이 아니야'라는 점순이의 내면까지 서술하고 있으므로, 점순이에게 초점화된 서술자가 사건을 전개하고 있다고 할 수 있다.",
+        "1번": "전지적 서술자라 하더라도 이 지문에서는 점순이의 시각에 집중되어 있으며, 그 남자의 내면은 전혀 드러나지 않는다.",
+        "2번": "점순이의 내면('저 사람은 나쁜 사람이 아니야')이 직접 제시되므로, 외면적 행동만 전달한다는 설명은 적절하지 않다.",
+        "4번": "'나'가 화자로 등장하지 않으며, 점순이는 서술자가 아닌 초점 인물이다.",
+        "5번": "점순이의 시각만 일관되게 유지되며, 그 남자의 시각은 제시되지 않는다."
+      },
+      "self_check": {
+        "passage_source": "Original passage inspired by 김유정's rural narrative style (public domain).",
+        "narrator_type": "Third-person limited (focalized on 점순이)",
+        "key_technique": "Focalization — narrator filters events through 점순이's perception and thought",
+        "distractor_logic": "Choices 1 and 5 suggest omniscient/multiple perspectives, which are absent. Choice 2 contradicts the revealed interiority. Choice 4 requires a 1st-person narrator.",
+        "correct_answer_reasoning": "Choice 3 is correct. 점순이의 눈으로 그 남자를 바라보며 '저 사람은 나쁜 사람이 아니야'라는 점순이의 내면까지 서술하고 있으므로, 점순이에게 초점화된 서술자가 사건을 전개하고 있다고 할 수 있다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-02",
+      "type": "서술자시점",
+      "difficulty": "easy",
+      "passage": "홍길동은 탄식하여 왈, \"장부가 세상에 나서 공맹의 도를 배워 나라에 충성하고 부모에 효도하며 형제간에 우애함이 당연하거늘, 나는 어찌 이다지도 불행한가. 부친은 나를 자식으로 여기지 않으시고, 형은 나를 형제로 여기지 않으니 이 어찌 원통하지 아니하리오.\" 하고 눈물을 흘렸다. 날이 이미 저물어 길동은 자기 방에 돌아와 촛불을 밝히고 책을 보다가 홀연 자리에서 일어났다. 마음속에 떠오르는 생각을 이기지 못하여 탄식하기를 마지 아니하니, 이는 호부호형도 못 하는 신세가 서러워서였다. 시비가 들어와 길동의 기색을 살피며 이르기를, \"도련님, 오늘 저녁 무슨 근심이 있으시기에 이리 탄식하시나이까.\" 하였다.",
+      "question": "윗글의 서술 방식에 대한 설명으로 적절한 것은?",
+      "choices": [
+        "서술자가 길동의 심리를 직접 해설하며 그 원인까지 명시하고 있다.",
+        "서술자가 길동의 행동만을 묘사하고 내면은 독자의 판단에 맡기고 있다.",
+        "인물의 발화가 전혀 등장하지 않아 서술자 목소리만 두드러지고 있다.",
+        "서술자가 시비의 시각에서 길동을 관찰하여 사건을 서술하고 있다.",
+        "1인칭 서술자가 자신의 체험을 회상하며 서술하고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "'이는 호부호형도 못 하는 신세가 서러워서였다'라고 서술자가 길동의 심리를 직접 해설하고, 그 원인(호부호형을 못 하는 처지)까지 명시하고 있다.",
+        "1번": "'이는 호부호형도 못 하는 신세가 서러워서였다'처럼 서술자가 내면을 직접 해설하므로 적절하지 않다.",
+        "3번": "길동의 탄식('장부가 세상에 나서 …')과 시비의 발화가 인용 형태로 제시되어 있다.",
+        "4번": "서술자는 주로 길동의 시각에서 사건을 전달하며, 시비는 등장 인물일 뿐 초점 인물이 아니다.",
+        "5번": "'나'가 서술자로 등장하지 않으며, 3인칭 전지적 서술 방식이다."
+      },
+      "self_check": {
+        "passage_source": "홍길동전 (author unknown, public domain), retold passage.",
+        "narrator_type": "Third-person omniscient — narrator directly explains character psychology",
+        "key_technique": "Direct psychological commentary by narrator ('이는 … 서러워서였다')",
+        "distractor_logic": "Choice 1 is the opposite of what the text does. Choice 3 contradicts embedded speech. Choice 4 misidentifies the focus character. Choice 5 requires first-person narration.",
+        "correct_answer_reasoning": "Choice 1 is correct. '이는 호부호형도 못 하는 신세가 서러워서였다'라고 서술자가 길동의 심리를 직접 해설하고, 그 원인(호부호형을 못 하는 처지)까지 명시하고 있다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-03",
+      "type": "서술자시점",
+      "difficulty": "easy",
+      "passage": "\"에이, 참.\" 나는 혼자 중얼거렸다. 창밖으로 거리를 내다보니 사람들이 우산을 받쳐 들고 바삐 지나갔다. 비가 오는 줄도 몰랐다. 한참 그 모습을 바라보다가 나는 문득 아버지 생각이 났다. 아버지는 항상 우산을 들고 다니셨다. 비가 오나 안 오나 항상 우산을 손에서 놓지 않으셨다. 어릴 때 나는 그게 이상하다고 생각했다. 하지만 지금은 알 것 같았다. 언제 비가 내릴지 모르는 것이 사람 사는 일이니까. 나는 자리에서 일어나 외투를 챙겼다. 서랍 안에서 작은 접이식 우산을 꺼내 들었다. 아버지께서 주신 것이었다.",
+      "question": "윗글의 서술 방식에 대한 설명으로 적절한 것은?",
+      "choices": [
+        "서술자 '나'가 작중 인물로서 자신의 생각과 행동을 직접 서술하고 있다.",
+        "서술자가 작품 밖에 머물며 인물을 객관적으로 관찰하는 방식을 취하고 있다.",
+        "3인칭 전지적 서술자가 인물의 내면을 외부에서 분석하여 제시하고 있다.",
+        "두 인물의 대화를 통해 갈등이 드러나고 서술자의 개입은 최소화되어 있다.",
+        "과거와 현재가 교차되는 구조 속에서 서술자가 과거의 자신을 3인칭으로 지칭하고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "'나'가 서술자이자 작중 인물로 등장하여 자신의 행동('나는 창밖을 내다보니'), 생각('이상하다고 생각했다'), 감정을 직접 서술하는 1인칭 주인공 시점이다.",
+        "1번": "'나'가 직접 서술하는 1인칭 시점으로, 3인칭 전지적 서술자가 아니다.",
+        "2번": "서술자가 작품 속 인물 '나'이며 내부 관찰자이므로 작품 밖 관찰자라는 설명은 적절하지 않다.",
+        "4번": "대화 상대가 등장하지 않으며, 서술자의 독백과 회상이 중심이다.",
+        "5번": "과거는 회상 형태로 등장하나, 과거의 자신을 3인칭으로 지칭하지 않고 '나'로 일관되게 서술한다."
+      },
+      "self_check": {
+        "passage_source": "Original passage, 1st-person narrator style.",
+        "narrator_type": "First-person protagonist narrator (1인칭 주인공 시점)",
+        "key_technique": "'나' as both narrator and focalized character; interior monologue",
+        "distractor_logic": "Choices 1 and 2 describe third-person narration, contradicting the '나' narrator. Choice 4 requires a dialogue scene absent here. Choice 5 misreads the temporal structure.",
+        "correct_answer_reasoning": "Choice 1 is correct. '나'가 서술자이자 작중 인물로 등장하여 자신의 행동('나는 창밖을 내다보니'), 생각('이상하다고 생각했다'), 감정을 직접 서술하는 1인칭 주인공 시점이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-04",
+      "type": "서술자시점",
+      "difficulty": "easy",
+      "passage": "춘향이 이도령의 손을 잡으며 눈물을 흘려 왈, \"도련님, 오늘 이별하면 다시 만날 기약이 있사오리이까. 이 춘향은 도련님만 믿고 살아왔거늘, 이렇듯 갑작스러운 이별을 어찌 견디오리이까.\" 이도령이 춘향의 손을 잡고 이르기를, \"내 너를 잊은들 잊을쏘냐. 한양에 올라가거든 반드시 돌아와 너를 데려가리니, 부디 변치 말고 나를 기다리라.\" 하였다. 두 사람이 이별의 슬픔을 이기지 못하여 서로 붙잡고 울었다. 이때 날이 밝아 오고 광한루에서 이별하는 두 사람의 모습을 지켜보는 이가 아무도 없으니, 오직 밝은 달만이 그 슬픔을 알 듯 구름 뒤로 사라졌다.",
+      "question": "윗글의 서술 방식에 대한 설명으로 적절한 것은?",
+      "choices": [
+        "서술자가 특정 인물의 내면에 집중하여 그 인물의 시각에서만 사건을 서술하고 있다.",
+        "작품 속의 서술자가 '나'로 직접 등장하여 장면을 회상하는 방식을 취하고 있다.",
+        "서술자가 인물의 발화를 인용하면서 동시에 두 인물의 처지와 정서를 서술하고 있다.",
+        "두 인물이 교대로 서술자가 되어 각자의 관점에서 이별 장면을 서술하고 있다.",
+        "서술자가 등장인물의 행동을 묘사하되, 인물의 감정에 대한 해설은 전혀 없다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "서술자는 춘향과 이도령의 발화를 직접 인용하면서, '두 사람이 이별의 슬픔을 이기지 못하여'라고 두 인물의 정서를 함께 서술하고 있다.",
+        "1번": "특정 한 인물에게만 초점을 맞추지 않고, 두 인물 모두의 행동과 감정이 균형 있게 서술된다.",
+        "3번": "'나'가 서술자로 등장하지 않으며, 고전 소설의 전형적인 3인칭 서술 방식이다.",
+        "4번": "인물이 교대로 서술자가 되는 다중 시점 구조가 아니라, 단일 서술자가 전 장면을 서술한다.",
+        "5번": "'두 사람이 이별의 슬픔을 이기지 못하여'라는 감정 해설이 명시적으로 제시되어 있다."
+      },
+      "self_check": {
+        "passage_source": "춘향전 (author unknown, public domain), retold passage.",
+        "narrator_type": "Third-person omniscient — narrates both characters equally",
+        "key_technique": "Direct speech quotation + narrator's emotional commentary on both characters",
+        "distractor_logic": "Choice 1 implies single-character focalization; choice 3 requires 1st person; choice 4 implies alternating narrators; choice 5 contradicts explicit emotional description.",
+        "correct_answer_reasoning": "Choice 3 is correct. 서술자는 춘향과 이도령의 발화를 직접 인용하면서, '두 사람이 이별의 슬픔을 이기지 못하여'라고 두 인물의 정서를 함께 서술하고 있다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-05",
+      "type": "서술자시점",
+      "difficulty": "easy",
+      "passage": "심청은 인당수에 이르러 물속을 내려다보았다. 파도가 높이 일렁이고 바람이 거세게 불어왔다. 심청은 눈을 감고 아버지를 떠올렸다. 앞 못 보는 아버지가 홀로 남겨질 것을 생각하니 가슴이 찢어지는 것 같았다. 그러나 이미 결심한 일, 돌이킬 수 없었다. 심청은 두 손을 모아 아버지의 눈이 뜨이기를 간절히 빌었다. 뱃사람들은 그 모습을 보며 저마다 눈시울을 붉혔다. 이윽고 심청은 치마폭을 여미고 바다를 향해 몸을 날렸다. 파도가 심청을 받아 안듯 잠시 일렁이다가 이내 잠잠해졌다.",
+      "question": "윗글의 서술 방식에 대한 설명으로 적절한 것은?",
+      "choices": [
+        "서술자가 작중에 '나'로 등장하여 심청의 행동을 관찰하여 전달하고 있다.",
+        "서술자가 심청의 심리를 직접 서술하고, 주변 인물들의 반응도 제시하고 있다.",
+        "심청의 시각에만 고정되어 뱃사람들의 반응은 심청의 추측을 통해 제시된다.",
+        "서술자가 심청의 내면을 전혀 드러내지 않고 행동과 외양만을 묘사하고 있다.",
+        "여러 인물이 번갈아 서술자 역할을 하며 인당수 장면을 입체적으로 제시한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "'가슴이 찢어지는 것 같았다', '간절히 빌었다'에서 심청의 심리가 직접 서술되며, '뱃사람들은 … 눈시울을 붉혔다'에서 주변 인물들의 반응도 함께 제시된다.",
+        "2번": "'나'라는 서술자가 등장하지 않는 3인칭 서술 방식이다.",
+        "3번": "뱃사람들의 반응은 심청의 추측이 아니라 서술자가 직접 제시하는 것이다.",
+        "4번": "심청의 내면('가슴이 찢어지는 것 같았다' 등)이 명시적으로 서술되어 있다.",
+        "5번": "단일한 3인칭 전지 서술자가 전 장면을 통괄하며, 인물들이 교대로 서술자가 되지 않는다."
+      },
+      "self_check": {
+        "passage_source": "심청전 (author unknown, public domain), retold passage.",
+        "narrator_type": "Third-person omniscient — simultaneous access to protagonist's mind and other characters' observable reactions",
+        "key_technique": "Interior + exterior narration simultaneously for different characters",
+        "distractor_logic": "Choice 2 requires 1st-person; choice 3 implies strict single focalization; choice 4 contradicts explicit interiority; choice 5 implies multiple narrators.",
+        "correct_answer_reasoning": "Choice 2 is correct. '가슴이 찢어지는 것 같았다', '간절히 빌었다'에서 심청의 심리가 직접 서술되며, '뱃사람들은 … 눈시울을 붉혔다'에서 주변 인물들의 반응도 함께 제시된다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-06",
+      "type": "서술자시점",
+      "difficulty": "medium",
+      "passage": "나는 그 거울 앞에 내가 설 수 없었다. 거울 속의 나는 나를 향해 웃고 있었다. 그런데 그것이 내가 아닌 것처럼 낯설었다. ㉠ 나는 거울을 향해 손을 내밀었다. 거울 속의 나도 손을 내밀었다. 그러나 거울은 차가웠다. ㉡ 나와 거울 속의 나 사이에는 유리 한 장이 있을 뿐인데, 그것이 어쩐지 아득하게 느껴졌다. ㉢ 나는 거울에서 등을 돌렸다. 방 안은 고요했다. ㉣ 내가 거울을 등지고 서 있는 동안 거울 속의 나는 무엇을 하고 있을까, 생각했다. ㉤ 아마도 그도 등을 돌리고 이쪽을 보지 않으리라. 나는 그것이 두려웠다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠ : '나'가 행한 행동을 '나'가 직접 서술함으로써 서술자와 행위 주체가 일치하고 있다.",
+        "㉡ : '나'의 주관적 감각('아득하게')을 통해 인물의 내면 상태를 간접적으로 드러내고 있다.",
+        "㉢ : 인물의 행동을 간결하게 제시하여 심리 묘사 없이 사건의 흐름만 전달하고 있다.",
+        "㉣ : '나'가 자신의 사유를 의문 형태로 서술하여 내면의 불안을 드러내고 있다.",
+        "㉤ : 인물의 추측을 서술하여 대상에 대한 '나'의 심리적 반응을 제시하고 있다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "㉢에서 '나는 거울에서 등을 돌렸다'라는 행동 묘사가 있지만, 이 행동 자체가 '나'와 거울 속 자아 사이의 단절감이라는 심리 상태를 함축하고 있다. '심리 묘사 없이 사건의 흐름만 전달'한다는 설명은 맥락을 지나치게 단순화한 것으로 적절하지 않다.",
+        "1번": "1인칭 서술자 '나'가 행위 주체이자 서술자로 일치하는 것은 적절한 설명이다.",
+        "2번": "'아득하게 느껴졌다'는 물리적 사실이 아닌 '나'의 주관적 감각 표현으로, 내면 상태를 간접적으로 드러낸다.",
+        "4번": "의문 형태('무엇을 하고 있을까')의 자문을 통해 '나'의 불안한 내면을 서술하고 있으므로 적절하다.",
+        "5번": "'아마도 … 이리라'의 추측 서술을 통해 거울 속 자아에 대한 '나'의 심리적 공포를 드러낸다."
+      },
+      "self_check": {
+        "passage_source": "Original passage inspired by 이상's mirror-image motif (public domain).",
+        "narrator_type": "First-person protagonist narrator",
+        "key_technique": "Each labeled segment tests a different micro-level narrative technique; the wrong answer (③) overstates the neutrality of action description",
+        "distractor_logic": "Choice 3 is the incorrect one because the bare action sentence still carries implicit psychological weight in context.",
+        "correct_answer_reasoning": "Choice 3 is correct. ㉢에서 '나는 거울에서 등을 돌렸다'라는 행동 묘사가 있지만, 이 행동 자체가 '나'와 거울 속 자아 사이의 단절감이라는 심리 상태를 함축하고 있다. '심리 묘사 없이 사건의 흐름만 전달'한다는 설명은 맥락을 지나치게 단순화한 것으로 적절하지 않다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-07",
+      "type": "서술자시점",
+      "difficulty": "medium",
+      "passage": "[A] 응오는 마당에 쪼그리고 앉아 담뱃대를 두드렸다. 해가 뉘엿뉘엿 넘어가고 있었다. [B] 그는 오늘도 빈손으로 돌아온 것이 분했다. 장터에서 배추 두 포기도 팔지 못한 채 발길을 돌렸으니, 올 겨울을 어떻게 날지 막막했다. [C] 안에서 아내의 기침 소리가 들렸다. 응오는 담뱃대를 내려놓고 잠시 멈추었다. [D] 저 여자도 나를 못 미덥게 여기는 것이 분명했다. 어제도 한마디 말이 없이 밥을 차려 놓고 등을 돌렸으니. [E] 응오는 자리에서 일어나 천천히 사립문을 닫았다. 밖에는 바람이 거세졌다.",
+      "question": "[A] ~ [E] 의 서술 방식에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "[A] : 인물의 외양과 배경을 서술자가 관찰하여 제시하고 있다.",
+        "[B] : 서술자가 인물의 내면을 직접 해설하며 경제적 어려움을 드러내고 있다.",
+        "[C] : 외부 자극(기침 소리)에 대한 인물의 반응을 행동으로 서술하고 있다.",
+        "[D] : 서술자가 작중 인물의 발화를 인용하여 아내의 심리를 직접 전달하고 있다.",
+        "[E] : 인물의 행동과 배경 묘사를 통해 심리적 긴장감을 간접적으로 드러내고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "[D]에서 '저 여자도 나를 못 미덥게 여기는 것이 분명했다'는 아내의 발화 인용이 아니라, 응오가 아내의 행동을 보고 내린 추측과 판단이다. 따라서 '아내의 심리를 직접 전달'한다는 설명은 적절하지 않다.",
+        "1번": "마당에 쪼그리고 앉은 응오의 자세와 해가 지는 배경을 외부에서 관찰하여 서술하고 있으므로 적절하다.",
+        "2번": "'분했다', '막막했다'처럼 인물의 내면 상태를 서술자가 직접 해설하고 있으므로 적절하다.",
+        "3번": "아내의 기침 소리를 자극으로 담뱃대를 내려놓는 행동으로 반응을 서술하고 있으므로 적절하다.",
+        "5번": "사립문을 닫는 행동과 바람이 거세지는 배경 묘사가 인물의 불안하고 무거운 심리를 간접적으로 드러낸다."
+      },
+      "self_check": {
+        "passage_source": "Original passage inspired by 김유정's rural realism style (public domain).",
+        "narrator_type": "Third-person limited — focalized on 응오; [D] is 응오's internal interpretation, not quoted speech",
+        "key_technique": "Segment-by-segment technique identification; distractor conflates free indirect discourse with direct speech quotation",
+        "distractor_logic": "Choice 4 incorrectly attributes [D] to speech quotation; it is actually 응오's subjective inference about his wife.",
+        "correct_answer_reasoning": "Choice 4 is correct. [D]에서 '저 여자도 나를 못 미덥게 여기는 것이 분명했다'는 아내의 발화 인용이 아니라, 응오가 아내의 행동을 보고 내린 추측과 판단이다. 따라서 '아내의 심리를 직접 전달'한다는 설명은 적절하지 않다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-08",
+      "type": "서술자시점",
+      "difficulty": "medium",
+      "passage": "흥부는 박을 타기 시작했다. 첫 번째 박에서는 쌀이 쏟아졌다. 두 번째 박에서는 비단이 나왔다. 흥부의 아내는 두 손을 모으고 연신 절을 하며 기뻐했다. 흥부도 넋을 잃고 그 광경을 바라보았다. ㉠ 그는 그토록 가난하게 살아온 세월이 주마등처럼 스쳐 지나가는 것을 느꼈다. 제비 다리 하나를 고쳐 준 것이 이런 복으로 돌아오다니, ㉡ 그는 도무지 믿기지 않아 뺨을 꼬집어 보았다. 아팠다. ㉢ 꿈이 아니었다. 세 번째 박을 타자 집 한 채가 통째로 나왔다. ㉣ 흥부는 눈물이 났다. 어렵고 긴 세월이 한 박씩 열릴 때마다 보상을 받는 것 같았다. ㉤ 아내가 남편의 손을 꼭 쥐었다. 두 사람 모두 아무 말도 하지 않았다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "㉠ : 인물의 과거 체험이 현재 시점의 외부 서술자에 의해 요약되어 제시되고 있다.",
+        "㉡ : 인물의 행동을 묘사하여 그 행동의 의미를 독자가 스스로 파악하도록 유도하고 있다.",
+        "㉢ : 인물의 판단을 짧은 문장으로 제시하여 상황을 확인하는 서술자의 개입이 나타난다.",
+        "㉣ : 인물의 감정 상태를 직접 서술하고, 이어진 문장에서 그 원인을 해설하고 있다.",
+        "㉤ : 두 인물의 내면을 동시에 서술자가 직접 드러내어 감정의 일치를 보여 주고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "㉣에서 '흥부는 눈물이 났다'라고 감정 상태를 직접 서술하고, 이어서 '어렵고 긴 세월이 한 박씩 열릴 때마다 보상을 받는 것 같았다'로 그 원인을 해설하고 있다.",
+        "1번": "㉠의 '주마등처럼 스쳐 지나가는 것을 느꼈다'는 흥부의 내면 지각이지, 외부 서술자의 요약이 아니다.",
+        "2번": "㉡에서 행동 묘사('뺨을 꼬집어 보았다')가 있지만, 그 직전에 '도무지 믿기지 않아'라는 심리 해설도 함께 제시된다.",
+        "3번": "㉢ '꿈이 아니었다'는 인물의 확인이라기보다, 서술자가 앞 장면을 확인해 주는 간결한 서술로, 이를 '서술자의 개입'으로 단정하기는 어렵다.",
+        "5번": "㉤에서 두 인물의 내면은 직접 서술되지 않으며, '아무 말도 하지 않았다'는 외면 묘사를 통해 감정을 간접적으로 드러낸다."
+      },
+      "self_check": {
+        "passage_source": "흥부전 (author unknown, public domain), retold passage.",
+        "narrator_type": "Third-person omniscient with primary focus on 흥부",
+        "key_technique": "Direct emotion statement followed by causal explanation (㉣); contrasted with indirect revelation (㉤)",
+        "distractor_logic": "Choice 5 is tempting but ㉤ only shows external behaviour; choice 3 overfits the term '서술자의 개입' to a brief confirmatory sentence.",
+        "correct_answer_reasoning": "Choice 4 is correct. ㉣에서 '흥부는 눈물이 났다'라고 감정 상태를 직접 서술하고, 이어서 '어렵고 긴 세월이 한 박씩 열릴 때마다 보상을 받는 것 같았다'로 그 원인을 해설하고 있다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-09",
+      "type": "서술자시점",
+      "difficulty": "medium",
+      "passage": "박 서방은 봉필에게 사흘째 빚 독촉을 받고 있었다. 봉필은 날마다 아침 일찍 나타나 마당에서 기다렸다. ㉠ 박 서방은 그를 보는 것만으로도 속이 쓰렸다. 아내는 박 서방의 눈치를 보며 안방에서 나오지 않았다. 아이들은 영문도 모른 채 마당에서 뛰어놀고 있었다. ㉡ 봉필은 이 집이 너무 가난해서 빚을 못 받는 게 아닌가 슬슬 걱정이 되었다. 빚을 받지 못하면 자기도 윗사람에게 면목이 없었다. ㉢ 박 서방이 느릿느릿 마루로 나와 봉필에게 고개를 숙였다. '오늘도 없소이다.' 짤막한 말이었다. ㉣ 봉필은 무어라 말하려다가 그냥 입을 다물었다. ㉤ 두 사람 사이에 잠시 침묵이 흘렀다. 그 침묵 안에는 각자의 사정이 담겨 있었다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠ : 박 서방의 시각에서 느끼는 심리적 반응을 신체 감각으로 표현하고 있다.",
+        "㉡ : 서술자가 봉필의 내면에 접근하여 그의 불안과 이해관계를 직접 서술하고 있다.",
+        "㉤ : 서술자가 침묵의 의미를 직접 해설하여 두 인물의 상황을 서술자 목소리로 요약하고 있다.",
+        "㉣ : 인물의 미완결된 행동을 서술하여 그 내면의 복잡한 감정을 간접적으로 드러내고 있다.",
+        "㉢ : 인물의 행동과 발화를 제시하여 말 한마디 없이 상황을 전달하고 있다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "㉢에서 박 서방이 마루로 나와 고개를 숙이는 행동이 묘사되고, '오늘도 없소이다'라는 발화가 직접 인용되어 있다. 따라서 '말 한마디 없이'라는 설명은 사실에 부합하지 않는다.",
+        "1번": "'속이 쓰렸다'는 심리적 불쾌감을 신체 감각으로 표현한 것으로 적절하다.",
+        "2번": "봉필의 걱정과 이해관계를 '슬슬 걱정이 되었다', '면목이 없었다'로 직접 해설하므로 적절하다.",
+        "4번": "'무어라 말하려다가 그냥 입을 다물었다'는 미완결 행동을 통해 봉필의 복잡한 감정을 간접적으로 드러내므로 적절하다.",
+        "5번": "'그 침묵 안에는 각자의 사정이 담겨 있었다'는 서술자가 직접 개입하여 침묵의 의미를 해설하는 서술자 논평으로 적절하다."
+      },
+      "self_check": {
+        "passage_source": "Original passage inspired by 김유정's debt/poverty theme (public domain).",
+        "narrator_type": "Third-person omniscient — accesses both characters' minds",
+        "key_technique": "The incorrect choice (③) tests careful reading: there IS quoted speech ('오늘도 없소이다'), so '말 한마디 없이' is factually wrong.",
+        "distractor_logic": "Choice 3 contains a factual error about the passage. Choices 1, 2, 4, 5 all describe techniques actually present.",
+        "correct_answer_reasoning": "Choice 5 is correct. ㉢에서 박 서방이 마루로 나와 고개를 숙이는 행동이 묘사되고, '오늘도 없소이다'라는 발화가 직접 인용되어 있다. 따라서 '말 한마디 없이'라는 설명은 사실에 부합하지 않는다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-10",
+      "type": "서술자시점",
+      "difficulty": "medium",
+      "passage": "이상한 돈뭉치가 내 책상 서랍 속에 들어 있었다. 나는 그것을 꺼내어 한참 들여다보았다. 분명히 내가 넣어 둔 기억이 없었다. ㉠ 아내가 넣어 두었을 것이다, 나는 생각했다. ㉡ 그런데 아내가 왜 돈을 내 서랍에 숨겨 두었을까. 아내에게 묻고 싶었으나 나는 묻지 않았다. ㉢ 아내는 아무것도 모르는 표정으로 부엌에서 밥을 짓고 있었다. ㉣ 나는 돈뭉치를 다시 서랍 속에 집어넣었다. 모르는 척하기로 했다. ㉤ 우리 부부는 서로를 알 수 없는 무언가를 속에 품고 살고 있었다. 그것이 결혼이라는 것인지도 몰랐다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "㉡ : '나'의 의문을 서술자가 분석하여 그 심층적 원인을 독자에게 설명하고 있다.",
+        "㉠ : 인용 부호 없이 서술된 내용으로, '나'의 추측이 서술자의 목소리에 자연스럽게 녹아 있다.",
+        "㉢ : 아내의 내면 심리를 서술자가 직접 해설하여 아내가 거짓말하고 있음을 드러내고 있다.",
+        "㉣ : '나'의 행동과 결정을 분리하여 서술함으로써 '나'와 서술자가 다른 존재임을 암시하고 있다.",
+        "㉤ : 서술자가 두 인물 모두의 내면을 동시에 직접 서술하여 부부 관계의 단절을 드러내고 있다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "㉠의 '아내가 넣어 두었을 것이다, 나는 생각했다'는 인용 부호 없이 '나'의 추측이 서술자의 목소리 속에 자연스럽게 통합된 자유간접화법의 특성을 보여 준다.",
+        "2번": "㉡은 '나'의 의문을 그대로 서술한 것이며, 서술자가 그 원인을 분석하거나 설명하지 않는다.",
+        "3번": "㉢에서 아내의 내면은 직접 서술되지 않으며, '아무것도 모르는 표정'은 '나'의 관찰에 기반한 외면 묘사이다.",
+        "4번": "'나'가 곧 서술자이므로, '나'와 서술자가 다른 존재라는 설명은 1인칭 소설의 특성에 어긋난다.",
+        "5번": "㉤은 '나'의 성찰적 사유이며, 아내의 내면을 서술자가 직접 서술한 것이 아니다."
+      },
+      "self_check": {
+        "passage_source": "Original passage inspired by 이상's psychological prose style (public domain).",
+        "narrator_type": "First-person narrator with traces of free indirect discourse (자유간접화법)",
+        "key_technique": "㉠ demonstrates free indirect discourse — narrator and character voice merge without quotation marks",
+        "distractor_logic": "Choice 3 misreads external observation as interior access. Choice 5 confuses first-person narrator's generalization with omniscient access to another character.",
+        "correct_answer_reasoning": "Choice 2 is correct. ㉠의 '아내가 넣어 두었을 것이다, 나는 생각했다'는 인용 부호 없이 '나'의 추측이 서술자의 목소리 속에 자연스럽게 통합된 자유간접화법의 특성을 보여 준다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-11",
+      "type": "서술자시점",
+      "difficulty": "hard",
+      "passage": "㉠ 이 고장에서 그를 아는 사람은 없었다. 그가 언제 왔는지도, 어디서 왔는지도 아는 이가 없었다. ㉡ 그는 시장 어귀의 낡은 주막에 머물렀다. 사흘이 지나도록 그는 주막 안에서 나오지 않았다. 주모는 그가 아픈 것이 아닌가 걱정했으나, 밥을 들여보내면 어김없이 빈 그릇이 나왔다. ㉢ '저 사람은 대체 무얼 기다리는 걸까.' 주모는 속으로 중얼거렸다. ㉣ 나흘째 되던 날 아침, 그는 주막에서 나와 장터 한복판에 섰다. 그의 눈은 무언가를 찾는 듯 천천히 장터를 훑었다. ㉤ 그가 무엇을 찾는지는 아무도 알 수 없었다. 그것은 어쩌면 그 자신도 알지 못하는 것이었는지도 몰랐다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠ : 서술자가 인물에 대한 정보의 공백을 명시하여 인물의 정체를 불분명하게 유지하는 효과를 낳고 있다.",
+        "㉡ : 외부에서 관찰된 인물의 행동을 서술하면서, 주모의 추측을 통해 인물의 상태를 간접적으로 제시하고 있다.",
+        "㉣ : 인물의 외면적 행동과 신체 묘사를 통해 그의 목적이나 내면을 독자에게 암시하고 있다.",
+        "㉢ : 인용 부호를 사용하여 주모의 내면의 말을 직접 인용함으로써, 서술의 주체가 잠시 주모로 이동하고 있다.",
+        "㉤ : 서술자가 인물의 내면조차 불확실하다고 서술함으로써, 서술자의 전지적 권위를 의도적으로 약화시키고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "㉢에서 작은따옴표를 사용한 것은 주모의 내면의 말을 인용하는 표지이지만, 이것이 곧 서술의 주체가 주모로 이동했다는 의미는 아니다. 서술자가 주모의 내면 발화를 보고하는 형식이므로, 서술의 주체는 여전히 3인칭 서술자이다.",
+        "1번": "모른다, 없었다 등 정보 공백 표현을 통해 인물의 정체를 의도적으로 모호하게 유지하는 서술 전략이 나타난다.",
+        "2번": "그의 행동(밥 그릇)을 외부에서 서술하고, 주모의 추측('아픈 것이 아닌가')을 통해 간접적으로 인물 상태를 전달한다.",
+        "4번": "'눈은 무언가를 찾는 듯'이라는 신체 묘사를 통해 인물의 내면 목적을 암시하므로 적절하다.",
+        "5번": "'그 자신도 알지 못하는 것이었는지도 몰랐다'라고 서술자 자신이 인물 내면에 대한 불확실성을 표명함으로써 전지적 권위를 의도적으로 약화시킨다."
+      },
+      "self_check": {
+        "passage_source": "Original passage, mystery-traveller scenario.",
+        "narrator_type": "Third-person limited-omniscient with deliberate epistemic restriction",
+        "key_technique": "The incorrect answer (③) tests whether students can distinguish 'reported inner speech by narrator' from 'narrator position shifting to character'",
+        "distractor_logic": "Using quotation marks for inner speech does not transfer narrative authority to the character. The narrator retains control even while reporting the character's thought.",
+        "correct_answer_reasoning": "Choice 4 is correct. ㉢에서 작은따옴표를 사용한 것은 주모의 내면의 말을 인용하는 표지이지만, 이것이 곧 서술의 주체가 주모로 이동했다는 의미는 아니다. 서술자가 주모의 내면 발화를 보고하는 형식이므로, 서술의 주체는 여전히 3인칭 서술자이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-12",
+      "type": "서술자시점",
+      "difficulty": "hard",
+      "passage": "도령이 이상하다고 느낀 것은 그날 이후였다. 월이는 날마다 말이 없어졌고 밥도 제대로 먹지 않았다. ㉠ 도령은 월이의 얼굴을 살폈다. 그 얼굴에는 아무 표정도 없었다. ㉡ 아무 표정도 없다는 것이, 어쩌면 표정을 감추고 있다는 뜻일지도 몰랐다. 도령은 그렇게 생각했다. ㉢ 월이는 아무 말 없이 수를 놓고 있었다. 바늘이 포를 오갈 때마다 작은 꽃 한 송이씩 피어났다. ㉣ 도령이 다가서자 월이는 고개를 들지 않았다. 그것은 나를 보기 싫어서가 아니라, 차마 볼 수 없어서였으리라. 도령은 그렇게 믿고 싶었다. ㉤ 두 사람 사이에는 말이 없었으나, 그 침묵은 무거웠고, 그 무거움 안에는 아직 이름이 붙지 않은 무언가가 있었다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "㉠ : 서술자가 도령과 월이 양쪽 모두의 내면을 동시에 해설하여 두 인물의 감정적 거리를 드러내고 있다.",
+        "㉡ : 도령의 추측을 인용 부호 없이 서술하여, 서술자와 인물의 목소리를 구분하기 어렵게 만들고 있다.",
+        "㉢ : 서술자가 월이의 행동에 의미를 부여하는 서술을 통해 서술자의 주관적 개입을 전면에 드러내고 있다.",
+        "㉣ : 서술자가 월이의 내면을 직접 서술하고, 도령이 그에 동의하는 방식으로 두 인물의 심리를 대조하고 있다.",
+        "㉤ : 두 인물의 관계를 외면 묘사와 서술자의 논평으로 함께 서술하여, 명명할 수 없는 감정의 존재를 암시하고 있다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "㉤은 '말이 없었으나'라는 외면 묘사와 '그 무거움 안에는 아직 이름이 붙지 않은 무언가가 있었다'라는 서술자의 논평을 결합하여, 두 인물 사이의 말로 표현되지 않은 감정을 암시하고 있다.",
+        "1번": "㉠에서는 도령이 월이의 얼굴을 살피는 행동과 외면 관찰만 서술되며, 월이의 내면은 전혀 해설되지 않는다.",
+        "2번": "㉡에서 '도령은 그렇게 생각했다'라는 귀속 표지가 명시되어 있어, 도령의 추측과 서술자의 목소리는 구분이 가능하다.",
+        "3번": "'바늘이 포를 오갈 때마다 작은 꽃 한 송이씩 피어났다'는 행동의 결과를 묘사한 것이며, 의미 부여라기보다 서술적 묘사에 가깝다.",
+        "4번": "㉣의 '나를 보기 싫어서가 아니라, 차마 볼 수 없어서였으리라'는 도령의 추측이지 서술자가 월이의 내면을 직접 서술한 것이 아니다."
+      },
+      "self_check": {
+        "passage_source": "Original passage, Joseon-era atmosphere. No specific classical text.",
+        "narrator_type": "Third-person, focalized primarily on 도령; 월이's interior remains inaccessible",
+        "key_technique": "㉤ combines external description with narrator's commentary; ㉣ is 도령's self-consoling inference, not omniscient narration",
+        "distractor_logic": "Choice 4 is a common trap: 'was(이라)' endings can sound like omniscient narration but the context ('믿고 싶었다') marks it as the character's wishful thinking.",
+        "correct_answer_reasoning": "Choice 5 is correct. ㉤은 '말이 없었으나'라는 외면 묘사와 '그 무거움 안에는 아직 이름이 붙지 않은 무언가가 있었다'라는 서술자의 논평을 결합하여, 두 인물 사이의 말로 표현되지 않은 감정을 암시하고 있다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-13",
+      "type": "서술자시점",
+      "difficulty": "hard",
+      "passage": "나는 그때 이미 알고 있었다. 아버지가 돌아오지 않을 것을. 그러나 어머니에게 그 말을 할 수 없었다. ㉠ 어머니는 매일 저녁 대문 밖을 내다보셨다. 그 뒷모습은 언제 보아도 작고 쓸쓸했다. ㉡ 나는 어머니의 그 기다림이 헛되다는 것을 알면서도, 그 기다림을 빼앗아서는 안 된다고 생각했다. ㉢ 그것이 잔인한 배려인지, 아니면 진정한 연민인지는 지금도 알 수 없다. ㉣ 어머니는 그날도 대문 밖을 바라보다가 조용히 방 안으로 들어가셨다. 그 발걸음 소리가 내 귀에 유독 크게 들렸다. ㉤ 나는 오래도록 그 소리를 기억하고 있다. 그것은 기다림이 포기로 바뀌는 소리가 아니었다. 아직도 기다리고 있다는 소리였다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠ : 서술자 '나'가 어머니의 행동을 관찰하고 그 외양에 대한 인상을 서술하고 있다.",
+        "㉡ : 서술자 '나'가 과거의 자신의 내면적 갈등을 현재 시점에서 회상하여 서술하고 있다.",
+        "㉢ : 서술자가 과거 사건에 대한 판단을 현재까지도 유보하고 있음을 명시적으로 드러내고 있다.",
+        "㉣ : 외부 감각(청각)을 통해 인물의 심리적 무게를 간접적으로 드러내는 서술 방식이 나타난다.",
+        "㉤ : 서술자가 과거 사건의 의미를 단정 지어 서술함으로써 서술의 신뢰성을 높이고 있다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "㉤에서 서술자는 '그것은 … 아니었다', '아직도 기다리고 있다는 소리였다'라고 단정적으로 의미를 부여하는 듯 보이지만, 이는 서술자 자신의 주관적 해석일 뿐이다. 이것이 서술의 객관적 '신뢰성'을 높인다고 볼 수 없으며, 오히려 1인칭 서술자의 주관성을 강하게 드러낸다.",
+        "1번": "'뒷모습은 언제 보아도 작고 쓸쓸했다'는 관찰 + 인상 서술이므로 적절하다.",
+        "2번": "'그것이 잔인한 배려인지 … 지금도 알 수 없다'에서 서술 시점이 현재임을 알 수 있고, ㉡은 과거를 회상하는 서술이므로 적절하다.",
+        "3번": "'지금도 알 수 없다'는 과거에 대한 판단의 현재적 유보를 명시한다.",
+        "4번": "'그 발걸음 소리가 내 귀에 유독 크게 들렸다'는 청각적 과장을 통한 심리적 무게의 간접 표현이다."
+      },
+      "self_check": {
+        "passage_source": "Original passage, retrospective 1st-person narrator.",
+        "narrator_type": "First-person retrospective narrator — narrating past events from a present vantage point",
+        "key_technique": "The incorrect answer (⑤) tests whether students recognize that a declarative interpretive statement by a 1st-person narrator signals subjectivity, not objectivity/reliability",
+        "distractor_logic": "Choice 5 confuses confident assertion with reliable narration; 1st-person narrators can assert boldly yet remain subjective.",
+        "correct_answer_reasoning": "Choice 5 is correct. ㉤에서 서술자는 '그것은 … 아니었다', '아직도 기다리고 있다는 소리였다'라고 단정적으로 의미를 부여하는 듯 보이지만, 이는 서술자 자신의 주관적 해석일 뿐이다. 이것이 서술의 객관적 '신뢰성'을 높인다고 볼 수 없으며, 오히려 1인칭 서술자의 주관성을 강하게 드러낸다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-14",
+      "type": "서술자시점",
+      "difficulty": "hard",
+      "passage": "그때 나는 스물두 살이었고 그는 마흔이었다. ㉠ 그가 나를 처음 보았을 때 무슨 생각을 했는지, 나는 영원히 알 수 없다. ㉡ 다만 나는 그가 나를 보던 그 눈빛을 잊지 못한다. 그것이 연민이었는지, 경계였는지, 아니면 그 밖의 무엇이었는지. ㉢ 그는 나에게 짧은 말 한마디만 했다. '따라오시오.' ㉣ 나는 그 말의 뜻을 다 이해하지 못한 채 그의 뒤를 따랐다. 그 이해하지 못한 부분이 결국 나를 여기까지 이끌었다고 지금은 생각한다. ㉤ 그때 내가 그 말을 완전히 이해했더라면, 나는 틀림없이 거절했을 것이다. 그리고 이 이야기는 시작되지 않았을 것이다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 가장 적절한 것은?",
+      "choices": [
+        "㉡ : 서술자가 과거 체험을 회상하면서 그 의미를 확정적으로 해석하여 독자에게 명확한 정보를 제공하고 있다.",
+        "㉠ : 서술자가 다른 인물의 내면에 접근할 수 없음을 명시하여 1인칭 서술자의 인식론적 한계를 드러내고 있다.",
+        "㉢ : 직접 인용된 발화가 문장 안에 삽입되어, 서술자가 그 발화의 함의를 즉시 해설하고 있다.",
+        "㉣ : 서술자가 과거 행동을 현재 시점에서 재해석하여, 과거의 '나'와 현재의 '나'가 동일한 인식을 공유함을 보여 주고 있다.",
+        "㉤ : 서술자가 반사실적 가정을 통해 과거 사건의 인과 관계를 객관적으로 검증하고 있다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "㉠에서 '그가 나를 처음 보았을 때 무슨 생각을 했는지, 나는 영원히 알 수 없다'는 1인칭 서술자가 타인의 내면에 접근할 수 없다는 한계를 명시적으로 서술한 것이다.",
+        "2번": "㉡에서 '연민이었는지, 경계였는지, 아니면 그 밖의 무엇이었는지'라고 의미를 확정하지 못하고 복수의 가능성을 열어 두므로 '확정적 해석'이라는 설명은 적절하지 않다.",
+        "3번": "㉢의 발화 '따라오시오' 이후 서술자는 그 함의를 ㉣에서야 간접적으로 암시하지, ㉢ 자체에서 즉시 해설하지 않는다.",
+        "4번": "㉣에서 '그 이해하지 못한 부분'이라고 언급함으로써, 과거의 '나'와 현재의 '나'의 인식이 달랐음이 전제된다. 동일한 인식을 공유한다는 설명은 적절하지 않다.",
+        "5번": "㉤의 '완전히 이해했더라면 … 거절했을 것이다'는 반사실적 가정이나, 이것은 서술자의 주관적 추측이지 인과 관계의 객관적 검증이 아니다."
+      },
+      "self_check": {
+        "passage_source": "Original passage, retrospective 1st-person with epistemic gaps.",
+        "narrator_type": "First-person retrospective narrator with explicit acknowledgment of knowledge limits",
+        "key_technique": "㉠ explicitly marks the narrator's inability to access another character's mind — a defining feature of 1st-person narration; ㉤ is counterfactual speculation, not objective verification",
+        "distractor_logic": "Choice 4 is tricky: the phrase 'at the time I did not fully understand' establishes a gap between past-self and present-self, contradicting 'same cognition shared'.",
+        "correct_answer_reasoning": "Choice 2 is correct. ㉠에서 '그가 나를 처음 보았을 때 무슨 생각을 했는지, 나는 영원히 알 수 없다'는 1인칭 서술자가 타인의 내면에 접근할 수 없다는 한계를 명시적으로 서술한 것이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-10-15",
+      "type": "서술자시점",
+      "difficulty": "hard",
+      "passage": "㉠ 마을 사람들은 그 여인이 어디서 왔는지 몰랐다. 아무도 묻지 않았고, 그 여인도 말하지 않았다. ㉡ 그녀는 날마다 우물가에서 물을 길어 갔다. 그 모습이 고요하고 단정하여, 마을 사람들은 저도 모르게 눈길을 돌렸다. ㉢ 그녀가 무슨 생각을 하는지는 알 도리가 없었다. 다만 그녀의 눈동자가 항상 어딘가 먼 곳을 향하고 있었다. ㉣ 어느 날 이장의 아내가 그녀에게 말을 걸었다. \"어디서 오셨소?\" 그녀는 잠깐 이장 아내의 얼굴을 바라보다가, 방긋 웃기만 했다. ㉤ 그 웃음이 대답인지, 거절인지, 이장의 아내는 알 수 없었다. 그 이후로 아무도 그녀에게 묻지 않았다.",
+      "question": "㉠ ~ ㉤ 의 서술 방식에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉣ : 이장 아내의 발화와 그 여인의 반응을 교차 서술하여, 두 인물의 내면을 동시에 직접 드러내고 있다.",
+        "㉡ : 인물의 외양에 대한 마을 사람들의 반응을 서술하여, 인물의 인상을 간접적으로 제시하고 있다.",
+        "㉢ : 서술자가 인물의 내면에 접근하지 않음으로써, 인물의 불가해성을 서술 전략으로 활용하고 있다.",
+        "㉠ : 서술자가 마을 사람들의 집합적 인식을 통해 대상 인물에 대한 정보 공백을 서사 전면에 배치하고 있다.",
+        "㉤ : 이장 아내의 해석적 불확실성을 서술함으로써, 그 여인의 반응이 지닌 다의성을 부각하고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "㉣에서 이장 아내의 발화('어디서 오셨소?')와 그 여인의 비언어적 반응(웃음)이 서술되지만, 두 인물의 내면이 '직접' 드러나지 않는다. 이장 아내의 내면은 ㉤에서 간접적으로 제시되며, 그 여인의 내면은 끝내 드러나지 않는다.",
+        "1번": "'마을 사람들은 … 몰랐다'로 집합적 무지를 배치하여 정보 공백을 서사의 전면에 놓고 있으므로 적절하다.",
+        "2번": "'저도 모르게 눈길을 돌렸다'는 마을 사람들의 반응을 통해 인물의 인상을 간접적으로 전달하므로 적절하다.",
+        "3번": "'알 도리가 없었다'라는 서술자의 명시적 한계 설정으로 인물의 불가해성을 서술 전략으로 삼고 있으므로 적절하다.",
+        "5번": "'그 웃음이 대답인지, 거절인지 … 알 수 없었다'는 이장 아내의 해석 불확실성을 서술하여 웃음의 다의성을 부각하므로 적절하다."
+      },
+      "self_check": {
+        "passage_source": "Original passage, mysterious-woman trope with deliberate narrative opacity.",
+        "narrator_type": "Third-person with externally focalized narration — the woman's interior is never accessed",
+        "key_technique": "Systematic epistemic restriction: narrator never enters the woman's mind, creating an enigmatic character through withholding",
+        "distractor_logic": "Choice 4 uses 'simultaneously directly reveal both characters' interior' which is false: neither character's interior is directly shown in ㉣ — the woman's interior is never shown at all, and the wife's uncertainty appears only in ㉤.",
+        "correct_answer_reasoning": "Choice 1 is correct. ㉣에서 이장 아내의 발화('어디서 오셨소?')와 그 여인의 비언어적 반응(웃음)이 서술되지만, 두 인물의 내면이 '직접' 드러나지 않는다. 이장 아내의 내면은 ㉤에서 간접적으로 제시되며, 그 여인의 내면은 끝내 드러나지 않는다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

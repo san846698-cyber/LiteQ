@@ -11,7 +11,7 @@ const path = require("path");
 const SUBJECTS = [
   {
     key: "korean",
-    dir: "data/csat-korean/generated",
+    dir: "data/csat-korean/generated-v2",
     subject: "korean",
     area: null, // file-level area 사용
     defaultTime: 120,

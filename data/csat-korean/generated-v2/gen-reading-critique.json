@@ -1,0 +1,520 @@
+{
+  "type": "비판평가",
+  "typeNumber": 3,
+  "area": "독서",
+  "model": "sonnet",
+  "version": "v2",
+  "totalGenerated": 15,
+  "questions": [
+    {
+      "id": "kor-v2-reading-3-01",
+      "type": "비판평가",
+      "difficulty": "easy",
+      "passage": "공리주의는 행위의 옳고 그름을 결과로 판단한다. 어떤 행위가 다수의 행복을 증진시킨다면 그 행위는 도덕적으로 올바르다. 벤담은 쾌락의 양을 계산할 수 있다고 보았고, 밀은 쾌락의 질도 구분해야 한다고 주장했다. 이에 반해 칸트는 행위의 결과가 아닌 행위의 동기와 의무에 주목했다. 칸트에게 도덕적 행위는 의무에서 비롯된 행위이며, 결과와 무관하게 보편적 도덕 법칙에 따르는 것이 중요하다. 이른바 '거짓말 금지' 명령은 결과가 어떻든 지켜야 할 절대적 의무라는 것이 칸트의 입장이다. 공리주의는 소수의 희생으로 다수가 행복해진다면 그 희생을 정당화할 수 있다는 문제를 안고 있다.",
+      "question": "윗글의 공리주의에 대한 비판으로 가장 적절한 것은?",
+      "choices": [
+        "쾌락의 질을 구분하지 않으면 도덕 판단의 정확성이 떨어진다.",
+        "보편적 도덕 법칙을 무시하면 개인의 자유를 과도하게 제한할 수 있다.",
+        "행위의 동기보다 결과를 중시하면 의도적인 악행이 허용될 수 없다.",
+        "다수의 이익을 위해 소수의 권리를 침해하는 것을 정당화할 수 있다.",
+        "쾌락의 양을 계산하는 방식이 지나치게 추상적이어서 현실에 적용하기 어렵다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "공리주의는 다수의 행복 증진을 목표로 하므로, 소수의 희생이 다수의 이익을 낳는다면 그 희생을 정당화할 수 있다는 약점이 지문 마지막 문장에 명시되어 있다. 이는 개인의 권리를 무시할 수 있다는 핵심 비판이다.",
+        "wrong": {
+          "1": "쾌락의 질 구분은 밀이 이미 제기한 공리주의 내부 보완책으로, 외부의 비판이 아니다.",
+          "2": "보편적 도덕 법칙은 칸트의 개념으로, 공리주의에 대한 비판과 맞지 않는다.",
+          "3": "결과 중시가 악행을 허용하지 '못한다'는 표현이 오히려 공리주의를 두둔하는 방향이다.",
+          "5": "쾌락의 양 계산 문제는 지문에서 언급되지 않았으며, 공리주의의 핵심 비판과 거리가 있다."
+        },
+        "key_point": "공리주의의 가장 근본적 비판은 소수 희생의 정당화 가능성이다."
+      },
+      "self_check": {
+        "concept": "Utilitarianism vs. Kantian deontology — evaluating consequentialism's limits",
+        "trap": "Choices 1 and 5 look plausible but describe internal improvements, not external critiques",
+        "strategy": "Find the flaw explicitly stated in the final sentence of the passage",
+        "correct_answer_reasoning": "Choice 4 is correct. 공리주의는 다수의 행복 증진을 목표로 하므로, 소수의 희생이 다수의 이익을 낳는다면 그 희생을 정당화할 수 있다는 약점이 지문 마지막 문장에 명시되어 있다. 이는 개인의 권리를 무시할 수 있다는 핵심 비판이다.",
+        "distractor_analysis": "Choice 1 is incorrect: 쾌락의 질 구분은 밀이 이미 제기한 공리주의 내부 보완책으로, 외부의 비판이 아니다. Choice 2 is incorrect: 보편적 도덕 법칙은 칸트의 개념으로, 공리주의에 대한 비판과 맞지 않는다. Choice 3 is incorrect: 결과 중시가 악행을 허용하지 '못한다'는 표현이 오히려 공리주의를 두둔하는 방향이다. Choice 5 is incorrect: 쾌락의 양 계산 문제는 지문에서 언급되지 않았으며, 공리주의의 핵심 비판과 거리가 있다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-02",
+      "type": "비판평가",
+      "difficulty": "easy",
+      "passage": "고전 경제학은 시장이 '보이지 않는 손'에 의해 자율적으로 균형에 도달한다고 주장한다. 개인이 자신의 이익을 추구할 때 의도치 않게 사회 전체의 이익도 증진된다는 것이다. 이 이론에 따르면 정부가 시장에 개입하면 오히려 비효율이 발생한다. 반면 케인스는 시장은 스스로 균형을 찾지 못하고 실업과 불황이 장기간 지속될 수 있다고 보았다. 특히 대공황 이후 케인스는 정부가 적극적으로 재정을 지출해 유효수요를 창출해야 한다고 주장했다. 민간의 소비와 투자가 위축될 때 정부 지출이 경제를 회복시키는 역할을 한다는 것이다.",
+      "question": "케인스의 관점에서 고전 경제학을 비판한 내용으로 가장 적절한 것은?",
+      "choices": [
+        "개인의 이익 추구가 사회 이익으로 이어지는 메커니즘을 과대평가한다.",
+        "경기 침체 시 시장의 자율 기능만으로는 실업과 불황을 해소하기 어렵다.",
+        "시장이 장기적으로 균형에 도달하지 못할 때 정부 개입의 근거가 없어진다.",
+        "보이지 않는 손은 완전경쟁시장에서만 작동하므로 현실에 적용할 수 없다.",
+        "정부의 재정 지출이 민간 투자를 구축(驅逐)하여 오히려 경기를 악화시킨다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "케인스는 시장이 스스로 균형을 찾지 못한다고 비판하며 정부 개입의 필요성을 주장했다. 선지 3은 이 핵심 논점을 정확히 담고 있다.",
+        "wrong": {
+          "1": "개인과 사회의 이익 연결을 '과대평가'한다는 주장은 지문에서 케인스의 논점으로 제시되지 않았다.",
+          "3": "정부 개입의 근거가 없어진다는 것은 고전 경제학의 입장이지 케인스의 비판이 아니다.",
+          "4": "완전경쟁 조건 문제는 지문에 언급되지 않았다.",
+          "5": "구축 효과는 고전 경제학 측의 반론으로, 케인스의 비판이 아니다."
+        },
+        "key_point": "케인스의 고전 경제학 비판 핵심: 시장 자율 기능의 한계, 정부 개입 필요"
+      },
+      "self_check": {
+        "concept": "Classical economics vs. Keynesian economics — market failure and government intervention",
+        "trap": "Choice 5 sounds related to economics but is actually the counter-argument against Keynes",
+        "strategy": "Identify Keynes's explicit claims in the passage and match them to the choices",
+        "correct_answer_reasoning": "Choice 2 is correct. 케인스는 시장이 스스로 균형을 찾지 못한다고 비판하며 정부 개입의 필요성을 주장했다. 선지 3은 이 핵심 논점을 정확히 담고 있다.",
+        "distractor_analysis": "Choice 1 is incorrect: 개인과 사회의 이익 연결을 '과대평가'한다는 주장은 지문에서 케인스의 논점으로 제시되지 않았다. Choice 3 is incorrect: 정부 개입의 근거가 없어진다는 것은 고전 경제학의 입장이지 케인스의 비판이 아니다. Choice 4 is incorrect: 완전경쟁 조건 문제는 지문에 언급되지 않았다. Choice 5 is incorrect: 구축 효과는 고전 경제학 측의 반론으로, 케인스의 비판이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-03",
+      "type": "비판평가",
+      "difficulty": "easy",
+      "passage": "프로이트는 인간의 모든 행동이 무의식에 의해 결정된다고 주장했다. 억압된 욕망과 트라우마가 무의식에 저장되어 있으며, 이것이 꿈이나 말실수, 신경증 등으로 표출된다는 것이다. 정신분석학은 자유연상, 꿈 분석 등을 통해 이러한 무의식의 내용을 끌어내어 치료한다고 주장한다. 그러나 행동주의 심리학자들은 무의식이라는 개념은 직접 관찰·측정할 수 없기 때문에 과학적 연구의 대상이 될 수 없다고 비판했다. 행동주의는 오직 관찰 가능한 자극과 반응의 관계에만 주목해야 한다고 본다.",
+      "question": "행동주의 심리학의 관점에서 프로이트의 이론에 대해 비판할 수 있는 내용으로 가장 적절한 것은?",
+      "choices": [
+        "자유연상 기법이 치료 효과를 가지려면 환자의 적극적인 협조가 필요하다.",
+        "무의식의 내용을 직접 관찰·검증할 수 없어 이론의 과학적 타당성이 부족하다.",
+        "억압된 욕망이 신경증으로 나타나는 과정이 모든 사람에게 동일하지 않다.",
+        "꿈 분석은 분석가의 주관적 해석에 의존하므로 치료 성과를 예측하기 어렵다.",
+        "인간의 행동이 무의식에만 의존한다면 의식적 노력의 가치가 평가절하된다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "행동주의는 관찰·측정 불가능한 무의식 개념을 과학적이지 않다고 비판한다. 선지 3이 이를 정확히 반영한다.",
+        "wrong": {
+          "1": "환자의 협조 문제는 행동주의와 무관한 실용적 사안이다.",
+          "3": "개인차 문제는 지문에서 행동주의 비판으로 제시되지 않았다.",
+          "4": "분석가의 주관성 문제도 행동주의의 핵심 비판과는 다른 각도이다.",
+          "5": "의식적 노력의 가치는 지문에서 다루지 않았다."
+        },
+        "key_point": "행동주의의 핵심 비판: 비관찰성 → 과학적 검증 불가"
+      },
+      "self_check": {
+        "concept": "Behaviorism vs. Psychoanalysis — empirical verifiability as a criterion for science",
+        "trap": "Choices 4 and 5 sound like valid criticisms but are not from the behaviorist perspective described",
+        "strategy": "Match the behaviorist standpoint explicitly stated in the passage to the answer",
+        "correct_answer_reasoning": "Choice 2 is correct. 행동주의는 관찰·측정 불가능한 무의식 개념을 과학적이지 않다고 비판한다. 선지 3이 이를 정확히 반영한다.",
+        "distractor_analysis": "Choice 1 is incorrect: 환자의 협조 문제는 행동주의와 무관한 실용적 사안이다. Choice 3 is incorrect: 개인차 문제는 지문에서 행동주의 비판으로 제시되지 않았다. Choice 4 is incorrect: 분석가의 주관성 문제도 행동주의의 핵심 비판과는 다른 각도이다. Choice 5 is incorrect: 의식적 노력의 가치는 지문에서 다루지 않았다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-04",
+      "type": "비판평가",
+      "difficulty": "easy",
+      "passage": "사회계약론은 국가가 구성원들의 자발적 합의, 즉 계약에 의해 성립되었다고 본다. 홉스는 자연 상태에서 인간의 삶이 '만인의 만인에 대한 투쟁'이므로 강력한 주권자에게 권력을 양도하는 계약을 맺는다고 했다. 반면 로크는 자연 상태를 비교적 평화로운 상태로 보았으며, 사람들은 자신의 생명·자유·재산을 보호하기 위해 제한적으로 권력을 위임하는 계약을 한다고 주장했다. 사회계약론에 대한 비판 중 하나는 실제로 그런 계약이 역사상 존재한 적이 없다는 것이다. 국가는 정복, 관습, 오랜 역사적 과정을 통해 형성되었으며, 개인의 동의를 전제하지 않는다.",
+      "question": "윗글의 사회계약론에 대한 비판으로 가장 적절한 것은?",
+      "choices": [
+        "사회계약은 역사적으로 실제 이루어진 사실이 없으므로 국가의 기원을 설명하는 근거가 될 수 없다.",
+        "개인이 태어나기 이전에 형성된 국가에 대해 계약 동의를 인정하는 것은 논리적이지 않다.",
+        "주권자에게 권력을 양도하면 개인의 자유가 지나치게 제한되어 계약의 목적을 달성할 수 없다.",
+        "홉스와 로크의 자연 상태에 대한 묘사가 서로 모순되므로 계약론 자체가 성립하지 않는다.",
+        "자연 상태에서 이미 재산권이 존재한다면 국가를 통한 보호가 필요하지 않다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "지문 마지막 단락이 직접적으로 제시하는 비판: 사회계약이 실제로 역사에서 일어난 사건이 아니라는 점이 선지 4에 정확히 반영되어 있다.",
+        "wrong": {
+          "2": "세대 간 동의 문제는 지문에서 제시된 비판이 아니다.",
+          "3": "자유 제한 문제는 홉스에 대한 내부적 비판이며 지문의 비판 논점이 아니다.",
+          "4": "홉스와 로크의 견해 차이는 사회계약론 자체를 무너뜨리는 논거가 아니다.",
+          "5": "재산권의 선재 여부는 지문에서 다루지 않았다."
+        },
+        "key_point": "사회계약론의 역사적 사실성 부재가 핵심 비판 논점이다."
+      },
+      "self_check": {
+        "concept": "Social contract theory — historical vs. normative foundation of state authority",
+        "trap": "Choice 2 sounds sophisticated but targets a different aspect not raised in the passage",
+        "strategy": "Locate the explicit criticism stated in the last paragraph",
+        "correct_answer_reasoning": "Choice 1 is correct. 지문 마지막 단락이 직접적으로 제시하는 비판: 사회계약이 실제로 역사에서 일어난 사건이 아니라는 점이 선지 4에 정확히 반영되어 있다.",
+        "distractor_analysis": "Choice 2 is incorrect: 세대 간 동의 문제는 지문에서 제시된 비판이 아니다. Choice 3 is incorrect: 자유 제한 문제는 홉스에 대한 내부적 비판이며 지문의 비판 논점이 아니다. Choice 4 is incorrect: 홉스와 로크의 견해 차이는 사회계약론 자체를 무너뜨리는 논거가 아니다. Choice 5 is incorrect: 재산권의 선재 여부는 지문에서 다루지 않았다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-05",
+      "type": "비판평가",
+      "difficulty": "easy",
+      "passage": "자유무역론은 각 나라가 비교우위를 가진 상품에 특화하여 교역하면 모든 국가가 이익을 얻는다고 주장한다. 리카도의 비교우위론에 따르면 절대적인 생산성이 낮더라도 상대적으로 더 효율적으로 생산할 수 있는 재화에 집중함으로써 무역의 이득을 얻을 수 있다. 그러나 개발도상국 경제학자들은 자유무역이 선진국과 개발도상국 간의 구조적 불평등을 심화시킨다고 비판한다. 이들은 유치산업 보호론을 내세워 초기 단계에 있는 자국 산업을 관세와 보조금으로 보호하여 경쟁력을 키운 후 자유무역에 참여해야 한다고 주장한다.",
+      "question": "개발도상국 경제학자들의 관점에서 자유무역론을 비판한 내용으로 가장 적절한 것은?",
+      "choices": [
+        "비교우위론은 모든 나라의 생산성이 동등할 때에만 성립하므로 현실에 적용하기 어렵다.",
+        "자유무역은 자원 배분의 효율성을 높이지만 환경 파괴를 촉진한다는 문제가 있다.",
+        "관세와 보조금 없이는 개발도상국의 소비자가 높은 가격을 부담해야 한다.",
+        "비교우위에 따른 특화는 한 나라의 산업 구조를 단순화시켜 경제 위기에 취약해진다.",
+        "이미 경쟁력을 갖춘 선진국 산업에 유리하게 작용하여 국가 간 경제적 격차를 확대한다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "개발도상국 경제학자들의 비판은 자유무역이 선진국-개발도상국 간 구조적 불평등을 심화한다는 것이다. 선지 3이 이를 정확히 나타낸다.",
+        "wrong": {
+          "1": "비교우위론의 수학적 전제 조건 문제는 지문에서 제시된 비판이 아니다.",
+          "2": "환경 파괴 문제는 지문에서 언급되지 않았다.",
+          "3": "소비자 가격 부담 문제는 지문에서 다루지 않았다.",
+          "4": "산업 구조의 단순화 위험은 지문에 없는 논점이다."
+        },
+        "key_point": "자유무역론 비판의 핵심: 선진국과 개발도상국 간 구조적 불평등 심화"
+      },
+      "self_check": {
+        "concept": "Free trade vs. infant industry protection — asymmetric power in international trade",
+        "trap": "Choice 4 is plausible in real economics but is not the criticism raised in this passage",
+        "strategy": "Focus on the explicitly stated critique by developing-country economists in the passage",
+        "correct_answer_reasoning": "Choice 5 is correct. 개발도상국 경제학자들의 비판은 자유무역이 선진국-개발도상국 간 구조적 불평등을 심화한다는 것이다. 선지 3이 이를 정확히 나타낸다.",
+        "distractor_analysis": "Choice 1 is incorrect: 비교우위론의 수학적 전제 조건 문제는 지문에서 제시된 비판이 아니다. Choice 2 is incorrect: 환경 파괴 문제는 지문에서 언급되지 않았다. Choice 3 is incorrect: 소비자 가격 부담 문제는 지문에서 다루지 않았다. Choice 4 is incorrect: 산업 구조의 단순화 위험은 지문에 없는 논점이다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-06",
+      "type": "비판평가",
+      "difficulty": "medium",
+      "passage": "표현의 자유는 민주주의 사회의 근본 가치 중 하나로, 개인이 자신의 의견을 자유롭게 표현할 수 있는 권리를 보장한다. 자유주의 사상가들은 국가가 표현의 내용을 규제해서는 안 된다고 주장한다. 해악의 원칙에 따르면 타인에게 직접적이고 명확한 해악을 가하지 않는 한 국가는 개인의 행동을 제한할 수 없다. 그러나 혐오 발언 규제론자들은 혐오 발언이 특정 집단을 침묵시키고 사회적 불평등을 강화한다는 점에서, 그 자체로 차별적 행위에 해당한다고 주장한다. 표현의 자유가 진정으로 모두에게 보장되려면 오히려 혐오 발언을 규제해야 한다는 역설적 논리다. 자유주의 입장에서는 표현의 내용이 아닌 특정 맥락, 즉 직접적 위협이나 선동에 한해서만 제한이 가능하다고 반론한다.",
+      "question": "혐오 발언 규제론자들의 관점에서 자유주의 표현의 자유론을 비판한 내용으로 가장 적절한 것은?",
+      "choices": [
+        "해악의 원칙은 명시적 폭력만 다루기 때문에 표현으로 인한 심리적 피해는 보호 범위에 포함되지 않는다.",
+        "혐오 발언을 방치하면 특정 집단의 발화 기회 자체를 제거함으로써 실질적 표현의 자유가 훼손된다.",
+        "표현의 자유를 무제한 보장하면 허위 정보의 유포를 방치하여 민주적 의사 결정을 방해한다.",
+        "자유주의 이론은 표현과 행위를 명확히 구분하지 않아 규제의 범위를 자의적으로 확장할 수 있다.",
+        "표현의 내용을 국가가 판단하지 않으면 법원의 역할이 지나치게 축소되어 사법권이 약화된다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "혐오 발언 규제론의 핵심 주장은 혐오 발언이 특정 집단을 침묵시켜 오히려 표현의 자유를 훼손한다는 역설이다. 선지 3이 이 논리를 정확히 반영한다.",
+        "wrong": {
+          "1": "심리적 피해의 보호 범위 문제는 지문에서 제시된 규제론의 비판 논거가 아니다.",
+          "3": "허위 정보 유포 문제는 지문에서 다루지 않았다.",
+          "4": "자유주의의 표현·행위 구분 문제는 지문에서 제시된 규제론의 비판이 아니다.",
+          "5": "사법권 약화 문제는 지문과 무관하다."
+        },
+        "key_point": "혐오 발언 규제론의 역설적 논리: 규제 없이는 소수자의 표현의 자유가 훼손됨"
+      },
+      "self_check": {
+        "concept": "Hate speech regulation vs. free speech absolutism — the paradox of free expression",
+        "trap": "Choice 1 seems related but addresses 'harm principle' limitations, not the silencing dynamic",
+        "strategy": "Focus on the paradoxical argument: restricting speech to protect speech",
+        "correct_answer_reasoning": "Choice 2 is correct. 혐오 발언 규제론의 핵심 주장은 혐오 발언이 특정 집단을 침묵시켜 오히려 표현의 자유를 훼손한다는 역설이다. 선지 3이 이 논리를 정확히 반영한다.",
+        "distractor_analysis": "Choice 1 is incorrect: 심리적 피해의 보호 범위 문제는 지문에서 제시된 규제론의 비판 논거가 아니다. Choice 3 is incorrect: 허위 정보 유포 문제는 지문에서 다루지 않았다. Choice 4 is incorrect: 자유주의의 표현·행위 구분 문제는 지문에서 제시된 규제론의 비판이 아니다. Choice 5 is incorrect: 사법권 약화 문제는 지문과 무관하다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-07",
+      "type": "비판평가",
+      "difficulty": "medium",
+      "passage": "생태 중심주의는 인간뿐만 아니라 모든 생명체와 자연 생태계 자체가 내재적 가치를 가진다고 본다. 이 관점에서 자연은 인간에게 유용하기 때문이 아니라 그 자체로서 존중받아야 한다. 반면 환경 인본주의는 자연을 보호하는 이유가 궁극적으로 인간의 장기적 이익을 위해서라고 주장한다. 자연 파괴는 결국 인간의 생존과 번영을 위협하므로 자연을 지속가능하게 이용해야 한다는 것이다. 생태 중심주의자들은 환경 인본주의가 자연에 대한 도구적 태도에서 벗어나지 못했다고 비판한다. 인간의 이익이 최우선인 한 경제적 이익과 환경 보호 사이의 충돌에서 자연은 여전히 희생될 수밖에 없다는 것이다.",
+      "question": "생태 중심주의의 관점에서 환경 인본주의를 비판한 내용으로 가장 적절한 것은?",
+      "choices": [
+        "지속 가능한 이용 개념은 세대 간 형평성을 고려하지 않아 미래 세대의 자원 접근권을 침해한다.",
+        "인간의 장기적 이익을 강조하면 단기적 환경 피해에 대한 즉각적인 대응이 어려워진다.",
+        "환경 인본주의는 생태계의 복잡한 상호 의존성을 단순화하여 정책 수립의 오류를 야기한다.",
+        "자연의 가치를 인간의 이익에 종속시키면 경제적 가치가 앞설 때 자연 보호가 유명무실해질 수 있다.",
+        "자연에 대한 도구적 태도는 과학기술을 통해 극복할 수 있으므로 근본적인 가치관 전환이 불필요하다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "생태 중심주의는 자연을 인간의 이익에 종속시키면 경제 이익 앞에 자연이 희생된다고 비판한다. 이는 지문의 마지막 문장에 명시되어 있으며, 선지 2가 이를 정확히 반영한다.",
+        "wrong": {
+          "1": "세대 간 형평성 문제는 지문에서 생태 중심주의의 비판 논거로 제시되지 않았다.",
+          "2": "단기 대응 어려움은 지문에서 제시된 비판이 아니다.",
+          "3": "생태계 상호 의존성의 단순화 문제는 지문에서 다루지 않았다.",
+          "5": "기술 낙관론은 지문에서 언급되지 않았으며, 생태 중심주의의 비판과 반대되는 내용이다."
+        },
+        "key_point": "생태 중심주의 비판: 인본주의는 자연을 도구로 보므로 이익 충돌 시 자연이 희생됨"
+      },
+      "self_check": {
+        "concept": "Ecocentrism vs. environmental humanism — intrinsic vs. instrumental value of nature",
+        "trap": "Choice 1 is a legitimate real-world critique but is not present in the passage",
+        "strategy": "The last sentence of the passage directly states the ecocentric critique — match it to the choices",
+        "correct_answer_reasoning": "Choice 4 is correct. 생태 중심주의는 자연을 인간의 이익에 종속시키면 경제 이익 앞에 자연이 희생된다고 비판한다. 이는 지문의 마지막 문장에 명시되어 있으며, 선지 2가 이를 정확히 반영한다.",
+        "distractor_analysis": "Choice 1 is incorrect: 세대 간 형평성 문제는 지문에서 생태 중심주의의 비판 논거로 제시되지 않았다. Choice 2 is incorrect: 단기 대응 어려움은 지문에서 제시된 비판이 아니다. Choice 3 is incorrect: 생태계 상호 의존성의 단순화 문제는 지문에서 다루지 않았다. Choice 5 is incorrect: 기술 낙관론은 지문에서 언급되지 않았으며, 생태 중심주의의 비판과 반대되는 내용이다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-08",
+      "type": "비판평가",
+      "difficulty": "medium",
+      "passage": "실증주의는 지식이 감각 경험과 논리적 분석에만 기초해야 하며, 검증 불가능한 명제는 인식론적으로 무의미하다고 주장한다. 논리실증주의자들은 형이상학적 주장이나 윤리적 판단은 사실 명제가 아니므로 참·거짓을 따질 수 없다고 보았다. 이에 따르면 '살인은 나쁘다'는 명제는 객관적 사실을 기술하는 것이 아니라 단순히 주관적 감정을 표현한 것이다. 칼 포퍼는 검증 가능성보다 반증 가능성이 과학적 지식의 기준이 되어야 한다고 주장하며 실증주의를 비판했다. 포퍼에 따르면 어떤 관찰로도 완전한 검증은 불가능하지만, 하나의 반례로 이론을 반박할 수는 있다. 또한 실증주의에 대해서는 '모든 의미 있는 명제는 경험으로 검증 가능해야 한다'는 원리 자체가 경험으로 검증되지 않는 형이상학적 주장이라는 비판도 제기된다.",
+      "question": "윗글에 제시된 실증주의에 대한 비판으로 적절하지 않은 것은?",
+      "choices": [
+        "검증 원리 자체가 경험적으로 검증되지 않으므로 자기 논박의 문제를 안고 있다.",
+        "과학 이론은 유한한 관찰로 완전히 검증될 수 없으므로 검증 가능성은 과학의 기준으로 부족하다.",
+        "감각 경험에 의존하는 지식만이 유의미하므로 수학적 진리는 실증주의 기준에서도 높은 가치를 갖는다.",
+        "윤리적 판단을 주관적 감정 표현으로 보면 도덕적 논쟁과 진보가 가능하다는 점을 설명하기 어렵다.",
+        "형이상학적 주장을 무의미하다고 단정하는 것은 철학의 중요한 탐구 영역을 부당하게 배제한다."
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "선지 5는 수학적 진리가 실증주의의 기준에서 가치를 가진다고 하는데, 이는 실증주의에 대한 비판이 아니라 실증주의를 지지하거나 옹호하는 내용에 가깝다. 오히려 실증주의 비판론자들은 수학적 진리가 경험과 무관하게 성립한다는 점을 들어 실증주의의 한계를 지적한다.",
+        "wrong": {
+          "1": "검증 원리의 자기 논박 문제는 지문에 명시된 비판으로 적절하다.",
+          "2": "포퍼의 반증 가능성 논거에 근거한 적절한 비판이다.",
+          "4": "도덕적 진보 설명 불가는 윤리적 판단을 주관적 감정으로 환원하는 실증주의에 대한 적절한 비판이다.",
+          "5": "형이상학 배제 비판은 지문에서 제시된 논점과 연결되는 적절한 비판이다."
+        },
+        "key_point": "'적절하지 않은 것' 문제 — 비판이 아닌 옹호 내용이나 논리적으로 맞지 않는 선지를 찾아야 함"
+      },
+      "self_check": {
+        "concept": "Logical positivism — verificationism, self-refutation, and Popper's falsificationism",
+        "trap": "This is a 'NOT appropriate' question; choices 1-4 are all valid criticisms while choice 5 is not",
+        "strategy": "Check whether each choice is actually a critique of positivism, not support for it",
+        "correct_answer_reasoning": "Choice 3 is correct. 선지 5는 수학적 진리가 실증주의의 기준에서 가치를 가진다고 하는데, 이는 실증주의에 대한 비판이 아니라 실증주의를 지지하거나 옹호하는 내용에 가깝다. 오히려 실증주의 비판론자들은 수학적 진리가 경험과 무관하게 성립한다는 점을 들어 실증주의의 한계를 지적한다.",
+        "distractor_analysis": "Choice 1 is incorrect: 검증 원리의 자기 논박 문제는 지문에 명시된 비판으로 적절하다. Choice 2 is incorrect: 포퍼의 반증 가능성 논거에 근거한 적절한 비판이다. Choice 4 is incorrect: 도덕적 진보 설명 불가는 윤리적 판단을 주관적 감정으로 환원하는 실증주의에 대한 적절한 비판이다. Choice 5 is incorrect: 형이상학 배제 비판은 지문에서 제시된 논점과 연결되는 적절한 비판이다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-09",
+      "type": "비판평가",
+      "difficulty": "medium",
+      "passage": "기술적 실업론은 자동화와 인공지능의 발전이 인간의 일자리를 대체하여 구조적인 실업을 야기할 것이라고 주장한다. 이 견해에 따르면 과거의 기술 혁신과 달리 AI는 인지 노동까지 대체하기 때문에 새로운 일자리 창출이 기존 일자리 소멸을 따라가지 못할 것이다. 반면 기술 낙관론자들은 역사적으로 기술 혁신이 오히려 더 많은 고용을 창출했다고 반박한다. 산업혁명 이후 증기기관이 새로운 직업군을 만들어냈듯이, AI 역시 새로운 산업과 직종을 탄생시킬 것이라는 주장이다. 그러나 기술적 실업론자들은 변화의 속도가 과거와 근본적으로 다르다는 점을 강조한다. 현재의 기술 변화 속도는 노동자들이 새로운 기술을 습득하고 재교육받는 속도를 훨씬 초과하고 있다.",
+      "question": "기술적 실업론의 관점에서 기술 낙관론을 비판한 내용으로 가장 적절한 것은?",
+      "choices": [
+        "산업혁명 당시의 고용 창출은 단순 반복 노동에 한정되었으므로 AI 시대에 그대로 적용하기 어렵다.",
+        "역사적 사례는 긍정적인 결과만 부각시키고 기술 변화로 인한 사회적 비용을 충분히 반영하지 못한다.",
+        "낙관론은 기술 혁신의 혜택이 특정 계층에 집중되어 불평등이 심화될 수 있다는 점을 간과하고 있다.",
+        "AI가 창출하는 새로운 직종은 고도의 기술을 요구하므로 일반 노동자들이 쉽게 진입하기 어렵다.",
+        "기술 변화의 속도가 노동자의 재교육 속도를 앞질러 적응 과정에서 심각한 고용 충격이 발생할 수 있다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "기술적 실업론자들은 현재의 기술 변화 속도가 과거와 다르다고 주장하며 재교육 속도 문제를 제기한다. 이는 지문 마지막 두 문장의 내용이며, 선지 3이 이를 정확히 반영한다.",
+        "wrong": {
+          "1": "단순 반복 노동 한정 문제는 지문에서 제시된 기술적 실업론의 비판이 아니다.",
+          "2": "역사적 사례의 선택 편향 문제는 지문에서 다루지 않았다.",
+          "3": "불평등 심화 문제는 지문에서 언급되지 않았다.",
+          "4": "새 직종의 접근성 문제도 지문에서 기술적 실업론의 논거로 제시되지 않았다."
+        },
+        "key_point": "기술적 실업론의 핵심 반론: 변화의 속도가 근본적으로 달라 재교육이 따라가지 못함"
+      },
+      "self_check": {
+        "concept": "Technological unemployment vs. techno-optimism — speed of change as a distinguishing factor",
+        "trap": "Choices 4 and 5 are legitimate real-world arguments but are not in the passage",
+        "strategy": "The answer must be traceable to sentences in the passage — last two sentences are key",
+        "correct_answer_reasoning": "Choice 5 is correct. 기술적 실업론자들은 현재의 기술 변화 속도가 과거와 다르다고 주장하며 재교육 속도 문제를 제기한다. 이는 지문 마지막 두 문장의 내용이며, 선지 3이 이를 정확히 반영한다.",
+        "distractor_analysis": "Choice 1 is incorrect: 단순 반복 노동 한정 문제는 지문에서 제시된 기술적 실업론의 비판이 아니다. Choice 2 is incorrect: 역사적 사례의 선택 편향 문제는 지문에서 다루지 않았다. Choice 3 is incorrect: 불평등 심화 문제는 지문에서 언급되지 않았다. Choice 4 is incorrect: 새 직종의 접근성 문제도 지문에서 기술적 실업론의 논거로 제시되지 않았다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-10",
+      "type": "비판평가",
+      "difficulty": "medium",
+      "passage": "공화주의 이론은 자유를 단순한 간섭의 부재가 아니라 지배로부터의 비종속(non-domination)으로 정의한다. 페팃은 자유주의가 주인의 온정적 배려 아래 있는 노예를 '자유로운' 사람으로 분류할 수 있다고 비판한다. 주인이 현재 간섭하지 않더라도 언제든 자의적으로 간섭할 능력을 가지고 있다면, 그 노예는 지배 관계에 있으므로 자유롭지 않다는 것이다. 공화주의에 따르면 진정한 자유는 타인의 자의적 의지에 종속되지 않는 상태다. 따라서 단순히 간섭이 없다는 사실만으로는 자유를 보장할 수 없으며, 법적·제도적 장치를 통해 지배 구조 자체를 제거해야 한다. 이 관점에서 자유시장도 경제적 강자가 약자를 지배할 수 있는 구조를 만든다면 자유를 침해한다.",
+      "question": "공화주의의 관점에서 자유주의 자유 개념을 비판한 내용으로 가장 적절한 것은?",
+      "choices": [
+        "간섭이 없는 상태를 자유로 보면, 현재 간섭하지 않지만 언제든 지배할 수 있는 관계도 자유로 오인한다.",
+        "자유주의는 적극적 자유의 실현을 위한 국가의 역할을 과소평가하여 실질적 평등을 저해한다.",
+        "자유주의는 개인의 권리를 지나치게 강조하여 공동체의 공화적 가치와 공공선을 훼손한다.",
+        "시장의 자유로운 경쟁이 보장되더라도 결과의 불평등이 누적되면 기회의 평등도 무너진다.",
+        "자유주의는 자유의 정치적 차원을 무시하고 경제적 자유만을 과도하게 옹호하는 경향이 있다."
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "페팃의 공화주의 비판 핵심은 '간섭 부재 = 자유'라는 자유주의 공식의 허점이다. 온정적 주인 아래의 노예 사례가 이를 보여주며, 선지 2가 이 논점을 정확히 담고 있다.",
+        "wrong": {
+          "2": "적극적 자유 개념은 공화주의보다 사회민주주의 또는 긍정적 자유론의 논점이다.",
+          "3": "공동체와 공공선 강조는 공화주의의 일부이지만, 지문에서 다루는 자유주의 비판 논점이 아니다.",
+          "4": "결과적 불평등 문제는 지문의 논점과 다르다.",
+          "5": "경제적 자유 편향 비판은 지문에서 제시된 공화주의 비판이 아니다."
+        },
+        "key_point": "공화주의의 핵심: 비지배 자유 vs. 자유주의의 비간섭 자유 — 노예 역설이 핵심 논거"
+      },
+      "self_check": {
+        "concept": "Republican non-domination vs. liberal non-interference — Pettit's critique of liberty as mere absence of interference",
+        "trap": "Choices 1, 3, 5 all sound like criticisms of liberalism but are from different theoretical traditions",
+        "strategy": "Trace the exact argument in the passage: the benevolent-master-slave scenario",
+        "correct_answer_reasoning": "Choice 1 is correct. 페팃의 공화주의 비판 핵심은 '간섭 부재 = 자유'라는 자유주의 공식의 허점이다. 온정적 주인 아래의 노예 사례가 이를 보여주며, 선지 2가 이 논점을 정확히 담고 있다.",
+        "distractor_analysis": "Choice 2 is incorrect: 적극적 자유 개념은 공화주의보다 사회민주주의 또는 긍정적 자유론의 논점이다. Choice 3 is incorrect: 공동체와 공공선 강조는 공화주의의 일부이지만, 지문에서 다루는 자유주의 비판 논점이 아니다. Choice 4 is incorrect: 결과적 불평등 문제는 지문의 논점과 다르다. Choice 5 is incorrect: 경제적 자유 편향 비판은 지문에서 제시된 공화주의 비판이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-11",
+      "type": "비판평가",
+      "difficulty": "hard",
+      "passage": "방어적 현실주의는 국가 안보의 근본적 원천이 군사력의 상대적 우위가 아니라 현상 유지에 있다고 주장한다. 왈츠는 국제 체제의 무정부성이 국가들에게 생존의 불확실성을 부과하지만, 과도한 팽창은 오히려 균형 동맹을 불러일으켜 안보를 약화시킨다고 보았다. 따라서 국가는 적절한 수준의 힘을 추구하는 것으로 충분하다. 반면 공세적 현실주의자 미어샤이머는 국제 체제의 구조가 국가들로 하여금 패권을 향해 끊임없이 권력을 극대화하도록 강제한다고 주장한다. 지역 패권을 달성한 국가만이 안보를 확실하게 보장받을 수 있기 때문이다. 이에 대해 방어적 현실주의는 공세적 팽창이 안보 딜레마를 심화시켜 스스로 더 불안한 환경을 만든다고 반박한다. 미어샤이머의 논리대로라면 모든 국가가 패권을 추구하는 자기 패배적 경쟁에 빠지게 된다는 것이다.",
+      "question": "방어적 현실주의의 관점에서 공세적 현실주의를 비판한 내용으로 가장 적절한 것은?",
+      "choices": [
+        "국제 체제의 무정부성이 팽창을 강제한다는 주장은 국가의 합리적 행위자 가정과 모순된다.",
+        "지역 패권이 안보를 보장한다는 논리는 강대국의 이익만을 반영하여 약소국의 안보를 무시한다.",
+        "권력 극대화 전략은 상대국의 균형 연합을 촉발하여 오히려 추구하는 안보를 달성하기 어렵게 만든다.",
+        "공세적 팽창의 비용이 장기적으로 국내 경제를 피폐하게 만들어 국가 능력 자체를 약화시킨다.",
+        "패권 추구가 구조적으로 강제된다면 국가의 외교정책 선택 여지가 없어 국제 협력이 불가능해진다."
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "방어적 현실주의의 핵심 반박은 공세적 팽창이 균형 동맹을 유발하여 안보 딜레마를 심화시키고 자기 패배적 결과를 낳는다는 것이다. 선지 3이 이를 정확히 반영한다.",
+        "wrong": {
+          "1": "합리적 행위자 가정 모순은 지문에서 제시된 방어적 현실주의의 비판이 아니다.",
+          "2": "약소국 안보 무시 문제는 지문에서 다루지 않은 규범적 비판이다.",
+          "4": "국내 경제 피폐 문제는 지문에서 언급되지 않았다.",
+          "5": "외교정책 선택 여지 소멸 문제는 구조주의 비판이며 지문의 논점이 아니다."
+        },
+        "key_point": "안보 딜레마 논리: 팽창 → 균형 동맹 유발 → 더 큰 불안 = 공세 전략의 자기 패배성"
+      },
+      "self_check": {
+        "concept": "Defensive realism vs. offensive realism — security dilemma and the self-defeating logic of expansion",
+        "trap": "Choice 5 sounds structurally sophisticated but addresses a different IR theory critique",
+        "strategy": "The passage explicitly states the defensive realist counter-argument in the last two sentences",
+        "correct_answer_reasoning": "Choice 3 is correct. 방어적 현실주의의 핵심 반박은 공세적 팽창이 균형 동맹을 유발하여 안보 딜레마를 심화시키고 자기 패배적 결과를 낳는다는 것이다. 선지 3이 이를 정확히 반영한다.",
+        "distractor_analysis": "Choice 1 is incorrect: 합리적 행위자 가정 모순은 지문에서 제시된 방어적 현실주의의 비판이 아니다. Choice 2 is incorrect: 약소국 안보 무시 문제는 지문에서 다루지 않은 규범적 비판이다. Choice 4 is incorrect: 국내 경제 피폐 문제는 지문에서 언급되지 않았다. Choice 5 is incorrect: 외교정책 선택 여지 소멸 문제는 구조주의 비판이며 지문의 논점이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-12",
+      "type": "비판평가",
+      "difficulty": "hard",
+      "passage": "롤스의 무지의 베일 사고 실험은 정의의 원칙을 도출하기 위해 개인이 자신의 사회적 위치, 능력, 재산에 대한 지식을 가리고 원초적 입장에서 합의한다고 가정한다. 이 조건에서 합리적 개인은 최악의 상황을 피하기 위해 차등 원칙, 즉 가장 불리한 집단에게 이익이 돌아가도록 불평등을 허용한다는 원칙에 동의할 것이라고 롤스는 주장했다. 그러나 공동체주의자 샌델은 무지의 베일이 인간을 공동체적 연대, 문화적 정체성, 사회적 역사로부터 분리된 '부담 없는 자아(unencumbered self)'로 가정한다고 비판했다. 실제 인간은 자신이 속한 공동체의 가치와 역사에 의해 구성된 존재이며, 이를 제거한 추상적 자아는 현실의 도덕 판단을 설명하지 못한다는 것이다. 나아가 노직은 차등 원칙이 개인의 재산권을 침해한다고 비판했다. 타인에게 정당하게 획득된 자원을 재분배하는 것은 개인을 수단으로 대우하는 것이라고 보았다.",
+      "question": "샌델과 노직의 관점을 종합하여 롤스의 정의론을 비판한 내용으로 적절하지 않은 것은?",
+      "choices": [
+        "샌델에 따르면, 무지의 베일은 공동체적 맥락이 제거된 비현실적 자아를 전제하므로 이를 바탕으로 한 정의 원칙은 실제 도덕 판단과 괴리된다.",
+        "노직에 따르면, 차등 원칙에 의한 재분배는 자원의 최초 획득 과정이 정당하더라도 강제적으로 타인의 자원을 이전시키므로 개인의 권리를 침해한다.",
+        "샌델에 따르면, 자유 시장에서의 경쟁 결과를 공동체 내 협력의 맥락으로 재해석하면 차등 원칙보다 더 공정한 분배 기준을 도출할 수 있다.",
+        "노직에 따르면, 롤스의 원초적 입장에서 도출된 원칙은 결국 국가가 경제적 약자를 위해 강자에게 과세하는 것을 정당화하여 재산권을 침해할 수 있다.",
+        "샌델에 따르면, 자신의 능력을 모르는 상태에서 이루어진 합의는 공동체 구성원으로서의 역할과 책임을 사전에 배제하므로 공동체의 유대를 약화시킨다."
+      ],
+      "answer": 3,
+      "points": 3,
+      "explanations": {
+        "correct": "선지 5는 샌델의 입장으로 제시되어 있으나, 자유 시장 경쟁 결과를 공동체 협력으로 재해석하여 더 나은 분배 기준을 도출할 수 있다는 주장은 지문에서 샌델의 비판 내용이 아니다. 샌델은 롤스의 추상적 자아 개념에 반대할 뿐, 시장 경쟁 결과의 재해석을 통한 대안 기준을 제시하지 않았다.",
+        "wrong": {
+          "1": "지문에서 샌델이 제기한 비현실적 자아 문제를 정확히 반영한다.",
+          "2": "노직의 재분배 비판, 즉 정당 획득 재산의 강제 이전 문제를 정확히 반영한다.",
+          "4": "노직의 과세=재산권 침해 논리는 지문의 마지막 단락에 근거한다.",
+          "5": "샌델의 공동체 연대 약화 문제는 지문에서 암시된 비판과 일치한다."
+        },
+        "key_point": "'적절하지 않은 것' 유형 — 선지가 지문에 없는 내용을 특정 철학자의 주장으로 귀속시키는지 확인"
+      },
+      "self_check": {
+        "concept": "Rawls's veil of ignorance — critiqued by Sandel (communitarianism) and Nozick (libertarianism)",
+        "trap": "Choice 5 attributes a plausible-sounding idea to Sandel, but it is not in the passage and misrepresents his argument",
+        "strategy": "For 'not appropriate' questions, check whether the attributed claim matches the philosopher's position in the passage",
+        "correct_answer_reasoning": "Choice 3 is correct. 선지 5는 샌델의 입장으로 제시되어 있으나, 자유 시장 경쟁 결과를 공동체 협력으로 재해석하여 더 나은 분배 기준을 도출할 수 있다는 주장은 지문에서 샌델의 비판 내용이 아니다. 샌델은 롤스의 추상적 자아 개념에 반대할 뿐, 시장 경쟁 결과의 재해석을 통한 대안 기준을 제시하지 않았다.",
+        "distractor_analysis": "Choice 1 is incorrect: 지문에서 샌델이 제기한 비현실적 자아 문제를 정확히 반영한다. Choice 2 is incorrect: 노직의 재분배 비판, 즉 정당 획득 재산의 강제 이전 문제를 정확히 반영한다. Choice 4 is incorrect: 노직의 과세=재산권 침해 논리는 지문의 마지막 단락에 근거한다. Choice 5 is incorrect: 샌델의 공동체 연대 약화 문제는 지문에서 암시된 비판과 일치한다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-13",
+      "type": "비판평가",
+      "difficulty": "hard",
+      "passage": "구조주의 언어학은 언어를 자율적인 기호 체계로 보고, 의미는 기호 간의 차이와 관계에서 발생한다고 주장한다. 소쉬르에 따르면 기호는 음성 이미지인 기표와 개념인 기의로 구성되며, 그 관계는 자의적이다. 언어 구조는 개별 사건이나 역사적 변화보다 우선하며, 의미는 구조 내적 관계에 의해 결정된다. 이에 대해 데리다는 구조주의가 의미의 최종 근거로서 절대적 중심, 즉 '초월적 기의'를 전제한다고 비판했다. 의미는 항상 다른 기호들에 의해 지연되고 차이를 통해 끊임없이 유보되므로, 고정된 의미를 확정하려는 시도는 필연적으로 실패한다는 것이다. 데리다는 이를 '차연(différance)'의 개념으로 설명하며, 텍스트는 단일한 구조적 의미로 환원될 수 없고 끊임없는 해석의 흐름 속에 열려 있다고 주장했다. 또한 바흐친은 언어가 사회적·대화적 맥락에서 사용되며, 발화자의 목소리는 항상 다른 목소리들과의 긴장 속에 있다고 보아, 단일한 구조적 체계로 언어를 파악하는 관점을 비판했다.",
+      "question": "데리다와 바흐친의 관점에서 구조주의 언어학을 비판한 내용으로 적절하지 않은 것은?",
+      "choices": [
+        "데리다에 따르면, 기표와 기의의 관계가 자의적이라면 의미는 항상 다른 기호들로 끊임없이 이월되므로 고정된 기의를 상정하는 것 자체가 불가능하다.",
+        "바흐친에 따르면, 언어는 사회적 맥락 속에서 복수의 목소리들이 충돌하고 공존하는 장이므로, 단일 구조로 의미 체계를 환원하는 것은 언어의 대화적 본성을 왜곡한다.",
+        "데리다에 따르면, 구조 내의 중심이 구조 자체를 안정화하는 역할을 한다면, 그 중심은 구조 밖에 있게 되어 구조의 완결성이 내부적으로 붕괴된다.",
+        "데리다에 따르면, 텍스트의 의미가 단일한 구조적 체계로 환원될 수 있다면 독자의 능동적 해석 행위가 의미 생산에 기여하는 방식을 설명하지 못하게 된다.",
+        "바흐친에 따르면, 발화는 항상 특정한 사회적 맥락에서 이루어지므로 통시적 변화를 배제하고 공시적 구조만을 분석하는 것은 언어의 역사성을 충분히 포착하지 못한다."
+      ],
+      "answer": 4,
+      "points": 3,
+      "explanations": {
+        "correct": "선지 5는 데리다의 입장으로 기술되어 있으나, '독자의 능동적 해석 행위'를 통한 의미 생산은 데리다의 핵심 논점이 아니다. 데리다는 독자의 능동적 해석보다는 기호 간 차이에 의한 의미의 영구적 지연과 유보를 강조한다. 수용 미학적 관점과 혼동된 선지이다.",
+        "wrong": {
+          "1": "데리다의 차연 개념과 고정된 기의 불가능성을 정확히 반영한다.",
+          "2": "바흐친의 다성성(polyphony)과 대화주의에 대한 정확한 반영이다.",
+          "3": "데리다의 구조의 중심 비판, 즉 중심이 구조 내부에 있으면서 구조 밖에 있어야 하는 역설을 정확히 담고 있다.",
+          "5": "바흐친의 사회적·역사적 맥락 강조는 소쉬르의 공시적 분석 한계를 비판하는 적절한 논점이다."
+        },
+        "key_point": "데리다의 비판은 독자 해석 행위보다 기호 체계 내 의미의 무한한 지연에 집중한다."
+      },
+      "self_check": {
+        "concept": "Structuralism critiqued by Derrida (différance, logocen trism) and Bakhtin (dialogism, polyphony)",
+        "trap": "Choice 5 conflates Derrida's deconstruction with reader-response theory — a subtle but significant misattribution",
+        "strategy": "Verify whether each critique is traceable to the specific philosopher's argument as described in the passage",
+        "correct_answer_reasoning": "Choice 4 is correct. 선지 5는 데리다의 입장으로 기술되어 있으나, '독자의 능동적 해석 행위'를 통한 의미 생산은 데리다의 핵심 논점이 아니다. 데리다는 독자의 능동적 해석보다는 기호 간 차이에 의한 의미의 영구적 지연과 유보를 강조한다. 수용 미학적 관점과 혼동된 선지이다.",
+        "distractor_analysis": "Choice 1 is incorrect: 데리다의 차연 개념과 고정된 기의 불가능성을 정확히 반영한다. Choice 2 is incorrect: 바흐친의 다성성(polyphony)과 대화주의에 대한 정확한 반영이다. Choice 3 is incorrect: 데리다의 구조의 중심 비판, 즉 중심이 구조 내부에 있으면서 구조 밖에 있어야 하는 역설을 정확히 담고 있다. Choice 5 is incorrect: 바흐친의 사회적·역사적 맥락 강조는 소쉬르의 공시적 분석 한계를 비판하는 적절한 논점이다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-14",
+      "type": "비판평가",
+      "difficulty": "hard",
+      "passage": "신제도주의 경제학은 제도가 경제적 성과에 미치는 영향을 분석한다. 노스는 제도를 '게임의 규칙'으로 정의하며, 공식적 규칙(법률, 헌법)과 비공식적 규칙(관습, 규범)으로 구성된다고 보았다. 효율적인 제도가 확립되면 거래 비용이 감소하고 경제 성장이 촉진된다는 것이 핵심 주장이다. 그러나 비판론자들은 신제도주의가 제도 변화를 경제 행위자들의 합리적 선택으로 환원한다는 점을 문제 삼는다. 제도는 권력 관계와 역사적 경로 의존성에 의해 형성되며, 단순히 효율성 논리로 설명될 수 없다는 것이다. 또한 비공식적 규범이 공식적 제도와 충돌할 때 그 해소 과정을 신제도주의가 충분히 설명하지 못한다는 비판도 있다. 나아가 일부 학자들은 신제도주의가 특정 제도 모형을 보편적으로 처방하는 과정에서 각 사회의 고유한 역사적·문화적 맥락을 무시한다고 지적한다.",
+      "question": "윗글에서 제기되는 신제도주의 경제학에 대한 비판으로 적절하지 않은 것은?",
+      "choices": [
+        "제도 변화를 경제 행위자들의 합리적 선택으로 환원하면, 권력 구조와 역사적 경로가 제도 형성에 미치는 영향을 설명하기 어렵다.",
+        "비공식적 규범과 공식적 제도 사이의 충돌이 발생했을 때, 그 갈등이 해소되는 메커니즘을 신제도주의는 충분히 설명하지 못한다.",
+        "공식적 제도의 효율성을 높이기 위해서는 비공식적 규범과의 정합성이 필수적이므로, 양자를 독립적으로 분석하는 접근은 한계가 있다.",
+        "특정 제도 모형을 보편적으로 처방할 때 각 사회의 역사적·문화적 특수성이 무시되어 제도 이식의 실패를 초래할 수 있다.",
+        "거래 비용 절감이 경제 성장의 핵심이라는 주장은 제도의 분배적 효과, 즉 성장의 과실이 누구에게 귀속되는지를 다루지 않는다."
+      ],
+      "answer": 5,
+      "points": 3,
+      "explanations": {
+        "correct": "선지 3은 거래 비용 절감 주장이 분배적 효과를 다루지 않는다는 비판인데, 이는 지문에서 명시적으로 제기된 비판이 아니다. 지문에 제시된 비판은 합리적 선택 환원, 비공식-공식 규범 충돌 설명 부족, 문화적 맥락 무시의 세 가지이며, 분배적 효과 문제는 포함되지 않는다.",
+        "wrong": {
+          "1": "지문에서 명시적으로 제기된 비판(합리적 선택 환원)이다.",
+          "2": "지문에서 명시적으로 제기된 비판(비공식-공식 규범 충돌 설명 부족)이다.",
+          "3": "지문의 비판들에서 논리적으로 도출되는 주장이나, 지문에서 가장 명시적으로 제기된 비판들은 1, 2, 4이다.",
+          "4": "지문에서 명시적으로 제기된 비판(문화적 맥락 무시)이다."
+        },
+        "key_point": "지문에 명시된 비판 3가지를 파악하고, 지문에 없는 비판을 식별하는 것이 핵심"
+      },
+      "self_check": {
+        "concept": "New institutional economics — critiques of rational choice reductionism, informal-formal rule conflict, and cultural context",
+        "trap": "Choice 3 raises a legitimate critique in economic theory but it is not mentioned in the passage",
+        "strategy": "Map each choice back to a specific sentence in the passage — choice 3 has no corresponding sentence",
+        "correct_answer_reasoning": "Choice 5 is correct. 선지 3은 거래 비용 절감 주장이 분배적 효과를 다루지 않는다는 비판인데, 이는 지문에서 명시적으로 제기된 비판이 아니다. 지문에 제시된 비판은 합리적 선택 환원, 비공식-공식 규범 충돌 설명 부족, 문화적 맥락 무시의 세 가지이며, 분배적 효과 문제는 포함되지 않는다.",
+        "distractor_analysis": "Choice 1 is incorrect: 지문에서 명시적으로 제기된 비판(합리적 선택 환원)이다. Choice 2 is incorrect: 지문에서 명시적으로 제기된 비판(비공식-공식 규범 충돌 설명 부족)이다. Choice 3 is incorrect: 지문의 비판들에서 논리적으로 도출되는 주장이나, 지문에서 가장 명시적으로 제기된 비판들은 1, 2, 4이다. Choice 4 is incorrect: 지문에서 명시적으로 제기된 비판(문화적 맥락 무시)이다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-3-15",
+      "type": "비판평가",
+      "difficulty": "hard",
+      "passage": "코헨은 분석적 마르크스주의의 관점에서 역사적 유물론을 엄밀하게 재구성하면서, 생산력의 발전이 역사 변화의 근본 동력이라고 주장했다. 그에 따르면 생산력은 생산관계를 설명하고, 생산관계는 상부구조(법, 국가, 이념)를 설명한다. 이 기능주의적 설명에서 상부구조는 생산력 발전을 촉진하기 때문에 존재한다. 엘스터는 이 설명이 비의도적 행위자 없는 결과를 통해 원인을 설명하는 기능주의의 오류를 범한다고 비판했다. 기능주의적 설명이 타당하려면 그 기능을 실현하는 피드백 메커니즘이 명시되어야 하는데, 코헨의 이론은 이를 제시하지 못한다는 것이다. 또한 로머는 착취를 계급 구조가 아닌 자산 불평등으로 재정의하면서, 생산력 발전보다 분배 구조의 변화가 역사 변동의 핵심이라고 주장했다. 이들의 비판은 역사적 유물론이 구조적 결정론에 치우쳐 개별 행위자의 역할과 계급 투쟁의 역동성을 충분히 설명하지 못한다는 공통된 문제의식에서 비롯된다.",
+      "question": "엘스터와 로머의 관점에서 코헨의 역사적 유물론 재구성을 비판한 내용으로 가장 적절한 것은?",
+      "choices": [
+        "엘스터에 따르면, 생산력이 생산관계를 결정한다는 기술결정론적 주장은 다양한 생산관계를 가진 사회들이 동일한 생산력 수준에서 공존하는 현상을 설명하지 못한다.",
+        "로머에 따르면, 착취를 계급 구조에 의해 설명하면 자산 불평등의 분배적 측면이 역사 변동의 핵심 요인으로 부각되지 않는 한계가 있다.",
+        "엘스터에 따르면, 기능주의적 설명이 타당하려면 해당 기능이 실현되는 인과적 피드백 메커니즘이 제시되어야 하는데 코헨의 이론은 이를 결여하고 있다.",
+        "로머에 따르면, 상부구조가 생산력 발전을 기능적으로 설명한다면 이념이나 국가가 생산력 발전에 역행하는 사례를 역사적 유물론의 틀 안에서 설명하기 어렵다.",
+        "엘스터와 로머에 따르면, 역사적 유물론이 구조적 결정론에 집중하면 개별 행위자의 선택과 계급 투쟁이 역사 변동에 미치는 독립적 역할이 이론 내에서 충분히 포착되지 않는다."
+      ],
+      "answer": 1,
+      "points": 3,
+      "explanations": {
+        "correct": "선지 3은 엘스터의 비판으로 기술결정론 문제를 제기하는데, 지문에서 엘스터는 기능주의의 피드백 메커니즘 부재를 비판할 뿐, 기술결정론과 사회적 다양성 문제를 지적하지 않았다. 이는 지문에 없는 내용을 엘스터의 비판으로 귀속시킨 것이다.",
+        "wrong": {
+          "2": "지문에서 로머의 비판(착취의 계급→자산 재정의, 분배 구조 중시)을 정확히 반영한다.",
+          "3": "지문에서 엘스터의 비판(기능주의 피드백 메커니즘 부재)을 정확히 반영한다.",
+          "4": "지문의 기능주의 설명에 내재된 한계를 논리적으로 확장한 것으로 타당하나, 엘스터보다 로머의 비판과 더 연관된다. 그러나 선지 3보다는 지문에 가깝다.",
+          "5": "지문의 마지막 문장에서 공통된 문제의식으로 명시된 내용이다."
+        },
+        "key_point": "각 비판자의 논거를 지문에서 정확히 구분하고, 지문에 없는 비판이 특정인에게 귀속되는지 확인"
+      },
+      "self_check": {
+        "concept": "Analytical Marxism — Cohen's functional explanation of historical materialism, Elster's critique of functionalism, Roemer's asset-based redistribution theory",
+        "trap": "Choice 3 sounds like a legitimate critique of historical materialism but attributes a technological-determinist critique to Elster, which is not in the passage",
+        "strategy": "For each choice, identify which philosopher it claims to represent and verify it against the passage text",
+        "correct_answer_reasoning": "Choice 1 is correct. 선지 3은 엘스터의 비판으로 기술결정론 문제를 제기하는데, 지문에서 엘스터는 기능주의의 피드백 메커니즘 부재를 비판할 뿐, 기술결정론과 사회적 다양성 문제를 지적하지 않았다. 이는 지문에 없는 내용을 엘스터의 비판으로 귀속시킨 것이다.",
+        "distractor_analysis": "Choice 2 is incorrect: 지문에서 로머의 비판(착취의 계급→자산 재정의, 분배 구조 중시)을 정확히 반영한다. Choice 3 is incorrect: 지문에서 엘스터의 비판(기능주의 피드백 메커니즘 부재)을 정확히 반영한다. Choice 4 is incorrect: 지문의 기능주의 설명에 내재된 한계를 논리적으로 확장한 것으로 타당하나, 엘스터보다 로머의 비판과 더 연관된다. 그러나 선지 3보다는 지문에 가깝다. Choice 5 is incorrect: 지문의 마지막 문장에서 공통된 문제의식으로 명시된 내용이다.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

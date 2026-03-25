@@ -1,0 +1,520 @@
+{
+  "type": "구조전개",
+  "typeNumber": 5,
+  "area": "독서",
+  "model": "sonnet",
+  "version": "v2",
+  "totalGenerated": 15,
+  "questions": [
+    {
+      "id": "kor-v2-reading-5-01",
+      "type": "구조전개",
+      "difficulty": "easy",
+      "passage": "가격은 시장에서 수요와 공급에 의해 결정된다. 수요는 소비자가 특정 가격에 구입하고자 하는 양이고, 공급은 생산자가 특정 가격에 판매하고자 하는 양이다. 수요량은 가격이 오르면 감소하고 내리면 증가하는데, 이를 수요의 법칙이라 한다. 반대로 공급량은 가격이 오르면 증가하고 내리면 감소하는데, 이를 공급의 법칙이라 한다. 수요와 공급이 일치하는 점에서 균형 가격이 형성되며, 이 균형 가격에서 시장이 안정된다. 만약 가격이 균형보다 높으면 공급 과잉이 발생하고, 낮으면 초과 수요가 발생하여 결국 가격은 균형 수준으로 돌아온다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "구체적인 사례에서 출발하여 귀납적으로 일반 원리를 이끌어 내고 있다.",
+        "특정 현상의 역사적 변천 과정을 시대순으로 나열하며 원인을 분석하고 있다.",
+        "상반된 이론을 대립시켜 각각의 장단점을 비교한 뒤 절충안을 제시하고 있다.",
+        "실험 결과를 토대로 가설을 수정하고 새로운 이론을 도출하는 과정을 서술하고 있다.",
+        "핵심 개념들을 정의하고, 각 개념 간의 관계를 설명한 후 전체 원리를 종합하고 있다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 먼저 수요, 공급, 균형 가격 등의 핵심 개념을 정의한 뒤, 수요의 법칙과 공급의 법칙 사이의 관계를 설명하고, 마지막으로 균형 가격 형성이라는 전체 원리로 종합하고 있으므로 ①이 적절하다.",
+        "wrong": {
+          "1": "구체적 사례에서 출발하는 귀납 방식이 아니라, 개념 정의 후 연역적으로 원리를 설명한다.",
+          "2": "역사적 변천 과정은 다루지 않는다.",
+          "3": "상반된 이론을 대립시키거나 절충안을 제시하는 방식은 쓰이지 않았다.",
+          "4": "실험 결과나 가설 수정 과정은 등장하지 않는다."
+        },
+        "key_point": "개념 정의 → 관계 설명 → 원리 종합의 연역적 전개 방식을 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify the deductive structure: definition → relationship → synthesis?",
+        "key_signal_words": "법칙, 정의, 균형 — concept-defining and relational terms",
+        "common_mistake": "Mistaking the cause-effect explanation of laws for an inductive argument from examples",
+        "correct_answer_reasoning": "Choice 5 is correct. 지문은 먼저 수요, 공급, 균형 가격 등의 핵심 개념을 정의한 뒤, 수요의 법칙과 공급의 법칙 사이의 관계를 설명하고, 마지막으로 균형 가격 형성이라는 전체 원리로 종합하고 있으므로 ①이 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 구체적 사례에서 출발하는 귀납 방식이 아니라, 개념 정의 후 연역적으로 원리를 설명한다. Choice 2 is incorrect: 역사적 변천 과정은 다루지 않는다. Choice 3 is incorrect: 상반된 이론을 대립시키거나 절충안을 제시하는 방식은 쓰이지 않았다. Choice 4 is incorrect: 실험 결과나 가설 수정 과정은 등장하지 않는다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-02",
+      "type": "구조전개",
+      "difficulty": "easy",
+      "passage": "광합성은 식물이 빛 에너지를 이용하여 이산화탄소와 물로부터 포도당을 합성하는 과정이다. 광합성은 명반응과 암반응의 두 단계로 구분된다. 명반응은 엽록체의 틸라코이드 막에서 일어나며, 빛 에너지를 흡수하여 ATP와 NADPH를 생성하고 물을 분해하여 산소를 방출한다. 암반응은 엽록체의 스트로마에서 일어나며, 명반응에서 생성된 ATP와 NADPH를 이용하여 이산화탄소를 포도당으로 환원한다. 이처럼 명반응과 암반응은 서로 다른 장소에서 이루어지지만 유기적으로 연결되어 광합성이라는 하나의 과정을 완성한다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "현상의 문제점을 지적한 뒤 해결책을 순서대로 제안하고 있다.",
+        "서로 대립하는 두 학설을 소개하고 각각의 근거를 평가하고 있다.",
+        "전체 과정을 하위 단계로 나누어 각 단계를 설명한 뒤 상호 연관성을 밝히고 있다.",
+        "유사한 사례들을 열거하여 공통된 원리를 귀납적으로 도출하고 있다.",
+        "특정 개념의 역사적 발전 과정을 시간 순서에 따라 서술하고 있다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 광합성을 명반응과 암반응으로 나누어 각 단계의 장소, 재료, 산물을 설명한 뒤, 마지막 문장에서 두 반응이 유기적으로 연결된다는 상호 연관성을 밝히고 있으므로 ②가 적절하다.",
+        "wrong": {
+          "1": "문제점 지적이나 해결책 제안은 나타나지 않는다.",
+          "2": "대립하는 학설을 다루지 않는다.",
+          "4": "유사 사례 열거를 통한 귀납 방식이 아니다.",
+          "5": "역사적 발전 과정을 다루지 않는다."
+        },
+        "key_point": "분류 후 각 항목 설명 → 상호 연관성 종합이라는 전개 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you spot the two-stage division and the final synthesis statement?",
+        "key_signal_words": "명반응, 암반응, 이처럼 — division markers and concluding connector",
+        "common_mistake": "Confusing the enumeration of stages with a simple listing without synthesis",
+        "correct_answer_reasoning": "Choice 3 is correct. 지문은 광합성을 명반응과 암반응으로 나누어 각 단계의 장소, 재료, 산물을 설명한 뒤, 마지막 문장에서 두 반응이 유기적으로 연결된다는 상호 연관성을 밝히고 있으므로 ②가 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 문제점 지적이나 해결책 제안은 나타나지 않는다. Choice 2 is incorrect: 대립하는 학설을 다루지 않는다. Choice 4 is incorrect: 유사 사례 열거를 통한 귀납 방식이 아니다. Choice 5 is incorrect: 역사적 발전 과정을 다루지 않는다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-03",
+      "type": "구조전개",
+      "difficulty": "easy",
+      "passage": "독점 시장이란 하나의 기업이 특정 상품이나 서비스 전체를 공급하는 시장 구조이다. 독점이 발생하는 원인으로는 크게 세 가지가 있다. 첫째, 특허나 저작권과 같은 법적 진입 장벽이다. 둘째, 원자재나 핵심 자원을 하나의 기업이 독점적으로 소유하는 경우이다. 셋째, 규모의 경제로 인해 생산량이 늘수록 평균 비용이 낮아져 신규 기업이 경쟁하기 어려운 자연 독점이다. 독점 기업은 시장 가격을 통제할 수 있는 가격 지배력을 갖고, 이윤을 극대화하기 위해 경쟁 시장보다 높은 가격에 적은 양을 공급한다. 그 결과 사회 전체의 후생 손실이 발생한다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "개념을 정의하고 원인을 분류한 뒤 그 결과를 서술하고 있다.",
+        "연구자들의 다양한 견해를 소개하고 이를 비판적으로 검토하고 있다.",
+        "두 개념의 공통점과 차이점을 대조하며 우열을 가리고 있다.",
+        "구체적 사례를 분석하여 숨겨진 원리를 귀납적으로 끌어내고 있다.",
+        "역사적 사건의 배경, 전개, 결과를 시간 순서대로 나열하고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 독점 시장의 개념을 정의하고, 독점 발생 원인을 세 가지로 분류한 뒤, 독점의 결과로 후생 손실이 발생함을 서술하고 있으므로 ③이 적절하다.",
+        "wrong": {
+          "2": "연구자들의 견해 소개나 비판적 검토는 없다.",
+          "3": "두 개념의 대조나 우열 판단은 나타나지 않는다.",
+          "4": "구체적 사례에서 출발하지 않는다.",
+          "5": "역사적 사건의 시간 순 나열은 아니다."
+        },
+        "key_point": "정의 → 원인 분류 → 결과 서술이라는 3단계 전개를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify the definition-cause-effect three-part structure?",
+        "key_signal_words": "첫째, 둘째, 셋째, 그 결과 — enumeration and consequence markers",
+        "common_mistake": "Overlooking that the causes are explicitly classified (numbered) rather than vaguely mentioned",
+        "correct_answer_reasoning": "Choice 1 is correct. 지문은 독점 시장의 개념을 정의하고, 독점 발생 원인을 세 가지로 분류한 뒤, 독점의 결과로 후생 손실이 발생함을 서술하고 있으므로 ③이 적절하다.",
+        "distractor_analysis": "Choice 2 is incorrect: 연구자들의 견해 소개나 비판적 검토는 없다. Choice 3 is incorrect: 두 개념의 대조나 우열 판단은 나타나지 않는다. Choice 4 is incorrect: 구체적 사례에서 출발하지 않는다. Choice 5 is incorrect: 역사적 사건의 시간 순 나열은 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-04",
+      "type": "구조전개",
+      "difficulty": "easy",
+      "passage": "혈액은 적혈구, 백혈구, 혈소판, 혈장으로 구성된다. 적혈구는 헤모글로빈을 이용해 산소를 운반하며, 핵이 없는 것이 특징이다. 백혈구는 면역 반응을 담당하며 세균이나 바이러스와 같은 병원체를 제거한다. 혈소판은 혈액 응고에 관여하여 상처 부위에서 출혈을 막는 역할을 한다. 혈장은 혈액의 액체 성분으로, 영양소·호르몬·노폐물 등을 운반하고 체온을 조절한다. 이처럼 혈액의 각 성분은 서로 다른 기능을 수행하며 생명 유지에 필수적인 역할을 한다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "대상을 구성 요소로 나누어 각 요소의 특성과 기능을 설명한 뒤 전체 의의를 제시하고 있다.",
+        "특정 문제의 원인을 분석하고 역사적 사례를 통해 해결 방안을 모색하고 있다.",
+        "하나의 이론이 발전해 온 과정을 인물 중심으로 서술하고 있다.",
+        "현상에 대한 상반된 가설을 제시하고 검증 실험을 통해 하나를 선택하고 있다.",
+        "중심 개념의 다양한 정의를 나열한 뒤 가장 타당한 정의를 선별하고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 혈액을 네 가지 구성 요소로 나누어 각 요소의 특성과 기능을 설명하고, 마지막 문장에서 이들이 생명 유지에 필수적이라는 전체 의의를 제시하므로 ④가 적절하다.",
+        "wrong": {
+          "2": "역사적 사례나 해결 방안은 없다.",
+          "3": "인물 중심 서술이 아니다.",
+          "4": "가설 제시와 검증 과정은 등장하지 않는다.",
+          "5": "정의를 나열하고 선별하는 방식이 아니다."
+        },
+        "key_point": "구성 요소 분류 → 각 요소 기능 설명 → 전체 의의 종합의 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify all four components and the final integrating sentence?",
+        "key_signal_words": "적혈구, 백혈구, 혈소판, 혈장, 이처럼 — enumeration and synthesis",
+        "common_mistake": "Treating the closing sentence as mere repetition rather than a synthesis of function",
+        "correct_answer_reasoning": "Choice 1 is correct. 지문은 혈액을 네 가지 구성 요소로 나누어 각 요소의 특성과 기능을 설명하고, 마지막 문장에서 이들이 생명 유지에 필수적이라는 전체 의의를 제시하므로 ④가 적절하다.",
+        "distractor_analysis": "Choice 2 is incorrect: 역사적 사례나 해결 방안은 없다. Choice 3 is incorrect: 인물 중심 서술이 아니다. Choice 4 is incorrect: 가설 제시와 검증 과정은 등장하지 않는다. Choice 5 is incorrect: 정의를 나열하고 선별하는 방식이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-05",
+      "type": "구조전개",
+      "difficulty": "easy",
+      "passage": "민주주의는 국민이 주권을 가지며 직접 또는 대표를 통해 정치에 참여하는 정치 체제이다. 민주주의의 핵심 원리로는 국민 주권, 법치주의, 권력 분립, 기본권 보장이 있다. 국민 주권이란 국가의 권력이 궁극적으로 국민에게서 나온다는 원리이며, 법치주의는 국가 권력도 법의 지배를 받아야 한다는 원리이다. 권력 분립은 입법·행정·사법 권력을 서로 다른 기관에 나누어 남용을 막는 원리이고, 기본권 보장은 국민의 자유와 권리를 헌법으로 보호하는 것이다. 이 네 가지 원리는 상호 보완적으로 작동하여 민주주의를 실질적으로 구현한다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "역사적 사례들을 나열하여 민주주의 발전 경로를 귀납적으로 설명하고 있다.",
+        "민주주의의 장점과 단점을 균형 있게 제시하여 독자의 판단을 유도하고 있다.",
+        "중심 개념을 정의하고 핵심 원리들을 나열하여 설명한 뒤 상호 관계를 밝히고 있다.",
+        "대립하는 두 정치 체제를 비교하여 민주주의의 우월성을 논증하고 있다.",
+        "가설을 먼저 제시하고 역사적 사례로 검증하는 방식으로 서술하고 있다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 민주주의 개념을 정의하고, 네 가지 핵심 원리를 열거하여 각각을 설명한 뒤, 이 원리들이 상호 보완적으로 작동한다는 관계를 밝히고 있으므로 ③이 적절하다.",
+        "wrong": {
+          "1": "귀납적 역사 사례 나열 방식이 아니다.",
+          "2": "장단점 비교 방식이 아니다.",
+          "4": "두 정치 체제를 비교하지 않는다.",
+          "5": "가설 제시 후 검증 방식이 아니다."
+        },
+        "key_point": "정의 → 원리 열거·설명 → 상호 관계 종합의 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you find the definition, the four principles, and the closing relational statement?",
+        "key_signal_words": "핵심 원리, 상호 보완적으로 — principle enumeration and relational synthesis",
+        "common_mistake": "Confusing 'listing principles' with 'historical enumeration'",
+        "correct_answer_reasoning": "Choice 3 is correct. 지문은 민주주의 개념을 정의하고, 네 가지 핵심 원리를 열거하여 각각을 설명한 뒤, 이 원리들이 상호 보완적으로 작동한다는 관계를 밝히고 있으므로 ③이 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 귀납적 역사 사례 나열 방식이 아니다. Choice 2 is incorrect: 장단점 비교 방식이 아니다. Choice 4 is incorrect: 두 정치 체제를 비교하지 않는다. Choice 5 is incorrect: 가설 제시 후 검증 방식이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-06",
+      "type": "구조전개",
+      "difficulty": "medium",
+      "passage": "공리주의는 행위의 옳고 그름을 그 결과로 발생하는 쾌락과 고통의 총량에 따라 판단하는 윤리 이론이다. 벤담은 쾌락의 양만을 중시하여 모든 쾌락은 질적으로 동등하며 양적 계산이 가능하다고 주장했다. 반면 밀은 쾌락에도 질적 차이가 있다고 보아, 정신적 쾌락이 육체적 쾌락보다 우월하다는 입장을 취했다. 두 사람 모두 '최대 다수의 최대 행복'을 윤리의 목표로 삼은 점에서는 일치하지만, 쾌락의 측정 방식에서는 입장이 갈린다. 한편 롤스는 공리주의가 다수를 위해 소수를 희생시킬 수 있다는 점을 비판하며, 정의의 원칙에 따라 분배의 공정성을 우선해야 한다고 반론을 제기했다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "공리주의의 발생 배경을 분석하고 현대적 의의를 평가하고 있다.",
+        "가설을 설정하고 각 학자의 사례로 검증한 뒤 결론을 도출하고 있다.",
+        "동일 이론의 변천 과정을 시간 순서대로 서술하고 새로운 방향을 제안하고 있다.",
+        "이론 내부의 견해 차이를 대조하고, 외부에서 제기된 비판을 소개하고 있다.",
+        "공리주의의 핵심 원리를 나열하고 각 원리에 대한 역사적 사례를 제시하고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 벤담과 밀의 쾌락 측정 방식에 대한 내부 견해 차이를 대조한 뒤, 롤스의 외부 비판을 소개하는 방식으로 전개되므로 ④가 적절하다.",
+        "wrong": {
+          "1": "발생 배경 분석이나 현대적 의의 평가는 나타나지 않는다.",
+          "2": "가설 설정과 검증 과정이 아니다.",
+          "3": "변천 과정의 시간 순 서술도, 새 방향 제안도 없다.",
+          "5": "원리 나열 후 역사 사례 제시 방식이 아니다."
+        },
+        "key_point": "내부 견해 대조(벤담 vs 밀) + 외부 비판 소개(롤스)라는 이중 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you distinguish the internal contrast (Bentham vs Mill) from the external critique (Rawls)?",
+        "key_signal_words": "반면, 한편 — contrast and shift markers",
+        "common_mistake": "Treating all three thinkers as 'a list of different views' rather than recognizing the internal/external distinction",
+        "correct_answer_reasoning": "Choice 4 is correct. 지문은 벤담과 밀의 쾌락 측정 방식에 대한 내부 견해 차이를 대조한 뒤, 롤스의 외부 비판을 소개하는 방식으로 전개되므로 ④가 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 발생 배경 분석이나 현대적 의의 평가는 나타나지 않는다. Choice 2 is incorrect: 가설 설정과 검증 과정이 아니다. Choice 3 is incorrect: 변천 과정의 시간 순 서술도, 새 방향 제안도 없다. Choice 5 is incorrect: 원리 나열 후 역사 사례 제시 방식이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-07",
+      "type": "구조전개",
+      "difficulty": "medium",
+      "passage": "탄소 중립이란 인간 활동으로 발생한 온실가스 배출량을 최대한 줄이고, 남은 배출량을 흡수·제거하여 실질적인 배출량을 0으로 만드는 것을 의미한다. 탄소 중립을 달성하기 위한 방안으로 재생에너지 확대, 에너지 효율 향상, 탄소 포집·저장 기술 개발 등이 논의된다. 그러나 재생에너지는 간헐성 문제로 안정적 공급이 어렵고, 탄소 포집 기술은 아직 상용화 비용이 높다는 한계가 있다. 이에 대해 일부 전문가들은 핵융합 에너지나 소형 모듈 원자로(SMR)와 같은 차세대 에너지 기술이 탄소 중립의 핵심이 될 것이라 주장한다. 반면 다른 전문가들은 기술 개발보다 에너지 소비 자체를 줄이는 수요 관리를 우선해야 한다고 본다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "현상의 원인을 분류하고 각 원인에 대한 해결책을 대응시켜 결론을 도출하고 있다.",
+        "개념을 정의하고 해결 방안을 제시한 뒤, 그 한계를 지적하고 방안에 대한 상반된 입장을 소개하고 있다.",
+        "주요 이론들을 시대 순으로 소개하고 각각의 문제점을 비판하며 새 이론을 제안하고 있다.",
+        "구체적 사례에서 출발하여 귀납적으로 탄소 중립의 필요성을 논증하고 있다.",
+        "탄소 중립의 역사적 발전 경과를 서술하고 현재 과제를 진단하고 있다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 탄소 중립의 개념을 정의하고 해결 방안을 나열한 뒤, 각 방안의 한계를 지적하고, 마지막으로 차세대 기술 우선 입장과 수요 관리 우선 입장이라는 상반된 견해를 소개하므로 ①이 적절하다.",
+        "wrong": {
+          "1": "원인 분류 후 대응 해결책 제시 방식이 아니다.",
+          "3": "시대 순 이론 소개가 아니다.",
+          "4": "귀납적 사례 분석이 아니다.",
+          "5": "역사적 발전 경과 서술이 아니다."
+        },
+        "key_point": "정의 → 방안 제시 → 한계 지적 → 상반된 입장이라는 4단계 전개를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you trace all four steps: definition, solutions, limitations, opposing views?",
+        "key_signal_words": "그러나, 반면 — limitation and contrast markers signaling structural shifts",
+        "common_mistake": "Stopping at 'definition + solutions' and missing the critique and debate in the latter half",
+        "correct_answer_reasoning": "Choice 2 is correct. 지문은 탄소 중립의 개념을 정의하고 해결 방안을 나열한 뒤, 각 방안의 한계를 지적하고, 마지막으로 차세대 기술 우선 입장과 수요 관리 우선 입장이라는 상반된 견해를 소개하므로 ①이 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 원인 분류 후 대응 해결책 제시 방식이 아니다. Choice 3 is incorrect: 시대 순 이론 소개가 아니다. Choice 4 is incorrect: 귀납적 사례 분석이 아니다. Choice 5 is incorrect: 역사적 발전 경과 서술이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-08",
+      "type": "구조전개",
+      "difficulty": "medium",
+      "passage": "고전 역학은 뉴턴의 운동 법칙을 기반으로 물체의 운동을 기술하는 이론이다. 뉴턴 역학에 따르면 물체의 위치와 속도를 알면 미래의 운동을 완전히 예측할 수 있으며, 이를 결정론적 세계관이라 한다. 그러나 20세기 초 양자역학의 등장으로 이러한 결정론적 세계관이 도전을 받게 되었다. 양자역학에서는 하이젠베르크의 불확정성 원리에 따라 입자의 위치와 운동량을 동시에 정확히 측정하는 것이 원리적으로 불가능하다. 보어는 이를 근거로 자연은 근본적으로 확률적이라는 코펜하겐 해석을 제시했다. 반면 아인슈타인은 '신은 주사위 놀이를 하지 않는다'는 말로 확률적 해석을 거부하고 결정론적 입장을 고수하였다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "실험 데이터를 분석하여 기존 이론의 오류를 검증하고 새 이론을 정립하는 과정을 설명하고 있다.",
+        "두 이론의 공통점을 중심으로 서술하며 통합 이론의 가능성을 탐색하고 있다.",
+        "기존 이론의 개요를 소개하고, 새로운 이론의 등장으로 인한 이론적 전환과 그 내부 논쟁을 서술하고 있다.",
+        "역사적 사건들을 나열하고 그 배경이 된 사회적 맥락을 분석하고 있다.",
+        "여러 학자들의 생애를 소개하며 과학 이론의 발전 과정을 인물 중심으로 서술하고 있다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 고전 역학(뉴턴)의 결정론적 세계관을 소개한 뒤, 양자역학의 등장으로 이론적 전환이 일어남을 서술하고, 보어와 아인슈타인의 해석 논쟁을 다루므로 ①이 적절하다.",
+        "wrong": {
+          "1": "실험 데이터 분석을 통한 오류 검증 방식이 아니다.",
+          "2": "공통점 중심 서술이나 통합 이론 탐색이 아니다.",
+          "4": "사회적 맥락 분석이 아니다.",
+          "5": "인물 생애 소개가 중심이 아니다."
+        },
+        "key_point": "기존 이론 소개 → 패러다임 전환 → 새 이론 내부의 해석 논쟁이라는 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify the paradigm shift (Newton → quantum) and the internal debate (Bohr vs Einstein)?",
+        "key_signal_words": "그러나, 반면 — markers of theory challenge and internal disagreement",
+        "common_mistake": "Describing it simply as 'comparing two theories' without recognizing the narrative of replacement and internal debate",
+        "correct_answer_reasoning": "Choice 3 is correct. 지문은 고전 역학(뉴턴)의 결정론적 세계관을 소개한 뒤, 양자역학의 등장으로 이론적 전환이 일어남을 서술하고, 보어와 아인슈타인의 해석 논쟁을 다루므로 ①이 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 실험 데이터 분석을 통한 오류 검증 방식이 아니다. Choice 2 is incorrect: 공통점 중심 서술이나 통합 이론 탐색이 아니다. Choice 4 is incorrect: 사회적 맥락 분석이 아니다. Choice 5 is incorrect: 인물 생애 소개가 중심이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-09",
+      "type": "구조전개",
+      "difficulty": "medium",
+      "passage": "플라스틱 오염은 현재 해양 생태계를 위협하는 심각한 환경 문제이다. 매년 수백만 톤의 플라스틱이 바다로 유입되어 해양 생물의 서식지를 훼손하고, 해양 동물이 플라스틱을 먹이로 오인하여 섭취하는 사례가 급증하고 있다. 더욱 문제가 되는 것은 플라스틱이 미세 플라스틱으로 분해되어 해양 먹이 사슬을 통해 최종적으로 인간에게까지 영향을 미친다는 점이다. 이에 대한 대응으로 국제 사회는 일회용 플라스틱 규제와 생분해성 플라스틱 개발을 추진하고 있다. 그러나 생분해성 플라스틱도 특정 조건에서만 분해된다는 점에서 근본적 해결책이 되기 어렵다는 비판도 있다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "환경 문제의 역사적 원인을 분석하고 시대별 대응 변화를 정리하고 있다.",
+        "문제 상황을 제시하고 피해 양상을 구체화한 뒤, 대응책과 그에 대한 비판적 시각을 덧붙이고 있다.",
+        "상반된 환경 정책 두 가지를 비교하여 더 효과적인 방안을 선택하고 있다.",
+        "현상의 원인과 결과를 과학적 실험 결과를 인용하여 검증하고 있다.",
+        "생태계 피해 사례들을 귀납적으로 분석하여 새로운 환경 이론을 도출하고 있다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 플라스틱 오염이라는 문제를 제시하고 해양 생물 피해와 미세 플라스틱 문제로 피해 양상을 구체화한 뒤, 국제 사회의 대응책을 소개하고 그에 대한 비판을 덧붙이므로 ⑤가 적절하다.",
+        "wrong": {
+          "1": "역사적 원인 분석이나 시대별 대응 변화 정리가 아니다.",
+          "3": "두 정책을 비교하여 선택하는 방식이 아니다.",
+          "4": "실험 결과 인용을 통한 검증 방식이 아니다.",
+          "5": "귀납적 사례 분석을 통한 새 이론 도출이 아니다."
+        },
+        "key_point": "문제 제시 → 피해 구체화 → 대응책 → 비판이라는 4단계 논리 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify all four steps: problem, harm details, countermeasures, critique of countermeasures?",
+        "key_signal_words": "더욱 문제가 되는 것은, 이에 대한 대응으로, 그러나 — escalation, response, and counter-critique markers",
+        "common_mistake": "Missing that the final sentence critiques the solution, not the problem itself",
+        "correct_answer_reasoning": "Choice 2 is correct. 지문은 플라스틱 오염이라는 문제를 제시하고 해양 생물 피해와 미세 플라스틱 문제로 피해 양상을 구체화한 뒤, 국제 사회의 대응책을 소개하고 그에 대한 비판을 덧붙이므로 ⑤가 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 역사적 원인 분석이나 시대별 대응 변화 정리가 아니다. Choice 3 is incorrect: 두 정책을 비교하여 선택하는 방식이 아니다. Choice 4 is incorrect: 실험 결과 인용을 통한 검증 방식이 아니다. Choice 5 is incorrect: 귀납적 사례 분석을 통한 새 이론 도출이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-10",
+      "type": "구조전개",
+      "difficulty": "medium",
+      "passage": "기억은 부호화, 저장, 인출의 세 단계로 이루어진다. 부호화는 외부 정보를 뇌가 처리할 수 있는 형태로 변환하는 과정이며, 주의 집중 여부가 부호화의 질을 결정한다. 저장은 부호화된 정보를 장기 기억에 유지하는 과정으로, 해마가 중요한 역할을 한다. 인출은 저장된 정보를 필요할 때 의식으로 꺼내는 과정인데, 기억 단서가 인출을 촉진한다. 망각은 인출 실패에 의한 경우가 많으며, 반드시 정보가 소멸했기 때문이 아니다. 에빙하우스의 망각 곡선 연구에 따르면, 학습 직후 망각이 가장 빠르게 일어나므로 적절한 복습 간격 조절이 기억 보존에 효과적이다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "연구자들의 상반된 주장을 소개하고 어느 쪽이 더 타당한지를 논증하고 있다.",
+        "기억의 과정을 단계별로 설명하고, 관련 현상인 망각을 분석한 뒤 실용적 함의를 제시하고 있다.",
+        "기억과 관련된 역사적 실험들을 시간 순으로 나열하여 이론의 변천을 설명하고 있다.",
+        "기억 장애의 사례를 분석하여 정상 기억 과정을 역으로 추론하고 있다.",
+        "개념의 다양한 정의를 검토하여 가장 적합한 정의를 선택하고 있다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 기억의 세 단계(부호화·저장·인출)를 순서대로 설명하고, 관련 현상인 망각을 분석한 뒤, 에빙하우스 연구를 통해 복습 간격 조절이라는 실용적 함의를 제시하므로 ③이 적절하다.",
+        "wrong": {
+          "1": "상반된 주장의 타당성 논증 방식이 아니다.",
+          "3": "역사적 실험들을 시간 순 나열하는 방식이 아니다.",
+          "4": "장애 사례에서 역추론하는 방식이 아니다.",
+          "5": "다양한 정의를 검토하고 선택하는 방식이 아니다."
+        },
+        "key_point": "단계별 설명 → 관련 현상 분석 → 실용적 시사점이라는 3단계 전개를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you distinguish the three-stage explanation from the subsequent discussion of forgetting and its practical implication?",
+        "key_signal_words": "부호화, 저장, 인출 — stage labels; 따라서 — conclusion marker for practical implication",
+        "common_mistake": "Identifying the Ebbinghaus reference as a 'historical enumeration' rather than supporting evidence for a practical conclusion",
+        "correct_answer_reasoning": "Choice 2 is correct. 지문은 기억의 세 단계(부호화·저장·인출)를 순서대로 설명하고, 관련 현상인 망각을 분석한 뒤, 에빙하우스 연구를 통해 복습 간격 조절이라는 실용적 함의를 제시하므로 ③이 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 상반된 주장의 타당성 논증 방식이 아니다. Choice 3 is incorrect: 역사적 실험들을 시간 순 나열하는 방식이 아니다. Choice 4 is incorrect: 장애 사례에서 역추론하는 방식이 아니다. Choice 5 is incorrect: 다양한 정의를 검토하고 선택하는 방식이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-11",
+      "type": "구조전개",
+      "difficulty": "hard",
+      "passage": "법 실증주의와 자연법론은 법의 효력 근거에 관한 대립적 입장이다. 법 실증주의는 법의 효력이 절차에 따른 제정 여부에 달려 있으며, 법의 도덕적 내용은 효력과 무관하다고 본다. 켈젠은 이를 체계화하여, 모든 법 규범은 상위 규범으로부터 효력을 부여받으며 이 구조의 정점에는 전제된 근본 규범이 있다고 주장했다. 반면 자연법론은 법이 도덕적 기준에 부합해야 효력을 가질 수 있다고 보며, 도덕적으로 부당한 법은 진정한 법이 아니라는 라드브루흐 공식으로 대표된다. 하트는 두 입장을 절충하여 최소한의 자연법 원리가 법 체계에 내재한다는 '최소 자연법' 개념을 제시함으로써, 이론적 대립을 완화하고자 했다. 이처럼 법 효력 논쟁은 단순한 이분법적 대립을 넘어 접점을 모색하는 방향으로 발전해 왔다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "특정 이론의 역사적 발생 배경을 분석하고 그 이론이 현대 사회에 미친 영향을 평가하고 있다.",
+        "이론들을 귀납적으로 검토하여 법 효력에 관한 새로운 원리를 도출하고 있다.",
+        "각 이론의 사례를 중심으로 이론들 간의 공통점을 부각하고 있다.",
+        "대립하는 두 이론의 핵심 주장을 대조하고, 절충 이론을 소개하며 논쟁의 발전 방향을 제시하고 있다.",
+        "법 효력의 개념 변화를 시대별로 정리하며 현대적 정의를 확정하고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 법 실증주의(켈젠)와 자연법론(라드브루흐)의 핵심 주장을 대조하고, 하트의 절충 이론을 소개한 뒤, 논쟁이 접점을 모색하는 방향으로 발전해 왔다는 방향성을 제시하므로 ⑤가 적절하다.",
+        "wrong": {
+          "1": "특정 이론의 발생 배경과 현대적 영향 분석이 아니다.",
+          "2": "귀납적 검토를 통한 새 원리 도출이 아니다.",
+          "3": "공통점 부각이 아니라 대립과 절충이 핵심이다.",
+          "5": "시대별 개념 변화 정리나 정의 확정 방식이 아니다."
+        },
+        "key_point": "대립(법 실증주의 vs 자연법론) → 절충(하트) → 발전 방향 제시의 3단계 논증 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify the contrast-synthesis-direction three-part structure and the role of Hart's theory?",
+        "key_signal_words": "반면, 이처럼 — contrast and summary connectors; 절충 — synthesis signal",
+        "common_mistake": "Treating Hart's position as a third independent theory rather than a synthesis bridging the two opposing camps",
+        "correct_answer_reasoning": "Choice 4 is correct. 지문은 법 실증주의(켈젠)와 자연법론(라드브루흐)의 핵심 주장을 대조하고, 하트의 절충 이론을 소개한 뒤, 논쟁이 접점을 모색하는 방향으로 발전해 왔다는 방향성을 제시하므로 ⑤가 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 특정 이론의 발생 배경과 현대적 영향 분석이 아니다. Choice 2 is incorrect: 귀납적 검토를 통한 새 원리 도출이 아니다. Choice 3 is incorrect: 공통점 부각이 아니라 대립과 절충이 핵심이다. Choice 5 is incorrect: 시대별 개념 변화 정리나 정의 확정 방식이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-12",
+      "type": "구조전개",
+      "difficulty": "hard",
+      "passage": "인식론에서 게티어 문제는 지식을 '정당화된 참인 믿음'으로 정의하는 전통적 입장에 치명적 반례를 제공한다. 게티어는 어떤 믿음이 참이고 정당화되었더라도 우연한 사정으로 그 정당화와 진리 사이의 연결이 끊어진 경우 그것을 지식으로 볼 수 없다고 논증했다. 이에 대응하여 인과적 이론은 믿음이 사실과 적절한 인과 관계로 연결되어야 지식이 된다고 보았다. 신뢰주의는 한 걸음 더 나아가 믿음이 신뢰할 수 있는 인지 과정에서 산출되었을 때 지식으로 인정될 수 있다고 주장한다. 그러나 두 이론 모두 어떤 인과 관계가 '적절'한지, 어떤 인지 과정이 '신뢰할 수 있는'지를 명확히 규정하기 어렵다는 공통적 한계를 안고 있다. 이는 지식의 정의 문제가 여전히 열린 철학적 과제임을 보여 준다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "철학적 문제가 제기된 배경을 서술하고, 기존 이론들에 대한 역사적 평가를 시간 순으로 정리하고 있다.",
+        "두 대립 이론의 논쟁 과정을 소개하고 제3의 절충 이론이 두 이론을 통합한다고 결론짓고 있다.",
+        "다수의 이론들을 나열하고 각각의 장점만을 부각하여 가장 우월한 이론을 선정하고 있다.",
+        "게티어 문제를 사례로 삼아 귀납적으로 지식의 새로운 정의를 도출하고 있다.",
+        "반례를 통해 기존 이론의 한계를 밝히고, 대안 이론들을 소개하되 그 공통 한계를 지적함으로써 문제의 미해결 상태를 드러내고 있다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 게티어 반례로 전통적 정의의 한계를 보인 뒤, 인과적 이론과 신뢰주의라는 대안을 소개하고, 두 이론이 공통 한계를 지닌다는 점을 지적하며 지식 문제가 미해결임을 드러내므로 ②가 적절하다.",
+        "wrong": {
+          "1": "역사적 평가의 시간 순 정리가 아니다.",
+          "2": "제3의 통합 이론이 제시되지 않으며, 오히려 미해결 상태로 끝난다.",
+          "3": "장점만 부각하여 우월 이론을 선정하지 않는다.",
+          "4": "귀납적으로 새 정의를 도출하지 않는다."
+        },
+        "key_point": "반례 제시 → 대안 이론 소개 → 공통 한계 지적 → 미해결 강조라는 복합 논증 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify the counter-example, two alternative theories, their shared limitation, and the open-ended conclusion?",
+        "key_signal_words": "그러나, 이는 — counter-move and summarizing conclusion signals",
+        "common_mistake": "Mistaking the two alternative theories for a contrast structure and missing that both ultimately share a critique",
+        "correct_answer_reasoning": "Choice 5 is correct. 지문은 게티어 반례로 전통적 정의의 한계를 보인 뒤, 인과적 이론과 신뢰주의라는 대안을 소개하고, 두 이론이 공통 한계를 지닌다는 점을 지적하며 지식 문제가 미해결임을 드러내므로 ②가 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 역사적 평가의 시간 순 정리가 아니다. Choice 2 is incorrect: 제3의 통합 이론이 제시되지 않으며, 오히려 미해결 상태로 끝난다. Choice 3 is incorrect: 장점만 부각하여 우월 이론을 선정하지 않는다. Choice 4 is incorrect: 귀납적으로 새 정의를 도출하지 않는다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-13",
+      "type": "구조전개",
+      "difficulty": "hard",
+      "passage": "언어 상대성 가설은 인간의 언어가 사고를 구조화한다는 주장으로, 강한 형태와 약한 형태로 구분된다. 사피어-워프 가설이라 불리는 강한 형태는 언어가 사고를 결정한다고 보아, 특정 언어 범주가 없는 개념은 그 언어를 사용하는 사람이 아예 생각할 수 없다고 주장한다. 그러나 이 주장은 색채 지각 연구에서 언어와 무관하게 유사한 색채 범주가 형성된다는 반증 사례로 인해 극단적이라는 비판을 받았다. 약한 형태는 언어가 사고를 완전히 결정하지는 않지만 사고에 영향을 미친다는 입장으로, 최근 뇌 영상 연구에서 공간 언어가 공간 인지에 영향을 미친다는 증거가 제시되며 지지를 얻고 있다. 이처럼 언어 상대성 가설은 처음의 강한 주장이 반증을 통해 약화된 후 경험적 연구로 재정립되는 과정을 밟고 있다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "언어 상대성 가설의 역사적 발생 배경을 서술하고 현대 사회에 미친 영향을 평가하고 있다.",
+        "강한 형태와 약한 형태를 대립시켜 각각의 우월성을 논증하고 최종 결론을 제시하고 있다.",
+        "반증 사례를 귀납적으로 분석하여 언어 상대성 가설을 완전히 기각하는 결론을 도출하고 있다.",
+        "가설의 두 형태를 소개하되, 강한 형태의 반증과 약한 형태의 경험적 지지를 대조하며 이론의 변화 과정을 서술하고 있다.",
+        "여러 연구자들의 생애를 소개하며 가설의 발전 과정을 인물 중심으로 서술하고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 언어 상대성 가설의 강한 형태와 약한 형태를 소개하고, 강한 형태가 반증에 의해 비판받은 것과 약한 형태가 경험적 연구로 지지를 받는 것을 대조하며 이론의 변화 과정을 서술하므로 ⑤가 적절하다.",
+        "wrong": {
+          "1": "역사적 배경이나 현대 사회 영향 평가가 아니다.",
+          "2": "한쪽의 우월성을 논증하거나 최종 결론을 제시하지 않는다.",
+          "3": "가설을 완전히 기각하지 않는다. 약한 형태는 여전히 지지를 받고 있다.",
+          "5": "인물 생애 소개 중심이 아니다."
+        },
+        "key_point": "강한 형태(반증) vs 약한 형태(경험적 지지)의 대조를 통해 이론 재정립 과정을 서술함을 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you map: strong form → counter-evidence → weak form → supporting evidence → theory revision narrative?",
+        "key_signal_words": "그러나, 이처럼 — marks the turn from refutation to revival; '재정립' — key structural signal",
+        "common_mistake": "Reading the passage as a simple 'comparison of two versions' and missing the narrative arc of refutation and empirical re-establishment",
+        "correct_answer_reasoning": "Choice 4 is correct. 지문은 언어 상대성 가설의 강한 형태와 약한 형태를 소개하고, 강한 형태가 반증에 의해 비판받은 것과 약한 형태가 경험적 연구로 지지를 받는 것을 대조하며 이론의 변화 과정을 서술하므로 ⑤가 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 역사적 배경이나 현대 사회 영향 평가가 아니다. Choice 2 is incorrect: 한쪽의 우월성을 논증하거나 최종 결론을 제시하지 않는다. Choice 3 is incorrect: 가설을 완전히 기각하지 않는다. 약한 형태는 여전히 지지를 받고 있다. Choice 5 is incorrect: 인물 생애 소개 중심이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-14",
+      "type": "구조전개",
+      "difficulty": "hard",
+      "passage": "복잡계 이론은 수많은 구성 요소들이 상호 작용하여 어느 단일 요소로도 환원할 수 없는 새로운 속성이 창발하는 시스템을 다루는 이론이다. 전통적인 환원주의 과학은 전체를 부분으로 나누어 이해하면 전체를 알 수 있다고 보았다. 그러나 복잡계에서는 개미 집단, 뇌의 신경망, 도시의 교통 패턴처럼 구성 요소들의 단순 합산으로 예측할 수 없는 거시적 패턴이 출현한다. 이 창발 현상은 하향식 인과성을 일으키기도 하는데, 전체 수준의 패턴이 역으로 개별 요소의 행동을 제약한다. 이에 따라 복잡계 이론은 물리학, 생물학, 경제학, 사회학을 가로지르는 통합 과학의 패러다임으로 부상하고 있다. 그러나 창발의 메커니즘을 수학적으로 엄밀하게 정식화하지 못한다는 점에서 이론적 완성도에 대한 비판도 제기된다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "전통 이론과의 대비를 통해 새 이론의 특성을 설명하고, 이론의 의의와 한계를 함께 제시하고 있다.",
+        "복잡계 이론의 다양한 정의들을 열거하고 가장 설득력 있는 정의를 선택하고 있다.",
+        "귀납적 사례 분석을 통해 창발 현상의 일반 법칙을 도출하고 있다.",
+        "복잡계 이론의 발전 과정을 시대 순으로 나열하고 각 단계의 핵심 기여자를 소개하고 있다.",
+        "복잡계 이론에 우호적인 입장과 비판적인 입장을 균등하게 대립시키며 독자의 판단을 유보하고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 환원주의(전통 이론)와의 대비를 통해 복잡계 이론의 창발·하향식 인과성 특성을 설명하고, 통합 과학 패러다임으로서의 의의와 수학적 정식화 미비라는 한계를 함께 제시하므로 ④이 적절하다.",
+        "wrong": {
+          "2": "다양한 정의 열거 및 선택 방식이 아니다.",
+          "3": "귀납적 사례 분석으로 일반 법칙을 도출하지 않는다.",
+          "4": "시대 순 나열이나 기여자 소개가 아니다.",
+          "5": "두 입장을 균등 대립시키는 구조가 아니다. 비판은 마지막에 간략히 제시된다."
+        },
+        "key_point": "대비(환원주의 vs 복잡계) → 이론의 의의 → 이론의 한계라는 3단계 논리 흐름을 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify the contrast with reductionism, the positive significance, and the critique as three distinct structural moves?",
+        "key_signal_words": "그러나(x2) — both mark critical turns; '부상하고 있다' vs '비판도 제기된다' — significance vs limitation",
+        "common_mistake": "Reading the final critique as creating a balanced debate structure rather than a brief limitation note appended to a largely expository argument",
+        "correct_answer_reasoning": "Choice 1 is correct. 지문은 환원주의(전통 이론)와의 대비를 통해 복잡계 이론의 창발·하향식 인과성 특성을 설명하고, 통합 과학 패러다임으로서의 의의와 수학적 정식화 미비라는 한계를 함께 제시하므로 ④이 적절하다.",
+        "distractor_analysis": "Choice 2 is incorrect: 다양한 정의 열거 및 선택 방식이 아니다. Choice 3 is incorrect: 귀납적 사례 분석으로 일반 법칙을 도출하지 않는다. Choice 4 is incorrect: 시대 순 나열이나 기여자 소개가 아니다. Choice 5 is incorrect: 두 입장을 균등 대립시키는 구조가 아니다. 비판은 마지막에 간략히 제시된다.",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-reading-5-15",
+      "type": "구조전개",
+      "difficulty": "hard",
+      "passage": "근대 이후 서구 윤리학은 크게 의무론과 결과론으로 분기되었다. 칸트의 의무론은 행위의 도덕성이 결과가 아닌 행위의 동기와 법칙 준수 여부에 달려 있다고 보아, 어떤 상황에서도 지켜야 할 보편적 도덕 법칙이 존재한다고 주장한다. 이에 반해 결과론은 행위의 선악을 결과의 유용성으로 판단하며, 공리주의가 그 대표적 입장이다. 두 입장이 첨예하게 대립하는 사례가 바로 거짓말 딜레마로, 무고한 사람을 구하기 위해 거짓말이 허용되느냐의 문제이다. 의무론은 어떤 경우에도 거짓말은 금지된다는 입장이고, 공리주의는 결과적으로 더 큰 행복을 가져오면 허용된다고 본다. 덕 윤리학은 이 딜레마에 대해 규칙 준수나 결과 계산보다 덕스러운 사람이라면 어떻게 행동할 것인가라는 질문이 더 본질적이라고 제안하며, 두 입장의 경직성을 비판한다.",
+      "question": "윗글의 내용 전개 방식으로 가장 적절한 것은?",
+      "choices": [
+        "두 이론의 역사적 발생 배경을 소개하고 각각의 시대적 의의를 평가하고 있다.",
+        "딜레마 사례에서 출발하여 각 이론이 딜레마를 해결하는 방식을 비교하고 가장 적절한 이론을 선택하고 있다.",
+        "다수의 이론을 귀납적으로 검토하여 통합적인 윤리 원리를 새롭게 도출하고 있다.",
+        "대립하는 두 이론의 공통점을 중심으로 두 이론을 통합할 수 있는 가능성을 탐색하고 있다.",
+        "두 대립 이론을 소개하고 구체적 사례로 대립 지점을 부각한 뒤, 제3의 이론이 두 이론의 한계를 비판하는 구조를 보이고 있다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "correct": "지문은 의무론과 결과론이라는 두 대립 이론을 소개하고, 거짓말 딜레마라는 구체적 사례로 대립 지점을 부각한 뒤, 덕 윤리학이 두 이론의 경직성을 비판하는 구조를 보이므로 ②가 적절하다.",
+        "wrong": {
+          "1": "역사적 발생 배경이나 시대적 의의 평가가 주된 방식이 아니다.",
+          "2": "딜레마 사례로 시작하지 않으며, 가장 적절한 이론을 선택하지도 않는다.",
+          "3": "귀납적으로 새 윤리 원리를 도출하지 않는다.",
+          "4": "두 이론의 공통점 탐색이나 통합 가능성 모색이 중심이 아니다."
+        },
+        "key_point": "두 이론 소개 → 구체 사례로 대립 부각 → 제3 이론의 비판이라는 3단계 논증 구조를 파악한다."
+      },
+      "self_check": {
+        "can_identify_structure": "Can you identify: two opposing theories → concrete dilemma case → third-theory critique as three structural moves?",
+        "key_signal_words": "이에 반해, 두 입장이 첨예하게 대립하는 사례, 덕 윤리학은 — contrast, case-introduction, and third-voice markers",
+        "common_mistake": "Assuming the dilemma is the starting point when in fact the theories are introduced first, making the dilemma a structural tool for contrast",
+        "correct_answer_reasoning": "Choice 5 is correct. 지문은 의무론과 결과론이라는 두 대립 이론을 소개하고, 거짓말 딜레마라는 구체적 사례로 대립 지점을 부각한 뒤, 덕 윤리학이 두 이론의 경직성을 비판하는 구조를 보이므로 ②가 적절하다.",
+        "distractor_analysis": "Choice 1 is incorrect: 역사적 발생 배경이나 시대적 의의 평가가 주된 방식이 아니다. Choice 2 is incorrect: 딜레마 사례로 시작하지 않으며, 가장 적절한 이론을 선택하지도 않는다. Choice 3 is incorrect: 귀납적으로 새 윤리 원리를 도출하지 않는다. Choice 4 is incorrect: 두 이론의 공통점 탐색이나 통합 가능성 모색이 중심이 아니다.",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

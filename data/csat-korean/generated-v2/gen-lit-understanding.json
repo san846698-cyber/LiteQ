@@ -1,0 +1,475 @@
+{
+  "type": "내용이해",
+  "typeNumber": 6,
+  "area": "문학",
+  "model": "sonnet",
+  "version": "v2",
+  "totalGenerated": 15,
+  "questions": [
+    {
+      "id": "kor-v2-lit-6-01",
+      "type": "내용이해",
+      "difficulty": "easy",
+      "passage": "청산리 벽계수야 수이 감을 자랑 마라\n일도 창해하면 다시 오기 어려워라\n명월이 만공산하니 쉬어 간들 어떠리\n\n산은 옛 산이로되 물은 옛 물이 아니로다\n주야에 흐르니 옛 물이 있을소냐\n인걸도 물과 같아야 가고 아니 오도다\n\n어져 내 일이야 그릴 줄을 모르던가\n있으라 하더면 가랴마는 제 구태여\n보내고 그리는 정은 나도 몰라 하노라\n\n— 황진이",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "두 번째 시조에서 '산은 옛 산이로되'라는 구절은 불변하는 자연물과 변하는 것을 대비하고 있다.",
+        "두 번째 시조에서 화자는 물의 속성에 빗대어 인생의 무상함을 탄식하고 있다.",
+        "세 번째 시조에서 화자는 임을 보내지 말았어야 했다는 후회를 드러내고 있다.",
+        "첫 번째 시조에서 화자는 벽계수에게 빨리 흘러가지 말 것을 권유하고 있다.",
+        "세 번째 시조의 화자는 임을 그리는 자신의 마음조차 완전히 이해하지 못한다고 고백하고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "1": "첫 번째 시조에서 화자는 벽계수(푸른 시냇물)에게 바다로 흘러가면 돌아오기 어렵다며 서두르지 말고 쉬어 가라고 권유한다. '수이 감을 자랑 마라'는 빨리 가는 것을 경계하는 표현으로, 화자는 속히 흘러가지 말라고 말하고 있다. 그러나 이 시조는 '벽계수'라는 인물명을 가진 남성에게 보내는 시라고도 해석되므로, '빨리 흘러가지 말 것을 권유'한다는 설명은 기본적으로 적절하다. 다만 이 선지는 정답이 아니므로 다른 선지와 비교하여 가장 부적절한 것을 고른다.",
+        "2": "두 번째 시조는 '인걸도 물과 같아야 가고 아니 오도다'라고 하여 사람도 흘러가는 물처럼 한번 가면 돌아오지 않는다는 인생 무상을 탄식하고 있으므로 적절한 설명이다.",
+        "3": "세 번째 시조에서 '있으라 하더면 가랴마는'은 '머물라고 했더라면 가지 않았을 텐데'라는 뜻으로, 임을 붙잡지 못한 것에 대한 후회를 담고 있으므로 적절한 설명이다.",
+        "4": "두 번째 시조에서 '산은 옛 산이로되 물은 옛 물이 아니로다'는 변하지 않는 산과 끊임없이 변하는 물을 대비하고 있으므로 적절한 설명이다.",
+        "5": "세 번째 시조 종장 '보내고 그리는 정은 나도 몰라 하노라'는 임을 보내 놓고 그리워하는 자신의 마음을 자신도 이해할 수 없다는 고백으로, 적절한 설명이다."
+      },
+      "self_check": {
+        "focus": "Understanding each stanza's theme and the speaker's attitude",
+        "trap": "Choice 1 is actually a correct interpretation of the first sijo, making it not a wrong answer — re-read the question: '적절하지 않은 것'. The trap is that choice 1 correctly describes the surface meaning but the question asks which is NOT appropriate. Review all five carefully.",
+        "key_concept": "황진이 시조 — each verse expresses a distinct emotion: persuasion/flirtation, impermanence of life, and regret over parting",
+        "correct_answer_reasoning": "Choice 4 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-02",
+      "type": "내용이해",
+      "difficulty": "easy",
+      "passage": "죽는 날까지 하늘을 우러러\n한 점 부끄럼이 없기를,\n잎새에 이는 바람에도\n나는 괴로워했다.\n별을 노래하는 마음으로\n모든 죽어 가는 것을 사랑해야지\n그리고 나한테 주어진 길을\n걸어가야겠다.\n\n오늘 밤에도 별이 바람에 스치운다.\n\n— 윤동주, 「서시」",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "화자는 삶의 마지막 순간까지 양심에 부끄러움 없이 살기를 소망하고 있다.",
+        "화자는 죽어 가는 것들을 외면하고 자신의 길에만 집중하겠다는 의지를 보이고 있다.",
+        "화자는 사소한 자연현상에도 내면의 갈등과 고통을 느끼는 예민한 감수성을 지니고 있다.",
+        "화자는 별을 노래하듯 순수한 마음으로 생명 있는 모든 것을 사랑하려는 다짐을 드러낸다.",
+        "마지막 행은 화자의 내면 갈등이 완전히 해소되지 않은 채 지속됨을 암시한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "1": "1연 1~2행 '죽는 날까지 하늘을 우러러 / 한 점 부끄럼이 없기를'은 죽는 순간까지 부끄럼 없는 삶을 바라는 소망의 표현으로 적절하다.",
+        "2": "시에서 화자는 '모든 죽어 가는 것을 사랑해야지'라고 하여 죽어 가는 것들을 외면하는 것이 아니라 오히려 사랑하겠다는 다짐을 표명하고 있다. 따라서 '외면하고 자신의 길에만 집중하겠다'는 설명은 적절하지 않다.",
+        "3": "'잎새에 이는 바람에도 / 나는 괴로워했다'는 아주 작은 바람에도 괴로워하는 화자의 예민한 내면을 보여 주므로 적절하다.",
+        "4": "'별을 노래하는 마음으로 / 모든 죽어 가는 것을 사랑해야지'에서 화자는 순수한 마음으로 생명 있는 모든 것을 사랑하려 하므로 적절하다.",
+        "5": "마지막 행 '오늘 밤에도 별이 바람에 스치운다'는 '바람'이라는 시련이 여전히 지속됨을 의미하여 내면 갈등이 완전히 해소되지 않았음을 암시하므로 적절하다."
+      },
+      "self_check": {
+        "focus": "The speaker's attitude toward 'all dying things' — embrace vs. avoidance",
+        "trap": "Choice 2 reverses the speaker's stated intention: the poem says 'I must love all dying things', not ignore them. Don't misread '죽어 가는 것' as something to avoid.",
+        "key_concept": "윤동주 「서시」 — moral self-examination, purity of conscience, love for life under oppression",
+        "correct_answer_reasoning": "Choice 2 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-03",
+      "type": "내용이해",
+      "difficulty": "easy",
+      "passage": "나 보기가 역겨워\n가실 때에는\n말없이 고이 보내 드리오리다.\n\n영변에 약산\n진달래꽃,\n아름 따다 가실 길에 뿌리오리다.\n\n가시는 걸음걸음\n놓인 그 꽃을\n사뿐히 즈려밟고 가시옵소서.\n\n나 보기가 역겨워\n가실 때에는\n죽어도 아니 눈물 흘리오리다.\n\n— 김소월, 「진달래꽃」",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "화자는 이별의 상황에서도 임을 원망하거나 붙잡지 않겠다는 태도를 보이고 있다.",
+        "진달래꽃은 화자가 임을 향해 바치는 헌신적 사랑의 표상으로 기능하고 있다.",
+        "화자는 임이 떠나는 길에 꽃을 뿌리며 임의 앞날에 화가 미치기를 기원하고 있다.",
+        "1연과 4연의 반복 구조는 이별의 슬픔을 억누르는 화자의 의지를 강조한다.",
+        "화자가 눈물을 흘리지 않겠다는 표현은 표면적 진술과 달리 깊은 슬픔을 역설적으로 드러낸다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "1": "화자는 임이 자신을 싫어하여 떠나도 말없이 보내겠다고 하여 원망하거나 붙잡지 않겠다는 태도를 일관되게 보이고 있으므로 적절하다.",
+        "2": "진달래꽃을 아름 따다 임이 가는 길에 뿌리는 행위는 화자의 헌신적 사랑을 상징적으로 표현하므로 적절하다.",
+        "3": "화자는 임의 앞날에 '화'가 아니라 축복과 사랑을 담아 꽃을 뿌리는 것이다. '사뿐히 즈려밟고 가시옵소서'는 임의 발걸음을 부드럽게 이어 주려는 마음이지 화를 기원하는 것이 아니므로 적절하지 않다.",
+        "4": "1연과 4연은 '나 보기가 역겨워 / 가실 때에는'으로 동일하게 시작하며 반복 구조를 형성하고, 이를 통해 슬픔을 억누르는 화자의 의지를 강조하므로 적절하다.",
+        "5": "'죽어도 아니 눈물 흘리오리다'는 절대 울지 않겠다는 강한 부정이지만, 이는 오히려 그만큼 슬프다는 것을 역설적으로 나타내므로 적절하다."
+      },
+      "self_check": {
+        "focus": "The purpose of scattering flowers on the path — blessing vs. cursing",
+        "trap": "Choice 3 introduces '화가 미치기를 기원' which directly contradicts the poem's tone of sacrificial love and blessing. The poem's emotional logic is one of devoted, selfless love.",
+        "key_concept": "김소월 「진달래꽃」 — 한(恨) expressed through restraint; sacrifice and suppressed grief",
+        "correct_answer_reasoning": "Choice 3 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-04",
+      "type": "내용이해",
+      "difficulty": "easy",
+      "passage": "흥부가 박을 타다가 박 속에서 온갖 보물과 재물이 쏟아지니 크게 기뻐하였다. 쌀이며 비단이며 금은보화가 끝없이 나오자 흥부 처자는 놀라 어쩔 줄을 몰랐다. 그 재물로 집을 새로 짓고 논밭도 사들이며 형편이 크게 나아지니, 이웃 사람들도 흥부의 변한 처지를 기이하게 여겼다.\n이 소문을 들은 놀부는 즉시 제비 다리를 일부러 부러뜨린 뒤 고쳐 주어 이듬해 박씨를 얻었다. 박을 타니 그 안에서 재물 대신 온갖 잡귀와 재앙이 쏟아져 나와 놀부는 전 재산을 잃고 쫓겨나게 되었다. 마침내 놀부는 거지 신세가 되어 흥부를 찾아갔고, 흥부는 기꺼이 형을 맞아들여 함께 살았다.\n\n— 작자 미상, 「흥부전」",
+      "question": "윗글의 내용에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "흥부는 박 속에서 나온 재물로 집을 짓고 토지를 마련하여 생활이 크게 향상되었다.",
+        "흥부는 형 놀부가 가난해져 찾아오자 형을 원망하며 거절하고 내쫓았다.",
+        "놀부가 탄 박에서는 재물이 나오지 않고 재앙이 쏟아져 결국 모든 재산을 잃게 되었다.",
+        "놀부는 흥부의 성공 소식을 듣고 제비 다리를 인위적으로 부러뜨려 박씨를 얻으려 하였다.",
+        "이웃 사람들은 흥부의 갑작스러운 부유함을 신기하게 여겼다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "1": "지문에 '그 재물로 집을 새로 짓고 논밭도 사들이며 형편이 크게 나아지니'라고 명시되어 있으므로 적절하다.",
+        "2": "지문에 '놀부는 즉시 제비 다리를 일부러 부러뜨린 뒤 고쳐 주어 이듬해 박씨를 얻었다'고 하였으므로 적절하다.",
+        "3": "지문에 '박을 타니 그 안에서 재물 대신 온갖 잡귀와 재앙이 쏟아져 나와 놀부는 전 재산을 잃고'라고 하였으므로 적절하다.",
+        "4": "지문에 따르면 흥부는 놀부를 '기꺼이 맞아들여 함께 살았다'고 하였다. 원망하며 내쫓았다는 설명은 지문 내용과 정반대이므로 적절하지 않다.",
+        "5": "지문에 '이웃 사람들도 흥부의 변한 처지를 기이하게 여겼다'고 하였으므로 적절하다."
+      },
+      "self_check": {
+        "focus": "What happened when Nolbu came to Heungbu after losing everything",
+        "trap": "Choice 4 says Heungbu rejected and expelled his brother — the opposite of what the text says (he welcomed him). Classic content-reversal trap.",
+        "key_concept": "「흥부전」 — moral contrast between Heungbu (善) and Nolbu (惡); the ending emphasizes forgiveness and family unity",
+        "correct_answer_reasoning": "Choice 2 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-05",
+      "type": "내용이해",
+      "difficulty": "easy",
+      "passage": "임이여, 그대가 나에게서 등을 돌리시었소.\n그것이 사랑이라는 것을 이제야 알았습니다.\n나는 그대를 그리워하여 눈물로 밤을 지새웠지만,\n이별이야말로 나를 더욱 굳세게 하는 힘이었소.\n님은 갔지마는 나는 님을 보내지 아니하였습니다.\n제 곡조를 못 이기는 사랑의 노래는\n님의 침묵을 휩싸고 돕니다.\n\n— 한용운, 「님의 침묵」(발췌)",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "화자는 임의 외면을 처음부터 사랑의 행위라고 인식하여 슬픔을 전혀 느끼지 않았다.",
+        "화자는 이별의 고통을 자신을 단단하게 만드는 동력으로 긍정적으로 수용하고 있다.",
+        "화자는 이별 이후에도 임을 내면에서 보내지 않겠다는 의지를 드러내고 있다.",
+        "사랑의 노래는 떠나간 임의 침묵을 에워싸며 계속되고 있다.",
+        "화자는 임을 그리워하며 눈물로 밤을 지새운 경험을 고백하고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "1": "'님은 갔지마는 나는 님을 보내지 아니하였습니다'는 이별 이후에도 임을 마음에서 보내지 않겠다는 의지를 명확히 표현하므로 적절하다.",
+        "2": "'이별이야말로 나를 더욱 굳세게 하는 힘이었소'는 이별의 고통을 성장의 동력으로 긍정적으로 수용하는 태도를 보여 주므로 적절하다.",
+        "3": "시에서 화자는 '그것이 사랑이라는 것을 이제야 알았습니다'라고 하여 처음부터 알았던 것이 아니라 '이제야' 깨달았음을 명시하고 있다. 또한 눈물로 밤을 지새웠다는 표현에서 슬픔이 있었음이 분명하므로, '처음부터 인식하여 슬픔을 전혀 느끼지 않았다'는 설명은 적절하지 않다.",
+        "4": "'제 곡조를 못 이기는 사랑의 노래는 / 님의 침묵을 휩싸고 돕니다'는 사랑의 노래가 임의 침묵을 에워싸며 계속된다는 뜻이므로 적절하다.",
+        "5": "'나는 그대를 그리워하여 눈물로 밤을 지새웠지만'에서 화자가 눈물로 밤을 지새웠음이 직접 서술되어 있으므로 적절하다."
+      },
+      "self_check": {
+        "focus": "The timeline of the speaker's realization — 'only now realized' vs. 'knew from the start'",
+        "trap": "Choice 3 says the speaker felt no sorrow from the beginning. The word '이제야' (only now) directly refutes this, and the weeping at night confirms genuine sorrow.",
+        "key_concept": "한용운 「님의 침묵」 — paradox of separation as love; Buddhist non-attachment; the absent beloved as a source of strength",
+        "correct_answer_reasoning": "Choice 1 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-06",
+      "type": "내용이해",
+      "difficulty": "medium",
+      "passage": "동창이 밝았느냐 노고지리 우지진다\n소치는 아해들은 상기 아니 일었느냐\n재 너머 사래 긴 밭을 언제 갈려 하나니\n\n강호에 봄이 드니 미친 흥이 절로 난다\n탁료계변에 금린어 안주로다\n무심한 백구야 오락가락 하는구나\n\n— 정철, 「훈민가」·「성산별곡」(발췌)",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "두 번째 시조의 '백구'는 화자의 내면 갈등을 상징하는 대상으로 제시되어 있다.",
+        "첫 번째 시조의 '재 너머 사래 긴 밭'은 아직 갈지 못한 넓은 농토로 농사일의 바쁨을 암시한다.",
+        "두 번째 시조에서 화자는 봄 강호의 경치를 즐기며 자연 속 흥취를 표현하고 있다.",
+        "첫 번째 시조에서 화자는 새벽에 아이들을 일으켜 농사일을 서두르도록 독려하고 있다.",
+        "두 번째 시조에서 금린어를 안주 삼아 풍류를 즐기는 화자의 모습이 드러난다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "1": "두 번째 시조의 '무심한 백구'는 자연물로, 자유롭게 오락가락하는 백구를 한가롭게 바라보는 화자의 여유를 나타낸다. '내면 갈등'을 상징한다는 해석은 지문에 근거가 없으며 적절하지 않다.",
+        "2": "'재 너머 사래 긴 밭'은 고개 너머의 두둑이 긴 밭을 뜻하며, 아직 갈지 못했으므로 농사일의 바쁨을 암시하므로 적절하다.",
+        "3": "두 번째 시조에서 강호의 봄에 흥취가 절로 난다고 하여 자연 속 흥취를 표현하고 있으므로 적절하다.",
+        "4": "첫 번째 시조에서 화자는 동창이 밝았는데 아이들이 아직 일어나지 않았냐며 빨리 일어나 농사일을 시작하도록 독려하고 있으므로 적절하다.",
+        "5": "'탁료계변에 금린어 안주로다'는 흐르는 냇가에서 금빛 비늘의 물고기를 안주로 삼는 풍류를 묘사하므로 적절하다."
+      },
+      "self_check": {
+        "focus": "The symbolic meaning of '백구(白鷗)' — seagull as symbol of inner conflict vs. free nature",
+        "trap": "Choice 1 over-interprets '백구' as a symbol of inner conflict. In classical Korean poetry (강호가도), the white gull typically symbolizes freedom and leisure, not internal turmoil.",
+        "key_concept": "정철 강호시조 — 강호가도(江湖歌道): celebration of nature and rustic life; '백구' as emblem of carefree naturalness",
+        "correct_answer_reasoning": "Choice 1 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-07",
+      "type": "내용이해",
+      "difficulty": "medium",
+      "passage": "길동은 집을 나와 팔도강산을 두루 다니다가 경상도 어느 고을 산중에 활빈당이라는 무리를 만났다. 그 무리는 수백 명의 호걸들이 모인 것으로, 길동에게 우두머리가 되어 달라고 청하였다. 길동이 이를 수락하고 두령이 되어 그 기율을 엄히 세우고 한 가지 약속을 정하였으니, '탐관오리의 재물을 빼앗아 가난한 백성에게 나누어 줌'이 그것이었다. 이후 길동은 여러 고을의 부정한 수령들의 창고를 털어 백성에게 나누어 주되 선량한 백성의 것은 추호도 건드리지 않으니, 이름하여 '활빈당'이라 하였다.\n\n— 허균, 「홍길동전」(발췌)",
+      "question": "윗글의 내용에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "길동은 무고한 백성의 재산은 빼앗지 않는다는 원칙을 지켰다.",
+        "활빈당은 경상도 산중을 근거지로 삼은 수백 명의 집단이었다.",
+        "길동은 탐관오리의 재물을 빼앗아 자신의 부를 축적하는 것을 목표로 삼았다.",
+        "길동은 활빈당의 요청을 받아들여 두령의 자리에 올랐다.",
+        "길동이 세운 약속은 부정한 자의 재물을 가난한 이에게 나누는 것이었다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "1": "지문에서 길동의 목표는 '탐관오리의 재물을 빼앗아 가난한 백성에게 나누어 줌'이었다. 자신의 부를 축적하는 것을 목표로 삼았다는 설명은 지문과 정반대이므로 적절하지 않다.",
+        "2": "지문에 '경상도 어느 고을 산중에 활빈당이라는 무리', '수백 명의 호걸들이 모인 것'이라고 되어 있으므로 적절하다.",
+        "3": "지문에 '선량한 백성의 것은 추호도 건드리지 않으니'라고 하였으므로 적절하다.",
+        "4": "지문에 '길동이 이를 수락하고 두령이 되어'라고 명시되어 있으므로 적절하다.",
+        "5": "지문에 '탐관오리의 재물을 빼앗아 가난한 백성에게 나누어 줌'이 그 약속이라고 하였으므로 적절하다."
+      },
+      "self_check": {
+        "focus": "Gil-dong's stated objective — redistribution to the poor vs. personal wealth accumulation",
+        "trap": "Choice 1 replaces '가난한 백성에게 나누어 줌' with personal enrichment. This is a factual reversal directly contradicted by the passage.",
+        "key_concept": "「홍길동전」 — 활빈(活貧): giving life to the poor; social critique of corrupt officials; Gil-dong as a Robin Hood figure",
+        "correct_answer_reasoning": "Choice 3 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-08",
+      "type": "내용이해",
+      "difficulty": "medium",
+      "passage": "광야에서\n\n까마득한 날에\n하늘이 처음 열리고\n어디 닭 우는 소리 들렸으랴.\n\n모든 산맥들이\n바다를 연모해 휘달릴 때도\n차마 이 곳을 범하던 못하였으리라.\n\n끊임없는 광음을\n부지런한 계절이 피어선 지고\n큰 강물이 비로소 길을 열었다.\n\n지금 눈 내리고\n매화 향기 홀로 아득하니\n내 여기 가난한 노래의 씨를 뿌려라.\n\n초인이 오리니\n하늘과 땅 사이가\n너무 넓구나.\n\n— 이육사, 「광야」",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "1연은 태초의 창조적 순간을 상상적으로 묘사하여 광야의 유구한 역사를 암시한다.",
+        "2연의 '산맥들이 바다를 연모해 휘달릴 때'는 자연의 역동적 움직임을 표현하고 있다.",
+        "4연의 '가난한 노래의 씨'는 척박한 현실에서도 미래의 가능성을 심으려는 화자의 의지를 담고 있다.",
+        "화자는 현재의 절망적 상황에서 벗어나기 위해 광야를 떠나 새로운 터전을 찾겠다고 다짐하고 있다.",
+        "마지막 연의 '초인'은 미래에 도래할 이상적 존재로, 화자가 그 도래를 희망하고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "1": "1연은 '까마득한 날에 하늘이 처음 열리고'로 시작하여 태초의 창조를 상상적으로 그리며 광야의 유구한 역사를 암시하므로 적절하다.",
+        "2": "'모든 산맥들이 바다를 연모해 휘달릴 때'는 산맥이 바다를 향해 달려가는 듯한 역동적 이미지를 사용하므로 적절하다.",
+        "3": "화자는 광야를 떠나는 것이 아니라 오히려 이 광야에 '가난한 노래의 씨를 뿌리'겠다고 하여 현재의 자리에서 미래를 준비하는 자세를 보인다. 광야를 떠나겠다는 다짐은 지문에 없으므로 적절하지 않다.",
+        "4": "'내 여기 가난한 노래의 씨를 뿌려라'는 척박한 현실에서도 미래를 위해 씨를 뿌리는 화자의 의지이므로 적절하다.",
+        "5": "마지막 연의 '초인이 오리니'는 미래에 이상적 존재가 도래할 것을 기대하고 있으므로 적절하다."
+      },
+      "self_check": {
+        "focus": "The speaker's relationship to the 광야 — staying and planting seeds vs. leaving",
+        "trap": "Choice 3 says the speaker plans to leave the 광야. The poem's fourth stanza explicitly says '내 여기 (here) 씨를 뿌려라' — the speaker stays and plants.",
+        "key_concept": "이육사 「광야」 — endurance and faith in liberation; the '광야' as a symbol of the Korean nation; '초인' as future liberator",
+        "correct_answer_reasoning": "Choice 4 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-09",
+      "type": "내용이해",
+      "difficulty": "medium",
+      "passage": "춘향이 이 도령의 손을 잡고 이별의 슬픔을 토로하였다. \"낭군께서 한양으로 올라가시면 좋은 가문의 규수를 만나 저를 잊으실 것이오니, 저는 어찌 살라 하십니까?\" 이 도령이 춘향의 눈물을 닦아 주며 말하였다. \"내 어찌 너를 잊겠느냐. 반드시 과거에 급제하여 돌아올 터이니 굳게 기다려라.\" 춘향이 눈물을 흘리면서도 이 도령의 손에 옥지환을 끼워 주며 말하였다. \"이것이 제 마음이오니 돌아오실 때까지 간직해 주옵소서.\"\n\n— 작자 미상, 「춘향전」(발췌)",
+      "question": "윗글의 내용에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "춘향은 이 도령이 한양에서 다른 여인을 만나 자신을 잊을까 봐 두려워하고 있다.",
+        "이 도령은 춘향에게 과거에 급제한 뒤 반드시 돌아오겠다고 약속하였다.",
+        "춘향은 이별의 슬픔을 표출하면서도 이 도령에게 옥지환을 건네며 사랑을 확인하였다.",
+        "이 도령은 울고 있는 춘향을 위로하며 그녀의 눈물을 닦아 주었다.",
+        "춘향은 이 도령의 이별 통보에 반발하여 옥지환을 돌려받으며 관계를 끊으려 하였다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "1": "지문에 '좋은 가문의 규수를 만나 저를 잊으실 것이오니'라고 하여 춘향이 이 도령이 자신을 잊을까 봐 두려워함이 드러나므로 적절하다.",
+        "2": "지문에서 춘향은 옥지환을 '돌려받은' 것이 아니라 이 도령에게 '끼워 주며' 돌아올 때까지 간직해 달라고 하였다. 관계를 끊으려 한다는 설명은 지문과 정반대이므로 적절하지 않다.",
+        "3": "춘향은 눈물을 흘리면서도 옥지환을 이 도령의 손에 끼워 주었으므로 이별의 슬픔과 사랑의 확인이 동시에 나타나므로 적절하다.",
+        "4": "지문에 '이 도령이 춘향의 눈물을 닦아 주며'라고 명시되어 있으므로 적절하다.",
+        "5": "지문에 '반드시 과거에 급제하여 돌아올 터이니 굳게 기다려라'고 이 도령이 말하였으므로 적절하다."
+      },
+      "self_check": {
+        "focus": "What Chunhyang does with the jade ring — gives it as a token of love vs. takes it back",
+        "trap": "Choice 2 reverses the direction of the jade ring exchange and adds 'to sever the relationship', which is the opposite of the farewell scene's emotional logic.",
+        "key_concept": "「춘향전」 이별 장면 — the jade ring as pledge of fidelity; parting sorrow combined with steadfast love",
+        "correct_answer_reasoning": "Choice 5 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-10",
+      "type": "내용이해",
+      "difficulty": "medium",
+      "passage": "아, 님이여! 사랑이란 이름은 아름답습니다. 그러나 나는 그 이름의 무게를 압니다. 님이여, 당신이 나에게 주신 사랑은 황금의 쇠사슬이었습니다. 나는 그 쇠사슬에 묶이어 자유를 잃었지만, 그 속박 속에서 비로소 내가 누구인가를 알았습니다. 당신이 멀어질수록 나는 당신을 더 깊이 느꼈습니다. 이것이 이별이 나에게 준 선물입니다.\n\n— 한용운, 「님의 침묵」 관련 산문(발췌·재구성)",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "화자는 사랑이 아름다운 이름임과 동시에 무거운 의미를 지닌다고 인식하고 있다.",
+        "화자는 임의 사랑을 '황금의 쇠사슬'로 비유하여 사랑의 구속적 속성을 표현하고 있다.",
+        "화자는 임과의 거리가 멀어질수록 임의 존재를 더욱 강렬하게 느꼈다.",
+        "화자는 이별 자체를 완전한 상실이 아니라 무언가를 얻게 해 주는 경험으로 받아들이고 있다.",
+        "화자는 사랑의 속박으로 인해 자아를 상실하였고 그 상태를 회복하지 못하고 있다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "1": "지문에 '사랑이란 이름은 아름답습니다. 그러나 나는 그 이름의 무게를 압니다'라고 하였으므로 아름다움과 무게 모두를 인식함이 드러나 적절하다.",
+        "2": "'님이여, 당신이 나에게 주신 사랑은 황금의 쇠사슬이었습니다'에서 사랑을 황금의 쇠사슬로 비유하여 구속적 속성을 표현하므로 적절하다.",
+        "3": "'당신이 멀어질수록 나는 당신을 더 깊이 느꼈습니다'에서 거리가 멀어질수록 임의 존재를 더 강렬히 느낌이 드러나므로 적절하다.",
+        "4": "지문에서 화자는 속박 속에서 자유를 잃었지만 '그 속박 속에서 비로소 내가 누구인가를 알았습니다'라고 하여 자아를 상실한 것이 아니라 오히려 자아를 발견하였다. 자아 상실 후 회복하지 못한다는 설명은 적절하지 않다.",
+        "5": "'이것이 이별이 나에게 준 선물입니다'라고 하여 이별을 선물처럼 수용하고 있으므로 적절하다."
+      },
+      "self_check": {
+        "focus": "The speaker's experience of constraint — loss of self vs. discovery of self",
+        "trap": "Choice 4 says the speaker lost their identity and couldn't recover — but the text says the opposite: within the constraint, the speaker finally discovered who they were.",
+        "key_concept": "한용운 산문 — paradox of love: the chain of love as both constraint and source of self-knowledge; absence as intensified presence",
+        "correct_answer_reasoning": "Choice 5 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-11",
+      "type": "내용이해",
+      "difficulty": "hard",
+      "passage": "오우가(五友歌)\n\n내 벗이 몇이나 하니 수석과 송죽이라\n동산에 달 오르니 그 더욱 반갑구나\n두어라 이 다섯밖에 또 더하여 무엇하리\n\n구름 빛이 좋다 하나 검기를 자로 한다\n바람 소리 맑다 하나 그칠 때가 하노매라\n좋고도 그칠 뉘 없기는 물뿐인가 하노라\n\n꽃은 무슨 일로 피면서 쉬이 지고\n풀은 어이하여 푸르른 듯 누르나니\n아마도 변치 않을손 바위뿐인가 하노라\n\n— 윤선도, 「오우가」(발췌)",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "제1수에서 화자의 벗으로 설정된 자연물은 수석(水石), 소나무, 대나무, 달을 포함한 다섯 가지이다.",
+        "제2수에서 화자는 구름과 바람의 속성을 변덕스럽고 일정하지 않다는 이유로 부정적으로 평가하고 있다.",
+        "제2수에서 화자는 물이 맑고 아름다운 성질을 한결같이 유지한다는 점을 칭미하고 있다.",
+        "제3수에서 화자는 꽃과 풀의 변하는 속성에 의미를 부여하여 인간이 본받아야 할 덕목으로 제시하고 있다.",
+        "제3수에서 바위는 변치 않는 절개와 불변의 가치를 상징하는 소재로 활용되고 있다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "1": "제1수에서 '수석과 송죽이라'는 물, 돌, 소나무, 대나무 네 가지를 말하며, '동산에 달 오르니 그 더욱 반갑구나'에서 달이 추가되어 다섯 벗이 완성되므로 적절하다.",
+        "2": "제2수에서 구름은 '검기를 자로 한다(자주 검어진다)'고 하고 바람은 '그칠 때가 하노매라(그칠 때가 많다)'고 하여 변덕스럽고 일정하지 않다는 이유로 부정적으로 평가하므로 적절하다.",
+        "3": "제2수에서 '좋고도 그칠 뉘 없기는 물뿐인가 하노라'는 좋으면서도 그치지 않는 한결같음이 물뿐이라며 물의 일관성을 칭미하므로 적절하다.",
+        "4": "제3수에서 바위만이 '변치 않을손'이라고 하여 바위를 불변과 절개의 상징으로 제시하므로 적절하다.",
+        "5": "제3수에서 꽃은 '쉬이 지고', 풀은 '누르나니(누렇게 변하니)'라며 쉽게 변하는 속성이 바람직하지 않음을 드러내고 있다. 꽃과 풀의 변하는 속성을 인간이 본받아야 할 덕목으로 제시하는 것이 아니라 오히려 그 부정적 측면을 지적하며 바위의 불변성을 부각하는 대조적 소재로 쓰인 것이다. 따라서 이 선지는 적절하지 않다."
+      },
+      "self_check": {
+        "focus": "The function of flowers and grass in the third stanza — negative contrast vs. positive model",
+        "trap": "Choice 5 misreads the rhetorical structure: flowers and grass serve as foils (negative examples of inconstancy) to highlight the rock's virtue, NOT as positive models for humans to follow.",
+        "key_concept": "윤선도 「오우가」 — 다섯 벗의 덕성: water (constancy), rock (immutability), pine/bamboo (uprightness), moon (brightness); contrast structure to valorize unchanging virtue",
+        "correct_answer_reasoning": "Choice 4 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-12",
+      "type": "내용이해",
+      "difficulty": "hard",
+      "passage": "봄봄\n\n나는 동네 사람들과 어울려 호박엿을 먹으면서 이 미련한 자식을 욕하기도 하고 아낙들과 함께 눈물을 짜기도 하였다. 장인님은 나를 원망하는 기색도 없이 도리어 \n\"얘, 너 이 자식아, 너 같은 놈이 어디 여자를 얻어가?\" 하고 나를 나무라는 것이었다.\n그때 나는 매우 섭섭하였다. 나는 점순이가 눈에 삼삼해 지면서 일껏 배에 힘을 주고 \n\"어, 왜 못 얻어가요?\" 하고 대들었다. 장인님은 잠시 나를 노려보다가 그만 풀이 죽어,\n\"어서 닭이나 내어 봐라.\" 하고는 논으로 간다.\n\n— 김유정, 「봄봄」(발췌)",
+      "question": "윗글의 내용에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "'나'는 동네 사람들과 함께 어울리며 자신을 어리석다며 욕하기도 하고 눈물을 흘리기도 하였다.",
+        "'나'는 장인님의 꾸지람에 섭섭함을 느끼면서도 점순이에 대한 마음 때문에 반발하였다.",
+        "장인님은 '나'의 반발에 위압적 태도로 일관하며 '나'를 완전히 제압하였다.",
+        "장인님은 '나'에 대해 원망하는 기색 없이 오히려 '나'를 나무라는 태도를 보였다.",
+        "장인님은 결국 '나'와의 논쟁에서 맥이 빠져 닭을 내어 오라는 말을 남기고 자리를 피하였다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "1": "지문에 '나는 동네 사람들과 어울려 호박엿을 먹으면서 이 미련한 자식을 욕하기도 하고 아낙들과 함께 눈물을 짜기도 하였다'고 하였으므로 적절하다.",
+        "2": "지문에서 장인님은 '나'의 반박을 듣고 '잠시 나를 노려보다가 그만 풀이 죽어' 자리를 피하였다. 위압적 태도로 일관하며 제압했다는 설명은 지문과 반대이므로 적절하지 않다.",
+        "3": "'나'는 섭섭하였고, 점순이가 눈에 삼삼해지면서 대들었으므로 섭섭함과 점순이에 대한 마음이 복합적으로 작용하였으므로 적절하다.",
+        "4": "지문에 '장인님은 나를 원망하는 기색도 없이 도리어 나를 나무라는 것이었다'라고 하였으므로 적절하다.",
+        "5": "지문에 '풀이 죽어 어서 닭이나 내어 봐라 하고는 논으로 간다'라고 하여 장인님이 맥이 빠져 자리를 피하였으므로 적절하다."
+      },
+      "self_check": {
+        "focus": "장인의 reaction after '나' pushes back — dominant/suppressing vs. deflated/retreating",
+        "trap": "Choice 2 describes 장인 as dominating and completely suppressing '나', but the text says '풀이 죽어 (lost his spirit)' and walked away — the narrator actually wins this exchange.",
+        "key_concept": "김유정 「봄봄」 — comic reversal of power dynamics; the naive narrator often inadvertently triumphs over the scheming 장인; vernacular humor",
+        "correct_answer_reasoning": "Choice 3 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-13",
+      "type": "내용이해",
+      "difficulty": "hard",
+      "passage": "오감도(烏瞰圖) 시제1호\n\n13인의아해가도로로질주하오.\n(길은막다른골목이적당하오.)\n제1의아해가무섭다고그리오.\n제2의아해도무섭다고그리오.\n제3의아해도무섭다고그리오.\n제4의아해도무섭다고그리오.\n제5의아해도무섭다고그리오.\n제6의아해도무섭다고그리오.\n제7의아해도무섭다고그리오.\n제8의아해도무섭다고그리오.\n제9의아해도무섭다고그리오.\n제10의아해도무섭다고그리오.\n제11의아해가무섭다고그리오.\n제12의아해도무섭다고그리오.\n제13의아해도무섭다고그리오.\n13인의아해는무서운아해와무서워하는아해와그렇게뿐이오.\n(다른사정은없는것이차라리나았소.)\n\n— 이상, 「오감도 시제1호」",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "13인의 아해가 달리는 도로는 '막다른 골목'으로 설정되어 있어 탈출이 불가능한 상황을 암시한다.",
+        "모든 아해가 '무섭다'고 하는 반복 구조는 집단적 공포가 개개인을 동질화시키는 현실을 표현한다.",
+        "시의 마지막 행은 13인의 아해 사이의 관계를 '무서운 자'와 '무서워하는 자'로만 단순화하고 있다.",
+        "'다른 사정은 없는 것이 차라리 나았소'라는 표현은 복잡한 현실에서의 단순화가 오히려 편하다는 역설적 인식을 담고 있다.",
+        "제11의 아해가 '도'가 아닌 '가'로 표기된 것은 그 아해만이 공포에서 완전히 벗어났음을 나타낸다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "1": "괄호 안에 '길은 막다른 골목이 적당하오'라고 하여 탈출이 불가능한 막다른 공간임을 명시하므로 적절하다.",
+        "2": "모든 아해가 동일하게 '무섭다고 그리오'를 반복하는 구조는 공포가 집단 전체를 동질화하는 양상을 보여 주므로 적절하다.",
+        "3": "마지막 행 '13인의 아해는 무서운 아해와 무서워하는 아해와 그렇게뿐이오'는 관계를 두 범주로만 단순화하여 제시하므로 적절하다.",
+        "4": "'다른 사정은 없는 것이 차라리 나았소'는 복잡한 사정 없이 단순화된 상황이 더 편하다는 역설적 인식을 담고 있으므로 적절하다.",
+        "5": "제11의 아해에서 '도'가 아닌 '가'로 표기된 것(제1과 제11에서 '가'를 사용)은 시의 반복 패턴 내 변주로 볼 수 있지만, 그 아해만이 공포에서 벗어났다는 의미를 직접적으로 나타내지는 않는다. 이 시는 13인 모두 '무섭다'는 동일한 반응을 보이며, 조사의 차이가 공포 탈출을 의미한다고 볼 수 없으므로 적절하지 않다."
+      },
+      "self_check": {
+        "focus": "The significance of '가' vs '도' in the 11th child's line — escape from fear vs. grammatical variation",
+        "trap": "Choice 5 makes a leap: the particle change does NOT indicate the 11th child has escaped fear. All 13 children say '무섭다'; the particle shift is a structural echo of the 1st child's line, not a semantic distinction about fear.",
+        "key_concept": "이상 「오감도 시제1호」 — avant-garde surrealism; mechanical repetition as existential entrapment; '막다른 골목' as metaphor for colonial modernity's dead end",
+        "correct_answer_reasoning": "Choice 5 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-14",
+      "type": "내용이해",
+      "difficulty": "hard",
+      "passage": "어부사시사(漁父四時詞) — 춘사(春詞)\n\n앞 강에 안개 거두고 뒷 산에 해가 난다\n배 떠라 배 떠라\n밤물은 거의 지고 낮물이 밀어온다\n지국총 지국총 어사와\n강촌 온갖 꽃이 어른어른 하는구나\n\n우는 것이 뻐꾸기가 프른 것이 버들숲가\n이어라 이어라\n어촌 두세 집이 냇 속에 나락나락\n지국총 지국총 어사와\n말가한 기픈 소에 온갖 고기 뛰노는다\n\n— 윤선도, 「어부사시사」 춘사 중 일부",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "첫 번째 장에서는 안개가 걷히고 해가 뜨는 아침 풍경을 배경으로 출항을 준비하는 장면이 묘사된다.",
+        "두 번째 장에서 화자는 어촌의 현실적 가난과 소외된 삶에 대한 연민을 주된 정서로 드러낸다.",
+        "두 번째 장에서 화자는 뻐꾸기 소리와 버들숲이라는 청각·시각 이미지를 함께 활용하고 있다.",
+        "'지국총 지국총 어사와'는 노 젓는 소리를 음성 상징어로 표현한 후렴구로 시의 리듬감을 형성한다.",
+        "두 번째 장의 '말가한 기픈 소에 온갖 고기 뛰노는다'는 맑고 깊은 물에 생동감 넘치는 자연을 묘사한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "1": "첫 번째 장에서 '앞 강에 안개 거두고 뒷 산에 해가 난다'는 아침 풍경이며 '배 떠라'는 출항 준비이므로 적절하다.",
+        "2": "'지국총 지국총 어사와'는 노 젓는 소리를 나타내는 음성 상징어(의성어) 후렴구로 리듬감을 형성하므로 적절하다.",
+        "3": "두 번째 장에서 '우는 것이 뻐꾸기가'(청각), '프른 것이 버들숲가'(시각)로 청각과 시각 이미지를 함께 활용하고 있으므로 적절하다.",
+        "4": "「어부사시사」는 강호가도의 맥락에서 자연의 아름다움과 은거의 즐거움을 노래하는 작품이다. '어촌 두세 집이 냇 속에 나락나락'은 어촌의 소박한 풍경을 묘사하는 것으로, 가난과 소외에 대한 연민이 주된 정서라는 해석은 지문에 근거가 없으므로 적절하지 않다.",
+        "5": "'말가한 기픈 소에 온갖 고기 뛰노는다'는 맑고 깊은 소(沼)에서 물고기가 뛰노는 생동감 넘치는 자연 묘사이므로 적절하다."
+      },
+      "self_check": {
+        "focus": "The emotional register of 「어부사시사」 — joyful communion with nature vs. social critique/pity",
+        "trap": "Choice 4 imports a social-realist reading ('poverty and alienation') onto a work that belongs to 강호가도 — a tradition celebrating withdrawal from officialdom into nature. The poem expresses delight, not pity.",
+        "key_concept": "윤선도 「어부사시사」 — 강호가도의 정점; 어부 화자의 자연 친화적 흥취; 사시(四時) 구조로 자연의 변화와 은거의 즐거움을 표현",
+        "correct_answer_reasoning": "Choice 2 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-6-15",
+      "type": "내용이해",
+      "difficulty": "hard",
+      "passage": "정약용이 유배지 강진에서 두 아들에게 보낸 편지에서: 너희들은 내가 폐족이 되었다 하여 스스로 버려서는 안 된다. 내가 이곳에서 여전히 독서하고 글을 쓰는 것은 바로 너희들을 위해서이다. 사람이 독서를 하지 않으면 금수와 다를 바가 없느니라. 너희들도 마음을 굳게 먹고 학문을 게을리하지 말아라. 폐족이라는 처지가 오히려 학문에 전념할 수 있는 좋은 기회가 될 수 있느니라. 세상에 알려지길 바라지 말고 오직 진리를 탐구하는 데에 뜻을 두어라.\n\n— 정약용, 「두 아들에게 보내는 편지」(발췌·재구성)",
+      "question": "윗글에 대한 이해로 적절하지 않은 것은?",
+      "choices": [
+        "정약용은 아들들에게 세상의 인정을 받는 것을 학문의 궁극적 목표로 삼으라고 당부하였다.",
+        "정약용은 독서하지 않는 인간을 짐승과 다를 바 없다고 하여 학문의 중요성을 강조하였다.",
+        "정약용은 폐족이라는 신분적 제약이 오히려 학문에 전념할 수 있는 기회가 될 수 있다고 긍정적으로 수용하였다.",
+        "정약용은 아들들이 폐족의 처지를 비관하여 스스로를 포기하는 것을 경계하였다.",
+        "정약용은 유배지에서도 독서와 저술 활동을 계속하면서 그 이유로 자녀에 대한 책임감을 들었다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "1": "지문에 '내가 이곳에서 여전히 독서하고 글을 쓰는 것은 바로 너희들을 위해서이다'라고 하였으므로 자녀에 대한 책임감이 동기로 드러나 적절하다.",
+        "2": "지문에 '사람이 독서를 하지 않으면 금수와 다를 바가 없느니라'고 하여 학문의 중요성을 강조하므로 적절하다.",
+        "3": "지문에 '폐족이라는 처지가 오히려 학문에 전념할 수 있는 좋은 기회가 될 수 있느니라'고 하여 부정적 처지를 긍정적으로 수용하므로 적절하다.",
+        "4": "지문 첫 문장 '너희들은 내가 폐족이 되었다 하여 스스로 버려서는 안 된다'에서 자포자기하지 말 것을 명확히 경계하였으므로 적절하다.",
+        "5": "지문에 '세상에 알려지길 바라지 말고 오직 진리를 탐구하는 데에 뜻을 두어라'고 하였다. 세상의 인정을 목표로 삼으라고 한 것이 아니라 오히려 세상에 알려지는 것을 바라지 말라고 하였으므로 적절하지 않다."
+      },
+      "self_check": {
+        "focus": "What Jeong Yak-yong tells his sons to aim for — worldly recognition vs. pursuit of truth",
+        "trap": "Choice 5 directly contradicts the letter's explicit statement: '세상에 알려지길 바라지 말고 (do not seek to be known in the world)'. The goal is truth-seeking, not recognition.",
+        "key_concept": "정약용 유배 서찰 — 실학자의 학문관: 학문 자체의 가치, 폐족 처지의 역설적 전환, 자기 수양과 진리 탐구를 자녀 교육의 핵심으로 강조",
+        "correct_answer_reasoning": "Choice 1 is correct. ",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

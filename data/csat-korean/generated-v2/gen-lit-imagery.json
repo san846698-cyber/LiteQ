@@ -1,0 +1,475 @@
+{
+  "type": "시어해석",
+  "typeNumber": 7,
+  "area": "문학",
+  "model": "sonnet",
+  "version": "v2",
+  "totalGenerated": 15,
+  "questions": [
+    {
+      "id": "kor-v2-lit-7-01",
+      "type": "시어해석",
+      "difficulty": "easy",
+      "passage": "청산리 벽계수야 수이 감을 자랑 마라\n일도 창해하면 다시 오기 어려워라\n㉠ 명월이 만공산하니 쉬어 간들 어떠리\n\n- 황진이 -",
+      "question": "윗글의 ㉠에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 시각적 심상을 통해 자연의 아름다운 정경을 형상화하고 있다.",
+        "㉠은 화자 자신을 '명월'로, 청자를 '공산'으로 비유한 표현이다.",
+        "㉠은 화자가 말을 걸고 있는 '벽계수'에게 머물기를 권유하는 이유로 제시되어 있다.",
+        "㉠은 벽계수가 떠나기보다 이 자리에 잠시 머무를 것을 설득하는 근거가 된다.",
+        "㉠에는 밝은 달빛이 온 산에 가득 찬 풍요로운 자연의 모습이 담겨 있다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "2": "㉠은 달빛과 산의 시각적 이미지이므로 적절하다.",
+        "3": "㉠은 달이 온 산에 가득 찼으니 쉬어 가기를 권하는 이유로 쓰였으므로 적절하다.",
+        "4": "㉠은 잠시 머물기를 권유하는 설득의 근거이므로 적절하다.",
+        "5": "달빛이 산에 가득 찬 풍요로운 자연의 모습이 담겨 있으므로 적절하다.",
+        "correct": "㉠ '명월이 만공산하니'는 밝은 달이 온 산에 가득 찬 아름다운 자연 정경을 묘사한 구절이다. 이 시는 황진이 자신을 '명월'에 비유했다는 해석이 있으나, ㉠의 구절 자체는 '청자(벽계수)를 공산으로 비유'하지 않는다. 벽계수는 청산리 계곡의 흐르는 물로, '공산'은 별도의 자연물이다. 따라서 1번은 '㉠이 청자를 공산으로 비유했다'고 했는데, 이 설명은 ㉠의 실제 의미와 다르므로 적절하지 않다."
+      },
+      "self_check": {
+        "concept": "Understanding metaphor and imagery in sijo",
+        "trap": "The poem implies Hwang Jini compares herself to the moon, but ㉠ itself does not explicitly equate the listener (byeokgyesu) with 'gongsan'",
+        "key_distinction": "The phrase describes scenery to justify the invitation; calling the listener 'gongsan' is an over-reading of ㉠ specifically",
+        "correct_answer_reasoning": "Choice 2 is correct. ㉠ '명월이 만공산하니'는 밝은 달이 온 산에 가득 찬 아름다운 자연 정경을 묘사한 구절이다. 이 시는 황진이 자신을 '명월'에 비유했다는 해석이 있으나, ㉠의 구절 자체는 '청자(벽계수)를 공산으로 비유'하지 않는다. 벽계수는 청산리 계곡의 흐르는 물로, '공산'은 별도의 자연물이다. 따라서 1번은 '㉠이 청자를 공산으로 비유했다'고 했는데, 이 설명은 ㉠의 실제 의미와 다르므로 적절하지 않다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-02",
+      "type": "시어해석",
+      "difficulty": "easy",
+      "passage": "어저 내 일이야 그릴 줄을 모르던가\n㉠ 이시라 하더면 가랴마는 제 구태여\n보내고 그리는 정은 나도 몰라 하노라\n\n- 황진이 -",
+      "question": "윗글의 ㉠에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 화자가 임을 보내기 전의 가정적 상황을 나타낸다.",
+        "㉠은 임이 떠난 현재의 처지를 더욱 안타깝게 느끼게 하는 기능을 한다.",
+        "㉠은 '이시라 하더면'이라는 조건절을 통해 현재의 이별과 대비되는 상황을 설정한다.",
+        "㉠은 임을 붙잡았다면 떠나지 않았을 것이라는 화자의 후회를 담고 있다.",
+        "㉠은 임과의 재회에 대한 화자의 강한 기대감을 직접적으로 표출한 구절이다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "1": "임을 붙잡지 않았던 과거의 가정적 상황을 나타내므로 적절하다.",
+        "3": "조건절로 현재 이별 상황과 대비되는 과거를 설정하므로 적절하다.",
+        "4": "붙잡았다면 가지 않았을 것이라는 후회가 담겨 있으므로 적절하다.",
+        "5": "㉠이 과거 가정을 제시함으로써 현재의 안타까움을 심화시키므로 적절하다.",
+        "correct": "㉠ '이시라 하더면 가랴마는'은 '머물러 있으라 했더라면 가지 않았을 것이지만'이라는 의미로, 과거에 붙잡았더라면 좋았을 것이라는 후회를 나타낸다. 이 구절에는 임과의 재회에 대한 기대감이 담겨 있지 않으며, 오히려 이미 떠나보낸 것에 대한 미련과 자책이 담겨 있다. 따라서 '재회에 대한 강한 기대감을 직접 표출'했다는 2번은 적절하지 않다."
+      },
+      "self_check": {
+        "concept": "Conditional clauses expressing regret vs. expectation of reunion",
+        "trap": "Students may confuse 'longing/regret' with 'hope for reunion'; ㉠ expresses retrospective regret, not anticipation",
+        "key_distinction": "The poem ends with 'I don't even understand my own feelings of longing after sending him away' — no reunion hope is expressed",
+        "correct_answer_reasoning": "Choice 5 is correct. ㉠ '이시라 하더면 가랴마는'은 '머물러 있으라 했더라면 가지 않았을 것이지만'이라는 의미로, 과거에 붙잡았더라면 좋았을 것이라는 후회를 나타낸다. 이 구절에는 임과의 재회에 대한 기대감이 담겨 있지 않으며, 오히려 이미 떠나보낸 것에 대한 미련과 자책이 담겨 있다. 따라서 '재회에 대한 강한 기대감을 직접 표출'했다는 2번은 적절하지 않다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-03",
+      "type": "시어해석",
+      "difficulty": "easy",
+      "passage": "동창이 밝았느냐 노고지리 우지진다\n㉠ 소치는 아해들은 상기 아니 일었느냐\n재 너머 사래 긴 밭을 언제 갈려 하나니\n\n- 정철 -",
+      "question": "윗글의 ㉠에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 농촌의 일상적인 아침 풍경을 구체적인 소재를 통해 나타내고 있다.",
+        "㉠은 화자가 아이들에게 질문하는 형식으로 부지런한 일상을 강조하고 있다.",
+        "㉠은 '동창이 밝았느냐'와 연결되어 이른 아침의 시간적 배경을 구체화한다.",
+        "㉠은 아이들이 아직 일어나지 않은 것을 나무라는 화자의 엄격한 도덕적 훈계를 담고 있다.",
+        "㉠은 마지막 행의 '밭을 갈아야 한다'는 내용과 연결되어 부지런한 노동의 필요성을 강조한다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "2": "질문 형식으로 근면함을 강조하므로 적절하다.",
+        "3": "동창이 밝았다는 내용과 연결되어 이른 아침 시간을 구체화하므로 적절하다.",
+        "4": "소치는 아이라는 구체적 소재로 농촌 아침 풍경을 나타내므로 적절하다.",
+        "5": "일꾼들을 깨워 밭을 갈아야 한다는 내용과 연결되므로 적절하다.",
+        "correct": "㉠은 소를 치는 아이들에게 아직 일어나지 않았냐고 묻는 구절로, 이른 아침부터 일어나 일해야 한다는 농촌의 근면한 삶을 나타낸다. 그러나 이 물음에는 엄격한 도덕적 훈계보다는 농촌 생활의 실용적 필요성과 정겨운 독려의 뉘앙스가 강하다. '엄격한 도덕적 훈계'라는 표현은 ㉠의 성격을 과도하게 규정한 것이다."
+      },
+      "self_check": {
+        "concept": "Tone of a pastoral sijo — encouragement vs. moral lecturing",
+        "trap": "The poem urges early rising for practical farming reasons; labeling it 'strict moral admonishment' mischaracterizes the warm, practical tone",
+        "key_distinction": "Jeong Cheol's agricultural sijo typically reflects a practical, communal rural ethos rather than top-down moral instruction",
+        "correct_answer_reasoning": "Choice 4 is correct. ㉠은 소를 치는 아이들에게 아직 일어나지 않았냐고 묻는 구절로, 이른 아침부터 일어나 일해야 한다는 농촌의 근면한 삶을 나타낸다. 그러나 이 물음에는 엄격한 도덕적 훈계보다는 농촌 생활의 실용적 필요성과 정겨운 독려의 뉘앙스가 강하다. '엄격한 도덕적 훈계'라는 표현은 ㉠의 성격을 과도하게 규정한 것이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-04",
+      "type": "시어해석",
+      "difficulty": "easy",
+      "passage": "산은 옛 산이로되 물은 옛 물이 아니로다\n주야에 흐르거니 옛 물이 있을쏘냐\n㉠ 인걸도 물과 같도다 가고 아니 오도다\n\n- 황진이 -",
+      "question": "윗글의 ㉠에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 자연의 변화와 인간사의 변화를 대비시켜 자연의 영속성을 예찬하는 구절이다.",
+        "㉠은 '산은 옛 산이로되 물은 옛 물이 아니로다'에서 이끌어낸 시적 결론에 해당한다.",
+        "㉠은 흘러가는 물처럼 훌륭한 사람도 한번 가면 돌아오지 않는다는 상실감을 담고 있다.",
+        "㉠은 시간의 흐름에 따른 인간의 유한성과 무상(無常)을 자연물에 빗대어 표현하고 있다.",
+        "㉠은 인재(人傑)의 덧없음을 물의 흐름에 비유하여 형상화하고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "1": "인재의 덧없음을 물의 흐름에 비유한 것이므로 적절하다.",
+        "2": "앞 두 행의 자연 관찰에서 이끌어낸 결론이므로 적절하다.",
+        "3": "한번 가면 돌아오지 않는 인재에 대한 상실감이 담겨 있으므로 적절하다.",
+        "4": "인간의 유한성을 자연물(물)에 빗대었으므로 적절하다.",
+        "correct": "㉠은 물처럼 훌륭한 인재도 가고 오지 않는다는 뜻으로, 인간의 유한성과 덧없음을 물에 비유한 것이다. 이 구절은 자연의 영속성을 예찬하는 것이 아니라, 오히려 변하지 않는 산과 달리 물처럼 흘러가 돌아오지 않는 인재의 무상함을 탄식하는 내용이다. '자연의 영속성 예찬'이라는 해석은 ㉠의 의도와 반대된다."
+      },
+      "self_check": {
+        "concept": "The purpose of the nature-human analogy: lamenting human transience, NOT praising nature's permanence",
+        "trap": "The mountain is unchanging (permanence) but the poem uses that contrast to highlight how people — like water — pass away; the focus is on human loss",
+        "key_distinction": "The emotional core is 탄식 (lamentation), not 예찬 (praise)",
+        "correct_answer_reasoning": "Choice 1 is correct. ㉠은 물처럼 훌륭한 인재도 가고 오지 않는다는 뜻으로, 인간의 유한성과 덧없음을 물에 비유한 것이다. 이 구절은 자연의 영속성을 예찬하는 것이 아니라, 오히려 변하지 않는 산과 달리 물처럼 흘러가 돌아오지 않는 인재의 무상함을 탄식하는 내용이다. '자연의 영속성 예찬'이라는 해석은 ㉠의 의도와 반대된다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-05",
+      "type": "시어해석",
+      "difficulty": "easy",
+      "passage": "내 마음 베어 내어 ㉠ 저 달을 만들고져\n구만리 장천에 번듯이 걸려 있어\n고운 님 계신 곳에 가 비추어나 보리라\n\n- 정철 -",
+      "question": "윗글의 ㉠에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 화자 자신의 외로운 처지를 위로해 주는 존재로 기능하고 있다.",
+        "㉠은 화자가 임에게 닿고 싶은 간절한 마음을 형상화하는 소재이다.",
+        "㉠은 화자의 마음을 달로 변신시키고 싶다는 상상력이 담긴 시어이다.",
+        "㉠은 화자와 임 사이의 거리를 좁혀 주는 매개체 역할을 한다.",
+        "㉠은 멀리 있는 임에게 자신의 마음을 전하려는 화자의 소망이 투영된 대상이다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "2": "임에게 닿고 싶은 간절한 마음을 달로 표현했으므로 적절하다.",
+        "3": "마음을 베어 달로 만들겠다는 상상이 담겨 있으므로 적절하다.",
+        "4": "달이 임이 있는 곳을 비추어 화자와 임을 이어주므로 적절하다.",
+        "5": "임에게 자신의 마음을 전하려는 소망이 달에 투영되어 있으므로 적절하다.",
+        "correct": "㉠ '저 달'은 화자가 자신의 마음을 달로 만들어 임이 계신 곳을 비추고 싶다는 내용에 등장하는 소재이다. 이 달은 화자를 위로하는 존재가 아니라, 화자의 마음을 담아 임에게 전달하려는 수단으로 기능한다. '화자를 위로하는 존재'라는 설명은 ㉠의 역할과 다르다."
+      },
+      "self_check": {
+        "concept": "The moon as a medium for the speaker's longing directed outward toward the beloved, not inward as comfort",
+        "trap": "The moon often comforts lonely speakers in classical poetry, but here it is explicitly a vehicle to 'reach' the beloved — the direction of function is opposite",
+        "key_distinction": "The action is '비추어나 보리라' (shine upon the beloved's place) — the moon serves the speaker's desire to connect, not to console",
+        "correct_answer_reasoning": "Choice 1 is correct. ㉠ '저 달'은 화자가 자신의 마음을 달로 만들어 임이 계신 곳을 비추고 싶다는 내용에 등장하는 소재이다. 이 달은 화자를 위로하는 존재가 아니라, 화자의 마음을 담아 임에게 전달하려는 수단으로 기능한다. '화자를 위로하는 존재'라는 설명은 ㉠의 역할과 다르다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-06",
+      "type": "시어해석",
+      "difficulty": "medium",
+      "passage": "추풍에 지는 잎은 어디서 오란 말가\n㉠ 낙낙장송이 다 기울어 가노매라\n㉡ 하물며 못다 핀 꽃이야 일러 무엇하리오\n\n- 이황 -\n\n[주] 낙낙장송: 가지가 길게 늘어진 키 큰 소나무",
+      "question": "윗글의 ㉠~㉡에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠과 ㉡은 모두 세태(世態)의 혼란에 대한 화자의 근심을 자연물로 형상화한 것이다.",
+        "㉡은 ㉠보다 더욱 연약한 존재가 처한 위태로운 상황을 강조하며 탄식을 심화시킨다.",
+        "㉠은 세상의 변화 앞에 굳건해야 할 존재조차 흔들리고 있음을 비유적으로 나타낸다.",
+        "㉠의 '낙낙장송'은 힘이 있는 인물을, ㉡의 '못다 핀 꽃'은 아직 성장 중인 인물을 의미한다.",
+        "㉠과 ㉡은 점층적 구조를 이루며 화자의 절박한 심정을 고조시키고 있다."
+      ],
+      "answer": 1,
+      "points": 2,
+      "explanations": {
+        "1": "굳건해야 할 낙낙장송이 기울어 간다는 것은 강한 존재도 흔들림을 비유하므로 적절하다.",
+        "2": "㉡은 ㉠보다 더욱 약한 존재의 위기를 통해 탄식을 심화시키므로 적절하다.",
+        "4": "낙낙장송은 굳건한 인물, 못다 핀 꽃은 아직 미성숙한 인물의 비유이므로 적절하다.",
+        "5": "강한 것도 기울고 약한 것은 더욱 위태롭다는 점층 구조가 절박함을 고조시키므로 적절하다.",
+        "correct": "㉠의 낙낙장송은 굳건한 지조를 지닌 인물을, ㉡의 못다 핀 꽃은 아직 성장하지 못한 인재나 선비를 비유적으로 가리킨다. 이 시는 세태의 혼란보다는 성리학적 맥락에서 군자의 지조가 흔들리고 유능한 인재가 꺾여 가는 것에 대한 탄식으로 읽힌다. ㉠과 ㉡이 모두 단순히 '세태 혼란'을 나타낸다는 설명은 각 소재의 구체적 비유 의미를 무시한 지나치게 단순화된 해석이다."
+      },
+      "self_check": {
+        "concept": "Metaphorical layering in Sijo: the pine and the blossom represent specific human qualities, not just general social disorder",
+        "trap": "Labeling both images simply as 'social chaos' flattens the specific figurative meaning each carries",
+        "key_distinction": "Pine = steadfast integrity under threat; unblossomed flower = unfulfilled potential/talent — both are human allegories, not mere descriptions of the times",
+        "correct_answer_reasoning": "Choice 1 is correct. ㉠의 낙낙장송은 굳건한 지조를 지닌 인물을, ㉡의 못다 핀 꽃은 아직 성장하지 못한 인재나 선비를 비유적으로 가리킨다. 이 시는 세태의 혼란보다는 성리학적 맥락에서 군자의 지조가 흔들리고 유능한 인재가 꺾여 가는 것에 대한 탄식으로 읽힌다. ㉠과 ㉡이 모두 단순히 '세태 혼란'을 나타낸다는 설명은 각 소재의 구체적 비유 의미를 무시한 지나치게 단순화된 해석이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-07",
+      "type": "시어해석",
+      "difficulty": "medium",
+      "passage": "청초 우거진 골에 자난다 누웠는다\n홍안은 어디 두고 ㉠ 백골만 묻혔는다\n㉡ 잔 잡아 권할 이 없으니 그를 슬허하노라\n\n- 임제(林悌) (황진이 무덤 앞에서) -",
+      "question": "윗글의 ㉠~㉡에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠의 '백골'은 '홍안'과 대비되어 죽음의 비극성과 허망함을 강조한다.",
+        "㉡의 '잔 잡아 권할 이 없으니'는 죽은 이에 대한 제의(祭儀)적 행위를 통해 연민을 나타낸다.",
+        "㉠과 ㉡을 통해 화자는 황진이의 아름다움과 재능을 기리며 안타까움을 표현한다.",
+        "㉡은 화자가 무덤 앞에 홀로 서 있는 쓸쓸한 처지를 직접적으로 드러낸다.",
+        "㉠은 죽은 이의 육체적 아름다움이 사라진 것을 탄식하며, ㉡은 화자 자신의 쓸쓸함을 토로한다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "1": "홍안(붉은 얼굴 = 아름다움)과 백골(죽음)의 대비로 허망함을 강조하므로 적절하다.",
+        "3": "황진이의 아름다움을 '홍안'으로, 재능 있는 삶의 끝을 '백골'로 기리므로 적절하다.",
+        "4": "잔을 권할 이 없다는 것이 화자의 홀로된 쓸쓸함을 드러내므로 적절하다.",
+        "5": "㉠은 육체적 아름다움의 소멸, ㉡은 화자 자신의 고독함을 나타내므로 적절하다.",
+        "correct": "㉡ '잔 잡아 권할 이 없으니'는 술잔을 권할 상대(황진이)가 이미 죽어서 없다는 의미로, 죽은 이의 부재에 대한 슬픔을 나타낸다. 이 구절은 제의적 행위를 통한 연민을 나타낸다기보다, 함께 술잔을 나누고 싶지만 그럴 수 없는 상황에서 오는 고독과 애도를 표현한다. '제의(祭儀)적 행위'로 해석하는 것은 지나치게 확대된 해석이며, 이 구절의 핵심은 '나눌 상대가 없음'에서 비롯되는 슬픔이다."
+      },
+      "self_check": {
+        "concept": "Distinguishing grief expressed through the image of sharing wine vs. ritual offering",
+        "trap": "The wine cup could suggest a ritual, but the emotional core is '권할 이 없으니' — no one to share with, emphasizing loneliness of the living, not piety toward the dead",
+        "key_distinction": "This is a lament for lost companionship, not a formal memorial ritual",
+        "correct_answer_reasoning": "Choice 2 is correct. ㉡ '잔 잡아 권할 이 없으니'는 술잔을 권할 상대(황진이)가 이미 죽어서 없다는 의미로, 죽은 이의 부재에 대한 슬픔을 나타낸다. 이 구절은 제의적 행위를 통한 연민을 나타낸다기보다, 함께 술잔을 나누고 싶지만 그럴 수 없는 상황에서 오는 고독과 애도를 표현한다. '제의(祭儀)적 행위'로 해석하는 것은 지나치게 확대된 해석이며, 이 구절의 핵심은 '나눌 상대가 없음'에서 비롯되는 슬픔이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-08",
+      "type": "시어해석",
+      "difficulty": "medium",
+      "passage": "나는 나룻배\n당신은 행인\n\n당신은 흙발로 나를 짓밟습니다\n나는 당신을 안고 물을 건너갑니다\n\n나는 당신을 안으면 깊으나 얕으나 급한 여울이나 건너갑니다\n\n㉠ 만일 당신이 아니 오시면 나는 바람을 쐬고 눈비를 맞으며\n㉡ 밤에서 낮까지 당신을 기다리고 있습니다\n\n㉢ 당신은 물만 건너면 나를 돌아보지도 않고 가십니다그려\n그러나 ㉣ 당신이 언제든지 오실 줄만은 알아요\n나는 당신을 기다리면서 날마다 ㉤ 낡아 갑니다\n\n- 한용운, 「나룻배와 행인」 -",
+      "question": "윗글의 ㉠~㉤에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 임의 부재(不在) 상황에서도 화자가 희망을 버리지 않고 기다림을 지속함을 나타낸다.",
+        "㉡은 낮과 밤의 시간적 순환을 통해 화자의 기다림이 끊임없이 이어지고 있음을 강조한다.",
+        "㉤의 '낡아 갑니다'는 화자가 임에 대한 믿음을 잃어 가고 있음을 의미한다.",
+        "㉣은 임이 반드시 돌아올 것이라는 화자의 확신을 나타내며 기다림의 근거가 된다.",
+        "㉢은 임이 화자에게 무관심한 태도를 보임으로써 화자의 헌신이 일방적임을 드러낸다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "1": "임이 오지 않아도 기다림을 지속하며 희망을 버리지 않으므로 적절하다.",
+        "2": "밤에서 낮까지 쉬지 않고 기다린다는 표현으로 끊임없는 기다림을 강조하므로 적절하다.",
+        "3": "물을 건너고 나서 돌아보지 않는 임의 태도로 일방적 헌신을 드러내므로 적절하다.",
+        "4": "언제든지 오실 줄 안다는 확신이 기다림의 근거가 되므로 적절하다.",
+        "correct": "㉤ '낡아 갑니다'는 오랜 기다림과 헌신으로 화자의 몸이 닳아 가는 것을 표현한 것으로, 희생적 사랑의 고통과 희생을 나타낸다. 이것은 임에 대한 믿음이 사라지는 것이 아니라, 오히려 기다림을 멈추지 않기 때문에 낡아 가는 것이다. 따라서 '믿음을 잃어 가고 있다'는 해석은 시의 의미와 정반대이다."
+      },
+      "self_check": {
+        "concept": "The erosion metaphor in Han Yong-un: self-sacrifice, not loss of faith",
+        "trap": "'낡아 갑니다' might seem like deterioration of will, but in context it follows the affirmation '당신이 언제든지 오실 줄만은 알아요' — confidence is intact",
+        "key_distinction": "The wearing down is physical/temporal sacrifice for unwavering devotion, not spiritual doubt",
+        "correct_answer_reasoning": "Choice 3 is correct. ㉤ '낡아 갑니다'는 오랜 기다림과 헌신으로 화자의 몸이 닳아 가는 것을 표현한 것으로, 희생적 사랑의 고통과 희생을 나타낸다. 이것은 임에 대한 믿음이 사라지는 것이 아니라, 오히려 기다림을 멈추지 않기 때문에 낡아 가는 것이다. 따라서 '믿음을 잃어 가고 있다'는 해석은 시의 의미와 정반대이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-09",
+      "type": "시어해석",
+      "difficulty": "medium",
+      "passage": "죽는 날까지 하늘을 우러러\n한 점 부끄럼이 없기를,\n잎새에 이는 ㉠ 바람에도\n나는 괴로워했다.\n\n별을 노래하는 마음으로\n모든 죽어 가는 것을 사랑해야지\n그리고 ㉡ 나에게 주어진 길을\n걸어가야겠다.\n\n오늘 밤에도 ㉢ 별이 바람에 스치운다.\n\n- 윤동주, 「서시」 -",
+      "question": "윗글의 ㉠~㉢에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠의 '바람'은 화자가 극도로 예민한 양심을 지니고 있음을 나타내는 소재로, 작은 자극에도 마음이 흔들림을 보여 준다.",
+        "㉡의 '나에게 주어진 길'은 화자가 시대와 양심에 따라 감당해야 할 삶의 사명을 의미한다.",
+        "㉡은 화자의 미래 지향적 의지와 결단이 담긴 구절로, 수동적 운명이 아닌 능동적 선택을 나타낸다.",
+        "㉢의 '별이 바람에 스치운다'는 화자가 지향하는 순수한 이상이 현실의 시련에 흔들리는 상황을 암시한다.",
+        "㉠과 ㉢의 '바람'은 동일한 의미로, 모두 화자의 내면을 위로하는 자연의 힘을 상징한다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "1": "잎새에 이는 바람조차 괴로워했다는 표현으로 극도로 예민한 양심을 나타내므로 적절하다.",
+        "2": "나에게 주어진 길은 시대와 양심에 따른 사명이므로 적절하다.",
+        "4": "별이 바람에 스치운다는 것은 이상이 시련에 흔들리는 상황을 암시하므로 적절하다.",
+        "5": "걸어가야겠다는 의지적 표현으로 능동적 선택과 결단을 나타내므로 적절하다.",
+        "correct": "㉠의 '바람'은 화자를 괴롭히는 양심의 작은 시험이나 외부의 자극을 의미하고, ㉢의 '바람에 스치운다'는 이상(별)이 현실의 시련에 흔들리는 상황을 암시한다. 두 '바람'은 모두 부정적 외압 또는 시련의 의미를 지니므로, '화자의 내면을 위로하는 자연의 힘'이라는 해석은 적절하지 않다."
+      },
+      "self_check": {
+        "concept": "The symbolic function of '바람' in Yun Dong-ju — obstacle/trial, not comfort",
+        "trap": "Wind in Korean poetry can be refreshing or comforting, but in this poem it represents moral turbulence and historical adversity",
+        "key_distinction": "Both instances of 바람 cause 괴로움 or disturb 별 — the emotional valence is consistently one of external pressure, not consolation",
+        "correct_answer_reasoning": "Choice 5 is correct. ㉠의 '바람'은 화자를 괴롭히는 양심의 작은 시험이나 외부의 자극을 의미하고, ㉢의 '바람에 스치운다'는 이상(별)이 현실의 시련에 흔들리는 상황을 암시한다. 두 '바람'은 모두 부정적 외압 또는 시련의 의미를 지니므로, '화자의 내면을 위로하는 자연의 힘'이라는 해석은 적절하지 않다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-10",
+      "type": "시어해석",
+      "difficulty": "medium",
+      "passage": "님은 갔습니다. 아아, 사랑하는 나의 님은 갔습니다.\n푸른 산빛을 깨치고 단풍나무 숲을 향하여 난 작은 길을 걸어서,\n㉠ 차마 떨치고 갔습니다.\n\n황금의 꽃같이 굳고 빛나던 옛 맹세는 차디찬 티끌이 되어서\n한숨의 미풍에 날아갔습니다.\n\n나는 향기로운 님의 말소리에 귀먹고\n㉡ 꽃다운 님의 얼굴에 눈멀었습니다.\n\n사랑도 사람의 일이라\n㉢ 만날 때에 떠날 것을 염려하고 경계하지 아니한 것은 아니지만,\n이별은 뜻밖의 일이 되고 놀란 가슴은 새로운 슬픔에 터집니다.\n\n그러나 ㉣ 이별이 없는 만남이야 있으랴.\n만남이 없는 이별도 없으리니,\n㉤ 아아, 님은 갔지마는 나는 님을 보내지 아니하였습니다.\n\n- 한용운, 「님의 침묵」 -",
+      "question": "윗글의 ㉠~㉤에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠의 '차마 떨치고 갔습니다'는 님의 이별이 화자의 의지와 무관하게 일방적으로 이루어졌음을 나타낸다.",
+        "㉣은 만남과 이별의 필연적 관계를 제시하여 화자가 이별의 슬픔을 완전히 극복했음을 선언한다.",
+        "㉢은 화자가 이별을 예상하고 있었으나 막상 현실이 되자 더 큰 충격이 왔음을 나타낸다.",
+        "㉡은 님의 존재가 화자의 감각을 압도할 만큼 절대적이었음을 역설적으로 표현한다.",
+        "㉤은 님이 육체적으로 떠났음에도 불구하고 화자의 내면에서 님과의 관계를 지속하겠다는 의지를 나타낸다."
+      ],
+      "answer": 2,
+      "points": 2,
+      "explanations": {
+        "1": "차마 떨치고 갔다는 것은 님의 일방적 이별을 나타내므로 적절하다.",
+        "2": "귀먹고 눈멀었다는 역설적 표현으로 절대적 존재감을 나타내므로 적절하다.",
+        "3": "미리 염려했음에도 막상 이별이 되자 더 슬픔이 크다는 내용이므로 적절하다.",
+        "5": "보내지 아니하였다는 것은 내면에서의 관계 지속을 나타내므로 적절하다.",
+        "correct": "㉣은 이별이 없는 만남은 없다는 논리적 통찰을 통해 이별의 고통을 초월하려는 시도를 보여 주지만, 이것이 슬픔을 '완전히 극복'했음을 선언하는 것은 아니다. 이 구절은 오히려 이별을 필연으로 수용하면서 역설적으로 님에 대한 지속적 사랑을 이끌어내는 매개 역할을 한다. '완전히 극복했음을 선언한다'는 해석은 과도하다."
+      },
+      "self_check": {
+        "concept": "The logical dialectic in Han Yong-un: acknowledging inevitability does NOT equal achieving peace",
+        "trap": "Recognizing that meeting entails parting sounds like acceptance, but the poem does not claim the grief is resolved — it is transformed, not eliminated",
+        "key_distinction": "㉤ immediately follows and asserts 'I have not let you go' — confirming attachment persists despite the philosophical framing",
+        "correct_answer_reasoning": "Choice 2 is correct. ㉣은 이별이 없는 만남은 없다는 논리적 통찰을 통해 이별의 고통을 초월하려는 시도를 보여 주지만, 이것이 슬픔을 '완전히 극복'했음을 선언하는 것은 아니다. 이 구절은 오히려 이별을 필연으로 수용하면서 역설적으로 님에 대한 지속적 사랑을 이끌어내는 매개 역할을 한다. '완전히 극복했음을 선언한다'는 해석은 과도하다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-11",
+      "type": "시어해석",
+      "difficulty": "hard",
+      "passage": "까마득한 날에\n하늘이 처음 열리고\n어디 닭 우는 소리 들렸으랴\n\n㉠ 모든 산맥들이\n바다를 연모해 휘달릴 때도\n차마 이곳을 범하던 못하였으리라\n\n끊임없는 광음을\n부지런한 물결이 이 곳을 쓸고 갔으니\n㉡ 낙빙 거친 벌판에\n지금은 고독한 계절이라\n\n초인이 있어\n㉢ 이 광야에서 목 놓아 부르게 하리라\n그래도 가슴 속에 하늘이 있어\n㉣ 이 광야에서 목 놓아 울었다\n\n눈은 살아오는 것\n백마 타고 오는 ㉤ 초인이 있어\n이 광야에서 목 놓아 부르게 하리라\n\n- 이육사, 「광야」 -",
+      "question": "윗글의 ㉠~㉤에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 거대한 자연의 운동도 이 광야만큼은 침범하지 못했다는 의미로, 광야의 절대적 신성함과 불가침성을 나타낸다.",
+        "㉢은 미래의 어느 날 이 광야에 구원자가 나타나 새 시대를 열 것이라는 화자의 예언적 기대를 표현한다.",
+        "㉣은 과거 시제로 표현되어, 화자가 이미 광야에서 통곡하는 행위를 완료했음을 나타내며, 이는 민족적 고통의 현재성을 부정한다.",
+        "㉡의 '낙빙 거친 벌판'은 일제 강점기의 혹독한 현실을 자연적 황폐함으로 형상화한 공간이다.",
+        "㉤의 '초인'은 시대를 초월하는 영웅적 인물로, 화자가 갈망하는 해방과 구원의 상징이다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "1": "산맥도 범하지 못한 광야의 불가침성과 신성함을 나타내므로 적절하다.",
+        "3": "초인이 나타나 외칠 것이라는 미래 지향적 예언이므로 적절하다.",
+        "4": "낙빙 거친 벌판은 일제 강점기의 혹독한 시련을 자연 이미지로 형상화하므로 적절하다.",
+        "5": "초인은 해방과 구원을 가져올 영웅적 존재로 화자의 갈망을 담고 있으므로 적절하다.",
+        "correct": "㉣ '이 광야에서 목 놓아 울었다'는 과거 시제지만, 이것이 민족적 고통의 현재성을 부정하지 않는다. 오히려 과거에도 울었고, ㉢과 ㉤에서 미래에도 초인이 외칠 것이라는 시간적 순환 구조를 통해 민족의 고통과 저항이 과거-현재-미래에 걸쳐 지속됨을 나타낸다. 과거 시제가 '현재성을 부정한다'는 해석은 시의 전체적 의미 구조를 오독한 것이다."
+      },
+      "self_check": {
+        "concept": "Past tense in poetry as part of a temporal arc (past suffering → present endurance → future redemption), not as closure",
+        "trap": "Past tense '울었다' might seem to suggest finalized grief, but the poem's structure of past-present-future demonstrates continuity of the national struggle",
+        "key_distinction": "The poem ends with a future vision of the 초인 returning — making 'present suffering is negated' logically impossible within the poem's world",
+        "correct_answer_reasoning": "Choice 3 is correct. ㉣ '이 광야에서 목 놓아 울었다'는 과거 시제지만, 이것이 민족적 고통의 현재성을 부정하지 않는다. 오히려 과거에도 울었고, ㉢과 ㉤에서 미래에도 초인이 외칠 것이라는 시간적 순환 구조를 통해 민족의 고통과 저항이 과거-현재-미래에 걸쳐 지속됨을 나타낸다. 과거 시제가 '현재성을 부정한다'는 해석은 시의 전체적 의미 구조를 오독한 것이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-12",
+      "type": "시어해석",
+      "difficulty": "hard",
+      "passage": "내 벗이 몇이나 하니 수석(水石)과 송죽(松竹)이라\n동산에 달 오르니 그 더욱 반갑고야\n두어라 이 다섯밖에 또 더하여 무엇하리\n\n구름 빛이 좋다 하나 ㉠ 검기를 자로 한다\n바람 소리 맑다 하나 그칠 적이 많도다\n좋고도 그칠 뉘 없기는 ㉡ 물뿐인가 하노라\n\n꽃은 무슨 일로 피면서 쉬이 지고\n풀은 어이하여 푸르는 듯 누르나니\n아마도 ㉢ 변치 않을 것은 바위뿐인가 하노라\n\n더우면 꽃 피고 추우면 잎 지거늘\n솔아 너는 어찌 눈 속에 푸르르냐\n우리도 ㉣ 눈 속에 푸른 솔을 본받아\n변치 않으리라\n\n나무도 아닌 것이 풀도 아닌 것이\n곧기는 뉘 시키며 속은 어이 비었나\n저렇게 ㉤ 사시(四時)에 푸르니 그를 좋아하노라\n\n- 윤선도, 「오우가(五友歌)」 -",
+      "question": "윗글의 ㉠~㉤에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 구름이 아름답지만 자주 검어진다는 한계를 지적하여, 변하지 않는 것에 대한 화자의 선호를 간접적으로 드러낸다.",
+        "㉡의 '물'은 끊이지 않고 흐른다는 특성이 강조되어, 지조와 영속성을 갖춘 자연물로 제시된다.",
+        "㉢의 '변치 않을 것은 바위뿐'이라는 구절은 꽃과 풀의 덧없음과 대비되어 바위의 굳은 절개를 부각한다.",
+        "㉣은 눈 속에서도 푸른 소나무를 직접 보고 화자가 실제로 소나무처럼 절개를 지키겠다고 다짐하는 것을 의미한다.",
+        "㉤의 '사시에 푸르니'는 계절의 변화에 구애받지 않는 대나무의 변함없는 속성을 예찬한 것이다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "1": "구름의 한계 지적이 변하지 않는 것에 대한 선호를 드러내므로 적절하다.",
+        "2": "물은 좋고도 그치지 않는다는 점에서 지조와 영속성의 상징으로 제시되므로 적절하다.",
+        "3": "꽃과 풀의 덧없음과 대비하여 바위의 절개를 부각하므로 적절하다.",
+        "5": "사계절 내내 푸른 대나무의 불변성을 예찬하므로 적절하다.",
+        "correct": "㉣ '눈 속에 푸른 솔을 본받아 변치 않으리라'는 소나무를 실제로 눈앞에 보고 있다는 경험적 사실을 강조하는 것이 아니라, 소나무가 상징하는 변치 않는 절개를 모범으로 삼아 자신도 그렇게 살겠다는 다짐(의지)을 표현한 것이다. 핵심은 시각적 경험이 아니라 도덕적 의지의 표명이다. '직접 보고'라는 표현이 이 구절을 단순한 관찰 행위로 한정하여 윤리적 다짐이라는 본질을 희석시키므로 적절하지 않다."
+      },
+      "self_check": {
+        "concept": "The pine in Ouga as an ethical model (본받아 변치 않으리라) vs. a sensory observation",
+        "trap": "The poem does describe visual scenes, but ㉣'s function is moral emulation — the '직접 보고' framing shifts emphasis to observation rather than vow",
+        "key_distinction": "The resolution '변치 않으리라' is the main point; the visual trigger is secondary to the moral commitment",
+        "correct_answer_reasoning": "Choice 4 is correct. ㉣ '눈 속에 푸른 솔을 본받아 변치 않으리라'는 소나무를 실제로 눈앞에 보고 있다는 경험적 사실을 강조하는 것이 아니라, 소나무가 상징하는 변치 않는 절개를 모범으로 삼아 자신도 그렇게 살겠다는 다짐(의지)을 표현한 것이다. 핵심은 시각적 경험이 아니라 도덕적 의지의 표명이다. '직접 보고'라는 표현이 이 구절을 단순한 관찰 행위로 한정하여 윤리적 다짐이라는 본질을 희석시키므로 적절하지 않다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-13",
+      "type": "시어해석",
+      "difficulty": "hard",
+      "passage": "계절이 지나가는 하늘에는\n가을로 가득 차 있습니다.\n\n나는 아무 걱정도 없이\n가을 속의 별들을 다 헬 듯합니다.\n\n㉠ 가슴속에 하나 둘 새겨지는 별을\n이제 다 못 헤는 것은\n쉬이 아침이 오는 까닭이요,\n내일 밤이 남은 까닭이요,\n아직 나의 청춘이 다하지 않은 까닭입니다.\n\n㉡ 별 하나에 추억과\n별 하나에 사랑과\n별 하나에 쓸쓸함과\n별 하나에 동경과\n별 하나에 시와\n별 하나에 어머니, 어머니,\n\n㉢ 어머니, 나는 별 하나에 아름다운 말 한마디씩 불러 봅니다.\n\n이네들은 너무나 멀리 있습니다.\n별이 아슬히 멀듯이.\n\n㉣ 프랑스 시인 라이너 마리아 릴케가 애수를 노래했고\n중국 시인이 사나이는 이름을 남겨야 한다 했으니\n나는 그들의 이름을 불러 가며 아침이슬이 내릴 때까지\n㉤ 이름없는 러시아 소녀\n그리고 우리나라 이름자 고운 소녀들을 불러 봅니다.\n\n- 윤동주, 「별 헤는 밤」 -",
+      "question": "윗글의 ㉠~㉤에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 화자의 내면에 소중한 기억이 하나씩 쌓여 가는 과정을 별을 세는 행위로 구체화하고 있다.",
+        "㉡은 추억·사랑·쓸쓸함·동경·시·어머니 등 화자의 내면 세계를 구성하는 요소들이 별 하나하나에 대응되어 나열되며, 별이 화자의 감성적 세계와 연결됨을 보여 준다.",
+        "㉢의 '어머니'는 ㉡의 마지막에 반복된 '어머니, 어머니'와 연결되어, 가장 그리운 존재에 대한 화자의 특별한 감정적 무게를 드러낸다.",
+        "㉣은 외국 시인의 이름을 언급함으로써 화자가 세계적 문학의 권위에 기대어 자신의 창작 능력 부족을 변명하고 있음을 나타낸다.",
+        "㉤의 '이름 없는 러시아 소녀'는 이름 없이도 화자의 마음속에 존재하는 그리움의 대상으로, 화자의 정서적 연대감이 특정 문화권을 넘어 확장됨을 나타낸다."
+      ],
+      "answer": 4,
+      "points": 2,
+      "explanations": {
+        "1": "별을 세는 행위가 내면의 소중한 기억을 하나씩 새기는 것을 구체화하므로 적절하다.",
+        "2": "추억, 사랑 등 내면 요소가 별에 대응되어 나열되므로 적절하다.",
+        "3": "어머니가 두 번 반복되고 이어지는 것은 가장 깊은 그리움을 나타내므로 적절하다.",
+        "5": "이름 없는 소녀도 그리움의 대상이 되어 정서적 연대가 확장됨을 나타내므로 적절하다.",
+        "correct": "㉣에서 릴케와 중국 시인을 언급하는 것은 창작 능력 부족에 대한 변명이 아니라, 별을 바라보며 이름들을 부르는 행위의 보편적 의미를 제시하고 자신의 행위에 문학적 맥락을 부여하는 것이다. 화자는 이 시인들처럼 이름을 부르는 행위를 통해 사랑과 그리움을 표현하는 것의 의미를 공유하고 있다. '창작 능력 부족의 변명'이라는 해석은 시의 맥락과 전혀 맞지 않는다."
+      },
+      "self_check": {
+        "concept": "Reference to literary figures as establishing a universal tradition of naming/longing, not admitting inadequacy",
+        "trap": "Mentioning famous poets might seem like 'I'm not as good as them', but the grammar '~했고 … 나는' sets up a parallel — they did this, and I am doing it too",
+        "key_distinction": "The structure is emulation/solidarity with a literary tradition, not self-deprecation or apology",
+        "correct_answer_reasoning": "Choice 4 is correct. ㉣에서 릴케와 중국 시인을 언급하는 것은 창작 능력 부족에 대한 변명이 아니라, 별을 바라보며 이름들을 부르는 행위의 보편적 의미를 제시하고 자신의 행위에 문학적 맥락을 부여하는 것이다. 화자는 이 시인들처럼 이름을 부르는 행위를 통해 사랑과 그리움을 표현하는 것의 의미를 공유하고 있다. '창작 능력 부족의 변명'이라는 해석은 시의 맥락과 전혀 맞지 않는다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-14",
+      "type": "시어해석",
+      "difficulty": "hard",
+      "passage": "나 보기가 역겨워\n가실 때에는\n말없이 고이 보내 드리오리다\n\n㉠ 영변에 약산\n진달래꽃\n아름 따다 가실 길에 뿌리오리다\n\n㉡ 가시는 걸음걸음\n놓인 그 꽃을\n사뿐히 즈려밟고 가시옵소서\n\n나 보기가 역겨워\n가실 때에는\n㉢ 죽어도 아니 눈물 흘리오리다\n\n- 김소월, 「진달래꽃」 -",
+      "question": "윗글의 ㉠~㉢에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠의 '진달래꽃'은 화자가 임에게 바치는 희생과 헌신의 상징으로, 화자의 사랑과 이별의 슬픔이 응축된 소재이다.",
+        "㉡은 임이 꽃을 밟고 가도 좋다는 역설적 표현으로, 임이 밟고 가는 그 행위마저도 수용하겠다는 화자의 절대적 헌신을 나타낸다.",
+        "㉡과 ㉢을 통해 화자는 임의 떠남을 막지 못하는 상황에서도 비굴하지 않고 자신의 감정을 절제하며 이별을 받아들이고 있다.",
+        "㉠의 꽃을 뿌리는 행위는 임을 보내는 슬픔 속에서도 임을 위한 배려와 사랑의 마음이 담긴 행동이다.",
+        "㉢의 '죽어도 아니 눈물 흘리오리다'는 이별의 슬픔을 억누르는 체념적 수용을 나타내며, 실제로 화자가 슬픔을 느끼지 않음을 선언한 것이다."
+      ],
+      "answer": 5,
+      "points": 2,
+      "explanations": {
+        "1": "진달래꽃이 화자의 희생과 사랑, 이별의 슬픔을 담은 소재이므로 적절하다.",
+        "2": "밟고 가라는 역설적 표현으로 임의 어떤 행동도 수용하겠다는 절대적 헌신을 나타내므로 적절하다.",
+        "4": "꽃을 뿌리는 행위에 임을 향한 배려와 사랑이 담겨 있으므로 적절하다.",
+        "5": "비굴하지 않게 감정을 절제하며 이별을 받아들이는 화자의 태도가 드러나므로 적절하다.",
+        "correct": "㉢ '죽어도 아니 눈물 흘리오리다'는 이별의 슬픔을 억누르겠다는 다짐이지, 화자가 실제로 슬픔을 느끼지 않는다는 선언이 아니다. 오히려 '죽어도'라는 극단적 표현은 슬픔이 얼마나 크고 깊은지를 역설적으로 드러내며, 그 슬픔을 겉으로 드러내지 않으려는 강한 의지를 나타낸다. 슬픔이 없음을 선언했다는 해석은 표현의 역설적 의미를 무시한 것이다."
+      },
+      "self_check": {
+        "concept": "The paradox of '죽어도 아니 눈물 흘리오리다': the hyperbole reveals the depth of grief, not its absence",
+        "trap": "The surface reading 'I will not cry' might suggest emotional detachment, but '죽어도' signals an extreme emotional register",
+        "key_distinction": "In Soweol's poetry, restraint is itself the expression of profound grief — performing calmness heightens rather than denies the sorrow",
+        "correct_answer_reasoning": "Choice 5 is correct. ㉢ '죽어도 아니 눈물 흘리오리다'는 이별의 슬픔을 억누르겠다는 다짐이지, 화자가 실제로 슬픔을 느끼지 않는다는 선언이 아니다. 오히려 '죽어도'라는 극단적 표현은 슬픔이 얼마나 크고 깊은지를 역설적으로 드러내며, 그 슬픔을 겉으로 드러내지 않으려는 강한 의지를 나타낸다. 슬픔이 없음을 선언했다는 해석은 표현의 역설적 의미를 무시한 것이다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    },
+    {
+      "id": "kor-v2-lit-7-15",
+      "type": "시어해석",
+      "difficulty": "hard",
+      "passage": "앞 개에 안개 걷고 ㉠ 뒷산에 해 뜨거다\n배 떠라 배 떠라\n㉡ 썰물은 밀려가고 밀물은 밀려온다\n지국총 지국총 어사와\n㉢ 강촌 온갖 꽃이 먼 빛은 더욱 좋다\n\n낚시 내려 두고 ㉣ 그물 쓸 일이 없이\n물아일체(物我一體)어 늘 나랏 일 잊었더냐\n지국총 지국총 어사와\n㉤ 연강에 안개 걷어 아름답기 끝없거라\n\n- 윤선도, 「어부사시사(漁父四時詞)」 춘사(春詞) 중 -",
+      "question": "윗글의 ㉠~㉤에 대한 설명으로 적절하지 않은 것은?",
+      "choices": [
+        "㉠은 아침이 밝아 오는 시간적 배경을 자연물을 통해 구체화하며 화자가 뱃길에 나서는 장면을 준비한다.",
+        "㉡은 조수(潮水)의 자연스러운 순환을 통해 화자가 몸담고 있는 강호 자연의 역동적 생명력을 나타낸다.",
+        "㉤의 '연강에 안개 걷어 아름답기 끝없거라'는 '물아일체어 늘 나랏 일 잊었더냐'와 연결되어, 자연의 아름다움이 세속적 근심을 완전히 소멸시켰음을 나타낸다.",
+        "㉣은 화자가 실용적인 물질적 욕구(고기잡이)에서 벗어나 강호에서 순수한 자연과의 합일을 추구함을 나타낸다.",
+        "㉢은 원경(遠景)의 꽃이 더욱 아름답다는 표현으로, 화자가 자연미를 관조적으로 즐기는 여유로운 태도를 드러낸다."
+      ],
+      "answer": 3,
+      "points": 2,
+      "explanations": {
+        "1": "뒷산에 해 뜨는 아침 배경으로 뱃길 준비를 제시하므로 적절하다.",
+        "2": "조수 순환으로 강호 자연의 생명력을 나타내므로 적절하다.",
+        "3": "먼 빛이 더 아름답다는 것은 관조적 자연 감상 태도를 드러내므로 적절하다.",
+        "4": "그물 쓸 일 없이 자연과 합일을 추구한다는 내용이므로 적절하다.",
+        "correct": "㉤의 아름다운 자연 풍경은 강호에서의 유유자적을 보여 주지만, '물아일체어 늘 나랏 일 잊었더냐'는 나랏일을 잊지 않고 있음을 반문하는 구절이다. 즉, 이 시는 자연의 아름다움 속에서도 나라에 대한 걱정을 완전히 떨쳐 버리지 못했음을 나타낸다. 따라서 자연이 세속적 근심을 '완전히 소멸시켰다'는 해석은 시의 복잡한 의미를 단순화한 것으로 적절하지 않다."
+      },
+      "self_check": {
+        "concept": "Yun Seon-do's dual consciousness in Eobu Sasi: aesthetic immersion in nature AND residual concern for the state",
+        "trap": "The gorgeous scenery suggests full escape, but '나랏 일 잊었더냐' is a rhetorical question — 'have I really forgotten state affairs?' — implying he has NOT fully forgotten",
+        "key_distinction": "The rhetorical question form (잊었더냐) signals ongoing tension between natural beauty and civic duty — complete dissolution of worldly concern is not achieved",
+        "correct_answer_reasoning": "Choice 3 is correct. ㉤의 아름다운 자연 풍경은 강호에서의 유유자적을 보여 주지만, '물아일체어 늘 나랏 일 잊었더냐'는 나랏일을 잊지 않고 있음을 반문하는 구절이다. 즉, 이 시는 자연의 아름다움 속에서도 나라에 대한 걱정을 완전히 떨쳐 버리지 못했음을 나타낸다. 따라서 자연이 세속적 근심을 '완전히 소멸시켰다'는 해석은 시의 복잡한 의미를 단순화한 것으로 적절하지 않다.",
+        "distractor_analysis": "",
+        "answer_uniqueness": "confirmed"
+      }
+    }
+  ]
+}

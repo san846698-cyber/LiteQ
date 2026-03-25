@@ -8,10 +8,10 @@ const SUBJECTS = [
   {
     id: "korean",
     label: "국어",
-    description: "독서 · 문학 15문항",
-    questionCount: 15,
-    timeLimit: "30분",
-    enabled: true,
+    description: "풀모의 45문항 준비 중",
+    questionCount: 45,
+    timeLimit: "80분",
+    enabled: false,
     href: "/mock/korean",
   },
   {

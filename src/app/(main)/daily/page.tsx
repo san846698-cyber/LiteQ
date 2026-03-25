@@ -8,8 +8,8 @@ const SUBJECTS = [
   {
     id: "korean",
     label: "국어",
-    description: "독서 · 문학 · 선택",
-    questionCount: 15,
+    description: "비문학 3 + 문학 3",
+    questionCount: 6,
     estimatedTime: "시간제한 없음",
     completed: false,
     enabled: true,
