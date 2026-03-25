@@ -1,0 +1,1210 @@
+/*
+ * LiteQ Math Daily Quiz — Standalone Prototype v2
+ *
+ * Usage: serve the HTML below (or paste it into an .html file):
+ *
+ * <!DOCTYPE html>
+ * <html lang="ko">
+ * <head>
+ *   <meta charset="UTF-8" />
+ *   <meta name="viewport" content="width=device-width, initial-scale=1" />
+ *   <title>LiteQ 수학 일간지</title>
+ *   <style>*{margin:0;padding:0;box-sizing:border-box} body{font-family:Pretendard,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#F9F5EE;-webkit-font-smoothing:antialiased}</style>
+ * </head>
+ * <body>
+ *   <div id="root"></div>
+ *   <script src="https://unpkg.com/react@18/umd/react.production.min.js" crossorigin></script>
+ *   <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js" crossorigin></script>
+ *   <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+ *   <script type="text/babel" src="liteq_math_daily_v2.jsx"></script>
+ * </body>
+ * </html>
+ */
+
+/* ──────────────── Design Tokens ──────────────── */
+const T = {
+  bg: "#F9F5EE",
+  surface: "#FFFFFF",
+  border: "rgba(176,165,148,0.2)",
+  borderActive: "rgba(176,165,148,0.4)",
+  accent: "#C96442",
+  accentSoft: "rgba(201,100,66,0.06)",
+  correct: "#4A8C6F",
+  correctSoft: "rgba(74,140,111,0.06)",
+  correctBorder: "rgba(74,140,111,0.2)",
+  wrong: "#BF4A3A",
+  wrongSoft: "rgba(191,74,58,0.05)",
+  wrongBorder: "rgba(191,74,58,0.18)",
+  text: "#2D2A26",
+  textSec: "#78726A",
+  textTertiary: "#A39E96",
+  textFaint: "#C5BFB7",
+  tagBg: "rgba(176,165,148,0.08)",
+};
+
+/* ──────────────── Question Data ──────────────── */
+const QS = [
+  {
+    id: 1,
+    unit: "수학Ⅰ",
+    topic: "지수·로그",
+    type: "로그 계산",
+    diff: 1,
+    pts: 2,
+    rec: "1:00",
+    mode: "choice",
+    stem: "\\log_2 16 + \\log_3 27 의 값은?",
+    tex: "\\log_2 16 + \\log_3 27",
+    opts: ["① 5", "② 6", "③ 7", "④ 8", "⑤ 9"],
+    ans: 2,
+    solution:
+      "log₂16 = 4 (∵ 2⁴ = 16)\nlog₃27 = 3 (∵ 3³ = 27)\n따라서 4 + 3 = 7",
+    solTex:
+      "\\log_2 16 = 4, \\quad \\log_3 27 = 3 \\\\ \\therefore\\; 4 + 3 = 7",
+  },
+  {
+    id: 2,
+    unit: "수학Ⅱ",
+    topic: "극한",
+    type: "함수의 극한",
+    diff: 1,
+    pts: 2,
+    rec: "1:00",
+    mode: "short",
+    stem: "\\lim_{x \\to 1} \\dfrac{x^2 + 3x - 4}{x - 1} 의 값을 구하시오.",
+    tex: "\\lim_{x \\to 1} \\dfrac{x^2 + 3x - 4}{x - 1}",
+    opts: null,
+    ans: "5",
+    solution:
+      "분자를 인수분해하면\nx² + 3x - 4 = (x - 1)(x + 4)\n따라서\nlim_{x→1} (x - 1)(x + 4) / (x - 1) = lim_{x→1} (x + 4) = 1 + 4 = 5",
+    solTex:
+      "\\lim_{x \\to 1} \\dfrac{(x-1)(x+4)}{x-1} = \\lim_{x \\to 1} (x+4) = 5",
+  },
+  {
+    id: 3,
+    unit: "수학Ⅰ",
+    topic: "삼각함수",
+    type: "삼각함수 값 계산",
+    diff: 2,
+    pts: 3,
+    rec: "2:30",
+    mode: "choice",
+    stem: "\\sin\\dfrac{\\pi}{3} + \\cos\\dfrac{\\pi}{6} + \\tan\\dfrac{\\pi}{4} 의 값은?",
+    tex: "\\sin\\dfrac{\\pi}{3} + \\cos\\dfrac{\\pi}{6} + \\tan\\dfrac{\\pi}{4}",
+    opts: [
+      "① \\sqrt{3} - 1",
+      "② \\sqrt{3}",
+      "③ \\sqrt{3} + 1",
+      "④ 2\\sqrt{3}",
+      "⑤ 2\\sqrt{3} + 1",
+    ],
+    ans: 2,
+    solution:
+      "sin(π/3) = √3/2\ncos(π/6) = √3/2\ntan(π/4) = 1\n따라서 √3/2 + √3/2 + 1 = √3 + 1",
+    solTex:
+      "\\sin\\dfrac{\\pi}{3} + \\cos\\dfrac{\\pi}{6} + \\tan\\dfrac{\\pi}{4} = \\dfrac{\\sqrt{3}}{2} + \\dfrac{\\sqrt{3}}{2} + 1 = \\sqrt{3} + 1",
+  },
+  {
+    id: 4,
+    unit: "수학Ⅰ",
+    topic: "수열",
+    type: "등차수열의 합",
+    diff: 2,
+    pts: 3,
+    rec: "3:00",
+    mode: "short",
+    stem: "등차수열 \\{a_n\\}에서 a_3 = 7,\\; a_7 = 19일 때, 첫째항부터 제10항까지의 합 S_{10}의 값을 구하시오.",
+    tex: "a_3 = 7, \\quad a_7 = 19, \\quad S_{10} = \\,?",
+    opts: null,
+    ans: "145",
+    solution:
+      "a₃ = a₁ + 2d = 7 … ①\na₇ = a₁ + 6d = 19 … ②\n② - ①에서 4d = 12, d = 3\n①에 대입하면 a₁ = 7 - 6 = 1\nS₁₀ = 10/2 × (2·1 + 9·3) = 5 × (2 + 27) = 5 × 29 = 145",
+    solTex:
+      "a_1 + 2d = 7, \\quad a_1 + 6d = 19 \\\\ 4d = 12 \\implies d = 3, \\quad a_1 = 1 \\\\ S_{10} = \\dfrac{10}{2}(2 \\cdot 1 + 9 \\cdot 3) = 5 \\times 29 = 145",
+  },
+  {
+    id: 5,
+    unit: "수학Ⅱ",
+    topic: "미분-접선",
+    type: "접선의 기울기",
+    diff: 2,
+    pts: 3,
+    rec: "3:00",
+    mode: "choice",
+    stem: "함수 f(x) = x^3 - 3x + 1 위의 점 (1,\\; -1)에서의 접선의 기울기는?",
+    tex: "f(x) = x^3 - 3x + 1",
+    opts: ["① -3", "② 0", "③ 1", "④ 3", "⑤ 6"],
+    ans: 1,
+    solution:
+      "f(1) = 1 - 3 + 1 = -1 (점이 곡선 위에 있음을 확인)\nf'(x) = 3x² - 3\nf'(1) = 3(1)² - 3 = 3 - 3 = 0\n따라서 접선의 기울기는 0이다.",
+    solTex: "f'(x) = 3x^2 - 3 \\\\ f'(1) = 3 - 3 = 0",
+  },
+  {
+    id: 6,
+    unit: "수학Ⅱ",
+    topic: "적분-넓이",
+    type: "정적분 계산",
+    diff: 2,
+    pts: 3,
+    rec: "3:00",
+    mode: "choice",
+    stem: "정적분 \\displaystyle\\int_0^2 (3x^2 + 2x)\\, dx 의 값은?",
+    tex: "\\int_0^2 (3x^2 + 2x)\\, dx",
+    opts: ["① 6", "② 8", "③ 10", "④ 12", "⑤ 16"],
+    ans: 3,
+    solution:
+      "∫₀² (3x² + 2x) dx = [x³ + x²]₀²\n= (2³ + 2²) - (0 + 0)\n= 8 + 4\n= 12",
+    solTex:
+      "\\int_0^2 (3x^2 + 2x)\\, dx = \\Big[x^3 + x^2\\Big]_0^2 = (8 + 4) - 0 = 12",
+  },
+  {
+    id: 7,
+    unit: "수학Ⅱ",
+    topic: "미분-극값",
+    type: "극값 조건과 미정계수",
+    diff: 3,
+    pts: 4,
+    rec: "5:00",
+    mode: "short",
+    stem: "함수 f(x) = x^3 - 6x^2 + 9x + a 가 x > 0에서 극댓값 7을 가질 때, 상수 a의 값을 구하시오.",
+    tex: "f(x) = x^3 - 6x^2 + 9x + a",
+    opts: null,
+    ans: "3",
+    solution:
+      "f'(x) = 3x² - 12x + 9 = 3(x² - 4x + 3) = 3(x - 1)(x - 3)\nf'(x) = 0에서 x = 1 또는 x = 3\nf''(x) = 6x - 12\nf''(1) = 6 - 12 = -6 < 0 → x = 1에서 극대\nf''(3) = 18 - 12 = 6 > 0 → x = 3에서 극소\nx = 1에서 극댓값이 7이므로\nf(1) = 1 - 6 + 9 + a = 4 + a = 7\n따라서 a = 3",
+    solTex:
+      "f'(x) = 3(x-1)(x-3) \\\\ x = 1 \\text{에서 극대 (}f''(1) = -6 < 0\\text{)} \\\\ f(1) = 1 - 6 + 9 + a = 4 + a = 7 \\\\ \\therefore\\; a = 3",
+  },
+];
+
+const TOTAL_PTS = QS.reduce((s, q) => s + q.pts, 0); // 20
+
+/* ──────────────── Helpers ──────────────── */
+function fmtTime(sec) {
+  const m = String(Math.floor(sec / 60)).padStart(2, "0");
+  const s = String(sec % 60).padStart(2, "0");
+  return `${m}:${s}`;
+}
+
+function recToSec(rec) {
+  const [m, s] = rec.split(":").map(Number);
+  return m * 60 + s;
+}
+
+function hasLatex(str) {
+  return /[\\{}_^]/.test(str);
+}
+
+function stripCircled(str) {
+  return str.replace(/^[①②③④⑤]\s*/, "");
+}
+
+/* ──────────────── Tex Component ──────────────── */
+function Tex({ math, display = false }) {
+  const ref = React.useRef(null);
+  React.useEffect(() => {
+    if (ref.current && window.katex) {
+      try {
+        window.katex.render(math, ref.current, {
+          throwOnError: false,
+          displayMode: display,
+        });
+      } catch (_) {}
+    }
+  }, [math, display]);
+  return <span ref={ref} />;
+}
+
+/* ──────────────── Inline Option Renderer ──────────────── */
+function OptLabel({ text }) {
+  const circled = text.match(/^([①②③④⑤])\s*/);
+  const prefix = circled ? circled[1] : "";
+  const body = stripCircled(text);
+  if (hasLatex(body)) {
+    return (
+      <span style={{ display: "inline-flex", alignItems: "center", gap: 6 }}>
+        {prefix && (
+          <span style={{ fontWeight: 600, fontSize: 15 }}>{prefix}</span>
+        )}
+        <Tex math={body} />
+      </span>
+    );
+  }
+  return <span>{text}</span>;
+}
+
+/* ──────────────── Difficulty Stars ──────────────── */
+function Stars({ n }) {
+  return (
+    <span style={{ letterSpacing: 1 }}>
+      {Array.from({ length: 3 }, (_, i) => (
+        <span
+          key={i}
+          style={{ color: i < n ? T.accent : T.textFaint, fontSize: 13 }}
+        >
+          ★
+        </span>
+      ))}
+    </span>
+  );
+}
+
+/* ──────────────── Donut Chart (SVG) ──────────────── */
+function Donut({ ratio, size = 140, stroke = 14 }) {
+  const r = (size - stroke) / 2;
+  const circ = 2 * Math.PI * r;
+  const pct = Math.round(ratio * 100);
+  const color = ratio >= 0.7 ? T.correct : ratio >= 0.4 ? T.accent : T.wrong;
+  return (
+    <svg width={size} height={size} style={{ display: "block", margin: "0 auto" }}>
+      <circle
+        cx={size / 2}
+        cy={size / 2}
+        r={r}
+        fill="none"
+        stroke={T.border}
+        strokeWidth={stroke}
+      />
+      <circle
+        cx={size / 2}
+        cy={size / 2}
+        r={r}
+        fill="none"
+        stroke={color}
+        strokeWidth={stroke}
+        strokeDasharray={circ}
+        strokeDashoffset={circ * (1 - ratio)}
+        strokeLinecap="round"
+        transform={`rotate(-90 ${size / 2} ${size / 2})`}
+        style={{ transition: "stroke-dashoffset 0.8s ease" }}
+      />
+      <text
+        x={size / 2}
+        y={size / 2 - 6}
+        textAnchor="middle"
+        style={{ fontSize: 28, fontWeight: 700, fill: T.text }}
+      >
+        {pct}%
+      </text>
+      <text
+        x={size / 2}
+        y={size / 2 + 16}
+        textAnchor="middle"
+        style={{ fontSize: 13, fill: T.textSec }}
+      >
+        정답률
+      </text>
+    </svg>
+  );
+}
+
+/* ──────────────── Main App ──────────────── */
+function App() {
+  const [katexReady, setKatexReady] = React.useState(false);
+  const [screen, setScreen] = React.useState("intro"); // intro | quiz | result
+  const [qi, setQi] = React.useState(0); // question index
+  const [answers, setAnswers] = React.useState({}); // { qIndex: { selected, correct, timeSec } }
+  const [showSol, setShowSol] = React.useState(false);
+  const [shortInput, setShortInput] = React.useState("");
+
+  // Timer state
+  const [elapsed, setElapsed] = React.useState(0);
+  const timerRef = React.useRef(null);
+  const qStartRef = React.useRef(0); // elapsed at which current question started
+
+  /* ── KaTeX CDN loading ── */
+  React.useEffect(() => {
+    if (!document.getElementById("katex-css")) {
+      const link = document.createElement("link");
+      link.id = "katex-css";
+      link.rel = "stylesheet";
+      link.href =
+        "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css";
+      document.head.appendChild(link);
+    }
+    if (!window.katex) {
+      const script = document.createElement("script");
+      script.src =
+        "https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js";
+      script.onload = () => setKatexReady(true);
+      document.body.appendChild(script);
+    } else {
+      setKatexReady(true);
+    }
+  }, []);
+
+  /* ── Global timer ── */
+  React.useEffect(() => {
+    if (screen === "quiz") {
+      timerRef.current = setInterval(() => setElapsed((e) => e + 1), 1000);
+    }
+    return () => clearInterval(timerRef.current);
+  }, [screen]);
+
+  /* ── Start quiz ── */
+  function startQuiz() {
+    setScreen("quiz");
+    setQi(0);
+    setAnswers({});
+    setElapsed(0);
+    qStartRef.current = 0;
+    setShowSol(false);
+    setShortInput("");
+  }
+
+  /* ── Answer a question ── */
+  function handleAnswer(selected) {
+    if (answers[qi] !== undefined) return; // already answered
+    const q = QS[qi];
+    const isCorrect =
+      q.mode === "choice"
+        ? selected === q.ans
+        : String(selected).trim() === String(q.ans).trim();
+    const timeSec = elapsed - qStartRef.current;
+    setAnswers((prev) => ({
+      ...prev,
+      [qi]: { selected, correct: isCorrect, timeSec },
+    }));
+  }
+
+  /* ── Next question ── */
+  function handleNext() {
+    setShowSol(false);
+    setShortInput("");
+    if (qi < QS.length - 1) {
+      const nextIdx = qi + 1;
+      setQi(nextIdx);
+      qStartRef.current = elapsed;
+    } else {
+      clearInterval(timerRef.current);
+      setScreen("result");
+    }
+  }
+
+  /* ── Compute results ── */
+  function getResults() {
+    let score = 0;
+    let correctCount = 0;
+    const rows = QS.map((q, i) => {
+      const a = answers[i];
+      if (a && a.correct) {
+        score += q.pts;
+        correctCount++;
+      }
+      return { ...q, answer: a };
+    });
+    return { score, correctCount, rows };
+  }
+
+  /* ── Theme for question topics ── */
+  const themeTopics = [...new Set(QS.map((q) => q.topic))].join(" / ");
+
+  const answered = answers[qi] !== undefined;
+  const q = QS[qi];
+
+  /* ──────────── INTRO SCREEN ──────────── */
+  if (screen === "intro") {
+    return (
+      <div
+        style={{
+          minHeight: "100vh",
+          background: T.bg,
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+          padding: 20,
+        }}
+      >
+        <div
+          style={{
+            maxWidth: 420,
+            width: "100%",
+            background: T.surface,
+            borderRadius: 20,
+            padding: "40px 28px 36px",
+            boxShadow: "0 2px 20px rgba(0,0,0,0.04)",
+            textAlign: "center",
+          }}
+        >
+          {/* Top badge */}
+          <div
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: 8,
+              background: T.accentSoft,
+              borderRadius: 100,
+              padding: "6px 16px",
+              marginBottom: 20,
+            }}
+          >
+            <span style={{ fontSize: 14, color: T.accent, fontWeight: 600 }}>
+              D-87
+            </span>
+            <span style={{ color: T.textFaint }}>|</span>
+            <span style={{ fontSize: 13, color: T.textSec }}>2026.3.25.</span>
+            <span style={{ color: T.textFaint }}>|</span>
+            <span style={{ fontSize: 13, color: T.textSec }}>3주차</span>
+          </div>
+
+          {/* Icon */}
+          <div style={{ fontSize: 48, marginBottom: 8 }}>📐</div>
+
+          <h1
+            style={{
+              fontSize: 26,
+              fontWeight: 800,
+              color: T.text,
+              marginBottom: 4,
+            }}
+          >
+            수학 일간지
+          </h1>
+
+          <p
+            style={{
+              fontSize: 15,
+              color: T.textSec,
+              marginBottom: 20,
+            }}
+          >
+            수학Ⅰ · 수학Ⅱ
+          </p>
+
+          {/* Theme */}
+          <div
+            style={{
+              background: T.tagBg,
+              borderRadius: 12,
+              padding: "14px 18px",
+              marginBottom: 24,
+              textAlign: "left",
+            }}
+          >
+            <div
+              style={{
+                fontSize: 11,
+                fontWeight: 700,
+                color: T.textTertiary,
+                textTransform: "uppercase",
+                letterSpacing: 1,
+                marginBottom: 6,
+              }}
+            >
+              오늘의 주제
+            </div>
+            <div style={{ fontSize: 14, color: T.text, lineHeight: 1.5 }}>
+              {themeTopics}
+            </div>
+          </div>
+
+          {/* Meta pills */}
+          <div
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              gap: 8,
+              marginBottom: 32,
+              flexWrap: "wrap",
+            }}
+          >
+            {["7문항", `${TOTAL_PTS}점`, "시간제한 없음"].map((t) => (
+              <span
+                key={t}
+                style={{
+                  fontSize: 13,
+                  color: T.textSec,
+                  background: T.tagBg,
+                  borderRadius: 100,
+                  padding: "5px 14px",
+                }}
+              >
+                {t}
+              </span>
+            ))}
+          </div>
+
+          {/* Start button */}
+          <button
+            onClick={startQuiz}
+            disabled={!katexReady}
+            style={{
+              width: "100%",
+              padding: "15px 0",
+              borderRadius: 14,
+              border: "none",
+              background: katexReady ? T.accent : T.textFaint,
+              color: "#fff",
+              fontSize: 17,
+              fontWeight: 700,
+              cursor: katexReady ? "pointer" : "default",
+              transition: "opacity .15s",
+            }}
+            onMouseEnter={(e) => (e.currentTarget.style.opacity = "0.9")}
+            onMouseLeave={(e) => (e.currentTarget.style.opacity = "1")}
+          >
+            {katexReady ? "시작하기" : "로딩 중..."}
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  /* ──────────── QUIZ SCREEN ──────────── */
+  if (screen === "quiz") {
+    const isCorrect = answered && answers[qi].correct;
+    const isWrong = answered && !answers[qi].correct;
+
+    return (
+      <div style={{ minHeight: "100vh", background: T.bg }}>
+        {/* ── Sticky Header ── */}
+        <div
+          style={{
+            position: "sticky",
+            top: 0,
+            zIndex: 50,
+            background: "rgba(249,245,238,0.85)",
+            backdropFilter: "blur(12px)",
+            WebkitBackdropFilter: "blur(12px)",
+            borderBottom: `1px solid ${T.border}`,
+            padding: "12px 16px 10px",
+          }}
+        >
+          <div
+            style={{
+              maxWidth: 600,
+              margin: "0 auto",
+              display: "flex",
+              justifyContent: "space-between",
+              alignItems: "center",
+            }}
+          >
+            <span style={{ fontSize: 15, fontWeight: 700, color: T.text }}>
+              수학 일간지
+            </span>
+            <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
+              <span style={{ fontSize: 14, color: T.textSec }}>
+                {qi + 1} / {QS.length}
+              </span>
+              <span
+                style={{
+                  fontSize: 14,
+                  fontWeight: 600,
+                  color: T.accent,
+                  fontVariantNumeric: "tabular-nums",
+                }}
+              >
+                {fmtTime(elapsed)}
+              </span>
+            </div>
+          </div>
+          {/* Progress bar */}
+          <div
+            style={{
+              maxWidth: 600,
+              margin: "8px auto 0",
+              height: 4,
+              borderRadius: 2,
+              background: T.border,
+              overflow: "hidden",
+            }}
+          >
+            <div
+              style={{
+                height: "100%",
+                width: `${((qi + (answered ? 1 : 0)) / QS.length) * 100}%`,
+                background: T.accent,
+                borderRadius: 2,
+                transition: "width .3s ease",
+              }}
+            />
+          </div>
+        </div>
+
+        {/* ── Question Card ── */}
+        <div style={{ maxWidth: 600, margin: "0 auto", padding: "20px 16px 100px" }}>
+          <div
+            style={{
+              background: T.surface,
+              borderRadius: 16,
+              padding: "24px 20px",
+              boxShadow: "0 1px 12px rgba(0,0,0,0.04)",
+              border: `1px solid ${T.border}`,
+            }}
+          >
+            {/* Meta row */}
+            <div
+              style={{
+                display: "flex",
+                alignItems: "center",
+                gap: 8,
+                flexWrap: "wrap",
+                marginBottom: 14,
+              }}
+            >
+              <span
+                style={{
+                  fontSize: 12,
+                  fontWeight: 700,
+                  color: T.accent,
+                  background: T.accentSoft,
+                  borderRadius: 6,
+                  padding: "3px 8px",
+                }}
+              >
+                {q.unit}
+              </span>
+              <span style={{ fontSize: 13, color: T.textSec }}>{q.topic}</span>
+              <Stars n={q.diff} />
+              <span
+                style={{
+                  marginLeft: "auto",
+                  fontSize: 12,
+                  fontWeight: 700,
+                  color: T.accent,
+                  background: T.accentSoft,
+                  borderRadius: 6,
+                  padding: "3px 8px",
+                }}
+              >
+                {q.pts}점
+              </span>
+            </div>
+
+            {/* Recommended time */}
+            <div
+              style={{
+                fontSize: 12,
+                color: T.textTertiary,
+                marginBottom: 18,
+              }}
+            >
+              권장 풀이 시간 {q.rec}
+            </div>
+
+            {/* Stem */}
+            <div
+              style={{
+                fontSize: 16,
+                lineHeight: 1.7,
+                color: T.text,
+                marginBottom: 8,
+              }}
+            >
+              <strong>Q{q.id}.</strong>{" "}
+              {hasLatex(q.stem) ? <Tex math={q.stem} /> : q.stem}
+            </div>
+
+            {/* Display Tex */}
+            {q.tex && (
+              <div
+                style={{
+                  background: T.tagBg,
+                  borderRadius: 12,
+                  padding: "16px 18px",
+                  margin: "12px 0 20px",
+                  textAlign: "center",
+                  overflowX: "auto",
+                }}
+              >
+                <Tex math={q.tex} display />
+              </div>
+            )}
+
+            {/* ── Choice Mode ── */}
+            {q.mode === "choice" && (
+              <div style={{ display: "flex", flexDirection: "column", gap: 10, marginTop: 16 }}>
+                {q.opts.map((opt, i) => {
+                  const idx = i; // 0-based index matching ans (0-based)
+                  const isSelected = answered && answers[qi].selected === idx;
+                  const isCorrectOpt = idx === q.ans;
+                  let bg = T.surface;
+                  let border = T.border;
+                  let labelColor = T.text;
+
+                  if (answered) {
+                    if (isCorrectOpt) {
+                      bg = T.correctSoft;
+                      border = T.correctBorder;
+                      labelColor = T.correct;
+                    } else if (isSelected && !isCorrectOpt) {
+                      bg = T.wrongSoft;
+                      border = T.wrongBorder;
+                      labelColor = T.wrong;
+                    }
+                  }
+
+                  return (
+                    <button
+                      key={i}
+                      onClick={() => handleAnswer(idx)}
+                      disabled={answered}
+                      style={{
+                        display: "flex",
+                        alignItems: "center",
+                        gap: 10,
+                        width: "100%",
+                        textAlign: "left",
+                        padding: "13px 16px",
+                        borderRadius: 12,
+                        border: `1.5px solid ${border}`,
+                        background: bg,
+                        color: labelColor,
+                        fontSize: 15,
+                        cursor: answered ? "default" : "pointer",
+                        transition: "all .15s",
+                        fontFamily: "inherit",
+                      }}
+                      onMouseEnter={(e) => {
+                        if (!answered)
+                          e.currentTarget.style.borderColor = T.borderActive;
+                      }}
+                      onMouseLeave={(e) => {
+                        if (!answered)
+                          e.currentTarget.style.borderColor = T.border;
+                      }}
+                    >
+                      {answered && isCorrectOpt && (
+                        <span style={{ color: T.correct, fontWeight: 700, fontSize: 17 }}>O</span>
+                      )}
+                      {answered && isSelected && !isCorrectOpt && (
+                        <span style={{ color: T.wrong, fontWeight: 700, fontSize: 17 }}>X</span>
+                      )}
+                      <OptLabel text={opt} />
+                    </button>
+                  );
+                })}
+              </div>
+            )}
+
+            {/* ── Short Answer Mode ── */}
+            {q.mode === "short" && !answered && (
+              <div
+                style={{
+                  display: "flex",
+                  gap: 10,
+                  marginTop: 20,
+                  alignItems: "center",
+                }}
+              >
+                <input
+                  type="number"
+                  value={shortInput}
+                  onChange={(e) => setShortInput(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter" && shortInput.trim())
+                      handleAnswer(shortInput.trim());
+                  }}
+                  placeholder="답을 입력하세요"
+                  style={{
+                    flex: 1,
+                    padding: "13px 16px",
+                    borderRadius: 12,
+                    border: `1.5px solid ${T.border}`,
+                    fontSize: 18,
+                    fontWeight: 600,
+                    fontFamily: "inherit",
+                    outline: "none",
+                    background: T.surface,
+                    color: T.text,
+                    transition: "border-color .15s",
+                  }}
+                  onFocus={(e) => (e.target.style.borderColor = T.accent)}
+                  onBlur={(e) => (e.target.style.borderColor = T.border)}
+                />
+                <button
+                  onClick={() => {
+                    if (shortInput.trim()) handleAnswer(shortInput.trim());
+                  }}
+                  style={{
+                    padding: "13px 22px",
+                    borderRadius: 12,
+                    border: "none",
+                    background: shortInput.trim() ? T.accent : T.textFaint,
+                    color: "#fff",
+                    fontSize: 15,
+                    fontWeight: 700,
+                    cursor: shortInput.trim() ? "pointer" : "default",
+                    fontFamily: "inherit",
+                  }}
+                >
+                  확인
+                </button>
+              </div>
+            )}
+
+            {/* ── Short answer result ── */}
+            {q.mode === "short" && answered && (
+              <div
+                style={{
+                  marginTop: 20,
+                  padding: "14px 18px",
+                  borderRadius: 12,
+                  background: isCorrect ? T.correctSoft : T.wrongSoft,
+                  border: `1.5px solid ${isCorrect ? T.correctBorder : T.wrongBorder}`,
+                  display: "flex",
+                  alignItems: "center",
+                  gap: 12,
+                }}
+              >
+                <span
+                  style={{
+                    fontSize: 22,
+                    fontWeight: 800,
+                    color: isCorrect ? T.correct : T.wrong,
+                  }}
+                >
+                  {isCorrect ? "O" : "X"}
+                </span>
+                <div>
+                  <div style={{ fontSize: 14, color: T.textSec }}>
+                    내 답: <strong style={{ color: T.text }}>{answers[qi].selected}</strong>
+                  </div>
+                  {!isCorrect && (
+                    <div style={{ fontSize: 14, color: T.correct, fontWeight: 600, marginTop: 2 }}>
+                      정답: {q.ans}
+                    </div>
+                  )}
+                </div>
+              </div>
+            )}
+
+            {/* ── Grading feedback (choice mode) ── */}
+            {q.mode === "choice" && answered && (
+              <div
+                style={{
+                  marginTop: 16,
+                  textAlign: "center",
+                  fontSize: 15,
+                  fontWeight: 600,
+                  color: isCorrect ? T.correct : T.wrong,
+                }}
+              >
+                {isCorrect
+                  ? "정답이에요! 잘했어요 ✓"
+                  : `오답이에요. 정답은 ${q.opts[q.ans]} 입니다.`}
+              </div>
+            )}
+
+            {/* ── Solution toggle ── */}
+            {answered && (
+              <div style={{ marginTop: 18 }}>
+                <button
+                  onClick={() => setShowSol(!showSol)}
+                  style={{
+                    width: "100%",
+                    padding: "11px 0",
+                    borderRadius: 10,
+                    border: `1px solid ${T.border}`,
+                    background: showSol ? T.tagBg : T.surface,
+                    color: T.textSec,
+                    fontSize: 14,
+                    fontWeight: 600,
+                    cursor: "pointer",
+                    fontFamily: "inherit",
+                    transition: "background .15s",
+                  }}
+                >
+                  {showSol ? "풀이 닫기 ▲" : "풀이 보기 ▼"}
+                </button>
+
+                {showSol && (
+                  <div
+                    style={{
+                      marginTop: 12,
+                      padding: "18px",
+                      borderRadius: 12,
+                      background: T.tagBg,
+                      border: `1px solid ${T.border}`,
+                    }}
+                  >
+                    {/* Text solution */}
+                    <div
+                      style={{
+                        fontSize: 14,
+                        lineHeight: 1.8,
+                        color: T.text,
+                        whiteSpace: "pre-wrap",
+                        marginBottom: q.solTex ? 14 : 0,
+                      }}
+                    >
+                      {q.solution}
+                    </div>
+                    {/* Tex solution */}
+                    {q.solTex && (
+                      <div
+                        style={{
+                          background: T.surface,
+                          borderRadius: 10,
+                          padding: "14px 16px",
+                          textAlign: "center",
+                          overflowX: "auto",
+                        }}
+                      >
+                        <Tex math={q.solTex} display />
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+
+          {/* ── Next / Finish Button ── */}
+          {answered && (
+            <button
+              onClick={handleNext}
+              style={{
+                display: "block",
+                width: "100%",
+                maxWidth: 600,
+                margin: "20px auto 0",
+                padding: "15px 0",
+                borderRadius: 14,
+                border: "none",
+                background: T.accent,
+                color: "#fff",
+                fontSize: 16,
+                fontWeight: 700,
+                cursor: "pointer",
+                fontFamily: "inherit",
+                transition: "opacity .15s",
+              }}
+              onMouseEnter={(e) => (e.currentTarget.style.opacity = "0.9")}
+              onMouseLeave={(e) => (e.currentTarget.style.opacity = "1")}
+            >
+              {qi < QS.length - 1 ? "다음 문제 →" : "결과 보기"}
+            </button>
+          )}
+        </div>
+      </div>
+    );
+  }
+
+  /* ──────────── RESULT SCREEN ──────────── */
+  if (screen === "result") {
+    const { score, correctCount, rows } = getResults();
+    const ratio = correctCount / QS.length;
+
+    let encourage = "오늘도 한 걸음 나아갔어요.";
+    if (ratio >= 0.85) encourage = "완벽에 가까워요! 이 조자를 유지해봐요.";
+    else if (ratio >= 0.7) encourage = "오늘의 실력, 확실히 성장 중이에요.";
+    else if (ratio >= 0.5) encourage = "절반 이상 맞혔어요. 내일은 더 잘할 수 있어요.";
+    else encourage = "오늘 발견한 약점이 내일의 무기예요.";
+
+    return (
+      <div style={{ minHeight: "100vh", background: T.bg, padding: "20px 16px 40px" }}>
+        <div style={{ maxWidth: 600, margin: "0 auto" }}>
+          {/* Header */}
+          <div style={{ textAlign: "center", marginBottom: 28 }}>
+            <h2
+              style={{
+                fontSize: 22,
+                fontWeight: 800,
+                color: T.text,
+                marginBottom: 4,
+              }}
+            >
+              수학 일간지 결과
+            </h2>
+            <p style={{ fontSize: 14, color: T.textSec }}>
+              총 소요 시간 {fmtTime(elapsed)}
+            </p>
+          </div>
+
+          {/* Score card */}
+          <div
+            style={{
+              background: T.surface,
+              borderRadius: 16,
+              padding: "32px 24px",
+              boxShadow: "0 1px 12px rgba(0,0,0,0.04)",
+              border: `1px solid ${T.border}`,
+              textAlign: "center",
+              marginBottom: 20,
+            }}
+          >
+            <Donut ratio={ratio} />
+            <div
+              style={{
+                marginTop: 20,
+                fontSize: 28,
+                fontWeight: 800,
+                color: T.text,
+              }}
+            >
+              {score}{" "}
+              <span style={{ fontSize: 18, fontWeight: 400, color: T.textSec }}>
+                / {TOTAL_PTS}점
+              </span>
+            </div>
+            <div
+              style={{
+                fontSize: 14,
+                color: T.textSec,
+                marginTop: 4,
+              }}
+            >
+              {correctCount}문제 정답 · {QS.length - correctCount}문제 오답
+            </div>
+            <div
+              style={{
+                marginTop: 18,
+                fontSize: 15,
+                color: T.accent,
+                fontWeight: 600,
+                lineHeight: 1.5,
+              }}
+            >
+              {encourage}
+            </div>
+          </div>
+
+          {/* Per-question list */}
+          <div
+            style={{
+              background: T.surface,
+              borderRadius: 16,
+              boxShadow: "0 1px 12px rgba(0,0,0,0.04)",
+              border: `1px solid ${T.border}`,
+              overflow: "hidden",
+              marginBottom: 24,
+            }}
+          >
+            <div
+              style={{
+                padding: "14px 18px",
+                borderBottom: `1px solid ${T.border}`,
+                fontSize: 14,
+                fontWeight: 700,
+                color: T.text,
+              }}
+            >
+              문항별 결과
+            </div>
+            {rows.map((r, i) => {
+              const a = r.answer;
+              const ok = a && a.correct;
+              return (
+                <div
+                  key={i}
+                  style={{
+                    display: "flex",
+                    alignItems: "center",
+                    gap: 10,
+                    padding: "13px 18px",
+                    borderBottom:
+                      i < rows.length - 1 ? `1px solid ${T.border}` : "none",
+                  }}
+                >
+                  {/* O/X */}
+                  <span
+                    style={{
+                      width: 28,
+                      height: 28,
+                      borderRadius: "50%",
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      fontSize: 14,
+                      fontWeight: 800,
+                      color: "#fff",
+                      background: ok ? T.correct : T.wrong,
+                      flexShrink: 0,
+                    }}
+                  >
+                    {ok ? "O" : "X"}
+                  </span>
+
+                  {/* Info */}
+                  <div style={{ flex: 1, minWidth: 0 }}>
+                    <div
+                      style={{
+                        fontSize: 14,
+                        fontWeight: 600,
+                        color: T.text,
+                        whiteSpace: "nowrap",
+                        overflow: "hidden",
+                        textOverflow: "ellipsis",
+                      }}
+                    >
+                      Q{r.id}. {r.topic}{" "}
+                      <span style={{ fontSize: 12, color: T.textTertiary, fontWeight: 400 }}>
+                        ({r.unit})
+                      </span>
+                    </div>
+                    <div style={{ fontSize: 12, color: T.textTertiary, marginTop: 2 }}>
+                      {r.pts}점 · 내 시간 {a ? fmtTime(a.timeSec) : "--"} / 권장 {r.rec}
+                    </div>
+                  </div>
+
+                  {/* Points earned */}
+                  <span
+                    style={{
+                      fontSize: 14,
+                      fontWeight: 700,
+                      color: ok ? T.correct : T.textFaint,
+                      flexShrink: 0,
+                    }}
+                  >
+                    {ok ? `+${r.pts}` : "0"}
+                  </span>
+                </div>
+              );
+            })}
+          </div>
+
+          {/* Action buttons */}
+          <div style={{ display: "flex", gap: 12 }}>
+            <button
+              onClick={startQuiz}
+              style={{
+                flex: 1,
+                padding: "14px 0",
+                borderRadius: 14,
+                border: `1.5px solid ${T.accent}`,
+                background: T.surface,
+                color: T.accent,
+                fontSize: 15,
+                fontWeight: 700,
+                cursor: "pointer",
+                fontFamily: "inherit",
+                transition: "background .15s",
+              }}
+              onMouseEnter={(e) => (e.currentTarget.style.background = T.accentSoft)}
+              onMouseLeave={(e) => (e.currentTarget.style.background = T.surface)}
+            >
+              다시 풀기
+            </button>
+            <button
+              onClick={() => setScreen("intro")}
+              style={{
+                flex: 1,
+                padding: "14px 0",
+                borderRadius: 14,
+                border: "none",
+                background: T.accent,
+                color: "#fff",
+                fontSize: 15,
+                fontWeight: 700,
+                cursor: "pointer",
+                fontFamily: "inherit",
+                transition: "opacity .15s",
+              }}
+              onMouseEnter={(e) => (e.currentTarget.style.opacity = "0.9")}
+              onMouseLeave={(e) => (e.currentTarget.style.opacity = "1")}
+            >
+              홈으로
+            </button>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  return null;
+}
+
+/* ──────────── Mount ──────────── */
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(<App />);
