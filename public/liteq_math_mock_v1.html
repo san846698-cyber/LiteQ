@@ -1,0 +1,1219 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>LiteQ 수학 라이트 모의고사</title>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css"/>
+  <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+  <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <style>
+    @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css');
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:'Pretendard',sans-serif;background:#F9F5EE;-webkit-font-smoothing:antialiased}
+    input:focus{outline:none}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.55}}
+    @keyframes fadeIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+    @keyframes scaleIn{from{transform:scale(.92);opacity:0}to{transform:scale(1);opacity:1}}
+    @keyframes barGrow{from{width:0}to{width:var(--bar-w)}}
+    .pulse-anim{animation:pulse 1s ease-in-out infinite}
+    .fade-in{animation:fadeIn .4s ease-out both}
+    .scale-in{animation:scaleIn .35s ease-out both}
+    .bar-grow{animation:barGrow .8s ease-out both}
+    ::-webkit-scrollbar{width:4px;height:4px}
+    ::-webkit-scrollbar-thumb{background:rgba(176,165,148,.3);border-radius:4px}
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel">
+
+const { useState, useEffect, useRef, useCallback, useMemo } = React;
+
+/* ── Design Tokens ─────────────────────────────────────── */
+const T = {
+  bg: "#F9F5EE", surface: "#FFFFFF",
+  border: "rgba(176,165,148,0.2)", borderActive: "rgba(176,165,148,0.4)",
+  accent: "#C96442", accentSoft: "rgba(201,100,66,0.06)",
+  correct: "#4A8C6F", correctSoft: "rgba(74,140,111,0.06)", correctBorder: "rgba(74,140,111,0.2)",
+  wrong: "#BF4A3A", wrongSoft: "rgba(191,74,58,0.05)", wrongBorder: "rgba(191,74,58,0.18)",
+  text: "#2D2A26", textSec: "#78726A", textTertiary: "#A39E96", textFaint: "#C5BFB7",
+  tagBg: "rgba(176,165,148,0.08)",
+};
+
+/* ── 18 Questions (Embedded) ──────────────────────────── */
+const QUESTIONS = [
+  {
+    id: 1, unit: "수학Ⅰ", topic: "지수·로그", type: "지수 계산", diff: 1, pts: 2, rec: "1:00", mode: "choice",
+    stem: "\\( 2^3 \\times 4^{-1} \\)의 값은?",
+    tex: "2^3 \\times 4^{-1}",
+    opts: ["① 1", "② 2", "③ 4", "④ 6", "⑤ 8"],
+    ans: 1,
+    solution: "4 = 2²이므로 4^{-1} = 2^{-2}이다. 따라서 2³ × 2^{-2} = 2^{3-2} = 2¹ = 2",
+    solTex: "2^3 \\times 4^{-1} = 2^3 \\times 2^{-2} = 2^1 = 2",
+    solNote: null
+  },
+  {
+    id: 2, unit: "수학Ⅰ", topic: "삼각함수", type: "삼각방정식", diff: 2, pts: 3, rec: "2:30", mode: "choice",
+    stem: "0 ≤ θ < 2π일 때, 방정식 \\( 2\\sin^2\\theta - 3\\sin\\theta + 1 = 0 \\)의 모든 해의 합은?",
+    tex: "2\\sin^2\\theta - 3\\sin\\theta + 1 = 0",
+    opts: ["① π", "② \\dfrac{7\\pi}{6}", "③ \\dfrac{3\\pi}{2}", "④ \\dfrac{11\\pi}{6}", "⑤ 2π"],
+    ans: 2,
+    solution: "sin θ = t로 놓으면 2t² - 3t + 1 = 0, (2t-1)(t-1) = 0이므로 t = 1/2 또는 t = 1.\nsin θ = 1/2: θ = π/6, 5π/6. sin θ = 1: θ = π/2.\n모든 해의 합 = π/6 + 5π/6 + π/2 = π + π/2 = 3π/2",
+    solTex: "\\theta = \\frac{\\pi}{6},\\ \\frac{5\\pi}{6},\\ \\frac{\\pi}{2} \\quad \\Rightarrow \\quad \\text{합} = \\frac{3\\pi}{2}",
+    solNote: null
+  },
+  {
+    id: 3, unit: "수학Ⅰ", topic: "삼각함수", type: "코사인법칙", diff: 2, pts: 3, rec: "2:30", mode: "choice",
+    stem: "삼각형 ABC에서 AB = 4, AC = 3, ∠A = 60°일 때, 변 BC의 길이는?",
+    tex: "AB = 4,\\ AC = 3,\\ \\angle A = 60°",
+    opts: ["① \\sqrt{7}", "② \\sqrt{13}", "③ \\sqrt{14}", "④ 4", "⑤ \\sqrt{19}"],
+    ans: 1,
+    solution: "코사인법칙: BC² = AB² + AC² - 2·AB·AC·cos A = 16 + 9 - 24·(1/2) = 25 - 12 = 13. BC = √13",
+    solTex: "BC^2 = 16 + 9 - 2(4)(3)\\cos 60° = 25 - 12 = 13 \\Rightarrow BC = \\sqrt{13}",
+    solNote: null
+  },
+  {
+    id: 4, unit: "수학Ⅰ", topic: "수열", type: "등비수열의 합", diff: 2, pts: 3, rec: "2:30", mode: "short",
+    stem: "첫째항이 2이고 공비가 3인 등비수열 {a_n}에 대하여 \\( \\sum_{k=1}^{4} a_k \\)의 값을 구하시오.",
+    tex: "\\sum_{k=1}^{4} a_k",
+    opts: null,
+    ans: "80",
+    solution: "S₄ = 2·(3⁴ - 1)/(3 - 1) = 2·(81 - 1)/2 = 80. 또는 2 + 6 + 18 + 54 = 80",
+    solTex: "S_4 = \\frac{2(3^4-1)}{3-1} = \\frac{2 \\times 80}{2} = 80",
+    solNote: null
+  },
+  {
+    id: 5, unit: "수학Ⅰ", topic: "수열", type: "시그마·일반항", diff: 3, pts: 4, rec: "4:00", mode: "choice",
+    stem: "수열 {a_n}이 모든 자연수 n에 대하여 \\( \\sum_{k=1}^{n} a_k = n^2 + 3n \\)을 만족시킬 때, \\( a_{10} \\)의 값은?",
+    tex: "\\sum_{k=1}^{n} a_k = n^2 + 3n",
+    opts: ["① 19", "② 21", "③ 22", "④ 23", "⑤ 25"],
+    ans: 2,
+    solution: "S_n = n² + 3n. n ≥ 2일 때 a_n = S_n - S_{n-1} = (n²+3n) - ((n-1)²+3(n-1)) = 2n + 2.\na₁ = S₁ = 4 = 2(1)+2 ✓. 따라서 a_{10} = 2(10)+2 = 22",
+    solTex: "a_n = S_n - S_{n-1} = 2n+2,\\quad a_{10} = 22",
+    solNote: null
+  },
+  {
+    id: 6, unit: "수학Ⅰ", topic: "수열", type: "점화식", diff: 4, pts: 4, rec: "7:00", mode: "short",
+    stem: "수열 {a_n}이 a₁ = 1이고 모든 자연수 n에 대하여\n\\( a_{n+1} = \\begin{cases} a_n + 3 & (a_n < 10) \\\\ a_n - 7 & (a_n \\geq 10) \\end{cases} \\)\n을 만족시킬 때, \\( \\sum_{k=1}^{30} a_k \\)의 값을 구하시오.",
+    tex: "a_{n+1} = \\begin{cases} a_n + 3 & (a_n < 10) \\\\ a_n - 7 & (a_n \\geq 10) \\end{cases}",
+    opts: null,
+    ans: "215",
+    solution: "수열을 나열하면: 1, 4, 7, 10, 3, 6, 9, 12, 5, 8, 11, 4, 7, 10, 3, ...\na₂ = a₁₂ = 4이므로 n ≥ 2부터 주기 10으로 반복한다.\n한 주기(a₂~a₁₁) 합 = 4+7+10+3+6+9+12+5+8+11 = 75\nΣ(k=1~30) = a₁ + 주기2회(a₂~a₂₁) + 나머지9항(a₂₂~a₃₀)\n= 1 + 75×2 + (4+7+10+3+6+9+12+5+8)\n= 1 + 150 + 64 = 215",
+    solTex: "\\text{주기 10: 합 } 75,\\quad \\sum_{k=1}^{30} a_k = 1 + 150 + 64 = 215",
+    solNote: "a₂부터 주기 10 반복을 찾는 것이 핵심"
+  },
+  {
+    id: 7, unit: "수학Ⅱ", topic: "극한", type: "함수의 극한", diff: 1, pts: 2, rec: "1:00", mode: "choice",
+    stem: "\\( \\lim_{x \\to 1} \\dfrac{x^2 - 1}{x - 1} \\)의 값은?",
+    tex: "\\lim_{x \\to 1} \\frac{x^2-1}{x-1}",
+    opts: ["① 0", "② 1", "③ 2", "④ 3", "⑤ 4"],
+    ans: 2,
+    solution: "(x²-1)/(x-1) = (x+1)(x-1)/(x-1) = x+1. x→1이면 x+1→2",
+    solTex: "\\lim_{x \\to 1} \\frac{(x+1)(x-1)}{x-1} = \\lim_{x \\to 1}(x+1) = 2",
+    solNote: null
+  },
+  {
+    id: 8, unit: "수학Ⅱ", topic: "극한·연속", type: "연속 조건", diff: 2, pts: 3, rec: "2:30", mode: "choice",
+    stem: "함수 \\( f(x) = \\begin{cases} \\dfrac{x^2 - 4}{x - 2} & (x \\neq 2) \\\\\\\\ a & (x = 2) \\end{cases} \\)가 x = 2에서 연속일 때, 상수 a의 값은?",
+    tex: "f(x) = \\begin{cases} \\dfrac{x^2-4}{x-2} & (x \\neq 2) \\\\ a & (x=2) \\end{cases}",
+    opts: ["① 0", "② 2", "③ 4", "④ 6", "⑤ 8"],
+    ans: 2,
+    solution: "x ≠ 2일 때 f(x) = (x+2)(x-2)/(x-2) = x+2. lim(x→2) f(x) = 4. 연속이려면 a = 4",
+    solTex: "\\lim_{x \\to 2} \\frac{(x+2)(x-2)}{x-2} = 4 \\Rightarrow a = 4",
+    solNote: null
+  },
+  {
+    id: 9, unit: "수학Ⅱ", topic: "미분", type: "접선의 방정식", diff: 2, pts: 3, rec: "2:30", mode: "choice",
+    stem: "곡선 \\( y = x^3 - 3x \\) 위의 점 (1, -2)에서의 접선의 기울기는?",
+    tex: "y = x^3 - 3x",
+    opts: ["① -3", "② -1", "③ 0", "④ 1", "⑤ 3"],
+    ans: 2,
+    solution: "y' = 3x² - 3. x = 1에서 y' = 3 - 3 = 0. 확인: y(1) = 1 - 3 = -2 ✓",
+    solTex: "y' = 3x^2 - 3,\\quad y'(1) = 0",
+    solNote: null
+  },
+  {
+    id: 10, unit: "수학Ⅱ", topic: "미분", type: "증감·극값", diff: 2, pts: 3, rec: "3:00", mode: "short",
+    stem: "함수 \\( f(x) = x^3 - 6x^2 + 9x + 2 \\)의 극댓값과 극솟값의 합을 구하시오.",
+    tex: "f(x) = x^3 - 6x^2 + 9x + 2",
+    opts: null,
+    ans: "8",
+    solution: "f'(x) = 3x²-12x+9 = 3(x-1)(x-3). 극대: f(1) = 1-6+9+2 = 6. 극소: f(3) = 27-54+27+2 = 2. 합 = 8",
+    solTex: "f'(x) = 3(x-1)(x-3),\\quad f(1)=6,\\ f(3)=2,\\quad 6+2=8",
+    solNote: null
+  },
+  {
+    id: 11, unit: "수학Ⅱ", topic: "미분", type: "함수 결정", diff: 3, pts: 4, rec: "4:30", mode: "choice",
+    stem: "최고차항의 계수가 1인 삼차함수 f(x)가 다음 조건을 만족시킨다.\n(가) f'(1) = 0\n(나) f'(3) = 0\n(다) f(0) = 5\nf(4)의 값은?",
+    tex: "f'(1)=0,\\quad f'(3)=0,\\quad f(0)=5",
+    opts: ["① 5", "② 7", "③ 9", "④ 11", "⑤ 13"],
+    ans: 2,
+    solution: "f(x) = x³+bx²+cx+d. f'(x) = 3x²+2bx+c.\nf'(1)=0: 3+2b+c=0. f'(3)=0: 27+6b+c=0.\n뺄셈: 24+4b=0 → b=-6. c=9. f(0)=d=5.\nf(x) = x³-6x²+9x+5. f(4) = 64-96+36+5 = 9",
+    solTex: "f(x) = x^3-6x^2+9x+5,\\quad f(4) = 64-96+36+5 = 9",
+    solNote: null
+  },
+  {
+    id: 12, unit: "수학Ⅱ", topic: "적분", type: "정적분 계산", diff: 2, pts: 3, rec: "2:30", mode: "choice",
+    stem: "\\( \\int_0^2 (3x^2 + 2x) \\, dx \\)의 값은?",
+    tex: "\\int_0^2 (3x^2+2x)\\,dx",
+    opts: ["① 8", "② 10", "③ 12", "④ 14", "⑤ 16"],
+    ans: 2,
+    solution: "∫(3x²+2x)dx = x³+x²+C. [x³+x²]₀² = (8+4) - 0 = 12",
+    solTex: "\\left[x^3+x^2\\right]_0^2 = 8+4 = 12",
+    solNote: null
+  },
+  {
+    id: 13, unit: "수학Ⅱ", topic: "적분", type: "정적분과 미분 관계", diff: 4, pts: 4, rec: "7:00", mode: "short",
+    stem: "다항함수 f(x)가 모든 실수 x에 대하여\n\\( \\int_0^x f(t) \\, dt = x \\cdot f(x) - 2x^3 \\)\n을 만족시키고 f(1) = -17일 때, f(3)의 값을 구하시오.",
+    tex: "\\int_0^x f(t)\\,dt = x \\cdot f(x) - 2x^3,\\quad f(1) = -17",
+    opts: null,
+    ans: "7",
+    solution: "양변을 x에 대해 미분하면 f(x) = f(x) + xf'(x) - 6x².\n정리하면 xf'(x) = 6x², 즉 f'(x) = 6x (x ≠ 0).\n연속성에 의해 f'(0) = 0도 성립. f(x) = 3x² + C.\nf(1) = 3 + C = -17 → C = -20.\nf(x) = 3x² - 20. f(3) = 27 - 20 = 7.\n검산: ∫₀ˣ(3t²-20)dt = x³-20x. x·f(x)-2x³ = x(3x²-20)-2x³ = x³-20x ✓",
+    solTex: "xf'(x)=6x^2 \\Rightarrow f'(x)=6x \\Rightarrow f(x)=3x^2+C\\\\ f(1)=-17: C=-20\\\\ f(3)=27-20=7",
+    solNote: "양변을 미분하고, 조건으로 상수 결정"
+  },
+  {
+    id: 14, unit: "확률과통계", topic: "경우의 수", type: "조합", diff: 2, pts: 3, rec: "2:30", mode: "choice",
+    stem: "서로 다른 5개의 공 중에서 3개를 선택하는 경우의 수와, 서로 다른 4개의 공 중에서 2개를 선택하는 경우의 수의 합은?",
+    tex: "\\binom{5}{3} + \\binom{4}{2}",
+    opts: ["① 14", "② 16", "③ 18", "④ 20", "⑤ 22"],
+    ans: 1,
+    solution: "C(5,3) = 10, C(4,2) = 6. 합 = 16",
+    solTex: "\\binom{5}{3}+\\binom{4}{2} = 10+6 = 16",
+    solNote: null
+  },
+  {
+    id: 15, unit: "확률과통계", topic: "확률", type: "조건부확률", diff: 2, pts: 3, rec: "3:00", mode: "choice",
+    stem: "주머니에 흰 공 3개, 검은 공 2개가 들어 있다. 공을 하나 꺼내어 색을 확인한 후 되돌려 놓지 않고 다시 하나를 꺼낼 때, 첫 번째 공이 검은 공이었을 때 두 번째 공이 흰 공일 확률은?",
+    tex: "P(\\text{2nd white} \\mid \\text{1st black})",
+    opts: ["① \\dfrac{1}{4}", "② \\dfrac{1}{3}", "③ \\dfrac{1}{2}", "④ \\dfrac{3}{4}", "⑤ \\dfrac{3}{5}"],
+    ans: 3,
+    solution: "첫 번째에 검은 공을 꺼낸 후 남은 공: 흰 3개, 검은 1개 (총 4개). 흰 공을 꺼낼 확률 = 3/4",
+    solTex: "P = \\frac{3}{4}",
+    solNote: null
+  },
+  {
+    id: 16, unit: "확률과통계", topic: "통계", type: "정규분포", diff: 2, pts: 3, rec: "3:00", mode: "choice",
+    stem: "확률변수 X가 정규분포 N(50, 5²)을 따를 때, P(45 ≤ X ≤ 60)의 값은?\n(단, P(0 ≤ Z ≤ 1) = 0.3413, P(0 ≤ Z ≤ 2) = 0.4772)",
+    tex: "X \\sim N(50,\\ 5^2)",
+    opts: ["① 0.3413", "② 0.4772", "③ 0.6826", "④ 0.8185", "⑤ 0.9544"],
+    ans: 3,
+    solution: "Z = (X-50)/5로 표준화.\nP(45≤X≤60) = P(-1≤Z≤2) = P(-1≤Z≤0) + P(0≤Z≤2) = 0.3413 + 0.4772 = 0.8185",
+    solTex: "P(-1 \\le Z \\le 2) = 0.3413 + 0.4772 = 0.8185",
+    solNote: null
+  },
+  {
+    id: 17, unit: "확률과통계", topic: "확률", type: "독립시행", diff: 3, pts: 4, rec: "4:30", mode: "choice",
+    stem: "한 개의 동전을 6번 던질 때, 앞면이 4번 이상 나올 확률은?",
+    tex: "P(X \\geq 4),\\quad X \\sim B\\!\\left(6,\\frac{1}{2}\\right)",
+    opts: ["① \\dfrac{11}{64}", "② \\dfrac{15}{64}", "③ \\dfrac{11}{32}", "④ \\dfrac{5}{16}", "⑤ \\dfrac{1}{4}"],
+    ans: 2,
+    solution: "P(X=4) = C(6,4)·(1/2)⁶ = 15/64. P(X=5) = C(6,5)·(1/2)⁶ = 6/64. P(X=6) = C(6,6)·(1/2)⁶ = 1/64.\nP(X≥4) = (15+6+1)/64 = 22/64 = 11/32",
+    solTex: "P(X \\ge 4) = \\frac{15+6+1}{64} = \\frac{22}{64} = \\frac{11}{32}",
+    solNote: null
+  },
+  {
+    id: 18, unit: "확률과통계", topic: "확률·통계", type: "조건부확률 종합", diff: 4, pts: 4, rec: "7:00", mode: "short",
+    stem: "공장 A, B에서 전체 제품의 40%, 60%를 각각 생산한다. A 공장 제품의 불량률은 5%, B 공장 제품의 불량률은 10%이다. 임의로 선택한 제품이 불량품일 때, 이것이 B 공장 제품일 확률을 p라 하자. 100p의 값을 구하시오.",
+    tex: "P(B \\mid D) = p",
+    opts: null,
+    ans: "75",
+    solution: "P(A)=0.4, P(B)=0.6, P(D|A)=0.05, P(D|B)=0.10.\nP(D) = 0.05×0.4 + 0.10×0.6 = 0.02 + 0.06 = 0.08.\nP(B|D) = P(D|B)P(B)/P(D) = 0.06/0.08 = 3/4.\n100p = 75",
+    solTex: "P(B|D) = \\frac{0.06}{0.08} = \\frac{3}{4},\\quad 100p = 75",
+    solNote: "베이즈 정리 적용. 전확률 공식으로 P(D)를 먼저 구한다."
+  }
+];
+
+const TOTAL_TIME = 3600; // 60 minutes in seconds
+const TOTAL_POINTS = 58;
+
+/* ── Utility helpers ─────────────────────────────────── */
+function parseRecSec(rec) {
+  const [m, s] = rec.split(":").map(Number);
+  return m * 60 + s;
+}
+
+function fmtTime(sec) {
+  const m = Math.floor(sec / 60);
+  const s = sec % 60;
+  return `${m}:${String(s).padStart(2, "0")}`;
+}
+
+function fmtTimeLong(sec) {
+  const m = Math.floor(sec / 60);
+  const s = sec % 60;
+  if (m > 0 && s > 0) return `${m}분 ${s}초`;
+  if (m > 0) return `${m}분`;
+  return `${s}초`;
+}
+
+function diffLabel(d) { return ["", "쉬움", "보통", "어려움", "킬러"][d] || ""; }
+function diffColor(d) { return ["", T.correct, T.accent, T.wrong, "#8B5CF6"][d] || T.textSec; }
+
+/* ── Tex Component ───────────────────────────────────── */
+function Tex({ expr, display = false, style = {} }) {
+  const ref = useRef(null);
+  useEffect(() => {
+    if (ref.current && window.katex) {
+      try {
+        window.katex.render(expr, ref.current, {
+          throwOnError: false,
+          displayMode: display,
+          trust: true,
+          strict: false,
+        });
+      } catch (e) {
+        ref.current.textContent = expr;
+      }
+    }
+  }, [expr, display]);
+  return React.createElement("span", { ref, style: { ...style } });
+}
+
+/* Render text that may contain inline \( ... \) LaTeX */
+function MixedText({ text, style = {} }) {
+  if (!text) return null;
+  const parts = text.split(/(\\[(\[][\s\S]*?\\[)\]])/g);
+  return React.createElement("span", { style }, parts.map((part, i) => {
+    const m = part.match(/^\\[(\[]([\s\S]*?)\\[)\]]$/);
+    if (m) {
+      const display = part.startsWith("\\[");
+      return React.createElement(Tex, { key: i, expr: m[2].trim(), display });
+    }
+    // Handle line breaks
+    return part.split("\n").map((line, j, arr) =>
+      React.createElement(React.Fragment, { key: `${i}-${j}` },
+        line,
+        j < arr.length - 1 ? React.createElement("br") : null
+      )
+    );
+  }));
+}
+
+/* Render option text that may contain LaTeX */
+function OptText({ text, style = {} }) {
+  if (!text) return null;
+  // Check if the option text (after the circled number) contains LaTeX-like content
+  const parts = text.split(/(\\[a-zA-Z]+|\\dfrac|\\frac|\^|_|\{|\})/);
+  const hasLatex = /\\[a-zA-Z]/.test(text) || /\\dfrac/.test(text);
+  if (hasLatex) {
+    // Extract the circled number prefix and render rest as LaTeX
+    const circleMatch = text.match(/^([①②③④⑤]\s*)/);
+    const prefix = circleMatch ? circleMatch[1] : "";
+    const rest = circleMatch ? text.slice(prefix.length) : text;
+    return React.createElement("span", { style },
+      prefix,
+      React.createElement(Tex, { expr: rest.trim() })
+    );
+  }
+  return React.createElement("span", { style }, text);
+}
+
+/* ── Donut Chart Component ───────────────────────────── */
+function DonutChart({ score, total, size = 140 }) {
+  const pct = total > 0 ? score / total : 0;
+  const r = (size - 16) / 2;
+  const circ = 2 * Math.PI * r;
+  const offset = circ * (1 - pct);
+  const color = pct >= 0.8 ? T.correct : pct >= 0.5 ? T.accent : T.wrong;
+
+  return React.createElement("div", {
+    style: { position: "relative", width: size, height: size, margin: "0 auto" }
+  },
+    React.createElement("svg", { width: size, height: size, viewBox: `0 0 ${size} ${size}` },
+      React.createElement("circle", {
+        cx: size / 2, cy: size / 2, r,
+        fill: "none", stroke: T.border, strokeWidth: 10
+      }),
+      React.createElement("circle", {
+        cx: size / 2, cy: size / 2, r,
+        fill: "none", stroke: color, strokeWidth: 10,
+        strokeLinecap: "round",
+        strokeDasharray: circ,
+        strokeDashoffset: offset,
+        transform: `rotate(-90 ${size / 2} ${size / 2})`,
+        style: { transition: "stroke-dashoffset 1.2s ease-out" }
+      })
+    ),
+    React.createElement("div", {
+      style: {
+        position: "absolute", inset: 0,
+        display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center"
+      }
+    },
+      React.createElement("span", {
+        style: { fontSize: 28, fontWeight: 700, color: T.text }
+      }, score),
+      React.createElement("span", {
+        style: { fontSize: 13, color: T.textSec }
+      }, `/ ${total}점`)
+    )
+  );
+}
+
+/* ── Phase labels ────────────────────────────────────── */
+const PHASES = {
+  intro: "intro",
+  quiz: "quiz",
+  result: "result",
+};
+
+/* ================================================================
+   MAIN APP
+   ================================================================ */
+function App() {
+  const [phase, setPhase] = useState(PHASES.intro);
+
+  // Quiz state
+  const [curIdx, setCurIdx] = useState(0);
+  const [answers, setAnswers] = useState({}); // { qId: selectedIndex (choice) or string (short) }
+  const [timeLeft, setTimeLeft] = useState(TOTAL_TIME);
+  const [timeSpent, setTimeSpent] = useState({}); // { qId: seconds }
+  const [quizStarted, setQuizStarted] = useState(false);
+  const [submitted, setSubmitted] = useState(false);
+  const [showConfirm, setShowConfirm] = useState(false);
+
+  // Per-question time tracking
+  const activeQRef = useRef(null);
+  const activeStartRef = useRef(null);
+  const timeSpentRef = useRef({});
+
+  // Flush accumulated time for current question
+  const flushTime = useCallback(() => {
+    if (activeQRef.current !== null && activeStartRef.current !== null) {
+      const elapsed = Math.round((Date.now() - activeStartRef.current) / 1000);
+      const qId = activeQRef.current;
+      timeSpentRef.current[qId] = (timeSpentRef.current[qId] || 0) + elapsed;
+      setTimeSpent({ ...timeSpentRef.current });
+    }
+  }, []);
+
+  // Start tracking for a question
+  const startTracking = useCallback((qId) => {
+    flushTime();
+    activeQRef.current = qId;
+    activeStartRef.current = Date.now();
+  }, [flushTime]);
+
+  // Navigate to question
+  const goTo = useCallback((idx) => {
+    startTracking(QUESTIONS[idx].id);
+    setCurIdx(idx);
+  }, [startTracking]);
+
+  // Start quiz
+  const handleStart = useCallback(() => {
+    setPhase(PHASES.quiz);
+    setQuizStarted(true);
+    startTracking(QUESTIONS[0].id);
+  }, [startTracking]);
+
+  // Countdown timer
+  useEffect(() => {
+    if (phase !== PHASES.quiz || submitted) return;
+    const iv = setInterval(() => {
+      setTimeLeft(prev => {
+        if (prev <= 1) {
+          clearInterval(iv);
+          // Auto-submit
+          flushTime();
+          setSubmitted(true);
+          setPhase(PHASES.result);
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+    return () => clearInterval(iv);
+  }, [phase, submitted, flushTime]);
+
+  // Handle answer selection for choice questions
+  const selectChoice = useCallback((qId, choiceIdx) => {
+    if (submitted) return;
+    setAnswers(prev => ({ ...prev, [qId]: choiceIdx }));
+  }, [submitted]);
+
+  // Handle answer input for short questions
+  const setShortAnswer = useCallback((qId, value) => {
+    if (submitted) return;
+    setAnswers(prev => ({ ...prev, [qId]: value }));
+  }, [submitted]);
+
+  // Submit
+  const handleSubmit = useCallback(() => {
+    flushTime();
+    setSubmitted(true);
+    setPhase(PHASES.result);
+  }, [flushTime]);
+
+  const unansweredCount = useMemo(() => {
+    return QUESTIONS.filter(q => answers[q.id] === undefined || answers[q.id] === "").length;
+  }, [answers]);
+
+  const totalRecSec = useMemo(() => QUESTIONS.reduce((s, q) => s + parseRecSec(q.rec), 0), []);
+  const totalSpentSec = useMemo(() => Object.values(timeSpent).reduce((s, v) => s + v, 0), [timeSpent]);
+
+  // Grading
+  const results = useMemo(() => {
+    if (!submitted) return [];
+    return QUESTIONS.map(q => {
+      const userAns = answers[q.id];
+      let isCorrect = false;
+      if (q.mode === "choice") {
+        isCorrect = userAns === q.ans;
+      } else {
+        isCorrect = String(userAns).trim() === String(q.ans);
+      }
+      return {
+        ...q,
+        userAns,
+        isCorrect,
+        earnedPts: isCorrect ? q.pts : 0,
+        recSec: parseRecSec(q.rec),
+        spentSec: timeSpent[q.id] || 0,
+      };
+    });
+  }, [submitted, answers, timeSpent]);
+
+  const totalScore = useMemo(() => results.reduce((s, r) => s + r.earnedPts, 0), [results]);
+  const correctCount = useMemo(() => results.filter(r => r.isCorrect).length, [results]);
+  const actualTotalTime = useMemo(() => TOTAL_TIME - timeLeft, [timeLeft]);
+
+  /* ── Timer color logic ─────────────────────────────── */
+  const timerColor = timeLeft > 1800 ? T.text : timeLeft > 600 ? "#C96442" : T.wrong;
+  const timerPulse = timeLeft <= 600;
+
+  /* ── RENDER ─────────────────────────────────────────── */
+
+  // ================ INTRO SCREEN ================
+  if (phase === PHASES.intro) {
+    return React.createElement("div", {
+      style: {
+        minHeight: "100vh", background: T.bg,
+        display: "flex", alignItems: "center", justifyContent: "center",
+        padding: 20,
+      }
+    },
+      React.createElement("div", {
+        className: "fade-in",
+        style: {
+          background: T.surface, borderRadius: 20, padding: "48px 32px",
+          maxWidth: 420, width: "100%", textAlign: "center",
+          boxShadow: "0 2px 20px rgba(0,0,0,0.04)",
+        }
+      },
+        // Icon
+        React.createElement("div", {
+          style: {
+            width: 72, height: 72, borderRadius: 18,
+            background: "linear-gradient(135deg, #C96442, #E8956A)",
+            display: "flex", alignItems: "center", justifyContent: "center",
+            margin: "0 auto 24px", fontSize: 32, color: "#fff",
+          }
+        }, "\u03A3"),
+        // Title
+        React.createElement("h1", {
+          style: { fontSize: 24, fontWeight: 700, color: T.text, marginBottom: 8 }
+        }, "수학 라이트 모의고사"),
+        // Subtitle
+        React.createElement("p", {
+          style: { fontSize: 15, color: T.textSec, marginBottom: 32, lineHeight: 1.6 }
+        }, "18문항 \u00B7 58점 \u00B7 60분"),
+        // Info cards
+        React.createElement("div", {
+          style: {
+            display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 12,
+            marginBottom: 32,
+          }
+        },
+          ...[
+            { label: "객관식", value: "12문항", icon: "\u2753" },
+            { label: "주관식", value: "6문항", icon: "\u270D\uFE0F" },
+            { label: "제한시간", value: "60분", icon: "\u23F1" },
+          ].map((item, i) =>
+            React.createElement("div", {
+              key: i,
+              style: {
+                background: T.tagBg, borderRadius: 12, padding: "14px 8px",
+              }
+            },
+              React.createElement("div", { style: { fontSize: 20, marginBottom: 4 } }, item.icon),
+              React.createElement("div", { style: { fontSize: 17, fontWeight: 600, color: T.text } }, item.value),
+              React.createElement("div", { style: { fontSize: 12, color: T.textSec, marginTop: 2 } }, item.label)
+            )
+          )
+        ),
+        // Warning
+        React.createElement("div", {
+          style: {
+            background: "rgba(201,100,66,0.06)", borderRadius: 10, padding: "12px 16px",
+            marginBottom: 28, fontSize: 13, color: T.accent, lineHeight: 1.5,
+          }
+        }, "시간 종료 시 자동 제출됩니다. 모든 문항을 풀고 [제출]을 눌러주세요."),
+        // Unit breakdown
+        React.createElement("div", {
+          style: { marginBottom: 28, textAlign: "left" }
+        },
+          React.createElement("p", {
+            style: { fontSize: 13, color: T.textSec, marginBottom: 8, fontWeight: 600 }
+          }, "단원 구성"),
+          ...["수학Ⅰ (6문항)", "수학Ⅱ (7문항)", "확률과통계 (5문항)"].map((t, i) =>
+            React.createElement("div", {
+              key: i,
+              style: {
+                fontSize: 14, color: T.text, padding: "6px 0",
+                borderBottom: i < 2 ? `1px solid ${T.border}` : "none",
+              }
+            }, t)
+          )
+        ),
+        // Start button
+        React.createElement("button", {
+          onClick: handleStart,
+          style: {
+            width: "100%", padding: "16px 0", borderRadius: 14, border: "none",
+            background: "linear-gradient(135deg, #C96442, #D4784E)",
+            color: "#fff", fontSize: 17, fontWeight: 700, cursor: "pointer",
+            transition: "transform .15s",
+          },
+          onMouseDown: (e) => e.currentTarget.style.transform = "scale(0.97)",
+          onMouseUp: (e) => e.currentTarget.style.transform = "scale(1)",
+        }, "시험 시작")
+      )
+    );
+  }
+
+  // ================ QUIZ SCREEN ================
+  if (phase === PHASES.quiz) {
+    const q = QUESTIONS[curIdx];
+    const isAnswered = (qId) => answers[qId] !== undefined && answers[qId] !== "";
+
+    return React.createElement("div", {
+      style: { minHeight: "100vh", background: T.bg, paddingBottom: 100 }
+    },
+      // ---- Sticky header ----
+      React.createElement("div", {
+        style: {
+          position: "sticky", top: 0, zIndex: 100,
+          background: T.surface, borderBottom: `1px solid ${T.border}`,
+          padding: "12px 16px 8px",
+        }
+      },
+        // Top row: timer + submit
+        React.createElement("div", {
+          style: {
+            display: "flex", justifyContent: "space-between", alignItems: "center",
+            marginBottom: 10,
+          }
+        },
+          // Timer
+          React.createElement("div", {
+            className: timerPulse ? "pulse-anim" : "",
+            style: {
+              fontSize: 22, fontWeight: 700, color: timerColor,
+              fontVariantNumeric: "tabular-nums", letterSpacing: 1,
+            }
+          },
+            "\u23F1 ",
+            fmtTime(timeLeft)
+          ),
+          // Submit button
+          React.createElement("button", {
+            onClick: () => setShowConfirm(true),
+            style: {
+              padding: "8px 20px", borderRadius: 10, border: "none",
+              background: unansweredCount === 0
+                ? "linear-gradient(135deg, #C96442, #D4784E)"
+                : T.tagBg,
+              color: unansweredCount === 0 ? "#fff" : T.textSec,
+              fontSize: 14, fontWeight: 600, cursor: "pointer",
+            }
+          },
+            unansweredCount > 0 ? `제출 (미답 ${unansweredCount})` : "제출"
+          )
+        ),
+        // Question navigator
+        React.createElement("div", {
+          style: {
+            display: "flex", gap: 6, overflowX: "auto", paddingBottom: 6,
+            WebkitOverflowScrolling: "touch",
+          }
+        },
+          ...QUESTIONS.map((qq, i) => {
+            const isCurrent = i === curIdx;
+            const answered = isAnswered(qq.id);
+            return React.createElement("button", {
+              key: qq.id,
+              onClick: () => goTo(i),
+              style: {
+                flex: "0 0 auto",
+                width: 32, height: 32, borderRadius: "50%",
+                border: isCurrent ? `2px solid ${T.accent}` : `1.5px solid ${answered ? T.accent : T.border}`,
+                background: answered ? (isCurrent ? T.accent : T.accentSoft) : T.surface,
+                color: answered ? (isCurrent ? "#fff" : T.accent) : (isCurrent ? T.accent : T.textTertiary),
+                fontSize: 12, fontWeight: 600, cursor: "pointer",
+                display: "flex", alignItems: "center", justifyContent: "center",
+                transition: "all .15s",
+              }
+            }, qq.id);
+          })
+        )
+      ),
+
+      // ---- Question content ----
+      React.createElement("div", {
+        key: q.id,
+        className: "fade-in",
+        style: { padding: "20px 16px", maxWidth: 640, margin: "0 auto" }
+      },
+        // Question header
+        React.createElement("div", {
+          style: {
+            display: "flex", alignItems: "center", gap: 8,
+            marginBottom: 16, flexWrap: "wrap",
+          }
+        },
+          React.createElement("span", {
+            style: {
+              fontSize: 13, fontWeight: 600, color: T.accent,
+              background: T.accentSoft, padding: "3px 10px", borderRadius: 6,
+            }
+          }, `${q.id}번`),
+          React.createElement("span", {
+            style: {
+              fontSize: 12, color: T.textSec,
+              background: T.tagBg, padding: "3px 8px", borderRadius: 6,
+            }
+          }, q.unit),
+          React.createElement("span", {
+            style: {
+              fontSize: 12, color: T.textSec,
+              background: T.tagBg, padding: "3px 8px", borderRadius: 6,
+            }
+          }, q.topic),
+          React.createElement("span", {
+            style: {
+              fontSize: 12, fontWeight: 600,
+              color: diffColor(q.diff),
+              background: T.tagBg, padding: "3px 8px", borderRadius: 6,
+            }
+          }, `${q.pts}점`),
+        ),
+
+        // Stem
+        React.createElement("div", {
+          style: {
+            background: T.surface, borderRadius: 14, padding: "20px 18px",
+            border: `1px solid ${T.border}`, marginBottom: 20, lineHeight: 1.8,
+            fontSize: 15, color: T.text,
+          }
+        },
+          React.createElement(MixedText, { text: q.stem }),
+          q.tex ? React.createElement("div", {
+            style: { marginTop: 14, textAlign: "center" }
+          }, React.createElement(Tex, { expr: q.tex, display: true })) : null
+        ),
+
+        // ---- Choices or Short input ----
+        q.mode === "choice" ? (
+          React.createElement("div", { style: { display: "flex", flexDirection: "column", gap: 10 } },
+            ...q.opts.map((opt, oi) => {
+              const selected = answers[q.id] === oi;
+              return React.createElement("button", {
+                key: oi,
+                onClick: () => selectChoice(q.id, oi),
+                style: {
+                  width: "100%", textAlign: "left",
+                  padding: "14px 16px", borderRadius: 12,
+                  border: selected ? `2px solid ${T.accent}` : `1.5px solid ${T.border}`,
+                  background: selected ? T.accentSoft : T.surface,
+                  color: T.text, fontSize: 15, cursor: "pointer",
+                  transition: "all .15s", lineHeight: 1.5,
+                }
+              },
+                React.createElement(OptText, { text: opt })
+              );
+            })
+          )
+        ) : (
+          // Short answer input
+          React.createElement("div", {
+            style: {
+              background: T.surface, borderRadius: 14, padding: 20,
+              border: `1px solid ${T.border}`,
+            }
+          },
+            React.createElement("label", {
+              style: { fontSize: 13, color: T.textSec, display: "block", marginBottom: 8 }
+            }, "답을 입력하세요"),
+            React.createElement("input", {
+              type: "text",
+              inputMode: "numeric",
+              value: answers[q.id] || "",
+              onChange: (e) => setShortAnswer(q.id, e.target.value),
+              placeholder: "숫자를 입력하세요",
+              style: {
+                width: "100%", padding: "14px 16px", fontSize: 20, fontWeight: 600,
+                borderRadius: 10, border: `2px solid ${answers[q.id] ? T.accent : T.border}`,
+                background: answers[q.id] ? T.accentSoft : T.bg,
+                color: T.text, textAlign: "center", letterSpacing: 2,
+                transition: "border-color .2s",
+              }
+            })
+          )
+        ),
+
+        // Navigation
+        React.createElement("div", {
+          style: {
+            display: "flex", gap: 12, marginTop: 24, justifyContent: "space-between",
+          }
+        },
+          React.createElement("button", {
+            onClick: () => curIdx > 0 && goTo(curIdx - 1),
+            disabled: curIdx === 0,
+            style: {
+              flex: 1, padding: "14px 0", borderRadius: 12,
+              border: `1.5px solid ${T.border}`,
+              background: T.surface, color: curIdx === 0 ? T.textFaint : T.text,
+              fontSize: 15, fontWeight: 600, cursor: curIdx === 0 ? "default" : "pointer",
+            }
+          }, "\u2190 이전"),
+          React.createElement("button", {
+            onClick: () => curIdx < QUESTIONS.length - 1 && goTo(curIdx + 1),
+            disabled: curIdx === QUESTIONS.length - 1,
+            style: {
+              flex: 1, padding: "14px 0", borderRadius: 12,
+              border: "none",
+              background: curIdx === QUESTIONS.length - 1 ? T.tagBg : "linear-gradient(135deg, #C96442, #D4784E)",
+              color: curIdx === QUESTIONS.length - 1 ? T.textFaint : "#fff",
+              fontSize: 15, fontWeight: 600, cursor: curIdx === QUESTIONS.length - 1 ? "default" : "pointer",
+            }
+          }, "다음 \u2192"),
+        )
+      ),
+
+      // ---- Confirm dialog ----
+      showConfirm ? React.createElement("div", {
+        style: {
+          position: "fixed", inset: 0, background: "rgba(0,0,0,0.4)",
+          display: "flex", alignItems: "center", justifyContent: "center",
+          zIndex: 200, padding: 20,
+        },
+        onClick: () => setShowConfirm(false),
+      },
+        React.createElement("div", {
+          className: "scale-in",
+          onClick: (e) => e.stopPropagation(),
+          style: {
+            background: T.surface, borderRadius: 20, padding: "32px 24px",
+            maxWidth: 360, width: "100%", textAlign: "center",
+          }
+        },
+          React.createElement("div", {
+            style: { fontSize: 40, marginBottom: 12 }
+          }, "\u270B"),
+          React.createElement("h3", {
+            style: { fontSize: 18, fontWeight: 700, color: T.text, marginBottom: 8 }
+          }, "제출하시겠습니까?"),
+          unansweredCount > 0 ? React.createElement("p", {
+            style: {
+              fontSize: 14, color: T.wrong, marginBottom: 20,
+              background: T.wrongSoft, padding: "8px 12px", borderRadius: 8,
+            }
+          }, `미답 ${unansweredCount}문항이 있습니다.`) :
+          React.createElement("p", {
+            style: { fontSize: 14, color: T.correct, marginBottom: 20 }
+          }, "모든 문항을 풀었습니다."),
+          React.createElement("div", { style: { display: "flex", gap: 10 } },
+            React.createElement("button", {
+              onClick: () => setShowConfirm(false),
+              style: {
+                flex: 1, padding: "14px 0", borderRadius: 12,
+                border: `1.5px solid ${T.border}`, background: T.surface,
+                color: T.text, fontSize: 15, fontWeight: 600, cursor: "pointer",
+              }
+            }, "취소"),
+            React.createElement("button", {
+              onClick: () => { setShowConfirm(false); handleSubmit(); },
+              style: {
+                flex: 1, padding: "14px 0", borderRadius: 12,
+                border: "none", background: "linear-gradient(135deg, #C96442, #D4784E)",
+                color: "#fff", fontSize: 15, fontWeight: 700, cursor: "pointer",
+              }
+            }, "제출")
+          )
+        )
+      ) : null
+    );
+  }
+
+  // ================ RESULT SCREEN ================
+  if (phase === PHASES.result) {
+    const scorePct = totalScore / TOTAL_POINTS;
+    const encouragement =
+      scorePct >= 0.85 ? "탁월한 성적이에요! 실력이 잘 갖춰져 있습니다." :
+      scorePct >= 0.7 ? "좋은 결과예요! 조금만 더 다듬으면 높은 점수가 가능해요." :
+      scorePct >= 0.5 ? "절반 이상 맞혔어요. 틀린 유형을 복습하면 크게 오를 수 있어요." :
+      "오늘 발견한 약점이 내일의 무기예요. 해설을 꼼꼼히 확인해보세요.";
+
+    const timeMsg = actualTotalTime < totalRecSec
+      ? "권장 시간보다 빠르게 풀었어요. 정확도도 함께 점검해보세요."
+      : "시간 배분을 조금 더 연습하면 좋겠어요.";
+
+    // Find most time-over question
+    const worstTime = results.reduce((w, r) => {
+      const over = r.spentSec - r.recSec;
+      return over > w.over ? { over, q: r } : w;
+    }, { over: 0, q: null });
+
+    // Max bar width reference (for normalization)
+    const maxTime = Math.max(...results.map(r => Math.max(r.recSec, r.spentSec)), 1);
+
+    return React.createElement("div", {
+      style: { minHeight: "100vh", background: T.bg, paddingBottom: 40 }
+    },
+      // Header
+      React.createElement("div", {
+        style: {
+          background: T.surface, padding: "24px 16px 20px", textAlign: "center",
+          borderBottom: `1px solid ${T.border}`,
+        }
+      },
+        React.createElement("h2", {
+          style: { fontSize: 20, fontWeight: 700, color: T.text, marginBottom: 4 }
+        }, "수학 라이트 모의고사 결과"),
+        React.createElement("p", {
+          style: { fontSize: 13, color: T.textSec }
+        }, `${correctCount}/${QUESTIONS.length} 정답`)
+      ),
+
+      React.createElement("div", {
+        style: { maxWidth: 640, margin: "0 auto", padding: "0 16px" }
+      },
+
+        // ---- Score Card ----
+        React.createElement("div", {
+          className: "fade-in",
+          style: {
+            background: T.surface, borderRadius: 16, padding: "28px 20px",
+            margin: "20px 0", textAlign: "center",
+            border: `1px solid ${T.border}`,
+          }
+        },
+          React.createElement(DonutChart, { score: totalScore, total: TOTAL_POINTS }),
+          React.createElement("p", {
+            style: { fontSize: 15, color: T.text, marginTop: 16, fontWeight: 600, lineHeight: 1.6 }
+          }, encouragement),
+        ),
+
+        // ---- Time summary card ----
+        React.createElement("div", {
+          className: "fade-in",
+          style: {
+            background: T.surface, borderRadius: 16, padding: "20px 18px",
+            margin: "0 0 20px", border: `1px solid ${T.border}`,
+          }
+        },
+          React.createElement("h3", {
+            style: { fontSize: 15, fontWeight: 700, color: T.text, marginBottom: 14 }
+          }, "\u23F1 시간 분석"),
+          React.createElement("div", {
+            style: {
+              display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gap: 12, marginBottom: 16,
+            }
+          },
+            ...[
+              { label: "제한시간", value: "60:00", color: T.textSec },
+              { label: "총 소요", value: fmtTime(actualTotalTime), color: actualTotalTime > TOTAL_TIME ? T.wrong : T.text },
+              { label: "총 권장", value: fmtTime(totalRecSec), color: T.textSec },
+            ].map((item, i) =>
+              React.createElement("div", {
+                key: i,
+                style: {
+                  textAlign: "center", background: T.tagBg, borderRadius: 10, padding: "10px 6px",
+                }
+              },
+                React.createElement("div", {
+                  style: { fontSize: 18, fontWeight: 700, color: item.color, fontVariantNumeric: "tabular-nums" }
+                }, item.value),
+                React.createElement("div", {
+                  style: { fontSize: 11, color: T.textSec, marginTop: 2 }
+                }, item.label)
+              )
+            )
+          ),
+          React.createElement("p", {
+            style: { fontSize: 13, color: T.textSec, lineHeight: 1.5 }
+          }, timeMsg),
+          worstTime.q && worstTime.over > 30 ? React.createElement("p", {
+            style: {
+              fontSize: 13, color: T.accent, marginTop: 8, lineHeight: 1.5,
+              background: T.accentSoft, padding: "8px 12px", borderRadius: 8,
+            }
+          }, `Q${worstTime.q.id}에서 ${fmtTimeLong(worstTime.q.spentSec)}를 사용했어요. ${worstTime.q.pts}점 문항에 집중하되, 시간 배분에 주의하세요.`) : null
+        ),
+
+        // ---- Per-question time comparison table ----
+        React.createElement("div", {
+          className: "fade-in",
+          style: {
+            background: T.surface, borderRadius: 16, padding: "20px 14px",
+            margin: "0 0 20px", border: `1px solid ${T.border}`,
+          }
+        },
+          React.createElement("h3", {
+            style: { fontSize: 15, fontWeight: 700, color: T.text, marginBottom: 16 }
+          }, "문항별 시간 비교"),
+          // Table header
+          React.createElement("div", {
+            style: {
+              display: "grid",
+              gridTemplateColumns: "36px 1fr 36px 28px 58px 58px 1fr",
+              gap: 4, alignItems: "center",
+              padding: "8px 4px", borderBottom: `1px solid ${T.border}`,
+              fontSize: 11, color: T.textTertiary, fontWeight: 600,
+            }
+          },
+            React.createElement("span", null, "번호"),
+            React.createElement("span", null, "유형"),
+            React.createElement("span", { style: { textAlign: "center" } }, "배점"),
+            React.createElement("span", { style: { textAlign: "center" } }, "O/X"),
+            React.createElement("span", { style: { textAlign: "center" } }, "권장"),
+            React.createElement("span", { style: { textAlign: "center" } }, "실제"),
+            React.createElement("span", null, ""),
+          ),
+          // Rows
+          ...results.map((r, i) => {
+            const overTime = r.spentSec > r.recSec;
+            const barColor = overTime ? T.wrong : T.correct;
+            const recPct = Math.min((r.recSec / maxTime) * 100, 100);
+            const spentPct = Math.min((r.spentSec / maxTime) * 100, 100);
+
+            return React.createElement("div", {
+              key: r.id,
+              style: {
+                display: "grid",
+                gridTemplateColumns: "36px 1fr 36px 28px 58px 58px 1fr",
+                gap: 4, alignItems: "center",
+                padding: "10px 4px",
+                borderBottom: i < results.length - 1 ? `1px solid ${T.border}` : "none",
+                background: r.isCorrect ? "transparent" : T.wrongSoft,
+              }
+            },
+              // Number
+              React.createElement("span", {
+                style: { fontSize: 13, fontWeight: 600, color: T.accent }
+              }, `Q${r.id}`),
+              // Topic
+              React.createElement("span", {
+                style: {
+                  fontSize: 11, color: T.textSec,
+                  overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap",
+                }
+              }, r.topic),
+              // Points
+              React.createElement("span", {
+                style: { fontSize: 12, fontWeight: 600, color: T.text, textAlign: "center" }
+              }, `${r.pts}점`),
+              // O/X
+              React.createElement("span", {
+                style: {
+                  fontSize: 15, textAlign: "center", fontWeight: 700,
+                  color: r.isCorrect ? T.correct : T.wrong,
+                }
+              }, r.isCorrect ? "\u2713" : "\u2717"),
+              // Recommended time
+              React.createElement("span", {
+                style: { fontSize: 12, color: T.textSec, textAlign: "center", fontVariantNumeric: "tabular-nums" }
+              }, r.rec),
+              // Actual time
+              React.createElement("span", {
+                style: {
+                  fontSize: 12, fontWeight: 600, textAlign: "center",
+                  color: overTime ? T.wrong : T.correct,
+                  fontVariantNumeric: "tabular-nums",
+                }
+              }, fmtTime(r.spentSec)),
+              // Bar chart
+              React.createElement("div", {
+                style: { position: "relative", height: 16, borderRadius: 4, overflow: "hidden" }
+              },
+                // Recommended (gray background bar)
+                React.createElement("div", {
+                  style: {
+                    position: "absolute", top: 0, left: 0,
+                    height: "100%", borderRadius: 4,
+                    background: T.tagBg,
+                    width: `${recPct}%`,
+                  }
+                }),
+                // Actual (colored bar)
+                React.createElement("div", {
+                  className: "bar-grow",
+                  style: {
+                    position: "absolute", top: 2, left: 0,
+                    height: 12, borderRadius: 3,
+                    background: barColor,
+                    opacity: 0.7,
+                    "--bar-w": `${spentPct}%`,
+                    width: `${spentPct}%`,
+                  }
+                }),
+                // Over-time tag
+                overTime ? React.createElement("span", {
+                  style: {
+                    position: "absolute", right: 2, top: 1,
+                    fontSize: 9, color: T.wrong, fontWeight: 700,
+                    background: "rgba(255,255,255,0.85)", padding: "0 4px", borderRadius: 3,
+                  }
+                }, "초과") : null
+              )
+            );
+          })
+        ),
+
+        // ---- Detailed Solutions ----
+        React.createElement("div", {
+          style: { marginBottom: 20 }
+        },
+          React.createElement("h3", {
+            style: {
+              fontSize: 15, fontWeight: 700, color: T.text, marginBottom: 14, padding: "0 4px",
+            }
+          }, "상세 해설"),
+          ...results.map((r, i) =>
+            React.createElement("details", {
+              key: r.id,
+              style: {
+                background: T.surface, borderRadius: 14, marginBottom: 10,
+                border: `1px solid ${r.isCorrect ? T.correctBorder : T.wrongBorder}`,
+                overflow: "hidden",
+              }
+            },
+              React.createElement("summary", {
+                style: {
+                  padding: "14px 16px", cursor: "pointer",
+                  display: "flex", alignItems: "center", gap: 10,
+                  fontSize: 14, color: T.text, fontWeight: 500,
+                  listStyle: "none",
+                }
+              },
+                React.createElement("span", {
+                  style: {
+                    display: "inline-flex", alignItems: "center", justifyContent: "center",
+                    width: 28, height: 28, borderRadius: "50%",
+                    background: r.isCorrect ? T.correctSoft : T.wrongSoft,
+                    color: r.isCorrect ? T.correct : T.wrong,
+                    fontSize: 14, fontWeight: 700, flexShrink: 0,
+                  }
+                }, r.isCorrect ? "\u2713" : "\u2717"),
+                React.createElement("span", { style: { flex: 1 } },
+                  `${r.id}번 `,
+                  React.createElement("span", { style: { color: T.textSec, fontSize: 12 } },
+                    `${r.topic} \u00B7 ${r.type}`
+                  )
+                ),
+                React.createElement("span", {
+                  style: {
+                    fontSize: 12, fontWeight: 600,
+                    color: r.isCorrect ? T.correct : T.wrong,
+                  }
+                }, r.isCorrect ? `+${r.pts}점` : "0점"),
+                React.createElement("span", {
+                  style: { fontSize: 16, color: T.textTertiary, marginLeft: 4 }
+                }, "\u25BC")
+              ),
+              React.createElement("div", {
+                style: {
+                  padding: "0 16px 16px", borderTop: `1px solid ${T.border}`,
+                }
+              },
+                // User answer vs correct
+                React.createElement("div", {
+                  style: {
+                    display: "flex", gap: 12, marginTop: 12, marginBottom: 14,
+                    fontSize: 13, flexWrap: "wrap",
+                  }
+                },
+                  React.createElement("span", {
+                    style: {
+                      padding: "4px 10px", borderRadius: 6,
+                      background: T.wrongSoft, color: T.wrong,
+                    }
+                  }, r.mode === "choice"
+                    ? `내 답: ${r.userAns !== undefined ? `${r.userAns + 1}번` : "미답"}`
+                    : `내 답: ${r.userAns || "미답"}`
+                  ),
+                  React.createElement("span", {
+                    style: {
+                      padding: "4px 10px", borderRadius: 6,
+                      background: T.correctSoft, color: T.correct,
+                    }
+                  }, r.mode === "choice"
+                    ? `정답: ${r.ans + 1}번`
+                    : `정답: ${r.ans}`
+                  ),
+                ),
+                // Solution text
+                React.createElement("div", {
+                  style: { fontSize: 14, color: T.text, lineHeight: 1.8, marginBottom: 10 }
+                },
+                  React.createElement(MixedText, { text: r.solution })
+                ),
+                // Solution LaTeX
+                r.solTex ? React.createElement("div", {
+                  style: {
+                    background: T.tagBg, borderRadius: 10, padding: "12px 14px",
+                    textAlign: "center", marginBottom: r.solNote ? 10 : 0,
+                  }
+                }, React.createElement(Tex, { expr: r.solTex, display: true })) : null,
+                // Solution note
+                r.solNote ? React.createElement("div", {
+                  style: {
+                    fontSize: 13, color: T.accent, fontStyle: "italic",
+                    background: T.accentSoft, padding: "8px 12px", borderRadius: 8,
+                  }
+                }, r.solNote) : null,
+              )
+            )
+          )
+        ),
+
+        // ---- Retry Button ----
+        React.createElement("button", {
+          onClick: () => {
+            setPhase(PHASES.intro);
+            setCurIdx(0);
+            setAnswers({});
+            setTimeLeft(TOTAL_TIME);
+            setTimeSpent({});
+            timeSpentRef.current = {};
+            setSubmitted(false);
+            setQuizStarted(false);
+          },
+          style: {
+            width: "100%", padding: "16px 0", borderRadius: 14, border: "none",
+            background: "linear-gradient(135deg, #C96442, #D4784E)",
+            color: "#fff", fontSize: 17, fontWeight: 700, cursor: "pointer",
+            marginBottom: 20,
+          }
+        }, "다시 풀기"),
+      )
+    );
+  }
+
+  return null;
+}
+
+/* ── Mount ───────────────────────────────────────────── */
+const root = ReactDOM.createRoot(document.getElementById("root"));
+root.render(React.createElement(App));
+
+  </script>
+</body>
+</html>
