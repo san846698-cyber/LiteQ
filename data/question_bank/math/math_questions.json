@@ -4669,7 +4669,7 @@
       "④ 3",
       "⑤ 4"
     ],
-    "ans": "2",
+    "ans": "1",
     "solution": "구분구적법에 의하여\n$\\displaystyle\\lim_{n \\to \\infty} \\dfrac{1}{n}\\sum_{k=1}^{n} 3\\!\\left(\\dfrac{k}{n}\\right)^{\\!2} = \\int_0^1 3x^2\\,dx$\n$= \\bigl[x^3\\bigr]_0^1 = 1$",
     "solTex": "$1$",
     "solNote": "$\\dfrac{1}{n}\\sum f\\!\\left(\\dfrac{k}{n}\\right) \\to \\int_0^1 f(x)\\,dx$임을 이용한다.",
@@ -4678,7 +4678,7 @@
       "적분",
       "극한"
     ],
-    "ans_index": 2,
+    "ans_index": 1,
     "status": "approved",
     "source": "week3_week3_fri_daily",
     "source_id": 5,
