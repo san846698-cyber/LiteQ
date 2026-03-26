@@ -1,0 +1,1417 @@
+{
+  "meta": {
+    "date": "2026-03-24",
+    "day": "tue",
+    "total_questions": 31,
+    "sets": [
+      {
+        "subject": "영어",
+        "type": "daily",
+        "total": 14,
+        "est_time": "25분"
+      },
+      {
+        "subject": "수학",
+        "type": "daily",
+        "total": 7,
+        "est_time": "20분"
+      },
+      {
+        "subject": "생활과윤리",
+        "type": "daily",
+        "total": 10,
+        "est_time": "20분"
+      }
+    ]
+  },
+  "sets": [
+    {
+      "subject": "영어",
+      "type": "daily",
+      "questions": [
+        {
+          "qid": "en_blank_word_d1_007",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "빈칸 추론",
+          "subtype": "blank_word",
+          "diff": 1,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+          "passage": "In game theory, a Nash equilibrium describes a situation in which no individual player can improve their outcome by changing their strategy, given the strategies of all other players. Once a Nash equilibrium is reached, the system becomes ______________ — each player's best response to everyone else's choice is to maintain their current strategy. This concept illuminates a wide range of social phenomena. Traffic patterns, pricing strategies among competing firms, and even the evolution of social conventions can all be analyzed as equilibria in which individuals, each acting in their own interest, arrive at a stable configuration from which no one has an incentive to deviate. Perhaps the most famous example is the Prisoner's Dilemma, in which two prisoners, unable to communicate, each choose to confess rather than cooperate, reaching an equilibrium that is worse for both than mutual silence would have been. Nash equilibria can thus be stable without being optimal — a fact with important implications for understanding why collectively harmful patterns of behavior persist.",
+          "passage_type": "reading",
+          "passage_meta": "빈칸 추론",
+          "passage_id": "en_passage_188",
+          "word_count": 167,
+          "opts": [
+            "① competitive",
+            "② unstable",
+            "③ self-reinforcing",
+            "④ unpredictable",
+            "⑤ progressive"
+          ],
+          "ans": "2",
+          "ans_index": 2,
+          "solution": "정답: ③ self-reinforcing\n빈칸은 'Once a Nash equilibrium is reached, the system becomes ___'에 있습니다. 내쉬 균형의 정의: 다른 모든 플레이어의 전략이 주어졌을 때, 어떤 개별 플레이어도 전략을 바꿔서 이득을 볼 수 없는 상태. 각 플레이어의 최선 대응이 현재 전략을 유지하는 것이므로, 시스템은 상호 최선 대응을 통해 스스로를 유지합니다. 'self-reinforcing(자기 강화적)'은 각 참여자의 합리적 반응이 균형을 유지/강화하는 이 특성을 정확히 표현합니다.",
+          "explanations": {
+            "correct": "정답: ③ self-reinforcing\n빈칸은 'Once a Nash equilibrium is reached, the system becomes ___'에 있습니다. 내쉬 균형의 정의: 다른 모든 플레이어의 전략이 주어졌을 때, 어떤 개별 플레이어도 전략을 바꿔서 이득을 볼 수 없는 상태. 각 플레이어의 최선 대응이 현재 전략을 유지하는 것이므로, 시스템은 상호 최선 대응을 통해 스스로를 유지합니다. 'self-reinforcing(자기 강화적)'은 각 참여자의 합리적 반응이 균형을 유지/강화하는 이 특성을 정확히 표현합니다.",
+            "wrong": {
+              "1": "① competitive — '경쟁적'은 경쟁이 존재하지만, 내쉬 균형의 핵심은 안정성이지 경쟁 자체가 아닙니다.",
+              "2": "② unstable — '불안정한'은 정반대입니다. 내쉬 균형은 안정적 상태(이탈 유인이 없음)의 정의입니다.",
+              "4": "④ unpredictable — '예측 불가능한'은 내쉬 균형과 모순됩니다. 균형 상태는 정의상 예측 가능합니다.",
+              "5": "⑤ progressive — '진보적'은 개선을 암시하지만, 지문 끝에서 내쉬 균형이 '최적이 아닐 수 있다(stable without being optimal)'고 명시합니다."
+            },
+            "key_point": "빈칸 추론 핵심 전략: 학술 개념의 정의가 빈칸 앞뒤에 풀어져 있을 때, 그 정의의 핵심 속성을 한 단어로 압축해야 합니다. '누구도 이탈하면 손해 → 모두 유지 → 시스템 자체가 유지됨' = self-reinforcing."
+          },
+          "solTex": null,
+          "solNote": "빈칸 추론 핵심 전략: 학술 개념의 정의가 빈칸 앞뒤에 풀어져 있을 때, 그 정의의 핵심 속성을 한 단어로 압축해야 합니다. '누구도 이탈하면 손해 → 모두 유지 → 시스템 자체가 유지됨' = self-reinforcing.",
+          "tags": [
+            "빈칸 추론",
+            "type-31"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-31-24",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_gist_d1_004",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "요지",
+          "subtype": "gist",
+          "diff": 1,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 글의 요지로 가장 적절한 것은?",
+          "passage": "Music is often thought of as a purely aesthetic experience, but researchers have found that it serves deep social and biological functions. Evolutionary psychologists propose that music, like language, evolved as a mechanism for social bonding. Synchronizing movement to rhythm — as people do when dancing or marching together — triggers the release of endorphins and creates feelings of affiliation and trust among participants. This \"social bonding\" hypothesis is supported by cross-cultural evidence: virtually every known human society engages in communal music-making, suggesting that it fulfills a universal need. Mothers across cultures instinctively use lullabies to regulate infant emotions, and militaries have historically used marching music to coordinate soldiers and build unit cohesion. Far from being a luxury or mere entertainment, music appears to be a fundamental tool through which human communities establish and reinforce their bonds.",
+          "passage_type": "reading",
+          "passage_meta": "요지",
+          "passage_id": "en_passage_083",
+          "word_count": 137,
+          "opts": [
+            "① 문화권에 따라 음악이 수행하는 사회적 기능은 현저하게 다양하다.",
+            "② 음악 감상은 개인의 감정 조절 능력과 정서적 지능을 발달시킨다.",
+            "③ 공동체의 결속을 위해 음악 교육을 강화하는 정책이 마련되어야 한다.",
+            "④ 음악은 미적 쾌감을 넘어 사회적 유대를 형성하는 근본적인 기능을 수행한다.",
+            "⑤ 진화론적 관점에서 음악과 언어는 동일한 생물학적 기원을 공유한다."
+          ],
+          "ans": "3",
+          "ans_index": 3,
+          "solution": "지문은 음악이 단순한 미적 경험이 아니라 사회적 유대를 형성하는 진화적 기제임을 주장한다. 리듬 동조가 엔도르핀 분비와 소속감을 유발하고, 모든 문화권에서 공동 음악 활동이 존재한다는 범문화적 증거를 제시한다. 마지막 문장 \"music appears to be a fundamental tool through which human communities establish and reinforce their bonds\"가 요지를 압축하며, 음악이 미적 차원을 넘어 사회적 유대를 형성하는 근본 기능을 한다는 것이 답이다.",
+          "explanations": {
+            "correct": "지문은 음악이 단순한 미적 경험이 아니라 사회적 유대를 형성하는 진화적 기제임을 주장한다. 리듬 동조가 엔도르핀 분비와 소속감을 유발하고, 모든 문화권에서 공동 음악 활동이 존재한다는 범문화적 증거를 제시한다. 마지막 문장 \"music appears to be a fundamental tool through which human communities establish and reinforce their bonds\"가 요지를 압축하며, 음악이 미적 차원을 넘어 사회적 유대를 형성하는 근본 기능을 한다는 것이 답이다.",
+            "wrong": [
+              "①은 지문의 주장과 정반대이다. 지문은 사회적 유대 형성 기능이 \"virtually every known human society\"에서 나타나는 보편적 현상임을 강조한다. 문화권에 따른 다양성이 아니라 문화 횡단적 보편성이 핵심이다.",
+              "②는 지문에서 다루지 않는 내용이다. 지문은 개인의 감정 조절 능력이나 정서적 지능 발달에 대해 논하지 않는다. 자장가가 영아의 감정을 조절하는 사례는 언급되지만, 이는 음악의 사회적 기능을 예시하기 위한 것이다.",
+              "③은 지문에서 제안하지 않는 정책적 내용이다. 지문은 현상을 설명하고 음악의 기능을 분석할 뿐, 음악 교육 강화 정책을 권고하지 않는다.",
+              "⑤는 지문의 내용을 과도하게 확장한 것이다. 지문은 음악이 언어처럼 사회적 결속을 위해 진화했다고 제안하지만, 두 가지가 '동일한 생물학적 기원'을 공유한다고 명시하지는 않는다."
+            ],
+            "key_point": "음악은 사치나 오락이 아니라, 리듬 동조를 통한 엔도르핀 분비와 소속감 형성으로 인간 공동체의 사회적 유대를 구축하고 강화하는 근본적 도구이다."
+          },
+          "solTex": null,
+          "solNote": "음악은 사치나 오락이 아니라, 리듬 동조를 통한 엔도르핀 분비와 소속감 형성으로 인간 공동체의 사회적 유대를 구축하고 강화하는 근본적 도구이다.",
+          "tags": [
+            "요지",
+            "type-22"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-22-08",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_vocab_d1_004",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "어휘",
+          "subtype": "vocab",
+          "diff": 1,
+          "pts": 3,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+          "passage": "The bystander effect demonstrates that social context powerfully shapes whether individuals act in an emergency. Contrary to intuition, studies show that the more witnesses present at an emergency, the ① more likely any single person is to intervene. This paradox arises because the presence of others creates what psychologists call diffusion of responsibility: each bystander assumes that someone else will take action, and so no one does. A second mechanism is pluralistic ② ignorance, where bystanders look to one another for cues about how to respond. If no one else is visibly reacting, each person privately assumes the situation must not be serious. Together, these two processes can ③ paralyze a crowd of otherwise helpful individuals. Training people to recognize the bystander effect and to ④ designate a specific individual to help can significantly ⑤ increase the chance that aid will actually be provided.",
+          "passage_type": "reading",
+          "passage_meta": "어휘",
+          "passage_id": "en_passage_143",
+          "word_count": 144,
+          "opts": [
+            "① ①",
+            "② ②",
+            "③ ③",
+            "④ ④",
+            "⑤ ⑤"
+          ],
+          "ans": "0",
+          "ans_index": 0,
+          "solution": "① more → less: 방관자 효과(bystander effect)는 목격자가 많을수록 개인의 개입 가능성이 '낮아진다(less likely)'는 반직관적 현상입니다. '더 높다(more likely)'는 직관적 기대(비효과적 가정)이며, 바로 앞의 'Contrary to intuition'이 오답임을 예고합니다.",
+          "explanations": {
+            "correct": "① more → less: 방관자 효과(bystander effect)는 목격자가 많을수록 개인의 개입 가능성이 '낮아진다(less likely)'는 반직관적 현상입니다. '더 높다(more likely)'는 직관적 기대(비효과적 가정)이며, 바로 앞의 'Contrary to intuition'이 오답임을 예고합니다.",
+            "wrong": {
+              "2": "② ignorance는 적절합니다. 아무도 눈에 띄게 반응하지 않으면 각자가 상황이 심각하지 않다고 사적으로 가정하는 '다원적 무지(pluralistic ignorance)'는 방관자 효과의 두 번째 메커니즘입니다.",
+              "3": "③ paralyze는 적절합니다. 책임 분산과 다원적 무지가 함께 작용하면 원래 도움을 줄 의향이 있는 군중을 '마비(paralyze)'시킬 수 있다는 설명과 맞습니다.",
+              "4": "④ designate는 적절합니다. 특정 개인을 지목하여 도움을 '지정(designate)'하면 책임 분산 메커니즘을 극복할 수 있다는 해결책으로 적절합니다.",
+              "5": "⑤ increase는 적절합니다. 방관자 효과 훈련과 특정 개인 지목이 실제 도움이 제공될 가능성을 '높인다(increase)'는 긍정적 결론과 자연스럽게 연결됩니다."
+            },
+            "key_point": "'Contrary to intuition' 표현이 나오면 뒤에 이어지는 밑줄 친 단어가 '직관과 반대 방향'인지 확인하세요. 이 글에서 직관(많을수록 도울 것)과 현실(많을수록 덜 도움)이 반대입니다."
+          },
+          "solTex": null,
+          "solNote": "'Contrary to intuition' 표현이 나오면 뒤에 이어지는 밑줄 친 단어가 '직관과 반대 방향'인지 확인하세요. 이 글에서 직관(많을수록 도울 것)과 현실(많을수록 덜 도움)이 반대입니다.",
+          "tags": [
+            "어휘",
+            "type-30"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-30-04",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_insertion_d1_004",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "문장 삽입",
+          "subtype": "insertion",
+          "diff": 1,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+          "passage": "For much of the nineteenth century, physicians administered treatments whose physiological mechanisms were poorly understood, yet many patients reported genuine improvements in their conditions. ( ① ) These improvements were initially attributed to the active ingredients in whatever remedy had been prescribed. ( ② ) This insight fundamentally altered how researchers designed clinical trials, leading to the adoption of placebo-controlled studies in which neither patients nor clinicians know who is receiving the active treatment. ( ③ ) The placebo effect has since been observed across a remarkably wide range of conditions, from chronic pain and irritable bowel syndrome to anxiety and Parkinson's disease. ( ④ ) Researchers have even documented cases of open-label placebos — where patients are told explicitly that they are taking an inert pill — still producing measurable therapeutic effects. ( ⑤ ) Such findings suggest that the act of receiving care, the ritual of treatment itself, may activate biological pathways that promote healing independently of any specific drug.",
+          "passage_type": "reading",
+          "passage_meta": "문장 삽입",
+          "passage_id": "en_passage_268",
+          "word_count": 162,
+          "opts": [
+            "① ①",
+            "② ②",
+            "③ ③",
+            "④ ④",
+            "⑤ ⑤"
+          ],
+          "ans": "1",
+          "ans_index": 1,
+          "solution": "②가 정답이다. ② 앞 문장은 '개선 효과가 처방된 치료제의 활성 성분 덕분이라고 여겨졌다'고 서술한다. 삽입 문장은 'However'로 이를 반박하며 '효과는 화학적 성질이 아니라 환자의 믿음에 달려 있었다'고 밝힌다. ② 뒤 문장은 \"This insight fundamentally altered how researchers designed clinical trials\"로 시작하는데, 'This insight'는 삽입 문장의 '믿음이 핵심' 발견을 직접 가리킨다. 삽입 문장 없이는 'This insight'의 선행사가 없어 문맥이 단절된다.",
+          "explanations": {
+            "correct": "②가 정답이다. ② 앞 문장은 '개선 효과가 처방된 치료제의 활성 성분 덕분이라고 여겨졌다'고 서술한다. 삽입 문장은 'However'로 이를 반박하며 '효과는 화학적 성질이 아니라 환자의 믿음에 달려 있었다'고 밝힌다. ② 뒤 문장은 \"This insight fundamentally altered how researchers designed clinical trials\"로 시작하는데, 'This insight'는 삽입 문장의 '믿음이 핵심' 발견을 직접 가리킨다. 삽입 문장 없이는 'This insight'의 선행사가 없어 문맥이 단절된다.",
+            "wrong": [
+              "①은 오답이다. ① 앞 문장에서는 아직 '활성 성분 덕분'이라는 초기 귀인이 언급되지 않아 삽입 문장의 'However'가 대비할 내용이 없다.",
+              "③은 오답이다. ③ 앞에 이미 믿음 관련 통찰이 명명되고 임상시험 설계에 적용된 상태다. 여기에 그 통찰을 다시 도입하면 중복이 된다.",
+              "④는 오답이다. ④ 앞뒤는 플라시보 효과가 나타나는 다양한 질환을 열거하고 있다. 화학 대 믿음의 대비를 이 열거 가운데 삽입하면 주제 흐름이 끊긴다.",
+              "⑤는 오답이다. ⑤ 뒤는 치유 의식의 생물학적 경로라는 결론을 제시한다. 플라시보의 근본 발견을 결론 뒤에 놓으면 논증 순서가 역전된다."
+            ],
+            "key_point": "삽입 문장의 'However'(활성 성분 귀인에 대한 역접)와 뒤따르는 'This insight'(삽입 문장의 믿음-효과 발견을 지시)가 정답의 핵심 단서다."
+          },
+          "solTex": null,
+          "solNote": "삽입 문장의 'However'(활성 성분 귀인에 대한 역접)와 뒤따르는 'This insight'(삽입 문장의 믿음-효과 발견을 지시)가 정답의 핵심 단서다.",
+          "tags": [
+            "문장 삽입",
+            "type-38"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-38-04",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_grammar_d1_002",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "어법",
+          "subtype": "grammar",
+          "diff": 1,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 글의 밑줄 친 부분 중, 어법상 틀린 것은?",
+          "passage": "The rapid expansion of global supply chains over the past three decades has fundamentally altered the way goods ① are manufactured and distributed. When a single product such as a smartphone contains components sourced from dozens of countries, the logistics of coordinating production across multiple time zones ② become extraordinarily complex. Critics of globalization argue that the efficiency gains ③ generate by dispersed manufacturing often come at the expense of local workers and environments. Yet proponents counter that international trade has lifted hundreds of millions of people out of poverty and that the overall standard of living in developing economies ④ has risen substantially since the 1990s. The challenge for policymakers is to design regulations that ⑤ preserve the benefits of global integration while addressing its well-documented social costs.",
+          "passage_type": "reading",
+          "passage_meta": "어법",
+          "passage_id": "en_passage_116",
+          "word_count": 129,
+          "opts": [
+            "① ①",
+            "② ②",
+            "③ ③",
+            "④ ④",
+            "⑤ ⑤"
+          ],
+          "ans": "2",
+          "ans_index": 2,
+          "solution": "③ generate → generated: 문법 규칙 — 분사의 능동·수동 구별(Active vs. Passive Participle). 'the efficiency gains ③ generate by dispersed manufacturing'에서 gains(이익)는 분산 제조에 의해 '만들어지는' 수동 관계이므로 과거분사 'generated'가 필요합니다. 원형 'generate'는 동사 자리에는 쓸 수 없고(문장 내 서술어 자리가 아님), 능동분사로 쓰면 이익이 무언가를 '만드는' 의미가 되어 맥락에 맞지 않습니다.",
+          "explanations": {
+            "correct": "③ generate → generated: 문법 규칙 — 분사의 능동·수동 구별(Active vs. Passive Participle). 'the efficiency gains ③ generate by dispersed manufacturing'에서 gains(이익)는 분산 제조에 의해 '만들어지는' 수동 관계이므로 과거분사 'generated'가 필요합니다. 원형 'generate'는 동사 자리에는 쓸 수 없고(문장 내 서술어 자리가 아님), 능동분사로 쓰면 이익이 무언가를 '만드는' 의미가 되어 맥락에 맞지 않습니다.",
+            "wrong": {
+              "1": "① 'are manufactured'는 올바릅니다. 관계절 내에서 복수 주어 'goods'에 맞는 복수 수동태이며, 물건이 제조되는 수동 의미가 적절합니다.",
+              "2": "② 'become'은 올바릅니다. 핵심 주어 'the logistics'(복수)에 맞는 복수 동사입니다. 뒤의 긴 수식구가 주어를 단수로 착각하게 만드는 함정입니다.",
+              "4": "④ 'has risen'은 올바릅니다. 핵심 주어 'the overall standard of living'(단수)에 맞는 현재완료 단수 동사입니다.",
+              "5": "⑤ 'preserve'는 올바릅니다. 관계절 내에서 복수 선행사 'regulations'에 수 일치하는 복수 동사입니다."
+            },
+            "key_point": "명사를 뒤에서 수식하는 분사는 명사가 행위 주체이면 현재분사(-ing), 행위 대상이면 과거분사(-ed). 'generated by dispersed manufacturing'처럼 'by+행위자'가 따라오면 반드시 수동 과거분사입니다."
+          },
+          "solTex": null,
+          "solNote": "명사를 뒤에서 수식하는 분사는 명사가 행위 주체이면 현재분사(-ing), 행위 대상이면 과거분사(-ed). 'generated by dispersed manufacturing'처럼 'by+행위자'가 따라오면 반드시 수동 과거분사입니다.",
+          "tags": [
+            "어법",
+            "type-29"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-29-03",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_gist_d2_003",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "요지",
+          "subtype": "gist",
+          "diff": 2,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 글의 요지로 가장 적절한 것은?",
+          "passage": "The relationship between poverty and cognitive performance has been studied extensively, with findings that challenge simple explanations. Sendhil Mullainathan and Eldar Shafir propose that scarcity — whether of money, time, or any other resource — itself imposes a cognitive burden. When people are preoccupied with urgent, unmet needs, mental bandwidth that would otherwise be available for planning, problem-solving, and self-control is consumed by the pressing concern at hand. This phenomenon, called the \"scarcity mindset,\" explains why poor financial decisions are not simply the result of poor character or lack of intelligence but are in part a predictable consequence of cognitive overload. Importantly, the scarcity mindset can be temporarily induced in wealthy individuals through experimental manipulations, producing comparable cognitive impairments. Addressing poverty, therefore, is not only a matter of providing material resources but also of reducing the cognitive tax that deprivation imposes.",
+          "passage_type": "reading",
+          "passage_meta": "요지",
+          "passage_id": "en_passage_082",
+          "word_count": 141,
+          "opts": [
+            "① 빈곤층이 나쁜 재정 결정을 내리는 것은 의지력 부족이 아닌 인지 과부하 때문이다.",
+            "② 결핍 상황에서의 인지 기능 저하는 부유층에게는 나타나지 않는 현상이다.",
+            "③ 빈곤 해결을 위해서는 물질적 지원과 함께 인지적 부담을 줄이는 정책이 필요하다.",
+            "④ 시간적 결핍은 금전적 결핍과 달리 인지 능력에 거의 영향을 미치지 않는다.",
+            "⑤ 자기 통제력 강화 훈련이 빈곤층의 재정 결정 능력 향상에 효과적이다."
+          ],
+          "ans": "2",
+          "ans_index": 2,
+          "solution": "지문은 '결핍 마인드셋(scarcity mindset)'이 인지적 대역폭을 소모하여 의사결정 능력을 저하시킨다고 설명한다. 결론부 \"Addressing poverty, therefore, is not only a matter of providing material resources but also of reducing the cognitive tax that deprivation imposes\"가 핵심을 직접 제시하며, 빈곤 해결에는 물질적 지원과 함께 인지적 부담 경감 정책이 필요하다는 것이 요지이다.",
+          "explanations": {
+            "correct": "지문은 '결핍 마인드셋(scarcity mindset)'이 인지적 대역폭을 소모하여 의사결정 능력을 저하시킨다고 설명한다. 결론부 \"Addressing poverty, therefore, is not only a matter of providing material resources but also of reducing the cognitive tax that deprivation imposes\"가 핵심을 직접 제시하며, 빈곤 해결에는 물질적 지원과 함께 인지적 부담 경감 정책이 필요하다는 것이 요지이다.",
+            "wrong": [
+              "①은 지문의 중간 주장이지 최종 결론이 아니다. 인지 과부하가 나쁜 재정 결정의 원인이라는 내용은 맞지만, 지문은 이를 넘어 빈곤 해결 방식에 대한 정책적 함의(물질적+인지적 지원)를 최종 결론으로 제시한다.",
+              "②는 지문과 정반대이다. 지문은 \"the scarcity mindset can be temporarily induced in wealthy individuals through experimental manipulations, producing comparable cognitive impairments\"라고 명시하여 부유층도 결핍 마인드셋의 영향을 받을 수 있음을 밝힌다.",
+              "④는 지문의 내용과 상반된다. 지문은 결핍이 \"whether of money, time, or any other resource\"라고 명시하여 시간적 결핍도 인지 능력에 동일하게 영향을 미침을 분명히 한다.",
+              "⑤는 지문에서 지지되지 않는 내용이다. 지문은 빈곤층의 나쁜 결정이 의지력이나 자기통제력 부족이 아닌 인지 과부하의 결과라고 주장하며, 자기통제력 훈련을 해결책으로 제시하지 않는다."
+            ],
+            "key_point": "결핍은 인지 대역폭을 소모하는 '인지세(cognitive tax)'를 부과하므로, 빈곤 해결은 물질적 지원만으로 부족하며 인지적 부담을 줄이는 정책 설계가 함께 이루어져야 한다."
+          },
+          "solTex": null,
+          "solNote": "결핍은 인지 대역폭을 소모하는 '인지세(cognitive tax)'를 부과하므로, 빈곤 해결은 물질적 지원만으로 부족하며 인지적 부담을 줄이는 정책 설계가 함께 이루어져야 한다.",
+          "tags": [
+            "요지",
+            "type-22"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-22-07",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_vocab_d2_008",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "어휘",
+          "subtype": "vocab",
+          "diff": 2,
+          "pts": 3,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 글의 밑줄 친 부분 중, 문맥상 낱말의 쓰임이 적절하지 않은 것은?",
+          "passage": "Noise pollution is increasingly recognized as a serious public health concern. Unlike air or water pollution, noise is ① inaudible to human hearing in its most harmful forms, meaning that people are often fully aware of their exposure yet underestimate its long-term consequences. Chronic exposure to traffic noise has been associated with elevated cortisol levels, impaired ② sleep quality, and increased risk of cardiovascular disease, even at levels that do not cause direct hearing damage. The effects extend beyond humans: research shows that bird populations in ③ noisy urban environments alter their mating calls to be heard above background din, and that marine animals such as whales experience navigational ④ disruption from underwater noise generated by shipping. As cities expand and transportation networks grow, managing noise exposure has become an urgent challenge for urban planners and ⑤ public health officials.",
+          "passage_type": "reading",
+          "passage_meta": "어휘",
+          "passage_id": "en_passage_155",
+          "word_count": 140,
+          "opts": [
+            "① ①",
+            "② ②",
+            "③ ③",
+            "④ ④",
+            "⑤ ⑤"
+          ],
+          "ans": "0",
+          "ans_index": 0,
+          "solution": "① inaudible → audible / perceptible: 'inaudible(들리지 않는)'이면 'people are fully aware of their exposure'가 불가능합니다. 들리지 않는 소음을 '완전히 인식한다'는 것은 자기 모순입니다. 소음이 '들린다(audible)'는 것이 전제되어야 노출을 인식하면서도 장기 결과를 과소평가한다는 역설이 성립합니다.",
+          "explanations": {
+            "correct": "① inaudible → audible / perceptible: 'inaudible(들리지 않는)'이면 'people are fully aware of their exposure'가 불가능합니다. 들리지 않는 소음을 '완전히 인식한다'는 것은 자기 모순입니다. 소음이 '들린다(audible)'는 것이 전제되어야 노출을 인식하면서도 장기 결과를 과소평가한다는 역설이 성립합니다.",
+            "wrong": {
+              "2": "② sleep quality는 적절합니다. 만성적 교통 소음 노출이 '수면 질(sleep quality)'을 손상시킨다는 공중 보건 연구 결과와 정확히 일치합니다.",
+              "3": "③ noisy는 적절합니다. 새들이 '소음이 많은(noisy)' 도시 환경에서 번식 소리를 조정한다는 생태학적 연구 결과와 맞습니다.",
+              "4": "④ disruption은 적절합니다. 선박 소음이 고래의 항법에 '교란(disruption)'을 일으킨다는 해양 생물 연구와 논리적으로 연결됩니다.",
+              "5": "⑤ public health는 적절합니다. 소음 노출 관리가 도시 계획가와 '공중 보건(public health)' 담당자들에게 긴급한 과제가 되었다는 결론과 자연스럽게 연결됩니다."
+            },
+            "key_point": "같은 문장 내의 두 표현(inaudible ... meaning that people are fully aware)이 서로 모순인지 확인하세요. 들리지 않으면 인식할 수 없다는 단순한 논리 점검으로 즉각 발견할 수 있습니다."
+          },
+          "solTex": null,
+          "solNote": "같은 문장 내의 두 표현(inaudible ... meaning that people are fully aware)이 서로 모순인지 확인하세요. 들리지 않으면 인식할 수 없다는 단순한 논리 점검으로 즉각 발견할 수 있습니다.",
+          "tags": [
+            "어휘",
+            "type-30"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-30-16",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_order_d2_015",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "순서 배열",
+          "subtype": "order",
+          "diff": 2,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+          "passage": "Architecture is often described as frozen music, a phrase that captures the idea that buildings, like musical compositions, embody rhythm, harmony, and proportion.\n\n(A) Nevertheless, these structural necessities do not prevent architects from expressing artistic vision. Throughout history, architects have found creative ways to reconcile engineering constraints with aesthetic ambitions, producing structures that are both functional and deeply moving.\n\n(B) The analogy, however, has its limits. Unlike a piece of music, which unfolds over time and exists purely as a sequence of sounds, a building must obey the laws of physics. It must bear weight, resist wind, and withstand the forces of nature.\n\n(C) Consider, for example, the Gothic cathedrals of medieval Europe. Their soaring pointed arches and flying buttresses were not merely decorative choices but ingenious engineering solutions that allowed walls to be thinner and windows to be larger, flooding interiors with light.\n\n* buttress: 부벽(건물 벽을 지탱하는 구조물)",
+          "passage_type": "reading",
+          "passage_meta": "순서 배열",
+          "passage_id": "en_passage_367",
+          "word_count": 150,
+          "opts": [
+            "① (A)-(C)-(B)",
+            "② (B)-(A)-(C)",
+            "③ (B)-(C)-(A)",
+            "④ (C)-(A)-(B)",
+            "⑤ (C)-(B)-(A)"
+          ],
+          "ans": "1",
+          "ans_index": 1,
+          "solution": "정답 순서: (B)-(A)-(C). 연결 근거 — ① (B)의 'The analogy, however, has its limits'에서 'The analogy(이 유추)'는 주어진 문장의 '얼어붙은 음악' 비유를 직접 지칭하는 지시어이며 'however'는 역접 표지입니다. ② (A)는 'Nevertheless(그럼에도 불구하고)'라는 양보 표지로 (B)의 물리적 제약을 인정하면서 반전시키고, 'these structural necessities(이러한 구조적 필요)'는 (B)에서 언급된 하중·바람 저항 등을 가리키는 지시어입니다. ③ (C)는 'Consider, for example(예를 들어)'로 (A)의 주장(제약과 미적 포부의 조화)을 고딕 성당이라는 구체적 사례로 예시합니다.",
+          "explanations": {
+            "correct": "정답 순서: (B)-(A)-(C). 연결 근거 — ① (B)의 'The analogy, however, has its limits'에서 'The analogy(이 유추)'는 주어진 문장의 '얼어붙은 음악' 비유를 직접 지칭하는 지시어이며 'however'는 역접 표지입니다. ② (A)는 'Nevertheless(그럼에도 불구하고)'라는 양보 표지로 (B)의 물리적 제약을 인정하면서 반전시키고, 'these structural necessities(이러한 구조적 필요)'는 (B)에서 언급된 하중·바람 저항 등을 가리키는 지시어입니다. ③ (C)는 'Consider, for example(예를 들어)'로 (A)의 주장(제약과 미적 포부의 조화)을 고딕 성당이라는 구체적 사례로 예시합니다.",
+            "wrong": {
+              "1": "(A)-(C)-(B): (A)의 'these structural necessities'는 (B)에서 설명된 물리적 제약을 지칭하므로 (B) 없이 첫 번째에 올 수 없습니다.",
+              "3": "(B)-(C)-(A): (C)의 'Consider, for example'은 (A)의 조화 주장을 예시해야 하는데, (A)가 (C) 뒤에 오면 역순이 됩니다.",
+              "4": "(C)-(A)-(B): (C)의 예시가 일반 주장((A)) 없이 먼저 오면 맥락이 없고, (B)의 'The analogy'가 주어진 문장과 직접 연결되어야 하므로 (B)는 항상 주어진 문장 바로 뒤에 위치해야 합니다.",
+              "5": "(C)-(B)-(A): (B)가 (C) 뒤에 오면 'The analogy'의 지시 대상인 주어진 문장과의 직접 연결이 끊기며 흐름이 어색해집니다."
+            },
+            "key_point": "지시어 'The analogy'는 주어진 문장의 비유를 직접 가리키므로 (B)가 반드시 첫 번째입니다. 이후 'these structural necessities(지시어) → for example(예시 표지)' 순서로 연결됩니다."
+          },
+          "solTex": null,
+          "solNote": "지시어 'The analogy'는 주어진 문장의 비유를 직접 가리키므로 (B)가 반드시 첫 번째입니다. 이후 'these structural necessities(지시어) → for example(예시 표지)' 순서로 연결됩니다.",
+          "tags": [
+            "순서 배열",
+            "type-36"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "english-36-52",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_blank_word_d2_002",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "빈칸 추론",
+          "subtype": "blank_word",
+          "diff": 2,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+          "passage": "Philosophers of language have long debated whether the meaning of a word resides in the word itself, in the mind of the speaker, or in the world to which it refers. The externalist position, associated with Hilary Putnam and Saul Kripke, argues that meaning is not fully in the head. In a famous thought experiment, Putnam asked us to imagine a distant planet — Twin Earth — identical to our own in every way, except that the liquid the inhabitants call 'water' is not H₂O but a chemically different substance, XYZ, that looks, tastes, and behaves exactly like water. Putnam's claim was that, despite the perfect functional similarity, the word 'water' on Earth and on Twin Earth mean different things because they refer to different substances. What this reveals is that linguistic meaning is partly determined by the ______________ to which terms refer, not solely by the mental states or intentions of the speaker.",
+          "passage_type": "reading",
+          "passage_meta": "빈칸 추론",
+          "passage_id": "en_passage_171",
+          "word_count": 154,
+          "opts": [
+            "① traditions",
+            "② emotions",
+            "③ sounds",
+            "④ habits",
+            "⑤ entities"
+          ],
+          "ans": "4",
+          "ans_index": 4,
+          "solution": "정답: ⑤ entities\n빈칸은 'meaning is partly determined by the ___ to which terms refer'에 있습니다. 지문은 Putnam의 쌍둥이 지구 사고실험을 통해 외재주의(externalism)를 설명합니다. 지구의 '물'은 H₂O를, 쌍둥이 지구의 '물'은 XYZ를 지칭하며, 기능적으로 동일해도 의미가 다릅니다. 이는 언어적 의미가 화자의 내적 상태가 아니라 단어가 실제 세계에서 가리키는 대상에 의해 결정된다는 것을 보여줍니다. 'entities(실체/대상)'는 단어가 지시하는 실제 세계의 물질/사물을 포괄적으로 나타내는 추상적 용어입니다.",
+          "explanations": {
+            "correct": "정답: ⑤ entities\n빈칸은 'meaning is partly determined by the ___ to which terms refer'에 있습니다. 지문은 Putnam의 쌍둥이 지구 사고실험을 통해 외재주의(externalism)를 설명합니다. 지구의 '물'은 H₂O를, 쌍둥이 지구의 '물'은 XYZ를 지칭하며, 기능적으로 동일해도 의미가 다릅니다. 이는 언어적 의미가 화자의 내적 상태가 아니라 단어가 실제 세계에서 가리키는 대상에 의해 결정된다는 것을 보여줍니다. 'entities(실체/대상)'는 단어가 지시하는 실제 세계의 물질/사물을 포괄적으로 나타내는 추상적 용어입니다.",
+            "wrong": {
+              "1": "① traditions — '전통'은 문화적 관습에 관한 것으로, 단어가 지시하는 실제 대상과는 다른 범주입니다.",
+              "2": "② emotions — '감정'은 내재주의적 관점이며, 지문이 주장하는 외재주의와 정반대입니다.",
+              "3": "③ sounds — '소리'는 단어의 음성적 형태를 의미하며, 단어가 가리키는 지시 대상이 아닙니다.",
+              "4": "④ habits — '습관'은 행동적 개념으로, 의미론적 지시 관계와 무관합니다."
+            },
+            "key_point": "빈칸 추론 핵심 전략: 철학적 사고실험이 제시되면, 그 실험이 증명하려는 결론이 빈칸의 핵심입니다. 쌍둥이 지구 실험의 결론은 '의미는 외부 지시체에 의해 결정된다'이며, 빈칸에는 그 지시체를 나타내는 추상어가 옵니다."
+          },
+          "solTex": null,
+          "solNote": "빈칸 추론 핵심 전략: 철학적 사고실험이 제시되면, 그 실험이 증명하려는 결론이 빈칸의 핵심입니다. 쌍둥이 지구 실험의 결론은 '의미는 외부 지시체에 의해 결정된다'이며, 빈칸에는 그 지시체를 나타내는 추상어가 옵니다.",
+          "tags": [
+            "빈칸 추론",
+            "type-31"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-31-07",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_order_d2_003",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "순서 배열",
+          "subtype": "order",
+          "diff": 2,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은?",
+          "passage": "The Irish Potato Famine of the 1840s remains the most catastrophic illustration of what happens when an agricultural system depends too heavily on a single crop variety.",
+          "passage_type": "reading",
+          "passage_meta": "순서 배열",
+          "passage_id": "en_passage_250",
+          "word_count": 27,
+          "opts": [
+            "① (A)-(C)-(B)",
+            "② (B)-(A)-(C)",
+            "③ (B)-(C)-(A)",
+            "④ (C)-(A)-(B)",
+            "⑤ (C)-(B)-(A)"
+          ],
+          "ans": "0",
+          "ans_index": 0,
+          "solution": "정답 순서는 (A)-(C)-(B)이다. (A)는 주어진 문장에서 제시된 아일랜드 기근의 구체적 사실(Lumper 감자, 기아 사망자 수)을 서술한다. (C)의 'This historical lesson'이 (A)의 기근 서술 전체를 가리키며 현대 농업의 유전적 단일화라는 더 심각한 현재 위험으로 전환한다. (B)의 'such catastrophes'는 (A)의 역사적 기근과 (C)의 현대적 위험 모두를 포괄하며 종자 은행이라는 해결책을 제시한다.",
+          "explanations": {
+            "correct": "정답 순서는 (A)-(C)-(B)이다. (A)는 주어진 문장에서 제시된 아일랜드 기근의 구체적 사실(Lumper 감자, 기아 사망자 수)을 서술한다. (C)의 'This historical lesson'이 (A)의 기근 서술 전체를 가리키며 현대 농업의 유전적 단일화라는 더 심각한 현재 위험으로 전환한다. (B)의 'such catastrophes'는 (A)의 역사적 기근과 (C)의 현대적 위험 모두를 포괄하며 종자 은행이라는 해결책을 제시한다.",
+            "wrong": {
+              "2": "(B)-(A)-(C) 순서에서 (B)의 'such catastrophes'가 처음에 오면 어떤 재앙들인지 (A)의 역사적 사례와 (C)의 현대 위험이 아직 확립되지 않아 지시어가 허공에 뜬다.",
+              "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+              "4": "(C)-(A)-(B) 순서에서 (C)의 'This historical lesson'이 처음에 오면 어떤 역사적 교훈인지 선행 서술((A))이 없어 지시어가 성립하지 않는다.",
+              "5": "(C)-(B)-(A) 순서도 동일하게 (C)가 처음에 올 수 없다."
+            },
+            "key_point": "핵심 담화 표지: ① (A) → 주어진 문장의 기근 사례를 직접 서술(첫 번째 필수) ② (C)의 'This historical lesson' → (A) 전체 지칭(A 이후 필수) ③ (B)의 'such catastrophes' → (A)+(C) 모두 포괄하는 지시어(마지막 필수). 논리 구조: 역사적 경고(주어진 문장) → 기근 상세 서술(A) → 현대적 교훈 도출(C) → 해결책(B)."
+          },
+          "solTex": null,
+          "solNote": "핵심 담화 표지: ① (A) → 주어진 문장의 기근 사례를 직접 서술(첫 번째 필수) ② (C)의 'This historical lesson' → (A) 전체 지칭(A 이후 필수) ③ (B)의 'such catastrophes' → (A)+(C) 모두 포괄하는 지시어(마지막 필수). 논리 구조: 역사적 경고(주어진 문장) → 기근 상세 서술(A) → 현대적 교훈 도출(C) → 해결책(B).",
+          "tags": [
+            "순서 배열",
+            "type-36"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-36-11",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_insertion_d3_003",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "문장 삽입",
+          "subtype": "insertion",
+          "diff": 3,
+          "pts": 3,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "글의 흐름으로 보아, 주어진 문장이 들어가기에 가장 적절한 곳을 고르시오.",
+          "passage": "The question of why physical processes in the brain give rise to subjective experience — why there is something it is like to see red, to feel pain, or to hear music — has been described by the philosopher David Chalmers as the 'hard problem of consciousness.' ( ① ) The hard problem is hard because any functional or computational account of the brain's operations seems in principle compatible with the absence of inner experience, leaving open the logical possibility of 'philosophical zombies': beings physically identical to us but devoid of inner life. ( ② ) Neuroscientists working within frameworks such as global workspace theory and integrated information theory have proposed detailed accounts of the neural mechanisms underlying conscious access and reportability. ( ③ ) Chalmers and sympathisers argue, however, that even if these theories correctly identify the neural correlates of consciousness, they do not explain why those correlates should be accompanied by subjective experience rather than occurring 'in the dark.' ( ④ ) This residual explanatory gap has motivated heterodox theoretical positions, from panpsychism — the view that experience is a fundamental feature of matter — to illusionism, which denies the hard problem by arguing that the seeming mysteriousness of subjective experience is itself a cognitive illusion. ( ⑤ ) The debate continues to attract contributions from philosophers, neuroscientists, physicists, and cognitive scientists, reflecting its reputation as perhaps the deepest open question about the nature of mind.",
+          "passage_type": "reading",
+          "passage_meta": "문장 삽입",
+          "passage_id": "en_passage_287",
+          "word_count": 238,
+          "opts": [
+            "① ①",
+            "② ②",
+            "③ ③",
+            "④ ④",
+            "⑤ ⑤"
+          ],
+          "ans": "1",
+          "ans_index": 1,
+          "solution": "②가 정답이다. ② 앞 문장은 '어려운 문제'가 왜 어려운지를 설명한다: 뇌의 기능적 설명이 내적 경험 없이도 원리상 가능하며, '철학적 좀비'의 논리적 가능성이 열려 있다는 것이다. 삽입 문장은 Chalmers가 '쉬운 문제들'(자극 구별·정보 통합·행동 제어)을 구분하는데, 이것들은 인지 신경과학으로 해결 가능하다고 정의한다. ② 뒤 문장들은 신경과학자들이 전지구적 작업공간 이론과 통합 정보 이론으로 의식의 신경 메커니즘을 설명하는데, 이것이 바로 삽입 문장에서 정의한 '쉬운 문제' 접근법이다. 삽입 문장 없이는 독자가 Chalmers가 왜 그 이론들에 불만족하는지 이해할 틀이 없다.",
+          "explanations": {
+            "correct": "②가 정답이다. ② 앞 문장은 '어려운 문제'가 왜 어려운지를 설명한다: 뇌의 기능적 설명이 내적 경험 없이도 원리상 가능하며, '철학적 좀비'의 논리적 가능성이 열려 있다는 것이다. 삽입 문장은 Chalmers가 '쉬운 문제들'(자극 구별·정보 통합·행동 제어)을 구분하는데, 이것들은 인지 신경과학으로 해결 가능하다고 정의한다. ② 뒤 문장들은 신경과학자들이 전지구적 작업공간 이론과 통합 정보 이론으로 의식의 신경 메커니즘을 설명하는데, 이것이 바로 삽입 문장에서 정의한 '쉬운 문제' 접근법이다. 삽입 문장 없이는 독자가 Chalmers가 왜 그 이론들에 불만족하는지 이해할 틀이 없다.",
+            "wrong": [
+              "①은 오답이다. '어려운 문제'의 명칭만 소개되었을 뿐 아직 왜 어려운지 특성화되지 않았다. '쉽고/어려운' 구분은 어려움 논증이 먼저 나와야 의미 있다.",
+              "③은 오답이다. 신경과학자들의 '쉬운 문제' 이론들이 이미 묘사 중이다. 그 이론들이 나온 뒤에 '쉬운/어려운' 구분을 도입하면 순서가 혼란스럽다.",
+              "④는 오답이다. Chalmers의 이론 반박이 이미 제시된 상태다. '쉽고/어려운' 프레임은 그 반박이 만들어지기 전에 와야 한다.",
+              "⑤는 오답이다. 학제적 논쟁으로 마무리되는 결론이다. 정의적 구분은 결론이 아닌 논증 본론에 속한다."
+            ],
+            "key_point": "삽입 문장의 '쉬운 문제' 정의가 ② 뒤 신경과학자 이론들의 성격을 규정하고, ③에서 Chalmers가 '그 이론들이 맞더라도 어려운 문제는 남는다'고 반박할 수 있는 개념적 틀을 제공한다."
+          },
+          "solTex": null,
+          "solNote": "삽입 문장의 '쉬운 문제' 정의가 ② 뒤 신경과학자 이론들의 성격을 규정하고, ③에서 Chalmers가 '그 이론들이 맞더라도 어려운 문제는 남는다'고 반박할 수 있는 개념적 틀을 제공한다.",
+          "tags": [
+            "문장 삽입",
+            "type-38"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-38-23",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_order_d3_004",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "순서 배열",
+          "subtype": "order",
+          "diff": 3,
+          "pts": 3,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "주어진 글 다음에 이어질 글의 순서로 가장 적절한 것은? [3점]",
+          "passage": "Traditional models of public policy assumed that if people were provided with accurate information about risks and incentives, they would make rational choices in their own best interests.",
+          "passage_type": "reading",
+          "passage_meta": "순서 배열",
+          "passage_id": "en_passage_263",
+          "word_count": 28,
+          "opts": [
+            "① (A)-(C)-(B)",
+            "② (B)-(A)-(C)",
+            "③ (B)-(C)-(A)",
+            "④ (C)-(A)-(B)",
+            "⑤ (C)-(B)-(A)"
+          ],
+          "ans": "3",
+          "ans_index": 3,
+          "solution": "정답 순서는 (C)-(A)-(B)이다. (C)의 'however'와 'this rational ideal'이 주어진 문장의 합리적 행위자 가정에 역접하며 실증적 도전을 제시한다. (A)의 두 번째 'However'는 (C)의 문제에 대응하여 넛지 이론이라는 대안 체계를 처음으로 명명한다. (B)의 'Critics of nudge theory'는 (A)에서 명명된 넛지 이론을 직접 지칭하며 비판을 제시한다.",
+          "explanations": {
+            "correct": "정답 순서는 (C)-(A)-(B)이다. (C)의 'however'와 'this rational ideal'이 주어진 문장의 합리적 행위자 가정에 역접하며 실증적 도전을 제시한다. (A)의 두 번째 'However'는 (C)의 문제에 대응하여 넛지 이론이라는 대안 체계를 처음으로 명명한다. (B)의 'Critics of nudge theory'는 (A)에서 명명된 넛지 이론을 직접 지칭하며 비판을 제시한다.",
+            "wrong": {
+              "1": "(A)-(C)-(B) 순서에서 (A)의 'However, behavioral economists...proposed an alternative framework'가 처음에 오면 무엇의 대안인지 (C)의 비합리성 증거가 아직 없어 'alternative'가 맥락 없이 등장한다.",
+              "2": "(B)-(A)-(C) 순서에서 (B)의 'Critics of nudge theory'가 처음에 오면 아직 (A)에서 넛지 이론이 소개되지 않아 지시어가 성립하지 않는다.",
+              "3": "(B)-(C)-(A) 순서도 동일하게 (B)가 처음에 올 수 없다.",
+              "5": "(C)-(B)-(A) 순서에서 (B)가 (A) 앞에 오면 아직 넛지 이론이 소개되지 않은 상태에서 비판이 나온다."
+            },
+            "key_point": "핵심 담화 표지: ① (C)의 'however'+'this rational ideal' → 주어진 문장의 합리성 가정 역접+직접 지칭(첫 번째 필수) ② (A)의 'However'+'nudge theory' → 두 번째 역접+이론 최초 명명(C 이후 필수) ③ (B)의 'nudge theory' → (A)에서 명명된 개념 직접 지칭(마지막 필수). 이 문항의 특징: 두 개의 역접 'however'(C)와 'However'(A)가 서로 다른 방향으로 전환한다."
+          },
+          "solTex": null,
+          "solNote": "핵심 담화 표지: ① (C)의 'however'+'this rational ideal' → 주어진 문장의 합리성 가정 역접+직접 지칭(첫 번째 필수) ② (A)의 'However'+'nudge theory' → 두 번째 역접+이론 최초 명명(C 이후 필수) ③ (B)의 'nudge theory' → (A)에서 명명된 개념 직접 지칭(마지막 필수). 이 문항의 특징: 두 개의 역접 'however'(C)와 'However'(A)가 서로 다른 방향으로 전환한다.",
+          "tags": [
+            "순서 배열",
+            "type-36"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-36-24",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_summary_d3_004",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "요약문",
+          "subtype": "summary",
+          "diff": 3,
+          "pts": 3,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 글의 내용을 한 문장으로 요약하고자 한다. 빈칸 (A), (B)에 들어갈 말로 가장 적절한 것은?\n\nRegulatory capture occurs when agencies meant to (A) the public from industry abuse instead come to serve industry interests, driven by information asymmetry, career incentives, and the (B) influence of organized industry groups.",
+          "passage": "Regulatory capture is the process by which a regulatory agency, created to act in the public interest, becomes dominated by the very industry it was established to oversee and comes to act in that industry's interests rather than the public's. The phenomenon was first formally analyzed by economist George Stigler in the 1970s, who argued that regulation is typically sought by and designed for the benefit of industry rather than consumers. Capture occurs through several mechanisms. Regulated industries possess far superior information about their own operations than regulators, creating an asymmetry that agencies often rely on industry insiders to bridge — insiders who bring with them the priorities and assumptions of the industry. The \"revolving door\" between industry and regulatory agencies means that regulators frequently move into lucrative industry positions after leaving public service, creating incentives to maintain cooperative rather than adversarial relationships with those they supervise. Concentrated industry interests — focused on maximizing profit from a specific regulatory outcome — are typically better organized and better funded than diffuse public interests in safety and competition, giving them disproportionate influence over rule-making and enforcement.\n* lucrative: 돈이 되는",
+          "passage_type": "reading",
+          "passage_meta": "요약문",
+          "passage_id": "en_passage_313",
+          "word_count": 188,
+          "opts": [
+            "① (A) protect — (B) disproportionate",
+            "② (A) benefit — (B) minimal",
+            "③ (A) regulate — (B) declining",
+            "④ (A) protect — (B) diminishing",
+            "⑤ (A) educate — (B) disproportionate"
+          ],
+          "ans": "0",
+          "ans_index": 0,
+          "solution": "(A) protect — 지문의 \"created to act in the public interest\"와 규제 기관이 산업을 '감독(oversee)'하도록 설립되었다는 내용이 공공을 '보호(protect)'하는 것이 본래 사명임을 뒷받침한다. (B) disproportionate — 지문의 \"giving them disproportionate influence over rule-making and enforcement\"가 산업계의 영향력이 '불균형적으로(disproportionate)' 크다는 근거를 직접 제공한다.",
+          "explanations": {
+            "correct": "(A) protect — 지문의 \"created to act in the public interest\"와 규제 기관이 산업을 '감독(oversee)'하도록 설립되었다는 내용이 공공을 '보호(protect)'하는 것이 본래 사명임을 뒷받침한다. (B) disproportionate — 지문의 \"giving them disproportionate influence over rule-making and enforcement\"가 산업계의 영향력이 '불균형적으로(disproportionate)' 크다는 근거를 직접 제공한다.",
+            "wrong": [
+              "(A) benefit이 오답 — 규제 기관의 사명은 단순히 공공에 '이익'을 주는 것이 아니라 구체적으로 산업의 남용으로부터 공공을 '보호'하는 것이다. (B) minimal도 오답 — 지문은 산업계의 영향력이 미미한 것이 아니라 'disproportionate(불균형적으로 강하다)'고 명시한다.",
+              "(A) regulate가 오답 — 지문이 강조하는 것은 단순한 규제 기능이 아니라 공익 '보호'라는 구체적 사명이다. (B) declining도 오답 — 지문은 산업계 영향력이 줄어드는 것이 아니라 오히려 'disproportionate'하게 강력하다고 서술한다.",
+              "(B) diminishing이 오답 — 지문은 산업계의 영향력이 감소하는 것이 아니라 지나치게 강하다(disproportionate)고 명시한다.",
+              "(A) educate가 오답 — 지문 어디에도 규제 기관의 사명이 교육이라는 내용은 없다."
+            ],
+            "key_point": "(A): 규제 기관의 본래 사명 = 'act in the public interest' → protect. (B): 산업계 영향력의 특성 = 'disproportionate influence over rule-making and enforcement' → disproportionate."
+          },
+          "solTex": null,
+          "solNote": "(A): 규제 기관의 본래 사명 = 'act in the public interest' → protect. (B): 산업계 영향력의 특성 = 'disproportionate influence over rule-making and enforcement' → disproportionate.",
+          "tags": [
+            "요약문",
+            "type-40"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-40-24",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "en_blank_word_d3_004",
+          "subject": "영어",
+          "unit": "읽기",
+          "topic": "빈칸 추론",
+          "subtype": "blank_word",
+          "diff": 3,
+          "pts": 3,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 빈칸에 들어갈 말로 가장 적절한 것은?",
+          "passage": "The concept of risk is deceptively simple. In formal decision theory, risk is defined as the product of the probability of an event and the magnitude of its consequences. Yet research in cognitive psychology and anthropology has consistently shown that people's actual responses to risk deviate sharply from this formula. We are far more averse to losses than to equivalent gains — the prospect of losing one hundred dollars causes roughly twice the psychological distress as the prospect of gaining one hundred dollars causes pleasure. We overestimate the probability of dramatic, memorable events such as plane crashes while underestimating the probability of mundane but statistically more common causes of death such as falls or heart disease. Perhaps most significantly, our risk assessments are deeply influenced by the degree to which a hazard is ______________ — risks that are invisible, unfamiliar, or felt to lie outside our personal control provoke far greater dread than equally dangerous but visible and voluntary ones, regardless of their actual probability.",
+          "passage_type": "reading",
+          "passage_meta": "빈칸 추론",
+          "passage_id": "en_passage_185",
+          "word_count": 165,
+          "opts": [
+            "① calculable",
+            "② avoidable",
+            "③ contested",
+            "④ preventable",
+            "⑤ uncontrollable"
+          ],
+          "ans": "4",
+          "ans_index": 4,
+          "solution": "정답: ⑤ uncontrollable\n빈칸은 'risk assessments are deeply influenced by the degree to which a hazard is ___'에 있습니다. 빈칸 바로 뒤에 대시(—) 이후 정의가 나옵니다: 'invisible, unfamiliar, or felt to lie outside our personal control.' 이 세 특성의 공통분모이자 핵심은 '통제 불가능성'입니다. 또한 마지막 부분에서 'equally dangerous but visible and voluntary ones'과 대조되는데, voluntary(자발적)의 반대가 uncontrollable(통제 불가능한)입니다.",
+          "explanations": {
+            "correct": "정답: ⑤ uncontrollable\n빈칸은 'risk assessments are deeply influenced by the degree to which a hazard is ___'에 있습니다. 빈칸 바로 뒤에 대시(—) 이후 정의가 나옵니다: 'invisible, unfamiliar, or felt to lie outside our personal control.' 이 세 특성의 공통분모이자 핵심은 '통제 불가능성'입니다. 또한 마지막 부분에서 'equally dangerous but visible and voluntary ones'과 대조되는데, voluntary(자발적)의 반대가 uncontrollable(통제 불가능한)입니다.",
+            "wrong": {
+              "1": "① calculable — '계산 가능한'은 지문이 도전하고 있는 형식적 위험 이론(확률 × 결과)의 관점이므로, 오히려 지문이 반박하는 개념입니다.",
+              "2": "② avoidable — '회피 가능한'은 통제 가능성과 부분적으로 겹치지만, 'invisible/unfamiliar' 차원을 포괄하지 못합니다.",
+              "3": "③ contested — '논쟁적'은 위험에 대한 사회적 의견 불일치를 암시하지만, 지문의 논점은 개인적 통제감입니다.",
+              "4": "④ preventable — '예방 가능한'은 예방에 관한 것으로, 공포를 유발하는 통제 불가능성과는 다른 개념입니다."
+            },
+            "key_point": "빈칸 추론 핵심 전략: 빈칸 직후에 대시(—)로 연결된 설명구가 오면, 그 설명이 빈칸의 정의입니다. 여러 특성이 나열되면 그 공통 상위 개념을 찾으세요. invisible + unfamiliar + outside personal control의 공통분모 = uncontrollable."
+          },
+          "solTex": null,
+          "solNote": "빈칸 추론 핵심 전략: 빈칸 직후에 대시(—)로 연결된 설명구가 오면, 그 설명이 빈칸의 정의입니다. 여러 특성이 나열되면 그 공통 상위 개념을 찾으세요. invisible + unfamiliar + outside personal control의 공통분모 = uncontrollable.",
+          "tags": [
+            "빈칸 추론",
+            "type-31"
+          ],
+          "status": "approved",
+          "source": "english-seed",
+          "source_id": "v2-31-21",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "subject": "수학",
+      "type": "daily",
+      "questions": [
+        {
+          "qid": "math_misc_등비급수_d1_001",
+          "subject": "수학",
+          "unit": "수학Ⅰ",
+          "topic": "등비급수",
+          "subtype": "등비급수",
+          "diff": 1,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "0:45",
+          "stem": "등비급수 \\displaystyle\\sum_{n=1}^{\\infty} 3\\!\\left(\\dfrac{1}{2}\\right)^{n-1} 의 합은?",
+          "tex": "\\sum_{n=1}^{\\infty} 3\\!\\left(\\dfrac{1}{2}\\right)^{n-1}",
+          "opts": [
+            "① 3",
+            "② 4",
+            "③ 6",
+            "④ 8",
+            "⑤ 12"
+          ],
+          "ans": "2",
+          "solution": "첫째항 a = 3, 공비 r = 1/2 인 등비급수이다.\n|r| = 1/2 < 1이므로 수렴한다.\n합 = a / (1 - r) = 3 / (1 - 1/2) = 3 / (1/2) = 6",
+          "solTex": "S = \\dfrac{a}{1-r} = \\dfrac{3}{1 - \\frac{1}{2}} = \\dfrac{3}{\\frac{1}{2}} = 6",
+          "solNote": "등비급수 ∑ar^(n-1)은 |r| < 1일 때 수렴하며 합은 a/(1-r)이다.",
+          "tags": [
+            "등비급수",
+            "공비",
+            "시그마"
+          ],
+          "ans_index": 2,
+          "status": "approved",
+          "source": "week2_week2_sun_daily",
+          "source_id": 1,
+          "created_at": "2026-04-05",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "math_diff_도함수_d1_001",
+          "subject": "수학",
+          "unit": "수학Ⅱ",
+          "topic": "미분",
+          "subtype": "도함수",
+          "diff": 1,
+          "pts": 2,
+          "mode": "short",
+          "rec_time": "1:00",
+          "stem": "함수 f(x) = 2x^4 - 5x^2 + 3x에 대하여 f'(1)의 값을 구하시오.",
+          "tex": "f(x) = 2x^4 - 5x^2 + 3x",
+          "opts": null,
+          "ans": "1",
+          "solution": "f'(x) = 8x³ - 10x + 3\nf'(1) = 8(1)³ - 10(1) + 3\n= 8 - 10 + 3\n= 1",
+          "solTex": "f'(x) = 8x^3 - 10x + 3 \\\\ f'(1) = 8 - 10 + 3 = 1",
+          "solNote": null,
+          "tags": [
+            "도함수"
+          ],
+          "ans_index": null,
+          "status": "approved",
+          "source": "week1_week1_fri_daily",
+          "source_id": 2,
+          "created_at": "2026-03-27",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "math_diff_증감표_d2_003",
+          "subject": "수학",
+          "unit": "수학Ⅱ",
+          "topic": "미분",
+          "subtype": "증감표",
+          "diff": 2,
+          "pts": 3,
+          "mode": "short",
+          "rec_time": "3:00",
+          "stem": "함수 \\( f(x) = x^3 - 6x^2 + 9x + 2 \\)의 극댓값과 극솟값의 합을 구하시오.",
+          "tex": "f(x) = x^3 - 6x^2 + 9x + 2",
+          "opts": null,
+          "ans": "8",
+          "solution": "f'(x) = 3x²-12x+9 = 3(x-1)(x-3). 극대: f(1) = 1-6+9+2 = 6. 극소: f(3) = 27-54+27+2 = 2. 합 = 8",
+          "solTex": "f'(x) = 3(x-1)(x-3),\\quad f(1)=6,\\ f(3)=2,\\quad 6+2=8",
+          "solNote": null,
+          "tags": [
+            "도함수",
+            "극값"
+          ],
+          "ans_index": null,
+          "status": "approved",
+          "source": "math_라이트모의고사_sample",
+          "source_id": 10,
+          "created_at": "2026-03-23",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "math_misc_점화식_d2_003",
+          "subject": "수학",
+          "unit": "수학Ⅰ",
+          "topic": "수열점화식심화",
+          "subtype": "점화식",
+          "diff": 2,
+          "pts": 3,
+          "mode": "choice",
+          "rec_time": "2:30",
+          "stem": "수열 \\{a_n\\}이 a_1 = 4이고 모든 자연수 n에 대하여\n\\[ a_{n+1} = 2a_n - 2^n \\]\n을 만족시킬 때, a_5의 값은?",
+          "tex": "a_1 = 4, \\quad a_{n+1} = 2a_n - 2^n",
+          "opts": [
+            "① 0",
+            "② 2",
+            "③ 4",
+            "④ 8",
+            "⑤ 16"
+          ],
+          "ans": "0",
+          "solution": "직접 계산하면\na₁ = 4\na₂ = 2 · 4 - 2¹ = 8 - 2 = 6\na₃ = 2 · 6 - 2² = 12 - 4 = 8\na₄ = 2 · 8 - 2³ = 16 - 8 = 8\na₅ = 2 · 8 - 2⁴ = 16 - 16 = 0\n\n[일반항 유도]\naₙ₊₁ = 2aₙ - 2ⁿ의 양변을 2ⁿ⁺¹로 나누면\naₙ₊₁/2ⁿ⁺¹ = aₙ/2ⁿ - 1/2\nbₙ = aₙ/2ⁿ으로 놓으면 bₙ₊₁ = bₙ - 1/2\nb₁ = a₁/2 = 2이므로\nbₙ = 2 - (n-1)/2 = (5-n)/2\naₙ = 2ⁿ · (5-n)/2 = 2ⁿ⁻¹(5-n)\na₅ = 2⁴ · 0 = 0",
+          "solTex": "b_n = \\dfrac{a_n}{2^n}\\text{으로 놓으면} \\quad b_{n+1} = b_n - \\dfrac{1}{2} \\\\ b_1 = 2 \\implies b_n = \\dfrac{5-n}{2} \\\\ a_n = 2^{n-1}(5-n) \\\\ a_5 = 2^4 \\cdot (5-5) = 0",
+          "solNote": "점화식 aₙ₊₁ = paₙ + qⁿ 꼴에서 양변을 qⁿ⁺¹으로 나누어 새 수열을 도입하는 것이 정석이다. 직접 대입하여 구할 수도 있으나, 일반항까지 구해 두면 후속 문제에 대비할 수 있다.",
+          "tags": [
+            "일반항",
+            "점화식"
+          ],
+          "ans_index": 0,
+          "status": "approved",
+          "source": "week4_week4_mon_daily",
+          "source_id": 3,
+          "created_at": "2026-04-13",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "math_trig_삼각방정식_d2_006",
+          "subject": "수학",
+          "unit": "수학Ⅰ",
+          "topic": "삼각함수",
+          "subtype": "삼각방정식",
+          "diff": 2,
+          "pts": 3,
+          "mode": "short",
+          "rec_time": "3:00",
+          "stem": "0 ≤ x < 2π에서 방정식 \\( 2\\sin^2 x - 3\\sin x + 1 = 0 \\)의 모든 해의 합을 \\( \\dfrac{k\\pi}{6} \\)으로 나타낼 때, k의 값을 구하시오.",
+          "tex": "2\\sin^2 x - 3\\sin x + 1 = 0,\\quad 0 \\le x < 2\\pi",
+          "opts": null,
+          "ans": "9",
+          "solution": "sin x = t로 치환: 2t² − 3t + 1 = 0 → (2t − 1)(t − 1) = 0.\nt = 1/2 또는 t = 1.\n\nsin x = 1/2: x = π/6, 5π/6.\nsin x = 1: x = π/2.\n\n합 = π/6 + 5π/6 + π/2 = π/6 + 5π/6 + 3π/6 = 9π/6.\nk = 9.\n\n검산: sin(π/6)=1/2, sin(5π/6)=1/2, sin(π/2)=1 각각 대입하면 0 ✓",
+          "solTex": "\\sin x = \\frac{1}{2},\\,1 \\Rightarrow x = \\frac{\\pi}{6},\\,\\frac{5\\pi}{6},\\,\\frac{\\pi}{2}.\\;\\text{합} = \\frac{9\\pi}{6},\\;k=9",
+          "solNote": "이차방정식으로 변환 후 각 근에 대응하는 각도 모두 나열",
+          "tags": [
+            "삼각함수"
+          ],
+          "ans_index": null,
+          "status": "approved",
+          "source": "week3_week3_sat_weekly",
+          "source_id": 4,
+          "created_at": "2026-04-11",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "math_misc_삼각방정식_d2_001",
+          "subject": "수학",
+          "unit": "수학Ⅰ",
+          "topic": "삼각방정식",
+          "subtype": "삼각방정식",
+          "diff": 2,
+          "pts": 3,
+          "mode": "choice",
+          "rec_time": "2:30",
+          "stem": "방정식 2\\cos^2 x - 3\\cos x + 1 = 0 의 0 \\le x < 2\\pi 인 모든 해의 개수는?",
+          "tex": "2\\cos^2 x - 3\\cos x + 1 = 0, \\quad 0 \\le x < 2\\pi",
+          "opts": [
+            "① 1",
+            "② 2",
+            "③ 4",
+            "④ 5",
+            "⑤ 3"
+          ],
+          "ans": "4",
+          "solution": "2cos²x - 3cosx + 1 = 0\n(2cosx - 1)(cosx - 1) = 0\n\n(ⅰ) cosx = 1/2 → x = π/3, 5π/3  (2개)\n(ⅱ) cosx = 1  → x = 0  (1개)\n\n따라서 해의 개수는 3",
+          "solTex": "(2\\cos x - 1)(\\cos x - 1) = 0 \\\\ \\cos x = \\dfrac{1}{2} \\;\\Rightarrow\\; x = \\dfrac{\\pi}{3},\\; \\dfrac{5\\pi}{3} \\\\ \\cos x = 1 \\;\\Rightarrow\\; x = 0 \\\\ \\therefore\\; \\text{해의 개수} = 3",
+          "solNote": "cos에 대한 이차방정식으로 보고 인수분해한다. t = cosx로 치환하면 -1 ≤ t ≤ 1 범위에서 t = 1/2, t = 1 이 나옴을 확인하자.",
+          "tags": [
+            "삼각함수"
+          ],
+          "ans_index": 4,
+          "status": "approved",
+          "source": "week2_week2_tue_daily",
+          "source_id": 3,
+          "created_at": "2026-03-31",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "math_intg_넓이_d3_002",
+          "subject": "수학",
+          "unit": "수학Ⅱ",
+          "topic": "적분",
+          "subtype": "넓이",
+          "diff": 3,
+          "pts": 4,
+          "mode": "short",
+          "rec_time": "5:00",
+          "stem": "두 곡선 \\( y = x^2 \\)과 \\( y = 6x - x^2 \\)으로 둘러싸인 영역의 넓이를 구하시오.",
+          "tex": "y = x^2,\\quad y = 6x - x^2",
+          "opts": null,
+          "ans": "9",
+          "solution": "교점: x² = 6x − x² → 2x² − 6x = 0 → 2x(x − 3) = 0.\nx = 0 또는 x = 3.\n\n0 ≤ x ≤ 3에서 6x − x² ≥ x² (확인: x=1에서 5 > 1 ✓).\n\n넓이 = ∫₀³ (6x − 2x²) dx = [3x² − (2/3)x³]₀³\n= 27 − 18 = 9.\n\n검산: 3(9) − (2/3)(27) = 27 − 18 = 9 ✓",
+          "solTex": "\\int_0^3 (6x - 2x^2)\\,dx = [3x^2 - \\tfrac{2}{3}x^3]_0^3 = 27-18 = 9",
+          "solNote": "교점 구한 뒤 (위 함수 − 아래 함수) 적분",
+          "tags": [
+            "적분",
+            "넓이"
+          ],
+          "ans_index": null,
+          "status": "approved",
+          "source": "week2_week2_sat_weekly",
+          "source_id": 12,
+          "created_at": "2026-04-04",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        }
+      ]
+    },
+    {
+      "subject": "생활과윤리",
+      "type": "daily",
+      "questions": [
+        {
+          "qid": "ethics_내용_일치/불일치_d1_007",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "내용 일치/불일치",
+          "subtype": "내용 일치/불일치",
+          "diff": 1,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "윗글의 내용과 일치하는 것은?",
+          "passage": "노자(老子)의 사상에서 도(道)는 만물의 근원이자 원리이다. 도는 이름 붙일 수 없고(道可道 非常道), 형체가 없으며, 언어로 완전히 표현할 수 없다. 노자는 인위적인 제도, 법률, 도덕 규범이 오히려 인간의 자연스러운 삶을 해친다고 보았다. 이상적인 정치는 무위(無爲)의 정치이며, 이상적인 사회는 소국과민(小國寡民)의 사회이다. 물은 가장 낮은 곳으로 흐르면서도 만물을 이롭게 하므로, 겸허와 유약(柔弱)이 강함을 이긴다고 하였다.",
+          "passage_id": "eth_passage_017",
+          "thinker": "노자",
+          "opts": [
+            "① 노자는 인위적인 법률과 제도를 통한 강력한 통치를 주장하였다.",
+            "② 노자의 이상적인 사회는 대국다민(大國多民)의 사회이다.",
+            "③ 도는 명확한 이름과 형체를 가진 구체적 존재이다.",
+            "④ 노자는 적극적인 인위의 실천이 도(道)에 이르는 길이라고 보았다.",
+            "⑤ 노자는 겸허와 유약이 강함을 이긴다고 보았다."
+          ],
+          "ans": "4",
+          "ans_index": 4,
+          "solution": "지문에 '겸허와 유약(柔弱)이 강함을 이긴다고 하였다'고 명시되어 있다.",
+          "explanations": {
+            "correct": "지문에 '겸허와 유약(柔弱)이 강함을 이긴다고 하였다'고 명시되어 있다.",
+            "wrong": {
+              "1": "① 노자는 인위적인 제도와 법률이 자연스러운 삶을 해친다고 보았으며, 강력한 통치를 주장하지 않았다.",
+              "2": "② 노자의 이상 사회는 '소국과민(小國寡民)'이며, 대국다민이 아니다.",
+              "3": "③ 도는 '이름 붙일 수 없고 형체가 없다'고 하였다.",
+              "4": "④ 노자는 무위(無爲)를 강조하며, 인위의 적극적 실천과는 반대 입장이다."
+            },
+            "key_point": "노자 사상의 핵심: 무위자연, 소국과민, 겸허와 유약"
+          },
+          "solTex": null,
+          "solNote": "노자 사상의 핵심: 무위자연, 소국과민, 겸허와 유약",
+          "tags": [
+            "내용 일치/불일치",
+            "노자"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-4-07",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_내용_일치/불일치_d1_004",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "내용 일치/불일치",
+          "subtype": "내용 일치/불일치",
+          "diff": 1,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "윗글의 내용과 일치하지 않는 것은?",
+          "passage": "롤스(J. Rawls)의 정의론에서 정의의 두 원칙은 다음과 같다. 제1원칙(평등한 자유의 원칙)은 모든 사람이 다른 사람의 유사한 자유와 양립할 수 있는 가장 광범위한 기본적 자유에 대한 동등한 권리를 가져야 한다는 것이다. 제2원칙은 두 부분으로 나뉘는데, (a) 공정한 기회 균등의 원칙과 (b) 차등의 원칙이다. 차등의 원칙에 따르면, 사회적·경제적 불평등은 최소 수혜자에게 최대 이익이 될 때에만 허용된다. 이 두 원칙 사이에는 '사전적 순서(lexical order)'가 있어, 제1원칙이 제2원칙에 우선한다.",
+          "passage_id": "eth_passage_014",
+          "thinker": "롤스",
+          "opts": [
+            "① 제1원칙은 평등한 자유의 원칙이다.",
+            "② 차등의 원칙에 따르면 불평등은 최소 수혜자에게 이익이 될 때 허용된다.",
+            "③ 제2원칙에는 공정한 기회 균등의 원칙이 포함된다.",
+            "④ 제2원칙이 제1원칙에 우선한다.",
+            "⑤ 모든 사람은 기본적 자유에 대한 동등한 권리를 가져야 한다."
+          ],
+          "ans": "3",
+          "ans_index": 3,
+          "solution": "지문에 '제1원칙이 제2원칙에 우선한다'고 하였으므로, '제2원칙이 제1원칙에 우선한다'는 내용과 일치하지 않는다.",
+          "explanations": {
+            "correct": "지문에 '제1원칙이 제2원칙에 우선한다'고 하였으므로, '제2원칙이 제1원칙에 우선한다'는 내용과 일치하지 않는다.",
+            "wrong": {
+              "1": "① 지문에 '제1원칙(평등한 자유의 원칙)'이라고 명시되어 있다.",
+              "2": "② 지문에 '최소 수혜자에게 최대 이익이 될 때에만 허용된다'고 명시되어 있다.",
+              "3": "③ 지문에 제2원칙에 '공정한 기회 균등의 원칙'이 포함된다고 명시되어 있다.",
+              "5": "⑤ 지문에 '모든 사람이 기본적 자유에 대한 동등한 권리를 가져야 한다'고 명시되어 있다."
+            },
+            "key_point": "롤스 정의론의 사전적 순서: 제1원칙(자유)이 제2원칙(차등·기회 균등)에 우선"
+          },
+          "solTex": null,
+          "solNote": "롤스 정의론의 사전적 순서: 제1원칙(자유)이 제2원칙(차등·기회 균등)에 우선",
+          "tags": [
+            "내용 일치/불일치",
+            "롤스"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-4-04",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_내용_일치/불일치_d1_009",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "내용 일치/불일치",
+          "subtype": "내용 일치/불일치",
+          "diff": 1,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "윗글의 내용과 일치하는 것은?",
+          "passage": "아리스토텔레스의 덕윤리학에서 덕(arete)은 이성에 따라 중용(mesotes)을 실천하는 품성 상태이다. 덕은 타고나는 것이 아니라 반복적인 실천과 습관을 통해 형성된다. 예를 들어, 용기는 무모함(과잉)과 비겁함(결핍) 사이의 중용이고, 관대함은 낭비(과잉)와 인색함(결핍) 사이의 중용이다. 행복(에우다이모니아)은 덕에 따른 영혼의 활동이며, 이는 인간의 최고선이다. 인간의 고유한 기능인 이성적 활동을 탁월하게 수행할 때 행복에 이른다.",
+          "passage_id": "eth_passage_019",
+          "thinker": "아리스토텔레스",
+          "opts": [
+            "① 덕은 타고나는 것이며 후천적으로 형성할 수 없다.",
+            "② 용기는 무모함과 비겁함 사이의 중용이다.",
+            "③ 아리스토텔레스에 따르면 행복은 쾌락의 총합이다.",
+            "④ 중용은 항상 두 극단의 정확한 산술적 중간을 의미한다.",
+            "⑤ 행복은 물질적 부의 축적을 통해 달성된다."
+          ],
+          "ans": "1",
+          "ans_index": 1,
+          "solution": "지문에 '용기는 무모함(과잉)과 비겁함(결핍) 사이의 중용'이라고 명시되어 있다.",
+          "explanations": {
+            "correct": "지문에 '용기는 무모함(과잉)과 비겁함(결핍) 사이의 중용'이라고 명시되어 있다.",
+            "wrong": {
+              "1": "① 지문에 '덕은 타고나는 것이 아니라 반복적인 실천과 습관을 통해 형성된다'고 하였다.",
+              "3": "③ 지문에서 행복은 '덕에 따른 영혼의 활동'이며, 쾌락의 총합이라고 하지 않았다.",
+              "4": "④ 지문에서 중용의 예를 제시하였지만, 산술적 중간이라고는 하지 않았다.",
+              "5": "⑤ 지문에서 행복은 '이성적 활동을 탁월하게 수행할 때' 이르는 것이며, 물질적 부와 관련되지 않는다."
+            },
+            "key_point": "아리스토텔레스의 덕윤리: 중용, 덕의 후천적 형성, 에우다이모니아"
+          },
+          "solTex": null,
+          "solNote": "아리스토텔레스의 덕윤리: 중용, 덕의 후천적 형성, 에우다이모니아",
+          "tags": [
+            "내용 일치/불일치",
+            "아리스토텔레스"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-4-09",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_개념_적용_d2_004",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "개념 적용",
+          "subtype": "개념 적용",
+          "diff": 2,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 사례에 아리스토텔레스의 중용을 적용한 것으로 가장 적절한 것은?\n\n[사례] B는 친구가 잘못된 행동을 했을 때 어떻게 반응해야 할지 고민하고 있다.",
+          "passage": "아리스토텔레스의 중용(中庸, mesotes)은 두 극단 사이의 적절한 중간 상태를 의미한다. 예를 들어, 용기는 무모함(과잉)과 비겁함(결핍) 사이의 중용이다. 중용은 산술적 중간이 아니라, 상황과 개인에 따라 이성적 판단으로 결정되는 적절한 지점이다. 중용을 반복 실천함으로써 덕이 형성된다.",
+          "passage_id": "eth_passage_004",
+          "thinker": "아리스토텔레스",
+          "opts": [
+            "① 친구 관계를 유지하기 위해 어떤 잘못이든 무조건 감싸주어야 한다.",
+            "② 친구의 잘못을 공개적으로 비난하여 반성하게 해야 한다.",
+            "③ 잘못을 지적하되 친구의 감정을 배려하며 적절한 방식으로 충고해야 한다.",
+            "④ 다른 사람들이 어떻게 하는지 따라 하면 된다.",
+            "⑤ 친구의 행동에 어떤 반응도 하지 않고 무관심해야 한다."
+          ],
+          "ans": "2",
+          "ans_index": 2,
+          "solution": "아리스토텔레스의 중용에 따르면, 과도한 관용(무조건 감싸줌)과 과도한 비판(공개 비난) 사이에서 상황에 맞는 적절한 반응을 찾아야 한다. 배려 있는 충고가 두 극단의 중용에 해당한다.",
+          "explanations": {
+            "correct": "아리스토텔레스의 중용에 따르면, 과도한 관용(무조건 감싸줌)과 과도한 비판(공개 비난) 사이에서 상황에 맞는 적절한 반응을 찾아야 한다. 배려 있는 충고가 두 극단의 중용에 해당한다.",
+            "wrong": {
+              "1": "① 이는 관용의 과잉으로, 중용이 아닌 극단에 해당한다.",
+              "2": "② 이는 비판의 과잉으로, 중용이 아닌 극단에 해당한다.",
+              "4": "④ 중용은 다수의 행동을 따르는 것이 아니라, 개인의 이성적 판단에 의해 결정된다.",
+              "5": "⑤ 이는 감정의 결핍으로, 중용이 아닌 극단에 해당한다."
+            },
+            "key_point": "아리스토텔레스의 중용: 과잉과 결핍 사이에서 이성적으로 판단한 적절한 지점"
+          },
+          "solTex": null,
+          "solNote": "아리스토텔레스의 중용: 과잉과 결핍 사이에서 이성적으로 판단한 적절한 지점",
+          "tags": [
+            "개념 적용",
+            "아리스토텔레스"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-3-04",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_개념_적용_d2_008",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "개념 적용",
+          "subtype": "개념 적용",
+          "diff": 2,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "다음 사례에 대지 윤리를 적용한 것으로 가장 적절한 것은?\n\n[사례] F 지역에서 관광 수입을 위해 습지를 매립하여 대규모 리조트를 건설하려는 계획이 추진되고 있다. 해당 습지는 다양한 야생 동식물의 서식지이자 홍수 조절 기능을 한다.",
+          "passage": "레오폴드(A. Leopold)의 대지 윤리(Land Ethic)는 도덕적 공동체의 범위를 토양, 물, 식물, 동물을 포함하는 대지 공동체 전체로 확장한다. '어떤 것이 생명 공동체의 온전함, 안정성, 아름다움을 보전하는 데 기여한다면 옳고, 그렇지 않다면 그르다.' 인간은 대지 공동체의 정복자가 아니라 구성원이자 시민이다.",
+          "passage_id": "eth_passage_008",
+          "thinker": "레오폴드",
+          "opts": [
+            "① 경제적 이익이 환경적 가치보다 크므로 리조트를 건설해야 한다.",
+            "② 인간의 관광 욕구 충족이 자연 보전보다 우선한다.",
+            "③ 습지를 매립하더라도 다른 곳에 인공 습지를 만들면 문제가 없다.",
+            "④ 습지의 야생 동물만 다른 곳으로 이동시키면 건설이 가능하다.",
+            "⑤ 습지 생태계의 온전함과 안정성을 보전하는 것이 우선되어야 한다."
+          ],
+          "ans": "4",
+          "ans_index": 4,
+          "solution": "대지 윤리에 따르면, 생명 공동체의 온전함과 안정성, 아름다움을 보전하는 것이 옳다. 습지 생태계는 대지 공동체의 중요한 구성 요소이므로 이를 파괴하는 것은 그르다.",
+          "explanations": {
+            "correct": "대지 윤리에 따르면, 생명 공동체의 온전함과 안정성, 아름다움을 보전하는 것이 옳다. 습지 생태계는 대지 공동체의 중요한 구성 요소이므로 이를 파괴하는 것은 그르다.",
+            "wrong": {
+              "1": "① 대지 윤리는 경제적 이익보다 생태계의 온전함을 우선시한다.",
+              "2": "② 대지 윤리에서 인간은 대지 공동체의 구성원일 뿐, 정복자가 아니므로 인간의 욕구가 자연보다 우선하지 않는다.",
+              "3": "③ 인공 습지는 자연 습지의 복잡한 생태적 기능을 완전히 대체할 수 없으며, 대지 윤리의 정신과 맞지 않는다.",
+              "4": "④ 대지 윤리는 개별 동물의 이동이 아닌 생태계 전체의 온전함을 중시한다."
+            },
+            "key_point": "레오폴드의 대지 윤리: 생명 공동체의 온전함·안정성·아름다움 보전이 도덕적 기준"
+          },
+          "solTex": null,
+          "solNote": "레오폴드의 대지 윤리: 생명 공동체의 온전함·안정성·아름다움 보전이 도덕적 기준",
+          "tags": [
+            "개념 적용",
+            "레오폴드"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-3-08",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_갑을_대화_분석_d2_009",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "갑을 대화 분석",
+          "subtype": "갑을 대화 분석",
+          "diff": 2,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "갑, 을의 입장에 대한 설명으로 가장 적절한 것은?",
+          "passage": "갑: 핵에너지는 탄소 배출이 적고 효율이 높은 에너지원입니다. 기후 변화에 대응하기 위해 핵발전소의 확대가 필요합니다.\n을: 핵에너지는 사고 위험이 크고, 방사성 폐기물 처리 문제가 해결되지 않았습니다. 미래 세대에게 위험한 폐기물을 물려주는 것은 세대 간 정의에 어긋납니다.",
+          "passage_id": "eth_passage_029",
+          "thinker": null,
+          "opts": [
+            "① 갑은 환경 보호를 위해 모든 형태의 에너지 사용을 중단해야 한다고 본다.",
+            "② 을은 기후 변화가 실재하지 않는다고 주장한다.",
+            "③ 갑과 을 모두 재생 에너지만이 유일한 대안이라고 본다.",
+            "④ 갑은 현재 세대의 에너지 수요를, 을은 미래 세대에 대한 책임을 강조한다.",
+            "⑤ 을은 갑과 달리 탄소 배출 감소의 필요성을 부정한다."
+          ],
+          "ans": "3",
+          "ans_index": 3,
+          "solution": "갑은 기후 변화 대응을 위한 현재 세대의 에너지 수요 해결(핵에너지 활용)을 강조하고, 을은 방사성 폐기물을 통해 미래 세대에 미치는 영향(세대 간 정의)을 강조한다.",
+          "explanations": {
+            "correct": "갑은 기후 변화 대응을 위한 현재 세대의 에너지 수요 해결(핵에너지 활용)을 강조하고, 을은 방사성 폐기물을 통해 미래 세대에 미치는 영향(세대 간 정의)을 강조한다.",
+            "wrong": {
+              "1": "① 갑은 핵에너지를 통한 에너지 생산을 지지하며, 모든 에너지 사용 중단을 주장하지 않는다.",
+              "2": "② 을도 기후 변화의 실재를 부정하지 않으며, 핵에너지의 위험성에 초점을 맞추고 있다.",
+              "3": "③ 갑은 핵에너지를, 을은 핵에너지의 위험성을 논하며, 둘 다 재생 에너지만이 유일한 대안이라고 말하지 않는다.",
+              "5": "⑤ 을은 탄소 배출 감소의 필요성을 부정하지 않으며, 그 방법으로서 핵에너지를 반대하는 것이다."
+            },
+            "key_point": "핵에너지 윤리에서 현재 세대의 에너지 수요와 미래 세대에 대한 책임(세대 간 정의)"
+          },
+          "solTex": null,
+          "solNote": "핵에너지 윤리에서 현재 세대의 에너지 수요와 미래 세대에 대한 책임(세대 간 정의)",
+          "tags": [
+            "갑을 대화 분석"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-2-09",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_갑을_대화_분석_d2_001",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "갑을 대화 분석",
+          "subtype": "갑을 대화 분석",
+          "diff": 2,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "갑의 입장에서 을에게 할 수 있는 반론으로 가장 적절한 것은?",
+          "passage": "갑: 안락사는 환자의 자율성을 존중하는 행위입니다. 불치병으로 극심한 고통을 겪는 환자가 스스로 죽음을 선택할 권리가 있어요.\n을: 생명은 신성하며 어떤 이유로든 인위적으로 끝내서는 안 됩니다. 의료인의 역할은 생명을 살리는 것이지 죽음을 돕는 것이 아닙니다.",
+          "passage_id": "eth_passage_021",
+          "thinker": null,
+          "opts": [
+            "① 회복 가능성이 없는 환자의 고통을 무시하는 것이야말로 인간 존엄성에 반한다.",
+            "② 의료 기술의 발전으로 모든 고통을 해결할 수 있으므로 안락사가 불필요하다.",
+            "③ 환자의 의사와 무관하게 가족이 안락사를 결정할 수 있어야 한다.",
+            "④ 생명의 신성함은 종교적 신념일 뿐 보편적 도덕 원칙이 될 수 없다.",
+            "⑤ 의료비 절감을 위해 안락사를 적극 활용해야 한다."
+          ],
+          "ans": "0",
+          "ans_index": 0,
+          "solution": "갑은 환자의 자율성과 존엄성을 중시하므로, 회복 불가능한 환자의 극심한 고통을 무시하고 생명만을 유지하는 것이 오히려 인간 존엄성에 반한다고 반론할 수 있다.",
+          "explanations": {
+            "correct": "갑은 환자의 자율성과 존엄성을 중시하므로, 회복 불가능한 환자의 극심한 고통을 무시하고 생명만을 유지하는 것이 오히려 인간 존엄성에 반한다고 반론할 수 있다.",
+            "wrong": {
+              "2": "② 이는 오히려 을의 입장을 강화하는 주장이며, 갑의 반론이 될 수 없다.",
+              "3": "③ 갑은 환자 본인의 자율적 선택을 강조하므로, 가족의 결정권 주장은 갑의 입장과 맞지 않는다.",
+              "4": "④ 갑의 주장은 자율성 존중에 기반한 것이지, 생명의 신성함이 종교적이라는 비판이 핵심이 아니다.",
+              "5": "⑤ 갑은 환자의 존엄성과 자율성을 근거로 안락사를 주장하며, 경제적 이유는 갑의 입장이 아니다."
+            },
+            "key_point": "안락사 찬성론(자율성·존엄성)과 반대론(생명의 신성함)의 핵심 쟁점"
+          },
+          "solTex": null,
+          "solNote": "안락사 찬성론(자율성·존엄성)과 반대론(생명의 신성함)의 핵심 쟁점",
+          "tags": [
+            "갑을 대화 분석"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-2-01",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_사상가_입장_비교_d3_010",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "사상가 입장 비교",
+          "subtype": "사상가 입장 비교",
+          "diff": 3,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "을이 갑의 입장을 비판할 내용으로 가장 적절한 것은?",
+          "passage": "갑: 군자는 의(義)에 밝고 소인은 이(利)에 밝다. 정치란 바르게 하는 것이니, 위정자가 몸소 바른 행실을 보이면 백성이 저절로 따를 것이다. 덕(德)으로 이끌고 예(禮)로 질서를 세워야 한다.\n을: 도(道)에서 벗어나 인위적으로 인(仁)과 의(義)를 내세우는 것은 이미 자연의 질서가 무너졌다는 증거이다. 큰 도가 폐해지니 인의(仁義)가 나타난 것이다. 무위(無爲)로 다스리면 천하가 저절로 바르게 된다.",
+          "passage_id": "eth_passage_050",
+          "thinker": null,
+          "opts": [
+            "① 인위적으로 덕과 예를 내세우는 것은 오히려 자연의 질서를 해친다.",
+            "② 법과 제도를 통한 통치가 덕치보다 효과적이다.",
+            "③ 위정자의 도덕적 수양만으로는 경제적 문제를 해결할 수 없다.",
+            "④ 감각 능력이 있는 모든 존재에 대한 평등한 배려가 필요하다.",
+            "⑤ 최대 다수의 행복을 위해 개인의 덕보다 사회적 효용을 고려해야 한다."
+          ],
+          "ans": "0",
+          "ans_index": 0,
+          "solution": "노자(을)는 인위적인 도덕 규범(인·의·예)을 내세우는 것 자체가 자연의 순리(도)에서 벗어난 것이라고 본다. 따라서 공자(갑)가 덕과 예를 강조하는 것이 오히려 자연의 질서를 해치는 인위라고 비판할 것이다.",
+          "explanations": {
+            "correct": "노자(을)는 인위적인 도덕 규범(인·의·예)을 내세우는 것 자체가 자연의 순리(도)에서 벗어난 것이라고 본다. 따라서 공자(갑)가 덕과 예를 강조하는 것이 오히려 자연의 질서를 해치는 인위라고 비판할 것이다.",
+            "wrong": {
+              "2": "② 이는 법가(한비자 등)의 입장이며, 노자(을)는 법과 제도 역시 인위적인 것으로 반대한다.",
+              "3": "③ 이는 경제적 관점의 비판이며, 노자(을)의 핵심 비판 내용이 아니다.",
+              "4": "④ 이는 싱어의 동물 해방론 입장이며, 노자(을)의 사상과 관련이 없다.",
+              "5": "⑤ 이는 공리주의의 입장이며, 노자(을)의 비판 내용이 아니다."
+            },
+            "key_point": "노자의 관점에서 공자 비판: 인의예지(仁義禮智) 같은 인위적 도덕은 도(道)에서 벗어난 것"
+          },
+          "solTex": null,
+          "solNote": "노자의 관점에서 공자 비판: 인의예지(仁義禮智) 같은 인위적 도덕은 도(道)에서 벗어난 것",
+          "tags": [
+            "사상가 입장 비교"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-1-10",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_사상가_입장_비교_d3_009",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "사상가 입장 비교",
+          "subtype": "사상가 입장 비교",
+          "diff": 3,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "갑, 을의 입장에 대한 설명으로 가장 적절한 것은?",
+          "passage": "갑: 자연은 도덕적 고려의 대상이 되어야 한다. 대지, 물, 식물, 동물을 포함하는 대지 공동체 전체의 온전함과 안정성, 아름다움을 보전하는 것이 옳다.\n을: 쾌락과 고통을 느낄 수 있는 능력, 즉 감각 능력이 도덕적 고려의 기준이다. 종(種)이 다르다는 이유만으로 동물의 이익을 무시하는 것은 종차별주의이다.",
+          "passage_id": "eth_passage_049",
+          "thinker": null,
+          "opts": [
+            "① 갑은 인간만이 도덕적 고려의 대상이라고 본다.",
+            "② 을은 모든 생명체가 동등한 도덕적 지위를 가진다고 본다.",
+            "③ 갑은 을보다 도덕적 고려의 범위를 좁게 설정한다.",
+            "④ 을은 감각 능력을 도덕적 고려의 기준으로 제시한다.",
+            "⑤ 갑과 을 모두 자연의 도구적 가치만을 인정한다."
+          ],
+          "ans": "3",
+          "ans_index": 3,
+          "solution": "싱어(을)는 쾌락과 고통을 느낄 수 있는 감각 능력(sentience)을 도덕적 고려의 기준으로 제시하며, 이를 근거로 종차별주의를 비판한다.",
+          "explanations": {
+            "correct": "싱어(을)는 쾌락과 고통을 느낄 수 있는 감각 능력(sentience)을 도덕적 고려의 기준으로 제시하며, 이를 근거로 종차별주의를 비판한다.",
+            "wrong": {
+              "1": "① 레오폴드(갑)는 대지 공동체 전체를 도덕적 고려의 대상으로 확장하므로 인간만을 대상으로 보지 않는다.",
+              "2": "② 싱어(을)는 감각 능력의 유무를 기준으로 하므로, 감각이 없는 식물이나 생태계에는 직접적인 도덕적 지위를 부여하지 않는다. 모든 생명체의 동등한 지위를 주장하지는 않는다.",
+              "3": "③ 레오폴드(갑)는 대지 공동체 전체(생태계)까지 도덕적 고려의 범위에 포함하므로, 싱어(을)보다 범위가 더 넓다.",
+              "5": "⑤ 갑(레오폴드)은 자연의 내재적 가치를 인정하며, 을(싱어)도 동물의 이익 그 자체를 도덕적으로 고려하므로 도구적 가치만을 인정하지 않는다."
+            },
+            "key_point": "레오폴드(생태중심주의, 대지윤리)와 싱어(동물중심주의, 감각 능력 기준)의 도덕적 고려 범위 차이"
+          },
+          "solTex": null,
+          "solNote": "레오폴드(생태중심주의, 대지윤리)와 싱어(동물중심주의, 감각 능력 기준)의 도덕적 고려 범위 차이",
+          "tags": [
+            "사상가 입장 비교"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-1-09",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        },
+        {
+          "qid": "ethics_입장_평가_d3_009",
+          "subject": "생활과윤리",
+          "unit": "생활과윤리",
+          "topic": "입장 평가",
+          "subtype": "입장 평가",
+          "diff": 3,
+          "pts": 2,
+          "mode": "choice",
+          "rec_time": "1:30",
+          "stem": "갑의 입장에 대한 평가로 가장 적절한 것은?",
+          "passage": "갑: 동물 해방론에 따르면, 고통을 느낄 수 있는 모든 존재의 이익은 동등하게 고려되어야 합니다. 종(種)이 다르다는 이유만으로 동물의 이익을 무시하는 것은 종차별주의입니다. 따라서 식용을 위한 공장식 축산, 동물 실험, 동물원과 서커스에서의 동물 이용은 도덕적으로 정당화될 수 없습니다.",
+          "passage_id": "eth_passage_039",
+          "thinker": null,
+          "opts": [
+            "① 동물의 고통을 줄이려는 노력 자체가 불필요하다.",
+            "② 이익의 동등한 고려가 실질적으로 인간과 동물에게 동일한 대우를 의미하는 것인지에 대한 해석이 모호하다.",
+            "③ 감각 능력이 도덕적 고려의 유일한 기준이 될 수 있는지에 대한 의문이 제기될 수 있다.",
+            "④ 동물에게 고통을 느끼는 능력이 있다는 과학적 근거가 전혀 없다.",
+            "⑤ 인간의 이익은 어떤 경우에도 동물의 이익보다 절대적으로 우선한다."
+          ],
+          "ans": "2",
+          "ans_index": 2,
+          "solution": "싱어의 동물 해방론은 감각 능력(sentience)을 도덕적 고려의 핵심 기준으로 삼지만, 이성적 사고 능력, 도덕적 행위 능력 등 다른 도덕적으로 관련된 특성을 간과할 수 있다는 비판이 가능하다.",
+          "explanations": {
+            "correct": "싱어의 동물 해방론은 감각 능력(sentience)을 도덕적 고려의 핵심 기준으로 삼지만, 이성적 사고 능력, 도덕적 행위 능력 등 다른 도덕적으로 관련된 특성을 간과할 수 있다는 비판이 가능하다.",
+            "wrong": {
+              "1": "① 동물 고통 감소 노력의 불필요성은 대부분의 윤리적 관점에서 수용되기 어렵다.",
+              "2": "② 이것도 일부 타당하지만, ③이 더 근본적인 비판이다. 이익의 동등한 고려는 동일한 대우가 아닌 동등한 '고려'를 의미한다고 싱어가 설명하고 있다.",
+              "4": "④ 동물의 고통 감각 능력에 대한 과학적 증거는 충분히 있다.",
+              "5": "⑤ 이는 종차별주의에 해당하며, 갑이 비판하는 바로 그 입장이다."
+            },
+            "key_point": "동물 해방론 비판: 감각 능력만으로 도덕적 고려의 기준을 설정하는 것의 한계"
+          },
+          "solTex": null,
+          "solNote": "동물 해방론 비판: 감각 능력만으로 도덕적 고려의 기준을 설정하는 것의 한계",
+          "tags": [
+            "입장 평가"
+          ],
+          "status": "approved",
+          "source": "ethics-seed",
+          "source_id": "eth-5-09",
+          "created_at": "2026-03-26",
+          "used_count": 1,
+          "last_used": "2026-03-26"
+        }
+      ]
+    }
+  ]
+}
